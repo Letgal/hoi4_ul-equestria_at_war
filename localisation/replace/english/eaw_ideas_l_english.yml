@@ -96,8 +96,8 @@
 
  no_crystals_reactor_prevent:0 "No available Crystals for Nuclear Reactors"
 
- generic_race_idea:0 "Unspecified Race"
- race_pointer:0 "Race"
+ generic_race_idea: "Невизначена раса"
+ race_pointer: "Раса"
 
  ###Super Secret###
  GEU_united_STG:0 "A United Nation"

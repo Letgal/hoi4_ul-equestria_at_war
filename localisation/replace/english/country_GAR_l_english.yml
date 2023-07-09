@@ -21,7 +21,7 @@
  #Go 
 
  ### IDEAS ###
- GAR_gargoyles_race:0 "The Gargoyle Race"
+ GAR_gargoyles_race: "Раса ґарґулій"
 
  ### MODIFIERS ###
  GAR_infantry_speed:0 "Infantry Speed"
