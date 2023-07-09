@@ -108,9 +108,9 @@
  HIP_insult_EQS:0 "Diplomatic Insults"
 
 
- scheisswald_forest:0 "Scheißwald Forest"
- eygsic_forest:0 "Eygsic Forest"
- centaur_forest:0 "Strange Forest"
+ scheisswald_forest: "Ліс Шайсвальд"
+ eygsic_forest: "Ліс Ейґсік"
+ centaur_forest: "Дивний Ліс"
  water_modifier_pirate_raids_name:0 "Pirate Raids"
  water_modifier_pirate_raids_icon:0 "GFX_modifiers_weather_icons:8"
 

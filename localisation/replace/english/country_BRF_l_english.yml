@@ -1,5 +1,4 @@
 ﻿l_english:
-
 #CHARACTER DESCRIPTIONS & ADVISORS
 BRF_Kloseu_desc:0 "King Kloseu de Kissau is the first ruler of the Kingdom of Brodfeld. He became the Prince of Brodfeld in 963 ALB and was elected Domnitor (ruling prince) of Kivessin and Sydia in 965 ALB. In 973 ALB, when the Griffonian Empire was falling apart, Kloseu declared independence and claimed the title of King of Brodfeld. He was crowned in the Grand Temple of Eviliana in Kivessin by Prelate Denali.\n\nDuring his rule Brodfeld grew wealthier and became known as the ricebasket of Griffonia, yet blight caused the Great Famine in 995 ALB. After the economic crisis of the new millenium, Kloseu declared a state of emergency in 1001 ALB which granted him autocratic powers and cracked down on any disorder and dissent, restoring stability in Brodfeld.\n\nThe peace was brief, however, as in 1003 ALB an assassination attempt was made on him while he was spectating a military parade in Kivessin with his wife. He was merely wounded on his cheek, but his wife died in his embrace. Afterwards he blamed communists and banned all communist organizations, yet members of PCP resisted arrest, formed the GLA and rebelled. The civil war began."
 BRF_Kloseu_fasc_desc:0 "King Kloseu de Kissau has become Autocrat of All Prywhen, the undisputed ruler of Brodfeld with nigh-unlimited powers. The military and the members of the fanatical Golden Guard are unquestionably loyal to him, while those who oppose him know their doom is near. The griffons of Prywhen simply call him 'Conducator', Leader, the chosen one of goddess Eviliana and their mighty master."
@@ -999,17 +998,17 @@ BRF_request_cores_desc:0 "Allied soldiers have occupied some former GLA territor
 BRF_core_salmarkt:0 "Reintegrate Salmarkt"
 BRF_core_salmarkt_desc:0 "Before the civil war, we were the rightful owners of Salmarkt which Emperor Grover I had granted to us centuries ago. Cyanolisian bastards took advantage of our weakness and seized the province, but now we have reclaimed our clay. It is time to remove any remnants of Cyanolisian rule and reinstate the laws of the Brodfeldian crown."
 
-BRF_nonaligned:0 "Brodfeldian Thaw"
-BRF_democ_welcome_democrats:0 "Pardon the Democrats"
+BRF_nonaligned: "Бродфельдська відлига"
+BRF_democ_welcome_democrats: "Помилувати демократів"
 BRF_democ_welcome_democrats_desc:0 "The supporters of democracy and harmony did nothing wrong and were unjustly banished. This abhorrent decision must be overturned and our citizens welcomed back!"
-BRF_open_borders:0 "Open The Borders"
+BRF_open_borders: "Відкрити кордони"
 BRF_open_borders_desc:0 "Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore. Send these, the homeless, tempest-tost to me, I lift my lamp beside the Golden door!"
 
-BRF_rename_redgladin:0 "Rename Redgladin To Kivessin"
+BRF_rename_redgladin: "Перейменувати Редґледін у Ківессін"
 BRF_rename_redgladin_desc:0 "After the communists of the Griffon Liberation Army secured their control of Kivessin, they renamed it to Redgladin to honour their fallen comrade. Thus they wished to rewrite history and erase the monarchist past of Prywhen, for the city had been the capital of the Kissau dynasty. The people of the city never quite accepted the new name and continue to use the old one. Now that the communists of Prywhen have been dealt with, why keep the name at all? Redgladin shall officially be Kivessin once again."
 
-BRF_anti_communist_war:0 "Launch Crusade Against [From.GetNameDef]"
-BRF_anti_communist_war_desc:0 ""
+BRF_anti_communist_war: "Розпочати хрестовий похід проти держави [From.GetNameDef]"
+BRF_anti_communist_war_desc: ""
 
 RICE_FIELDS_FAMINE:0 "This will §Greduce§! the risk of §Rfamine!§!\n"
 RICE_FIELDS_FAMINE2:0 "Reduces the effects of an ongoing §Rfamine.§!"
@@ -1052,8 +1051,8 @@ REMOVE_PENALTIES:0 "The opening move has been made. Now, the game can truly begi
 
 BRF_ALLIANCE:0 "Alliance of Evi"
 
-BRF_Main:0 "Brodfeld Focus Tree"
-BRF_Mason_Tree:0 "Masonic Focus Tree"
+BRF_Main: "Дерево фокусів Бродфельду"
+BRF_Mason_Tree: "Дерево фокусів масонів"
 
 BRF_voice_of_reason:0 "Voice of Reason"
 

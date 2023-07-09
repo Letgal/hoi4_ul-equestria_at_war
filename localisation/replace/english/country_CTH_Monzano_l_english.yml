@@ -1,5 +1,4 @@
 ﻿l_english:
-
 CTH_MZO_eye_of_the_storm:0 "In the Eye of the Storm"
 CTH_MZO_eye_of_the_storm_desc:0 "In the eye of a hurricane there is quiet, for just a moment, we can think without clouds. War is upon us, and it is time to make preparations."
 
@@ -97,12 +96,7 @@ CTH_MZO_cut_the_arteries_tt:0 "§GCompleting§! this §Cfocus§! will result in 
 CTH_MZO_death_from_above_tt:0 "\n§GCompleting§! this §Cfocus§! will spawn two §Y8§! §gWidth§! units of §YParatroopers§! in §YColthage§!"
 CTH_MZO_race_to_trotkat_tt:0 "\n§GCompleting§! this §Cfocus§! will spawn two §Y6§! §gWidth§! units of §YIFVs§! in §YColthage§!"
 
-
-
 MZN_CTH_won_the_civil_war:0 "§YWe have endured.§!"
-
-
-
 
 #EVENTS
 colthage_monzano_cw.1.t:0 "The Defense of Zur"
@@ -172,7 +166,6 @@ colthage_monzano_cw_untriggered.3.d2:0 "A steady stream of refugees and soldiers
 colthage_monzano_cw_untriggered.3.a:0 "What have I done?.."
 colthage_monzano_cw_untriggered.3.b:0 "We did all we could. It just wasn't enough."
 
-
 #EVENT TOOLTIPS
 CTH_MZN_CW_zur_stands_tt:0 "\nWe shall and must defend Zur, §Rno matter the cost.§!\n"
 CTH_MZN_CW_fleeing_from_zur_tt:0 "\nWe will make an orderly retreat from Zur, §Rmay Za'al have mercy on its people.§!\n"
@@ -181,7 +174,6 @@ CTH_MZN_CW_zaphod_yi_sun_sin_moment_tt:0 "\n§CThe Fleet of Colthage has regroup
 CTH_MZO_cash_win_wars_tt:0 "§CImin Azkan is added as one of our advisors!§!"
 
 #FLAGS
-
 CTH_MZN_CW_zur_stands_flag:0 "§CWe have chosen to defend Zur.§!"
 CTH_MZN_CW_fleeing_from_zur_flag:0 "§YWe have chosen to retreat from Zur.§!"
 
@@ -234,73 +226,62 @@ CTH_MZN_race_to_trotkat_desc:0 "To capture our target with the most optimal spee
 CTH_MZN_zaals_temple_aid:0 "Za'al's Blessing"
 CTH_MZN_zaals_temple_aid_desc:0 ""
 
-
 #IDEAS TOOLTIP
 CTH_MZO_radio_disruption_tt:0 "This §YNational Spirit§! will be replaced by an §RWeaker Version of Itself§! upon §YExpiration.§!"
 CTH_MZN_growing_food_supply_tt:0 "This §YNational Spirit§! will be replaced by an §CImproved Version of Itself§! upon §YExpiration.§!"
 CTH_zur_improvised_gun_idea_trait_tt:0 "Weekly §YGun§! Production: §G+50§! units"
 
 #DYNAMIC MODIFIERS
-
 MZN_CTH_CW_zur_stand_modifier:0 "The Battle of Zur"
 MZN_CTH_CW_zur_stand_modifier_desc:0 "Our troops are few but our enemy does motivate them."
 MZN_CTH_CW_zur_retreat_modifier:0 "The Retreat from Zur"
 MZN_CTH_CW_zur_retreat_modifier_desc:0 "It is we great shame that we leave this city in the hooves of the mad stallion."
 
-
 #DECISIONS
-
 CTH_MNZ_civil_war_decisions:0 "Civil War Measures"
 CTH_MNZ_civil_war_decisions_desc:0 ""
 CTH_MNZ_civil_war_army_remnants:0 "Army Remnants arriving in Colthage"
 CTH_MNZ_civil_war_army_remnants_desc:0 ""
 
 #DECISION TOOLTIPs
-
-CTH_MNZ_civil_war_army_remnants_tt:0 "\n§YVarious loyalists across the country are rallying to our banner!§! This mission on §Ctimeout§! will spawn two §Y12§! §gWidth§! reconstituted §Yinfantry divisions§! in §YColthage§!"
+ CTH_MNZ_civil_war_army_remnants_tt:0 "\n§YVarious loyalists across the country are rallying to our banner!§! This mission on §Ctimeout§! will spawn two §Y12§! §gWidth§! reconstituted §Yinfantry divisions§! in §YColthage§!"
 
 #CHARACTER 
+ MZN_Imin_Azkan_name:0 "Imin Azkan"
 
-MZN_Imin_Azkan_name:0 "Imin Azkan"
-
-CTH_MZN_Jezabzella_Zeshmid_idea_desc:0 "Jezabzella Zeshmid wishes she could have spared Colthage the horrors of Zarishat, but it seems she wept for her brother more than she did. She has returned to the city of her birth to ensure the citizens of Colthage will not suffer any longer under insane cultists or zebras like Gerza who only care for themselves. While she is generally seen as a lady of high society, unsuited for wartime, Jezabzella intends to prove to Monzano that when needed, she can bring the heat to the war room just as much as the dance floor."
-CTH_MZN_Zalathel_Zarca_idea_desc:0 "Zalathel Zarca, once the most powerful Zebra in Colthage, thrown out of his seat of power by the Constitutionalists, has been on the sidelines for too long. He has wept watching his nation suffer under incompetent regime after incompetent regime, and while he always plotted his return, he never expected it to come so soon. Upon receiving Monzano's invitation, Zalathel flew into a flurry of action, bringing his siblings together and returning to his homeland with any supporters he still had, ready to retake his nation from insanity. And hopefully to one day be again on top."
-MZN_Imin_Azkan_idea_desc:0 "Imin Azkan is... an oddity within Monzano's war cabinet. A minor patrician and a former member of Colthage's lower house during the Zarcid years, his inclusion in government came about after he assisted the government in fundraising efforts at the beginning of the civil war and met Monzano in the process. If you look a bit further in the past, one could find Azkan's numerous treatises on what he thinks Zarcid foreign policy should be. Books and papers that Monzano has taken a keen interest in as she looks towards the post-civil war period. His connections smoothing tensions over other patricians don't hurt his case either."
+ CTH_MZN_Jezabzella_Zeshmid_idea_desc:0 "Jezabzella Zeshmid wishes she could have spared Colthage the horrors of Zarishat, but it seems she wept for her brother more than she did. She has returned to the city of her birth to ensure the citizens of Colthage will not suffer any longer under insane cultists or zebras like Gerza who only care for themselves. While she is generally seen as a lady of high society, unsuited for wartime, Jezabzella intends to prove to Monzano that when needed, she can bring the heat to the war room just as much as the dance floor."
+ CTH_MZN_Zalathel_Zarca_idea_desc:0 "Zalathel Zarca, once the most powerful Zebra in Colthage, thrown out of his seat of power by the Constitutionalists, has been on the sidelines for too long. He has wept watching his nation suffer under incompetent regime after incompetent regime, and while he always plotted his return, he never expected it to come so soon. Upon receiving Monzano's invitation, Zalathel flew into a flurry of action, bringing his siblings together and returning to his homeland with any supporters he still had, ready to retake his nation from insanity. And hopefully to one day be again on top."
+ MZN_Imin_Azkan_idea_desc:0 "Imin Azkan is... an oddity within Monzano's war cabinet. A minor patrician and a former member of Colthage's lower house during the Zarcid years, his inclusion in government came about after he assisted the government in fundraising efforts at the beginning of the civil war and met Monzano in the process. If you look a bit further in the past, one could find Azkan's numerous treatises on what he thinks Zarcid foreign policy should be. Books and papers that Monzano has taken a keen interest in as she looks towards the post-civil war period. His connections smoothing tensions over other patricians don't hurt his case either."
 
 #CHARACTER TRAITS
-
-MZN_military_crowdfunder:0 "Military Crowdfunder"
-CTH_MZN_Zarcid_patriarch:0 "Zarcid Patriarch"
+ MZN_military_crowdfunder:0 "Military Crowdfunder"
+ CTH_MZN_Zarcid_patriarch:0 "Zarcid Patriarch"
 
 #TAGS
+ CTH_MZN_CW: "Кольтфагенська федеральна армія"
+ CTH_MZN_CW_DEF: "Сили Кольтфагенської федеральної армії"
+ CTH_MZN_CW_ADJ: "Кольтфагенськ"
 
-CTH_MZN_CW:0 "Colthaginian Federal Army"
-CTH_MZN_CW_ADJ:0 "Colthaginian"
-CTH_MZN_CW_DEF:0 "the Colthaginian Federal Army Forces"
+ CTH_MZN_POST_CW: "Тимчасова директорія Кольтфагенської співдружності"
+ CTH_MZN_POST_CW_DEF: "Тимчасова директорія Кольтфагенської співдружності"
+ CTH_MZN_POST_CW_ADJ: "Кольтфагенськ"
 
-CTH_MZN_POST_CW:0 "Provisional Directory of the Commonwealth of Colthage"
-CTH_MZN_POST_CW_ADJ:0 "Colthaginian"
-CTH_MZN_POST_CW_DEF:0 "the Provisional Directory of the Commonwealth of Colthage"
+ CTH_MON_commonwealth: "Північнозебриканська співдружність"
+ CTH_MON_commonwealth_DEF: "Північнозебриканська співдружність"
+ CTH_MON_commonwealth_ADJ: "Північнозебриканськ"
 
-CTH_MON_commonwealth:0 "North Zebrican Commonwealth"
-CTH_MON_commonwealth_ADJ:0 "North Zebrican"
-CTH_MON_commonwealth_DEF:0 "the North Zebrican Commonwealth"
+ BAT_CTH_MON_puppet: "Хіроптеррська зона відбудови"
+ BAT_CTH_MON_puppet_DEF: "Хіроптеррська зона відбудови"
+ BAT_CTH_MON_puppet_ADJ: "Хіроптеррськ"
 
-BAT_CTH_MON_puppet:0 "Chiropterran Reconstruction Zone"
-BAT_CTH_MON_puppet_ADJ:0 "Chiropterran"
-BAT_CTH_MON_puppet_DEF:0 "the Chiropterran Reconstruction Zone"
-
-CVA_CTH_MON_puppet:0 "Kar-Alpaka Autonomous Region"
-CVA_CTH_MON_puppet_ADJ:0 "Kar-Alpakan"
-CVA_CTH_MON_puppet_DEF:0 "the Kar-Alpaka Autonomous Region"
+ CVA_CTH_MON_puppet: "Автономний регіон Кар-Альпака"
+ CVA_CTH_MON_puppet_DEF: "Автономний регіон Кар-Альпака"
+ CVA_CTH_MON_puppet_ADJ: "Кар-альпацьк"
 
 #PARTY NAMES
-
-CTH_MZN_party_name_neutrality_long:0 "Provisional Junta of the Colthaginian Federal Army"
-CTH_MZN_party_name_neutrality:0 "Provisional Junta"
+ CTH_MZN_party_name_neutrality_long:0 "Provisional Junta of the Colthaginian Federal Army"
+ CTH_MZN_party_name_neutrality:0 "Provisional Junta"
 
 #Stuff cuz unfinished
-
-CTH_MZN_not_finished_dont_be_mad_tt:0 "\n\n§YThis path is §Rnot finished.§! The playable content in it extends only to the end of the civil war, however, we have decided to keep it in for your enjoyment (and also to balance the civil war a bit,) but we still encourage you to try it out. Have fun!§!"
-
-CTH_MZN_not_finished_dont_be_mad_cliffhanger_tt:0 "§YColthage's journey to repentance and freedom will continue in;§! §CNorth Zebrica 2: Monzano's Electric Boogaloo§!\n\n§CI cannot thank you enough for playing this path, what started as a wacky single thought became a flood of ideas that simply could not be implemented fast enough for Zebrica's release. I hope you will look forward to Monzano's eventual expansion. And remember, freedom is worth fighting for. -Kingston§!"
+ CTH_MZN_not_finished_dont_be_mad_tt:0 "\n\n§YThis path is §Rnot finished.§! The playable content in it extends only to the end of the civil war, however, we have decided to keep it in for your enjoyment (and also to balance the civil war a bit,) but we still encourage you to try it out. Have fun!§!"
+ CTH_MZN_not_finished_dont_be_mad_cliffhanger_tt:0 "§YColthage's journey to repentance and freedom will continue in;§! §CNorth Zebrica 2: Monzano's Electric Boogaloo§!\n\n§CI cannot thank you enough for playing this path, what started as a wacky single thought became a flood of ideas that simply could not be implemented fast enough for Zebrica's release. I hope you will look forward to Monzano's eventual expansion. And remember, freedom is worth fighting for. -Kingston§!"
