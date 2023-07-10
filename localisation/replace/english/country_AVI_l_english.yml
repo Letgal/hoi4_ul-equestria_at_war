@@ -727,9 +727,9 @@ cede_marcher_lordship:0 "Cede Westkeep and Illeagle"
  HAU_AVI_fascism_DEF: "Герцогство Гаукленд"
  HAU_AVI_fascism_ADJ: "Гауклендськ"
 
- FAT_AVI_fascism: "Велике герцогство Клаудб’юрі"
- FAT_AVI_fascism_DEF: "Велике герцогство Клаудб’юрі"
- FAT_AVI_fascism_ADJ: "Клаудб’юріськ"
+ FAT_AVI_fascism: "Велике герцогство Клаудбері"
+ FAT_AVI_fascism_DEF: "Велике герцогство Клаудбері"
+ FAT_AVI_fascism_ADJ: "Клаудберіськ"
 
  ROU_AVI_fascism: "Вільне місто Ромау"
  ROU_AVI_fascism_DEF: "Вільне місто Ромау"

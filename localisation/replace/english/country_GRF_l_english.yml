@@ -890,25 +890,24 @@ newsg.10.t:0 "The March of the Falcons"
  
  
  ### Traits ###
- ruthless_capitalist:0 "Ruthless Capitalist"
+ ruthless_capitalist: "Безжальний капіталіст"
  
  ### Cosmetic Tags ###
- GRF_shadowrun_fascism:0 "Nova Griffonia®"
- GRF_shadowrun_fascism_DEF:0 "Nova Griffonia®"
- GRF_shadowrun_fascism_ADJ:0 "Nova Griffonian®"
+ GRF_shadowrun_fascism: "Нова-Грифонія®"
+ GRF_shadowrun_fascism_DEF: "Нова-Грифонія®"
+ GRF_shadowrun_fascism_ADJ: "Нова-грифонськ®"
  
  ### Party Names ###
  GRF_corporate:0 "Talon Gunworks"
  GRF_corporate_long:0 "Talon Gunworks Inc."
-
  
  ### Factions ###
- GRF_pact_of_north:0 "Northern Bloc"
- GRF_socialist_pact:0 "Northern Union of Socialist States"
+ GRF_pact_of_north: "Північний Блок"
+ GRF_socialist_pact: "Північний союз соціалістичних держав"
  
  ### Tech Sharing ###
- northern_science_organisation_name:0 "Northern Academic Organisation"
- northern_science_organisation_desc:0 ""
+ northern_science_organisation_name: "Академічна організація Півночі"
+ northern_science_organisation_desc: ""
 
  ### Decisions ###
  seize_control_of_241:0 "Seize Village Up North"

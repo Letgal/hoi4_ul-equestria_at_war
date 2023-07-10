@@ -329,12 +329,14 @@
  EQS_TNO_lessonzero_desc.11:0 "§RDestiny lies ahead.§!"
  EQS_TNO_lessonzero_desc.12:0 "§RSundown.§!"
  
- EQS_TWI_TABBY:0 "Canterlonian Regency"
- EQS_TWI_TABBY_DEF:0 "the Regency of the Principality of Equestria"
- EQS_TWI_TABBY_ADJ:0 "Equestrian"
- EQS_TWI_TABBY_REUNIFIED: "Holy Equestrian Principality"
- EQS_TWI_TABBY_REUNIFIED_DEF:0 "the Regency of the Holy Principality of Equestria"
- EQS_TWI_TABBY_REUNIFIED_ADJ:0 "Equestrian"
+ EQS_TWI_TABBY: "Кантерлотське регентство"
+ EQS_TWI_TABBY_DEF: "Регентство Еквестрійського князівства"
+ EQS_TWI_TABBY_ADJ: "Еквестрійськ"
+
+ EQS_TWI_TABBY_REUNIFIED: "Священне Еквестрійське Князівство"
+ EQS_TWI_TABBY_REUNIFIED_DEF: "Регентство Священного Еквестрійського Князівства"
+ EQS_TWI_TABBY_REUNIFIED_ADJ: "Еквестрійськ"
+
  EQS_TWI_TABBY_party:0 "Twilight's Regency"
  EQS_TWI_TABBY_REGENT_TRAIT:0 "The Celestial Regent"
  ##TBD
@@ -342,18 +344,19 @@
  ### EVERYTHING UESR RELATED ###
  
  ### PARTIES AND COSMETIC TAGS ###
- EQS_UESR_neutrality:0 "Equestrian Republic"
- EQS_UESR_neutrality_DEF:0 "the Equestrian Republic"
- EQS_UESR_neutrality_ADJ:0 "Equestrian"
- EQS_UESR_democratic:0 "Equestrian Federation"
- EQS_UESR_democratic_DEF:0 "the Equestrian Federation"
- EQS_UESR_democratic_ADJ:0 "Equestrian"
- EQS_UESR_fascism:0 "Equestrian State"
- EQS_UESR_fascism_DEF:0 "the Equestrian State"
- EQS_UESR_fascism_ADJ:0 "Equestrian"
- EQS_UESR_communism:0 "Union of Equestrian Socialist Republics"
- EQS_UESR_communism_DEF:0 "the Union of Equestrian Socialist Republics"
- EQS_UESR_communism_ADJ:0 "Equestrian"
+ EQS_UESR_fascism: "Еквестрійська держава"
+ EQS_UESR_fascism_DEF: "Еквестрійська держава"
+ EQS_UESR_fascism_ADJ: "Еквестрійськ"
+ EQS_UESR_democratic: "Еквестрійська федерація"
+ EQS_UESR_democratic_DEF: "Еквестрійська федерація"
+ EQS_UESR_democratic_ADJ: "Еквестрійськ"
+ EQS_UESR_neutrality: "Еквестрійська республіка"
+ EQS_UESR_neutrality_DEF: "Еквестрійська республіка"
+ EQS_UESR_neutrality_ADJ: "Еквестрійськ"
+ EQS_UESR_communism: "Союз Еквестрійських Соціалістичних Республік"
+ EQS_UESR_communism_DEF: "Союз Еквестрійських Соціалістичних Республік"
+ EQS_UESR_communism_ADJ: "Еквестрійськ"
+
  UESR_fascist_party_long:0 "Brainwashed Zealots"
  UESR_fascist_party:0 "Brainwashed Zealots"
  UESR_neutrality_party_long:0 "Wayward Traditionalists"
@@ -758,18 +761,19 @@
  
  
  ## Unicornian Sisterhood ##
- EQS_EUS_neutrality:0 "Unicornian Kingdom"
- EQS_EUS_neutrality_DEF:0 "the Unicornian Kingdom"
- EQS_EUS_neutrality_ADJ:0 "Unicornian"
- EQS_EUS_democratic:0 "Federal Republic of Unicornia"
- EQS_EUS_democratic_DEF:0 "the Federal Republic of Unicornia"
- EQS_EUS_democratic_ADJ:0 "Unicornian"
- EQS_EUS_fascism:0 "Unicornian Sisterhood"
- EQS_EUS_fascism_DEF:0 "the Unicornian Sisterhood"
- EQS_EUS_fascism_ADJ:0 "Unicornian"
- EQS_EUS_communism:0 "Socialist Unicorns' Republic"
- EQS_EUS_communism_DEF:0 "the Socialist Unicorns' Republic"
- EQS_EUS_communism_ADJ:0 "Unicorn"
+ EQS_EUS_fascism: "Єдинороже сестринство"
+ EQS_EUS_fascism_DEF: "Єдинороже сестринство"
+ EQS_EUS_fascism_ADJ: "Єдинорож"
+ EQS_EUS_democratic: "Федеративна республіка Юнікорнія"
+ EQS_EUS_democratic_DEF: "Федеративна республіка Юнікорнія"
+ EQS_EUS_democratic_ADJ: "Єдинорож"
+ EQS_EUS_neutrality: "Єдинороже королівство"
+ EQS_EUS_neutrality_DEF: "Єдинороже королівство"
+ EQS_EUS_neutrality_ADJ: "Єдинорож"
+ EQS_EUS_communism: "Соціалістична Єдинорожа Республіка"
+ EQS_EUS_communism_DEF: "Соціалістична Єдинорожа Республіка"
+ EQS_EUS_communism_ADJ: "Єдинорож"
+
  EUS_fascist_party_long:0 "Einhornische Schwesternschaft"
  EUS_fascist_party:0 "Ein. Schwesternschaft"
  EUS_neutrality_party_long:0 ""
@@ -778,13 +782,15 @@
  EUS_democratic_party:0 ""
  EUS_communism_party_long:0 ""
  EUS_communism_party:0 ""
+
  EUS_country_leader:0 "Gutriosa"
  EUS_country_leader_desc:0 "§YBorn§!: UNKNOWN\n\n§YBiography§!: §RSeeing is believing.§!\n\n§YPortrait by§!: Egil"
  
  ## Princessdom of Equestria ##
- EQS_POE:0 "Princessdom of Equestria"
- EQS_POE_DEF:0 "the Princessdom of Equestria"
- EQS_POE_ADJ:0 "Equestrian"
+ EQS_POE: "Еквестрійське княгинство"
+ EQS_POE_DEF: "Еквестрійське княгинство"
+ EQS_POE_ADJ: "Еквестрійськ"
+
  POE_fascist_party_long:0 ""
  POE_fascist_party:0 ""
  POE_neutrality_party_long:0 "The Old Court of Equestria"
@@ -793,12 +799,14 @@
  POE_democratic_party:0 ""
  POE_communism_party_long:0 ""
  POE_communism_party:0 ""
+
  POE_country_leader:0 "Platinum II"
  
  ## Equinist Republic of Equestria ##
- EQS_ERE:0 "Equinist Republic of Equestria"
- EQS_ERE_DEF:0 "the Equinist Republic of Equestria"
- EQS_ERE_ADJ:0 "Equestrian"
+ EQS_ERE: "Еквіністська республіка Еквестрія"
+ EQS_ERE_DEF: "Еквіністська республіка Еквестрія"
+ EQS_ERE_ADJ: "Еквестрійськ"
+
  ERE_fascist_party_long:0 "Bastillards"
  ERE_fascist_party:0 "Bastillards"
  ERE_neutrality_party_long:0 "Conservatives"
@@ -823,4 +831,3 @@
  EQS_TNO_buckharin_advert_tt:0 "§CPlay TNO's April Fool's EaW Crossover in their mod!§!"
  EQS_TNO_twilight_stage_3_tt:0 "§RThe pieces on the board are set. The deadline has arrived. It is time to ascend.§!"
  EQS_TNO_midnight_ends_tt:0 "§GCelestia and Luna will restore Equestria, and return normalcy to Ponykind.§!\n\n§CThis is the end of April Fool's Midnight. Thanks for playing!\n-Baron and the EaW Dev Team§!"
- 

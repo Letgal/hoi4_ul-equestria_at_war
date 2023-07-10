@@ -637,10 +637,10 @@ ded_the_reborn:0 "The Reborn"
 ded_the_first:0 "The First"
 
 #Ideas
-DED_AP_magehold:0 "Magehold"
-DED_AP_magehold_desc:0 "The Dread Peninsula is a land forgotten to all but the Order. Nobody can infiltrate us."
-DED_AP_magehold_lar:0 "Magehold"
-DED_AP_magehold_lar_desc:0 "The Dread Peninsula is a land forgotten to all but the Order. Nobody can infiltrate us."
+DED_AP_magehold: "Мейджголд"
+DED_AP_magehold_desc: "Півострів Жаху — земля, забута всіма, крім Ордену. Ніхто не може проникнути сюди."
+DED_AP_magehold_lar: "Мейджголд"
+DED_AP_magehold_lar_desc: "Півострів Жаху — земля, забута всіма, крім Ордену. Ніхто не може проникнути сюди."
 
 DED_APN_no_conscription:0 "Alexander Evans"
 DED_APN_no_conscription_desc:0 "This desc shouldn't be seen, so I'll use it to explain why this idea got this name: Memes."
@@ -803,12 +803,12 @@ DED_pankov_desc:0 "Do you hate the Antichrist?\nSometimes I think that humanity 
 
 
 
-DED_APN_consciousness_fascism:0 "Dread Consciousness"
-DED_APN_consciousness_fascism_DEF:0 "the Dread Consciousness"
-DED_APN_consciousness_fascism_ADJ:0 "Necromancer"
-DED_APN_scourge_fascism:0 "Dread Scourge"
-DED_APN_scourge_fascism_DEF:0 "the Dread Scourge"
-DED_APN_scourge_fascism_ADJ:0 "Necromancer"
+DED_APN_consciousness_fascism: "Свідомість Жаху"
+DED_APN_consciousness_fascism_DEF: "Свідомість Жаху"
+DED_APN_consciousness_fascism_ADJ: "Некромантськ"
+DED_APN_scourge_fascism: "Рій Жаху"
+DED_APN_scourge_fascism_DEF: "Рій Жаху"
+DED_APN_scourge_fascism_ADJ: "Некромантськ"
 
 
 
@@ -825,5 +825,5 @@ DED_glimpses_of_immortality_tp:0 "§YWith the dominance and rising numbers of mi
 DED_vampire_leaders:0 "Midnight Aristocracy"
 DED_vampire_leaders_long:0 "The Midnight Aristocracy"
 
-DED_VMP:0 "Kingdom of Midnight"
-DED_VAM:0 "Kingdom of Eternity" 
+DED_VMP: "Королівство Опівночі"
+DED_VAM: "Королівство Вічності"

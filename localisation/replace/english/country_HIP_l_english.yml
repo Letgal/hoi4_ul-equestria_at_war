@@ -85,34 +85,34 @@
  WNG_posada_communism_ADJ:0 "South Griffonian"
 
  HIE_HIP_puppet:0 "Hippone"
- HIE_HIP_puppet_DEF:0 "the Hipponian Republic"
+ HIE_HIP_puppet_DEF:0 "Hipponian Republic"
  
  TRO_HIP_puppet:0 "Trotkat"
- TRO_HIP_puppet_DEF:0 "the Trotkatian Republic"
+ TRO_HIP_puppet_DEF:0 "Trotkatian Republic"
 
  CDR_HIP_puppet:0 "Coltdar"
- CDR_HIP_puppet_DEF:0 "the Coltdari Republic"
+ CDR_HIP_puppet_DEF:0 "Coltdari Republic"
 
  CTH_HIP_puppet:0 "Colthage"
- CTH_HIP_puppet_DEF:0 "the Colthaginian Republic"
+ CTH_HIP_puppet_DEF:0 "Colthaginian Republic"
 
- CVA_HIP_puppet:0 "Coltva"
- CVA_HIP_puppet_DEF:0 "the Coltvan Republic"
+ CVA_HIP_puppet: "Кольтва"
+ CVA_HIP_puppet_DEF: "Кольтвинська республіка"
 
  HIP_cultist_fascism:0 "Cultists of the Abyss"
  HIP_cultist_fascism_DEF:0 "Cultists of the Abyss"
  HIP_cultist_fascism_ADJ:0 "Cultist"
  
- HIP_loyalist_democratic:0 "Hippogriffia"
- HIP_loyalist_democratic_DEF:0 "Hippogriffia"
- HIP_loyalist_democratic_ADJ:0 "Hippogriffian"
+ HIP_loyalist_democratic: "Гіппогрифія"
+ HIP_loyalist_democratic_DEF: "Гіппогрифія"
+ HIP_loyalist_democratic_ADJ: "Гіппогрифськ"
  
- HIP_siren_fascism:0 "Sirenalia"
- HIP_siren_fascism_DEF:0 "Sirenalia"
- HIP_siren_fascism_ADJ:0 "Siren"
+ HIP_siren_fascism: "Сиреналія"
+ HIP_siren_fascism_DEF: "Сиреналія"
+ HIP_siren_fascism_ADJ: "Сиренськ"
 
  HIP_GNU_fascism:0 "Government of National Unity"
- HIP_GNU_fascism_DEF:0 "the Government of National Unity"
+ HIP_GNU_fascism_DEF:0 "Government of National Unity"
  HIP_GNU_fascism_ADJ:0 "GNU"
  HIP_GNU_democratic:0 "Free Aris"
  HIP_GNU_democratic_DEF:0 "Free Aris"

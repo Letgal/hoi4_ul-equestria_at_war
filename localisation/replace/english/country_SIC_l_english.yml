@@ -52,13 +52,13 @@
  SIC_oligarquia_faction:0 "Oligarquía"
  
 ##Opinion Modifiers
- SIC_antimonarchism:0 "Anti-Monarchism"
- SIC_minotaur_friends:0 "Minotaur Friends" 
- SIC_bandits:0 "Criminal Disdain"
- SIC_historical_trade_partners:0 "Historical Trade Partners"
- SIC_returned_national_treasures:0 "Returned Minotaur National Treasures" 
- SIC_looking_to_buy:0 "Sicameon Looking to Buy" 
- SIC_MIT_bridge:0 "Eryth-Ketta Bridge"
+ SIC_antimonarchism: "Антимонархізм"
+ SIC_minotaur_friends: "Друзі-мінотаври" 
+ SIC_bandits: "Зневага до злочинців"
+ SIC_historical_trade_partners: "Історичні торгові партнери"
+ SIC_returned_national_treasures: "Повернули національні скарби мінотаврів" 
+ SIC_looking_to_buy: "Сікамеон бажає придбати" 
+ SIC_MIT_bridge: "Еритсько-кеттський міст"
  
 #SIC custom techs
  SIC_unorthodox_advance:0 "Unorthodox Advance"
