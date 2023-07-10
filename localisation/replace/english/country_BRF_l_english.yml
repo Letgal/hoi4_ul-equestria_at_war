@@ -1004,10 +1004,10 @@ BRF_democ_welcome_democrats_desc:0 "The supporters of democracy and harmony did 
 BRF_open_borders: "Відкрити кордони"
 BRF_open_borders_desc:0 "Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore. Send these, the homeless, tempest-tost to me, I lift my lamp beside the Golden door!"
 
-BRF_rename_redgladin: "Перейменувати Редґледін у Ківессін"
+BRF_rename_redgladin: "Перейменувати Редґледин у Ківессин"
 BRF_rename_redgladin_desc:0 "After the communists of the Griffon Liberation Army secured their control of Kivessin, they renamed it to Redgladin to honour their fallen comrade. Thus they wished to rewrite history and erase the monarchist past of Prywhen, for the city had been the capital of the Kissau dynasty. The people of the city never quite accepted the new name and continue to use the old one. Now that the communists of Prywhen have been dealt with, why keep the name at all? Redgladin shall officially be Kivessin once again."
 
-BRF_anti_communist_war: "Розпочати хрестовий похід проти держави [From.GetNameDef]"
+BRF_anti_communist_war: "Розпочати священний похід проти держави [From.GetNameDef]"
 BRF_anti_communist_war_desc: ""
 
 RICE_FIELDS_FAMINE:0 "This will §Greduce§! the risk of §Rfamine!§!\n"

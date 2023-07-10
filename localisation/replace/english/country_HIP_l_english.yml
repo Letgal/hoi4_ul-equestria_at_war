@@ -1,9 +1,131 @@
 ﻿l_english:
- ### COUNTRYNAME ###
-
-
- ### LEADER DESCRIPTIONS ###
+### COUNTRYNAME ###
+ HIP_posada_fascism: "Національна революційна Гіппогрифія"
+ HIP_posada_fascism_DEF: "Національна революційна Гіппогрифія"
+ HIP_posada_fascism_ADJ: "Гіппогрифськ"
+ HIP_posada_democratic: "Народна федерація Північної Зебрики"
+ HIP_posada_democratic_DEF: "Народна федерація Північної Зебрики"
+ HIP_posada_democratic_ADJ: "Північнозебриканськ"
+ HIP_posada_neutrality: "Комунальна Північна Зебрика"
+ HIP_posada_neutrality_DEF: "Федеративні спільноти Північної Зебрики"
+ HIP_posada_neutrality_ADJ: "Північнозебриканськ"
+ HIP_posada_communism: "Революційна Північна Зебрика"
+ HIP_posada_communism_DEF: "Революційна Північна Зебрика"
+ HIP_posada_communism_ADJ: "Північнозебриканськ"
+ HIP_hardline_communism: "Комітет світової революції"
+ HIP_hardline_communism_DEF: "Комітет світової революції"
+ HIP_hardline_communism_ADJ: "Революційн"
  
+ HIP_anarchy_communism: "Сіквестрія"
+ HIP_anarchy_communism_DEF: "Постцивілізаційні спільноти Сіквестрії й Гіппогрифії"
+ HIP_anarchy_communism_ADJ: "Сіквестрійськ"
+
+ HIP_salina_communism: "Робітнича республіка Аріс"
+ HIP_salina_communism_DEF: "Робітнича республіка Аріс"
+ HIP_salina_communism_ADJ: "Аріськ"
+ HIP_salina_democratic: "Робітнича республіка Аріс"
+ HIP_salina_democratic_DEF: "Робітнича республіка Аріс"
+ HIP_salina_democratic_ADJ: "Аріськ"
+
+ HIP_monsoc_kingdom_democratic: "Соціалістичне короліство Аріс"
+ HIP_monsoc_kingdom_democratic_DEF: "Соціалістичне короліство Аріс"
+ HIP_monsoc_kingdom_democratic_ADJ: "Аріськ"
+ HIP_monsoc_kingdom_communism: "Соціалістичне короліство Аріс"
+ HIP_monsoc_kingdom_communism_DEF: "Соціалістичне короліство Аріс"
+ HIP_monsoc_kingdom_communism_ADJ: "Аріськ"
+
+ BAT_posada_communism: "Хіроптерра"
+ BAT_posada_communism_DEF: "Хіроптерра"
+ BAT_posada_communism_ADJ: "Хіроптеррськ"
+
+ WNG_posada_communism: "Революційна Південна Грифонія"
+ WNG_posada_communism_DEF: "Революційна Південна Грифонія"
+ WNG_posada_communism_ADJ: "Південногрифонськ"
+
+ HIE_HIP_puppet: "Гіппон"
+ HIE_HIP_puppet_DEF: "Гіппонська республіка"
+ 
+ TRO_HIP_puppet: "Троткат"
+ TRO_HIP_puppet_DEF: "Троткатська республіка"
+
+ CDR_HIP_puppet: "Кольтдар"
+ CDR_HIP_puppet_DEF: "Кольтдарська республіка"
+
+ CTH_HIP_puppet: "Кольтфаген"
+ CTH_HIP_puppet_DEF: "Кольтфагенська республіка"
+
+ CVA_HIP_puppet: "Кольтва"
+ CVA_HIP_puppet_DEF: "Кольтвинська республіка"
+
+ HIP_cultist_fascism: "Культисти Безодні"
+ HIP_cultist_fascism_DEF: "Культисти Безодні"
+ HIP_cultist_fascism_ADJ: "Культистськ"
+ 
+ HIP_loyalist_democratic: "Гіппогрифія"
+ HIP_loyalist_democratic_DEF: "Гіппогрифія"
+ HIP_loyalist_democratic_ADJ: "Гіппогрифськ"
+ 
+ HIP_siren_fascism: "Сиреналія"
+ HIP_siren_fascism_DEF: "Сиреналія"
+ HIP_siren_fascism_ADJ: "Сиренськ"
+
+ HIP_GNU_fascism: "Уряд національної єдності"
+ HIP_GNU_fascism_DEF: "Уряд національної єдності"
+ HIP_GNU_fascism_ADJ: "УНЄськ"
+ HIP_GNU_democratic: "Вільний Аріс"
+ HIP_GNU_democratic_DEF: "Вільний Аріс"
+ HIP_GNU_democratic_ADJ: "Аріськ"
+ HIP_GNU_neutrality: "Вільний Аріс"
+ HIP_GNU_neutrality_def: "Вільний Аріс"
+ HIP_GNU_neutrality_ADJ: "Аріськ"
+ HIP_GNU_communism: "Вільний Аріс"
+ HIP_GNU_communism_DEF: "Вільний Аріс"
+ HIP_GNU_communism_ADJ: "Аріськ"
+
+ HIP_corpo_fascism: "Тимчасовий уряд Арісу"
+ HIP_corpo_fascism_desc: "Тимчасовий уряд Арісу"
+ HIP_corpo_fascism_ADJ: "Аріськ"
+ HIP_corpo_communism: "Робітнича республіка Аріс"
+ HIP_corpo_communism_DEF: "Робітнича республіка Аріс"
+ HIP_corpo_communism_ADJ: "Аріськ"
+ HIP_corpo_democratic: "Сполучене короліство Арісу"
+ HIP_corpo_democratic_DEF: "Сполучене короліство Арісу"
+ HIP_corpo_democratic_ADJ: "Аріськ"
+ HIP_corpo_neutrality: "Сполучене короліство Арісу"
+ HIP_corpo_neutrality_DEF: "Сполучене короліство Арісу"
+ HIP_corpo_neutrality_ADJ: "Аріськ"
+
+ HIP_united_society_fascism: "Фалангістський Аріс"
+ HIP_united_society_fascism_DEF: "Національна фалангістська держава Арісу"
+ HIP_united_society_fascism_ADJ: "Аріськ"
+ HIP_united_society_democratic: "Сполучене короліство Арісу"
+ HIP_united_society_democratic_DEF: "Сполучене короліство Арісу"
+ HIP_united_society_democratic_ADJ: "Аріськ"
+ HIP_united_society_neutrality: "Сполучене короліство Арісу"
+ HIP_united_society_neutrality_DEF: "Сполучене короліство Арісу"
+ HIP_united_society_neutrality_ADJ: "Аріськ"
+ HIP_united_society_communism: "Революційний Аріс"
+ HIP_united_society_communism_DEF: "Революційний Аріс"
+ HIP_united_society_communism_ADJ: "Аріськ"
+ 
+ HIP_united_society_2_fascism: "Фалангістський Аріс"
+ HIP_united_society_2_fascism_DEF: "Національна фалангістська держава Арісу"
+ HIP_united_society_2_fascism_ADJ: "Аріськ"
+ HIP_united_society_2_democratic: "Сполучене короліство Арісу"
+ HIP_united_society_2_democratic_DEF: "Сполучене короліство Арісу"
+ HIP_united_society_2_democratic_ADJ: "Аріськ"
+ HIP_united_society_2_neutrality: "Сполучене короліство Арісу"
+ HIP_united_society_2_neutrality_DEF: "Сполучене короліство Арісу"
+ HIP_united_society_2_neutrality_ADJ: "Аріськ"
+ HIP_united_society_2_communism: "Революційний Аріс"
+ HIP_united_society_2_communism_DEF: "Революційний Аріс"
+ HIP_united_society_2_communism_ADJ: "Аріськ"
+ 
+ HIP_MILITARY_fascism: "Військовий уряд Арісу"
+ HIP_MILITARY_fascism_DEF: "Військовий уряд Арісу"
+ HIP_MILITARY_fascism_ADJ: "Аріськ"
+
+### LEADER DESCRIPTIONS ###
  HIP_queen_novo:0 "Queen Novo"
  HIP_stratus_skyranger:0 "Stratus Skyranger"
  HIP_posada:0 "Posada"
@@ -32,7 +154,7 @@
  HIP_SIR_aria:0 "Aria Blaze"
  HIP_SIR_sonata:0 "Sonata Dusk"
  
- ### PARTIES ###
+### PARTIES ###
  HIP_neutrality_party:0 "Non-Harmonists"
  HIP_neutrality_party_long:0 "Non-Harmonists"
  HIP_communism_party:0 "Socialists"
@@ -41,101 +163,6 @@
  HIP_democratic_party_long:0 "Royal Court"
  HIP_fascism_party:0 "Nationalists"
  HIP_fascism_party_long:0 "Nationalists"
-
- HIP_posada_communism:0 "Revolutionary North Zebrica"
- HIP_posada_communism_DEF:0 "Revolutionary North Zebrica"
- HIP_posada_communism_ADJ:0 "North Zebrican"
- HIP_hardline_communism:0 "Committee of World Revolution"
- HIP_hardline_communism_DEF:0 "the Committee of World Revolution"
- HIP_hardline_communism_ADJ:0 "Revolutionary"
- HIP_posada_fascism:0 "National Revolutionary Hippogriffia"
- HIP_posada_fascism_DEF:0 "National Revolutionary Hippogriffia"
- HIP_posada_fascism_ADJ:0 "Hippogriff"
- HIP_posada_neutrality:0 "Communal North Zebrica"
- HIP_posada_neutrality_DEF:0 "the Federated Communities of North Zebrica"
- HIP_posada_neutrality_ADJ:0 "North Zebrican"
- HIP_posada_democratic:0 "People's North Zebrican Federation"
- HIP_posada_democratic_DEF:0 "People's North Zebrican Federation"
- HIP_posada_democratic_ADJ:0 "North Zebrican"
- 
- HIP_anarchy_communism:0 "Seaquestria"
- HIP_anarchy_communism_DEF:0 "the Post-Civilization Communities of Seaquestria and Hippogriffia"
- HIP_anarchy_communism_ADJ:0 "Seaquestrian"
-
- HIP_salina_communism:0 "Workers' Republic of Aris"
- HIP_salina_communism_DEF:0 "the Workers' Republic of Aris"
- HIP_salina_communism_ADJ:0 "Arisian"
- HIP_salina_democratic:0 "Workers' Republic of Aris"
- HIP_salina_democratic_DEF:0 "the Workers' Republic of Aris"
- HIP_salina_democratic_ADJ:0 "Arisian"
-
- HIP_monsoc_kingdom_democratic:0 "Socialist Kingdom of Aris"
- HIP_monsoc_kingdom_democratic_DEF:0 "the Socialist Kingdom of Aris"
- HIP_monsoc_kingdom_democratic_ADJ:0 "Arisian"
- HIP_monsoc_kingdom_communism:0 "Socialist Kingdom of Aris"
- HIP_monsoc_kingdom_communism_DEF:0 "the Socialist Kingdom of Aris"
- HIP_monsoc_kingdom_communism_ADJ:0 "Arisian"
-
- BAT_posada_communism:0 "Chiropterra"
- BAT_posada_communism_DEF:0 "Chiropterra"
- BAT_posada_communism_ADJ:0 "Chiropterran"
-
- WNG_posada_communism:0 "Revolutionary South Griffonia"
- WNG_posada_communism_DEF:0 "Revolutionary South Griffonia"
- WNG_posada_communism_ADJ:0 "South Griffonian"
-
- HIE_HIP_puppet:0 "Hippone"
- HIE_HIP_puppet_DEF:0 "Hipponian Republic"
- 
- TRO_HIP_puppet:0 "Trotkat"
- TRO_HIP_puppet_DEF:0 "Trotkatian Republic"
-
- CDR_HIP_puppet:0 "Coltdar"
- CDR_HIP_puppet_DEF:0 "Coltdari Republic"
-
- CTH_HIP_puppet:0 "Colthage"
- CTH_HIP_puppet_DEF:0 "Colthaginian Republic"
-
- CVA_HIP_puppet: "Кольтва"
- CVA_HIP_puppet_DEF: "Кольтвинська республіка"
-
- HIP_cultist_fascism:0 "Cultists of the Abyss"
- HIP_cultist_fascism_DEF:0 "Cultists of the Abyss"
- HIP_cultist_fascism_ADJ:0 "Cultist"
- 
- HIP_loyalist_democratic: "Гіппогрифія"
- HIP_loyalist_democratic_DEF: "Гіппогрифія"
- HIP_loyalist_democratic_ADJ: "Гіппогрифськ"
- 
- HIP_siren_fascism: "Сиреналія"
- HIP_siren_fascism_DEF: "Сиреналія"
- HIP_siren_fascism_ADJ: "Сиренськ"
-
- HIP_GNU_fascism:0 "Government of National Unity"
- HIP_GNU_fascism_DEF:0 "Government of National Unity"
- HIP_GNU_fascism_ADJ:0 "GNU"
- HIP_GNU_democratic:0 "Free Aris"
- HIP_GNU_democratic_DEF:0 "Free Aris"
- HIP_GNU_democratic_ADJ:0 "Arisian"
- HIP_GNU_neutrality:0 "Free Aris"
- HIP_GNU_neutrality_def:0 "Free Aris"
- HIP_GNU_neutrality_ADJ:0 "Arisian"
- HIP_GNU_communism:0 "Free Aris"
- HIP_GNU_communism_DEF:0 "Free Aris"
- HIP_GNU_communism_ADJ:0 "Arisian"
-
- HIP_corpo_fascism:0 "Aris Provisional Government"
- HIP_corpo_fascism_desc:0 "The Provisional Government of Aris"
- HIP_corpo_fascism_ADJ:0 "Arisian"
- HIP_corpo_communism:0 "Workers' Republic of Aris"
- HIP_corpo_communism_DEF:0 "the Workers' Republic of Aris"
- HIP_corpo_communism_ADJ:0 "Arisian"
- HIP_corpo_democratic:0 "United Kingdom of Aris"
- HIP_corpo_democratic_DEF:0 "the United Kingdom of Aris"
- HIP_corpo_democratic_ADJ:0 "Arisian"
- HIP_corpo_neutrality:0 "United Kingdom of Aris"
- HIP_corpo_neutrality_DEF:0 "the United Kingdom of Aris"
- HIP_corpo_neutrality_ADJ:0 "Arisian"
 
  HIP_aris_first_party:0 "Aris First"
  HIP_aris_first_party_long:0 "Aris First"
@@ -172,40 +199,6 @@
  HIP_antifa_harmony:0 "Pink Faction"
  HIP_antifa_harmony_long:0 "Popular Front - Pink Faction"
 
- HIP_rozenkampism_desc:0 "Lightningism continues all of Posada's most notorious policies at an even more intense pace. Chiropterra continues to be devastated, and resources are ruthlessly extracted from North Zebrica to fuel the post-scarcity society on the home front. Calling himself the true heir of Posadism, some fear he aims to persecute ethnic minorities within Revolutionary North Zebrica due to his nationalist roots and belief in biological lumpenproletariat. Crack insists the phenomenon of biological lumpenproletarians is based upon ethnicity and direct heritage, not race, but for the zebras and ponies within Revolutionary North Zebrica, that offers a small comfort as the nebulous "superculture" they are supposed to conform to seems quite ill-defined."
- HIP_magocracy_desc:0 "Though enforced through magic, the rule of the sirens is nothing like that of other magocracies in the world. The country is first and foremost used as a feeding ground of strife, which in turn gives the sirens the magic they need to continue enthralling the population. None except the sirens themselves are seen as of any importance, and they alone dictate the will of the nation. While the exact direction of that will may vary from siren to siren, the fact remains that free will remains only a myth to those that live under their regime."
-
-
- HIP_united_society_neutrality:0 "United Kingdom of Aris"
- HIP_united_society_fascism:0 "Phalangist Aris"
- HIP_united_society_communism:0 "Revolutionary Aris"
- HIP_united_society_democratic:0 "United Kingdom of Aris"
- HIP_united_society_neutrality_DEF:0 "the United Kingdom of Aris"
- HIP_united_society_fascism_DEF:0 "the National Phalangist State of Aris"
- HIP_united_society_communism_DEF:0 "Revolutionary Aris"
- HIP_united_society_democratic_DEF:0 "the United Kingdom of Aris"
- HIP_united_society_fascism_ADJ:0 "Arisian"
- HIP_united_society_democratic_ADJ:0 "Arisian"
- HIP_united_society_neutrality_ADJ:0 "Arisian"
- HIP_united_society_communism_ADJ:0 "Arisian"
- 
- HIP_united_society_2_neutrality:0 "United Kingdom of Aris"
- HIP_united_society_2_fascism:0 "Phalangist Aris"
- HIP_united_society_2_communism:0 "Revolutionary Aris"
- HIP_united_society_2_democratic:0 "United Kingdom of Aris"
- HIP_united_society_2_neutrality_DEF:0 "the United Kingdom of Aris"
- HIP_united_society_2_fascism_DEF:0 "the National Phalangist State of Aris"
- HIP_united_society_2_communism_DEF:0 "Revolutionary Aris"
- HIP_united_society_2_democratic_DEF:0 "the United Kingdom of Aris"
- HIP_united_society_2_fascism_ADJ:0 "Arisian"
- HIP_united_society_2_democratic_ADJ:0 "Arisian"
- HIP_united_society_2_neutrality_ADJ:0 "Arisian"
- HIP_united_society_2_communism_ADJ:0 "Arisian"
- 
- HIP_MILITARY_fascism:0 "Aris Military Government"
- HIP_MILITARY_fascism_DEF:0 "the Military Government of Aris"
- HIP_MILITARY_fascism_ADJ:0 "Arisian"
- 
  HIP_cultists_party:0 "Cultists"
  HIP_cultists_party_long:0 "Cultists of the Abyss"
  HIP_sirens_patronage_party:0 "Sirens' Patronage"
@@ -229,7 +222,10 @@
  HIP_neutral_treaty:0 "The Treaty Of Zapsa"
  HIP_neutral_treaty_desc:0 ""
 
- ### FOCUS ###
+ HIP_rozenkampism_desc:0 "Lightningism continues all of Posada's most notorious policies at an even more intense pace. Chiropterra continues to be devastated, and resources are ruthlessly extracted from North Zebrica to fuel the post-scarcity society on the home front. Calling himself the true heir of Posadism, some fear he aims to persecute ethnic minorities within Revolutionary North Zebrica due to his nationalist roots and belief in biological lumpenproletariat. Crack insists the phenomenon of biological lumpenproletarians is based upon ethnicity and direct heritage, not race, but for the zebras and ponies within Revolutionary North Zebrica, that offers a small comfort as the nebulous "superculture" they are supposed to conform to seems quite ill-defined."
+ HIP_magocracy_desc:0 "Though enforced through magic, the rule of the sirens is nothing like that of other magocracies in the world. The country is first and foremost used as a feeding ground of strife, which in turn gives the sirens the magic they need to continue enthralling the population. None except the sirens themselves are seen as of any importance, and they alone dictate the will of the nation. While the exact direction of that will may vary from siren to siren, the fact remains that free will remains only a myth to those that live under their regime."
+
+### FOCUS ###
  HIP_focus_tree:0 "Hippogriffia Focus Tree"
  HIP_anarchist_tree:0 "Seaquestria Focus Tree"
  HIP_SLPA_tree:0 "Workers' Republic of Aris Focus Tree"
@@ -1770,15 +1766,14 @@
  HIP_SIR_the_future_of_equus_desc:0 "And yet, ultimately the opinion they have of us is ultimately irrelevant. We choose the future, we call the shots, we lead and they follow us. Whatever we say goes, and that is how sirens rule. It is not a question of whether they will follow us, but how we tell them to."
  HIP_SIR_recapitulation:0 "Recapitulation"
  HIP_SIR_recapitulation_desc:0 "A time is coming to a close. This is not the ending, but it is an ending nonetheless. I've done a lot, and I guess I've learned a lot too. Maybe I should look back and see everything now that we've won.\n\nThere's still a lot to think about, after all."
- 
- 
- ### Research Sharing Groups ###
+
+### Research Sharing Groups ###
  HIP_north_zebrican_research_cooperative_name:0 "North Zebrican Research Cooperative"
  HIP_north_zebrican_research_cooperative_desc:0 "These nations have banded together to share what they have learned for mutual benefit."
  HIP_comintern_research_name:0 "Revintern Tech Sharing"
  HIP_comintern_research_desc:0 "To the workers of the world!"
 
- ### IDEAS ###
+### IDEAS ###
  HIP_divided_society_0:0 "Divided Society - Everypony A Seapony"
  HIP_divided_society_0_desc:0 "The vast majority of citizens spend most of their time as seaponies, with only a few still patrolling the ruins of Hippogriffia to scavenge for useful relics and barricade against invasion."
  
@@ -2453,7 +2448,7 @@
  HIP_post_civilization:0 "Post-Civilization Society"
  HIP_post_civilization_desc:0 "This nation has decided that civilization itself was merely a temporary state of life in the progression of history, much as pre-agricultural life was, and their utter annihilation of hierarchy has created an entire population of future partisans."
 
- ### DECISIONS ###
+### DECISIONS ###
  HIP_underwater_construction_cat:0 "Underwater Construction"
  HIP_underwater_construction_cat_desc:0 "Seaquestria is a vast underwater realm that's almost untouchable to surface-dwellers. Few even know it is there. Its cities on the ocean floor are just as large and developed as those on the surface, and the seaponies are masters of life under the waves. While building industry underwater may seem odd at first, it would be foolish to not include half of our nation in our economic growth. So long as our kingdom remains united, we will both prosper, with the right investments.\n\nCurrent Underwater Buildings:[GET_HIP_UNDERWATER_BUILDINGS_CATEGORY]"
  HIP_UNDERWATER_BUILDINGS_WITHOUT_REACTOR:0 "\nCivilian Factories: [?HIP_underwater_civ|Y0]\nMilitary Factories: [?HIP_underwater_mil|Y0]\nNaval Dockyards: [?HIP_underwater_dockyard|Y0]\nSynthetic Refineries: [?HIP_underwater_refinery|Y0]\nFuel Silos: [?HIP_underwater_fuel_silo|Y0]\nTotal Underwater Buildings: [?HIP_underwater_buildings|Y0]\nUnderwater Building Slots: [?HIP_underwater_slots|Y0]"
@@ -2999,7 +2994,7 @@
  HIP_crystal_conversion_7:0 "Completed the previous Synthetic Crystals decision"
  HIP_crystal_conversion_8:0 "Completed the previous Synthetic Crystals decision"
 
- ### EVENTS ###
+### EVENTS ###
  hippogriff.1.t: "Hurricane!"
  hippogriff.1.d: "A devastating hurricane with sustained winds over 220 kilometres per hour slammed into Hippogriffia from Warzena and Chiropterra, with the heaviest damage done to East Aris. Although our ability to shift between hippogriffs and seaponies let us avoid any deaths due to flooding, it provided no protection against the trees hurled through the air or the gusts slamming us into walls. The death toll is thankfully low, although the property damage is devastating. The economic impact of this disaster cannot yet be calculated, and many seaponies are using it as an evidence that the surface is too dangerous."
  hippogriff.1.a: "So much destruction..."
@@ -5446,7 +5441,7 @@
  hippogriff_news.8.c:0 "They left us with no other choice."
  hippogriff_news.8.e:0 "Avenge the Second Sun! Death to [HIP.GetName]!"
 
- ### ADVISORS ###
+### ADVISORS ###
  HIP_silverstream:0 "Silverstream"
  HIP_silverstream_desc:0 "The niece of Queen Novo, Silverstream was the first Hippogriff to graduate from Princess Twilight Sparkle's School of Friendship."
  HIP_afterlight_blaze:0 "Afterlight Blaze"
@@ -5529,7 +5524,7 @@
  HIP_SIR_sonata_advisor:0 "Sonata Dusk"
  HIP_SIR_plumage_moonfeather:0 "Plumage Moonfeather"
 
- ### DESIGNERS #####
+### DESIGNERS #####
  HIP_marbreeze_herring:0 "Marbreeze-Herring"
  HIP_crystalstar_corporation:0 "Crystalstar Corporation"
  HIP_army_ordnance_department:0 "Army Ordnance Department"
@@ -5560,7 +5555,7 @@
  HIP_SIR_siren_aircraft_merger:0 "Siren Aircraft Merger"
  HIP_SIR_siren_naval_merger:0 "Siren Naval Merger"
 
- ### EQUIPMENT LAND #####
+### EQUIPMENT LAND #####
  HIP_EQUIPMENT_VERSION_1:0 "A1"
  HIP_EQUIPMENT_VERSION_2:0 "A2"
  HIP_EQUIPMENT_VERSION_3:0 "A3"
@@ -5913,7 +5908,7 @@
  HIP_jet_fighter_equipment_1_desc:0 ""Jets are a fad, and they turn like a heavy fighter. We shouldn't just blindly copy whatever the hegemons of Equus are doing. We're supposed to be our own aerial power! 3/10, technically impressive but shameful."\n-Crack Lightning"
  HIP_jet_fighter_equipment_2:0 "National Aeronautical Association F-86 Sabre"
  HIP_jet_fighter_equipment_2_short:0 "F-86 Sabre"
-HIP_jet_fighter_equipment_2_desc:0 ""Okay, I was wrong about jets. They're actually quite fun once you acclimate to them. I'm tempted to upgrade the old Spirit of Starfield to a jet model! 9/10, a modern classic."\n-Crack Lightning"
+ HIP_jet_fighter_equipment_2_desc:0 ""Okay, I was wrong about jets. They're actually quite fun once you acclimate to them. I'm tempted to upgrade the old Spirit of Starfield to a jet model! 9/10, a modern classic."\n-Crack Lightning"
  HIP_jet_fighter_equipment_x:0 "National Aeronautical Association F-100 Super Sabre"
  HIP_jet_fighter_equipment_x_short:0 "F-100 Super Sabre"
  HIP_jet_fighter_equipment_x_desc:0 ""The fire control system is amazing! Is this what you navy kids have had for years? Wow, I'm jealous. But not anymore! Now we have them too. 10/10, Hippogriffia stands over all once more."\n-Crack Lightning"
@@ -6083,7 +6078,7 @@ HIP_jet_fighter_equipment_2_desc:0 ""Okay, I was wrong about jets. They're actua
  HIP_carrier_3:0 "Glorious Class"
  HIP_carrier_4:0 "Colossus Class"
 
- ### LEADERS #####
+### LEADERS #####
  HIP_POSADA_DESC:0 "§YBorn§!: 14th of May, 980 in Seaquestria.\n\n§YBiography§!: For most of her childhood, Posada was ostracised by her peers. But she liked it that way, it left her more time to explore and play with her imaginary friends. She became an apprentice bookmaker in her teenage years. When she first went to the surface, she looked upon the stars in wonder and often would stargaze while contemplating if there were creatures on other worlds. It was on one such night she accidentally drifted over towards Zebrican territory and was captured by the Storm King's forces.\n\nPosada was chained inside the cargo hold of an airship full of looted trophies and treasures from Colthage. During the long journey she suffered at the hands of her yeti captors, but one night she was able to break free of her shackles. Sneaking through the ship's hold, she was seeking to make a quick escape and then follow the stars home when a flash of green light caught her attention.\n\nThe light ebbed from out the crack in the lid of a large golden chest intricately carved with images of horned beasts and bowing goats. Unable to help herself, she broke the chains and opened the lid. What she saw would change her forever. Images flashed before her eyes, images of things nogriff should ever know. Images of conflict, strife, poverty and the stars, so many stars. She saw galaxies at the scale of atoms. She saw how stars burned. And more, much more, she could not understand.\n\nIt is unknown how she returned to Hippogriffia. Her mind was broken, and it was months before she could talk in coherent sentences again. Shortly after the Storm King's defeat, a copy of the works of Caramel Marks crossed her desk at work. She found the book as a symbol that she was destined to rediscover what the chest had shown her and to free everycreature from the shackles of capitalism and monarchy. She founded the Revolutionary Workers' Party and quickly started preaching her ideology to every hippogriff and seapony she could. Now with the RWP in power, the interstellar revolution is upon creaturekind.\n\n§YPortrait By§!: Neither"
  HIP_POSADA_SAD_DESC:0 "§YBorn§!: 14th of May, 980 in Seaquestria.\n\n§YBiography§!: "Everything I did, I did for the revolution."\n\nPosada has believed in the promise of communism for years, and has seen with her own eyes how it benefits the world. But little by little, her idealism has cracked. Reactionaries, once met with rehabilitation, gradually became imprisoned for life and later simply shot.\n\nThe world looks grimmer every day, and the rare rays of light in her life gradually distanced themselves from her, as if fearing being contaminated themselves. Few indeed are the associates she genuinely enjoys the company of anymore, and fewer still the creatures who say what she wishes they would: that she's gone too far and has to stop. \n\nOceans of blood have been spilled at her directive, ruthless operations justified by the fact that this is necessary for a better world. That excuse still holds water, but it seems drier than it once did. The revolution is worth dying for, but is it truly worth massacring for?\n\nPosada knows in her heart that she has become a monster, one the Storm King would welcome with a smile as a sister-in-arms. The only thing that gives her the energy to rise from bed is the terrible knowledge that there are so many worse monsters still left to slay.\n\n§YPortrait By§!: Neither"
  HIP_POSADA_GOODEND_DESC:0 "§YBorn§!: 14th of May, 980 in Seaquestria.\n\n§YBiography§!: Communism has won against all odds, and the dream has been fulfilled. Throughout the lands of Revolutionary North Zebrica, suffering, poverty, and scarcity are things of the past. Nuclear reactors dot the land like gemstones, powering entire cities and providing the state with an ever-growing supply of fissile material. The scientific method has been applied to politics, and government is administrated with maximum efficiency with an eye towards fairness. The stars shine as bright as the souls of the creatures building this utopia.\n\nPosada has known for years that this world was not the only to harbor life. It'd simply be impossible to have only one planet with creatures upon it. Somewhere out there, in the vast cosmos, are Star People, creatures who have moved past the troubles of reaction and violence, and formed glorious civilizations aglow amongst the constellations. \n\nRevolutionary North Zebrica, once the small state known as Hippogriffia, has become a beacon calling out to the stars. Communism has prevailed here, and grand efforts are underway to contact the astral comrades. \n\nPosada has come far from the broken madfish she once was. Her soul has crystallized with a clear purpose: to win the great war against reaction, to uplift the lives of all creatures around the world, and to reach out to the Star People and gain their aid in creating a better, more loving world.\n\nThe aliens will come - and Posada will welcome them with open fins.\n\n§YPortrait By§!: Neither"
@@ -6120,7 +6115,7 @@ HIP_jet_fighter_equipment_2_desc:0 ""Okay, I was wrong about jets. They're actua
  HIP_SIR_SONATA_DESC:0 "§YBorn§!: Time Immemorial\n\n§YBiography§!: Since recorded history, even before the time of the Princesses of Equestria, when monsters ruled and cowed the native ponies, the sirens have existed in this world. A group of three, they traveled the land spreading fear and hatred with their magical voices, plunging Equestria into further disharmony and feeding off of the negative energy that followed. Only the creation of the legendary Pillars of Harmony were able to defeat them, tricking the trio into banishment at the bottom of the Mareiana Trench, far below the ocean waves for over a thousand years.\n\nSonata Dusk is an outlier among the three, severely lacking in any sort of skill regarding intentional manipulation. Often forgetful and ditzy, Sonata legitimately enjoys music of all kinds, including music being played by others. She hates boredom, and prefers doing things and being in the moment, as opposed to the other two with their long plans and eyes on the future.\n\nSonata frequently gets into arguments with Aria over trivial matters, which constantly results in Adagio having to intervene in their pointless arguments. This has led to Sonata seeing Aria as "no-fun", and Adagio as the leader with the evil plans. The result of this has been her being the siren most involved with the enthralled population, preferring to get away from her partners often when possible and occasionally unwittingly doing something useful in the process. Despite it all, though, she still cares about the trio and does whatever she can to help, even if it isn't always useful.\n\n§YPortrait By§!: Egil"
  HIP_SIR_sunset_shimmer_desc:0 "§YBorn§!: March 23rd, 974, in Tall Tale\n\n§YBiography§!: Sunset Shimmer, many said, was destined for greatness. Having a natural talent at magic even before she gained her cutie mark, her unique skills and ambition eventually caught the eye of the Princess herself. But although Sunset was proud to be her one and only protege, both her hubris and aspirations knew no limits, and she soon became discontent with the progress she made in her studies. After an incident involving a magical mirror, Celestia was forced to expel her, though she escaped into an alternate world using the mirror as a portal.\n\nYears later, Sunset Shimmer returned to steal the Element of Magic from Princess Twilight during her visit to the Crystal Empire. Fleeing back into the portal with the Element, Twilight was forced to chase after her, with Spike as her only company. Nopony quite knows what happened while they were gone, but Twilight eventually emerged with her crown secured, and stated that Sunset was in good hands.\n\nFor many years, she went unnoticed and unremembered by many. But that all changed when Equestria came under attack, and Harmony itself was threatened. Gaining an official role in the Equestrian Armed Forces, Sunset Shimmer led armies into battle with the same confidence she always had in life; defending her friends and her homeland from anyone who would have seen it fall.\n\nBut fall it did. Despite her best efforts, Equestria was defeated by none other than the ancient sirens. And yet, she retains her position as a talented military commander for a single reason; her complete obedience helps keep the Element Bearers in line. Some say she is the same she's always been - others believe her odd moments are her true personality trying to break free from the spell. Either way, she remains nothing more than a puppet on a string; a marionette playing someone else's game.\n\n§YPortrait By§!: Scroup"
  
- ### MISC #####
+### MISC #####
  HIP_hippogriffia_first_faction:0 "League of Nations"
  HIP_reached_out_to_SMILE:0 "Has reached out to SMILE"
  HIP_reached_out_to_OHS:0 "Has reached out to the OHS"
@@ -6161,12 +6156,13 @@ HIP_jet_fighter_equipment_2_desc:0 ""Okay, I was wrong about jets. They're actua
  hippobeacon_failure_chance_tt_high:0 "§RHigh§! chance of operation failure"
  HIP_cancelled_strike:0 "Thermonuclear strike canceled"
 
- ### DYNAMIC MODIFIERS ###
+### DYNAMIC MODIFIERS ###
  HIP_SIR_siren_magic_idea:0 "Siren Magic"
  HIP_SIR_siren_magic_idea_desc:0 "Our magic is an essential part of our rule, and we can use it for many things in our realm. However, it will take a toll on us, and running out of magic will be a fate far worse than just our powers faltering..."
  HIP_SIR_united_aris_resistance:0 "The Arisian Resistance"
  HIP_SIR_united_aris_resistance_desc:0 "The Aris Resistance is a group of hippogriffs from all parts of life aligned in one common interest; the overthrowal of us and the reinstitution of Hippogriffia. Until it is completely crushed, it will continue to be a thorn in our side in every way."
- ### TOOLTIPS ###
+
+### TOOLTIPS ###
  HIP_won_north_zebrican_war:0 "We have emerged victorious from the North Zebrican War!"
  HIP_increase_divided_society_tt:0 "Will move our divided society towards total §YHippogriff control§!.\n"
  HIP_decrease_divided_society_tt:0 "Will move our divided society towards total §YSeapony control§!.\n"
