@@ -1,6 +1,5 @@
 ﻿ l_english:
- 
- ### Focuses ###
+### Focuses ###
  MNC_the_deal_is_done:0 "The Emperor is Dead"
  MNC_the_deal_is_done_desc:0 "Grover V has drawn his last breath, and as his reign comes to an end, so does our time of relative peace."
  MNC_sunstriker:0 "The Sun Never Sets"
@@ -321,7 +320,7 @@
  mountain.21.d:0 "With the support of the workers, Greyfeather has lead our people from near anarchy into the modern age. Now, more so than ever, we look outward. The Fire of the Revolution will live on."
  mountain.21.a:0 "Long live the Revolution!"
  
- ### ideas ###
+### ideas ###
  MNC_banditry:0 "Sunstriker Bandits"
  MNC_banditry_desc:0 "Named after their infamous leader Eriviar Sunstriker, the Sunstriker Bandits have terrorised the ponies of the North for years, and while they are rather good at looting and burning down townships, they're hardly suited for any job that involves using more than two brain cells."
  MNC_economy:0 "Banditry Based Economy"
@@ -381,7 +380,7 @@
  MNC_secret_police_idea:0 "Ministry of Public Safety"
  MNC_secret_police_idea_lar:0 "Ministry of Public Safety"
  
- ### Decisions ###
+### Decisions ###
  MNC_expansion_category:0 "Expansion Opportunities"
  MNC_expansion_category_desc:0 "With our internal issues now finally solved, we have managed to open up several new expansion opportunities at the expense of our neighbours."
  MNC_economic_decision_category:0 "Economic Opportunities"
@@ -399,7 +398,7 @@
  MNC_maarite_blessing_of_production:0 "Blessing of Production"
  MNC_raise_dead:0 "Raise the Dead"
  
- ### Country Flags ###
+### Country Flags ###
  MNC_contract_is_up:0 "The Contract is Up"
  MNC_completely_insane:0 "Maar's Chosen"
  MNC_a_moment_of_clarity:0 "No One's Pawn"
@@ -407,7 +406,7 @@
  MNC_independant_republic:0 "Independent Republic"
  MNC_red_bandits:0 "Red Bandits"
  
- ### Custom Effect Tooltip ###
+### Custom Effect Tooltip ###
  MNC_coma_tp:0 "Eriviar Sunstriker Falls §RUnconscious§!"
  MNC_hes_mad_tp:0 "§RThe Coma has left Eriviar a changed griffon§!"
  MNC_hes_sane_tp:0 "§GThe Coma knocked some sense into Eriviar's skull§!"
@@ -419,7 +418,7 @@
  MNC_red_bandits_tp:0 "Taking this focus will allow you to start launching §RRaids§! against non-Communist nations"
  MNT_Knights_Tooltip:0 "Spawns §YThree 10 Width Knight Divisions§!"
  
- ### Party Names ###
+### Party Names ###
  MNC_neutrality_party:0 "Mountain Clans"
  MNC_communism_party:0 "BWP"
  MNC_communism_party_long:0 "Brantbeak Workers' Party"
@@ -440,33 +439,33 @@
  MNC_true_communism:0 "WCP"
  MNC_true_communism_long:0 "Whitetail Communist Party"
  
- ### Cosmetic Tags ###
- MNC_b_kingdom_neutrality:0 "Kingdom of Whitetail"
- MNC_b_kingdom_neutrality_DEF:0 "the Kingdom of Whitetail"
- MNC_b_kingdom_neutrality_ADJ:0 "Whitetailer"
- MNC_b_kingdom_fascism:0 "Kingdom of Whitetail"
- MNC_b_kingdom_fascism_DEF:0 "the Kingdom of Whitetail"
- MNC_b_kingdom_fascism_ADJ:0 "Whitetailer"
- MNC_b_kingdom_democratic:0 "Whitetail Republic"
- MNC_b_kingdom_democratic_DEF:0 "the Whitetail Republic"
- MNC_b_kingdom_democratic_ADJ:0 "Whitetailer"
- MNC_b_kingdom_communism:0 "Whitetail Socialist Republic"
- MNC_b_kingdom_communism_DEF:0 "the Whitetail Socialist Republic"
- MNC_b_kingdom_communism_ADJ:0 "Whitetailer"
+### Cosmetic Tags ###
+ MNC_b_kingdom_fascism: "Королівство Уайттейл"
+ MNC_b_kingdom_fascism_DEF: "Королівство Уайттейл"
+ MNC_b_kingdom_fascism_ADJ: "Уайттейльськ"
+ MNC_b_kingdom_democratic: "Уайттейльська республіка"
+ MNC_b_kingdom_democratic_DEF: "Уайттейльська республіка"
+ MNC_b_kingdom_democratic_ADJ: "Уайттейльськ"
+ MNC_b_kingdom_neutrality: "Королівство Уайттейл"
+ MNC_b_kingdom_neutrality_DEF: "Королівство Уайттейл"
+ MNC_b_kingdom_neutrality_ADJ: "Уайттейльськ"
+ MNC_b_kingdom_communism: "Уайттейльська соціалістична республіка"
+ MNC_b_kingdom_communism_DEF: "Уайттейльська соціалістична республіка"
+ MNC_b_kingdom_communism_ADJ: "Уайттейльськ"
 
- ### Leaders ###
+### Leaders ###
  MNC_eriviar_sunstriker:0 "Eriviar Sunstriker"
  MNC_runa_teafeather:0 "Runa Teafeather"
  MNC_guntbert_greyfeather:0 "Guntbert Greyfeather"
  MNC_einar_steelbeak:0 "Einar Steelbeak"
  MNC_istvan_firebeak:0 "Istvan Firebeak"
 
- ### Generals ###
+### Generals ###
  MNC_ingrich_schaw:0 "Ingrich Schaw"
  MNC_hoodie:0 "Hoodie"
  MNC_ragna_shalupon_beamcrest:0 "Ragna 'Shalupon' Beamcrest"
 
- ### Advisors ###
+### Advisors ###
  MNC_advisor_1:0 "Eirik Syvertsen"
  MNC_advisor_2:0 "Sigmund Deathfeather"
  MNC_advisor_3:0 "Linnea Starclaw"

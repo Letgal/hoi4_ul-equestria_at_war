@@ -465,7 +465,7 @@
  tarrin.46.d:0 "After a short but brutal conflict, Francistria has finally agreed to a cease-fire and entered peace negotiations with Tarrin. The Tarrinian demands were simple: Recognition of national independence and sovereignty. Francistria had no choice but to accept, as they could no longer militarily win the conflict.\n\nHostilities have ended and Tarrin has secured its newly gained independence. Countries around the world are impressed by the valiant struggle of the small nation, while Aquileia is already rushing to establish diplomatic connections with Tarrin's government."
  tarrin.46.a:0 "Peace for our time."
  
- ### Parties
+### Parties
  JES_neutrality_party:0 "Dynastie des Discrets"
  JES_neutrality_party_long:0 "Dynastie des Discrets"
  JES_communism_party:0 "AST"
@@ -478,7 +478,7 @@
  JES_democratic_faction:0 "Pro-Republican Faction"
  JES_fascism_faction:0 "Ultranationalist Faction"
  
- ### Custom tooltips
+### Custom tooltips
  JES_battalions_oob:0 "Spawns five §YInfantry Divisions§! in Tarrin City.\n"
  JES_war_timer_and_ally_info:0 "We have to hold out for §R90 days§! before Francistria considers a white peace.\n"
  JES_unlock_flooding_decision:0 "Unlocks £decision_icon_small §RInundation§! decisions.\n"
@@ -502,29 +502,29 @@
  JES_partisan_tt:0 "Spawns three §RPartisan Divisions§! in the enemy capital state.\n"
  JES_anti_armour_tech_tt:0 "Improved §YAnti-Armour§!\nAll Infantry:\n    Hard Attack: §G+50%§!\n    Piercing: §G+2§!\n\n"
  
- ### Flags
+### Flags
  JES_tarrin_flooded:0 "Tarrin has been inundated"
  JES_chateu_flooded:0 "Château Accueillant has been inundated"
  JES_transista_flooded:0 "Transista has been inundated"
  JES_partisans_prepared:0 "Partisans Prepared"
  JER_JES_successful:0 "Tarrin restored the Republic"
  
- ### Cosmetic tag
- JES_pan_aquileia_tag_neutrality:0 "Kingdom Of Aquileia"
- JES_pan_aquileia_tag_fascism:0 "Pan-Aquileian Union"
- JES_pan_aquileia_tag_communism:0 "Pan-Aquileian Federation"
- JES_pan_aquileia_tag_democratic:0 "Federal Republic Of Aquileia"
- JES_pan_aquileia_tag_neutrality_DEF:0 "the Kingdom Of Aquileia"
- JES_pan_aquileia_tag_fascism_DEF:0 "the Pan-Aquileian Union"
- JES_pan_aquileia_tag_communism_DEF:0 "the Pan-Aquileian Federation"
- JES_pan_aquileia_tag_democratic_DEF:0 "the Federal Republic Of Aquileia"
- JES_pan_aquileia_tag_fascism_ADJ:0 "Pan-Aquileian"
- JES_pan_aquileia_tag_democratic_ADJ:0 "Aquileian"
- JES_pan_aquileia_tag_neutrality_ADJ:0 "Aquileian"
- JES_pan_aquileia_tag_communism_ADJ:0 "Pan-Aquileian"
+### Cosmetic tag
+ JES_pan_aquileia_tag_fascism: "Панаквелійський Союз"
+ JES_pan_aquileia_tag_fascism_DEF: "Панаквелійський Союз"
+ JES_pan_aquileia_tag_fascism_ADJ: "Панаквелійськ"
+ JES_pan_aquileia_tag_democratic: "Федеративна республіка Аквелія"
+ JES_pan_aquileia_tag_democratic_DEF: "Федеративна республіка Аквелія"
+ JES_pan_aquileia_tag_democratic_ADJ: "Аквелійськ"
+ JES_pan_aquileia_tag_neutrality: "Аквелійське королівство"
+ JES_pan_aquileia_tag_neutrality_DEF: "Аквелійське королівство"
+ JES_pan_aquileia_tag_neutrality_ADJ: "Аквелійськ"
+ JES_pan_aquileia_tag_communism: "Панаквелійська федерація"
+ JES_pan_aquileia_tag_communism_DEF: "Панаквелійська федерація"
+ JES_pan_aquileia_tag_communism_ADJ: "Панаквелійськ"
  
- ### Misc
- JES_focus_tree:0 "Tarrin focus tree"
+### Misc
+ JES_focus_tree: "Дерево фокусів Тарріна"
  sisterly_leader:0 "Sisterly Leader"
  JES_republican_alliance:0 "Anti-Discret Coalition"
  JES_nationalist_poet:0 "Nationalist Poet"

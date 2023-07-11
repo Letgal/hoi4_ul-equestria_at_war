@@ -780,9 +780,9 @@ gryps.100.c:0 "The order."
  DMT_GRU_puppet_fascism_DEF: "Священне Володарство Хортів"
  DMT_GRU_puppet_fascism_ADJ: "Гундерайхськ"
 
- LCT_GRU_puppet_fascism: "Орденсштаат Геллсворд"
- LCT_GRU_puppet_fascism_DEF: "Лицарський орден Геллсворда"
- LCT_GRU_puppet_fascism_ADJ: "Геллсвордськ"
+ LCT_GRU_puppet_fascism: "Орденсштаат Геллсуорд"
+ LCT_GRU_puppet_fascism_DEF: "Лицарський орден Геллсуорда"
+ LCT_GRU_puppet_fascism_ADJ: "Геллсуордськ"
 
  ZES_GRU_company_neutrality: "ТОВ «Каза Голдинґс»"
  ZES_GRU_company_neutrality_DEF: "ТОВ «Каза Голдинґс»"

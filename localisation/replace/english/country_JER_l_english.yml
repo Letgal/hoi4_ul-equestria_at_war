@@ -2292,7 +2292,7 @@
  JER_develop_eagleton_oil_fields:0 "Develop The §YEagleton§! Oil Fields"
  JER_develop_eagleton_oil_fields_desc:0 ""
  
- ### Advisors ###
+### Advisors ###
  JER_advisor_1:0 "Pierre des Trois Nids"
  JER_advisor_2:0 "Michaile Leprélat"
  JER_advisor_3:0 "Count Armand de la Ferrière"
@@ -2362,7 +2362,7 @@
  nuke_boi:0 "Arnaud De Villiers"
  rocket_boi:0 "Emilie Robineau"
 
- ### Design Companies ###
+### Design Companies ###
  manufacture_aquileia:0 "Manufacture Nationale des Armes d'Aquilée"
  manufacture_rila:0 "Manufacture des Armes de Rila"
  manufacture_vin:0 "Manufacture des Armes de Vinovia"
@@ -2382,7 +2382,7 @@
  AVA_tanks:0 "AVA"
  mistral:0 "Mistral"
 
- ### Opinion Modifiers ###
+### Opinion Modifiers ###
  JER_supporting_family:0 "Familial Love"
  JER_shitting_on_family:0 "Familial Disagreement"
  JER_horrified:0 "Thoroughly Horrified"
@@ -2393,7 +2393,7 @@
  JER_agreement_accepted_2:0 "Joint Military Games"
  JER_agreement_rejected_2:0 "Joint Military Games"
 
- ### Country Flags ###
+### Country Flags ###
  JER_revolution_begun:0 "§RThe Second Aquileian Revolution has Begun§!"
  JER_revolution_ended:0 "§YThe Second Aquileian Revolution has Failed§!"
  JER_revolution_ended_2:0 "§GThe Second Aquileian Revolution has Succeeded§!"
@@ -2414,7 +2414,7 @@
  JER_preparing_to_attack_country:0 "§RPreparing To Attack A Foreign Country§!\n"
  JER_no_assembly:0 "The Assemblée has been fully secured"
  
- ### Parties ###
+### Parties ###
  JER_neutrality_party:0 "Dynastie des Discrets"
  JER_neutrality_party_long:0 "Dynastie des Discrets"
  JER_communism_party:0 "PAT-M"
@@ -2437,7 +2437,7 @@
  JER_pan_griffonian_fascism_party_name:0 "GNA"
  JER_pan_griffonian_fascism_party_name_long:0 "Griffonian Nationalist Association"
 
- ### Cosmetic Tags ###
+### Cosmetic Tags ###
  JER_REPUBLIC_democratic: "Аквелійська республіка"
  JER_REPUBLIC_democratic_DEF: "Друга Аквелійська республіка"
  JER_REPUBLIC_democratic_ADJ: "Аквелійськ"
@@ -2477,51 +2477,51 @@
  JER_REPUBLIC_3_neutrality_DEF: "Друга Аквелійська республіка"
  JER_REPUBLIC_3_neutrality_ADJ: "Аквелійськ"
  
- JER_JEB_REPUBLIC_PUPPET_democratic:0 "District Of Rila"
- JER_JEB_REPUBLIC_PUPPET_democratic_DEF:0 "the District Of Rila"
- JER_JEB_REPUBLIC_PUPPET_democratic_ADJ:0 "Rilan"
- JER_JRR_REPUBLIC_PUPPET_fascism:0 "District Of Westkeep"
- JER_JRR_REPUBLIC_PUPPET_fascism_DEF:0 "the District Of Westkeep"
- JER_JRR_REPUBLIC_PUPPET_fascism_ADJ:0 "Westkeep"
- JER_VIN_REPUBLIC_PUPPET_communism:0 "District Of Vinovia"
- JER_VIN_REPUBLIC_PUPPET_communism_DEF:0 "the District Of Vinovia"
- JER_VIN_REPUBLIC_PUPPET_communism_ADJ:0 "Vinovia"
- JER_JFT_REPUBLIC_PUPPET_communism:0 "District Of Pridea"
- JER_JFT_REPUBLIC_PUPPET_communism_DEF:0 "the District Of Pridea"
- JER_JFT_REPUBLIC_PUPPET_communism_ADJ:0 "Pridean"
+ JER_JEB_REPUBLIC_PUPPET_democratic: "Район Ріла"
+ JER_JEB_REPUBLIC_PUPPET_democratic_DEF: "Район Ріла"
+ JER_JEB_REPUBLIC_PUPPET_democratic_ADJ: "Рільськ"
+ JER_JRR_REPUBLIC_PUPPET_fascism: "Район Весткіп"
+ JER_JRR_REPUBLIC_PUPPET_fascism_DEF: "Район Весткіп"
+ JER_JRR_REPUBLIC_PUPPET_fascism_ADJ: "Весткіпськ"
+ JER_VIN_REPUBLIC_PUPPET_communism: "Район Виновія"
+ JER_VIN_REPUBLIC_PUPPET_communism_DEF: "Район Виновія"
+ JER_VIN_REPUBLIC_PUPPET_communism_ADJ: "Виновіанськ"
+ JER_JFT_REPUBLIC_PUPPET_communism: "Район Прідея"
+ JER_JFT_REPUBLIC_PUPPET_communism_DEF: "Район Прідея"
+ JER_JFT_REPUBLIC_PUPPET_communism_ADJ: "Прідейськ"
  
- JER_GRIFFONIAN_REPUBLIC_neutrality:0 "Griffonian Republic"
- JER_GRIFFONIAN_REPUBLIC_fascism:0 "Griffonian National Republic"
- JER_GRIFFONIAN_REPUBLIC_communism:0 "Griffonian Republic"
- JER_GRIFFONIAN_REPUBLIC_democratic:0 "Griffonian Republic"
- JER_GRIFFONIAN_REPUBLIC_neutrality_DEF:0 "the Griffonian Republic"
- JER_GRIFFONIAN_REPUBLIC_fascism_DEF:0 "the Griffonian National Republic"
- JER_GRIFFONIAN_REPUBLIC_communism_DEF:0 "the Griffonian Republic"
- JER_GRIFFONIAN_REPUBLIC_democratic_DEF:0 "the Griffonian Republic"
- JER_GRIFFONIAN_REPUBLIC_fascism_ADJ:0 "Republican"
- JER_GRIFFONIAN_REPUBLIC_democratic_ADJ:0 "Republican"
- JER_GRIFFONIAN_REPUBLIC_neutrality_ADJ:0 "Republican"
- JER_GRIFFONIAN_REPUBLIC_communism_ADJ:0 "Republican"
+ JER_GRIFFONIAN_REPUBLIC_fascism: "Національна Республіка Грифонів"
+ JER_GRIFFONIAN_REPUBLIC_fascism_DEF: "Національна Республіка Грифонів"
+ JER_GRIFFONIAN_REPUBLIC_fascism_ADJ: "Республіканськ"
+ JER_GRIFFONIAN_REPUBLIC_democratic: "Республіка Грифонів"
+ JER_GRIFFONIAN_REPUBLIC_democratic_DEF: "Республіка Грифонів"
+ JER_GRIFFONIAN_REPUBLIC_democratic_ADJ: "Республіканськ"
+ JER_GRIFFONIAN_REPUBLIC_neutrality: "Республіка Грифонів"
+ JER_GRIFFONIAN_REPUBLIC_neutrality_DEF: "Республіка Грифонів"
+ JER_GRIFFONIAN_REPUBLIC_neutrality_ADJ: "Республіканськ"
+ JER_GRIFFONIAN_REPUBLIC_communism: "Республіка Грифонів"
+ JER_GRIFFONIAN_REPUBLIC_communism_DEF: "Республіка Грифонів"
+ JER_GRIFFONIAN_REPUBLIC_communism_ADJ: "Республіканськ"
  
- JER_LE_EMPIRE_neutrality:0 "Empire of Aquileia"
- JER_LE_EMPIRE_fascism:0 "Grand Republic of Aquileia"
- JER_LE_EMPIRE_communism:0 "Grand Republic of Aquileia"
- JER_LE_EMPIRE_democratic:0 "Grand Republic of Aquileia"
- JER_LE_EMPIRE_neutrality_DEF:0 "the Empire of Aquileia"
- JER_LE_EMPIRE_fascism_DEF:0 "the Grand Republic of Aquileia"
- JER_LE_EMPIRE_communism_DEF:0 "the Grand Republic of Aquileia"
- JER_LE_EMPIRE_democratic_DEF:0 "the Grand Republic of Aquileia"
- JER_LE_EMPIRE_fascism_ADJ:0 "Aquileian"
- JER_LE_EMPIRE_democratic_ADJ:0 "Aquileian"
- JER_LE_EMPIRE_neutrality_ADJ:0 "Aquileian"
- JER_LE_EMPIRE_communism_ADJ:0 "Aquileian"
+ JER_LE_EMPIRE_fascism: "Велика Аквелійська республіка"
+ JER_LE_EMPIRE_fascism_DEF: "Велика Аквелійська республіка"
+ JER_LE_EMPIRE_fascism_ADJ: "Аквелійськ"
+ JER_LE_EMPIRE_democratic: "Велика Аквелійська республіка"
+ JER_LE_EMPIRE_democratic_DEF: "Велика Аквелійська республіка"
+ JER_LE_EMPIRE_democratic_ADJ: "Аквелійськ"
+ JER_LE_EMPIRE_neutrality: "Аквелійська імперія"
+ JER_LE_EMPIRE_neutrality_DEF: "Аквелійська імперія"
+ JER_LE_EMPIRE_neutrality_ADJ: "Аквелійськ"
+ JER_LE_EMPIRE_communism: "Велика Аквелійська республіка"
+ JER_LE_EMPIRE_communism_DEF: "Велика Аквелійська республіка"
+ JER_LE_EMPIRE_communism_ADJ: "Аквелійськ"
 
- ### Factions ###
+### Factions ###
  griffonian_union: "Грифонський соціалістичний альянс"
  aquileian_union: "Аквелійський соціалістичний альянс"
  griffonian_democratic_faction: "Антанта"
 
- ### Traits ###
+### Traits ###
  JER_cru_trait:0 "The Big Fellow"
  JER_gadreau_trait:0 "The Compassionate Revolutionary"
  JER_marshal:0 "The Maréchal"
@@ -2537,13 +2537,13 @@
  JER_empress_of_aquileia_trait:0 "Empress Of Aquileia"
  JER_empress_of_griffonia_trait:0 "Empress Of Aquileia And All Griffonia"
  
- ### Variables ###
+### Variables ###
  JEB_moderate_revolutionary_clubs:0 "Moderate Clubs Seats"
  JEB_extremist_revolutionary_clubs:0 "Extremist Clubs Seats"
  JEB_other_clubs:0 "Non-Affiliated Seats"
  JEB_michel:0 "Constitutional Monarchists Seats"
  
- ### Custom Tooltips ###
+### Custom Tooltips ###
  JER_revolution_tp:0 "§RThe Aquileian Revolution§! will begin in §Y365§! days!\n\n"
  JER_help_rila_tp:0 "§GCompleting§! this §Cfocus§! will allow us to support the §CMonarchists§! in §gRila§!\n\n"
  JER_help_westkeep_tp:0 "§GCompleting§! this §Cfocus§! will allow us to support the §CMonarchists§! in §gWestkeep§!\n\n"
