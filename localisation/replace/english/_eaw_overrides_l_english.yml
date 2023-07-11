@@ -3,7 +3,7 @@
  EAW_MENU_DISCORD: "Сервер Equestria at War у Discord"
  EAW_MENU_STEAMWORKSHOP: "Equestria at War у Майстерні Steam"
  EAW_MENU_VK: "Equestria at War у VK"
- maintheme: "RedSpark - Chant of the Polar Clans"
+ maintheme: "RedSpark — Chant of the Polar Clans"
  NOT_EXIST: "Для Вас буде вибрана випадкова країна."
 
  #air_l
@@ -504,7 +504,7 @@
 
  #waroverview_l
  CAN_SURRENDER_FACTION_MEMBERS: "Вони зараз вооють разом зі своїм альянсом і здадуться, лише якщо всі основні учасники війни капітулюють.\n§YЛідер§! §YРічкової коаліції§! не капітулює, якщо не здався кожен інший її член.\nДо капітуляції лишилось основних учасників:\n$MEMBER_LIST|Y$"
- FIELDER_MANPOWER: "Розміщені поні-ресурси: $MAN|Y*$"
+ FIELDER_MANPOWER: "Поні-ресурси: $MAN|Y*$"
 
  #wtt_decisions_l
  ban_democratic_party: "Заборонити гармонійні та демократичні партії"
