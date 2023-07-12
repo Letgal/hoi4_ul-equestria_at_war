@@ -1580,7 +1580,7 @@ CTL_eradicate_waste_desc:0 "Hindia was not a frugal society; we just took no mor
  CTL_old_influence:0 "As the last court ended, the influence of §CBenjen Davirtannen§! was §Y[?CTL_davirt_influence]%§!, the influence of §GEva Pillai§! was §Y[?CTL_eva_influence]%§!, the influence of §gJakob the Grey§! was §Y[?CTL_jakub_influence]%§!, and the influence of §Rthe Axis§! was §Y[?CTL_axis_influence]%§!."
  CTL_old_tension:0 "As the last court ended, the tension of the §RAxis§! towards the government was §Y[?CTL_axis_anger]%§!."
  
- CTL_faction:0 "Ostkranbi Alliance"
+ CTL_faction: "Осткранбійський альянс"
  
  CTL_dinner_with_eva:0 "§YHunt for a Bride§! - Shopping with Eva"
  CTL_shopping_with_brienna:0 "§YHunt for a Bride§! - Dinner with Brienna"

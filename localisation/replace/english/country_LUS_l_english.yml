@@ -1,6 +1,6 @@
 ﻿l_english:
-POLITICS_PRINCE_ELIAS:0 "Prince Elias Whitecrest took power in the Principality of Lushi in January of 1006. He is still young and ambitious, with grand plans for his nation. The Prince knows that Lushi has the potential to modernise in the shortest terms and catch up to the rest of Griffonia. He has elected to pursue peaceful foreign policy and to focus primarily on improving the quality of life of the citizens. Many believe that Prince Elias is the leader Lushi needed long ago."
-POLITICS_PRINCE_GERAR:0 "Prince Gerar Whitecrest, younger brother of Elias, sees Lushi as a strong nation that could occupy the whole basin of the Evi river. Inspired by the writings of notorious Wingbardian fascist Beakolini, he aims to create a corporate nationalist state, rooted in religion and military. He dreams of getting rid of the monarchy and proclaiming himself the Leader of the nation."
+ POLITICS_PRINCE_ELIAS:0 "Prince Elias Whitecrest took power in the Principality of Lushi in January of 1006. He is still young and ambitious, with grand plans for his nation. The Prince knows that Lushi has the potential to modernise in the shortest terms and catch up to the rest of Griffonia. He has elected to pursue peaceful foreign policy and to focus primarily on improving the quality of life of the citizens. Many believe that Prince Elias is the leader Lushi needed long ago."
+ POLITICS_PRINCE_GERAR:0 "Prince Gerar Whitecrest, younger brother of Elias, sees Lushi as a strong nation that could occupy the whole basin of the Evi river. Inspired by the writings of notorious Wingbardian fascist Beakolini, he aims to create a corporate nationalist state, rooted in religion and military. He dreams of getting rid of the monarchy and proclaiming himself the Leader of the nation."
 
 ###########################################
 ### DECISIONS LOCALISATION ####################
@@ -723,467 +723,467 @@ LUS_riches_of_gryphus:0 "Riches of Gryphus Towns"
 LUS_riches_of_gryphus2:0 "Riches of Gryphus Towns"
 
 ### IDEAS-COM #######
-LUS_fighting_for_liberty:0 "Fighting for Freedom"
-LUS_state_of_anarchy:0 "State of Anarchy"
-LUS_state_of_anarchy2:0 "Recovering"
-LUS_banditry:0 "Peasant Banditry"
-LUS_banditry_2:0 "Banditry"
-LUS_new_lushi_idea:0 "Better Future of Lushi"
-LUS_red_army:0 "Lushian Red Army"
-LUS_red_army_atc:0 "Lushian Red Army"
-LUS_red_army_atc_org:0 "Lushian Red Army"
-LUS_red_army_def:0 "Lushian Red Army"
-LUS_red_army_def_org:0 "Lushian Red Army"
-LUS_red_army_atc_train:0 "Lushian Red Army"
-LUS_red_army_def_train:0 "Lushian Red Army"
-LUS_red_army_def_org_youth:0 "Lushian Red Army"
-LUS_red_army_atc_org_youth:0 "Lushian Red Army"
-LUS_red_army_def_train_youth:0 "Lushian Red Army"
-LUS_red_army_atc_train_youth:0 "Lushian Red Army"
+ LUS_fighting_for_liberty:0 "Fighting for Freedom"
+ LUS_state_of_anarchy:0 "State of Anarchy"
+ LUS_state_of_anarchy2:0 "Recovering"
+ LUS_banditry:0 "Peasant Banditry"
+ LUS_banditry_2:0 "Banditry"
+ LUS_new_lushi_idea:0 "Better Future of Lushi"
+ LUS_red_army:0 "Lushian Red Army"
+ LUS_red_army_atc:0 "Lushian Red Army"
+ LUS_red_army_atc_org:0 "Lushian Red Army"
+ LUS_red_army_def:0 "Lushian Red Army"
+ LUS_red_army_def_org:0 "Lushian Red Army"
+ LUS_red_army_atc_train:0 "Lushian Red Army"
+ LUS_red_army_def_train:0 "Lushian Red Army"
+ LUS_red_army_def_org_youth:0 "Lushian Red Army"
+ LUS_red_army_atc_org_youth:0 "Lushian Red Army"
+ LUS_red_army_def_train_youth:0 "Lushian Red Army"
+ LUS_red_army_atc_train_youth:0 "Lushian Red Army"
 ## LEADERS ###################################
-LUS_prince_elias_whitecrest:0 "Prince Elias Whitecrest"
-LUS_king_elias_i_whitecrest:0 "King Elias I Whitecrest"
-LUS_prince_gerar_whitecrest:0 "Prince Gerar Whitecrest"
-LUS_king_gerar_ii_whitecrest:0 "King Gerar II Whitecrest"
-LUS_toridan:0 "Toridan"
-LUS_razech_oumont:0 "Razech Oumont"
+ LUS_prince_elias_whitecrest:0 "Prince Elias Whitecrest"
+ LUS_king_elias_i_whitecrest:0 "King Elias I Whitecrest"
+ LUS_prince_gerar_whitecrest:0 "Prince Gerar Whitecrest"
+ LUS_king_gerar_ii_whitecrest:0 "King Gerar II Whitecrest"
+ LUS_toridan:0 "Toridan"
+ LUS_razech_oumont:0 "Razech Oumont"
 ## GENERALS ###################################
-LUS_hilbert_forsher:0 "Hilbert Forsher"
-LUS_scar_screaming_eagle_blackkryl:0 "Scar 'Screaming Eagle' Blackkryl"
-LUS_bodier:0 "Bodier"
-LUS_perakeyi:0 "Perakeyi"
-LUS_petya:0 "Petya"
-LUS_punk:0 "Punk"
-LUS_destroyer_of_every_world_possible:0 "Destroyer of Every World Possible"
+ LUS_hilbert_forsher:0 "Hilbert Forsher"
+ LUS_scar_screaming_eagle_blackkryl:0 "Scar 'Screaming Eagle' Blackkryl"
+ LUS_bodier:0 "Bodier"
+ LUS_perakeyi:0 "Perakeyi"
+ LUS_petya:0 "Petya"
+ LUS_punk:0 "Punk"
+ LUS_destroyer_of_every_world_possible:0 "Destroyer of Every World Possible"
 ## ADVISORS ###################################
-LUS_karkarich:0 "Karka Rich"
-LUS_war_industrialist:0 "Réka Aumont"
-LUS_prince_of_terror:0 "Ferenc Szárny"
-LUS_Lord_Drak_Army_chief:0 "Marven Drak"
-LUS_Zsofia_Neel:0 "Zsófia Nyíl"
-LUS_Horty_Makkorty:0 "Horty Makkorty"
-LUS_Dormin_Ghalk:0 "Dormin Ghalk"
-LUS_scar_blackkryl:0 "Artúr Csörgei"
-LUS_peter_brigand:0 "Péter Brigand"
-LUS_barto_miroven:0 "Karom Bartha"
-LUS_crovin_laar:0 "Crovin Laár"
-LUS_arty_manufacture:0 "Nagy Fegyverek Artillery Company"
-LUS_afli_masters:0 "Afli Master Guild"
-LUS_lushian_polytechnics:0 "Lushi Politechnikum"
-LUS_Nedhern:0 "József Galamb Design"
-LUS_barman:0 "Soaring Wings Design"
-LUS_bork:0 "Pry River Sailing Company"
-LUS_prywhen_research_com:0 "Research With Prywhen"
-LUS_GRW_lushi_research_com:0 "Research with Lushi"
+ LUS_karkarich:0 "Karka Rich"
+ LUS_war_industrialist:0 "Réka Aumont"
+ LUS_prince_of_terror:0 "Ferenc Szárny"
+ LUS_Lord_Drak_Army_chief:0 "Marven Drak"
+ LUS_Zsofia_Neel:0 "Zsófia Nyíl"
+ LUS_Horty_Makkorty:0 "Horty Makkorty"
+ LUS_Dormin_Ghalk:0 "Dormin Ghalk"
+ LUS_scar_blackkryl:0 "Artúr Csörgei"
+ LUS_peter_brigand:0 "Péter Brigand"
+ LUS_barto_miroven:0 "Karom Bartha"
+ LUS_crovin_laar:0 "Crovin Laár"
+ LUS_arty_manufacture:0 "Nagy Fegyverek Artillery Company"
+ LUS_afli_masters:0 "Afli Master Guild"
+ LUS_lushian_polytechnics:0 "Lushi Politechnikum"
+ LUS_Nedhern:0 "József Galamb Design"
+ LUS_barman:0 "Soaring Wings Design"
+ LUS_bork:0 "Pry River Sailing Company"
+ LUS_prywhen_research_com:0 "Research With Prywhen"
+ LUS_GRW_lushi_research_com:0 "Research with Lushi"
 ##########################################################
 ### FLAGS AND TOOLTIPS ###################################
 ##########################################################
-lord_drak_killed:0 "Marvin Drak has been killed."
-daughter_married:0 "Princess Mira has been married."
-BRFprince_is_well:0 "Prince Tomado de Kissau is not killed or captured."
-LUS_risk_of_famine_timeout:0 "Looming economic recession"
-grain_deal_signed:0 "Bought grain"
-grain_deal_in_progress:0 "Grain deal is in process"
-opened_lushian_weaponry_tt:0 "§YErus Acel§W will be opened"
-opened_lushian_weaponry:0 "Has taken Erus Acel focus"
-peasants_enslaved:0 "Peasants enslaved"
-LUS_elite_knights_will_appear_tt:0 "§Y5 Divisions§W of §YElite Royal Guards§W will be formed in §YLumium§W and §YGryphem§W"
-lus_brodfeld_will_recieve_a_message_pay:0 "§Y[BRF.GetNameDefCap]§W will recieve a message, but they'll think twice before accepting the deal."
-lus_brodfeld_will_recieve_a_message:0 "§Y[BRF.GetNameDefCap]§W will recieve a message."
-LUS_prywhen_influence_yes:0 "Prywhen Communist Influence"
-LUS_prywhen_influence_no:0 "Communist Support"
-lus_can_enact_recruiting_law:0 "Enough time passed before cancellation of the law."
-daughter_married_to_brf:0 "Princess Mira married to Prince Tomado"
-cancel_gerar_coup_tt:0 "Cancel §YPrince Gerar's Coup§W"
-buy_grain_flag:0 "Can Buy Grain"
-finding_jobs:0 "Creating Jobs for the Population"
-unlocked_rice_farming:0 "Rice Farming Adopted"
-unlocked_potato_farming:0 "Potato Farming Adopted"
-flag_lord_drak_assasination_in_progress:0 "The plot to assassinate Marvin Drak is in progress."
-LUS_new_decision:0 "New decision is available"
+ lord_drak_killed:0 "Marvin Drak has been killed."
+ daughter_married:0 "Princess Mira has been married."
+ BRFprince_is_well:0 "Prince Tomado de Kissau is not killed or captured."
+ LUS_risk_of_famine_timeout:0 "Looming economic recession"
+ grain_deal_signed:0 "Bought grain"
+ grain_deal_in_progress:0 "Grain deal is in process"
+ opened_lushian_weaponry_tt:0 "§YErus Acel§W will be opened"
+ opened_lushian_weaponry:0 "Has taken Erus Acel focus"
+ peasants_enslaved:0 "Peasants enslaved"
+ LUS_elite_knights_will_appear_tt:0 "§Y5 Divisions§W of §YElite Royal Guards§W will be formed in §YLumium§W and §YGryphem§W"
+ lus_brodfeld_will_recieve_a_message_pay:0 "§Y[BRF.GetNameDefCap]§W will recieve a message, but they'll think twice before accepting the deal."
+ lus_brodfeld_will_recieve_a_message:0 "§Y[BRF.GetNameDefCap]§W will recieve a message."
+ LUS_prywhen_influence_yes:0 "Prywhen Communist Influence"
+ LUS_prywhen_influence_no:0 "Communist Support"
+ lus_can_enact_recruiting_law:0 "Enough time passed before cancellation of the law."
+ daughter_married_to_brf:0 "Princess Mira married to Prince Tomado"
+ cancel_gerar_coup_tt:0 "Cancel §YPrince Gerar's Coup§W"
+ buy_grain_flag:0 "Can Buy Grain"
+ finding_jobs:0 "Creating Jobs for the Population"
+ unlocked_rice_farming:0 "Rice Farming Adopted"
+ unlocked_potato_farming:0 "Potato Farming Adopted"
+ flag_lord_drak_assasination_in_progress:0 "The plot to assassinate Marvin Drak is in progress."
+ LUS_new_decision:0 "New decision is available"
 #Faction name
-Kivessin_Defence_Pact:0 "Lumium Defence Pact"
+ Kivessin_Defence_Pact: "Люміумський оборонний пакт"
 ###########################################
 ### EVENTS ################################
 ###########################################
-#Lushian Greatness
-lushi.1.t:0 "The Celebration of Lushian Greatness!"
-lushi.1.d:0 "The Greatness of Lushi knows no bounds! The best griffons live in the land of Lushi! It is the nicest place of all Griffonia! Let's drink and dance all night long to celebrate this new wonderful holiday!"
-lushi.1.b:0 "Hurray!"
-
-lushi.2.t:0 "Lushian Knights have come!"
-lushi.2.d:0 "The knights remember the feast that we organized to celebrate Lushian greatness. Now they have come to help us in our time of need. Clad in ancient enchanted armour, wearing lances with bright banners showing the old colours of the Lushian fiefs. This magnificent sight has revitalised the country and gave us confidence that we can win this war. Let us sing the praise of our Gallant Knights forevermore! Let us rally to our paladins!"
-lushi.2.a:0 "Splendid!"
-lushi.2.b:0 "Outstanding!"
-lushi.2.c:0 "Magnificent!"
-lushi.2.e:0 "Fantastic!"
-
-#Lord Drak
-lushi.3.t:0 "Lord Drak's Proposal"
-lushi.3.d:0 "The influential Lord Drak is one of the most powerful nobles of the realm. He is old and despicable in every way. So far, he has refused to help [Root.GetLeader] in reforming the country. Rumours and whispers speak of his price. The Lord wishes to marry Princess Mira, Elias's daughter! The very thought of having to spend the rest of her life with this griffon has made the princess sick and sad. However, according to Griffonian traditions, the head of the household decides about marriages. The Prince is now stuck between his wishes for reform and the heart of Princess Mira.\n\nDrak came to the Castle at Lumium with a large entourage and he negotiated with [Root.GetLeader] for hours, with Mira watching the proceedings silently. Lord Drak, however, remained obstinate. His final proposal was as it is. Mira's claw, for his support..."
-lushi.3.a:0 "I have no choice but to agree."
-lushi.3.b:0 "You will never lay your dirty claws on Mira!"
-
-lushi.4.t:0 "A Political Marriage"
-lushi.4.d:0 "Many Lords and Notables from all over Lushi arrived at Lord Drak's Castle in the Northwest of the country. Today was to be the marriage of Mira Whitecrest and Marven Drak himself. The flowers, carpets and other decorations couldn't hide that the fortress was usually a far grimmer place. None of the guests reflected the castle better than [Root.GetLeader] and Princess Mira as they looked as grey as the castle's walls. 'It is for the future of Lushi, there was no other choice.' The Prince muttered to Mira as he prepared to walk the beautiful bride down the aisle.\n'Can't you just... get rid of him?' Mira whispered back, her eyes still seemed hopeful for some kind of miracle, but [Root.GetLeader] shook his head. He took her by the claw when a servant signalled that it was time. 'I'm sorry.'\n\nMira and Drak were together now, standing in front of the priest of Eyr. The holy griffon repeated the vows for both of them. 'Yes.' The Lord answered, with an unbearable sadistic joy in his voice.\n'Yes.' The Lady said, softly, trying to look happy in front of the crowd. The priest gave a worried glance to the new couple, as if he could sense what was really going on, but he did proceed. 'Then you are now husband and wife. May Eyr watch over your union.'"
-lushi.4.a:0 "May Eyr watch over their union..."
-
-lushi.5.t:0 "Lord Drak of Veritas"
-lushi.5.d:0 "The Northwestern lands of Lushi, which border our own country, have been under control of the Drak family for some time now. It seems that the prince of Lushi has somehow gravely insulted Lord Marvin Drak, however. So much so, that the noblegriffon seeks to sever his vassalage to Lushi. In a formal letter bearing his seal, Lord Drak swears fealty to [Root.GetLeader] and wants his domain to become a part of [Root.GetName]. We have to consider this proposal carefully, as it might lead to problems with Lushi."
-lushi.5.a:0 "He is more than welcome!"
-lushi.5.b:0 "We don't need problems."
-
-lushi.6.t:0 "Lord Draks of Veritas left us"
-lushi.6.d:0 "News came that Lord Draks has sworn fealty to [From.GetLeader] and his country became the property of his new overlord. In a letter in which he explains his actions, he states that a Lord, if his honour is in jeopardy, can renounce his vassalage and find another protector. This might have something to do with the Prince's refusal to have Drak marry Princess Mira."
-lushi.6.a:0 "That worm."
-
-lushi.7.t:0 "Drak's Castle Captured!"
-lushi.7.d:0 "Our siege of Drak's Castle was successful! Our troops seized the walls, making their way to the keep itself. Although the resistance of Drak's goons, supported by his new overlord's troops, was fierce, they did not manage to deter our brave knights and soldiers. Step by step they fought their way up the keep's tower, until they finally found Drak. Clad in heavy armour and wearing a mace, the Lord managed to kill three knights before finally being overpowered. After the Castle was taken, Lushian troops once again controlled the entire state surrounding it. A quick peace deal was made to end the conflict, the castle clearly being much more trouble than it was worth for our enemies. Lushi has won the day!"
-lushi.7.a:0 "Wonderful!"
-
-lushi.8.t:0 "Our forces repelled"
-lushi.8.d:0 "Despite our best efforts, the siege of Drak's Castle has failed. The might of his own levy along with the forces of his overlord and the fortifications proved to be too much for our brave forces. Although we managed to overwhelm much of the state and even the castle walls, we could not seize the Keep. Drak himself, still using an ancient mace, managed to turn the tide at the last second. Our losses were simply too high to justify any further assaults. Drak has won his independence from Lushi..."
-lushi.8.a:0 "Awful."
-
-lushi.9.t:0 "Siege broken off"
-lushi.9.d:0 "Due to a lack of troops assigned to the siege works, our general has not managed to properly besiege Drak's Castle. With extra reinforcements from the rest of his new country coming in, we have lost our opportunity to regain the stolen state."
-lushi.9.a:0 "We didn't go through with it."
-
-lushi.38.t:0 "Under the Cover of Darkness"
-lushi.38.d:0 "Our assassin has managed to sneak into the castle via the sewers. Of course everything in Drak's Castle stinks, so the difference was barely noticeable. Now, our assassin needs to make his way to the Lord's bedchamber and decide on his strategy. Unless, of course, he gets cold claws."
-lushi.38.a:0 "Poison him."
-lushi.38.b:0 "Shoot him."
-lushi.38.c:0 "Strangle him in his sleep."
-lushi.38.e:0 "Recall the Assassin now!"
-
-lushi.39.t:0 "Assassination Successful!"
-lushi.39.d:0 "Lord Drak has perished and the assassin has made a safe getaway. Our part in the plot will remain hidden and Mira won't have to spend any time being that old crook's partner."
-lushi.39.a:0 "To Tartarus with you."
-
-lushi.40.t:0 "Assassination Failed!"
-lushi.40.d:0 "Through some twist of fate, Marvin Drak has survived! Luckily our griffon got away safely, ensuring the secrecy of our plot."
-lushi.40.a:0 "Too bad."
-
-lushi.41.t:0 "Our Assassin was Captured!"
-lushi.41.d:0 "Our plan went horribly! Not only did Lord Drak survive, he managed to alarm his guards and capture the assassin. Let's hope we can somehow deny involvement in trying to murder one of our own vassals."
-lushi.41.a:0 "We made a mistake."
-
-#Peasants War
-lushi.14.t:0 "Peasants refuse to work"
-lushi.14.d:0 "Our continuation of the harsh serfdom of old seems to have had the opposite effect we desired. The peasants, encouraged by similar revolutions across the continent, refuse to work! Even worse, they are stealing weapons from armouries and plaguing the countryside. We still have a little while before the situation spirals out of our control, but we must somehow regain the commoners' trust before they overthrow our government!"
-lushi.14.a:0 "Did we push them too far?"
-
-lushi.15.t:0 "The Peasants War!"
-lushi.15.d:0 "A mass revolt has occurred throughout the countryside. Peasants occupied towns and villages, armed with firearms and sometimes just pitchforks and torches. Many soldiers are sympathetic to them and have rallied to their side. The mob is now marching towards the last remaining aristocratic strongholds, determined to earn their freedom by force!"
-lushi.15.a:0 "Fight the mob!"
-lushi.15.b:0 "Join the revolution!"
-
-#I like Trains
-lushi.16.t:0 "Purchase Trains Abroad"
-lushi.16.d:0 "A modern country relies on railroads to transport passengers and goods. Although we have some connections between our major towns, we still lack enough trains to make the routes stable and useful. Let us procure trains from abroad and finally drag our country out of the Feudal age!"
-lushi.16.a:0 "Spread the word!"
-
-lushi.17.t:0 "Lushi offers train deal."
-lushi.17.d:0 "The government of [LUS.GetNameDef] offers us a trade deal, they would like to buy several trains from our country to improve the life of their citizens and further modernize their own country. They are willing to pay a good price for the trains!"
-lushi.17.a:0 "Deal."
-lushi.17.b:0 "No deal."
-
-lushi.18.t:0 "[From.GetName] accepted the deal."
-lushi.18.d:0 "[From.GetName] has decided to let us buy several of their old trains! This will certainly solve all the infrastructure problems we are facing right now. The only thing left is to confirm the deal."
-lushi.18.a:0 "We agree!"
-lushi.18.b:0 "I'd rather buy them from another country."
-
-lushi.19.t:0 "[From.GetName] signs the deal."
-lushi.19.d:0 "The government of Lushi signed the deal and the trains we have prepared for them are now on the way to Lushian lands. We should expect their payment shortly. Let us hope this only strengthens the friendship between us!"
-lushi.19.a:0 "A good deal."
-
-lushi.20.t:0 "Lushi signs deal with [From.GetName]"
-lushi.20.d:0 "The government of [LUS.GetNameDef] has purchased trains in [From.GetNameDef]. They have sent us a polite letter explaining that [From.GetNameDef] had a better deal at this time. It seems we can't win them all."
-lushi.20.a:0 "That's a shame."
-
-lushi.21.t:0 "[From.GetName] refuse train deal"
-lushi.21.d:0 "The greedy government of [From.GetName] has decided to refuse our most generous deal. It seems that they need their old trains for themselves. No matter, we'll find another seller."
-lushi.21.a:0 "Fine."
-
-#Not a griffonian nation without an economic crash
-lushi.22.t:0 "Agriculture Crisis"
-lushi.22.d:0 "Freeing the peasants from their serfdom has made the price of food soar as peasants need to be paid more and some have decided to flock to the cities for other jobs. The ones who are left haven't contributed enough food to feed the growing population of the cities. Our granaries are still full from previous years, but a crisis looms on the horizon..."
-lushi.22.a:0 "We'll get through this."
-
-lushi.23.t:0 "Crisis of Transformation"
-lushi.23.d:0 "As more efficient ways of farming are forming, the rich peasants are getting richer, but the poorer peasants are getting poorer and more numerous. The griffons don't have jobs and don't have the money to buy the things that the rich produce. We must organize more workplaces, enact market regulations and support the smaller farmers."
-lushi.23.a:0 "Let's get to work!"
-
-lushi.24.t:0 "Grain Deal from Lushi"
-lushi.24.d:0 "[LUS.GetName] wants to buy quality grain in our country. It seems that their country is running the risk of a famine. We currently have a food surplus and can afford to be generous. Should we oblige and help Lushi?"
-lushi.24.a:0 "Yes, they can buy it."
-lushi.24.b:0 "No, we should not."
-
-lushi.25.t:0 "[From.GetName] sells us grain"
-lushi.25.d:0 "We have been saved! [From.GetName] has decided to generously allow us to buy up some of their grain reserves. The food is already on its way to the most affected areas. Soon no griffon will have to go hungry again."
-lushi.25.a:0 "Thank Eyr."
-
-lushi.26.t:0 "[From.GetName] rejects deal."
-lushi.26.d:0 "We are still in dire straits, as [From.GetName] has sadly refused to sell us grain. They say that they need the food themselves and that even though they are sympathetic to our plight, that they cannot provide any assistance at this time. Let us hope that our luck improves."
-lushi.26.a:0 "Let us pray."
-
-lushi.27.t:0 "Food is running out"
-lushi.27.d:0 "The lack of food imports, along with the bad harvests, has meant that our food reserves are depleting fast. With strict rationing we might be able to keep every griffon alive for a while, but the strong are already becoming weaker and our country is suffering. We must act now to save the lives of our people!"
-lushi.27.a:0 "Gods preserve us..."
-
-lushi.28.t:0 "Famine takes over the country"
-lushi.28.d:0 "With our fields still not putting out enough food to feed our people and with no help from abroad, we cannot save every griffon anymore. Our griffons have resorted to eating anything even mildly digestible, but their strength is completely sapped. Some have already been taken by the great famine. Our country is barely operational right now. We should pray for the dead and pray that our suffering may end soon, one way or the other."
-lushi.28.a:0 "Eyr damned us!"
-
-#War with Prywhen
-lushi.30.t:0 "The Peasants are unhappy"
-lushi.30.d:0 "As we've entered the war against Prywhen, more and more peasants start to share rebellious sentiment for they believe the same can happen to them. We should keep an eye on them and make sure that they do not catch us unawares, as the peasants of Prywhen did with the Lords of Brodfeld"
-lushi.30.a:0 "Keep an eye on them."
-
-lushi.31.t:0 "War Measures"
-lushi.31.d:0 "As we've entered the war against Prywhen, the terrible situation of our economy has revealed. We do not have money to finance both the military and civilian construction projects. What do we focus on?"
-lushi.31.a:0 "Construct. The army will manage."
-lushi.31.b:0 "We only need more guns."
-lushi.31.c:0 "Share the money between these two."
-
-#Gerar's Recruiting Law
-lushi.37.t:0 "We can enact the New Recruiting Law again"
-lushi.37.d:0 "We decided to lax the recruitment law for a while to give our people some breathing room. If we desire to, however, we can instate the harsher recruitment law again. This will make our people unhappy, but it will provide us with more able-bodied griffons for our army."
-lushi.37.a:0 "Very well."
-
-
-#Prywhen Events
-lushi_prywhen.1.t:0 "[LUS.GetNameDefCap] offers friendship"
-lushi_prywhen.1.d:0 "[LUS.GetNameDefCap] wants to establish an embassy in our land. They cite sympathies for the suffering of the peasants of Prywhen and list reforms in their own country which would prevent the peasants in Lushi to suffer the same fate. Furthermore, they list common interests such as trade and defence as good reasons to cooperate. However, their country is ruled by a prince and nobles and we still have contact with supporters trying to rally communism in Lushi too. Do we accept this offer?"
-lushi_prywhen.1.a:0 "Let's show our open mindedness."
-lushi_prywhen.1.b:0 "Your head would look good on the end of a stick!"
-
-lushi_prywhen.2.t_frnd:0 "Embassy in GLA"
-lushi_prywhen.2.t_no_frnd:0 "Embassy in GLA denied"
-lushi_prywhen.2.d_frnd:0 "It seems these peasants are more reasonable than we give them credit for. They have accepted our offer and we established formal diplomatic contact with Prywhen. The old Kissau's might not like this, but it is better to bet on the winning side."
-lushi_prywhen.2.d_no_frnd:0 "These peasants are as stupid as their ideology! They have refused our claw in friendship merely because of ideological reasons. Their response was an insult and almost enough of a reason for war in its own right. It seems we overestimated the pragmatism of the Griffon Liberation Army"
-lushi_prywhen.2.a:0 "Great."
-lushi_prywhen.2.b:0 "Prepare for a possible attack."
-
-lushi_prywhen.3.t:0 "Non-Aggression Pact from Lushi"
-lushi_prywhen.3.d:0 "The bourgeoisie and imperialists of Lushi are back with a new proposal. It seems that they are afraid of the people's army and seek a non-aggression pact with us. One the one claw, this would defend one of our most vulnerable flanks from invasion, on the other claw, such ad deal might be a massive disappointment to those oppressed griffons in Lushi."
-lushi_prywhen.3.a:0 "We must be pragmatic, accept."
-lushi_prywhen.3.b:0 "We cannot abandon principals, decline."
-
-lushi_prywhen.4.t:0 "Prywhen Accepts"
-lushi_prywhen.4.d:0 "The communists have accepted a mutual non-aggression pact. We can rest soundly at night, knowing that the red tide will leave our home alone."
-lushi_prywhen.4.a:0 "Good."
-
-lushi_prywhen.5.t:0 "Prywhen Declines"
-lushi_prywhen.5.d:0 "It appears that the communists have plans to attack us after all, since they are not willing to sign a binding pact of non-aggression. Very well, if they come, we will be ready."
-lushi_prywhen.5.a:0 "There's nothing we can do."
-
-lushi_prywhen.6.t:0 "Lushi Trade Route"
-lushi_prywhen.6.d:0 "Lushi wants to support our friendship by establishing a trade route between our countries. This deal will be beneficial to both of our countries. But, should we really accept goods made by bourgeois imperialists? Should we really profit of the oppression of others?"
-lushi_prywhen.6.a:0 "We will use these funds for good!"
-lushi_prywhen.6.b:0 "No."
-
-lushi_prywhen.7.t:0 "[From.GetName] accepts the deal"
-lushi_prywhen.7.d:0 "The trade routes between our countries are established! The communists have opened their towns to trade with us, giving us an exclusive advantage in selling goods from Prywhen to the world market! This will help our economy tremendously."
-lushi_prywhen.7.a:0 "Great!"
-
-lushi_prywhen.9.t:0 "Peaceful Research with Lushi"
-lushi_prywhen.9.d:0 "The nobles of Lushi have asked for our help yet again. They want us to sign a research treaty, working together on important research. Will we accept their help to make the world a better place?"
-lushi_prywhen.9.a:0 "Of course!"
-lushi_prywhen.9.b:0 "No need to share our knowledge with bourgeois."
-
-lushi_prywhen.10.t:0 "Prywhen Accepts!"
-lushi_prywhen.10.d:0 "The communists have accepted our mutual research program!"
-lushi_prywhen.10.a:0 "Hurray!"
-
-lushi_prywhen.11.t:0 "The Lumium Defence Pact!"
-lushi_prywhen.11.d:0 "Lushi is now seeking a mutual defence treaty. Effectively they want to form a faction together, called the Lumium defence pact. Although Lushi has proven to be a reliable friend in the past, many of our comrades are uneasy about cooperating with a monarchy."
-lushi_prywhen.11.a:0 "For the Revolution!"
-lushi_prywhen.11.b:0 "We will never fight with imperialists!"
-#Brodfeld Events
-lushi_brodfeld.1.t:0 "[LUS.GetLeader] holds a speech against Brodfeld!"
-lushi_brodfeld.1.d:0 "[LUS.GetLeader] made a speech in front of a crowd in Lumium today. He exclaimed that the King in Brodfeld lost his right to rule right when he let the communist revolution take place. The House de Kissau cannot be trusted as they will inevitably plunge Prywhen into another bloody civil war. The people of all Prywhen should accept [LUS.GetLeader] as their ruler for everlasting peace and prosperity."
-lushi_brodfeld.1.a:0 "That is definitely so!"
-lushi_brodfeld.1.b:0 "That is outrageous!"
-
-lushi_brodfeld.2.t:0 "Lushi Demands Our Kingdom!"
-lushi_brodfeld.2.d:0 "[LUS.GetLeader] just sent a letter to us, saying that our rule over Prywhen is illegitimate and we should abdicate in favour of a King from house Whitecrest! The document, carrying the Lushian seal, lists our alleged crimes against good rulership and against our own people. While these are clearly forged, it seems like Lushi has set its sights on our country. Do we bend, or throw Prywhen into another bloody conflict?"
-lushi_brodfeld.2.a:0 "We must bend."
-lushi_brodfeld.2.c:0 "Send them a highly cultured letter!"
-lushi_brodfeld.2.b:0 "This means War!"
-
-lushi_brodfeld.3.t:0 "Brodfeld bends over!"
-lushi_brodfeld.3.d:0 "In a display of their true courage, the King of Brodfeld has decided to bend for us. He has formally given all his titles to [LUS.GetLeader] and reluctantly gave the Prince his blessing. A glorious day for the house of Whitecrest!"
-lushi_brodfeld.3.a:0 "His country is wide open!"
-
-lushi_brodfeld.4.t:0 "Message from the King of Brodfeld"
-lushi_brodfeld.4.d:0 ""Most esteemed ruler of Lushi, I hereby give the following reply to your humble request. May you be sewn up alive into the body of a dead pony, you greedy arrogant bastard son! Tales of your misdeeds are told from Equestria to Zebrica. Boreas have mercy on your wretched soul, for you will certainly meet him when I am done with you!""
-lushi_brodfeld.4.a:0 "We won't ask nicely next time!"
-
-lushi_brodfeld.5.t:0 "King of Brodfeld declared war on us!"
-lushi_brodfeld.5.d:0 "The King of Brodfeld shows his short temper yet again. They simply responded to our request with a declaration of war! Of course we expected this outcome and now history will remember them as the aggressor."
-lushi_brodfeld.5.a:0 "To Victory!"
-
-lushi_brodfeld.6.t:0 "Coronation of [LUS.GetLeader]!"
-lushi_brodfeld.6.d:0 "With the unification of Lushi and Prywhen, [LUS.GetLeader] will be crowned as the King of Lushi and Brodfeld! This United Kingdom will stand among the great powers of Griffonia! May Boreas bless Lushi and Brodfeld!"
-lushi_brodfeld.6.a:0 "Hail to the King!"
-
-lushi_brodfeld.7.t:0 "Payment for the Help"
-lushi_brodfeld.7.d:0 "The Prince of Lushi has demanded a price for their help in the civil war. Do we give in to their outrageously high demands?"
-lushi_brodfeld.7.a:0 "Pay the full price."
-lushi_brodfeld.7.b:0 "Half or nothing, Whitecrest."
-lushi_brodfeld.7.c:0 "Don't pay at all."
-
-lushi_brodfeld.8.t:0 "Brodfeld Pays for the Help"
-lushi_brodfeld.8.d:0 "The King of Brodfeld has decided to pay the price for Lushian arms. It seems that he has seen reason after all. The de Kissaus can be trusted to uphold their bargains after all."
-lushi_brodfeld.8.a:0 "Great."
-
-lushi_brodfeld.9.t:0 "Brodfeld Pays for the Help"
-lushi_brodfeld.9.d:0 "The King of Brodfeld has decided to pay the price for Lushian arms. It seems that he has seen reason after all. The de Kissaus sneakily halved the payment, however. What are these scheming sons of Maar up to?"
-lushi_brodfeld.9.a:0 "What are they planning?"
-
-lushi_brodfeld.10.t:0 "Brodfeld refuses to pay!"
-lushi_brodfeld.10.d:0 "The King of Brodfeld has refused to pay what he owes us. We should never have trusted a Kissau! Perhaps we should turn Lushian arms on him then?"
-lushi_brodfeld.10.a:0 "Outrageous!"
-
-lushi_brodfeld.11.t:0 "Marriage Proposal Accepted!"
-lushi_brodfeld.11.d:0 "The King of Prywhen has decided to accept our proposals. He has allowed Prince Tomado to propose to Princess Mira! At a balcony on the castle of Lumium, the gallant prince fell to one knee and revealed a silver ring to Princess Mira, to who the consent of both houses was kept silent. When Tomado explained that their families gave their blessings, Mira took the ring, exclaiming her love for the Prince! The news of the betrothal has spread quickly through the two realms, where the commoners celebrated and toasted on the future of the Prince and the Princess!"
-lushi_brodfeld.11.a:0 "Hurray."
-
-lushi_brodfeld.29.t_pay:0 "[LUS.GetLeader] offers assistance for a price"
-lushi_brodfeld.29.t_no_pay:0 "[LUS.GetLeader] offers assistance"
-lushi_brodfeld.29.d_pay:0 "A letter came from [LUS.GetLeader], announcing that he has stationed his armies on the border with Prywhen. The Prince of Lushi says that he is ready to strike at any time. However, he reminds us that the war is costly and that Brodfeld should share some of its wealth with [LUS.GetNameDef] after our victory. [BRF.GetLeader] surely doesn't have any intentions of working with the nasty [LUS.GetLeader], but we are in dire situation right now. Shall we accept this alliance?"
-lushi_brodfeld.29.d_no_pay:0 "A letter came from [LUS.GetLeader], announcing that he has stationed his armies on the border with Prywhen. The Prince of Lushi says that he is ready to strike at any time. He offers his help freely, stating that it is any Boreas-loving griffon's duty to fight the red threat. It seems that [LUS.GetLeader] is truly a noble griffon! [BRF.GetLeader], however, has doubts about lushian honesty, but we are in dire situation right now. Shall we accept this alliance?"
-lushi_brodfeld.29.a:0 "We accept this alliance."
-lushi_brodfeld.29.b:0 "Griffon nature, eh? No deal."
-lushi_brodfeld.29.c:0 "No way."
-
-lushi_brodfeld.30.t:0 "War for Brodfeld"
-lushi_brodfeld.30.d:0 "The war of the Prywhen peasants against the King of Brodfeld has taken a turn for the worse, with the communists advancing on the last loyalist strongholds. If we are to take advantage of the situation and save our friends, we must intervene now. We could either ask for compensation, or fight the communists for free."
-lushi_brodfeld.30.b:0 "We need no reparation for doing the right thing."
-lushi_brodfeld.30.a:0 "A price must be paid."
-
-lushi_brodfeld.31.t:0 "[BRF.GetLeader] accepted the deal and we go to war!"
-lushi_brodfeld.31.d:0 "The wise ruler of Brodfeld has decided to rely on our help. The knights and the levies have been rallied at the border, ready to squash our enemies. The priests of Arcturius have held fiery sermons denouncing communism as a godless empty ideology. The rebels will be crushed in glorious battle!"
-lushi_brodfeld.31.a:0 "Hurray!"
-
-lushi_brodfeld.32.t:0 "[BRF.GetLeader] refused our help"
-lushi_brodfeld.32.d:0 "[BRF.GetLeader] refused our generous offer to help him fight the communists. It seems he didn't trust us after all. We will see if he can handle this revolt on his own. For now, we stand on the sidelines."
-lushi_brodfeld.32.a:0 "Oh well."
-
-lushi_brodfeld.33.t:0 "Royal Marriage"
-lushi_brodfeld.33.d:0 "[LUS.GetLeader] offers to arrange a royal marriage between their Princess Mira Whitecrest and our Prince Tomado de Kissau. The two have already been getting closer for a while now and the court says they would make a lovely couple. However, this might bind us too close to the Lushians."
-lushi_brodfeld.33.a:0 "Love conquers all!"
-lushi_brodfeld.33.b:0 "I see through your tricks, Whitecrest."
-
-
-
-LUS_kingdom_flag:0 "Lushi is a Kingdom"
-lushi_will_find_about_this:0 "[LUS.GetNameDef] will find out about this"
-
-BRF_paid_half:0 "Brodfeld Paid Half"
-BRF_didnt_pay:0 "Brodfeld Paid Nothing"
-
-lushi.32.t:0 "Prince Tomado and Princess Mira Marriage"
-lushi.32.d:0 "The Castle at Lumium was full of guests on the marriage day. An excited mood has taken hold as guests from both countries wait for the moment of truth. Prince Tomado and his father were accompanied by knights in colourful uniform, brandishing the banners of House Kissau. To match this, the Gallant Knights of Lushi also dressed up in the cheerful colours of the many nobles of the realm. To symbolise unity, knights from both countries had hanged their heraldic shields on the walls of the chapel where the ceremony would take place.\n\nThere was one star who outshone all these knights and ladies, however, the bride herself. After a herald announced them, [LUS.GetLeader] led the Princess into the overcrowded chapel in the Whitecrests' ancestral home. Princess Mira was wearing a dress of the finest satins. On her head was a silver tiara, with a large sapphire stone set in the centre. None could keep their eyes of the dazzling royal, but no griffon in the room was as enchanted by her as Prince Tomado, his eyes shining with unending love.\n\nAfter both bride and groom had arrived at the altar, the priest of Eyr repeated the vows of marriage. All those present held their breath.\n'Yes,' said the Prince, his voice dutiful but betraying a hint of nervousness.\n'Yes,' exclaimed the Princess, who could barely contain herself.\n\n'Then you are now husband and wife. May Eyr watch over your union,' the priest confirmed. As the two lovers moved to kiss each other, the nobles and notables of both countries erupted into cheers and applause. Love had not only brought these two lovers together, but both of their peoples as well. The party, both in the castle at Lumium and in the streets of all towns and villages in Brodfeld and Lushi, lasted until the sun rose up and deserves its place in legends in its own right. The love between Mira and Tomado, lasted forevermore."
-lushi.32.a:0 "May Eyr bless their Union!"
-
-lushi_brodfeld.34.t:0 "Prince Tomado and Princess Mira Married!"
-lushi_brodfeld.34.d:0 "The Castle at Lumium was full of guests on the marriage day. An excited mood has taken hold as guests from both countries wait for the moment of truth. Prince Tomado and his father were accompanied by knights in colourful uniform, brandishing the banners of House Kissau. To match this, the Gallant Knights of Lushi also dressed up in the cheerful colours of the many nobles of the realm. To symbolise unity, knights from both countries had hanged their heraldic shields on the walls of the chapel where the ceremony would take place.\n\nThere was one star who outshone all these knights and ladies, however, the bride herself. After a herald announced them, [LUS.GetLeader] led the Princess into the overcrowded chapel in the Whitecrests' ancestral home. Princess Mira was wearing a dress of the finest satins. On her head was a silver tiara, with a large sapphire stone set in the centre. None could keep their eyes of the dazzling royal, but no griffon in the room was as enchanted by her as Prince Tomado, his eyes shining with unending love.\n\nAfter both bride and groom had arrived at the altar, the priest of Eyr repeated the vows of marriage. All those present held their breath.\n'Yes,' said the Prince, his voice dutiful but betraying a hint of nervousness.\n'Yes,' exclaimed the Princess, who could barely contain herself.\n\n'Then you are now husband and wife. May Eyr watch over your union,' the priest confirmed. As the two lovers moved to kiss each other, the nobles and notables of both countries erupted into cheers and applause. Love had not only brought these two lovers together, but both of their peoples as well. The party, both in the castle at Lumium and in the streets of all towns and villages in Brodfeld and Lushi, lasted until the sun rose up and deserves its place in legends in its own right. The love between Mira and Tomado, lasted forevermore."
-lushi_brodfeld.34.a:0 "To Whitecrest-Kissau unity!"
-
-###SUBMIT TO THE EMPIRE###
-lushi.33.t:0 "Submit to the Empire"
-lushi.33.d:0 "We have prepared a letter for you, [LUS.GetLeader]. In it we will formally pledge our vassalage to the encroaching Griffonian Empire. Should they accept, we will be at their mercy. It merely requires your seal of approval."
-lushi.33.a:0 "We have no other choice!"
-lushi.33.b:0 "Who suggested this?!"
-### EVENT FOR THE EMPIRE ###
-lushi.34.t:0 "[From.GetLeader] Swears Fealty"
-lushi.34.d:0 "[From.GetName] has sent us an official letter. In the longwinded explanation, [From.GetLeader] explains that he has actually always seen the Griffonian Empire as rightful hegemon over the continent. Therefore, this letter should be seen merely as a confirmation of his vassalage to us. He offers his people and his lands to us. What should we reply?"
-lushi.34.a:0 "Welcome back into the fold."
-lushi.34.b:0 "Your end is near, cowards."
-### EVENTS THAT LUSHI GETS IN RESPONSE ###
-lushi.35.t:0 "[From.GetName] Accepts"
-lushi.35.d:0 "The Empire has accepted our vassalage. We will coordinate our military and foreign affairs with Griffenheim and pay a tithe as well. A high price for our lives, but perhaps an unavoidable one."
-lushi.35.a:0 "Sic transit gloria mundi."
-
-lushi.36.t:0 "[From.GetName] Declines"
-lushi.36.d:0 " The Empire has declined our vassalage. It seems that if they want anything to do with us, they want to pay the iron price. At least we saved our pride, but time will tell if we will have saved our plumage as well."
-lushi.36.a:0 "Lushi is only ours!"
-
-#news
-lushi_news.1.t:0 "Prince Elias was killed!"
-lushi_news.1.d:0 "[This.GetNewspaperHeader]Today, [GetDateText]. Prince Elias Whitecrest of the Lushian Principality was assassinated. Reportedly, the Prince was on a visit to one of his lords. An unknown griffon approached Prince Elias from above and shot him in the head with a Voderlader musket. The assassin was killed on sight by royal guards, so his political motivation remains unknown. Elias's younger brother, Prince Gerar will take power in the country. He is known as an admirer of Wingbardian political theorist Beakolini and his rule might turn out way differently than that of his deceased brother."
-lushi_news.1.a:0 "To the new tomorrow!"
-lushi_news.1.b:0 "We send our condolences to the Lushian nation."
-
-modify_lord_council:0 "§YLord Council§W will be modified"
-
-### destroyer ###
-lushi.42.t:0 "A Griffon? A Dragon? Maar Himself?"
-lushi.42.d:0 "A rumour spreads across the country. A strange creature appeared in a wheat field in southern Lushi. The local peasants, for whom the story is now the most interesting thing to discuss, told our soldiers the following tale: "First the sky went all gloomy like it's about to rain, then a giant dark orb appeared in the field, flashing with lightning, the wind rose up and the soil underneath the orb was torn apart. A giant monster, looking like a dragon with beak, appeared from the sphere and descended on the ground. It kept getting smaller and smaller until it reached a size of a normal griffon. Then it flew away in an unknown direction". Sir, would you like us to arrange a company to look around the forests? The demon might be anywhere. Maar himself might have come to Lushian lands to punish us for our sins!"
-lushi.42.a:0 "Superstitious rumours of peasants do not concern me."
-
-lushi.43.t:0 "Your Majesty, He Has Come!"
-lushi.43.d:0 "The demon who we thought to be a peasant legend has come to the capital. He had been travelling across our land, learning about our language and society. Now he desires to speak with you, the leader of Lushi. Would you risk it, your majesty?"
-lushi.43.a:0 "Let him in!"
-lushi.43.b:0 "I'm not home today!"
-
-lushi.44.t:0 "The Destroyer of Every World Possible"
-lushi.44.d:0 "The monster entered the hall and began to speak. His deep and growling voice, like that of a demon, made goosebumps ran over the skin of all griffons inside. He appeared like a green lizard with a beak, an unholy mix of dragon and griffon, his narrow eyes glowing blood red. \n\n"I come from far away to the land of Lushi. My name is Destroyer of Every World Possible! I was once capable of wiping whole worlds and universes from existence with my fiery breath. However, over the past millenia I became weak. Yet now I have found love in the lands of Lushi! I search for a shelter and a peaceful life. Would the ruler of this land be so generous to provide a residence for me? In return, I will offer protection to these lands, if they are ever in danger, as they would be my new home."\n\nTrembling, [Root.GetLeader] whispered "I don't think we have a choice...""
-lushi.44.a:0 "You are welcome in [Root.GetName]!"
-
-lushi.45.t:0 "Resolution"
-lushi.45.d:0 "The Destroyer was granted land in one of the villages near Lumium. His new rich residence was promptly built by the finest carpenters and architects of Lushi. Now he lives there with his griffon wife, enjoying a calm and prosperous life in his manor.\n\n"
-lushi.45.a:0 "I wish they live happily ever after."
-
-### peasants ##
-lushi_peasants.1.t:0 "Anarchy"
-lushi_peasants.1.d:0 "With the revolution over, the peasantry are lost. There is no government to guide them, and no one knows how to make a new one."
-lushi_peasants.1.a:0 "What have we wrought upon ourselves."
-
-lushi_peasants.2.t:0 "Bandit Groups Appear"
-lushi_peasants.2.d:0 "Armed peasants are forming bandit bands in order to steal food, money, and other materials to survive. Has all hope been lost?"
-lushi_peasants.2.a:0 "What do we do?"
-
-lushi_peasants.3.t:0 "Lushian Peasants Ask for Help"
-lushi_peasants.3.d:0 "The peasant revolt in Lushi was successful, however the newly formed government cannot control the armed mob that was once the revolutionary army. The peasants need political and economic education. Should we help our comrades?"
-lushi_peasants.3.a:0 "Of course."
-lushi_peasants.3.b:0 "It is not our concern."
-
-lushi_peasants.4.t:0 "Prywhen Establishes Our Government"
-lushi_peasants.4.d:0 "After our attempts to do it ourselves failed, the remnants of our government approached Prywhen, begging them to assist us in setting up a government proper. Good news, it accepts."
-lushi_peasants.4.a:0 "The start of a solution."
-
-lushi_peasants.5.t:0 "Prywhen Refuses to help"
-lushi_peasants.5.d:0 "After our attempts to do it ourselves failed, the remnants of our government approached Prywhen, begging them to assist us in setting up a government proper. Unfortunately, they've declined, flipped us the proverbial bird, and told us 'Good luck, buttercup.'"
-lushi_peasants.5.a:0 "Well, what do we do now?"
-
-lushi_peasants.6.t:0 "Bandit Trials"
-lushi_peasants.6.d:0 "We've found and captured one of the bandit leaders, Razech Oumont. He will be tried and executed next morning. However, there are concerns that his band extends country-wide, many peasants see him as their leader."
-lushi_peasants.6.a:0 "We have to kill him, he's a bandit."
-lushi_peasants.6.b:0 "Our talons are tied, let him go."
-
-lushi_peasants.7.t:0 "Peasant Revolt!"
-lushi_peasants.7.d:0 "Some of the peasants have revolted in an attempt to save Oumont from certain execution, and somehow, against all odds, they've succeeded."
-lushi_peasants.7.a:0 "No!"
-
-lushi_peasants.8.t:0 "A Successful Execution"
-lushi_peasants.8.d:0 "Oumont has been executed post-fair trial, and the populace didn't rise up."
-lushi_peasants.8.a:0 "That's a relief."
-
-lushi_peasants.9.t:0 "Razech Loyalist Revolt"
-lushi_peasants.9.d:0 "After his daring escape, Oumont has gathered a band and is personally leading a revolution against us!"
-lushi_peasants.9.a:0 "Comrades, to arms!"
-
-lushi.46.t:0 "Defence of Drak's Castle Successful!"
-lushi.46.d:0 ""
-lushi.46.a:0 "Hurray!"
-
-lushi.47.t:0 "Defence of Drak's Castle Failed!"
-lushi.47.d:0 ""
-lushi.47.a:0 "Darn!"
-
-lushi.48.t:0 "Stalemate in Drak's Castle Siege!"
-lushi.48.d:0 ""
-lushi.48.a:0 "We'll get them!"
+ #Lushian Greatness
+ lushi.1.t:0 "The Celebration of Lushian Greatness!"
+ lushi.1.d:0 "The Greatness of Lushi knows no bounds! The best griffons live in the land of Lushi! It is the nicest place of all Griffonia! Let's drink and dance all night long to celebrate this new wonderful holiday!"
+ lushi.1.b:0 "Hurray!"
+
+ lushi.2.t:0 "Lushian Knights have come!"
+ lushi.2.d:0 "The knights remember the feast that we organized to celebrate Lushian greatness. Now they have come to help us in our time of need. Clad in ancient enchanted armour, wearing lances with bright banners showing the old colours of the Lushian fiefs. This magnificent sight has revitalised the country and gave us confidence that we can win this war. Let us sing the praise of our Gallant Knights forevermore! Let us rally to our paladins!"
+ lushi.2.a:0 "Splendid!"
+ lushi.2.b:0 "Outstanding!"
+ lushi.2.c:0 "Magnificent!"
+ lushi.2.e:0 "Fantastic!"
+
+ #Lord Drak
+ lushi.3.t:0 "Lord Drak's Proposal"
+ lushi.3.d:0 "The influential Lord Drak is one of the most powerful nobles of the realm. He is old and despicable in every way. So far, he has refused to help [Root.GetLeader] in reforming the country. Rumours and whispers speak of his price. The Lord wishes to marry Princess Mira, Elias's daughter! The very thought of having to spend the rest of her life with this griffon has made the princess sick and sad. However, according to Griffonian traditions, the head of the household decides about marriages. The Prince is now stuck between his wishes for reform and the heart of Princess Mira.\n\nDrak came to the Castle at Lumium with a large entourage and he negotiated with [Root.GetLeader] for hours, with Mira watching the proceedings silently. Lord Drak, however, remained obstinate. His final proposal was as it is. Mira's claw, for his support..."
+ lushi.3.a:0 "I have no choice but to agree."
+ lushi.3.b:0 "You will never lay your dirty claws on Mira!"
+
+ lushi.4.t:0 "A Political Marriage"
+ lushi.4.d:0 "Many Lords and Notables from all over Lushi arrived at Lord Drak's Castle in the Northwest of the country. Today was to be the marriage of Mira Whitecrest and Marven Drak himself. The flowers, carpets and other decorations couldn't hide that the fortress was usually a far grimmer place. None of the guests reflected the castle better than [Root.GetLeader] and Princess Mira as they looked as grey as the castle's walls. 'It is for the future of Lushi, there was no other choice.' The Prince muttered to Mira as he prepared to walk the beautiful bride down the aisle.\n'Can't you just... get rid of him?' Mira whispered back, her eyes still seemed hopeful for some kind of miracle, but [Root.GetLeader] shook his head. He took her by the claw when a servant signalled that it was time. 'I'm sorry.'\n\nMira and Drak were together now, standing in front of the priest of Eyr. The holy griffon repeated the vows for both of them. 'Yes.' The Lord answered, with an unbearable sadistic joy in his voice.\n'Yes.' The Lady said, softly, trying to look happy in front of the crowd. The priest gave a worried glance to the new couple, as if he could sense what was really going on, but he did proceed. 'Then you are now husband and wife. May Eyr watch over your union.'"
+ lushi.4.a:0 "May Eyr watch over their union..."
+
+ lushi.5.t:0 "Lord Drak of Veritas"
+ lushi.5.d:0 "The Northwestern lands of Lushi, which border our own country, have been under control of the Drak family for some time now. It seems that the prince of Lushi has somehow gravely insulted Lord Marvin Drak, however. So much so, that the noblegriffon seeks to sever his vassalage to Lushi. In a formal letter bearing his seal, Lord Drak swears fealty to [Root.GetLeader] and wants his domain to become a part of [Root.GetName]. We have to consider this proposal carefully, as it might lead to problems with Lushi."
+ lushi.5.a:0 "He is more than welcome!"
+ lushi.5.b:0 "We don't need problems."
+
+ lushi.6.t:0 "Lord Draks of Veritas left us"
+ lushi.6.d:0 "News came that Lord Draks has sworn fealty to [From.GetLeader] and his country became the property of his new overlord. In a letter in which he explains his actions, he states that a Lord, if his honour is in jeopardy, can renounce his vassalage and find another protector. This might have something to do with the Prince's refusal to have Drak marry Princess Mira."
+ lushi.6.a:0 "That worm."
+
+ lushi.7.t:0 "Drak's Castle Captured!"
+ lushi.7.d:0 "Our siege of Drak's Castle was successful! Our troops seized the walls, making their way to the keep itself. Although the resistance of Drak's goons, supported by his new overlord's troops, was fierce, they did not manage to deter our brave knights and soldiers. Step by step they fought their way up the keep's tower, until they finally found Drak. Clad in heavy armour and wearing a mace, the Lord managed to kill three knights before finally being overpowered. After the Castle was taken, Lushian troops once again controlled the entire state surrounding it. A quick peace deal was made to end the conflict, the castle clearly being much more trouble than it was worth for our enemies. Lushi has won the day!"
+ lushi.7.a:0 "Wonderful!"
+
+ lushi.8.t:0 "Our forces repelled"
+ lushi.8.d:0 "Despite our best efforts, the siege of Drak's Castle has failed. The might of his own levy along with the forces of his overlord and the fortifications proved to be too much for our brave forces. Although we managed to overwhelm much of the state and even the castle walls, we could not seize the Keep. Drak himself, still using an ancient mace, managed to turn the tide at the last second. Our losses were simply too high to justify any further assaults. Drak has won his independence from Lushi..."
+ lushi.8.a:0 "Awful."
+
+ lushi.9.t:0 "Siege broken off"
+ lushi.9.d:0 "Due to a lack of troops assigned to the siege works, our general has not managed to properly besiege Drak's Castle. With extra reinforcements from the rest of his new country coming in, we have lost our opportunity to regain the stolen state."
+ lushi.9.a:0 "We didn't go through with it."
+
+ lushi.38.t:0 "Under the Cover of Darkness"
+ lushi.38.d:0 "Our assassin has managed to sneak into the castle via the sewers. Of course everything in Drak's Castle stinks, so the difference was barely noticeable. Now, our assassin needs to make his way to the Lord's bedchamber and decide on his strategy. Unless, of course, he gets cold claws."
+ lushi.38.a:0 "Poison him."
+ lushi.38.b:0 "Shoot him."
+ lushi.38.c:0 "Strangle him in his sleep."
+ lushi.38.e:0 "Recall the Assassin now!"
+
+ lushi.39.t:0 "Assassination Successful!"
+ lushi.39.d:0 "Lord Drak has perished and the assassin has made a safe getaway. Our part in the plot will remain hidden and Mira won't have to spend any time being that old crook's partner."
+ lushi.39.a:0 "To Tartarus with you."
+
+ lushi.40.t:0 "Assassination Failed!"
+ lushi.40.d:0 "Through some twist of fate, Marvin Drak has survived! Luckily our griffon got away safely, ensuring the secrecy of our plot."
+ lushi.40.a:0 "Too bad."
+
+ lushi.41.t:0 "Our Assassin was Captured!"
+ lushi.41.d:0 "Our plan went horribly! Not only did Lord Drak survive, he managed to alarm his guards and capture the assassin. Let's hope we can somehow deny involvement in trying to murder one of our own vassals."
+ lushi.41.a:0 "We made a mistake."
+
+ #Peasants War
+ lushi.14.t:0 "Peasants refuse to work"
+ lushi.14.d:0 "Our continuation of the harsh serfdom of old seems to have had the opposite effect we desired. The peasants, encouraged by similar revolutions across the continent, refuse to work! Even worse, they are stealing weapons from armouries and plaguing the countryside. We still have a little while before the situation spirals out of our control, but we must somehow regain the commoners' trust before they overthrow our government!"
+ lushi.14.a:0 "Did we push them too far?"
+
+ lushi.15.t:0 "The Peasants War!"
+ lushi.15.d:0 "A mass revolt has occurred throughout the countryside. Peasants occupied towns and villages, armed with firearms and sometimes just pitchforks and torches. Many soldiers are sympathetic to them and have rallied to their side. The mob is now marching towards the last remaining aristocratic strongholds, determined to earn their freedom by force!"
+ lushi.15.a:0 "Fight the mob!"
+ lushi.15.b:0 "Join the revolution!"
+
+ #I like Trains
+ lushi.16.t:0 "Purchase Trains Abroad"
+ lushi.16.d:0 "A modern country relies on railroads to transport passengers and goods. Although we have some connections between our major towns, we still lack enough trains to make the routes stable and useful. Let us procure trains from abroad and finally drag our country out of the Feudal age!"
+ lushi.16.a:0 "Spread the word!"
+
+ lushi.17.t:0 "Lushi offers train deal."
+ lushi.17.d:0 "The government of [LUS.GetNameDef] offers us a trade deal, they would like to buy several trains from our country to improve the life of their citizens and further modernize their own country. They are willing to pay a good price for the trains!"
+ lushi.17.a:0 "Deal."
+ lushi.17.b:0 "No deal."
+
+ lushi.18.t:0 "[From.GetName] accepted the deal."
+ lushi.18.d:0 "[From.GetName] has decided to let us buy several of their old trains! This will certainly solve all the infrastructure problems we are facing right now. The only thing left is to confirm the deal."
+ lushi.18.a:0 "We agree!"
+ lushi.18.b:0 "I'd rather buy them from another country."
+
+ lushi.19.t:0 "[From.GetName] signs the deal."
+ lushi.19.d:0 "The government of Lushi signed the deal and the trains we have prepared for them are now on the way to Lushian lands. We should expect their payment shortly. Let us hope this only strengthens the friendship between us!"
+ lushi.19.a:0 "A good deal."
+
+ lushi.20.t:0 "Lushi signs deal with [From.GetName]"
+ lushi.20.d:0 "The government of [LUS.GetNameDef] has purchased trains in [From.GetNameDef]. They have sent us a polite letter explaining that [From.GetNameDef] had a better deal at this time. It seems we can't win them all."
+ lushi.20.a:0 "That's a shame."
+
+ lushi.21.t:0 "[From.GetName] refuse train deal"
+ lushi.21.d:0 "The greedy government of [From.GetName] has decided to refuse our most generous deal. It seems that they need their old trains for themselves. No matter, we'll find another seller."
+ lushi.21.a:0 "Fine."
+
+ #Not a griffonian nation without an economic crash
+ lushi.22.t:0 "Agriculture Crisis"
+ lushi.22.d:0 "Freeing the peasants from their serfdom has made the price of food soar as peasants need to be paid more and some have decided to flock to the cities for other jobs. The ones who are left haven't contributed enough food to feed the growing population of the cities. Our granaries are still full from previous years, but a crisis looms on the horizon..."
+ lushi.22.a:0 "We'll get through this."
+
+ lushi.23.t:0 "Crisis of Transformation"
+ lushi.23.d:0 "As more efficient ways of farming are forming, the rich peasants are getting richer, but the poorer peasants are getting poorer and more numerous. The griffons don't have jobs and don't have the money to buy the things that the rich produce. We must organize more workplaces, enact market regulations and support the smaller farmers."
+ lushi.23.a:0 "Let's get to work!"
+
+ lushi.24.t:0 "Grain Deal from Lushi"
+ lushi.24.d:0 "[LUS.GetName] wants to buy quality grain in our country. It seems that their country is running the risk of a famine. We currently have a food surplus and can afford to be generous. Should we oblige and help Lushi?"
+ lushi.24.a:0 "Yes, they can buy it."
+ lushi.24.b:0 "No, we should not."
+
+ lushi.25.t:0 "[From.GetName] sells us grain"
+ lushi.25.d:0 "We have been saved! [From.GetName] has decided to generously allow us to buy up some of their grain reserves. The food is already on its way to the most affected areas. Soon no griffon will have to go hungry again."
+ lushi.25.a:0 "Thank Eyr."
+
+ lushi.26.t:0 "[From.GetName] rejects deal."
+ lushi.26.d:0 "We are still in dire straits, as [From.GetName] has sadly refused to sell us grain. They say that they need the food themselves and that even though they are sympathetic to our plight, that they cannot provide any assistance at this time. Let us hope that our luck improves."
+ lushi.26.a:0 "Let us pray."
+
+ lushi.27.t:0 "Food is running out"
+ lushi.27.d:0 "The lack of food imports, along with the bad harvests, has meant that our food reserves are depleting fast. With strict rationing we might be able to keep every griffon alive for a while, but the strong are already becoming weaker and our country is suffering. We must act now to save the lives of our people!"
+ lushi.27.a:0 "Gods preserve us..."
+
+ lushi.28.t:0 "Famine takes over the country"
+ lushi.28.d:0 "With our fields still not putting out enough food to feed our people and with no help from abroad, we cannot save every griffon anymore. Our griffons have resorted to eating anything even mildly digestible, but their strength is completely sapped. Some have already been taken by the great famine. Our country is barely operational right now. We should pray for the dead and pray that our suffering may end soon, one way or the other."
+ lushi.28.a:0 "Eyr damned us!"
+
+ #War with Prywhen
+ lushi.30.t:0 "The Peasants are unhappy"
+ lushi.30.d:0 "As we've entered the war against Prywhen, more and more peasants start to share rebellious sentiment for they believe the same can happen to them. We should keep an eye on them and make sure that they do not catch us unawares, as the peasants of Prywhen did with the Lords of Brodfeld"
+ lushi.30.a:0 "Keep an eye on them."
+
+ lushi.31.t:0 "War Measures"
+ lushi.31.d:0 "As we've entered the war against Prywhen, the terrible situation of our economy has revealed. We do not have money to finance both the military and civilian construction projects. What do we focus on?"
+ lushi.31.a:0 "Construct. The army will manage."
+ lushi.31.b:0 "We only need more guns."
+ lushi.31.c:0 "Share the money between these two."
+
+ #Gerar's Recruiting Law
+ lushi.37.t:0 "We can enact the New Recruiting Law again"
+ lushi.37.d:0 "We decided to lax the recruitment law for a while to give our people some breathing room. If we desire to, however, we can instate the harsher recruitment law again. This will make our people unhappy, but it will provide us with more able-bodied griffons for our army."
+ lushi.37.a:0 "Very well."
+
+
+ #Prywhen Events
+ lushi_prywhen.1.t:0 "[LUS.GetNameDefCap] offers friendship"
+ lushi_prywhen.1.d:0 "[LUS.GetNameDefCap] wants to establish an embassy in our land. They cite sympathies for the suffering of the peasants of Prywhen and list reforms in their own country which would prevent the peasants in Lushi to suffer the same fate. Furthermore, they list common interests such as trade and defence as good reasons to cooperate. However, their country is ruled by a prince and nobles and we still have contact with supporters trying to rally communism in Lushi too. Do we accept this offer?"
+ lushi_prywhen.1.a:0 "Let's show our open mindedness."
+ lushi_prywhen.1.b:0 "Your head would look good on the end of a stick!"
+
+ lushi_prywhen.2.t_frnd:0 "Embassy in GLA"
+ lushi_prywhen.2.t_no_frnd:0 "Embassy in GLA denied"
+ lushi_prywhen.2.d_frnd:0 "It seems these peasants are more reasonable than we give them credit for. They have accepted our offer and we established formal diplomatic contact with Prywhen. The old Kissau's might not like this, but it is better to bet on the winning side."
+ lushi_prywhen.2.d_no_frnd:0 "These peasants are as stupid as their ideology! They have refused our claw in friendship merely because of ideological reasons. Their response was an insult and almost enough of a reason for war in its own right. It seems we overestimated the pragmatism of the Griffon Liberation Army"
+ lushi_prywhen.2.a:0 "Great."
+ lushi_prywhen.2.b:0 "Prepare for a possible attack."
+
+ lushi_prywhen.3.t:0 "Non-Aggression Pact from Lushi"
+ lushi_prywhen.3.d:0 "The bourgeoisie and imperialists of Lushi are back with a new proposal. It seems that they are afraid of the people's army and seek a non-aggression pact with us. One the one claw, this would defend one of our most vulnerable flanks from invasion, on the other claw, such ad deal might be a massive disappointment to those oppressed griffons in Lushi."
+ lushi_prywhen.3.a:0 "We must be pragmatic, accept."
+ lushi_prywhen.3.b:0 "We cannot abandon principals, decline."
+
+ lushi_prywhen.4.t:0 "Prywhen Accepts"
+ lushi_prywhen.4.d:0 "The communists have accepted a mutual non-aggression pact. We can rest soundly at night, knowing that the red tide will leave our home alone."
+ lushi_prywhen.4.a:0 "Good."
+
+ lushi_prywhen.5.t:0 "Prywhen Declines"
+ lushi_prywhen.5.d:0 "It appears that the communists have plans to attack us after all, since they are not willing to sign a binding pact of non-aggression. Very well, if they come, we will be ready."
+ lushi_prywhen.5.a:0 "There's nothing we can do."
+
+ lushi_prywhen.6.t:0 "Lushi Trade Route"
+ lushi_prywhen.6.d:0 "Lushi wants to support our friendship by establishing a trade route between our countries. This deal will be beneficial to both of our countries. But, should we really accept goods made by bourgeois imperialists? Should we really profit of the oppression of others?"
+ lushi_prywhen.6.a:0 "We will use these funds for good!"
+ lushi_prywhen.6.b:0 "No."
+
+ lushi_prywhen.7.t:0 "[From.GetName] accepts the deal"
+ lushi_prywhen.7.d:0 "The trade routes between our countries are established! The communists have opened their towns to trade with us, giving us an exclusive advantage in selling goods from Prywhen to the world market! This will help our economy tremendously."
+ lushi_prywhen.7.a:0 "Great!"
+
+ lushi_prywhen.9.t:0 "Peaceful Research with Lushi"
+ lushi_prywhen.9.d:0 "The nobles of Lushi have asked for our help yet again. They want us to sign a research treaty, working together on important research. Will we accept their help to make the world a better place?"
+ lushi_prywhen.9.a:0 "Of course!"
+ lushi_prywhen.9.b:0 "No need to share our knowledge with bourgeois."
+
+ lushi_prywhen.10.t:0 "Prywhen Accepts!"
+ lushi_prywhen.10.d:0 "The communists have accepted our mutual research program!"
+ lushi_prywhen.10.a:0 "Hurray!"
+
+ lushi_prywhen.11.t:0 "The Lumium Defence Pact!"
+ lushi_prywhen.11.d:0 "Lushi is now seeking a mutual defence treaty. Effectively they want to form a faction together, called the Lumium defence pact. Although Lushi has proven to be a reliable friend in the past, many of our comrades are uneasy about cooperating with a monarchy."
+ lushi_prywhen.11.a:0 "For the Revolution!"
+ lushi_prywhen.11.b:0 "We will never fight with imperialists!"
+ #Brodfeld Events
+ lushi_brodfeld.1.t:0 "[LUS.GetLeader] holds a speech against Brodfeld!"
+ lushi_brodfeld.1.d:0 "[LUS.GetLeader] made a speech in front of a crowd in Lumium today. He exclaimed that the King in Brodfeld lost his right to rule right when he let the communist revolution take place. The House de Kissau cannot be trusted as they will inevitably plunge Prywhen into another bloody civil war. The people of all Prywhen should accept [LUS.GetLeader] as their ruler for everlasting peace and prosperity."
+ lushi_brodfeld.1.a:0 "That is definitely so!"
+ lushi_brodfeld.1.b:0 "That is outrageous!"
+
+ lushi_brodfeld.2.t:0 "Lushi Demands Our Kingdom!"
+ lushi_brodfeld.2.d:0 "[LUS.GetLeader] just sent a letter to us, saying that our rule over Prywhen is illegitimate and we should abdicate in favour of a King from house Whitecrest! The document, carrying the Lushian seal, lists our alleged crimes against good rulership and against our own people. While these are clearly forged, it seems like Lushi has set its sights on our country. Do we bend, or throw Prywhen into another bloody conflict?"
+ lushi_brodfeld.2.a:0 "We must bend."
+ lushi_brodfeld.2.c:0 "Send them a highly cultured letter!"
+ lushi_brodfeld.2.b:0 "This means War!"
+
+ lushi_brodfeld.3.t:0 "Brodfeld bends over!"
+ lushi_brodfeld.3.d:0 "In a display of their true courage, the King of Brodfeld has decided to bend for us. He has formally given all his titles to [LUS.GetLeader] and reluctantly gave the Prince his blessing. A glorious day for the house of Whitecrest!"
+ lushi_brodfeld.3.a:0 "His country is wide open!"
+
+ lushi_brodfeld.4.t:0 "Message from the King of Brodfeld"
+ lushi_brodfeld.4.d:0 ""Most esteemed ruler of Lushi, I hereby give the following reply to your humble request. May you be sewn up alive into the body of a dead pony, you greedy arrogant bastard son! Tales of your misdeeds are told from Equestria to Zebrica. Boreas have mercy on your wretched soul, for you will certainly meet him when I am done with you!""
+ lushi_brodfeld.4.a:0 "We won't ask nicely next time!"
+
+ lushi_brodfeld.5.t:0 "King of Brodfeld declared war on us!"
+ lushi_brodfeld.5.d:0 "The King of Brodfeld shows his short temper yet again. They simply responded to our request with a declaration of war! Of course we expected this outcome and now history will remember them as the aggressor."
+ lushi_brodfeld.5.a:0 "To Victory!"
+
+ lushi_brodfeld.6.t:0 "Coronation of [LUS.GetLeader]!"
+ lushi_brodfeld.6.d:0 "With the unification of Lushi and Prywhen, [LUS.GetLeader] will be crowned as the King of Lushi and Brodfeld! This United Kingdom will stand among the great powers of Griffonia! May Boreas bless Lushi and Brodfeld!"
+ lushi_brodfeld.6.a:0 "Hail to the King!"
+
+ lushi_brodfeld.7.t:0 "Payment for the Help"
+ lushi_brodfeld.7.d:0 "The Prince of Lushi has demanded a price for their help in the civil war. Do we give in to their outrageously high demands?"
+ lushi_brodfeld.7.a:0 "Pay the full price."
+ lushi_brodfeld.7.b:0 "Half or nothing, Whitecrest."
+ lushi_brodfeld.7.c:0 "Don't pay at all."
+
+ lushi_brodfeld.8.t:0 "Brodfeld Pays for the Help"
+ lushi_brodfeld.8.d:0 "The King of Brodfeld has decided to pay the price for Lushian arms. It seems that he has seen reason after all. The de Kissaus can be trusted to uphold their bargains after all."
+ lushi_brodfeld.8.a:0 "Great."
+
+ lushi_brodfeld.9.t:0 "Brodfeld Pays for the Help"
+ lushi_brodfeld.9.d:0 "The King of Brodfeld has decided to pay the price for Lushian arms. It seems that he has seen reason after all. The de Kissaus sneakily halved the payment, however. What are these scheming sons of Maar up to?"
+ lushi_brodfeld.9.a:0 "What are they planning?"
+
+ lushi_brodfeld.10.t:0 "Brodfeld refuses to pay!"
+ lushi_brodfeld.10.d:0 "The King of Brodfeld has refused to pay what he owes us. We should never have trusted a Kissau! Perhaps we should turn Lushian arms on him then?"
+ lushi_brodfeld.10.a:0 "Outrageous!"
+
+ lushi_brodfeld.11.t:0 "Marriage Proposal Accepted!"
+ lushi_brodfeld.11.d:0 "The King of Prywhen has decided to accept our proposals. He has allowed Prince Tomado to propose to Princess Mira! At a balcony on the castle of Lumium, the gallant prince fell to one knee and revealed a silver ring to Princess Mira, to who the consent of both houses was kept silent. When Tomado explained that their families gave their blessings, Mira took the ring, exclaiming her love for the Prince! The news of the betrothal has spread quickly through the two realms, where the commoners celebrated and toasted on the future of the Prince and the Princess!"
+ lushi_brodfeld.11.a:0 "Hurray."
+
+ lushi_brodfeld.29.t_pay:0 "[LUS.GetLeader] offers assistance for a price"
+ lushi_brodfeld.29.t_no_pay:0 "[LUS.GetLeader] offers assistance"
+ lushi_brodfeld.29.d_pay:0 "A letter came from [LUS.GetLeader], announcing that he has stationed his armies on the border with Prywhen. The Prince of Lushi says that he is ready to strike at any time. However, he reminds us that the war is costly and that Brodfeld should share some of its wealth with [LUS.GetNameDef] after our victory. [BRF.GetLeader] surely doesn't have any intentions of working with the nasty [LUS.GetLeader], but we are in dire situation right now. Shall we accept this alliance?"
+ lushi_brodfeld.29.d_no_pay:0 "A letter came from [LUS.GetLeader], announcing that he has stationed his armies on the border with Prywhen. The Prince of Lushi says that he is ready to strike at any time. He offers his help freely, stating that it is any Boreas-loving griffon's duty to fight the red threat. It seems that [LUS.GetLeader] is truly a noble griffon! [BRF.GetLeader], however, has doubts about lushian honesty, but we are in dire situation right now. Shall we accept this alliance?"
+ lushi_brodfeld.29.a:0 "We accept this alliance."
+ lushi_brodfeld.29.b:0 "Griffon nature, eh? No deal."
+ lushi_brodfeld.29.c:0 "No way."
+
+ lushi_brodfeld.30.t:0 "War for Brodfeld"
+ lushi_brodfeld.30.d:0 "The war of the Prywhen peasants against the King of Brodfeld has taken a turn for the worse, with the communists advancing on the last loyalist strongholds. If we are to take advantage of the situation and save our friends, we must intervene now. We could either ask for compensation, or fight the communists for free."
+ lushi_brodfeld.30.b:0 "We need no reparation for doing the right thing."
+ lushi_brodfeld.30.a:0 "A price must be paid."
+
+ lushi_brodfeld.31.t:0 "[BRF.GetLeader] accepted the deal and we go to war!"
+ lushi_brodfeld.31.d:0 "The wise ruler of Brodfeld has decided to rely on our help. The knights and the levies have been rallied at the border, ready to squash our enemies. The priests of Arcturius have held fiery sermons denouncing communism as a godless empty ideology. The rebels will be crushed in glorious battle!"
+ lushi_brodfeld.31.a:0 "Hurray!"
+
+ lushi_brodfeld.32.t:0 "[BRF.GetLeader] refused our help"
+ lushi_brodfeld.32.d:0 "[BRF.GetLeader] refused our generous offer to help him fight the communists. It seems he didn't trust us after all. We will see if he can handle this revolt on his own. For now, we stand on the sidelines."
+ lushi_brodfeld.32.a:0 "Oh well."
+
+ lushi_brodfeld.33.t:0 "Royal Marriage"
+ lushi_brodfeld.33.d:0 "[LUS.GetLeader] offers to arrange a royal marriage between their Princess Mira Whitecrest and our Prince Tomado de Kissau. The two have already been getting closer for a while now and the court says they would make a lovely couple. However, this might bind us too close to the Lushians."
+ lushi_brodfeld.33.a:0 "Love conquers all!"
+ lushi_brodfeld.33.b:0 "I see through your tricks, Whitecrest."
+
+
+
+ LUS_kingdom_flag:0 "Lushi is a Kingdom"
+ lushi_will_find_about_this:0 "[LUS.GetNameDef] will find out about this"
+
+ BRF_paid_half:0 "Brodfeld Paid Half"
+ BRF_didnt_pay:0 "Brodfeld Paid Nothing"
+
+ lushi.32.t:0 "Prince Tomado and Princess Mira Marriage"
+ lushi.32.d:0 "The Castle at Lumium was full of guests on the marriage day. An excited mood has taken hold as guests from both countries wait for the moment of truth. Prince Tomado and his father were accompanied by knights in colourful uniform, brandishing the banners of House Kissau. To match this, the Gallant Knights of Lushi also dressed up in the cheerful colours of the many nobles of the realm. To symbolise unity, knights from both countries had hanged their heraldic shields on the walls of the chapel where the ceremony would take place.\n\nThere was one star who outshone all these knights and ladies, however, the bride herself. After a herald announced them, [LUS.GetLeader] led the Princess into the overcrowded chapel in the Whitecrests' ancestral home. Princess Mira was wearing a dress of the finest satins. On her head was a silver tiara, with a large sapphire stone set in the centre. None could keep their eyes of the dazzling royal, but no griffon in the room was as enchanted by her as Prince Tomado, his eyes shining with unending love.\n\nAfter both bride and groom had arrived at the altar, the priest of Eyr repeated the vows of marriage. All those present held their breath.\n'Yes,' said the Prince, his voice dutiful but betraying a hint of nervousness.\n'Yes,' exclaimed the Princess, who could barely contain herself.\n\n'Then you are now husband and wife. May Eyr watch over your union,' the priest confirmed. As the two lovers moved to kiss each other, the nobles and notables of both countries erupted into cheers and applause. Love had not only brought these two lovers together, but both of their peoples as well. The party, both in the castle at Lumium and in the streets of all towns and villages in Brodfeld and Lushi, lasted until the sun rose up and deserves its place in legends in its own right. The love between Mira and Tomado, lasted forevermore."
+ lushi.32.a:0 "May Eyr bless their Union!"
+
+ lushi_brodfeld.34.t:0 "Prince Tomado and Princess Mira Married!"
+ lushi_brodfeld.34.d:0 "The Castle at Lumium was full of guests on the marriage day. An excited mood has taken hold as guests from both countries wait for the moment of truth. Prince Tomado and his father were accompanied by knights in colourful uniform, brandishing the banners of House Kissau. To match this, the Gallant Knights of Lushi also dressed up in the cheerful colours of the many nobles of the realm. To symbolise unity, knights from both countries had hanged their heraldic shields on the walls of the chapel where the ceremony would take place.\n\nThere was one star who outshone all these knights and ladies, however, the bride herself. After a herald announced them, [LUS.GetLeader] led the Princess into the overcrowded chapel in the Whitecrests' ancestral home. Princess Mira was wearing a dress of the finest satins. On her head was a silver tiara, with a large sapphire stone set in the centre. None could keep their eyes of the dazzling royal, but no griffon in the room was as enchanted by her as Prince Tomado, his eyes shining with unending love.\n\nAfter both bride and groom had arrived at the altar, the priest of Eyr repeated the vows of marriage. All those present held their breath.\n'Yes,' said the Prince, his voice dutiful but betraying a hint of nervousness.\n'Yes,' exclaimed the Princess, who could barely contain herself.\n\n'Then you are now husband and wife. May Eyr watch over your union,' the priest confirmed. As the two lovers moved to kiss each other, the nobles and notables of both countries erupted into cheers and applause. Love had not only brought these two lovers together, but both of their peoples as well. The party, both in the castle at Lumium and in the streets of all towns and villages in Brodfeld and Lushi, lasted until the sun rose up and deserves its place in legends in its own right. The love between Mira and Tomado, lasted forevermore."
+ lushi_brodfeld.34.a:0 "To Whitecrest-Kissau unity!"
+
+ ###SUBMIT TO THE EMPIRE###
+ lushi.33.t:0 "Submit to the Empire"
+ lushi.33.d:0 "We have prepared a letter for you, [LUS.GetLeader]. In it we will formally pledge our vassalage to the encroaching Griffonian Empire. Should they accept, we will be at their mercy. It merely requires your seal of approval."
+ lushi.33.a:0 "We have no other choice!"
+ lushi.33.b:0 "Who suggested this?!"
+ ### EVENT FOR THE EMPIRE ###
+ lushi.34.t:0 "[From.GetLeader] Swears Fealty"
+ lushi.34.d:0 "[From.GetName] has sent us an official letter. In the longwinded explanation, [From.GetLeader] explains that he has actually always seen the Griffonian Empire as rightful hegemon over the continent. Therefore, this letter should be seen merely as a confirmation of his vassalage to us. He offers his people and his lands to us. What should we reply?"
+ lushi.34.a:0 "Welcome back into the fold."
+ lushi.34.b:0 "Your end is near, cowards."
+ ### EVENTS THAT LUSHI GETS IN RESPONSE ###
+ lushi.35.t:0 "[From.GetName] Accepts"
+ lushi.35.d:0 "The Empire has accepted our vassalage. We will coordinate our military and foreign affairs with Griffenheim and pay a tithe as well. A high price for our lives, but perhaps an unavoidable one."
+ lushi.35.a:0 "Sic transit gloria mundi."
+
+ lushi.36.t:0 "[From.GetName] Declines"
+ lushi.36.d:0 " The Empire has declined our vassalage. It seems that if they want anything to do with us, they want to pay the iron price. At least we saved our pride, but time will tell if we will have saved our plumage as well."
+ lushi.36.a:0 "Lushi is only ours!"
+
+ #news
+ lushi_news.1.t:0 "Prince Elias was killed!"
+ lushi_news.1.d:0 "[This.GetNewspaperHeader]Today, [GetDateText]. Prince Elias Whitecrest of the Lushian Principality was assassinated. Reportedly, the Prince was on a visit to one of his lords. An unknown griffon approached Prince Elias from above and shot him in the head with a Voderlader musket. The assassin was killed on sight by royal guards, so his political motivation remains unknown. Elias's younger brother, Prince Gerar will take power in the country. He is known as an admirer of Wingbardian political theorist Beakolini and his rule might turn out way differently than that of his deceased brother."
+ lushi_news.1.a:0 "To the new tomorrow!"
+ lushi_news.1.b:0 "We send our condolences to the Lushian nation."
+
+ modify_lord_council:0 "§YLord Council§W will be modified"
+
+ ### destroyer ###
+ lushi.42.t:0 "A Griffon? A Dragon? Maar Himself?"
+ lushi.42.d:0 "A rumour spreads across the country. A strange creature appeared in a wheat field in southern Lushi. The local peasants, for whom the story is now the most interesting thing to discuss, told our soldiers the following tale: "First the sky went all gloomy like it's about to rain, then a giant dark orb appeared in the field, flashing with lightning, the wind rose up and the soil underneath the orb was torn apart. A giant monster, looking like a dragon with beak, appeared from the sphere and descended on the ground. It kept getting smaller and smaller until it reached a size of a normal griffon. Then it flew away in an unknown direction". Sir, would you like us to arrange a company to look around the forests? The demon might be anywhere. Maar himself might have come to Lushian lands to punish us for our sins!"
+ lushi.42.a:0 "Superstitious rumours of peasants do not concern me."
+
+ lushi.43.t:0 "Your Majesty, He Has Come!"
+ lushi.43.d:0 "The demon who we thought to be a peasant legend has come to the capital. He had been travelling across our land, learning about our language and society. Now he desires to speak with you, the leader of Lushi. Would you risk it, your majesty?"
+ lushi.43.a:0 "Let him in!"
+ lushi.43.b:0 "I'm not home today!"
+
+ lushi.44.t:0 "The Destroyer of Every World Possible"
+ lushi.44.d:0 "The monster entered the hall and began to speak. His deep and growling voice, like that of a demon, made goosebumps ran over the skin of all griffons inside. He appeared like a green lizard with a beak, an unholy mix of dragon and griffon, his narrow eyes glowing blood red. \n\n"I come from far away to the land of Lushi. My name is Destroyer of Every World Possible! I was once capable of wiping whole worlds and universes from existence with my fiery breath. However, over the past millenia I became weak. Yet now I have found love in the lands of Lushi! I search for a shelter and a peaceful life. Would the ruler of this land be so generous to provide a residence for me? In return, I will offer protection to these lands, if they are ever in danger, as they would be my new home."\n\nTrembling, [Root.GetLeader] whispered "I don't think we have a choice...""
+ lushi.44.a:0 "You are welcome in [Root.GetName]!"
+
+ lushi.45.t:0 "Resolution"
+ lushi.45.d:0 "The Destroyer was granted land in one of the villages near Lumium. His new rich residence was promptly built by the finest carpenters and architects of Lushi. Now he lives there with his griffon wife, enjoying a calm and prosperous life in his manor.\n\n"
+ lushi.45.a:0 "I wish they live happily ever after."
+
+ ### peasants ##
+ lushi_peasants.1.t:0 "Anarchy"
+ lushi_peasants.1.d:0 "With the revolution over, the peasantry are lost. There is no government to guide them, and no one knows how to make a new one."
+ lushi_peasants.1.a:0 "What have we wrought upon ourselves."
+
+ lushi_peasants.2.t:0 "Bandit Groups Appear"
+ lushi_peasants.2.d:0 "Armed peasants are forming bandit bands in order to steal food, money, and other materials to survive. Has all hope been lost?"
+ lushi_peasants.2.a:0 "What do we do?"
+
+ lushi_peasants.3.t:0 "Lushian Peasants Ask for Help"
+ lushi_peasants.3.d:0 "The peasant revolt in Lushi was successful, however the newly formed government cannot control the armed mob that was once the revolutionary army. The peasants need political and economic education. Should we help our comrades?"
+ lushi_peasants.3.a:0 "Of course."
+ lushi_peasants.3.b:0 "It is not our concern."
+
+ lushi_peasants.4.t:0 "Prywhen Establishes Our Government"
+ lushi_peasants.4.d:0 "After our attempts to do it ourselves failed, the remnants of our government approached Prywhen, begging them to assist us in setting up a government proper. Good news, it accepts."
+ lushi_peasants.4.a:0 "The start of a solution."
+
+ lushi_peasants.5.t:0 "Prywhen Refuses to help"
+ lushi_peasants.5.d:0 "After our attempts to do it ourselves failed, the remnants of our government approached Prywhen, begging them to assist us in setting up a government proper. Unfortunately, they've declined, flipped us the proverbial bird, and told us 'Good luck, buttercup.'"
+ lushi_peasants.5.a:0 "Well, what do we do now?"
+
+ lushi_peasants.6.t:0 "Bandit Trials"
+ lushi_peasants.6.d:0 "We've found and captured one of the bandit leaders, Razech Oumont. He will be tried and executed next morning. However, there are concerns that his band extends country-wide, many peasants see him as their leader."
+ lushi_peasants.6.a:0 "We have to kill him, he's a bandit."
+ lushi_peasants.6.b:0 "Our talons are tied, let him go."
+
+ lushi_peasants.7.t:0 "Peasant Revolt!"
+ lushi_peasants.7.d:0 "Some of the peasants have revolted in an attempt to save Oumont from certain execution, and somehow, against all odds, they've succeeded."
+ lushi_peasants.7.a:0 "No!"
+
+ lushi_peasants.8.t:0 "A Successful Execution"
+ lushi_peasants.8.d:0 "Oumont has been executed post-fair trial, and the populace didn't rise up."
+ lushi_peasants.8.a:0 "That's a relief."
+
+ lushi_peasants.9.t:0 "Razech Loyalist Revolt"
+ lushi_peasants.9.d:0 "After his daring escape, Oumont has gathered a band and is personally leading a revolution against us!"
+ lushi_peasants.9.a:0 "Comrades, to arms!"
+
+ lushi.46.t:0 "Defence of Drak's Castle Successful!"
+ lushi.46.d:0 ""
+ lushi.46.a:0 "Hurray!"
+
+ lushi.47.t:0 "Defence of Drak's Castle Failed!"
+ lushi.47.d:0 ""
+ lushi.47.a:0 "Darn!"
+
+ lushi.48.t:0 "Stalemate in Drak's Castle Siege!"
+ lushi.48.d:0 ""
+ lushi.48.a:0 "We'll get them!"

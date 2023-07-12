@@ -1,43 +1,45 @@
 ﻿l_english:
- ###COUNTRY NAMES###
- LSP_neutrality:0 "Las Pegasus"
- LSP_fascism:0 "State of Las Pegasus"
- LSP_communism:0 "Las Pegasus Commune"
- LSP_democratic:0 "Republic of Las Pegasus"
- LSP_neutrality_DEF:0 "Las Pegasus"
- LSP_fascism_DEF:0 "the State of Las Pegasus"
- LSP_communism_DEF:0 "the Las Pegasus Commune"
- LSP_democratic_DEF:0 "the Republic of Las Pegasus"
- LSP_fascism_ADJ:0 "Las Pegasusian"
- LSP_democratic_ADJ:0 "Las Pegasusian"
- LSP_neutrality_ADJ:0 "Las Pegasusian"
- LSP_communism_ADJ:0 "Las Pegasusian"
- LSP_technocracy_neutrality:0 "Equestrian Technocracy"
- LSP_technocracy_democratic:0 "Equestria"
- LSP_technocracy_fascism:0 "Equestrian State"
- LSP_technocracy_communism:0 "Equestrian Commune"
- LSP_technocracy_neutrality_DEF:0 "the Equestrian Technocracy"
- LSP_technocracy_democratic_DEF:0 "Equestria"
- LSP_technocracy_fascism_DEF:0 "the Equestrian State"
- LSP_technocracy_communism_DEF:0 "the Equestrian Commune"
- LSP_technocracy_neutrality_ADJ:0 "Equestrian"
- LSP_technocracy_democratic_ADJ:0 "Equestrian"
- LSP_technocracy_fascism_ADJ:0 "Equestrian"
- LSP_technocracy_communism_ADJ:0 "Equestrian"
- LSP_equestria_neutrality:0 "Equestria"
- LSP_equestria_democratic:0 "Equestria"
- LSP_equestria_fascism:0 "Equestrian State"
- LSP_equestria_communism:0 "Equestrian Commune"
- LSP_equestria_neutrality_DEF:0 "Equestria"
- LSP_equestria_democratic_DEF:0 "Equestria"
- LSP_equestria_fascism_DEF:0 "the Equestrian State"
- LSP_equestria_communism_DEF:0 "the Equestrian Commune"
- LSP_equestria_neutrality_ADJ:0 "Equestrian"
- LSP_equestria_democratic_ADJ:0 "Equestrian"
- LSP_equestria_fascism_ADJ:0 "Equestrian"
- LSP_equestria_communism_ADJ:0 "Equestrian"
+###COUNTRY NAMES###
+ LSP_fascism: "Держава Лас-Пеґасус"
+ LSP_fascism_DEF: "Держава Лас-Пеґасус"
+ LSP_fascism_ADJ: "Лас-пеґасуськ"
+ LSP_democratic: "Республіка Лас-Пеґасус"
+ LSP_democratic_DEF: "Республіка Лас-Пеґасус"
+ LSP_democratic_ADJ: "Лас-пеґасуськ"
+ LSP_neutrality: "Лас-Пеґасус"
+ LSP_neutrality_DEF: "Лас-Пеґасус"
+ LSP_neutrality_ADJ: "Лас-пеґасуськ"
+ LSP_communism: "Лас-Пеґасуська комуна"
+ LSP_communism_DEF: "Лас-Пеґасуська комуна"
+ LSP_communism_ADJ: "Лас-пеґасуськ"
 
- ###PARTIES###
+ LSP_technocracy_fascism: "Еквестрійська держава"
+ LSP_technocracy_fascism_DEF: "Еквестрійська держава"
+ LSP_technocracy_fascism_ADJ: "Еквестрійськ"
+ LSP_technocracy_democratic: "Еквестрія"
+ LSP_technocracy_democratic_DEF: "Еквестрія"
+ LSP_technocracy_democratic_ADJ: "Еквестрійськ"
+ LSP_technocracy_neutrality: "Еквестрійська технократія"
+ LSP_technocracy_neutrality_DEF: "Еквестрійська технократія"
+ LSP_technocracy_neutrality_ADJ: "Еквестрійськ"
+ LSP_technocracy_communism: "Еквестрійська комуна"
+ LSP_technocracy_communism_DEF: "Еквестрійська комуна"
+ LSP_technocracy_communism_ADJ: "Еквестрійськ"
+
+ LSP_equestria_fascism: "Еквестрійська держава"
+ LSP_equestria_fascism_DEF: "Еквестрійська держава"
+ LSP_equestria_fascism_ADJ: "Еквестрійськ"
+ LSP_equestria_democratic: "Еквестрія"
+ LSP_equestria_democratic_DEF: "Еквестрія"
+ LSP_equestria_democratic_ADJ: "Еквестрійськ"
+ LSP_equestria_neutrality: "Еквестрія"
+ LSP_equestria_neutrality_DEF: "Еквестрія"
+ LSP_equestria_neutrality_ADJ: "Еквестрійськ"
+ LSP_equestria_communism: "Еквестрійська комуна"
+ LSP_equestria_communism_DEF: "Еквестрійська комуна"
+ LSP_equestria_communism_ADJ: "Еквестрійськ"
+
+###PARTIES###
  LSP_neutrality_party:0 "Mayor's Rule"
  LSP_neutrality_party_long:0 "Office of the Mayor of Las Pegasus"
  LSP_communism_party:0 "Trade Union Council"
@@ -53,7 +55,7 @@
  LSP_rockhoof_party:0 "General Petroleum"
  LSP_rockhoof_party_long:0 "The General Petroleum Company"
 
- ###LEADERS###
+###LEADERS###
  LSP_mayor_rokenhar:0 "Mayor Rokenhar"
  LSP_president_sugarquill:0 "President Sugarquill"
  LSP_mr_horse:0 "Mr. Horse"
@@ -62,14 +64,14 @@
  LSP_starry_plough:0 "Starry Plough"
  LSP_pine_chest:0 "Pine Chest"
 
- ###GENERALS###
+###GENERALS###
  LSP_mercy_ribbons:0 "Mercy Ribbons"
  LSP_cherry_soda:0 "Cherry Soda"
  LSP_blueberry_soda:0 "Blueberry Soda"
  LSP_copper_flanks:0 "Copper Flanks"
  LSP_iron_hooves:0 "Iron Hooves"
 
- ###ADVISORS###
+###ADVISORS###
  LSP_ball_and_chain:0 "Ball & Chain"
  LSP_ball_and_chain_desc:0 "A bygone relic of the pre-independence administration, nopony is quite sure how exactly Ball and Chain ended up in function. Perhaps, at one point, he indeed was a productive member of the cabinet that deserved his position as a political advisor. Whatever his history may be, however, it's become very clear in recent times that he is drastically unfit for his role in Las Pegasusian politics. The only thing still keeping him in his office chair is the sheer bureaucratic backlog the new state must comb through before they can even hope to find the time to kick him out. Until the infernal stacks of paperwork are sorted, or the incompetent pony finds himself killed somehow, Ball and Chain is free to keep dropping coffee over important documents, picking his nostrils at inappropriate times, burp during interviews, make snide, unfunny remarks to his coworkers and drag the country down further into the dirt as he pleases."
  LSP_pcaidiot1:0 "Mort Fassinato"
@@ -101,7 +103,7 @@
  LSP_theorist_2:0 "Sky Chaser"
  experimental_genius:0 "Experimental Genius"
 
- ###DESIGNERS###
+###DESIGNERS###
  syndicate:0 "Construction Syndicate"
  LSP_arty:0 "Las Pegasus Arsenal"
  LSP_guns_rearington:0 "Rearington, Las Pegasus Branch"
@@ -119,7 +121,7 @@
  LSP_navy_man_2:0 "Seafoam Naval Manufacturing"
  LSP_navy_man_3:0 "Safe Harbor Shipping Co."
 
- ###IDEAS###
+###IDEAS###
  LSP_air_stream:0 "Streamlined Air Production"
  LSP_jewel_of_equus_idea:0 "Gem of the Ocean"
  LSP_fairer_taxes_idea:0 "Fairer Taxes"
@@ -240,7 +242,7 @@
  LSP_trade_cost9:0 "Traded For Food"
  LSP_trade_cost10:0 "Traded For Food"
  
- ###DECISION CATEGORIES###
+###DECISION CATEGORIES###
  LSP_grow_food:0 "Grow More Food"
  LSP_trade_for_food:0 "Unlocks §YTrade For Food§! decisions"
  LSP_deal_with_famine:0 "The Famine"
@@ -262,9 +264,7 @@
  LSP_make_equestria_again:0 "A Nation Redefined"
  LSP_form_equestria:0 "Equestria Reborn"
 
-
-
- ###TOOLTIPS###
+###TOOLTIPS###
  ng_reorg:0 "Allows you to §Yedit the templates§! of §YNational Guard§! divisions"
  cla_reorg:0 "Allows you to §Yedit the templates§! of §YCLA Militia§! divisions"
  pca_reorg:0 "Allows you to §Yedit the templates§! of §YPCA Militia§! divisions"
@@ -381,7 +381,7 @@
  LSP_rokenhar_dead:0 "Rokenhar has died"
  LSP_socdems_won:0 "Social Democrats has won the election."
  
- ###EVENTS###
+###EVENTS###
  civwar.23.t:0 "Brother Against Brother, Father Against Son"
  civwar.23.d:0 "With the chaotic secession of Las Pegasus from Equestria, chaos has broken out. The upending of the old order has led the Communists, longsuffering in this hub of capitalism, to try their luck at a general insurgency, pro-monarchy rioters regularly swarm the streets, and the National Guard struggle to deal with the chaos. The anti-Communist paramilitary, the PCA, have offered to assist in maintaining order, but they are an unknown quantity, and not answerable to the city's officials...can they really be trusted?"
  civwar.23.a:0 "Thanks, Rokenhar."
@@ -536,12 +536,12 @@
  lsp.42.d:0 "With the final keynote speech given by the father of the Las Pegasus Revolution himself, Starry Plough, the debate has closed on Council Hall for now, with a last vote being taken to put the omnibus bill that has been so painstakingly written over the last many days into law. And despite the appearance of a unanimous vote, there is clearly one faction in control, which can be seen in the debate on the leader, and their title. "
  lsp.42.a:0 "Congratulations, Secretary Starry Plough."
  lsp.42.b:0 "Congratulations, President Sugar Sprinkle."
-#lsp.43.t:0 "" #The events for these have been scrapped
-#lsp.43.d:0 ""
-#lsp.43.a:0 ""
-#lsp.44.t:0 ""
-#lsp.44.d:0 ""
-#lsp.44.a:0 ""
+ #lsp.43.t:0 "" #The events for these have been scrapped
+ #lsp.43.d:0 ""
+ #lsp.43.a:0 ""
+ #lsp.44.t:0 ""
+ #lsp.44.d:0 ""
+ #lsp.44.a:0 ""
  lsp.45.t:0 "An Alliance with Las Pegasus?"
  lsp.45.d:0 "Las Pegasus has come to us today offering an alliance in order to protect ourselves from aggression from any of the major powers of Equus. Seeing as they are in a similar situation to our nation, it could do us good to ally with a partner that can align with our mission. Should we?"                                                                                                                                      
  lsp.45.a:0 "Let's work together!"
@@ -834,7 +834,7 @@
  LSP_ind_1:0 "He's handed a financial report, as well. The economy is recovering, gently. Industry is being rebuilt. Infrastructure is being repaired to accommodate independence. Slowly, but surely, things are returning to normal. The ponies are starting to at last have faith in the economy again. But things could yet be going faster..."
  LSP_ind_2:0 "He's handed a financial report, as well. The economy has made a full recovery since independence. Las Pegasus bustles with activity, with the whirr of industry, the buzz of manufacturing, the rolling sounds of roulette tables in the casinos and the clanks of dice on their poker tables. At last... prosperity."
  LSP_ind_3:0 "As Rokenhar examines the positive outcomes of his industrial reforms and the growing Pegasusian economy, someone else walks in as well - someone the mayor never expected to see. Starry Plough stands tall over him, but not with the aura of a political rival, but of an old warrior, looking at Rokenhar with respect. He doesn't say anything. He only puts a red rose pin on the nightstand and leaves."
- ##focuses##
+##FOCUSES##
  LSP_the_illegitimate_republic:0 "A Wing and a Prayer"
  LSP_the_illegitimate_republic_desc:0 "We are a spit of rock in the middle of a churning sea of chaos. A burning wreck. The police is swarmed by looters and criminals. The government cannot keep up with the paperwork. The infrastructure cannot support independence. The border guards watch Equestrian rangers uneasily over the fence. Something must be done. Mayor Rokenhar must put his hoof down."
  LSP_promote_defeatism:0 "Equestria Is Doomed"
@@ -1466,7 +1466,7 @@
  LSP_every_family_a_soldier:0 "Every Family a Soldier"
  LSP_every_family_a_soldier_desc:0 "We are surrounded by enemies. We are surrounded by nations jealous of Las Pegasus' wealth, power, and beauty. We are a lone rock in the churning sea of violence. To survive, we must fight. To survive, all must play their part - and there exists no part to play more honourable than service."
  
- ##ECONOMY FOCUSES##
+##ECONOMY FOCUSES##
  LSP_autarky_economy:0 "Self-Sufficiency"
  LSP_autarky_economy_desc:0 "Surrounded by enemies, we are in no position to make demands. If Las Pegasus was to look outwards for economic benefit, it would find itself on the short end of the proverbial stick. Therefore, it must not look beyond its borders, but within. We are a nation of many virtues. Self-sufficiency is not a choice, but a necessity. The autarkic way is the way to go."
  LSP_expand_steel_industry:0 "The Steel Industry"
@@ -1562,4 +1562,4 @@
  LSP_battleship_desc:0 "The battleship is still an effective flagship to help our fleet survive. It is a symbol of power and will help defend our seas for the Las Pegasus Fleet."
  LSP_jewel_of_equus:0 "Jewel of Equus"
  LSP_jewel_of_equus_desc:0 "Our navy will be the jewel of the Equestrian seas! Our ship productions might soon be able to rival Skyfalls in enough time as we develop our fledging fleet."
- ###SCRIPTED LOCALISATION###
+###SCRIPTED LOCALISATION###

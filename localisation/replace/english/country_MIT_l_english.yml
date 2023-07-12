@@ -608,15 +608,15 @@
  asterion.66.d:0 ""Friendship." Was such a thing possible after all that had happened? After the cruel legacy of Cyanolisia, the countless battles in the war-torn city of Thymíaustadt, could we really move past our history?\nA small group of minotaurs and griffons sat by one another on the coast as they waited for the sunrise. Among them were former soldiers, peacekeepers, and warriors. Some even knew each other from long ago, some even fought on opposing sides. There was a celebration of some kind the night before, but none had felt like attending it. Perhaps they would attend the next one. One among them whistled as the first glimpse of light appeared over the grand sea of Minogulf. "I hope that the sun will always be this beautiful," said another.\nThey sat in silence for some time as the night turned to day. In another time, they would have tried to kill each other, but now... perhaps there was a future for them after all. And if not for them, then the generations that followed would surely deserve that future."
  asterion.66.a:0 "In time, all can be healed."
 
- #Other
- MIT_coalition_of_sovereign_nations: "Конкордат вільних націй"
+#Other
+MIT_coalition_of_sovereign_nations: "Конкордат вільних націй"
  MIT_research_group_name:0 "Southern Technological Group"
  MIT_research_group_desc:0 "We have come together in the bonds of knowledge for the common advancement of our democracy"
  MIT_claimed_the_free_towns:0 "Asterion claimed Gryphus' coastline."
  MIT_democratic_victory_flag:0 "The Unity party won the emergency elections."
  MIT_nazbolgang_victory_flag:0 "The Fascio-Communist coalition won the emergency elections."
- THYMIAU_COLONY_TOOLTIP:0 "Thymíaushafen will remain a colony state.\n"
- THYMIAU_FREECITY_TOOLTIP:0 "Thymíaushafen will become an autonomous state.\n"
+ THYMIAU_COLONY_TOOLTIP: "Фіміавсгафен залишиться колоніальною областю.\n"
+ THYMIAU_FREECITY_TOOLTIP: "Фіміавсгафен стане автономною областю.\n"
  MIT_NOBLES_PARDONED:0 "§YNew advisors§! will become available.\n"
  UNLOCK_NATIONBUILDING_DECISIONS:0 "Unlocks §Cnew decisions§! about investing in allies.\n"
  mit_pardoned_cya_nobles:0 "Cyanolisian Nobility Has Been Pardoned"
@@ -625,33 +625,33 @@
  MIT_communist_path:0 "The communists have secured the leadership of the coalition."
  MIT_socalist_minotaurs:0 "Socialist Minotaurs"
  MIT_align_pact_opinion:0 "Asterionese-Wingbardian Reconciliation"
- MIT_SIC_commie_faction:0 "Concordat of Socialist Nations"
+ MIT_SIC_commie_faction: "Конкордат соціалістичних націй"
  
- MIT_has_completed_mic_focus:0 "If the focus '§YExpand the Military-Industrial Complex§!' has been completed:\n"
+MIT_has_completed_mic_focus:0 "If the focus '§YExpand the Military-Industrial Complex§!' has been completed:\n"
  
- MIT_MEGALI_fascism:0 "Megali Asterion"
- MIT_MEGALI_fascism_ADJ:0 "Asterionese"
- MIT_MEGALI_fascism_DEF:0 "Megali Asterion"
+MIT_MEGALI_fascism: "Мегалі-Астеріон"
+ MIT_MEGALI_fascism_DEF: "Мегалі-Астеріон"
+ MIT_MEGALI_fascism_ADJ: "Астеріонськ"
+
+ MIT_MEGALI_democratic: "Сполучені Республіки"
+ MIT_MEGALI_democratic_DEF: "Сполучені Республіки"
+ MIT_MEGALI_democratic_ADJ: "Астеріонсько-сікамеонськ"
+
+ MIT_MEGALI_communism: "Союз Південних Соціалістичних Республік"
+ MIT_MEGALI_communism_DEF: "Союз Південних Соціалістичних Республік"
+ MIT_MEGALI_communism_ADJ: "Південно-соціалістичн"
+
+ MIT_MEGALI_neutrality: "Сполучене Королівство Астеріону та Сікамеону"
+ MIT_MEGALI_neutrality_DEF: "Сполучене Королівство Астеріону та Сікамеону"
+ MIT_MEGALI_neutrality_ADJ: "Астеріонсько-сікамеонськ"
+
+MIT_vp_neachora: "Неахора"
+ MIT_vp_poli_eleftherias: "Полі-Елефтеріас"
+ MIT_vp_thalassa_kathrefti: "Таласса-Катрефті"
+ MIT_vp_nea_agelada: "Неа-Агелада"
+ MIT_state_propodas: "Проподас"
  
- MIT_MEGALI_democratic:0 "United Republics"
- MIT_MEGALI_democratic_ADJ:0 "Asterionese-Sicameonese"
- MIT_MEGALI_democratic_DEF:0 "the United Republics"
- 
- MIT_MEGALI_communism:0 "Union of Southern Socialist Republics"
- MIT_MEGALI_communism_ADJ:0 "Southern Socialist"
- MIT_MEGALI_communism_DEF:0 "the Union of Southern Socialist Republics"
- 
- MIT_MEGALI_neutrality:0 "United Kingdom of Asterion and Sicameon"
- MIT_MEGALI_neutrality_ADJ:0 "Asterionese-Sicameonese"
- MIT_MEGALI_neutrality_DEF:0 "United Kingdom of Asterion and Sicameon"
- 
- MIT_vp_neachora:0 "Néachóra"
- MIT_vp_poli_eleftherias:0 "Póli Eleftherías"
- MIT_vp_thalassa_kathrefti:0 "Thálassa Kathréfti"
- MIT_vp_nea_agelada:0 "Néa Ageláda"
- MIT_state_propodas:0 "Própodas"
- 
- MIT_MAXIMIN_DESC:0 "Maximin was born in Cyanolisia in 973 to a family of serfs on a griffon-owned tobacco farm. In 982 his family fled to Asterion after the nation won its freedom in the Restoration War and lived there in poverty until Maximin accepted an offer to travel to Stalliongrad in 999, to study at the Steel Stallion International School of Communism. He returned to Asterion years later and was one of the founding members of the Kókkini Katharótita, quickly becoming its General Secretary."
+MIT_MAXIMIN_DESC:0 "Maximin was born in Cyanolisia in 973 to a family of serfs on a griffon-owned tobacco farm. In 982 his family fled to Asterion after the nation won its freedom in the Restoration War and lived there in poverty until Maximin accepted an offer to travel to Stalliongrad in 999, to study at the Steel Stallion International School of Communism. He returned to Asterion years later and was one of the founding members of the Kókkini Katharótita, quickly becoming its General Secretary."
  MIT_OPLI_DESC:0 "Konstantine Oplí was a lesser known officer in the Restoration War, but after victory was achieved he quickly worked his way up through the ranks and became a prodigy of Konstantinos Kondylis. Upon the former President's death, Oplí managed to secure his place as his master's successor and planned to continue many of his policies, however the prosperity and stability of the first few years of liberty were waning. The failure to liberate the mainland in the Restoration War and the Enótita's seeming lack of action against the griffon occupiers, along with its failure to deliver all promises made during the war has left to the party's popularity sliding. In an attempt to appease opposing factions, he allowed political exiles to return and has made promises of social reform. Never the less, he has vowed to continue the fight until all Southern Griffonia is free from tyranny."
  MIT_MAXIRY_DESC:0 "For years after the Restoration War, the liberal Enótita party dominated the political scene of Asterion, but now a new rival has entered the stage and taken their place in the spotlight. It is an unlikely and purely pragmatic coalition of the fascist Paliá Frourá and communist Kókkini Katharótita parties, for the leaders of the two, Andris Dóry and Maximin Kókkinos, knew they could only challenge the Enótita party by allying with each other. Now that they are in power however, many doubt the coalition will last long."
  MIT_DORY_DESC:0 "Born in Lóthar, Aetiea in 941, Andris joined the Asterionese Military Academy at an early age and joined the Imperial Army's auxiliary forces. During the collapse of the Empire he defected, returned to his homeland and became a leading general in the Restoration War, fighting bravely against the occupying forces. After the victory he became the Minister of Military Affairs. During the government of Konstantinos Kondylis, he was exiled to Wingbardy due to his Imperial connections. There he met with Beakolini and came to respect the griffon and his ideas of military governance. On his return to Asterion after Konstantinos Kondylis' death he founded the Fasístas Paliá Frourá, a party composed primarily of veterans of the Restoration War and nationalists."
