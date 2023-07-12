@@ -1,27 +1,24 @@
 ﻿l_english:
- ### COUNTRYNAME ###
+### COUNTRYNAME ###
+ WAR_HIP_protectorate_fascism: "Гіппогрифська Варзена"
+ WAR_HIP_protectorate_fascism_DEF: "Гіппогрифське територіальне королівство Варзена"
+ WAR_HIP_protectorate_democratic: "Королівство Варзена"
+ WAR_HIP_protectorate_democratic_DEF: "Королівство Варзена"
+ WAR_HIP_protectorate_neutrality: "Гіппогрифська Варзена"
+ WAR_HIP_protectorate_neutrality_DEF: "Гіппогрифське територіальне королівство Варзена"
+ WAR_HIP_protectorate_communism: "Варзенський народний союз"
+ WAR_HIP_protectorate_communism_DEF: "Варзенський народний союз"
 
- WAR_HIP_protectorate_fascism:0 "Hippogriff Warzena"
- WAR_HIP_protectorate_fascism_DEF:0 "the Hippogriff Territorial Kingdom of Warzena"
- WAR_HIP_protectorate_neutrality:0 "Hippogriff Warzena"
- WAR_HIP_protectorate_neutrality_DEF:0 "the Hippogriff Territorial Kingdom of Warzena"
- WAR_HIP_protectorate_communism:0 "Warzenan People's Union"
- WAR_HIP_protectorate_communism_DEF:0 "the Warzenan People's Union"
- WAR_HIP_protectorate_democratic:0 "Kingdom of Warzena"
- WAR_HIP_protectorate_democratic_DEF:0 "the Kingdom of Warzena"
+ WAR_HIP_greater_fascism: "Велика Варзена"
+ WAR_HIP_greater_fascism_DEF: "Суверенне королівство Велика Варзена"
+ WAR_HIP_greater_democratic: "Королівство Варзена"
+ WAR_HIP_greater_democratic_DEF: "Королівство Варзена"
+ WAR_HIP_greater_neutrality: "Королівство Варзена"
+ WAR_HIP_greater_neutrality_DEF: "Суверенне королівство Велика Варзена"
+ WAR_HIP_greater_communism: "Варзенський народний союз"
+ WAR_HIP_greater_communism_DEF: "Варзенський народний союз"
 
- WAR_HIP_greater_fascism:0 "Greater Warzena"
- WAR_HIP_greater_fascism_DEF:0 "the Sovereign Kingdom of Greater Warzena"
- WAR_HIP_greater_neutrality:0 "Kingdom of Warzena"
- WAR_HIP_greater_neutrality_DEF:0 "the Sovereign Kingdom of Greater Warzena"
- WAR_HIP_greater_communism:0 "Warzenan People's Union"
- WAR_HIP_greater_communism_DEF:0 "the Warzenan People's Union"
- WAR_HIP_greater_democratic:0 "Kingdom of Warzena"
- WAR_HIP_greater_democratic_DEF:0 "the Kingdom of Warzena"
-
-
- ### LEADER DESCRIPTIONS ###
- 
+### LEADER DESCRIPTIONS ###
  WAR_king_zarizel_ii:0 "King Barekzamal VII"
  WAR_king_zarizel_ii_desc:0 "§YBorn§!: 24th of August, 984 in Zamivgazal\n\n§YBiography§!: The second son of Zamaliahon XV, Barekzamal had an idyllic childhood, free of struggle. While his brother, Zamaliahon, was subject to endless tutoring as the crown prince, Barekzamal spent his days playing with the foals of the nobility, and galloping gleefully through the streets of Zamivgazal. His favourite playmate was Ummazanit Nazlayn, the daughter of a prominent noble. Although she was intended as a future bride for his brother, they were never officially engaged, and she much preferred Barekzamal's company to that of his eccentric brother.\n\nWhen Zamaliahon was made king in 1001, he swiftly leapt into action. He formally renounced any intention of marrying in the near future, leaving Barekzamal and Ummazanit free to get married. The two soon sired their first foal, a colt named Hannizamal. However, since Barekzamal was technically his brother's successor, he did make an effort to educate himself on the basics of statecraft and governance. But there was no rush. After all, they were young, and had their whole lives ahead of them. His brother would eventually find a nice mare and Barekzamal could live the rest of his life in bliss. Unfortunately, the gods had other plans for the young prince, and in 1005, his precious world was turned upside down.\n\nAs the Storm King swept through the kingdom, Barekzamal and his family managed to escape, but his brother didn't, and was slain in the Palace by the invaders. When Barekzamal found out, he was overwhelmed by grief, weeping for hours on end. After the conqueror was slain, Barekzamal returned to Zamivgazal a changed person. He quickly set to work, trying to keep the nation afloat. Although he had some success, for the most part, his policies were ineffective as his inexperience betrayed him. Now, he sits uneasy on the throne as the threat of revolt grows. While not as unpopular as his father was, he definitely has his fair share of opposition. The fate of the nation rests on his haunches, and it will take monumental effort on his part to keep it, and his throne, from falling out of his grasp. But Barekzamal is determined to bring Warzena into a brighter future, where he can smile with his family once more."
  WAR_coalition_council:0 "Coalition Council"
@@ -29,8 +26,7 @@
  WAR_benoam_zaadeh:0 "Bennoam Shimzel"
  WAR_itthozamal_ankeper:0 "Itthozamal Ankeper"
 
- ### PARTIES ###
-
+### PARTIES ###
  WAR_fascism_party:0 "HSNP"
  WAR_fascism_party_long:0 "Hazrumenian Social Nationalist Party"
  WAR_neutrality_party:0 "CAMO"
@@ -45,8 +41,7 @@
  WAR_fascism_HIP_party:0 "National Front"
  WAR_fascism_HIP_party_long:0 "Arisian-Warzenan National Revival Front"
 
- ### FOCUS ###
- 
+### FOCUS ###
  ## Stabilising the Government Tree
  WAR_reeling_from_shock:0 "Reeling From The Shock"
  WAR_reeling_from_shock_desc:0 "The Storm King's invasion has left the nation shell-shocked, and many are unsure of where to go. The king is doing his best to keep the peace, but his opposition see it as their time to strike and bring change to this ancient kingdom."
@@ -271,7 +266,7 @@
  WAR_atomic_goals:0 "Atomic Aims"
  WAR_atomic_goals_desc:0 "As more and more research has been done on crystals, combined with new discoveries in physics, many have begun to theorize of the possibility of a great crystal-nuclear weapon. One capable of tearing atoms apart to unleash unimaginable energy. Such a weapon would be immensely devastating, and it is imperative that we get our hooves on it before one of our neighbors does."
  
- ### IDEAS ###
+### IDEAS ###
  WAR_fervent_civil_unrest:0 "Fervent Civil Unrest"
  WAR_fervent_civil_unrest_desc:0 "For the past century, Warzena has been plagued by ineffective leadership and unstable governments, resulting in general stagnation and unrest. Many activists began to clamour for change, but their calls fell on deaf ears, and they were ultimately repressed. This soon culminated in the formation of the Coalition of Anti-Monarchy Organizations (CAMO), an underground resistance movement that seeks to overthrow the monarchy and completely reshape Warzena. The fallout of the Storm King's invasion has served to further stir up the already volatile political climate, as discontent with the ruling system has grown to levels heretofore unheard of and more people are becoming disillusioned with the current state of affairs, swelling CAMO's ranks, and bolstering the organization's support network."
  WAR_fervent_civil_unrest_king:0 "Fervent Civil Unrest"
@@ -323,11 +318,11 @@
  WAR_tank_guys:0 "Royal Tank Designs"
  WAR_artifacts_regained:0 "The Artifacts Regained"
 
- ### DECISIONS ###
+### DECISIONS ###
  WAR_sell_resources:0 "Sell Resource Rights"
  WAR_ask_for_greater_warzena:0 "Request Greater Warzena"
  
- ### EVENTS ###
+### EVENTS ###
  warzena.1.t:0 "Hurricane!"
  warzena.1.d:0 "A powerful hurricane glanced off the edge of our coastline. Inland flooding led to many deaths, and our roads lie buried in mud."
  warzena.1.a:0 "That's horrible."
@@ -466,29 +461,28 @@
  warzena.32.c:0 "Streamlining our industry is crucial."
 
 ### ADVISORS ###
-WAR_railroad_guy:0 "Abizamal Zaynba"
-WAR_deal_guy:0 "Philosir Dynza"
-WAR_integralist_guy:0 "Bodzanit Zetkal"
-WAR_ethnarch_guy:0 "Adonna Hezkal"
-WAR_daredevil_guy:0 "Sisa Varzel"
-WAR_regional_guy:0 "Gerzanit Zatyb"
-WAR_theorist_council:0 "Royal Military Advisory Board"
-WAR_army_1:0 "Demna Zera"
-WAR_army_2:0 "Zammon Sastam"
-WAR_navy_1:0 "Paltizamal Mazbid"
-WAR_navy_2:0 "Azirat Nithqym"
-WAR_air_1:0 "Zapash Mishqat"
-WAR_air_2:0 "Abirami Zaymesh"
-WAR_high_command_1:0 "Jezabel Sumash"
-WAR_high_command_2:0 "Zidon Lehmit"
-WAR_high_command_3:0 "Zamalqart Zaylit"
-WAR_high_command_4:0 "Azanit Lesum"
-WAR_high_command_5:0 "Zisha Tanhum"
-WAR_high_command_6:0 "Sikarzamal Zaprit"
-WAR_banker_guy:0 "Ahirom Jevzel"
+ WAR_railroad_guy:0 "Abizamal Zaynba"
+ WAR_deal_guy:0 "Philosir Dynza"
+ WAR_integralist_guy:0 "Bodzanit Zetkal"
+ WAR_ethnarch_guy:0 "Adonna Hezkal"
+ WAR_daredevil_guy:0 "Sisa Varzel"
+ WAR_regional_guy:0 "Gerzanit Zatyb"
+ WAR_theorist_council:0 "Royal Military Advisory Board"
+ WAR_army_1:0 "Demna Zera"
+ WAR_army_2:0 "Zammon Sastam"
+ WAR_navy_1:0 "Paltizamal Mazbid"
+ WAR_navy_2:0 "Azirat Nithqym"
+ WAR_air_1:0 "Zapash Mishqat"
+ WAR_air_2:0 "Abirami Zaymesh"
+ WAR_high_command_1:0 "Jezabel Sumash"
+ WAR_high_command_2:0 "Zidon Lehmit"
+ WAR_high_command_3:0 "Zamalqart Zaylit"
+ WAR_high_command_4:0 "Azanit Lesum"
+ WAR_high_command_5:0 "Zisha Tanhum"
+ WAR_high_command_6:0 "Sikarzamal Zaprit"
+ WAR_banker_guy:0 "Ahirom Jevzel"
 
- ### EQUIPMENT
-
+### EQUIPMENT
  WAR_melee_equipment_0:0 "Zonician Swords"
  WAR_melee_equipment_0_short:0 "Zonician Swords"
  WAR_melee_equipment_1:0 "Quaggatai Matchlocks"
@@ -505,7 +499,7 @@ WAR_banker_guy:0 "Ahirom Jevzel"
  WAR_infantry_equipment_x_short:0 "Rezheph M-1"
  WAR_infantry_equipment_x_2:0 "Rezheph M-2"
  WAR_infantry_equipment_x_2_short:0 "Rezheph M-2"
- 
+
  WAR_magical_equipment_1:0 "Zothar Rifle"
  WAR_magical_equipment_1_short:0 "Zothar Rifle"
  WAR_magical_equipment_2:0 "Or Shotgun M-1"
@@ -514,11 +508,11 @@ WAR_banker_guy:0 "Ahirom Jevzel"
  WAR_magical_equipment_3_short:0 "Zephon C-1019"
  WAR_magical_equipment_4:0 "Or Shotgun M-2"
  WAR_magical_equipment_4_short:0 "Or Shotgun M-2"
- ### MISC #####
- 
+
+### MISC #####
  WAR_armored_battery:0 "Armoured Heavy Artillery"
 
- ### TOOLTIPS ###
+### TOOLTIPS ###
  WAR_HIP_friendly:0 "Warzena and Hippogriffia must be of agreeable political inclinations."
  coming_soon_with_zebrica_2:0 "Coming Soon"
  coming_soon_with_zebrica_2_tt:0 "Coming Soon"

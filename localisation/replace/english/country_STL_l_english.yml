@@ -18,21 +18,21 @@ POLITICS_DOUBLEDIAMOND:0 "A faithful follower of Starlight Glimmer's Equalist ph
  #STL_neutrality_ADJ:0 "Townie"# Different duplicate from Eaw
  #STL_communism_ADJ:0 "Equal"# Different duplicate from Eaw
 
-STL_MY_communism:0 "Townsville"
-STL_MY_communism_DEF:0 "the City of Townsville"
-STL_MY_communism_ADJ:0 "Townie"
+ STL_MY_communism: "Містечко"
+ STL_MY_communism_DEF: "Містечко"
+ STL_MY_communism_ADJ: "Міськ"
 
-STG_OUR_communism:0 "Our Stalliongrad"
-STG_OUR_communism_DEF:0 "Our Stalliongrad"
-STG_OUR_communism_ADJ:0 "Equal Stalliongradian"
+ STG_MY_communism: "Наша Сіверянська республіка"
+ STG_MY_communism_DEF: "Наша Сіверянська республіка"
+ STG_MY_communism_ADJ: "Рівно-сіверянськ"
 
-STG_MY_communism:0 "Our Severyana Republic"
-STG_MY_communism_DEF:0 "Our Severyana Republic"
-STG_MY_communism_ADJ:0 "Equal Severyanian"
+ STG_OUR_communism: "Наш Сталліонград"
+ STG_OUR_communism_DEF: "Наш Сталліонград"
+ STG_OUR_communism_ADJ: "Рівно-сталліонградськ"
 
-EQS_OUR_communism:0 "Our Equestria"
-EQS_OUR_communism_DEF:0 "Our Equestria"
-EQS_OUR_communism_ADJ:0 "Equal Equestrian"
+ EQS_OUR_communism: "Наша Еквестрія"
+ EQS_OUR_communism_DEF: "Наша Еквестрія"
+ EQS_OUR_communism_ADJ: "Рівно-еквестрійськ"
 
 form_equ_stg:0 "Our Unification Movement"
 form_stg:0 "Our First Step"

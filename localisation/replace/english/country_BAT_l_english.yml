@@ -3716,8 +3716,8 @@ BAT_not_fighting_paramilitary:0 "Currently Fighting A §YParamilitary§!"
  BAT_lunarist_colony_modifier:0 "Settler Colony"
 
 ### Faction Names ###
- BAT_aghzat_pact:0 "Agzhat Pact"
- BAT_lunar_hegemony:0 "Lunar Hegemony"
+ BAT_aghzat_pact: "Агзатський пакт"
+ BAT_lunar_hegemony: "Місячна гегемонія"
 
 ### Focus Tree Names ###
  tzintacalia_tree: "Дерево фокусів Хіроптерри"

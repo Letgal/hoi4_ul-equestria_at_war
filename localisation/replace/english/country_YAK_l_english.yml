@@ -1,10 +1,10 @@
 ﻿l_english:
- Yak_YAK:0 "Yak"
- Yak_JAK:0 "Jak"
- Yak_YAK_lower:0 "yak"
- Yak_JAK_lower:0 "jak"
- #################### Karsakag is the real name of karsag ###################
- ####################################### Starting Path Pre JAK war ############
+Yak_YAK: "Як"
+Yak_JAK: "Йак"
+Yak_YAK_lower: "як"
+Yak_JAK_lower: "йак"
+#################### Karsakag is the real name of karsag ###################
+####################################### Starting Path Pre JAK war ############
  
  YAK_elder_council:0 "The Council of Elders"
 

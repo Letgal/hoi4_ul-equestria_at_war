@@ -6055,46 +6055,45 @@ TBK_alesia_bat_victory:0 "Alesia rules over Chiropterra"
 TBK_max_money_achievement:0 "Maximum money ending achieved"
 
 ### Cosmetic tags
+ BAT_republic: "Нова Міясчна Республіка"
+ BAT_republic_DEF: "Нова Міясчна Республіка"
+ BAT_republic_ADJ: "Місячн"
 
-BAT_republic:0 "New Lunar Republic"
-BAT_republic_DEF:0 "the New Lunar Republic"
-BAT_republic_ADJ:0 "Lunar"
+ TBK_ulnz: "Сполучені Землі Північної Зебрики"
+ TBK_ulnz_DEF: "Сполучені Землі Північної Зебрики"
+ TBK_ulnz_AJD: "Північнозебриканськ"
 
-TBK_ulnz:0 "United Lands of Northern Zebrica"
-TBK_ulnz_DEF:0 "the United Lands of Northern Zebrica"
-TBK_ulnz_AJD:0 "North Zebrican"
+ MDL_TBK_puppet: "Соціалістична республіка Мейндалусія"
+ MDL_TBK_puppet_DEF: "Соціалістична республіка Мейндалусія"
+ MDL_TBK_puppet_ADJ: "Мейндалуськ"
 
-MDL_TBK_puppet:0 "Socialist Republic of Manedalusia"
-MDL_TBK_puppet_DEF:0 "the Socialist Republic of Manedalusia"
-MDL_TBK_puppet_ADJ:0 "Manedalusian"
+ MGY_TBK_puppet: "Соціалістична республіка Верхеній Мейргипет"
+ MGY_TBK_puppet_DEF: "Соціалістична республіка Верхеній Мейргипет"
+ MGY_TBK_puppet_ADJ: "Мейргипетськ"
 
-MGY_TBK_puppet:0 "Socialist Republic of Upper Maregypt"
-MGY_TBK_puppet_DEF:0 "the Socialist Republic of Upper Maregypt"
-MGY_TBK_puppet_ADJ:0 "Maregyptian"
+ MKS_TBK_puppet: "Соціалістична республіка Овінґоленд"
+ MKS_TBK_puppet_DEF: "Соціалістична республіка Овінґоленд"
+ MKS_TBK_puppet_ADJ: "Овінґолезьк"
 
-MKS_TBK_puppet:0 "Socialist Republic of Ovingoland"
-MKS_TBK_puppet_DEF:0 "the Socialist Republic of Ovingoland"
-MKS_TBK_puppet_ADJ:0 "Ovingo"
+ TBK_severyana: "Сіверяна"
+ TBK_severyana_DEF: "Сіверянське царство"
+ TBK_severyana_ADJ: "Сіверянськ"
 
-TBK_new_severyana:0 "Novaya Severyana"
-TBK_new_severyana_DEF:0 "the Tsardom of Novaya Severyana"
-TBK_new_severyana_ADJ:0 "Severyanian"
+ TBK_new_severyana: "Нова Сіверяна"
+ TBK_new_severyana_DEF: "Новосіверняське царство"
+ TBK_new_severyana_ADJ: "Сіверянськ"
 
-TBK_severyana:0 "Severyana"
-TBK_severyana_DEF:0 "the Tsardom of Severyana"
-TBK_severyana_ADJ:0 "Severyanian"
+ TBK_neo_hazrumenia: "Нео-Газруменська імперія"
+ TBK_neo_hazrumenia_DEF: "Нео-Газруменська імперія"
+ TBK_neo_hazrumenia_ADJ: "Газруменськ"
 
-TBK_neo_hazrumenia:0 "Neo-Hazrumenian Empire"
-TBK_neo_hazrumenia_DEF:0 "the Neo-Hazrumenian Empire"
-TBK_neo_hazrumenia_ADJ:0 "Hazrumenian"
+ MGY_neo_hazrumenia_puppet: "Покровительство Мейргипет"
+ MGY_neo_hazrumenia_puppet_DEF: "Покровительство Мейргипет"
+ MGY_neo_hazrumenia_puppet_ADJ: "Мейргипетськ"
 
-MGY_neo_hazrumenia_puppet:0 "Custodianship of Maregypt"
-MGY_neo_hazrumenia_puppet_DEF:0 "the Custodianship of Maregypt"
-MGY_neo_hazrumenia_puppet_ADJ:0 "Maregyptian"
-
-CTH_neo_hazrumenia_puppet:0 "Custodianship of Colthage"
-CTH_neo_hazrumenia_puppet_DEF:0 "the Custodianship of Colthage"
-CTH_neo_hazrumenia_puppet_ADJ:0 "Colthaginian"
+ CTH_neo_hazrumenia_puppet: "Покровительство Кольтфаген"
+ CTH_neo_hazrumenia_puppet_DEF: "Покровительство Кольтфаген"
+ CTH_neo_hazrumenia_puppet_ADJ: "Кольтфагенськ"
 
 ### Faction names
 

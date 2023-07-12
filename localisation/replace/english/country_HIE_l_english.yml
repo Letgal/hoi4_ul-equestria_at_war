@@ -1722,9 +1722,9 @@
  JHP_sf_fascism_DEF: "Дослідницька група Δ"
  JHP_sf_fascism_ADJ: "Делтськ"
 
- JRV_sf_fascism: "Великий Єзераґрад"
- JRV_sf_fascism_DEF: "Великий Єзераґрад"
- JRV_sf_fascism_ADJ: "Єзераґрадськ"
+ JRV_sf_fascism: "Великий Озергород"
+ JRV_sf_fascism_DEF: "Великий Озергород"
+ JRV_sf_fascism_ADJ: "Озергородськ"
 
  NIM_sf_fascism: "Гіперпотамія"
  NIM_sf_fascism_DEF: "Гіперпотамія"
@@ -1748,8 +1748,8 @@
  HIE_PUPPET_fash_central: "Ґриффонстоунське командування"
  HIE_PUPPET_fash_central_long: "Ґриффонстоунське командування"
 
- HIE_PUPPET_fash_lake: "ЄНР-Порядок"
- HIE_PUPPET_fash_lake_long: "Єзераґрадський національний рух «Порядок»"
+ HIE_PUPPET_fash_lake: "ОНР «Порядок»"
+ HIE_PUPPET_fash_lake_long: "Озергородський національний рух «Порядок»"
 
  HIE_PUPPET_fash_ded: "Мізки"
  HIE_PUPPET_fash_ded_long: "Мізки Роду Кінського"
