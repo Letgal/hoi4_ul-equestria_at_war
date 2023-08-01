@@ -134,12 +134,12 @@
  EQC_NLR_TAL_neutrality_DEF: "Місячна територія Талузи"
  EQC_NLR_TAL_neutrality_ADJ: "Талузьк"
 
- EQC_NLR_FRN_fascism: "Територія П’юмонту"
- EQC_NLR_FRN_fascism_DEF: "Місячна територія П’юмонту"
- EQC_NLR_FRN_fascism_ADJ: "П’юмонтськ"
- EQC_NLR_FRN_neutrality: "Територія П’юмонту"
- EQC_NLR_FRN_neutrality_DEF: "Місячна територія П’юмонту"
- EQC_NLR_FRN_neutrality_ADJ: "П’юмонтськ"
+ EQC_NLR_FRN_fascism: "Територія П'юмонту"
+ EQC_NLR_FRN_fascism_DEF: "Місячна територія П'юмонту"
+ EQC_NLR_FRN_fascism_ADJ: "П'юмонтськ"
+ EQC_NLR_FRN_neutrality: "Територія П'юмонту"
+ EQC_NLR_FRN_neutrality_DEF: "Місячна територія П'юмонту"
+ EQC_NLR_FRN_neutrality_ADJ: "П'юмонтськ"
 
  EQC_NLR_ARA_fascism: "Територія Арантіґи"
  EQC_NLR_ARA_fascism_DEF: "Місячна територія Арантіґи"

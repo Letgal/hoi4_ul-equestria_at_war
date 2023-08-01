@@ -1064,8 +1064,8 @@ TRO_CTH_the_end_tp:0 "§gThank you for playing through yet another of Colthage's
  TRO_CTH_scientific_clique_long:0 "The Order And Progress Party"
 
 ### Cosmetic Tags ###
- TRO_civil_war_tag: "Об’єднаний республіканський фронт"
- TRO_civil_war_tag_DEF: "Об’єднаний республіканський фронт Кольтфагену"
+ TRO_civil_war_tag: "Об'єднаний республіканський фронт"
+ TRO_civil_war_tag_DEF: "Об'єднаний республіканський фронт Кольтфагену"
  TRO_civil_war_tag_ADJ: "Республіканськ"
 
  TRO_CTH_the_republic_fascism: "Кольтфагенська республіка"

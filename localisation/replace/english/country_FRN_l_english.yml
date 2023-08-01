@@ -1378,18 +1378,18 @@
  FRN_nice_with_nobles:0 "Nobles agreed to cooperate"
  
 ### Cosmetic tag
- FRN_no_francis_fascism: "Графство П’юмонт"
- FRN_no_francis_fascism_DEF: "Графство П’юмонт"
- FRN_no_francis_fascism_ADJ: "П’юмонтськ"
+ FRN_no_francis_fascism: "Графство П'юмонт"
+ FRN_no_francis_fascism_DEF: "Графство П'юмонт"
+ FRN_no_francis_fascism_ADJ: "П'юмонтськ"
  FRN_no_francis_democratic: "Орден Трійці"
  FRN_no_francis_democratic_DEF: "Лицарський орден Трійці"
- FRN_no_francis_democratic_ADJ: "П’юмонтськ"
- FRN_no_francis_neutrality: "Графство П’юмонт"
- FRN_no_francis_neutrality_DEF: "Графство П’юмонт"
- FRN_no_francis_neutrality_ADJ: "П’юмонтськ"
- FRN_no_francis_communism: "Аграрні комуни П’юмонту"
- FRN_no_francis_communism_DEF: "Аграрні комуни П’юмонту"
- FRN_no_francis_communism_ADJ: "П’юмонтськ"
+ FRN_no_francis_democratic_ADJ: "П'юмонтськ"
+ FRN_no_francis_neutrality: "Графство П'юмонт"
+ FRN_no_francis_neutrality_DEF: "Графство П'юмонт"
+ FRN_no_francis_neutrality_ADJ: "П'юмонтськ"
+ FRN_no_francis_communism: "Аграрні комуни П'юмонту"
+ FRN_no_francis_communism_DEF: "Аграрні комуни П'юмонту"
+ FRN_no_francis_communism_ADJ: "П'юмонтськ"
  
  WNG_formed_fascism: "Королівство Вінґбардія"
  WNG_formed_fascism_DEF: "Королівство Вінґбардія"
@@ -1445,7 +1445,7 @@
  FRN_tarrin_resistance_modifier_desc:0 "§gFront de Libération Nationale de Tarrin, abbreviated as FLNT, is regarded by many to be a terrorist organization. For most Tarrinians, however, they are a guerilla army of freedom fighters, struggling against a foreign oppressor. The ranks of this radical separatist movement are comprised almost entirely of republicans, either local ones or those who fled from Aquileia after the counter-revolution. Their goal is to drive out the occupiers and establish an independent Republic of Tarrin. They are not afraid of using extreme violence to achieve this.§!\n\n§ONote: If the Second Aquileian Revolution has taken place, Francistria is not at war and Resistance rises above 50% in Tarrin states, an uprising will trigger regardless of FLNT's stance on the central government.§!"
  ANTI_RADICAL_FRONT:0 "Anti-Radical Front"
  FRN_hospital_trains_tech:0 "Hospital Trains"
- FRN_PiumontName: "П’юмонт"
+ FRN_PiumontName: "П'юмонт"
  FRN_FrancistriaName: "Францистрія"
  
 ### Focus tree names

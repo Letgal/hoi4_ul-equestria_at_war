@@ -16,9 +16,9 @@ state_lore_mapicon_control_tt: "Toggle displaying §YTwinkle Sprinkle's Abridged
 ####################
 ####### DATES ######
 ####################
-state_lore_text_date_default:0 "1007"
-state_lore_text_date_75_addendum:0 "[?MAN.MAN_state_lore_desc_updated_date]"
-state_lore_text_date_3_addendum:0 "[?CHN.CHN_state_lore_desc_updated_date]"
+state_lore_text_date_default: "1007"
+state_lore_text_date_75_addendum: "[?MAN.MAN_state_lore_desc_updated_date]"
+state_lore_text_date_3_addendum: "[?CHN.CHN_state_lore_desc_updated_date]"
 
 ####################
 #### MANEHATTAN ####

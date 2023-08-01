@@ -2316,21 +2316,21 @@ kasam.8.d:0 "The storm rain was battering the window of Áltu's office. Áltu lo
 kasam.8.a:0 "Fine."
 
 ### Cosmetic Tags ###
-ZES_lua_republic:0 "Republic of Kása"
-ZES_lua_republic_DEF:0 "the Republic of Kása"
-ZES_lua_republic_ADJ:0 "Republican"
+ ZES_lua_republic: "Республіка Каза"
+ ZES_lua_republic_DEF: "Республіка Каза"
+ ZES_lua_republic_ADJ: "Казинськ"
 
-ZES_confederation:0 "Free Confederation of Kása"
-ZES_confederation_DEF:0 "the Free Confederation of Kása"
-ZES_confederation_ADJ:0 "Confederate"
+ ZES_confederation: "Вільна конфедерація Каза"
+ ZES_confederation_DEF: "Вільна конфедерація Каза"
+ ZES_confederation_ADJ: "Казинськ"
 
-ZES_pasarinha_state:0 "Kása"
-ZES_pasarinha_state_DEF:0 "Kása"
-ZES_pasarinha_state_ADJ:0 "Kásan"
+ ZES_pasarinha_state: "Каза"
+ ZES_pasarinha_state_DEF: "Каза"
+ ZES_pasarinha_state_ADJ: "Казинськ"
 
-ZES_confederation_2:0 "Kása-Hreindýraland Confederation"
-ZES_confederation_2_DEF:0 "the Kása-Hreindýraland Confederation"
-ZES_confederation_2_ADJ:0 "Confederate"
+ ZES_confederation_2: "Конфедерація Каза-Грейндюраланд"
+ ZES_confederation_2_DEF: "Конфедерація Каза-Грейндюраланд"
+ ZES_confederation_2_ADJ: "Конфедеративн"
 
 ### Country Flags ###
 ZES_hide_history:0 "Has hidden history decisions"

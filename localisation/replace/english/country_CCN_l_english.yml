@@ -709,8 +709,8 @@ thoraxian.41.b_tt:0 "Changes race to §YDeer§!.\nChanges racial technologies to
   OLC_neutrality: "Співдружність Оленів і Чейнджлінґів"
   OLC_neutrality_DEF: "Співдружність Оленів і Чейнджлінґів"
   OLC_neutrality_ADJ: "Співдружн"
-  OLC_communism: "Об’єднані Республіки Оленів і Чейнджлінґів"
-  OLC_communism_DEF: "Об’єднані Республіки Оленів і Чейнджлінґів"
+  OLC_communism: "Об'єднані Республіки Оленів і Чейнджлінґів"
+  OLC_communism_DEF: "Об'єднані Республіки Оленів і Чейнджлінґів"
   OLC_communism_ADJ: "Оленійсько-чейнджлінзьк"
 
  CCN_fascism: "Землі Чейнджлінґів"
@@ -722,8 +722,8 @@ thoraxian.41.b_tt:0 "Changes race to §YDeer§!.\nChanges racial technologies to
   CCN_neutrality: "Вулики Чейнджлінґів"
   CCN_neutrality_DEF: "Вулики Чейнджлінґів"
   CCN_neutrality_ADJ: "Чейнджлінзьк"
-  CCN_communism: "Об’єднані Вулики Чейнджлінґів"
-  CCN_communism_DEF: "Об’єднане Королівство Чейнджлінґів"
+  CCN_communism: "Об'єднані Вулики Чейнджлінґів"
+  CCN_communism_DEF: "Об'єднане Королівство Чейнджлінґів"
   CCN_communism_ADJ: "Чейнджлінзьк"
 
  CCN_fascism_party:0 "Queen's Leadership"
