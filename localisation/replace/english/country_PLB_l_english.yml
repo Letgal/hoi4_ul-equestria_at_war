@@ -4249,9 +4249,9 @@ HAU_PLB_fascism_party_long:0 "Fenrir's Faithful"
 HAU_PLB_fascism_party:0 "Fenrir's Faithful"
 
 ### COSMETIC TAGS ###
-PLB_scyfling_neutrality: "Клан Шіфлінґ"
-PLB_scyfling_neutrality_DEF: "Клан Шіфлінґ"
-PLB_scyfling_neutrality_ADJ: "Шіфлінзьк"
+PLB_scyfling_neutrality: "Клан Скюфлінґ"
+PLB_scyfling_neutrality_DEF: "Клан Скюфлінґ"
+PLB_scyfling_neutrality_ADJ: "Скюфлінзьк"
 
 PLB_city_fascism: "Славетне місто Магарь-Фярань"
 PLB_city_fascism_DEF: "Славетне місто Магарь-Фярань"

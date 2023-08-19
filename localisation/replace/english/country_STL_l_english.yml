@@ -22,9 +22,9 @@ POLITICS_DOUBLEDIAMOND:0 "A faithful follower of Starlight Glimmer's Equalist ph
  STL_MY_communism_DEF: "Містечко"
  STL_MY_communism_ADJ: "Міськ"
 
- STG_MY_communism: "Наша Сіверянська республіка"
- STG_MY_communism_DEF: "Наша Сіверянська республіка"
- STG_MY_communism_ADJ: "Рівно-сіверянськ"
+ STG_MY_communism: "Наша Сєвєрянська республіка"
+ STG_MY_communism_DEF: "Наша Сєвєрянська республіка"
+ STG_MY_communism_ADJ: "Рівно-сєвєрянськ"
 
  STG_OUR_communism: "Наш Сталліонград"
  STG_OUR_communism_DEF: "Наш Сталліонград"

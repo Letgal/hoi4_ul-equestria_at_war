@@ -454,9 +454,9 @@ ELF_CHN_the_great_uprising_desc:0 "Disaster! An uprising from the conquered poni
  MAN_CHN_republic_democratic_DEF: "Демократична федерація Східної Еквестрії"
  MAN_CHN_republic_democratic_ADJ: "Східноеквестрійськ"
 
- STG_MAN_CHN_mandate_fascism: "Сіверянська держава"
- STG_MAN_CHN_mandate_fascism_DEF: "Захищена держава Сіверяна"
- STG_MAN_CHN_mandate_fascism_ADJ: "Сіверянськ"
+ STG_MAN_CHN_mandate_fascism: "Сєвєрянська держава"
+ STG_MAN_CHN_mandate_fascism_DEF: "Захищена держава Сєвєряна"
+ STG_MAN_CHN_mandate_fascism_ADJ: "Сєвєрянськ"
 
  EQC_MAN_CHN_mandate_fascism: "Мандат Нового Мейрленду"
  EQC_MAN_CHN_mandate_fascism_DEF: "Чейнджлінзько-еквестрійський спільний мандат Нового Мейрленду"
