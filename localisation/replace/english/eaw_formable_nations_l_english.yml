@@ -27,11 +27,11 @@
  form_aquileia_category_desc:0 "With both the Discret dynasty and the Republican revolutionaries crushed or driven into exile, the former lands of Aquileia lack a strong leading figure. [Root.GetLeader] has been the driving force in vanquishing them, and time will tell if they'll repeat the steps of Grover II or be a more benevolent overlord."
  form_aquileia: "Відновити Аквелію"
  
- form_hindia: "Об’єднана Гіндія"
+ form_hindia: "Об'єднана Гіндія"
  form_hindia_desc:0 "Finally, the dream of a united Hindia has been accomplished, as the deer of Eastern Zebrica have finally been united under a leader worthy of the title of ruler of all Hindia. Now that we have united the region under our control, it is imperative that our nation claim legitimacy over all free deer in Zebrica, so that we can be known as a true great power on the continent."
  form_hindia_decision: "Сформувати Гіндію"
 
- form_evi: "Об’єднання долини Еві"
+ form_evi: "Об'єднання долини Еві"
  form_evi_desc:0 "Emperor Grover I was the first griffon to unite the lands of the Evi Valley under one banner, but he was a foreigner. With the Empire's collapse the valley was divided once more, but perhaps an ambitious native ruler can change this. Let a new nation now rise from the ashes of war, and may the disparate peoples of Evi stand together at last!"
  form_evi_decision: "Сформувати Евійську націю"
  move_capital_to_kivessin: "Перемістити столицю в Ківессин"

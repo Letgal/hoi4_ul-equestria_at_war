@@ -20,12 +20,6 @@
  JER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3:0 "Gen de Division"
  JER_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4:0 "Gen de Corps d'Armée"
 
-#  JAP_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0:0 "Rikugun-Shōshō"
-#  JAP_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1:0 "Rikugun-Shōshō"
-#  JAP_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2:0 "Rikugun-Chūjō"
-#  JAP_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3:0 "Rikugun-Chūjō"
-#  JAP_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4:0 "Rikugun-Chūjō"
-
  STG_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0:0 "General-Maior"
  STG_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1:0 "General-Leytenant"
  STG_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2:0 "General-Leytenant"
@@ -80,17 +74,17 @@
  RCT_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3:0 "General Bojnik"
  RCT_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4:0 "General Pukovnik"
 
- MIT_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0:0 "Taxiarchos"
- MIT_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1:0 "Taxiarchos"
- MIT_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2:0 "Ypostratigos"
- MIT_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3:0 "Ypostratigos"
- MIT_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4:0 "Antistratigos"
+ MIT_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Таксіарх"
+ MIT_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Таксіарх"
+ MIT_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Іпостратіг"
+ MIT_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Іпостратіг"
+ MIT_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Антістратіг"
 
- NIM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0:0 "Taxiarchos"
- NIM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1:0 "Taxiarchos"
- NIM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2:0 "Ypostratigos"
- NIM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3:0 "Ypostratigos"
- NIM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4:0 "Antistratigos"
+ NIM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Таксіарх"
+ NIM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Таксіарх"
+ NIM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Іпостратіг"
+ NIM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Іпостратіг"
+ NIM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Антістратіг"
 
  UPGRADE_DIVISIONAL_COMMANDER_BUTTON_TITLE:0 "§HPromote Field Officer§!\n\n"
  HIRED_NEW_DIVISIONAL_GENERAL_TITLE:0 "Promote Field Officer"
@@ -159,105 +153,95 @@
  NO_AWARDABLE_HISTORY_ENTRIES:0 "No valid history entries to award medals for"
  
  ###Medal Names
-
  ### CHN
-
- CHN_medal_1:0 "Iron Trident (2nd Class)"
- CHN_medal_2:0 "Iron Trident (1st Class)"
- CHN_medal_3:0 "Queen's Trident in Silver"
- CHN_medal_4:0 "Queen's Trident in Silver with Oak Leaves"
+ CHN_medal_1: "Залізний тризуб (2 клас)"
+ CHN_medal_2: "Залізний тризуб (1 клас)"
+ CHN_medal_3: "Посріблений королевський тризуб"
+ CHN_medal_4: "Посріблений королевський тризуб із дубовим листям"
 
  ### EQS
-
- EQS_medal_1:0 "Pink Heart of Courage"
- EQS_medal_2:0 "Distinguished Service Medal"
- EQS_medal_3:0 "Order of Friendship with Military Ribbon"
- EQS_medal_4:0 "Sun and Moon Medal with Blue Sash"
+ EQS_medal_1: "Рожеве серце відваги"
+ EQS_medal_2: "Медаль за видатну службу"
+ EQS_medal_3: "Орден Дружби з військовою стрічкою"
+ EQS_medal_4: "Медаль «Сонце й Місяць» із синьою стулкою"
 
  ### FAT 
- 
- FAT_medal_1:0 "Gold Badge of Honour"
- FAT_medal_2:0 "Cross of Honour for Bravery and Valour"
- FAT_medal_3:0 "Order of the Republican Revolution"
- FAT_medal_4:0 "Hero of the Republic"
+ FAT_medal_1: "Золотий Знак Пошани"
+ FAT_medal_2: "Хрест Пошани за відвагу та доблесть"
+ FAT_medal_3: "Орден Республіканської революції"
+ FAT_medal_4: "Герой Республіки"
 
  ### GRI
-
- GRI_medal_1:0 "Iron Cross (2nd Class)"
- GRI_medal_2:0 "Golden Military Merit Cross"
- GRI_medal_3:0 "Grand Cross and Star of the Order of Boreas"
- GRI_medal_4:0 "Order of the Silver Griffon"
+ GRI_medal_1: "Залізний хрест (2 клас)"
+ GRI_medal_2: "Золотий Хрест за бойові заслуги"
+ GRI_medal_3: "Великий Хрест і Зірка Ордену Борея"
+ GRI_medal_4: "Орден Срібного грифона"
 
  ### HIP
-
- HIP_medal_1:0 "Bronze Star"
- HIP_medal_2:0 "Gold Star"
- HIP_medal_3:0 "Order of Aris"
- HIP_medal_4:0 "Medal of Honor"
+ HIP_medal_1: "Бронзова зірка"
+ HIP_medal_2: "Золота зірка"
+ HIP_medal_3: "Орден Арісу"
+ HIP_medal_4: "Медаль честі"
 
  ### JER
-
- JER_medal_1:0 "Combatant's Medal"
- JER_medal_2:0 "Cross for Military Valour with Bronze Star"
- JER_medal_3:0 "Cross for Military Valour with Gold Star"
- JER_medal_4:0 "Legion of Honour"
+ JER_medal_1: "Медаль учасника бойових дій"
+ JER_medal_2: "Хрест за воїнську доблесть із бронзовою зіркою"
+ JER_medal_3: "Хрест за воїнську доблесть із золотою зіркою"
+ JER_medal_4: "Легіон честі"
 
  ### WNG
-
- WNG_medal_1:0 "War Merit Clover"
- WNG_medal_2:0 "Clover of Military Valour"
- WNG_medal_3:0 "Order of Karthin (5th Class)"
- WNG_medal_4:0 "Order of Karthin (1st Class)"
+ WNG_medal_1: "Конюшина за бойові заслуги"
+ WNG_medal_2: "Конюшина за воїнську доблесть"
+ WNG_medal_3: "Орден Карфіна (5 клас)"
+ WNG_medal_4: "Орден Карфіна (1 клас)"
 
  ### RCT
-
- RCT_medal_1:0 "Order of the River Cross"
- RCT_medal_2:0 "Order of Ban Cold Silver"
- RCT_medal_3:0 "Order of the Three Rivers"
- RCT_medal_4:0 "Grand Order of Princess Soft Water"
+ RCT_medal_1: "Орден Річкового хреста"
+ RCT_medal_2: "Орден бана Колд Силвера"
+ RCT_medal_3: "Орден Трьох річок"
+ RCT_medal_4: "Великий орден принцеси Софт Уотер"
 
 
  ### Generic terms and names
 
- star:0 "Star"
- cross:0 "Cross"
- medallion:0 "Medallion"
- iron_cross:0 "Iron Cross"
- medal:0 "Medal"
- grand_cross:0 "Grand Cross"
- fascism_medal:0 "Medal"
- fascism_cross:0 "Cross"
- fascism_star:0 "Star"
- fascism_iron_cross:0 "Iron Cross"
- democratic_star:0 "Star"
- democratic_medal:0 "Medal"
- democratic_cross:0 "Cross"
- democratic_red_cross:0 "Cross of Valor"
- communist_medallion:0 "Medallion"
- communist_pin:0 "Pin"
- communist_grand_star:0 "Grand Star"
- communist_star:0 "Red Star"
-
- democratic_gallantry:0 "Medal for Gallantry"
- democratic_honor:0 "Legion of Honor"
- democratic_war_cross:0 "War Cross"
- democratic_lion:0 "Order of the Lion"
- communist_service_medal:0 "Distinguished Service Medal"
- communist_red_star:0 "Red Star"
- communist_merit_medal:0 "Medal of Military Merit"
- communist_hero_of_revolution:0 "Hero of the Revolution"
- fascism_bravery:0 "Medal for Bravery"
- fascism_merit:0 "Military Merit Cross"
- fascism_order_brave:0 "Order of the Brave"
- fascism_heroism:0 "Cross of Heroism"
- neutral_bravery:0 "Cross of Bravery"
- neutral_military_order:0 "The Military Order"
- neutral_sword:0 "Order of the Sword"
- neutral_virtue:0 "Order of Military Virtue"
-
  HISTORY_PROVINCE_LIST_TWO_ITEMS:0 "$FIRST$ and $SECOND$" ## Sentence cosntruction part for two (2) items only
  HISTORY_PROVINCE_LIST_TWO_PLUS_ITEMS_SEPARATOR:0 ", "
  HISTORY_PROVINCE_LIST_TWO_PLUS_ITEMS_LATTER_SEPARATOR:0 ", and "
+ star: "Зірка"
+ cross: "Хрест"
+ medallion: "Медальйон"
+ iron_cross: "Залізний хрест"
+ medal: "Медаль"
+ grand_cross: "Великий хрест"
+ fascism_medal: "Медаль"
+ fascism_cross: "Хрест"
+ fascism_star: "Зірка"
+ fascism_iron_cross: "Залізний хрест"
+ democratic_star: "Зірка"
+ democratic_medal: "Медаль"
+ democratic_cross: "Хрест"
+ democratic_red_cross: "Хрест доблесті"
+ communist_medallion: "Медальйон"
+ communist_pin: "Шпилька"
+ communist_grand_star: "Велика зірка"
+ communist_star: "Червона зірка"
+
+ democratic_gallantry: "Медаль за галантність"
+ democratic_honor: "Легіон честі"
+ democratic_war_cross: "Військовий хрест"
+ democratic_lion: "Орден Лева"
+ communist_service_medal: "Медаль за видатну службу"
+ communist_red_star: "Червона зірка"
+ communist_merit_medal: "Медаль «За бойові заслуги»"
+ communist_hero_of_revolution: "Герой революції"
+ fascism_bravery: "Орден сміливості"
+ fascism_merit: "Хрест бойової заслуги"
+ fascism_order_brave: "Одрен хоробрості"
+ fascism_heroism: "Хрест героїзму"
+ neutral_bravery: "Хрест відваги"
+ neutral_military_order: "Військовий орден"
+ neutral_sword: "Орден Меча"
+ neutral_virtue: "Орден воїнських чеснот"
  HISTORY_EXPERIENCE_COUNT_TEXT:0 "Officer Experience: $VALUE|H0$"
  DIVISIONAL_COMMAND_EXTRA_EXPERIENCE:0 "Gains $VALUE|H0$ experience on promotion.\n\n"
  DIVISION_COMMANDER_TOTAL_EXPERIENCE_SORT:0 "Experience"

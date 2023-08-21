@@ -61,7 +61,7 @@
   RULE_OPTION_OLE_FASCIST:0 "Supremacist - The Holy Coup"
   RULE_OPTION_FASCIST_OLE_AI_DESC:0 "The Seers will overthrow Johan and seek to restore Olenia to its ancient, war-mongering glory. They can declare a holy war on the Changelings."
 
- YAK_AI_BEHAVIOR: "@YAK Як’якистан"
+ YAK_AI_BEHAVIOR: "@YAK Як'якистан"
   RULE_COMMUNIST_YAK_AI_DESC:0 "The communists will successfully take over Yakyakistan and try to spread their ways."
   RULE_OPTION_FASCIST_YAK_AI_DESC:0 "The Yaks will elect the Supremacist party."
   RULE_OPTION_DEMOCRATIC_HISTORICAL_YAK_AI_DESC:0 "Prince Rutherford will successfully keep power and lead the yaks in the harmonist way."

@@ -25,7 +25,7 @@
   autonomy_colony: "Автономна маріонетка"
   autonomy_reichskommissariat: "Комісаріат"
   autonomy_reichsprotectorate: "Протекторат"
-  COLONIAL_FORCES_GENERAL_DESCRIPTION: "§GКлацніть, щоби переглянути шаблони суб’єктів і урядів у вигнанні.§!\n\nДивізії, створені за колоніальними шаблонами суб’єктів, можуть включати більше поні-ресурсів суб’єкта при нижчому рівні автономії."
+  COLONIAL_FORCES_GENERAL_DESCRIPTION: "§GКлацніть, щоби переглянути шаблони суб'єктів і урядів у вигнанні.§!\n\nДивізії, створені за колоніальними шаблонами суб'єктів, можуть включати більше поні-ресурсів суб'єкта при нижчому рівні автономії."
 
  #buildings_l
   nuclear_reactor_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї.\n\nКожен ядерний реактор споживає §R12§! £resources_strip|7£.\nЯкщо в Вас немає £resources_strip|7£, нові ядерні бомби не будуть вироблятися."
@@ -250,7 +250,7 @@
   ROM_license_german_equipment_desc:0 "Foreign equipment is superior to our own, but perhaps we could obtain the licenses to produce these weapons, ourselves." # (!)
 
  #effect_l
-  EFFECT_MAKE_PUPPET: "Держава $TARGET|UY$ стане суб’єктом держави $COUNTRY|Y$."
+  EFFECT_MAKE_PUPPET: "Держава $TARGET|UY$ стане суб'єктом держави $COUNTRY|Y$."
   EFFECT_MANPOWER_ADD_COUNTRY: "Поні-ресурси: $VAL|+=0$."
   EFFECT_MANPOWER_ADD_STATE: "Поні-ресурси: $VAL|+=0$."
 
@@ -336,8 +336,8 @@
   MODIFIER_LOCAL_MANPOWER: "Регіональні поні-ресурси"
   MODIFIER_CONSCRIPTION_FACTOR_DESC: "Модифікатор кількості доступних із регіонів поні-ресурсів."
   MODIFIER_CONSCRIPTION_TOTAL_FACTOR_DESC: "Модифікатор кількості доступних із регіонів поні-ресурсів."
-  MODIFIER_AUTONOMY_MANPOWER_SHARE: "Вимога до поні-ресурсів суб’єкта"
-  MODIFIER_AUTONOMY_MANPOWER_SHARE_DESC: "Кількість поні-ресурсів, потрібна для військ суб’єкта."
+  MODIFIER_AUTONOMY_MANPOWER_SHARE: "Вимога до поні-ресурсів суб'єкта"
+  MODIFIER_AUTONOMY_MANPOWER_SHARE_DESC: "Кількість поні-ресурсів, потрібна для військ суб'єкта."
   MODIFIER_LOCAL_NON_CORE_MANPOWER: "Поні-ресурси в ненаціональній області"
   MODIFIER_GLOBAL_NON_CORE_MANPOWER: "Поні-ресурси в ненаціональних землях"
   MODIFIER_EQUIPMENT_CAPTURE: "Приріст співвідношення захоплення оснащення"
@@ -387,7 +387,7 @@
 
  #operatives_l
   OPERATIVE_FORCED_INTO_HIDING: "§RЗмушений переховуватися§!"
-  CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC: "Першу комірку можна отримати, створивши розвідагентство. Інші комірки можна отримати після п’ятого поліпшення агентства або призначення §Hпримарної джентлістоти§! на посаду радника.\nКерівники розвідмережі альянсу також отримують комірки в залежності від кількості держав в альянсі. Суб’єкти та країни з дуже малою промисловістю на це не впливають."
+  CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC: "Першу комірку можна отримати, створивши розвідагентство. Інші комірки можна отримати після п'ятого поліпшення агентства або призначення §Hпримарної джентлістоти§! на посаду радника.\nКерівники розвідмережі альянсу також отримують комірки в залежності від кількості держав в альянсі. Суб'єкти та країни з дуже малою промисловістю на це не впливають."
 
  #plane_designer_l
   EQ_MOD_CAT_plane_jet_engine_type_TITLE: "1 реактивний двигун"
@@ -546,7 +546,7 @@
   artillery1_desc:0 "Rifled field guns made entirely out of metal and firing explosive ammunition are vastly more powerful than the cast cannons of old." # (!)
   antitank1: "Модернізація ПТА"
   antitank1_desc:0 "The importance of effective anti-tank weapons grows as tanks see wider use. Introducing a new generation of these weapons will be necessary to combat modern tank designs." # (!)
-  tech_signal_company: "Рота зв’язку I"
+  tech_signal_company: "Рота зв'язку I"
   tech_signal_company_desc:0 "Establishing and maintaining communications in the field has always required special skills. With the advent of new communications and detection technology, new possibilities for the practice lie ahead." # (!)
   tech_maintenance_company4: "Ремонтна рота IV"
   tech_maintenance_company4_desc:0 "Experiences with designing for active redundancy can be renewed to work with more modern equipment to make maintenance easier." # (!)
@@ -568,7 +568,7 @@
   peoples_army_desc:0 "The People's Army believes in the primacy of people over weapons, with superior motivation compensating for inferior technology, and enjoys widespread support from the civilian population.\n\n" # (!)
 
   MANAGE_OCCUPIED_TERRITORIES: "Окуповані тер-рії"
-  MANAGE_SUBJECTS: "Суб’єкти"
+  MANAGE_SUBJECTS: "Суб'єкти"
   MANAGE_EXILED_GOVERNMENTS: "Уряди у вигнанні"
 
  #from loc file lar_operations
@@ -622,5 +622,5 @@
 
   CUSTOM_DIFFICULTY_GROUP_NAME: "Посилення держав"
 
-  ACHIEVEMENTS_MOD_OK: "§HДосягнення доступні в модифікаціях!§!\n\nДосягнення EAW можна знайти за кнопкою «Профіль кар’єри» (або «Огляд проходження») в меню гри, у вкладці «Нагороди»."
+  ACHIEVEMENTS_MOD_OK: "§HДосягнення доступні в модифікаціях!§!\n\nДосягнення EAW можна знайти за кнопкою «Профіль кар'єри» (або «Огляд проходження») в меню гри, у вкладці «Нагороди»."
   our_war: "«Наша війна»"
