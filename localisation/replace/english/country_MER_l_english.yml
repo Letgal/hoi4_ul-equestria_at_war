@@ -2,8 +2,7 @@
  ##########################
  ### Characters & Descs ###
  ##########################
-
- MER_genevieve_voliere:0 "Geneviève Volière"
+ MER_genevieve_voliere: "Женев'єв Вольєр"
  MER_POLITICS_GENEVIEVE_DESC:0 "§YBorn:§! 969\n\n§YPortrait by:§! §SScroup§!"
  MER_salade_doeuf:0 "Salade d'Oeuf"
  MER_facilier_beauxregard:0 "Facilier Beauxregard"

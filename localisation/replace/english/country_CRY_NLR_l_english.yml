@@ -85,7 +85,7 @@ CRY_NLR_loyalty_to_the_moon_idea:0 "Moon's Hymn"
 CRY_NLR_loyalty_to_the_moon_idea_desc:0 ""Our Queen of the Night!\n\nWith this hymn, we shall sing to you\nFor we'll stand, we will subdue\nFor a Lunar revolution\nMoonlight's reign shall be reformed!\n\nThe Sacred Moon. We align. The Moon rises.\n\nEndless night will rise above us\nWith the guidance from the stars\nFor this our revolution\nMoonlight's throne shall be reborn!\n\nIn Luna we believe. Moonlight in the world, in us.\n\nSing to Her a kingdom\nSing to Her glory\nThe stars will lead us\nThe Moon will protect us.""
 nlr_finance_expert:0 "Golden Moon"
 nlr_entrenchment:0 "Cloud Cover"
-nlr_cadance:0 "Princess Cadance"
+nlr_cadance: "$princess_cadence$"
 CRY_misty_night:0 "Misty Night"
 
 #Events:

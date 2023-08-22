@@ -900,60 +900,38 @@ Yak_JAK_lower: "йак"
  yakistan.30.d:0 "An envoy has crossed the Crystal Mountains and travelled all the way to Canterlot from the distant and secluded Kingdom of Yakyakistan. He speaks in the name of his King, Rutherford, who recently united his nation and is no longer a mere Prince. He has for many years been a friend of Equestria, and now wishes to formalize our friendship. He asks us to ensure their freedom and independence, so they remain safe from the ambitions of the Changelings or the Nova Griffonians."
  yakistan.30.a:0 "We are happy to protect such reliable friends."
  yakistan.30.b:0 "While we wish to remain friends, we trust them to survive on their own."
+
  ################################### advisors #################################################################
- 
  YAK_Yona:0 "Yona"
- 
  YAK_vindhov:0 "Vindhov"
- 
  YAK_alastair:0 "Alastair"
- 
- YAK_prince_rutherford:0 "Prince Rutherford"
- 
+ YAK_prince_rutherford: "Принц Резерфорд"
  YAK_mckinley:0 "McKinley"
- 
- YAK_serekh_ni_khurtel:0 "Serekh ni Khurtel"
- 
- YAK_yakistanks:0 "YakisTanks"
- 
- YAK_buuhtan_motors:0 "Buuhtan Motors"
- 
- YAK_darksky_aeronautics:0 "Dark Sky Aeronautics"
- 
- YAK_northwind_design:0 "Northwind Designs"
- 
- YAK_saihan_loggers:0 "Saihan Loggers"
- 
  YAK_dougal_khan:0 "Dougal Khan"
-
  YAK_chieftess_sheyak:0 "Chieftess Sheyak"
- 
- YAK_air_skychief_agnes:0 "Skychief Agnes"
- 
  YAK_barrak:0 "Barrak"
- 
- YAK_bradford:0 "Bradford"
+ YAK_bradford: "Бредфорд"
  YAK_bradford_desc:0 "The prince of the Jakistani lands is also a trained officer with knowledge on how to lead his people into battle."
- 
  YAK_skychief_agnes:0 "Skychief Agnes"
- 
+ YAK_air_skychief_agnes: "$YAK_skychief_agnes$"
  YAK_boomer:0 "Boomer"
- 
  YAK_bug1:0 "Ixil"
- 
  YAK_bug2:0 "Carapace"
- 
  YAK_bug3:0 "Locust"
- 
  YAK_erikka:0 "Erikka"
- 
  YAK_heroi:0 "Heroi"
-
  YAK_phalax:0 "Phalax"
  YAK_arista:0 "Arista"
  YAK_frenulum:0 "Frenulum"
  YAK_tymbal:0 "Tymbal"
  YAK_sclerite:0 "Sclerite"
+
+ YAK_yakistanks: "ЯкисТанки"
+ YAK_buuhtan_motors:0 "Buuhtan Motors"
+ YAK_serekh_ni_khurtel:0 "Serekh ni Khurtel"
+ YAK_darksky_aeronautics:0 "Dark Sky Aeronautics"
+ YAK_northwind_design:0 "Northwind Designs"
+ YAK_saihan_loggers:0 "Saihan Loggers"
 
  ########################################################## leaders ##########################################
 
@@ -1012,12 +990,10 @@ Yak_JAK_lower: "йак"
  YAK_sekrit_cops:0 "Safeguard the Revolution"
  
  YAK_famine:0 "Famine"
- 
- YAK_famine2:0 "Famine"
+ YAK_famine2: "$YAK_famine$"
  
  YAK_communist_schools:0 "Revolutionary Education"
- 
- YAK_communist_schools2:0 "Revolutionary Education"
+ YAK_communist_schools2: "$YAK_communist_schools$"
  
  YAK_worker_programs:0 "Full Employment"
  

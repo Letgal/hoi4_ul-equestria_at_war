@@ -44,11 +44,11 @@ DRG_neutral_path:0 "The Path of Tradition and Pariahs"
 DRG_tribal_reform:0 "Gradually removes the §YTribal Society§! National Spirit"
 
 ## Leaders
-DRG_dragon_lord_ember:0 "Dragon Lord Ember"
-DRG_lord_ruby:0 "Lord Ruby"
+DRG_dragon_lord_ember: "Володарка драконів Ембер"
+DRG_lord_ruby: "Володар Рубі"
 
 ## Generals
-DRG_lord_torch:0 "Lord Torch"
+DRG_lord_torch: "Володар Торч"
 
 ## Advisors
 DRG_smolder:0 "Smolder"

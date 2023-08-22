@@ -1,9 +1,8 @@
 ﻿l_english:
 ### countryname ###
 ### names ###
-
-PLB_paw_wellington_loc:0 "Paw Wellington"
-PLB_paw_wellington_overtyrant_paw:0 "Overtyrant Paw Wellington"
+PLB_paw_wellington_loc: "По Веллінґтон"
+PLB_paw_wellington_overtyrant_paw: "Архітиран По Веллінґтон"
 PLB_paw_wellington_overtyrant_jorik:0 "Overtyrant Jorik of Clan Scyfling"
 PLB_paw_wellington_overtyrant_captain:0 "Iron Captain Jorik"
 PLB_paw_wellington_overtyrant_wastes:0 "Lord Jorik of the Endless Wastes"

@@ -290,12 +290,12 @@ PNG_air_doctrine2:0 "Advanced Air Doctrine"
 PNG_air_doctrine2_desc:0 "Teaching our pilots and training them in the new doctrines is incredibly important."
 
 ### Leaders ###
-PNG_king_lolo:0 "King Lolo"
-PNG_king_orvar_njordin:0 "King Orvar Njordin"
-PNG_emperor_orvar_njordin:0 "Emperor Orvar Njordin"
-PNG_king_hindrik_aberg:0 "King Hindrik Aberg"
-PNG_theo_malmkvist:0 "Theo Malmkvist"
-PNG_ragnel_dahlin:0 "Ragnel Dahlin"
+PNG_king_lolo: "Король Лоло"
+PNG_king_orvar_njordin: "Король Орвар Нйордін"
+PNG_emperor_orvar_njordin: "Emperor Орвар Нйордін"
+PNG_king_hindrik_aberg: "Король Гіндрік Аберґ"
+PNG_theo_malmkvist: "Тео Мальмквіст"
+PNG_ragnel_dahlin: "Раґнель Далін"
 
 ### Generals ###
 PNG_arviid_lovas:0 "Arviid Lovas"
@@ -304,10 +304,10 @@ PNG_birgette_birky:0 "Birgette Birky"
 PNG_commander_hululu:0 "Commander Hululu"
 
 ### Admirals ###
-PNG_skipper:0 "Skipper"
-PNG_kowalski:0 "Kowalski"
-PNG_rico:0 "Rico"
-PNG_private:0 "Private"
+PNG_skipper: "Шкіпер"
+PNG_kowalski: "Ковальський"
+PNG_rico: "Ріко"
+PNG_private: "Рядовий"
 
 ### Advisors ###
 PNG_karl_nordin:0 "Karl Nordin"

@@ -128,49 +128,30 @@ JAK_jaktopia:0 "Jaktopia"
 JAK_jaktopia_desc:0 "Truly, a new and great era has come to Jaks and Yaks. Under the leadership of Prince Bradford we have created a nation that truly embraces the Yak Way of Life and Yak and Jak traditions. This has led to unprecedented prosperity!.\n\nTruly we have created an utopia for both Yaks and Jaks."
 
 ############################################## Advisors #########################################
-JAK_alastair:0 "Alastair"
-
-JAK_prince_rutherford:0 "Prince Rutherford"
-
+JAK_prince_rutherford: "$YAK_prince_rutherford$"
+JAK_bradford: "$YAK_bradford$"
+JAK_alastair: "$YAK_alastair$"
 JAK_archibald:0 "Archibald"
-
 JAK_not_a_jak:0 "Abram the Editorgoat"
-
-JAK_buuhtan_motors:0 "Buuhtan Motors"
-
-JAK_yakistanks:0 "JakisTanks"
-
-JAK_darksky_aeronautics:0 "Dark Sky Aeronautics"
-
-JAK_northwind_design:0 "Northwind Designs"
-
-JAK_ryben_industries:0 "Ryben Industries"
-
-JAK_saihan_river_authority:0 "Saihan River Authority"
-
-JAK_dougal_khan:0 "Dougal Khan"
-
+JAK_dougal_khan: "$YAK_dougal_khan$"
 JAK_irvine:0 "Irvine"
-
-JAK_heroi:0 "Heroi"
-
-JAK_air_skychief_agnes:0 "Skychief Agnes"
-
+JAK_heroi: "$YAK_heroi$"
 JAK_finbar:0 "Finbar"
+JAK_skychief_agnes: "$YAK_skychief_agnes$"
+JAK_air_skychief_agnes: "$YAK_skychief_agnes$"
+JAK_boomer: "$YAK_boomer$"
 
-JAK_bradford:0 "Bradford"
-
-JAK_skychief_agnes:0 "Skychief Agnes"
-
-JAK_boomer:0 "Boomer"
+JAK_yakistanks: "ЙакисТанки"
+JAK_buuhtan_motors: "$YAK_buuhtan_motors$"
+JAK_darksky_aeronautics: "$YAK_darksky_aeronautics$"
+JAK_northwind_design: "$YAK_northwind_design$"
+JAK_ryben_industries:0 "Ryben Industries"
+JAK_saihan_river_authority: "Адміністрація ріки Сайхан"
 
 ######################################### leaders ##############################################
-
-JAK_prince_bradford:0 "Prince Bradford"
-
-JAK_khan_bradford:0 "Khan Bradford"
-
-JAK_chairyak_bradford:0 "Chairyak Bradford"
+JAK_prince_bradford: "Принц Бредфорд"
+JAK_khan_bradford: "Хан Бредфорд"
+JAK_chairyak_bradford: "Глава Бредфорд"
 
 ######################################### generals ##############################################
 

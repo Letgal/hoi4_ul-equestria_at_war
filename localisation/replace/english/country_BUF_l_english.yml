@@ -176,9 +176,9 @@ BUF_strongheart_braeburn_friends:0 "Meet with Braeburn"
 ###########################################
 ### LEADERS ###############################
 ###########################################
-BUF_chieftess_strongheart:0 "Chieftess Strongheart"
-BUF_chief_thunderhooves:0 "Chief Thunderhooves"
-BUF_the_elder:0 "The Elder"
+BUF_chieftess_strongheart: "Вождь Стронґгарт"
+BUF_chief_thunderhooves: "Вождь Тандергувз"
+BUF_the_elder: "Старійшина"
 BUF_gorick:0 "Gorick"
 BUF_gentle_giant:0 "Gentle Giant"
 
