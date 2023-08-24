@@ -158,7 +158,8 @@
  have_regular_puppets: "Є республікою"
  CRY_solar_governorship: "Є сонячною провінцією"
  puppet_can_become_free: "Держава може стати §Hвільною§!"
- DED_Black_Crusade_tp: "§H[THIS.GetName]§! розпочне §RЧорний Великий похід§!.\n"
+ DED_Black_Crusade_tp: "§H[THIS.GetName]§! розпочне §RЧорний похід§!.\n"
+ war_economy_only_flag: "Обмеження до воєнної економіки"
  economic_laws_blocked: "Економічні закони заблоковані"
  manpower_laws_blocked: "Призовні закони заблоковані"
  trade_laws_blocked: "Торгівельні закони заблоковані"
@@ -288,8 +289,6 @@
  Pony_Human_friendship: "Дружби поні з людьми"
  sheltered_velvet: "Надано притулок Вельвет"
  recruitment_in_process:0 "Local Operative recruitment already in progress"
-
- war_economy_only_flag:0 "Locked to War Economy"
 
  brutal_oppression_allowed: "Брутальний утиск був дозволений"
  brutal_oppression_unlock_tt: "Розблоковує окупаційний закон §YБрутальний утиск§!."

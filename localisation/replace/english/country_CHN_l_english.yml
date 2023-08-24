@@ -2834,9 +2834,9 @@ CHN_lysander_palpus:0 "§YPalpus§! (with traits §YIronside§!, §YBattleship A
 CHN_lysander_maxilla:0 "§YMaxilla§! (with traits §YFleet Protector§!, §YNaval Lineage§!, §YCareer Officer§!) becomes an Admiral.\n"
 CHN_mimic_clypeus:0 "§YClypeus§! (with traits §YFly Swatter§!, §YCourteous§!, §YCareer Officer§!) becomes an Admiral.\n"
 CHN_mimic_labrum:0 "§YLabrum§! (with traits §YAir Controller§!, §YCraven§!, §YCareer Officer§!) becomes an Admiral.\n"
-everfree_resistance_modifier:0 "Everfree Forest Rampant"
-old_dragon_gardens:0 "Everfree Forest"
-CHN_zecoras_curse:0 "§bZecora's Curse§!"
+everfree_resistance_modifier: "Нестримний Вічнодикий ліс"
+old_dragon_gardens: "Вічнодикий ліс"
+CHN_zecoras_curse: "§bПрокляття Зекори§!"
 
 ### TECHNOLOGY ###
 CHN_armoured_trains:0 "Armoured Trains"

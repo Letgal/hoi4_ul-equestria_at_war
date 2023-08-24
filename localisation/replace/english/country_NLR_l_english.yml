@@ -787,9 +787,9 @@ NLR_polar_night:0 "Polar Night"
 NLR_flicker_fade:0 "Flicker Fade"
 
 ### Design Companies ###
-NLR_detrot:0 "Detrot Motors"
-NLR_nightmare:0 "Nightmare Motors INC."
-NLR_shoof:0 "Stallion Company"
+NLR_detrot: "Detrot Motors"
+NLR_nightmare: "Nightmare Motors, Inc."
+NLR_shoof: "$shoof$"
 NLR_imperial:0 "Imperial Industries"
 NLR_arcane:0 "Sleeping Mare Entertainment"
 NLR_moonlight:0 "Moonlight Aviation"
