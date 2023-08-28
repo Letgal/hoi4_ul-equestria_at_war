@@ -26,9 +26,9 @@
  infantry_acclimatization_desc:0 "Simple modifications to our uniforms allow our soldiers to adapt to extreme heat and cold more quickly. Thick, hard goggles can protect against both snow and sand."
  infantry_comms:0 "Distributed Recon & Signals"
  infantry_comms_desc:0 "With each platoon and vehicle crew having someone carrying binoculars, and another a two-way radio, the entire army can report in and ensure rapid communication."
- experimental_helicopter:0 "Experimental Helicopter"
+ experimental_helicopter: "Експериментальний вертоліт"
  experimental_helicopter_desc:0 "Primitive rotorcraft have existed for decades, but only recently have they become advanced enough to prove useful in warfare. While applications are still uncertain, these helicopters have already proven their use in emergency airdrops of isolated troops."
- infantry_aa:0 "Infantry Anti-Air I"
+ infantry_aa: "Піхотна зенітна зброя I"
  infantry_aa_desc:0 "The addition of a small anti-air rocket launcher capable of being carried on a soldier's back, similar to the introduction of the bazooka a decade ago, will allow infantry to have a fighting chance against airplanes."
  finished_land_doctrine:0 "Completed any land doctrine tree"
  finished_navy_doctrine_left:0 "Completed the left branch of any naval doctrine tree"
@@ -117,10 +117,9 @@
  HIP_amphibious_super_heavies:0 "Waterproof Super-Heavy Tanks"
  HIP_amphibious_super_heavies_effect:0 "All Super-Heavy Armor:\n   River:\n      Attack: §G+10%§!\n      Movement: §G+10%§!\n   Marsh:\n      Attack: §G+10%§!\n      Defense: §G+10%§!\n   Amphibious:\n      Attack: §G+20%§!"
  
- motorized_equipment_2:0 "Advanced Truck"
+ motorized_equipment_2: "Удосконалена вантажівка"
  motorized_equipment_2_desc:0 "With a more powerful engine, this truck can keep pace with the new generation of light tanks."
-
- motorized_equipment_3:0 "Modern Truck"
+ motorized_equipment_3: "Сучасна вантажівка"
  motorized_equipment_3_desc:0 "Advances in engines and lightweight armor allow this troop transport unparalleled speed as well as improved protection."
 
  basic_encryption_lar:1 "Mechanical Rotor Cyphers"

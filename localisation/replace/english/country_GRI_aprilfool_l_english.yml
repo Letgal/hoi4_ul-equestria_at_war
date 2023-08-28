@@ -244,7 +244,7 @@ imperium.3001.desc:0 "In the wake of the emperor's return, nobody had been more 
  ### News Events ###
  imperium_news.1.title:0 "The Emperor is Dead?"
  imperium_news.1.desc:0 "[This.GetNewspaperHeader]With the emperor's condition deteriorating, scientists from Gamia University offered to attempt to stabilise him using their new project - Project Kristallthron. It was meant to magically give the emperor the vitality to return from the brink, yet instead it has created chaos. It appears as though the device overheated and a magical fog has descended on Griffenheim, blanketing it in toxic gas. The imperial guard is trying to reach the palace through the fog, but nogriff knows what is going on."
- imperium_news.1.a:0 "Gods above, what is going on!?"
+ imperium_news.1.a:0 "Gods above, what is going on?!"
  imperium_news.1.b:0 "What is this madness?"
  imperium_news.1.c:0 "This chaos will present an opportunity"
  imperium_news.1.e:0 "Who would have thought he would end like this?"
@@ -253,7 +253,7 @@ imperium.3001.desc:0 "In the wake of the emperor's return, nobody had been more 
  imperium_news.1.equestria_f:0 "How horrifying!"
  imperium_news.1.equestria_no_f:0 "What in the...?"
  imperium_news.1.equestria_no_f_dem:0 "What a horrible way to end."
- imperium_news.1.equestria_grf:0 "What is going on in Griffonia!?"
+ imperium_news.1.equestria_grf:0 "What is going on in Griffonia?!"
  imperium_news.1.ded:0 "The Radiant One has awoken..."
 
  imperium_news.41.title:0 "The Dawnclaw Heresy Stands Victorious"
@@ -278,7 +278,7 @@ imperium.3001.desc:0 "In the wake of the emperor's return, nobody had been more 
  imperium_news.43.griffon:0 "We won't go down so easily against this madgriff!"
  imperium_news.43.riverfed:0 "We've faced them before... this is something new."
  imperium_news.43.others:0 "What is happening in Griffonia?"
- imperium_news.43.ded:0 "We are the masters of darkness, not they! How dare they!?"
+ imperium_news.43.ded:0 "We are the masters of darkness, not they! How dare they?!"
 
  imperium_news.44.title:0 "The Grand Crusade Begins"
  imperium_news.44.desc:0 "[This.GetNewspaperHeader]The Imperium of Griffonkind, having destroyed the Dawnclaw Heresy and tightened its grip on the Herzland, has launched a massive offensive to not only reunite the empire, but to 'claim its rightful place as Griffonia's masters'. Emperor Grover V, now styled 'God-Emperor', has publicly addressed the nations of the continent and told them to submit to their rightful overlords and spare themselves the suffering. Few seem willing to take the offer, and Griffonia burns with war."

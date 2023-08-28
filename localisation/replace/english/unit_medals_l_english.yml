@@ -88,11 +88,11 @@
 
  UPGRADE_DIVISIONAL_COMMANDER_BUTTON_TITLE: "§HПідвищити польового офіцера§!\n\n"
  HIRED_NEW_DIVISIONAL_GENERAL_TITLE: "Підвищити польового офіцера"
- HIRED_NEW_DIVISIONAL_GENERAL_DESC:0 "Ви справді хочете підвищити офіцера $CHARACTER$ до звання генерала?\n\nThis will reset the experience of this division, and cost us\n$COST|H$ £command_power£."
+ HIRED_NEW_DIVISIONAL_GENERAL_DESC: "Ви справді хочете підвищити офіцера $CHARACTER$ до звання генерала?\n\nЦе скине весь досвід цієї дивізії, та коштуватиме нам\n$COST|H$ £command_power£."
  DIVISION_COMMANDER_NOT_AT_MAX_RANK: "£trigger_no Ранг досвіду дивізії мусить бути принаймні $RANK$."
- DIVISION_COMMANDER_NOT_WHEN_VOLUNTEERS:0 "£trigger_no This action cannot be performed on volunteers."
+ DIVISION_COMMANDER_NOT_WHEN_VOLUNTEERS: "£trigger_no Цю дію не можна провести на дбровольцях."
  DIVISION_COMMANDER_NOT_ENOUGH_COMMAND_POWER: "\n£trigger_no Недостатньо командної влади."
- CANNOT_AWARD_TO_EXPEDITIONARY:0 "Cannot perform this action on expeditionary units"
+ CANNOT_AWARD_TO_EXPEDITIONARY: "Не можна провести цю дію на експедиційних військах."
  COMMANDING_DIVISION: "$UNIT$"
  CHOOSE_DIVISIONAL_LEADER: "Польові офіцери"
  COMMANDER_ROSTER_DIVISION_BUTTON: "Офіцери"
@@ -147,10 +147,10 @@
  LEADER_MODIFIER_MEDALS: "Якщо §Hгенерал§!:"
  NUM_OF_MEDALS_UI: "x$VALUE$"
  COMBINED_MEDAL_EFFECTS: "Наші нагороди $TYPE|H$ дають нам:"
- MEDAL_EFFECTS_TOOLTIP_DELAYED:0 "The modifiers for granting several instances of the same medal type are subject to diminishing returns."
+ MEDAL_EFFECTS_TOOLTIP_DELAYED: "Модифікатори від кількох присуджень однакової медалі матимуть усе менший ефект."
  DIVISION_COMMANDER_GENERAL_CACHE_TOOLTIP: ""
  COMBINED_MEDAL_EFFECTS_LEADER: "§HПольові нагороди§!\n\n"
- NO_AWARDABLE_HISTORY_ENTRIES:0 "No valid history entries to award medals for"
+ NO_AWARDABLE_HISTORY_ENTRIES: "В історії немає подій, за які можна присудити медаль."
 
  ###Medal Names
  ### CHN
@@ -234,7 +234,7 @@
  fascism_merit: "Хрест бойової заслуги"
  fascism_order_brave: "Одрен хоробрості"
  fascism_heroism: "Хрест героїзму"
- neutral_bravery: "Хрест відваги"
+ neutral_bravery: "Хрест сміливості"
  neutral_military_order: "Військовий орден"
  neutral_sword: "Орден Меча"
  neutral_virtue: "Орден воїнських чеснот"

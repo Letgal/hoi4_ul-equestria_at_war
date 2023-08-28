@@ -722,7 +722,7 @@ griffonwill.16.a:0 "Oh huh."
 
 griffonwill.17.t:0 "Our brave sailors have arrived"
 griffonwill.17.d:0 "What news do you have, travellers? Stalliongrad refused?"
-griffonwill.17.a:0 "How!?"
+griffonwill.17.a:0 "How?!"
 
 griffonwill.18.t:0 "Pressure [FRN.GetNameDef] and [ARA.GetNameDef]"
 griffonwill.18.d:0 "We can either put diplomatic pressure on [FRN.GetNameDef] and [ARA.GetNameDef], or get straight to the point and declare war."
