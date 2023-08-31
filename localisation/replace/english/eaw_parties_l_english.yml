@@ -27,8 +27,8 @@
  NLR_communism_party: "$EQS_communism_party$"
  NLR_communism_party_long: "$EQS_communism_party_long$"
  NLR_democratic_party: "Селестійський спротив"
- NLR_fascism_party: "МІД-Ф"
- NLR_fascism_party_long: "Місячний імперський двір — фундаменталісти"
+ NLR_fascism_party: "МІД-Р" # Hardline
+ NLR_fascism_party_long: "Місячний імперський двір — радикали" # Hardline
 
  STG_neutrality_party:0 "SMTP"
  STG_neutrality_party_long:0 "Severyanian Monarchist Traditionalist Party"

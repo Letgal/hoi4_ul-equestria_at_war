@@ -462,12 +462,12 @@ VAN_Endless_Flanking:0 "Offensive Sprite"
  VAN_vanhoover_dockyards: "Верфі Вангувера"
 
 ### Cosmetic Tags ###
- VANEESR_communism: "Західноеквестрійська совітська республіка"
- VANEESR_communism_DEF: "Західноеквестрійська совітська республіка"
+ VANEESR_communism: "Західноеквестрійська радянська республіка" # SOV
+ VANEESR_communism_DEF: "Західноеквестрійська радянська республіка" # SOV
  VANEESR_communism_ADJ: "Західноеквестрійськ"
 
- VAN_Oblast_communism: "Вангуверська совітська область"
- VAN_Oblast_communism_DEF: "Вангуверська совітська область"
+ VAN_Oblast_communism: "Вангуверська радянська область" # SOV
+ VAN_Oblast_communism_DEF: "Вангуверська радянська область" # SOV
  VAN_Oblast_communism_ADJ: "Вангуверськ"
 
 ### Parties ###

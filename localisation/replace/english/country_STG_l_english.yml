@@ -1230,11 +1230,11 @@ Advisors_gone_to_GRW:0 "Military Mission to GLA"
 
 
  STG_tsar_peter_iv: "Цар Пьотр IV"
- STG_ratibor_svetoslavich:0 "Ратібор Светославович"
- STG_caramelka_sladkaya:0 "Карамелька Сладкая"
- STG_altidiya:0 "Альтідія"
- STG_supreme_soviet:0 "Верховна Рада"
- STG_nestor_lunin:0 "Нестор Лунін"
+ STG_ratibor_svetoslavich: "Ратібор Светославович"
+ STG_caramelka_sladkaya: "Карамелька Сладкая"
+ STG_altidiya: "Альтідія"
+ STG_supreme_soviet: "Верховна Рада" # SOV
+ STG_nestor_lunin: "Нестор Лунін"
  STG_ember_flare:0 "Ember Flare"
  STG_veronika_krasnova:0 "Veronika Krasnova"
  STG_alexia_goldgear:0 "Alexia Goldgear"

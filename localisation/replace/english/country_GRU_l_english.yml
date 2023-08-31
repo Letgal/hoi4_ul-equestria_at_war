@@ -796,8 +796,8 @@ gryps.100.c:0 "The order."
  BAR_GRU_company_neutrality_DEF: "Ґрифуський кондомініум Баррад"
  BAR_GRU_company_neutrality_ADJ: "Баррадськ"
 
- BRF_GRU_company_neutrality: "Рільницька корпорація долини Еві"
- BRF_GRU_company_neutrality_DEF: "Рільницька корпорація долини Еві"
+ BRF_GRU_company_neutrality: "Рільнича корпорація долини Еві"
+ BRF_GRU_company_neutrality_DEF: "Рільнича корпорація долини Еві"
  BRF_GRU_company_neutrality_ADJ: "Евійськ"
 
  GRW_GRU_company_neutrality: "Прайвенська агрохімічна фірма"

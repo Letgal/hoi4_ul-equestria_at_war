@@ -1515,8 +1515,8 @@
  PYT_SSR_neutrality: "Ґрайфенмаршен"
  PYT_SSR_neutrality_DEF: "Ґрайфенмаршен"
  PYT_SSR_neutrality_ADJ: "Ґрайфенмаршенськ"
- PYT_SSR_communism: "Ґрайфенмаршенська ССР"
- PYT_SSR_communism_DEF: "Ґрайфенмаршенська совітська соціалістична республіка"
+ PYT_SSR_communism: "Ґрайфенмаршенська РСР" # SOV
+ PYT_SSR_communism_DEF: "Ґрайфенмаршенська радянська соціалістична республіка" # SOV
  PYT_SSR_communism_ADJ: "Ґрайфенмаршенськ"
 
  PYT_duchy_fascism: "Ґрайфенмаршен"
@@ -1593,9 +1593,9 @@
  PYT_EMPIRE_COMMIE_neutrality: "Республіка Грифонів"
  PYT_EMPIRE_COMMIE_neutrality_DEF: "Республіка Грифонів"
  PYT_EMPIRE_COMMIE_neutrality_ADJ: "Грифонськ"
- PYT_EMPIRE_COMMIE_communism: "СГССР"
- PYT_EMPIRE_COMMIE_communism_DEF: "Союз Грифонських Соціалістичних Совітських Республік"
- PYT_EMPIRE_COMMIE_communism_ADJ: "Совітськ"
+ PYT_EMPIRE_COMMIE_communism: "СГСРР" # SOV
+ PYT_EMPIRE_COMMIE_communism_DEF: "Союз Грифонських Соціалістичних Радянських Республік" # SOV
+ PYT_EMPIRE_COMMIE_communism_ADJ: "Радянськ" # SOV
 
 ### Party Names ###
  PYT_ducal_party:0 "GHP"

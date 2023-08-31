@@ -118,6 +118,7 @@
  HIP_amphibious_super_heavies_effect:0 "All Super-Heavy Armor:\n   River:\n      Attack: §G+10%§!\n      Movement: §G+10%§!\n   Marsh:\n      Attack: §G+10%§!\n      Defense: §G+10%§!\n   Amphibious:\n      Attack: §G+20%§!"
  
  motorized_equipment_2: "Удосконалена вантажівка"
+ motorized_equipment_2_short: "Удоскон. вантажівка"
  motorized_equipment_2_desc:0 "With a more powerful engine, this truck can keep pace with the new generation of light tanks."
  motorized_equipment_3: "Сучасна вантажівка"
  motorized_equipment_3_desc:0 "Advances in engines and lightweight armor allow this troop transport unparalleled speed as well as improved protection."
