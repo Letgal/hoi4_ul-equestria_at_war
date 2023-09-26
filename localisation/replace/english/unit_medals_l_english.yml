@@ -86,6 +86,24 @@
  NIM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Іпостратіг"
  NIM_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Антістратіг"
 
+ KIR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0:0 "Shield-General"
+ KIR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1:0 "Standard-General"
+ KIR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2:0 "Banner-General"
+ KIR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3:0 "Banner-Marshal"
+ KIR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4:0 "Banner-Militarch"
+
+ KIS_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0:0 "Vice-Standard-Commander"
+ KIS_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1:0 "Standard-Commander"
+ KIS_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2:0 "Vice-Banner-Commander"
+ KIS_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3:0 "Banner-Commander"
+ KIS_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4:0 "Banner-Marshal"
+
+ KIC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0:0 "Ensign General"
+ KIC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1:0 "Standard General"
+ KIC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2:0 "Pennant General"
+ KIC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3:0 "Banner General"
+ KIC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4:0 "Marshal General"
+
  UPGRADE_DIVISIONAL_COMMANDER_BUTTON_TITLE: "§HПідвищити польового офіцера§!\n\n"
  HIRED_NEW_DIVISIONAL_GENERAL_TITLE: "Підвищити польового офіцера"
  HIRED_NEW_DIVISIONAL_GENERAL_DESC: "Ви справді хочете підвищити офіцера $CHARACTER$ до звання генерала?\n\nЦе скине весь досвід цієї дивізії, та коштуватиме нам\n$COST|H$ £command_power£."
@@ -200,6 +218,13 @@
  RCT_medal_2: "Орден бана Колд Силвера"
  RCT_medal_3: "Орден Трьох річок"
  RCT_medal_4: "Великий орден принцеси Софт Уотер"
+
+ ### Kiria
+ KIR_medal_1:0 "Gentian-Embroidered Yellow Square of Distinction"
+ KIR_medal_2:0 "Twin-Tailed Gamboge Pennant"
+ KIR_medal_3:0 "Night-Sky Two Crescents Banner"
+ KIR_medal_4:0 "Honour Standard of the Realm"
+ KIR_medal_5:0 "Carmine-Embroidered Yellow Square of Distinction"
 
 
  ### Generic terms and names

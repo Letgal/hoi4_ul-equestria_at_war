@@ -29,7 +29,7 @@
  STRATEGICREGION_28: "Море Вікінґів"
  STRATEGICREGION_29: "Панталасський океан"
  STRATEGICREGION_30: "Драконяче лігво"
- STRATEGICREGION_31: "Західна Кірія"
+ STRATEGICREGION_31: "Західні терени" # Західна Кірія
  STRATEGICREGION_32: "Заборонені Джунглі"
  STRATEGICREGION_33: "Південні колонії"
  STRATEGICREGION_34: "Драконяча пустка"
@@ -67,7 +67,7 @@
  STRATEGICREGION_66: "Море Каркад"
  STRATEGICREGION_67: "Коралове море"
  STRATEGICREGION_68: "Вітряна протока"
- STRATEGICREGION_69: "Кобилкіно"
+ STRATEGICREGION_69: "Муніка"
  STRATEGICREGION_70: "Рейнбоу-Фолз"
  STRATEGICREGION_71: "Серце Кристальної імперії"
  STRATEGICREGION_72: "Кристальний хребет"
@@ -77,10 +77,10 @@
  STRATEGICREGION_76: "Віннісота"
  STRATEGICREGION_77: "Море Сонячного Світла"
  STRATEGICREGION_78: "Крижане море"
- STRATEGICREGION_79: "Південна Кірія"
+ STRATEGICREGION_79:0 "Mellifluve Delta" # Південна Кірія
  STRATEGICREGION_80: "Китове море"
  STRATEGICREGION_81: "Лазурні глибини"
- STRATEGICREGION_82: "Східна Кірія"
+ STRATEGICREGION_82:0 "Cradle of Kirinity" # Східна/Центральна Кірія
  STRATEGICREGION_83: "Уайтбелл"
  STRATEGICREGION_84: "Долина Падаючого пір'я"
  STRATEGICREGION_85: "Північна Зайкірія"
