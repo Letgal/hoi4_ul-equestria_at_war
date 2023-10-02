@@ -13,7 +13,7 @@ SRS_communism_communal_league:0 "League of Skynavian Communes"
 SRS_sickleclaws_clique:0 "Sickleclaw's Clique"
 
 #### LEADERS ####
-SKYNAVIAN_GENERAL_CONGRESS_NAME:0 "Skynavian General Congress"
+SKYNAVIAN_GENERAL_CONGRESS_NAME: "$SRS_skynavian_general_congress$"
 SKYNAVIAN_GENERAL_CONGRESS_NAME_DESC:0 "The governing body of the Socialist Republic of Skynavia since its formation, the Skynavian General Congress is made up of 80 delegates representing their respective constituencies. These delegates are nominated from amidst their communities and democratically elected to serve short terms, with each term usually being one-third of a year, and can be re-elected for a maximum of three terms. Because these delegates are responsible for representing the opinions of their electorates they are subject to immediate recall and replacement if the General Congress undertakes decisions unfavourable to their constituency.\n\nThis system of governance ensures that power remains decentralised at the behest of the people by preventing the formation of a politican caste.\n\nAlthough the General Congress is sometimes inefficient due to its delegates all being amateurs at statecraft, the Congress can proudly lay claim to being one of the most democratic institution in all of Griffonia, and perhaps in the entire world as well."
 JOHN_CARLINI_NAME_DESC:0 "John Carlini grew up in a rich merchant district in Skyfall, experiencing a pampered childhood provided by his businessgriff father.\n\nGoing to the Cyrusval University in Yale for his higher studies, he became radicalised by the socialist thought prevalent in the University's Faculty of Social Sciences. Thoroughly disillusioned with his bourgeois upbringing, as soon as he graduated he signed up to one of the many mercenary companies fighting in the conflicts flaring up all around the world.\n\nHaving participated in the fierce fighting in the fields of Prywhen on the Communist side, Carlini arrived at the Socialist Republic of Skynavia bringing with him those of his mercenary company he was able to win over to the ideals of socialism. Now, he aspires to fight for a higher cause - that of the liberation of the proletariat of Griffonia."
 SICKLECLAW_NAME_DESC:0 "Asper Sickleclaw was a junior lieutenant in the Griffonian army when the First Revolution smashed the Empire to pieces. Marching alongside his fellow revolutionaries, Sickleclaw participated in most of the battles against the monarchist counter-revolution, eventually ending up in Cloudbury along with the remnants of the Republican government.\n\nHaving witnessed the despotism and authoritarianism of the Republican generals, Sickleclaw, anticipating the Republic's spiral into warlordism, adopted socialist views and marched onwards north, leading disillusioned socialists and other leftists away from the crumbling Republic into the virgin lands of Skynavia, where they hoped to start anew, free from the baggage of capitalist militarism.\n\nNow a staunch Internationalist, Sickleclaw is the foremost military leader of the Skynavian Socialist Republic, and is looked up to by most as a revered war hero, though some have raised concerns over what they perceive to be autocratic tendencies in his leadership."
@@ -24,22 +24,22 @@ BEAKUNIN_NAME_DESC:0 "Beakunin is one of the oldest and most influential of the 
 HORSON_WELLES_NAME_DESC:0 "Horson Welles began his illustrious career as a socialist revolutionary in his native Equestria, where in his early adulthood he produced numerous groundbreaking films equally revered for their avant-garde creativity and progressive values.\n\nLater he travelled across the ocean to the Socialist Republic of Skynavia, where he could experience and document the griffons' revolutionary struggle firsthoof.\n\nIn his youth, Horson took part in many shooting competitions, and got very good at marksponyship."
 
 #### LEADERS ####
-SRS_dominik_kingston:0 "Dominik Kingston"
-SRS_gilbert_lafayette:0 "Gilbert Lafayette"
-SRS_gabriella_gentlewing:0 "Gabriella Gentlewing"
-SRS_asper_sickleclaw:0 "Asper Sickleclaw"
-SRS_skynavian_general_congress:0 "Skynavian General Congress"
-SRS_reorganised_general_congress_of_skynavia:0 "Reorganised General Congress of Skynavia"
-SRS_pan_griffonian_peoples_assembly:0 "Pan-Griffonian People's Assembly"
+SRS_dominik_kingston: "Домінік Кінґстон"
+SRS_gilbert_lafayette: "Жільбер Лафаєтт"
+SRS_gabriella_gentlewing: "Ґабріелла Джентлвінґ"
+SRS_asper_sickleclaw: "Аспер Сиклкло"
+SRS_skynavian_general_congress: "Генеральний конгрес Скайнавії"
+SRS_reorganised_general_congress_of_skynavia: "Реорганізований Генеральний конгрес Скайнавії"
+SRS_pan_griffonian_peoples_assembly: "Пангрифонська народна асамблея"
 
 #### GENERALS ####
-SRS_john_carlini:0 "John Carlini"
-SRS_horson_welles:0 "Horson Welles"
-SRS_riley_vinchers:0 "Riley Vinchers"
-SRS_petr_pulitorov:0 "Petr Pulitorov"
+SRS_john_carlini: "Джон Карліні"
+SRS_horson_welles: "Горсон Уеллс"
+SRS_riley_vinchers: "Райлі Вінчерс"
+SRS_petr_pulitorov: "Пьотр Пуліторов"
 
 #### ADMIRALS ####
-SRS_council_of_sailors:0 "Council of Sailors" 
+SRS_council_of_sailors: "Рада матросів"
 
 #### IDEAS ####
 SRS_young_chick:0 "Emilia Stalwart"

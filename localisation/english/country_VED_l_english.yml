@@ -337,25 +337,25 @@
  VED_War_Prep_idea_desc:0 "The drums of war beat in the distance and we must prepare for it as best we can, we are neither weak nor pushovers. Whoever stands in our way will regret it."
 
  # Leaders
- VED_king_ondska_i:0 "King Ondska I"
- VED_prince_ondska:0 "Prince Ondska"
- VED_prince_stridande:0 "Prince Stridande"
- VED_king_stridande_i:0 "King Stridande I"
- VED_council_of_nobles:0 "Council of Nobles"
- VED_duke_krigforande:0 "Duke Krigförande"
- VED_princess_skoldsvard:0 "Princess Sköldsvärd"
- VED_princess_skoldsvard_the_corrupted:0 "Princess Sköldsvärd the Corrupted"
- VED_princess_skoldsvard_the_pragmatist:0 "Princess Sköldsvärd the Pragmatist"
- VED_princess_skoldsvard_the_righteous:0 "Princess Sköldsvärd the Righteous"
- VED_gustav_iv_wingstrom:0 "Gustav IV Wingstrom"
- VED_lycklig:0 "Lycklig"
+ VED_king_ondska_i: "Король Ондска I"
+ VED_prince_ondska: "Принц Ондска"
+ VED_prince_stridande: "Принц Стріданде"
+ VED_king_stridande_i: "Король Стріданде I"
+ VED_council_of_nobles: "Дворянська рада"
+ VED_duke_krigforande: "Герцог Кріґфьоранде" # Ø
+ VED_princess_skoldsvard: "Принцеса Шьольдсверд" # SJ # Ø
+ VED_princess_skoldsvard_the_corrupted: "Принцеса Шьольдсверд Розбещена" # SJ # Ø
+ VED_princess_skoldsvard_the_pragmatist: "Принцеса Шьольдсверд Прагматична" # SJ # Ø
+ VED_princess_skoldsvard_the_righteous: "Принцеса Шьольдсверд Праведна" # SJ # Ø
+ VED_gustav_iv_wingstrom: "Ґустав IV Вінґстром"
+ VED_lycklig: "Лікліґ"
 
  # Generals
- VED_count_aluvia:0 "Count Aluvia"
- VED_sir_ventrue_hansson:0 "Sir Ventrue Hansson"
- VED_camarilla_allvar:0 "Camarilla Allvar"
- VED_daltanye_backstrom:0 "Daltanye Backström"
- VED_gustav_garrensson:0 "Gustav Garrensson"
+ VED_count_aluvia: "Граф Алювія"
+ VED_sir_ventrue_hansson: "Сер Вентрьой Ганссон" # Ø
+ VED_camarilla_allvar: "Камарілья Аллвар"
+ VED_daltanye_backstrom: "Далтаніе Бакстрьом" # Ø
+ VED_gustav_garrensson: "Ґустав Ґарренссон"
 
  # Advisors
  VED_captain_of_industry:0 "Johan Jönnson"

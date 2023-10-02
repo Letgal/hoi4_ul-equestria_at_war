@@ -326,16 +326,16 @@ haukland.26.d:0 "It was a cold but beautiful morning, Meyer thought as a small b
 haukland.26.a:0 "You were always meant to be royalty. Not me."
 
 ### Leaders ###
-HAU_hermann_meyer:0 "Hermann Meyer"
-HAU_king_hermann_the_conqueror:0 "King Hermann the Conqueror"
-HAU_military_council:0 "Military Council"
+HAU_hermann_meyer: "Герман Маєр"
+HAU_king_hermann_the_conqueror: "Король Герман Завойовник"
+HAU_military_council: "Військова рада"
 
 ### Generals ###
-HAU_onyx_star:0 "Onyx Star"
-HAU_erhard_frosch:0 "Erhard Frosch"
+HAU_onyx_star: "Онікс Стар"
+HAU_erhard_frosch: "Ергард Фрош"
 
 ### Admirals ###
-HAU_raimund_kuchler:0 "Raimund Küchler"
+HAU_raimund_kuchler: "Раймунд Кюхлер"
 
 ### Advisors ###
 HAU_eric_neumark:0 "Eric Neumark"

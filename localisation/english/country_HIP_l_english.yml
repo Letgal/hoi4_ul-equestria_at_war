@@ -1,8 +1,8 @@
 ﻿l_english:
 ### COUNTRYNAME ###
- HIP_posada_fascism: "Національна революційна Гіппогрифія"
- HIP_posada_fascism_DEF: "Національна революційна Гіппогрифія"
- HIP_posada_fascism_ADJ: "Гіппогрифськ"
+ HIP_posada_fascism: "Національна революційна Гіпогрифія"
+ HIP_posada_fascism_DEF: "Національна революційна Гіпогрифія"
+ HIP_posada_fascism_ADJ: "Гіпогрифськ"
  HIP_posada_democratic: "Народна федерація Північної Зебрики"
  HIP_posada_democratic_DEF: "Народна федерація Північної Зебрики"
  HIP_posada_democratic_ADJ: "Північнозебриканськ"
@@ -17,7 +17,7 @@
  HIP_hardline_communism_ADJ: "Революційн"
  
  HIP_anarchy_communism: "Сіквестрія"
- HIP_anarchy_communism_DEF: "Постцивілізаційні спільноти Сіквестрії й Гіппогрифії"
+ HIP_anarchy_communism_DEF: "Постцивілізаційні спільноти Сіквестрії та Гіпогрифії"
  HIP_anarchy_communism_ADJ: "Сіквестрійськ"
 
  HIP_salina_communism: "Робітнича республіка Аріс"
@@ -61,9 +61,9 @@
  HIP_cultist_fascism_DEF: "Культисти Безодні"
  HIP_cultist_fascism_ADJ: "Культистськ"
  
- HIP_loyalist_democratic: "Гіппогрифія"
- HIP_loyalist_democratic_DEF: "Гіппогрифія"
- HIP_loyalist_democratic_ADJ: "Гіппогрифськ"
+ HIP_loyalist_democratic: "Гіпогрифія"
+ HIP_loyalist_democratic_DEF: "Гіпогрифія"
+ HIP_loyalist_democratic_ADJ: "Гіпогрифськ"
  
  HIP_siren_fascism: "Сиреналія"
  HIP_siren_fascism_DEF: "Сиреналія"

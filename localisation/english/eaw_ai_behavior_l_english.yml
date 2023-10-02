@@ -544,7 +544,7 @@
   RULE_OPTION_FAL_FASCIST_ALTERNATE_AI_DESC:0 "The griffons will lose their faith in Princess Maximilliana's leadership. The Falcorian Eagles, led by Gabriele d'Artiglio will lead the nation and seek revenge on Wingbardy."
 
 ### ЗЕБРИКА ###
- HIP_AI_BEHAVIOR: "@HIP Гіппогрифія"
+ HIP_AI_BEHAVIOR: "@HIP Гіпогрифія"
   RULE_OPTION_HIP_HARMONIST_HISTORICAL:0 "Harmonist - Queen Skystar"
   RULE_OPTION_HIP_HARMONIST_HISTORICAL_AI_DESC:0 "Hippogriffia will allow trade. If they are victorious in the North Zebrican War, Queen Novo will retire in favor of her daughter Skystar.\n(Historical path)"
   RULE_OPTION_HIP_HARMONIST_ALTERNATE:0 "Harmonist - Queen Novo"
