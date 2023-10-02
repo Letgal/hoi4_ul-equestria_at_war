@@ -1,11 +1,9 @@
 ﻿l_english:
-
 ##=== Main GUI text ===##
-
-peace_capitulation_title: "Conflict Alert"
+peace_capitulation_title: "Сповіщення про конфлікт"
 peace_capitulation_main: "[GetTNOMaintext]"
 peace_capitulation_desc: "[GetTNOReference]"
-peace_capitulation_close: "Close"
+peace_capitulation_close: "Закрити"
 
 ##=== The text at the top ===##
 
