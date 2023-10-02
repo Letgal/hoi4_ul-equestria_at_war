@@ -29,6 +29,11 @@ EQS_PUPPET_STATUS: "Еквестрійські домініони"
  RULE_OPTION_DEFAULT_EQS_DESC:0 "Mainland Equestria rules over its dominions of New Mareland and the Crystal Empire. Stalliongrad is an independent communist republic."
  RULE_OPTION_DIRECT_RULE:0 "Direct Rule From Canterlot"
  RULE_OPTION_DIRECT_RULE_DESC:0 "All Equestrian territories are ruled by decree from Canterlot.\n\nUntested. May lead to unintended occurences. Please do not report bugs with this Game Rule on."
+
+KIR_STATUS: "Кірія"
+ RULE_OPTION_DEFAULT_KIR_STATUS_DESC:0 "The Grand Gallop Onward commences in Kiria at the behest of Premier Autumn Blaze."
+ RULE_OPTION_KIR_CIVIL_WAR:0 "The Kirian Civil War"
+ RULE_OPTION_KIR_CIVIL_WAR_DESC:0 "Kiria was not strong enough to withstand the pressures of modernisation. The Realm descends into calamitous civil war.\n\n§YPlayer only.§!"
  
 RULE_ALLOW_FACTION: "£eaw_text£ Створення та приєднання до альянсів"
  RULE_ALLOW_FACTION_BLOCKED_DESC:0 "Factions will be created and expanded only by focuses and events.\n\nDefault £eaw_text£ §YEquestria at War§! experience. Recommended."
