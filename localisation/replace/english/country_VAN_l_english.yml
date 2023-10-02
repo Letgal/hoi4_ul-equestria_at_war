@@ -444,19 +444,19 @@ VAN_Endless_Flanking:0 "Offensive Sprite"
 ### Opinions Modifiers ###
 
 ### Leaders ###
- VAN_dust_hoover:0 "Dust Hoover"
- VAN_strawberry_snowflake:0 "Strawberry Snowflake"
- VAN_winter_turnip:0 "Winter Turnip"
- VAN_sunset_punch:0 "Sunset Punch"
- VAN_mayor_sun_water:0 "Mayor Sun Water"
- VAN_amity_blossom:0 "Amity Blossom"
- VAN_spoiled_mane:0 "Spoiled Mane"
+ VAN_dust_hoover: "Даст Гувер"
+ VAN_strawberry_snowflake: "Строберрі Сноуфлейк"
+ VAN_winter_turnip: "Вінтер Терніп"
+ VAN_sunset_punch: "Сансет Панч"
+ VAN_mayor_sun_water: "Мер Сан Уотер"
+ VAN_amity_blossom: "Еміті Блоссом"
+ VAN_spoiled_mane: "Спойлд Мейн"
 
 ### Generals ###
- VAN_moonlight_elegy:0 "Moonlight Elegy"
- VAN_lavender_blossom:0 "Lavender Blossom"
- VAN_turbine_whirl:0 "Turbine Whirl"
- VAN_gleb:0 "Gleb"
+ VAN_moonlight_elegy: "Мунлайт Еледжі"
+ VAN_lavender_blossom: "Лавендер Блоссом"
+ VAN_turbine_whirl: "Тербайн Вірл"
+ VAN_gleb: "Гліб"
 
 ### Designers ###
  VAN_vanhoover_dockyards: "Верфі Вангувера"

@@ -132,15 +132,15 @@
  Forget_magic_of_friendship_desc: "Дуже довго мирна та дружня кооперація один із одним вирішувала ледь не кожну проблему, з якою стикалися поні. Та ці часи скінчилися; ми мусимо підготувати наших громадян до суворої реальності. Всі ми намагалися зробити все можливе для мирного вирішення ситуації, та нам не вдалося."
  EQS_WMD: "Еквестрійська зброя масового знищення"
  EQS_WMD_desc: "Ми на межі розробки нової зброї, яка, як кажуть учені, призведе до швидкого закінчення війни ціною величезної побічної шкоди. Але в тяжкі часи доводиться вдаватися до відчайдушних заходів."
- # ((+))
  Nuclear_Power: "Ядерно-магічна енергія"
- Nuclear_Power_desc:0 "Lessons from our WMD programs have allowed us to merge the branches of magic and nuclear energy, forming a new terrifying source of power. Both the civilian and military uses of this development are evident, and must be exploited."
+ Nuclear_Power_desc: "Уроки з розробки зброї масового знищення дозволили нам поєднати застосування магічної та ядерної енергії, створюючи нове потужне джерело сили. І цивільне, і віськове застосування цієї розробки доводить це, і цим треба скористатися." # (&?)
  worrisome_changelings: "Проблема з чейнджлінґами"
- worrisome_changelings_desc:0 "Queen Chrysalis and her changeling army have long been a thorn in our side; they have attacked us once, and they will surely do so again. We must be prepared. We have several options to implement before an actual war breaks out."
+ worrisome_changelings_desc: "Королева Кризаліс і її армія чейнджлінґів довго завдали нам клопоту — вони напали на нас одного разу, і, без сумніву, зроблять це знову. Ми мусимо бути готові. В нас є кілька варіантів підготовки до початку реальної війни." # (&?)
  EQS_airfields: "Аеродроми Центральної Еквестрії"
- EQS_airfields_desc:0 "In order to better protect our heartland, we should construct additional airfields in the interior to allow more coverage from our planes. In times of war, they will ensure that our skies are safe."
+ EQS_airfields_desc: "Щоби краще захистити серце нашої країни, ми мусимо збудувати додаткові аеродроми в центральних областях, щоби збільшити радіус покриття наших літаків. У період війни вони гарантуватимуть безпеку наших небес." # (&?)
  EQS_airfields2: "Аеродроми Південної Еквестрії"
- EQS_airfields2_desc:0 "We ought to connect the regions of Equestria with air bridges. In case of war, we will have to protect our skies, not to mention it will allow increased coverage and tactical options for our planes."
+ EQS_airfields2_desc: "Нам слід сполучити регіони Еквестрії т. зв. повітряними мостами. У випадку війни нам доведеться захищати наші небеса; крім того, це збільшить радіус покриття та кількість тактичних варіантів для наших літаків." # (&?)
+ # ((+))
  reinforce_border: "План укріплення кордону"
  reinforce_border_desc:0 "The changelings have become increasingly aggressive towards their neighbours, Equestria included. In light of this, we must commence fortification efforts along our common border. While our military experts do not think it will ensure victory on its own, it will be a delayer until we can rouse the rest of Equestria."
  Improve_relations: "Спільний ворог"
@@ -372,42 +372,42 @@
  EQS_strengthen_EEA_authority_desc:0 "For a thousand years, the EEA has ensured that everypony in Equestria receives only the most high quality education. With this in mind, we should further strengthen their role and authority, so that our education can blossom furher, just as it did over these past thousand years."
 
  # This file's organization is an absolute disaster so I added the PRE-MADE TANK DESIGNS TOOLTIPS here #
- EQS_Timberwolf_tooltip:0 "\nA §YTimberwolf Mk I tank design§! will be created if the following technologies are available:\n §YBasic Medium Tank Chassis\n Basic High-Velocity Cannon§!\n"
- EQS_Comet_tooltip:0 "\nA §YComet Mk I tank design§! will be created if the following technologies are available:\n §YAdvanced Medium Tank Chassis\n Improved High-Velocity Cannon§!\n"
+ EQS_Timberwolf_tooltip: "\nБуде створено дизайн танка §YTimberwolf MkI§!, якщо доступні ось ці технології:\n §Y$basic_medium_tank_chassis$\n $tank_high_velocity_cannon$§!\n"
+ EQS_Comet_tooltip: "\nБуде створено дизайн танка §YComet MkI§!, якщо доступні ось ці технології:\n §Y$improved_medium_tank_chassis$\n $tank_high_velocity_cannon_2$§!\n"
 
 ### РІШЕННЯ ###
- EQS_militias:0 "Wartime Draft"
- EQS_militias_north_central_region:0 "Bales-Whinnyapolis Region"
- EQS_north_cent_militia_tt:0 "Militia Divisions will be formed in north-central region of Equestria."
- EQS_militias_east_coast:0 "East Coast"
- EQS_east_coast_militia_tt:0 "Militia Divisions will be formed on the east coast of Equestria."
- EQS_equestrian_heart_militia_tt:0 "Militia Divisions will be formed in Canterlot and Ponyville."
- EQS_militias_central_equestria:0 "Equestrian Heart"
- EQS_militias_south_east:0 "South-East"
- EQS_militias_south_west:0 "South-West"
- EQS_south_east_militia_tt:0 "Militia Divisions will be formed in Las Pegasus, Rockville and Appleloosa."
- EQS_south_west_militia_tt:0 "Militia Divisions will be formed in Baltimare, Stableside and Tenochtitlan."
+ EQS_militias: "Призов воєнного часу"
+ EQS_militias_north_central_region: "Регіон Бейлз–Вінніаполіс"
+ EQS_north_cent_militia_tt: "Буде сформовано дивізії ополчення в північно-центральному регіоні Еквестрії."
+ EQS_militias_east_coast: "Східне узбережжя"
+ EQS_east_coast_militia_tt: "Буде сформовано дивізії ополчення на східному узбережжі Еквестрії."
+ EQS_militias_central_equestria: "Серце Еквестрії"
+ EQS_equestrian_heart_militia_tt: "Буде сформовано дивізії ополчення в Кантерлоті та Понівіллі."
+ EQS_militias_south_east: "Південний схід"
+ EQS_south_east_militia_tt: "Буде сформовано дивізії ополчення в Лас-Пегасусі, Роквіллі й Еппллузі."
+ EQS_militias_south_west: "Південний захід"
+ EQS_south_west_militia_tt: "Буде сформовано дивізії ополчення в Балтимейрі, Стейблсайді та Теночтітлані."
 
- EQS_construction_projects:0 "Construction Projects"
- EQS_develop_canterlot_fillydelphia_railroad:0 "Develop Canterlot-Fillydelphia Railroad"
- EQS_develop_fillydelphia_manehattan_railroad:0 "Develop Fillydelphia-Manehattan Railroad"
- EQS_develop_west_coast_to_canterlot:0 "Connect West Coast with Canterlot"
+ EQS_construction_projects: "Будівельні проєкти"
+ EQS_develop_canterlot_fillydelphia_railroad: "Розвинути залізницю Кантерлот–Філліделфія"
+ EQS_develop_fillydelphia_manehattan_railroad: "Розвинути залізницю Філліделфія–Мейнгеттен"
+ EQS_develop_west_coast_to_canterlot: "З'єднати Західне узбережжя з Кантерлотом"
 
  EQS_end_truce:0 "End Truce"
  EQS_end_truce_from:0 "End Equestrian Truce"
 
- EQS_foreign_affairs:0 "Harmony in Trouble"
- EQS_call_yakyakistan_to_war_CHN:0 "Request Help from Yakyakistan"
- EQS_annex_darkwing:0 "Integration of [From.GetNameDef]"
+ EQS_foreign_affairs: "Гармонія в біді"
+ EQS_call_yakyakistan_to_war_CHN: "Просити допомоги в Як'якистану"
+ EQS_annex_darkwing: "Інтеграція держави [From.GetNameDef]" # [From.GetNameGenDef]
 
- EQS_rename_stalliongrad_decision:0 "New Name for Stalliongrad"
+ EQS_rename_stalliongrad_decision: "Нова назва для Сталліонграду"
  EQS_rename_stalliongrad_decision_desc:0 "We need to erase all mentions of Stalliongrad as a city for this catastrophe called communism not to repeat itself in the future."
- EQS_generic_rename_stalliongrad_decision:0 "Rename Stalliongrad"
- CZE_war_college_effect_2_tt:0 "If we already have §Yfive§! §CResearch Slots§! we will §Rnot receive§! another!\n\n"
+ EQS_generic_rename_stalliongrad_decision: "Перейменувати Сталліонград"
+ CZE_war_college_effect_2_tt: "Якщо в нас уже є §Yп'ять§! §Cкомірок для дослідження§! ми §Rне отримаємо§! додаткову!\n\n"
 
- EQS_stop_commies:0 "Arrest the communists activists"
+ EQS_stop_commies: "Заарештувати комуністичних активістів"
 
- EQS_improve_tank:0 "Modernize Military Theory"
+ EQS_improve_tank: "Модернізувати військову теорію"
  EQS_improve_tank2: "$EQS_improve_tank$"
  EQS_improve_tank3: "$EQS_improve_tank$"
 
@@ -433,23 +433,23 @@
  unicorn_academy2: "$unicorn_academy$"
  unicorn_academy3: "$unicorn_academy$"
  unicorn_academy4: "$unicorn_academy$"
- unicorn_academy4_desc:0 "Equestria's best and brightest have all been gathered to help discover and create wonderful new inventions. The future is ours."
+ unicorn_academy4_desc: "Ми зібрали разом кращі уми Еквестрії, щоби ті допомогли нам виявляти та створювати дивовижні винаходи. Майбутнє — за нами."
  equestrian_influence: "Еквестрійський вплив"
- equestrian_influence_desc:0 "Equestrian harmonist propaganda is being spread through our lands."
+ equestrian_influence_desc: "По наших землях активно поширюється еквестрійська гармонійна пропаганда."
  war_plan_equestria: "Воєнний план"
- war_plan_equestria_desc:0 "A series of reforms and acts is in place to help the nation manage the harsh demands of war. Everypony is doing their part to help Equestria."
+ war_plan_equestria_desc: "Низка реформ і законів була прийнята, щоби допомогти державі задовільнити суворі вимоги війни. Кожен виконує свою роботу, щоби допомогти Еквестрії." # (&?)
  war_plan_equestria_mild: "$war_plan_equestria$"
  war_plan_equestria_mild_desc:0 "Despite the ongoing brutality of war, the Princess is trying to shield the ponies from the worst of it."
  war_plan_equestria_extreme: "$war_plan_equestria$"
  war_plan_equestria_extreme_desc:0 "The Princess is filled with sorrow for implementing this, but we must give our all if we wish to win this war."
- EQS_fluttershy: "Флаттершай"
- fluttershy_desc:0 "Fluttershy is the Element of Kindness and a caretaker of animals. She is known for her shyness, but also her beauty and hidden assertiveness that is revealed whenever her friends are threatened. Now she is interested in heading a research department for developing healing megaspells, though some scientists in the group are curious about the more... aggressive implementation of such magic."
  magical_trainingidea: "Тренування магії"
  nuclear_power_EQS: "Магічно-атомні електростанції"
  manehattan: "Мейнгеттенський науковий інститут"
  rainbow_factory: "Клаудсдейльська погодна фабрика"
  EQS_sweet_apple_acres: "Яблучна алея"
  EQS_equestrian_railway: "Експрес Дружби"
+ EQS_fluttershy: "Флаттершай"
+ fluttershy_desc:0 "Fluttershy is the Element of Kindness and a caretaker of animals. She is known for her shyness, but also her beauty and hidden assertiveness that is revealed whenever her friends are threatened. Now she is interested in heading a research department for developing healing megaspells, though some scientists in the group are curious about the more... aggressive implementation of such magic."
  EQS_spitfire: "Спітфайр"
  spitfire_desc:0 "Spitfire is the captain of the Wonderbolts, a famous group of flight experts. She has a fierce, dominant temper and ensures cadet ponies under her command master the art of flying. Her own talent is almost unsurpassed, and she has many ideas about improving our doctrine of aerial warfare."
  EQS_grimhoof: "Ґрімгуф"
@@ -524,7 +524,7 @@
  celestial_resistance: "Селестійський спротив"
  revolution_triumph: "$eqs_triumph_revolution$"
  popular_discontent: "Невдоволення громадськості"
- popular_discontent_desc:0 "The faith of ponies in the Alicorn Rule is broken after the war."
+ popular_discontent_desc: "Віра поні в правління алікорнів підірване після війни."
  democratic_protest: "Демократичні протести та страйки"
  democratic_protest_desc:0 "Dissatisfied with the current form of government, the ponies have been organising large protests and strikes, and will continue doing so until their demands for a referendum are met."
  lone_princess: "Самотня принцеса"
@@ -592,14 +592,14 @@
   EQS_bad_tanks3: "$EQS_bad_tanks$"
   EQS_bad_tanks3_desc: "Поки в світі гонки обзроєнь між державами-суперницями підштовхували до постійних розвитку й удосконалення методів війни, в Еквестрії армія залишилася в стагнації. Навіть попри нові інновації, Еквестрія повільно їх впроваджує, вважаючи такі речі, як окопна війна чи танки, страхітливими й дивними. Без постійних намагань принцеси Селестії не дати армії відстати надто сильно Королівська гвардія продовжила би користуватися списами як основною зброєю. І хоча армія звикла до присутності та застосування танків, їй досі складно рити траншеї. Щоб отримати дійсно сучасну армію, потрібні подальші реформи."
 
-  EQS_moonshine_partisans_3:0 "Uncontested Lunar Guerrillas"
-  EQS_moonshine_partisans_3_desc:0 "Purple Heart's troops failed to warn us in time, leaving our rear lines vulnerable to guerrilla attack by cultists and Lunar loyalists. We will suffer harassment and poor supply conditions for some time."
-  EQS_moonshine_partisans_2:0 "Lunar Guerrillas"
-  EQS_moonshine_partisans_2_desc:0 "Some of Purple Heart's troops remained to hinder the cultists and Lunar loyalists in our rear, but they remain a threat. We will suffer some harassment and supply issues for some time."
-  EQS_moonshine_partisans_1:0 "Ineffective Lunar Guerrillas"
-  EQS_moonshine_partisans_1_desc:0 "Purple Heart's troops valiantly intercepted cultist and Lunar loyalist attacks in our rear. Nightmare Moons's plan for a guerrilla campaign has been almost entirely foiled. "
-  EQS_moonshine_partisans_0:0 "Defeated Lunar Guerillas"
-  EQS_moonshine_partisans_0_desc:0 "With the timely warning of Purple Heart, military forces were prepared for the Lunar uprising. With Lunar forces caught out of place and met by prepared forces, we have the logistical advantage"
+  EQS_moonshine_partisans_3: "Незаперечні місячні партизани" # (&)
+  EQS_moonshine_partisans_3_desc: "Військам Перпл Гарт не вдалося попередити нас вчасно, що зробило наш тил вразливим для партизанських атак культистів і лоялістів Луни. Ми зазнаватимемо помітних атак і порушеного постачання протягом певного часу." # (&)
+  EQS_moonshine_partisans_2: "Місячні партизани" # (&)
+  EQS_moonshine_partisans_2_desc: "Деякі війська Перпл Гарт залишилися, щоби завадити культистам і лоялістам Луни в нашому тилу, але останні залишаються загрозою. Ми зазнаватимемо дрібних атак і кілька негараздів із постачанням протягом певного часу." # (&)
+  EQS_moonshine_partisans_1: "Несуттєві місячні партизани" # (&)
+  EQS_moonshine_partisans_1_desc: "Війська Перпл Гарт відважно перехопили атаки культистів і лоялістів Луни в нашому тилу. План партизанської кампанії Найтмер Мун майже повністю провалився." # (&)
+  EQS_moonshine_partisans_0: "Переможені місячні партизани" # (&)
+  EQS_moonshine_partisans_0_desc: "Вчасно отримавши попередження від Перпл Гарт, наші військові сили підготувалися до повстання Луни. Ми застали зненацька війська Луни й ті зустріли організований опір, а ми отримали перевагу в логістиці." # (&)
 
 ### ПОДІЇ ###
  equestria.1.t: "З Новим роком і щасливого Дня теплого вогнища!" # (&) Перейменувати ДТВ
@@ -623,7 +623,7 @@
  equestria.5.t: "Академія «Луна-Нова»"
  equestria.5.d: "Сьогодні те, що колись було нездійсненною мрією в головах дослідників академії «Луна-Нова», стало реальністю — стало це можливо завдяки великим вливанням коштів Корони. Академія «Луна-Нова» перемістилася зі свого старого кампуса в новіший, сучасніший і заснований на магії. Розміщені в старій годинниковій вежі поблизу Понівілля, нові лабораторії та навчальні зали простягаються вглиб під землю, залишаючи на поверхні та під землею кілька випробувальних секторів. Із цими новими приміщеннями, стало можливим дістати старі винаходи, що припадали пилюкою від нестачі коштів, площі або того й іншого, та почати нові випробування. І в залежності від рішення згори, усе це, мабуть, буде завершено в межах року.\n\nОчікується, що покровителька академії, Ї. В. Принцеса Луна влаштує сюди візит у найближчому майбутньому."
  equestria.5.t_sol: "Академія «Сол-Інвікта»"
- equestria.5.d_sol: "Наша найпрестижніша школа, нині перейменована більш відповідно до її статусу, отримала субсидії від Її Імперської Величності. З цими коштами, школа зможе оновити свої лабораторії новітнім обладнанням, збільшити кількість професорів і їхні зарплатні, а також відкрити більше місць для вступу талановитих поні [ROOT.GetNameGen], кому в іншому випадку могли би відмовити через нестачу місць. Гуртожитки академії також будуть за потреби розширені та відновлені, щоби надати студентам місце для проживання та поліпшити рівень життя. Наостанок, Її Імперська Величність не поставила жодних вимог. Однак, під час її зустрічі з деканом, вона висловила своє «сильне» бажання побачити більший фокус на теорії та практиці магії, щоби зростити кращиї магів, та не забувати акцент, зроблений нею щодо технологій, хімії, фізики й інших природничих наук, а також фокус на релігійному й етичному вихованні."
+ equestria.5.d_sol: "Наша найпрестижніша школа, нині перейменована більш відповідно до її статусу, отримала субсидії від Її Імперської Величності. З цими коштами, школа зможе оновити свої лабораторії новітнім обладнанням, збільшити кількість професорів і їхні зарплатні, а також відкрити більше місць для вступу талановитих поні держави [ROOT.GetNameDef], кому в іншому випадку могли би відмовити через нестачу місць. Гуртожитки академії також будуть за потреби розширені та відновлені, щоби надати студентам місце для проживання та поліпшити рівень життя. Наостанок, Її Імперська Величність не поставила жодних вимог. Однак, під час її зустрічі з деканом, вона висловила своє «сильне» бажання побачити більший фокус на теорії та практиці магії, щоби зростити кращиї магів, та не забувати акцент, зроблений нею щодо технологій, хімії, фізики й інших природничих наук, а також фокус на релігійному й етичному вихованні." # [ROOT.GetNameGen]
  equestria.5.a: "Чекаємо багато успішних винаходів."
 
  equestria.6.t: "Фінансування державних шкіл"
@@ -638,25 +638,25 @@
  equestria.8.d: "Воєнній раді Еквестрії впродовж довгих років вкрай невистачало фінансування та підтримки з боку Корони через мирну епоху, яку переживала Еквестрія. Але протягом останніх п'яти років збиралися грозові хмари, і ми більше не можемо дозволити собі ігнорувати оборону країни. Воєнну раду було розширено й тепер у неї входять кілька поні з потрібним досвідом, які поки що слугуватимуть навищими радниками принцеси Селестії. Хоча було помічено певні скарги серед старої ієрархії, посилаючися на «узурпацію традиційних важелів влади», публічно всі погоджуються, що це необхідний крок, якщо Еквестрія хоче пережити бурю попереду.\n\nКілька високопоставлених військових офіцерів було запрошено приєднатися до Ради в найближчому майбутньому на випадок, якщо їх викличе Корона."
  equestria.8.a: "Ми мусимо боротися."
 
- equestria.9.t:0 "An Appeal to Stalliongrad"
- # ((+))
- equestria.9.d:0 "With the war becoming ever more costly by the day, we must appeal for help from outside of Equestria and our nearest friends. With Queen Chrysalis on a hate-fuelled crusade to dominate and carve up all of Equus, all of ponykind is on the line. We must either hang together, or we will deservedly hang separately. Even if it will cost us, and will pain us to do so, we must go to Stalliongrad and ask them for help in this fight for life or death that we are embroiled in.\n\nHowever, there is a vocal wing in the War Council that advocate not selling out thousands of ponies to live under Stalliongrad when it is very well possible that we can defeat the changelings ourselves. The choice of action has thusly ultimately fallen to the Crown. We can choose to ask, knowing that there will be a price, or we can bet on us being able to defeat the changelings by ourselves."
- equestria.9.a:0 "Please send help."
- equestria.9.b:0 "We can manage on our own.."
+ equestria.9.t: "Звернення до Сталліонграду"
+ equestria.9.d: "Війна стає все дорожчою з кожним днем. Тому ми мусимо попросити допомоги позі Еквестрією та її блтзькими друзями. Королева Кризаліс улаштувала свою повну ненависті кампанію по завоюванню та поділу всього Еквусу; на карту поставлений весь рід поні. Або ми станемо разом, або заслужено вмремо поодинці. Навіть якщо це коштуватиме дорого й буде боляче це зробити, ми мусимо звернутися до Сталліонграду та попросити їх про допомогу в нашій боротьбі на смерть.\n\nОднак, у Воєнній раді є велика фракція, яка не бажає продавати тисячі поні Сталліонграду, поки ще можливо перемогти чейнджлінґів самотужки. Таким чином, вибір залишається за Короною. Ми можемо просити допомоги, знаючи, що в неї є ціна, або можемо запевнитися, що зможемо перемогти ворога самотужки." # (&)
+ equestria.9.a: "Ми просимо вас про допомогу."
+ equestria.9.b: "Ми й самі впораємося..."
 
- equestria.10.t:0 "Stalliongrad accepts our proposal"
- equestria.10.d:0 "We have received word back from Stalliongrad through the intermediaries that we originally sent the message through. For now, they have agreed to our offer and thusly, we have pulled out of the region. With the conclusion of the temporary alliance for now, Stalliongradian reinforcements, consisting of what has been rumoured in certain diplomatic circles to be the bulk of the Red Army has boarded trains and is being hastened to the front. While they may be lesser in number, they are rested and ready for a fight."
- equestria.10.a:0 "Friendship IS Magic!"
+ equestria.10.t: "Сталліонград приймає нашу пропозицію"
+ equestria.10.d: "Ми отримали відповідь від Сталліонграду крізь посередників, які надіслали наше повідомлення. Поки що вони погодилися на нашу пропозицію і, врешті-решт, покинули регіон. Із укладенням тимчасового альянсу, сталліонградські підкріплення, що, за чутками в певних дипломатичних колах, складаються зі значної частини Червоної Армії, сіли на потяги для швидкого доправлення на фронт. Хоча їх кількісно менше, вони не виснажені війною та готові до бою." # (&?)
+ equestria.10.a: "Дружба — це диво!"
 
- equestria.11.t:0 "Diplomatic Shelter"
- equestria.11.d:0 "The rightful Queen of Olenia, Queen Velvet, for many years in exile in various countries around the world today arrived in Equestria on the ship HMS Canterlot. She was given a heroine's welcome in the city of Vanhoover, the largest Olenian community outside of the Kingdom proper. The city had long been a hotbed for resistance against Johan, both Legitimists favouring the restoration of Queen Velvet and communists favouring a restructuring along the lines of Stalliongrad. Common for both, however, is that she has long been a focal point for resistance against Johan, whatever their creed may be. Of course that is where the similarities end, but that's a matter for another time.\n\nQueen Velvet has settled nicely into Vanhoover, having already begun advocating that Equestria should intervene in Olenia to restore 'rightful rule' to Olenia."
- equestria.11.a:0 "Care for tea, Velvet?"
+ equestria.11.t: "Дипломатичний притулок"
+ equestria.11.d: "Законна королева Оленії Вельвет довгі роки перебувала в вигнанні в різних країнах по всьому світі. Але сьогодні вона прибула в Еквестрію на кораблі HMS Canterlot. Її привітали як героїню в місті Вангувер, де проживає найбільша спільнота оленів за межами Королівства. Місто вже давно було центром спротиву Юганові: тут знаходилися легітимісти — прихильники королеви Вельвет — і комуністи — прихильники перебудови за зразком Сталліонграду. Однак, їх обох об'єднує той факт, що вона вже давно є центральною фігурою опору Юганові, які б ідеї в них не були. Звісно, на цьому схожість і закінчується, але це справа для іншого разу.\n\nКоролева Вельвет гарно влаштувалася в Вангувері, де вже почала виступати за вторгнення Еквестрії в Оленії з метою відновити «законного правителя» Оленії." # (&?)
+ equestria.11.a: "Чаю, королево?"
 
- equestria.12.t:0 "Accession of the Buffalo State"
- equestria.12.d:0 "Today, the Buffalo have been integrated into Equestria as an 'autonomous region' where the Buffalo are to retain their own rules and tribes, but will have some restrictions placed upon them by Equestria, for example, the traditional use of geckos will not be allowed. In exchange, however, funding and other securities for the Buffalo will flood into their region. Some of this includes the oil fields and iron mines below the Buffalo region which Equestrian prospectors have been very eager to open up. With the strong guarantees by the Crown, this treaty is sure to give dividends for all."
- equestria.12.a:0 "That's a new one."
+ equestria.12.t: "Інтеграція держави бізонів"
+ equestria.12.d: "Сьогодні землі бізонів було інтегровано в Еквестрію в якості «автономної області», де бізони зберігають свої власні правила та племена, але також приймають кілька обмежень від Еквестрії: наприклад, традиційне використання геконів буде заборонено. Натомість, на їхні землі прийдуть фінансування й інші привілеї. Серед них — розробка нафтових родовищ і залізних шахт у землях бізонів, які еквестрійські старателі вельми раді відкрити. Надавши гарантії збоку Корони, цей договір точно принесе користь усім."
+ equestria.12.a: "Це щось новеньке."
 
  equestria.13.t:0 "Slowly Recovering"
+ # ((+))
  equestria.13.d:0 "With the reforms and renovations of the political system, we are receiving reports that the conversion of the economy to a war-ready footing is making good progress. Wide-ranging changes are taking places in Equestria, with older methods and practices quickly being phased out in favour of the newer, more effective methods of work. The bureaucracy too is changing at a hasty pace, with legions of newly minted clerks delivering an effective and centralized governance from Canterlot. Even then, large amounts of institutional resistance to the reforms and the new systems remain within both the Civil Service as well as amongst private actors.."
  equestria.13.a:0 "Now that's good news."
 
