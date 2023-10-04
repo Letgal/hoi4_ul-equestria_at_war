@@ -1,6 +1,6 @@
 ﻿l_english:
-golden_city:0 "The Golden City"
-golden_city_ruined:0 "Ruins of the Golden City"
-golden_city_ruined_desc:0 "The Ruins of the Golden City still contain much valuable loot. Surviving pillars of wrought gold, twisted and deformed by the Thunder Tiger's elemental holocaust, occasionally poke out from mountains of molten slag."
-temporary_supply_bonus:0 "Extra Supplies"
-temporary_supply_bonus_desc:0 "Invading the Far South requires extra supplies."
+golden_city: "Золоте Місто"
+golden_city_ruined: "Руїни Золотого Міста"
+golden_city_ruined_desc: "Руїни Золотого Міста досі приховують у собі багато коштовностей. Уцілілі колони з кованого золота, покручені та спотворені стихійною люттю Громового Тигра, подекуди виглядають із-за гір розплавленого шлаку."
+temporary_supply_bonus: "Додаткові припаси"
+temporary_supply_bonus_desc: "Вторгнення на Далекий південь вимагає додаткових припасів."

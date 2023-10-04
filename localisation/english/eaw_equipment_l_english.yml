@@ -50,16 +50,16 @@
 
  ##Dragon stuff
  ### Techs ###
- dragons_light:0 "Dragon Whelps"
- dragons_heavy:0 "Elder Dragons"
+ dragons_light: "Дракончики"
+ dragons_heavy: "Старші дракони"
  dragons_modern:0 "Modern Monstrous Equipment"
- tatzlwurms:0 "Tatzlwurms"
+ tatzlwurms: "Татцельвурми"
  tatzlwurms_buff1:0 "Anti-Air Tatzlwurm Emplacements"
 
  ### Units ###
- light_dragons:0 "Dragon Whelps"
- heavy_dragons:0 "Elder Dragons"
- tatzlwurm:0 "Tatzlwurms"
+ light_dragons: "Дракончики"
+ heavy_dragons: "Старші дракони"
+ tatzlwurm: "Татцельвурми"
 
  ### Equipment ###
  dragon_equipment_0:0 "Draconic Equipment"

@@ -1,9 +1,9 @@
 ﻿l_english:
  zebra_race: "Раса зебр"
  zebra_race_desc:0 "The Zebras are equids similar to earth ponies but recognizable by their striped black and white coat. Their flanks have a spiral symbol that resembles a pony's cutie mark but is identical on every zebra. Its meaning or purpose is unknown. Zebras do have limited magical abilities, which are mostly used for the brewing and use of potions as well as communion with supernatural spirits. Unlike their pony cousins, zebras tend to live in more arid or tropical climates, but like ponies, they are herbivorous."
- spirit_warriors:0 "Chargers"
- zebra_folder:0 "Zebra Technologies"
- zebra_folder_desc:0 "Industrial, social and military technologies specific to the zebra race."
+ spirit_warriors: "Напасники"
+ zebra_folder: "Технології зебр"
+ zebra_folder_desc: "Промислові, соціальні та військові технології, унікальні для раси зебр."
 
  tech_spirit_warriors:0 "Charger Division"
  tech_spirit_warriors_desc:0 "Zebra courage, alchemical enhancements, the favour of the spirits, ancient warrior culture and the finest steel in the world comes together to create a kind of warrior without equal."

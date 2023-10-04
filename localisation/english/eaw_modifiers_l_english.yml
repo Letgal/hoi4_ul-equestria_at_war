@@ -46,8 +46,8 @@
  modifier_army_sub_unit_pegasi_defence_factor: "Захист пегасів"
  modifier_army_sub_unit_pegasi_speed_factor: "Швидкість пегасів"
 
- modifier_army_sub_unit_unicorn_company_attack_factor: "Атака роти єдинорогів"
- modifier_army_sub_unit_unicorn_company_defence_factor: "Захист роти єдинорогів"
+ modifier_army_sub_unit_unicorn_company_attack_factor: "Атака рот єдинорогів"
+ modifier_army_sub_unit_unicorn_company_defence_factor: "Захист рот єдинорогів"
 
  modifier_army_sub_unit_jager_attack_factor: "Атака єгерів"
  modifier_army_sub_unit_jager_defence_factor: "Захист єгерів"
@@ -68,9 +68,9 @@
  modifier_army_sub_unit_ironpaws_defence_factor:0 "Захист Ironpaws"
  modifier_army_sub_unit_ironpaws_speed_factor:0 "Швидкість Ironpaws"
 
- modifier_army_sub_unit_windigo_horrors_attack_factor:0 "Атака Horrors"
- modifier_army_sub_unit_windigo_horrors_defence_factor:0 "Захист Horrors"
- modifier_army_sub_unit_windigo_horrors_speed_factor:0 "Швидкість Horrors"
+ modifier_army_sub_unit_windigo_horrors_attack_factor: "Атака жахіть"
+ modifier_army_sub_unit_windigo_horrors_defence_factor: "Захист жахіть"
+ modifier_army_sub_unit_windigo_horrors_speed_factor: "Швидкість жахіть"
 
  modifier_army_sub_unit_category_support_battalions_attack_factor: "Атака рот підтримки"
  modifier_army_sub_unit_category_support_battalions_defence_factor: "Захист рот підтримки"
@@ -83,22 +83,22 @@
  modifier_army_sub_unit_category_all_aa_defence_factor: "Захист зенітної артилерії"
  modifier_army_sub_unit_category_all_aa_speed_factor: "Швидкість зенітної артилерії"
  
- modifier_army_sub_unit_spirit_warriors_attack_factor:0 "Атака Chargers"
- modifier_army_sub_unit_spirit_warriors_defence_factor:0 "Захист Chargers"
- modifier_army_sub_unit_spirit_warriors_speed_factor:0 "Швидкість Chargers"
+ modifier_army_sub_unit_spirit_warriors_attack_factor: "Атака напасників"
+ modifier_army_sub_unit_spirit_warriors_defence_factor: "Захист напасників"
+ modifier_army_sub_unit_spirit_warriors_speed_factor: "Швидкість напасників"
  
  modifier_army_sub_unit_bar_weak_clockwerk_attack_factor:0 "Атака Crude Clockworks"
  modifier_army_sub_unit_bar_weak_clockwerk_defence_factor:0 "Захист Crude Clockworks"
  modifier_army_sub_unit_bar_weak_clockwerk_speed_factor:0 "Швидкість Crude Clockworks"
 
- modifier_army_sub_unit_kirin_vanguards_attack_factor:0 "Vanguards Attack"
- modifier_army_sub_unit_kirin_vanguards_defence_factor:0 "Vanguards Defense"
- modifier_army_sub_unit_kirin_vanguards_speed_factor:0 "Vanguards Speed"
- modifier_army_sub_unit_kirin_vanguards_max_org_factor:0 "Vanguards Organization"
- modifier_army_sub_unit_kirin_vanguards_org_recovery_cap_factor:0 "Vanguards Organization Recovery Cap"
+ modifier_army_sub_unit_kirin_vanguards_attack_factor:0 "Атака Vanguards"
+ modifier_army_sub_unit_kirin_vanguards_defence_factor:0 "Захист Vanguards"
+ modifier_army_sub_unit_kirin_vanguards_speed_factor:0 "Швидкість Vanguards"
+ modifier_army_sub_unit_kirin_vanguards_max_org_factor:0 "Організація Vanguards"
+ modifier_army_sub_unit_kirin_vanguards_org_recovery_cap_factor:0 "Межа відновлення організації Vanguards"
  
- modifier_army_sub_unit_kirin_braves_attack_factor:0 "Valiants Attack"
- modifier_army_sub_unit_kirin_braves_defence_factor:0 "Valiants Defense"
+ modifier_army_sub_unit_kirin_braves_attack_factor:0 "Атака Valiants"
+ modifier_army_sub_unit_kirin_braves_defence_factor:0 "Захист Valiants"
 
  modifier_army_sub_unit_panzerbar_attack_factor: "Атака пансербйорнів"
  modifier_army_sub_unit_panzerbar_defence_factor: "Захист пансербйорнів"
@@ -107,7 +107,7 @@
 
  killed_pop_by_nuclear_attack_factor: "Втрати від ядерних ударів"
 
- sabotage_crystals:0 "Sabotage Crystal Resources"
+ sabotage_crystals: "Саботаж виробництва кристалів"
  state_resource_crystals: "Кристали"
  temporary_state_resource_crystals: "Кристали"
  country_resource_crystals: "Кристали"
@@ -118,7 +118,6 @@
  HIP_silverstream_plan_opinion:0 "Cooperating on the Silverstream Plan"
  absolute_madfish:0 "Absolute Madfish"
  HIP_insult_EQS:0 "Diplomatic Insults"
-
 
  scheisswald_forest: "Ліс Шайсвальд"
  eygsic_forest: "Ліс Ейґсік"
@@ -136,10 +135,10 @@
  modifier_unit_jager_design_cost_factor: "Вартість дизайну єгерів"
  modifier_unit_knights_design_cost_factor: "Вартість дизайну лицарів"
  modifier_unit_ironpaws_design_cost_factor:0 "Вартість дизайну Ironpaws"
- modifier_unit_light_dragons_design_cost_factor:0 "Вартість дизайну Dragon Whelps"
- modifier_unit_heavy_dragons_design_cost_factor:0 "Вартість дизайну Dragon Elders"
- modifier_unit_windigo_horrors_design_cost_factor:0 "Вартість дизайну Horrors"
- modifier_unit_spirit_warriors_design_cost_factor:0 "Вартість дизайну Chargers"
+ modifier_unit_light_dragons_design_cost_factor: "Вартість дизайну дракончиків"
+ modifier_unit_heavy_dragons_design_cost_factor: "Вартість дизайну старших драконів"
+ modifier_unit_windigo_horrors_design_cost_factor: "Вартість дизайну жахіть"
+ modifier_unit_spirit_warriors_design_cost_factor: "Вартість дизайну напасників"
  modifier_unit_magical_infantry_design_cost_factor: "Вартість дизайну магічної піхоти"
  modifier_unit_magical_motorized_design_cost_factor: "Вартість дизайну магічної мотопіхоти"
  modifier_unit_magical_mechanized_design_cost_factor: "Вартість дизайну магічної мехапіхоти"

@@ -14,9 +14,9 @@ Niketia: "Нікетія"
 Baltigrad: "Балтиград"
 Konyushevo: "Конюшево"
 Caramelgrad: "Карамельград"
-Küstendschungel: "Кюстенджунґель"
+#Küstendschungel: "Кюстенджунґель"
 Rasenfeld: "Разенфельд"
-Néachóra: "Неахора"
+#Néachóra: "Неахора"
 #The People's City
 Manehattan: "Мейнгеттен"
 Freeside: "Фрісайд"
@@ -57,30 +57,30 @@ Rinderholm: "Ріндегольм"
 Letztlicht: "Лецтліхт"
 Taillowshafen: "Тейллоусгафен"
 Taillowhafen: "Тейллоугафен"
-Löwenfel: "Левенфель"
+#Löwenfel: "Льовенфель" # Ø
 Drachau: "Драхау"
 Greifendorf: "Ґрайфендорф"
 Stierkopf: "Стіркопф"
 Adlerfelsen: "Адлерфельсен"
 #Sankt Eyrsbrück
-Gräfinbühl: "Ґрефінбюль"
+#Gräfinbühl: "Ґрефінбюль"
 #Sol Invicta
 Sunset: "Сансет"
 Pontelena: "Понтелена"
-Sparléos: "Спарлеос"
+#Sparléos: "Спарлеос"
 Halbuviros: "Галбувірос"
 #Neu Thymíau
 Solargrad: "Соларград"
 Colitsyn: "Коліцин"
 Trottersburg: "Троттерсбурґ"
 #Ruins of Stalliongrad
-Gryfów: "Ґрифув"
+#Gryfów: "Ґрифув"
 Bryncopr: "Бринкопр"
 Eincartref: "Айнкартреф"
 #Póli Eleftherías
 Tamyti: "Таміті"
 #Thálassa Kathréfti
-Ageláda: "Агелада"
+#Ageláda: "Агелада"
 #The Lunar Castle
 Lunargrad: "Лунаград"
 Starlight: "Старлайт"

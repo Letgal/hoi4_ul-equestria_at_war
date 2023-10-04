@@ -26,6 +26,7 @@
 + `province_names_overrides`
 + `recall_volunteers`
 + `renamed_states`
++ `southern_zebra_ideas`
 + `state_names`
 + `strategic_region_names`
 + `supply_area_names_overrides` (без змін)
