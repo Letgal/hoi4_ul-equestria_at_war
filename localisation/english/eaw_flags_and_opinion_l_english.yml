@@ -48,7 +48,7 @@
  hostility: "Ворожнеча"
  griffon_intervention: "Грифоняча інтервенція"
  eqs_civil_war_victory: "Еквестрія перемогля в громадянській війні"
- nlr_civil_war_victory: "Місячна Імперія перемогля в громадянській війні"
+ nlr_civil_war_victory: "Місячна імперія перемогля в громадянській війні"
  vasya_government: "Чистка"
  stg_compromise: "Компроміс знайдено"
  vasya_elected: "Обрано Василія"
@@ -301,7 +301,7 @@
  HIP_SIR_ancient_enemies: "Стародавні вороги"
  HIP_SIR_ancient_enemies_2: "$HIP_SIR_ancient_enemies$"
 
- any_of_potential_and_current_enemies_justifying_or_has_wargoal_on_THIS: "$TRIGGER_ANY_OTHER_COUNTRY_STARTS$:\n      $TRIGGER_OR_STARTS$:\n         Має ціль війни проти держави §Y[This.GetNameWithFlag]§!\n         Виправдовуж ціль війни проти держави §Y[This.GetNameWithFlag]§!"
+ any_of_potential_and_current_enemies_justifying_or_has_wargoal_on_THIS: "$TRIGGER_ANY_OTHER_COUNTRY_STARTS$:\n      $TRIGGER_OR_STARTS$:\n         Має ціль війни проти держави §Y[This.GetNameWithFlag]§!\n         Виправдовує ціль війни проти держави §Y[This.GetNameWithFlag]§!"
  TRIGGER_ANY_COUNTRY_STARTS_NOT: "$TRIGGER_ANY_COUNTRY_STARTS$"
 
  nuked_griffonstone: "Скинуто ядерну бомбу на Ґриффонстоун"

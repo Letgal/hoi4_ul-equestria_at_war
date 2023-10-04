@@ -25,8 +25,8 @@ LCT_prince_fascism: "Велике князівство Озергород"
  LCT_prince_army_ally_fascism_DEF: "Князівський Озергород"
  LCT_prince_army_ally_fascism_ADJ: "Озергородськ"
 
-LCT_riv_emp_fascism: "Річкова Імперія"
- LCT_riv_emp_fascism_DEF: "Річкова Імперія"
+LCT_riv_emp_fascism: "Річкова імперія"
+ LCT_riv_emp_fascism_DEF: "Річкова імперія"
  LCT_riv_emp_fascism_ADJ: "Річков"
 
 LCT_griff_empire_fascism: "Священна Імперія Поні"
