@@ -20,6 +20,8 @@ ban_neutral_party_desc: "Традиціоналістські та монарх�
 ban_neutrality_party_tt: "Зміна популярності нейтралітету: §G-[?Root.party_popularity@neutrality|%0]§!.\n"
 anti_neutral_raids: "Антитрадиціоналістські рейди"
 anti_neutral_raids_desc: "Ми мусимо розправитися з традиціоналістськими та монархістськими елементами в нашій нації заради довготривалої внутрішньої стабільності. Їхній вплив занадто великий, і вони потенційно можуть стати проблемою для уряду."
+seize_some_trucks_woo: "Присвоїти цивільні вантажівки"
+seize_some_trucks_woo_desc:0 "The merchant car companies hold sway over our infrastructure. With war looming, we are well within our rights to commandeer equipment for state use."
 
 ## RESOURCE PROSPECTS ####
 develop_baltimare_aluminium:0 "Baltimare Aluminium Smeltery"

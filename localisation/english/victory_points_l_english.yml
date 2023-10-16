@@ -141,7 +141,7 @@
  VICTORY_POINTS_8106: "Ассельт"
  VICTORY_POINTS_4742: "Гріслейн"
  VICTORY_POINTS_6482: "Айндлем"
- VICTORY_POINTS_12903: "Ґолдмайр"
+ VICTORY_POINTS_11002: "Ґолдмайр"
  VICTORY_POINTS_4367: "Квоптія"
  VICTORY_POINTS_12436: "Твельт"
  VICTORY_POINTS_874: "Сонячні Поля"
@@ -809,3 +809,6 @@
  VICTORY_POINTS_2333: "Фрустеберг"
  VICTORY_POINTS_8059: "Рустлунда"
  VICTORY_POINTS_10198: "Нурданборг"
+ VICTORY_POINTS_1117: "Скаллінґ"
+ VICTORY_POINTS_12609: "Олдпайн" # Стара Сосна
+ VICTORY_POINTS_1446: "Ґейздейл"

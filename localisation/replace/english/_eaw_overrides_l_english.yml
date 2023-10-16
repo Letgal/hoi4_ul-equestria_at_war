@@ -329,6 +329,11 @@
   recruit_in_state_tt: "Ми отримаємо місцевого агента з даною культурою. Цього агента буде важче помітити при проникненні та виконанні завдань у державах із цією культурою."
   recruit_in_state_to_pool_tt: "Місцевий агент із даною культурою стане доступний для вербування, якщо в нас є відкрита §Yкомірка для агента§!. Цього агента буде важче помітити при проникненні та виконанні завдань у державах із цією культурою."
 
+ #military_industrial_organization_l
+  mio_cat_eq_all_light_tank:0 "All Light and Light Amphibious Tank Equipment"
+  mio_cat_eq_all_medium_tank:0 "All Medium and MBT Tank Equipment"
+  mio_cat_eq_all_heavy_tank:0 "All Heavy Tank and Super Heavy Tank Equipment" 
+
  #modifiers_l
   democratic_drift: "Щоденна підтримка гармонії"
   democratic_acceptance: "Прийняття дипломатичних дій гармоністів"
@@ -443,6 +448,8 @@
   atlantic_fleet_naval_manufacturer: "Конструктор флоту Селестійського моря"
   mediterranean_naval_manufacturer: "Конструктор флоту Арабійського моря"
   black_sea_naval_manufacturer: "Конструктор флоту Середнього моря"
+  generic_black_sea_fleet_organization:0 "Middle Sea Fleet Manufacturer"
+  generic_mio_initial_trait_black_sea_fleet_designer:0 "Middle Sea Fleet Designer"
   cavalry_leader: "Лідер мотопіхоти"
   cavalry_expert: "Експерт із мотопіхоти"
   cavalry_officer: "Мотопіхотний офіцер"
