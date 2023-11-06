@@ -214,7 +214,7 @@
   #foreign_manpower_initiator_desc: "$COUNTRY|UY$ надає поні-ресурси для гарнізонів інших держав"
   #foreign_manpower_initiator_extended_desc: "$COUNTRY1|UY$ надає поні-ресурси для гарнізонів держави $COUNTRY2|Y$"
   #foreign_manpower_receiver_desc: "$COUNTRY|UY$ використовує поні-ресурси інших держав у своїх гарнізонах"
-  #foreign_manpower_receiver_extended_desc: "$COUNTRY1|UY$ використовує поні-ресурси держави $COUNTRY2|Y$ в своїх гарнізонах"
+  #foreign_manpower_receiver_extended_desc: "$COUNTRY1|UY$ використовує поні-ресурси держави $COUNTRY2|Y$ у своїх гарнізонах"
   #FOREIGN_MANPOWER_REASON_NO_NEED:1 "We don't really need more Foreign Ponypower: " # (!)
   #FOREIGN_MANPOWER_REASON_NOT_ENOUGH: "$COUNTRY|UY$ не має достатньо поні-ресурсів, щоби дати їх нам: "
   #FOREIGN_MANPOWER_REASON_ALREADY_ENOUGH: "$COUNTRY|UY$ не хоче давати нам більше поні-ресурсів: "
@@ -234,7 +234,7 @@
   foreign_manpower_initiator_desc: "$COUNTRY|UY$ надає поні-ресурси для гарнізонів інших держав"
   foreign_manpower_initiator_extended_desc: "$COUNTRY1|UY$ надає поні-ресурси для гарнізонів держави $COUNTRY2|Y$"
   foreign_manpower_receiver_desc: "$COUNTRY|UY$ використовує поні-ресурси інших держав у своїх гарнізонах"
-  foreign_manpower_receiver_extended_desc: "$COUNTRY1|UY$ використовує поні-ресурси держави $COUNTRY2|Y$ в своїх гарнізонах"
+  foreign_manpower_receiver_extended_desc: "$COUNTRY1|UY$ використовує поні-ресурси держави $COUNTRY2|Y$ у своїх гарнізонах"
   FOREIGN_MANPOWER_REASON_NO_NEED:1 "We don't really need more Foreign Ponypower: " # (!)
   FOREIGN_MANPOWER_REASON_NOT_ENOUGH: "$COUNTRY|UY$ не має достатньо поні-ресурсів, щоби дати їх нам: "
   FOREIGN_MANPOWER_REASON_ALREADY_ENOUGH: "$COUNTRY|UY$ не хоче давати нам більше поні-ресурсів: "
@@ -350,7 +350,7 @@
   MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR: "£prod_eff Зростання ефективності виробництва"
   MODIFIER_ARMY_SPEED_FACTOR: "Швидкість дивізій"
   MODIFIER_WEEKLY_MANPOWER: "Щотижневі поні-ресурси"
-  MODIFIER_EXILED_MAPOWER_GAIN_FACTOR: "Щоденні поні-ресурси в вигнанні"
+  MODIFIER_EXILED_MAPOWER_GAIN_FACTOR: "Щоденні поні-ресурси у вигнанні"
   MODIFIER_EXILED_GOVERNMENT_WEEKLY_MANPOWER: "Щотижневі поні-ресурси уряду у вигнанні"
   MODIFIER_AIR_MANPOWER_REQUIREMENT_FACTOR: "Вимога до поні-ресурсів авіації "
   modifier_trait_cavalry_expert_xp_gain_factor: "$txg_tt$ §Y$cavalry_expert$§!"
