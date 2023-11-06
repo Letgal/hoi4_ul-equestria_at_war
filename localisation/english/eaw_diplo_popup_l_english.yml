@@ -1,7 +1,7 @@
 ﻿l_english:
  POPUP_MAJORS: "Завжди для великих держав"
  POPUP_NEIGHBORS: "Лише поблизу"
- POPUP_DIPLO: "Додаткові дипломатичні сповіщення:"
+ POPUP_DIPLO: "Додат. дипломат. сповіщення:"
 
  eaw_diplo_popup_window_message_0: "[This.GetDiploPopupMessage0]"
  eaw_diplo_popup_window_message_1: "[This.GetDiploPopupMessage1]"

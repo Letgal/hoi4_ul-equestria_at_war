@@ -270,6 +270,14 @@ news.208.t: "Знищення Сталліонграду"
  news.208.d_sol:0 "[This.GetNewspaperHeader]This day marks an another great victory for the Solar Empire, and a grievous reminder to what happens to all who'd resist Daybreaker's rule. Despite harsh protests and resistance, the city of Stalliongrad was forcibly evacuated by the merciless Solar Army. The ponies were then herded into multiple gathering areas surrounding the city, upon which the infernal noise began. Hundreds, maybe even thousands of bombers, dropping napalm bombs on the city. It took a few hours of this devastation to leave the former city into a burned out husk, all marks of former inhabitants erased by the cleansing fires. Empress Daybreaker has stated that this is the fate of all who would resist the Sun's fair and compassionate rule."
  news.208.a: "..."
 
+news.289.t:0 "[alliance_applicant.GetNameDefCap] joins the [alliance_inviter.GetFactionName]"
+ news.289.d:0 "[This.GetNewspaperHeader]\nEarlier today, [alliance_inviter.GetNameDef] and [alliance_applicant.GetNameDef] issued a joint statement that the latter has now been formally granted member status of the [alliance_inviter.GetFactionName]. Whether this partnership will be used for offensive or defensive purposes remains to be seen, but undoubtedly extensive joint military planning is already under way."
+ news.289.a:0 "We are stronger together."
+ news.289.b:0 "They seek strength in numbers."
+ news.289.c:0 "It will not avail them!"
+ news.289.e:0 "The war escalates..."
+ news.289.f:0 "Our alliance grows stronger."
+
 # Свято літнього сонця, зимвого місяця та їхні імперські відповідники
 news.301.t:0 "Summer Sun Celebration"
  news.301.d:0 "[This.GetNewspaperHeader]Ponies from all trots of life have gathered today in Canterlot to witness the Summer Sun Celebration. Originally a holiday made to commemorate Princess Celestia's victory over the festering Nightmare, nowadays it celebrates the longest day of the year, Princess Luna's return and the magic of friendship. Not a sound could be heard as the Princess climbed on the raised dais, took a long gaze on the gathered ponies and proceeded to raise the Sun. The crowd watched in amazement at the grand display of the alicorn's benevolence, and cheering continued long after the Sun rose. Festivities continued for the remainder of the day, the spirit of Equestria resonating in the continued showing of respect to her traditions."
