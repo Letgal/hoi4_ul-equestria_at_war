@@ -1,5 +1,5 @@
 ﻿l_english:
-### COUNTRYNAME ###
+### НАЗВИ КРАЇНИ ###
  CTH_constitutionalist_fascism: "Кольтфагенська республіка"
  CTH_constitutionalist_fascism_DEF: "Кольтфагенська республіка"
  CTH_constitutionalist_fascism_ADJ: "Кольтфагенськ"
@@ -91,46 +91,46 @@
  CTH_MCW_new_colthage_tag_communism_DEF: "Новий Кольтфаген"
  CTH_MCW_new_colthage_tag_communism_ADJ: "Новокольтфагенськ"
 
-### PARTIES ###
- CTH_neutrality_party:0 "Constitutionalists"
- CTH_neutrality_party_long:0 "Constitutionalists"
- CTH_communism_party:0 "RCCW"
- CTH_communism_party_long:0 "Regional Confederation of Colthaginian Workers"
- CTH_democratic_party:0 "Harmonites"
- CTH_democratic_party_long:0 "Harmonites"
- CTH_fascism_party:0 "Zarcids"
- CTH_fascism_party_long:0 "Zarcids"
+### ПАРТІЇ ###
+ CTH_neutrality_party: "Конституціоналісти"
+ CTH_neutrality_party_long: "Конституціоналісти"
+ CTH_communism_party: "РККР"
+ CTH_communism_party_long: "Регіональна конфедерація кольтфагенських робітників"
+ CTH_democratic_party: "Гармоніти"
+ CTH_democratic_party_long: "Гармоніти"
+ CTH_fascism_party: "Заркіди"
+ CTH_fascism_party_long: "Заркіди"
 
- CTH_scientifid_party:0 "Scientifids"
- CTH_scientifid_party_long:0 "The Scientific Clique"
- CTH_military_party_long:0 "Military Junta"
- CTH_military_party:0 "Military Junta"
- CTH_alcohol_drugs_and_guns_party_long:0 "Zerutrids"
- CTH_alcohol_drugs_and_guns_party:0 "Zerutrids"
- CTH_zidonid_party_long:0 "Zidonids"
- CTH_zidonid_party:0 "Zidonids"
- CTH_girlboss_party_long:0 "Zobloids"
- CTH_girlboss_party:0 "Zobloids"
- CTH_ochzor_party_long:0 "Ochzorids"
- CTH_ochzor_party:0 "Ochzorids"
+ CTH_scientifid_party: "Саєнтифіди"
+ CTH_scientifid_party_long: "Наукова кліка"
+ CTH_military_party: "Військова хунта"
+ CTH_military_party_long: "Військова хунта"
+ CTH_alcohol_drugs_and_guns_party: "Зерутриди"
+ CTH_alcohol_drugs_and_guns_party_long: "Зерутриди"
+ CTH_zidonid_party: "Зідоніди"
+ CTH_zidonid_party_long: "Зідоніди"
+ CTH_girlboss_party: "Зоблоїди"
+ CTH_girlboss_party_long: "Зоблоїди"
+ CTH_ochzor_party: "Очзориди"
+ CTH_ochzor_party_long: "Очзориди"
 
- CTH_constitutionalist_party_long:0 "Colthaginian Revolutionary Party"
- CTH_constitutionalist_party:0 "CRP"
- CTH_harmonic_party_long:0 "Party of the Harmonic Movement"
- CTH_harmonic_party:0 "PHM"
- CTH_nationalist_party_long:0 "National Action Front"
- CTH_nationalist_party:0 "NAF"
- CTH_leftist_party_long:0 "Labourers' Party"
- CTH_leftist_party:0 "LP"
+ CTH_constitutionalist_party: "КРП"
+ CTH_constitutionalist_party_long: "Кольтфагенська революційна партія"
+ CTH_harmonic_party: "ПГР"
+ CTH_harmonic_party_long: "Партія гармонійного руху"
+ CTH_nationalist_party: "НФД"
+ CTH_nationalist_party_long: "Національний фронт дії"
+ CTH_leftist_party: "РП"
+ CTH_leftist_party_long: "Робітнича партія"
 
- CTH_puppet_party: "Colonial Government"
- CTH_puppet_party_long: "Colonial Government"
+ CTH_puppet_party: "Колоніальний уряд"
+ CTH_puppet_party_long: "Колоніальний уряд"
 
- ### FOCUS ###
- CTH_zarcid_legacy:0 "Lean On The Zarcid Legacy"
+### ФОКУСИ ###
+ CTH_zarcid_legacy: "Покластися на спадщину Заркідів"
  CTH_zarcid_legacy_desc:0 "The Zarca family is more than just a powerful political family. To many Colthaginians, the Zarcids are exemplars of the power and glory of the country's history. By invoking the family name, we will be able to appoint some loyalists to important bureaucratic positions, which should allow us some political momentum to deal with the hampered economy and the unrest in the provinces."
 
- CTH_bread_or_stick_politics:0 "Bread Or Stick Politics"
+ CTH_bread_or_stick_politics: "Політика «хліба чи палиці»"
  CTH_bread_or_stick_politics_desc:0 "Zamilcar Zarca's bread or stick politics was an informal system of patronage. Less influential chiefs, landowners and other community leaders would get bread or other help for their people in return for backing Zamilcar whenever he needed them while those who refused would be forced out of politics. The Storm King broke a lot of these informal bonds, and it will take time to reforge them."
 
  CTH_reintroduce_poltical_chiefs:0 "Reintroduce Political Chiefs"
@@ -139,19 +139,19 @@
  CTH_reinforce_the_western_garrisons:0 "Reshuffle The Western Garrisons"
  CTH_reinforce_the_western_garrisons_desc:0 "Guarding the border with Hippogriff occupied Zumidia has been regarded as an easy assignment for years. The zebra in the area are usually loyal, unlike the meddlesome Coltvans. However, rumours of Zanno's return have fired up the local youth and the lazy garrison is doing nothing to stop their rallies. Replacing the garrison with veterans from Coltva will teach these foals the strength of Colthage."
 
- CTH_crackdown_on_the_western_bandits:0 "Crackdown On Western Bandits"
+ CTH_crackdown_on_the_western_bandits: "Боротьба з західними бандитами"
  CTH_crackdown_on_the_western_bandits_desc:0 "The lazy western garrisons have let bandits fester in the west, making us look weak and aiding Zanno Mzelqatid's movement. With real soldiers now stationed in the area, we can begin to root out the criminals and restore order to the land. Our new political chiefs will investigate bandit strongholds, so we can decisively rid ourselves of this problem."
 
- CTH_fortify_the_west:0 "Fortify The Zumidian Border"
+ CTH_fortify_the_west: "Зміцнити зумідійський кордон"
  CTH_fortify_the_west_desc:0 "The greedy Hippogriffs are still occupying our brethren in Zumidia and tensions along the border are high. State of the art fortifications in the border provinces will serve as anchor points for our defence and bases for our inevitable assault. Aztarte, the war goddess, will not allow another inch of zebra land be conquered."
 
- CTH_expand_the_coastal_forts:0 "Zam's Redoubts"
+ CTH_expand_the_coastal_forts: "Редути Зама"
  CTH_expand_the_coastal_forts_desc:0 "Our ports are the heart of our prosperity and the rivers the veins that spread our wealth to the rest of the people. Zam is the god who oversees this great system of life, and he does so justly. However, Zargon, Lord Under the Sea, known as The Dark One, envies Zam's wealth, striking the surface from his dark domain. Just like wise Zam, we must defend our heart from attacks out of the depths of the sea."
 
- CTH_fortify_the_capital:0 "Bastion Zanit"
+ CTH_fortify_the_capital: "Бастіон Заніт"
  CTH_fortify_the_capital_desc:0 "Colthage is our home, our mother. Without her, we would be nothing. It is Zanit, the stalwart wife of Za'al, who wept when Colthage was sullied by the Storm King. Upon Zanit, Zalathel Zarca has taken a precious oath, swearing that never again our homes will be in peril. We will build a bastion that will become our sacred guardian, a true successor to our famed city walls. And Zanit will weep no more."
 
- CTH_appoint_zakbar:0 "Co-Sufrit Baltazar Zakbar"
+ CTH_appoint_zakbar: "Співсуфріт Бальтазар Закбар"
  CTH_appoint_zakbar_desc:0 "Zalathel is not fond of Baltazar, who is a boring zebra, seemingly without much ambition. The old stallion's greatest joy is balancing budgets and his favourite pastime is chairing board room meetings. However, Zamilcar put great faith in him back in the day, and the commercial faction of the Scientific Clique loves him. And best of all, he can do all the paperwork."
 
  CTH_anti_corruption_initiative:0 "Anti-Corruption Initiative"
@@ -169,7 +169,7 @@
  CTH_secular_education:0 "Secular Education"
  CTH_secular_education_desc:0 "In our country, education has moved from being the preserve of parents and informal communities to being the concern of trained specialists funded by public taxes. Therefore, public schools should be kept separated from any specific religious institution. Instruction in religion is the domain of parents and their religions, not the business of the state education system."
 
- CTH_appoint_zaryes:0 "Co-Sufrit Batrun Zaryes"
+ CTH_appoint_zaryes: "Співсуфріт Батрун Зар'єс"
  CTH_appoint_zaryes_desc:0 "A zebra of true Colthaginian passions, Batrun Zaryes is Zarca's favoured pick for Co-Sufrit. As a general, Zaryes openly disfavours the scientific clique, but has widespread popular support both among civilians and soldiers. Appointing Batrun as Co-Sufrit will not only help prepare the populace for conflict, it should also placate the military for the time being."
 
  CTH_war_is_a_racket:0 "Everyone Has Their Price"
@@ -187,7 +187,7 @@
  CTH_hire_better_mercs:0 "Rebuild A Professional Army"
  CTH_hire_better_mercs_desc:0 "Although we have made use of mercenaries as a stopgap in recent years, their unreliability makes them unsuited to serve as the core of our army, and putting our faith in them to defend the nation would be the height of foolishness. Zaryes has a plan to rebuild a truly professional army, using experienced veterans and the Sacred Band to train these new soldiers."
 
- CTH_appoint_zorrzel:0 "Co-Sufrit Zaron Zorrel"
+ CTH_appoint_zorrzel: "Співсуфріт Зарон Зоррель"
  CTH_appoint_zorrzel_desc:0 "Zaron Zorrel is mild-mannered and not very ambitious: the perfect political puppet. There is no doubt that Zorrel will happily do anything the Zarcids want. However, his acute lack of imagination makes him incapable of formulating any policies of his own."
 
  CTH_draw_up_a_new_constitution:0 "The Zarcid Constitution"
@@ -287,19 +287,19 @@
  CTH_one_sufrit_above_all_desc:0 "As the recent period of chaos and confusion demonstrated so clearly, Colthage is weak when divided into squabbling factions, and strong only when united behind a single leader. And so it is time for Colthage to have only a single Sufrit, who rules supreme over the entire nation."
 
 # Economic
- CTH_invite_wingbardian_investors:0 "The Eler Sea Agreement"
+ CTH_invite_wingbardian_investors: "Угода Елерського моря"
  CTH_invite_wingbardian_investors_desc:0 "Though it is north of us, the "Jewel of the South" is well-known for its industrial might. Some in our government have proposed the idea of offering a dedicated investment zone in our capital for the Wingbardians. This will bolster our economic throughput, provided that they accept the proposition."
 
- CTH_replant_the_cash_crops:0 "Cotton Plantations"
+ CTH_replant_the_cash_crops: "Бавовняні плантації"
  CTH_replant_the_cash_crops_desc:0 "Cotton! One of the more useful materials for clothing, and in ever-growing demand across the sea! We already have suitable land to grow cotton in; if we incentivise the growing of cash crops instead of staple foods, we will increase our export value and please the landowners."
 
- CTH_colthage_zur_industrial_zone:0 "Colthage-Zur Special Economic Zone"
+ CTH_colthage_zur_industrial_zone: "Кольтфаген-Зурська особлива економічна зона"
  CTH_colthage_zur_industrial_zone_desc:0 "Colthage and Zur are the two regions the investors from Wingbardy are most interested in. The griffons see potential in developing the ports and industrial centres in the country's centre. By laxing investment laws and shaking the right claws, we can bring in the capital needed to build up our most promising cities."
 
  CTH_agwp_colthage:0 "AGWP Colthage"
  CTH_agwp_colthage_desc:0 "Our oil deposits in Sophoovene are quite plentiful, but we have had trouble extracting the black gold from some of the jungles in the region. Fortunately, one of the companies interested in expanding their operations is Wingbardy's own Azienda Generale Wingbardia Petroli, one of the finest experts on oil in the world."
 
- CTH_czsez_council:0 "CZSEZ Development Council"
+ CTH_czsez_council: "Рада розвитку КЗОЕЗ"
  CTH_czsez_council_desc:0 "Though our industry in the CZSEZ has flourished, investors are being held back by intransigent locals. Our foreign friends have proposed a Development Council to oversee the growth of business in these cities. The idea of letting businessgriffons into the administration does not sit well with the citizens of Colthage and Zur, but they will not complain for long after they see the prosperity these foreigners bring."
 
  CTH_concentration_principle:0 "Mass Industrial Concentration"
@@ -308,13 +308,13 @@
  CTH_export_priority:0 "Reclaim our Mercantile Legacy"
  CTH_export_priority_desc:0 "With all of the effort that we have put into our main port cities, we are set to become the greatest trade hub in northern Zebrica. We are now set to follow the path of our ancestors and again sail the seas to Griffonia, to sell our wares in the markets of Midoria, Karthin and beyond and to bring back the coin of our beloved customers."
 
- CTH_feathara_university:0 "Feathara University - Colthage Branch"
+ CTH_feathara_university: "Кольтфагенська філія Фезарського університету"
  CTH_feathara_university_desc:0 "Being one of the most prestigious centres of learning in Wingbardy, the University of Feathara would be an excellent school to model our higher education facilities after. As it so happens, they have expressed interest in establishing a sister school here in Colthage! We had already set aside a plot of land area for a school, so this should work out quite nicely."
 
  CTH_phase_out_slavery:0 "Phase Out Slavery"
  CTH_phase_out_slavery_desc:0 "Early into the Eler Sea Agreement, several investors and traders expressed concern in our continued use of slaves. This concern has grown over the past several months into veiled threats to abandon the CZSEZ unless we do something about it. In the interest of not having the metaphorical rug pulled out from under our thriving economy, we will begin preparations to transition away from slavery."
 
- CTH_fruits_of_partnership:0 "The Fruits of Partnership"
+ CTH_fruits_of_partnership: "Плоди партнерства"
  CTH_fruits_of_partnership_desc:0 "Investors bring capital, which is invested into production capacity. All these factories need zebras to work in them, not only labourers but all sorts of skilled engineers and technicians. The griffons have brought not only wealth, but also the knowledge needed to advance our economy. We have planted the tree of prosperity, and now she finally bears the sweet fruit of our labour."
 
  CTH_reward_minor_warlords:0 "Placate Generals"
@@ -323,10 +323,10 @@
  CTH_colthaginian_autarky:0 "Pursue National Autarky"
  CTH_colthaginian_autarky_desc:0 "Beyond our borders lay ruin and chaos. Many hawkish foreigners' prey on our factories, our land and our resources. We cannot trust the recovery of the Colthaginian economy to anyone but ourselves. Self-sufficiency is the key to our survival in this hostile world. We have no need for anything that Aztarte does not provide for us, anyhow."
 
- CTH_expand_the_oil_fields:0 "Expand The Sophoovene Oil Fields"
+ CTH_expand_the_oil_fields: "Розширити нафтові родовища Софгувени"
  CTH_expand_the_oil_fields_desc:0 "A modern ship sails on oil. With black gold, zebra can fly like the griffon or the pegasus. Not only is a domestic oil supply absolutely necessary for our national defence, it is also a boon to the economy. By Zothar the Skillful, we must extract every drop off the stuff we can get our hooves on."
 
- CTH_finish_the_centeral_railway:0 "Finish The Central Railway"
+ CTH_finish_the_centeral_railway: "Завершити Центральну залізницю"
  CTH_finish_the_centeral_railway_desc:0 "Before the Storm King's attack ruined the country, we were well on our way to connecting the country via rail. Now that we can shift our attention to the economy once more, the central railway can finally be completed. This will show all Colthaginians that we can recover from even the most damaging blows."
 
  CTH_university_of_colthage:0 "Refurbish The University of Colthage"
@@ -338,10 +338,10 @@
  CTH_seize_forign_mines:0 "Seize Foreign Mining Companies"
  CTH_seize_forign_mines_desc:0 "Under the guise of helping our economy recover, foreign companies have extracted our goods from our mines, giving nothing back to the Colthaginian economy. This ends today. Colthage's mineral wealth shall be used for its own benefit from now on. If the griffons want steel and aluminium they can go work in their own mines!"
 
- CTH_reconstruct_the_arms_factories:0 "Rebuild The Arms Industry"
+ CTH_reconstruct_the_arms_factories: "Перебудувати збройну промисловість"
  CTH_reconstruct_the_arms_factories_desc:0 "To say the Storm King did not appreciate the long-term planning involved with building a sustainable domestic arms production would be an understatement. Most of the machinery used in our weapon plants was looted and repurposed into parts for weaponry itself, setting the industry back by half a century. To us, then, falls the task to repair fifty years of setback in a matter of months."
 
- CTH_clear_the_urban_slums:0 "Clear Out Urban Slums"
+ CTH_clear_the_urban_slums: "Вичистити міські нетрі"
  CTH_clear_the_urban_slums_desc:0 "Careful urban planning gave way to urban cramming as times got tough and skilled administrators were hard to come by. The slums in our largest cities are unproductive sinks of zhekels and zebras. It is time to bulldoze these makeshift neighbourhoods to make way for proper housing and proper citizens."
 
  CTH_allocate_land_for_factory_expansion:0 "Subsidise Industrial Expansion"
@@ -361,25 +361,25 @@
 
 
 # Zarcid foreign policy
- CTH_dream_of_zonicia:0 "Dream Of An United Zonicia"
+ CTH_dream_of_zonicia: "Мрія про об'єднану Зонікію"
  CTH_dream_of_zonicia_desc:0 "Zinuzel Zidalid, the priest who started the revolt against the Quaggatai in 825, famously declared that all Zonician zebras should be free and united under a single banner. Although he was unable to make it a reality in his own time, the idea of a united Zonicia has not been forgotten."
 
- CTH_retake_kar_alpaka:0 "Reclaim Kar-Alpaka"
+ CTH_retake_kar_alpaka: "Повернути Кар-Альпаку"
  CTH_retake_kar_alpaka_desc:0 "Llambet seized the Coltvan state of Kar-Alpaka from us after the Storm King's invasion in order to gain sea access for themselves. Since then the territory has been out of our hooves, but the time has come to rectify this. We will demand the return of what is rightfully ours, and prepare to take it by force if necessary."
 
- CTH_divide_the_horde:0 "Liberate Southern Zonicia"
+ CTH_divide_the_horde: "Визволити Південну Зонікію"
  CTH_divide_the_horde_desc:0 "Taking advantage of our weakened state, Quaggatai seized all of Coltdar and the southern part of Coltva after the Storm King's invasion. Now that we have recovered, we cannot allow Zonicians to suffer under the tyranny of Quaggatai warlords any longer: this land must be liberated!"
 
  CTH_destroy_the_horde:0 "Destroy Our Nemesis"
  CTH_destroy_the_horde_desc:0 "Quaggatai is a historic enemy of all Zonicia. It was the Quaggatai Khans who kept us enslaved for 300 dark years, and their resurgence means that a final confrontation is only a matter of time. They must be destroyed so that their hordes can never again threaten us."
 
- CTH_denounce_the_mandate:0 "Denounce The Zumidian Mandate"
+ CTH_denounce_the_mandate: "Засудити зумідійський мандат"
  CTH_denounce_the_mandate_desc:0 "After defeating the Storm King, Hippogriffia moved swiftly to occupy all of Zumidia, claiming it necessary in order to help the locals and protect them. Zalathel sees this act of thinly-veiled imperialism for what it really is, and wishes to liberate these fellow Zonicians from foreign oppression."
 
- CTH_on_our_own:0 "On Our Own"
+ CTH_on_our_own: "Самі по собі"
  CTH_on_our_own_desc:0 "Unfortunately, Chiropterra has fallen, leaving us with no reliable allies on the continent against Hippogriffia. Despite this, we remain undaunted: we shall begin necessary preparations at once for the coming war against the Hippogriffs. Our righteous cause will not be denied, no matter the odds."
 
- CTH_the_batfag_alliance:0 "Reach Out To Chiropterra"
+ CTH_the_batfag_alliance: "Зв'затися з Хіроптеррою"
  CTH_the_batfag_alliance_desc:0 "In light of the present situation, we will need all the allies we can get for our coming war against the Hippogriffs. The bats have strategic reasons to be hostile towards Hippogriffia, so it is only logical that we should try to make friends. After all, our odds of victory are much better together than apart."
 
  CTH_liberate_neighmidia:0 "Liberate Zumidia"
@@ -1288,24 +1288,24 @@
  CTH_secret_police_idea_2_no_lr_desc:0 ""
 
  ### DECISIONS ###
- CTH_the_coltva_unrest_cat:0 "Coltvan Unrest"
+ CTH_the_coltva_unrest_cat: "Неспокій у Кольтві"
  CTH_the_coltva_unrest_cat_desc:0 "During the Storm King's invasion, the zebras of the eastern provinces of Coltva took to their mountains with their belongings, hiding what they could from the greedy Yeti. After Storm King's death, the celebrations quickly turned sour as it became clear Colthage had been too weak to protect Coltva. The rich and powerful Colthaginian landowners justified their rule by claiming to be their defenders, yet they had failed in this duty. So what right did they have to keep the common zebra in chains?\n\nOne rebel leader, Zeshmunazash Zeirutid, managed to rally the Coltvans to his cause and is continuing his war of resistance against the Colthaginian government. §RIf we do not deal with the unrest in the region, this could spill over to be a full-blown rebellion.§!"
- CTH_zeirutids_rebellion:0 "Zeirutid's Rallying Cry"
+ CTH_zeirutids_rebellion: "Заклик Зейрутида"
  CTH_zeirutids_rebellion_desc:0 "\"Arise, zebras of Coltva. It's time to fight for what is rightfully ours!\"\n\n§RColtva will rise up and a war will start between us.§!"
- CTH_crackdown_on_bandits_in_kizil_zeb:0 "Crackdown on the Bandits in [1093.GetName]"
- CTH_crackdown_on_bandits_in_horsemuz:0 "Crackdown on the Bandits in [1095.GetName]"
- CTH_crackdown_on_bandits_in_goatlestan:0 "Crackdown on the Bandits in [1094.GetName]"
+ CTH_crackdown_on_bandits_in_kizil_zeb: "Боротьба з бандитами в області [1093.GetName]"
+ CTH_crackdown_on_bandits_in_horsemuz: "Боротьба з бандитами в області [1095.GetName]"
+ CTH_crackdown_on_bandits_in_goatlestan: "Боротьба з бандитами в області [1094.GetName]"
 
- CTH_the_constitutionalist_rebellion_cat:0 "Zanno Mzelqatid's Rebellion"
+ CTH_the_constitutionalist_rebellion_cat: "Повстання Заннона Мзелькатида"
  CTH_the_constitutionalist_rebellion_cat_desc:0 "After the Storm King's invasion, the son of an influential West-Colthaginian land owner, Zanno Mzelqatid, directly contested Zalathel Zarca in the elections for the position of Sufrit. Despite the result having already been decided before the election, he still campaigned and was able to gather significant support among the urban youth and the Popular Assembly. After the election, and Zalathel Zarca's overwhelming victory, he declared that the election was rigged and invalid. But before the authorities could crackdown on him for inciting unrest he and several supporters had fled across the border to Zumidia.\n\nWe cannot for a moment believe that this would be the end we see of him and we need to prepare for a possible uprising lead by Mzelqatid's supporters.\n\nThe presumed strength of the rebel movement is: [Root.CTH_constitutionalist_civil_war_strength_loc]"
- CTH_crackdown_on_students:0 "Crackdown on the Students"
- CTH_root_out_constitutionalists_cells:0 "Root out the Constitutionalists"
- CTH_crackdown_on_bandits_in_zalihli:0 "Crackdown on the Bandits in [876.GetName]"
- CTH_crackdown_on_bandits_in_alaudid_range:0 "Crackdown on the Bandits in [699.GetName]"
- CTH_crackdown_on_bandits_in_tefemanei:0 "Crackdown on the Bandits in [877.GetName]"
+ CTH_crackdown_on_students: "Переслідування студентів"
+ CTH_root_out_constitutionalists_cells: "Викорінити конституціоналістів"
+ CTH_crackdown_on_bandits_in_zalihli: "Боротьба з бандитами в області [876.GetName]"
+ CTH_crackdown_on_bandits_in_alaudid_range: "Боротьба з бандитами в області [699.GetName]"
+ CTH_crackdown_on_bandits_in_tefemanei: "Боротьба з бандитами в області [877.GetName]"
 
- CTH_retake_kar_alpaka_decision:0 "Attack Kar-Alpaka"
- CTH_retake_kar_alpaka_decision_desc:0 ""
+ CTH_retake_kar_alpaka_decision: "Атакувати Кар-Альпаку"
+ CTH_retake_kar_alpaka_decision_desc: ""
 
  CTH_support_resistance_in_ain_trotgourait:0 "Incite Resistance In Ain Trotgourait"
  CTH_support_resistance_in_ain_trotgourait_desc:0 ""
@@ -2596,7 +2596,7 @@
  colthage_news.5.b:0 "For the Revolution!"
  colthage_news.5.c:0 "More conflict in Zebrica..."
 
- ### CHARACTER SHIT ###
+### ПЕРСОНАЖІ ###
  POLITICS_ZALATHEL_ZARCA_DESC:0 "As the son of Zamilcar Zarca, former head of the powerful Zarca family and longest serving Sufrit of Colthage, Zalathel grew up in Colthaginian high society during a period of peace and prosperity. Since his birth, he was seen as the successor of his father, and thus received far more attention than his siblings. He was educated in history, military science and politics, becoming fascinated with ancient Colthage in the process. His love for his homeland grew as rapidly as the size of his ego did. By the time he became an adult, he saw himself as the embodiment of Zonician civilization, and was ready to succeed his aging father who was preparing to retire. However, everything changed when the Storm King attacked.\n\nDespite joining his father in the defence of the city, the Storm King's forces overwhelmed the defenders. Zamilcar perished in the chaos and Zalathel was forced to abandon the city of Colthage with his sister and two brothers. The zebras fled high into the Alaudid Range to lead a guerilla force to harass the Storm King's army as it continued to rampage in Northern Zebrica. When news of the Storm King's death reached Zalathel, he led his forces to the capital and executed those who had surrendered to the enemy. With the city secure, he was seen as a liberator by many, but did not hesitate to crackdown on any opposition to the Zarcid rule. He turned to the warlords that had risen up throughout Colthage and those who would not step into line where quickly taken out.\n\nElections were soon held, which were claimed to be rigged, and the Senate approved Zalathel as the successor of his father. Now the new Sufrit, he has enough strength and support to keep power, but his position is a precarious one. Scientifids and militarists have taken advantage of the chaos, rebuilding their power. In the west, the anti-Zarcid Constitutionalist movement is plotting against his rightful rule, while in the east, the Coltvans are rising up against their landlords. Only time will tell if he is able to continue the legacy of his father, the position he was groomed for, or if the house of cards collapses around him."
  POLITICS_ZANNO_MZELQATID_DESC:0 "Zanno Mzelqatid is a son of a landowning well-off family in Western Colthage. He attended university in Wingbardy thanks to a government exchange program and there he became part of the ever growing urban middle class that read republican Griffonian literature and spoke out against the Zarcid regimen as an affront to Colthage's own republican traditions.\n\nIn 1006, when the chaos of the Storm King's invasion was dying down, Zanno travelled around the nation gathering support from the citizenry to campaign for an end of Zarcid tyranny and promised them true political and economic reform. All that had to be done was for them to make their voices heard to the Senate. Unfortunately this led to Zanno being arrested a week before the senate voted Zalathel Zarca in as Sufrit. Zanno was eventually released from prison on bail, but managed to make his way across the border into the Hippogriff-run Zumidian Mandate where he declared the election as illegitimate and began gathering supporters.\n\nPersonally, he is often seen as aloof and often not in touch with reality. In Wingbardy he ended up becoming an advocate of Spiritism and believes he is a medium who can talk to the dead and magical spirits. He claims the spirit of his dead brother visited him and asked him to dedicate his life to helping others, and to never drink alcohol or smoke. He is also a strong believer in homeopathy, a system of alternative medicine denounced by practitioners of both healing magic and medical science. Regardless, he is well liked by people he meets and is held in high regard by the employees of his plantations. He introduced sweeping education, medical, and social reforms for the plantation and the nearby towns, building schools and hospitals (staffed by actual doctors thankfully). He is against slavery and the semi-official class system in the nation and wishes to see a true liberal democratic Colthage."
  CTH_baltazar_zakbar_desc:0 "While the Scientific Clique has no formal leadership, Baltazar Zakbar is widely acknowledged as the political figurehead of the faction. He supported the Zarcids from the very beginning, primarily because of Zamilcar's efforts to modernize the country which aligned with the goals of the Scientifids.\n\nHaving studied law and economics extensively and even worked as a teacher at the University of Colthage, Baltazar is an economic mastermind who was credited with laying the foundations for Colthage's economic miracle in the 900s. It was he who balanced the budget, established a gold standard for the zhekel and signed lucrative commercial treaties with Wingbardy and Sicameon. Without his genius, Colthage would've remained as backwards as many other zebra countries. However, his reforms came at the expense of the common folk, who lost much of their land and wealth to mighty magnates.\n\nBaltazar's influence was so great that Zamilcar grew worried. Shortly before the Storm King's invasion, he sent the economist far away to Griffonia to negotiate a loan, wanting to get him out of the picture. This move likely saved Baltazar's life, as he was on another continent when flames of chaos engulfed Colthage.\n\nAfter returning to his home, Baltazar was quick to assert dominance once again. His relations with the Zarcids had soured, especially because he saw Zalathel as nothing more than a selfish, hot-headed youth. The only thing that kept him from trying to take over the country was General Batrun Zaryes, who deeply distrusted Colthaginian intellectuals. It was clear to him that more preparations needed to be made before the Scientifids could assert dominance and guarantee order and progress in Colthage."
@@ -2611,27 +2611,27 @@
  CTH_zauro_ochzor_desc:0 "Zauro Ochzor is one of the senior generals of the Colthaginian army, and is greatly respected by soldiers and civilians alike. Born in Colturubis, he entered the military academy of Colthage and graduated as an artillery officer. His father had been an engineer and Zauro had developed a fascination with firearms from a young age, so it was inevitable that he ended up becoming a designer of military materiel.\n\nAs Zamilcar Zarca was modernizing the Colthaginian army, he needed zebras like Zauro to create a modern arsenal. Zauro answered the call and proved to be an ingenius and diligent designer, taking Griffonian designs and modifying them to perfection. His most famous work is the Garcano-Ochzor Model 989, the standard weapon of Colthaginian infantry. He also wrote several manuals on weapons and was promoted to Director of the Department of Artillery.\n\nAfter the invasion of the Storm King, he started work on the world's first gas-operated semi-automatic rifle, which he calls the C-1007 and which others simply call the Ochzor Rifle. It is a revolutionary design, but he is distracted by his duties as a general of the army during a period of instability. While he is loyal to the Zarcid regime, he also believes that other factions in Colthage would be foolish to not adopt his superior design once it is finished."
  CTH_zasdrubal_zalvarado_desc:0 "Ambition comes in many forms, most of them selfish. But selfless ambition exists, and it is a rare blessing to have.\n\nAzruzaal Azarago was born in the Colthaginian city of Zur to an upper-middle-class family of intellectuals, seemingly destined for a life of going to university, sitting back and discussing philosophy, and doing nearly nothing else. But then, one day, he announced to his parents he wanted to join the military, and they wished him farewell without much fuss. Enrolling in an officer school, Azruzaal quickly noticed flaws with the Colthaginian military. Its reliance on mercenaries, corrupt command structure, and far more all caused fatal problems in the system. But Azruzaal kept his mouth shut. He would have opportunities to fix it all someday.\n\nAzruzaal's first assignment was the management of roads and dikes in the Karamane region. He remained there for years until the arrival of the Storm King. Leading his unit underground, Azruzaal calmly guided the soldiers under his command towards survival and freedom upon the eventual liberation of Colthage, but without much of the publicity of Zalathel Zarca's own resistance effort. Returning to his post as a military engineer, Azruzaal soon was contacted by officers and politicians affiliated with Zanno Mzelqatid and signed on to their program resisting Zarca's rule.\n\nWhat can be learned from Azruzaal's story is that sometimes the simplest people are the most reliable. Azruzaal has performed no great acts of heroism or political bravado in his life. He has simply done his service to the Colthaginian people at every opportunity. And one day, that responsibility will be to wage war, and by Za'al above, he shall do it."
 
- CTH_zalathel_zarca:0 "Zalathel Zarca"
- CTH_zanno_mzelqatid:0 "Zanno Mzelqatid"
- CTH_baltazar_zakbar:0 "Baltazar Zakbar"
- CTH_zago_zarca:0 "Zago Zarca"
- CTH_zasdrubal_zarca:0 "Zasdrubal Zarca"
+ CTH_zalathel_zarca: "Залатель Зарка"
+ CTH_zanno_mzelqatid: "Заннон Мзелькатид"
+ CTH_baltazar_zakbar: "Бальтазар Закбар"
+ CTH_zago_zarca: "Заґон Зарка"
+ CTH_zasdrubal_zarca: "Засдрубал Зарка"
  CTH_zaharbal_zimilco:0 "Zaharbal Zimilco"
  CTH_zanno_zomilcar:0 "Zogarzar Zomilcar"
  CTH_zarvad_orzagid:0 "Zarvad Orzagid"
- CTH_bezelshazzar_zerutra:0 "Bezelshazzar Zerutra"
- CTH_batrun_zaryes:0 "Batrun Zaryes"
- CTH_zauro_ochzor:0 "Zauro Ochzor"
- CTH_jezabzella_zeshmid:0 "Jezabzella Zeshmid"
+ CTH_bezelshazzar_zerutra: "Безелшаззар Зерутра"
+ CTH_batrun_zaryes: "Батрун Зар'єс"
+ CTH_zauro_ochzor: "Заурон Очзор"
+ CTH_jezabzella_zeshmid: "Джезабзелла Зешмід"
  CTH_itthozaal_zummashid:0 "Itthozaal Zummashid"
- CTH_ziliad_annizalid:0 "Ziliad Annizalid"
+ CTH_ziliad_annizalid: "Зіліад Аннізалід"
  CTH_zurelo_balzanquet:0 "Zurelo Balzanquet"
- CTH_jebzel_zoblos:0 "Jebzel Zoblos"
+ CTH_jebzel_zoblos: "Джебзел Зоблос"
  CTH_xikala_gunslinger:0 "Xikala The Gunslinger"
  CTH_zasdrubal_zalvarado:0 "Azruzaal Azarago"
  CTH_batnoam_zarza:0 "Benoam Gerza"
  CTH_innalas_zerutra:0 "Innalas Ahutzam"
- CTH_zaphod_zarca:0 "Zaphod Zarca"
+ CTH_zaphod_zarca: "Зафод Зарка"
  CTH_zamalad_ochzor:0 "Zamalad Ochzor"
  CTH_zannido_zidon:0 "Zannido 'Bandolier' Zidon"
  CTH_zacual_orozid:0 "Zacual Orozid"
@@ -2641,12 +2641,13 @@
  CTH_random_ass_admiral_1:0 "Abizam Ummid"
  CTH_random_ass_admiral_2:0 "Gamila Adir"
  CTH_puppet_leader:0 "Abdazhtart Barek"
+ CTH_puppet_leader_2:0 "Bodmelqart Gamila"
  CTH_fancy_name_dude:0 "Palatinatus Clypeus"
 
- ### ADVISORS ###
- CTH_no_co_sufrit:0 "No Co-Sufrit"
+ # Радники
+ CTH_no_co_sufrit: "Співсуфріта немає"
  CTH_no_co_sufrit_desc:0 "The Colthaginian Constitution demands that the First Sufrit, elected by the people, chooses a Co-Sufrit. Since ancient times, this dual executive has stabilised the government and not adhering to this tradition is frowned upon."
- CTH_zaron_zorrel:0 "Zaron Zorrel"
+ CTH_zaron_zorrel: "Зарон Зоррель"
  CTH_zaron_zorrel_desc:0 "Zaron Zorrel is a Colthaginian politician whose most remarkable trait seems to be his lack of controversy. Born to a middle-class family, studying Zonician literature in university and a lover of sailing in his free time, his personal life does not stand out either. His mild manners and willingness to swim with the tides has caused Zorrel to make his way upwards, always a trusted lieutenant to evermore important political figures. A zebra content with second place."
  CTH_zarani_zaalyon_zarra:0 "Zarani Za'alyon Zarra"
  CTH_zarani_zaalyon_zarra_desc:0 "Zarani Za'alyon Zarra is a well-respected name in the Colthaginian foreign ministry and in embassies far away. As the grey eminence of the Republic's diplomacy, Zarra lobbied for support for Colthage when it was occupied by the Storm King. The zebra, already past the retirement age, carries himself with the grace of years, a reliant servant of the public good."
@@ -2692,20 +2693,20 @@
  CTH_seized_mines:0 "Seized Mines"
  CTB_coping:0 "Made Fun Of Us"
 
- CTH_batrun_zaryes_trait:0 "Co-Sufrit Zaryes"
- CTH_baltazar_zakbar_trait:0 "Co-Sufrit Zakbar"
- CTH_zaron_zorrel_trait:0 "Co-Sufrit Zorrel"
- CTH_no_co_sufrit_trait:0 "No Co-Sufrit"
+ CTH_batrun_zaryes_trait: "Співсуфріт Зар'єс"
+ CTH_baltazar_zakbar_trait: "Співсуфріт Закбар"
+ CTH_zaron_zorrel_trait: "Співсуфріт Зоррель"
+ CTH_no_co_sufrit_trait: "Співсуфріта немає"
  CTH_zerutra_trait:0 "Co-Sufrit Zerutra"
  CTH_zoblos_trait:0 "Co-Sufrit Zoblos"
  CTH_ochzor_trait:0 "Co-Sufrit Ochzor"
  CTH_zaphod_trait:0 "Co-Sufrit Zarca"
  CTH_zarvad_trait:0 "Co-Sufrit Orzagid"
 
- CTH_no_co_sufrit_flag:0 "Has not selected a Co-Sufrit."
- CTH_batrun_zaryes_flag:0 "Batrun Zaryes has been selected as Co-Sufrit."
- CTH_baltazar_zakbar_flag:0 "Baltazar Zakbar has been selected as Co-Sufrit."
- CTH_zaron_zorrel_flag:0 "Zaron Zorrel has been selected as Co-Sufrit."
+ CTH_no_co_sufrit_flag: "Співсуфріта не обрано"
+ CTH_batrun_zaryes_flag: "Співсуфрітом було обрано Батруна Зар'єса"
+ CTH_baltazar_zakbar_flag: "Співсуфрітом було обрано Бальтазара Закбара"
+ CTH_zaron_zorrel_flag: "Співсуфрітом було обрано Зарона Зорреля"
  CTH_cosufrit_zerutra_flag:0 "Bezelshazzar Zerutra has been selected as Co-Sufrit."
  CTH_cosufrit_zoblos_flag:0 "Jebzel Zoblos has been selected as Co-Sufrit."
  CTH_cosufrit_ochzor_flag:0 "Zauro Ochzor has been selected as Co-Sufrit."
@@ -2732,23 +2733,23 @@
  CTH_strikes_outlawed:0 "Strikes have been outlawed"
  CTH_factions_unlocked_flag:0 "Factions unlocked"
 
- CTH_colthage_zarcaid:0 "Zarcids rule Colthage"
- CTH_colthage_scientifids:0 "Scientifids rule Colthage"
- CTH_colthage_militarists:0 "Militarists rule Colthage"
- CTH_colthage_constitutionalist:0 "Constitutionalists rule Colthage"
- CTH_colthage_harmonite:0 "Harmonites rule Colthage"
- CTH_colthage_bandit:0 "Bandits rule Colthage"
- colthaginian_civil_war:0 "Colthaginian Civil War has taken place"
- colthaginian_civil_war_avoided:0 "Colthaginian Civil War has been avoided"
- CTH_CVA_cooperation:0 "Friendship with Coltva"
- CTH_CVA_unfriendly:0 "Tensions with Coltva"
- CTH_angered_landowners:0 "Angered Landowners"
- CTH_zaryes_is_dead:0 "Zaryes is dead"
- CTH_milgov_flag:0 "Militarized government"
- CTH_military_missions_unlocked:0 "Military missions blocker"
- CTH_harmonite_senators_alienated:0 "§PPHM§! senators refuse to cooperate"
- CTH_fascist_senators_alienated:0 "§LNAF§! senators refuse to cooperate"
- CTH_communist_senators_alienated:0 "§RLP§! senators refuse to cooperate"
+ CTH_colthage_zarcaid: "Заркіди керують Кольтфагеном"
+ CTH_colthage_scientifids: "Саєнтифіди керують Кольтфагеном"
+ CTH_colthage_militarists: "Військові керують Кольтфагеном"
+ CTH_colthage_constitutionalist: "Конституціоналісти керують Кольтфагеном"
+ CTH_colthage_harmonite: "Гармоніти керують Кольтфагеном"
+ CTH_colthage_bandit: "Бандити керують Кольтфагеном"
+ colthaginian_civil_war: "Громадянська війна в Кольтфагені сталася"
+ colthaginian_civil_war_avoided: "Громадянської війни в Кольтфагені уникнуто"
+ CTH_CVA_cooperation: "Дружба з Кольтвою"
+ CTH_CVA_unfriendly: "Напруга з Кольтвою"
+ CTH_angered_landowners: "Землевласники розгнівані"
+ CTH_zaryes_is_dead: "Зар'єс мертвий"
+ CTH_milgov_flag: "Мілітаризований уряд" # (&?) :: Контекст?
+ CTH_military_missions_unlocked: "Військові рішення заблоковані"
+ CTH_harmonite_senators_alienated: "Сенатори §PПГР§! відмовилися співпрацювати"
+ CTH_fascist_senators_alienated: "Сенатори §LНФД§! відмовилися співпрацювати"
+ CTH_communist_senators_alienated: "Сенатори §RРП§! відмовилися співпрацювати"
 
  colthaginian_landlords:0 "Dominant Landowners"
  colthaginian_landlords_desc:0 ""
