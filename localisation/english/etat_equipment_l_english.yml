@@ -24,6 +24,9 @@ l_english:
  modern_tank_equipment_x_5_desc:0 "Putting a piece of fused silica glass between two rolled steel plates almost doubles the armor effectiveness of the steel plates. This will help our tanks shrug off enemy fire much easier."
 
  # Сучасні САУ
+ modern_tank_artillery_equipment_2: "Сучасна САУ II"
+ modern_tank_artillery_equipment_3: "Сучасна САУ III"
+
  modern_tank_artillery_equipment_x: "Сучасна САУ II"
  modern_tank_artillery_equipment_x_short: "$modern_tank_artillery_equipment_x$"
  modern_tank_artillery_equipment_x_desc:0 "Tank artillery has reached a turning point, switching from ever-increasing calibers to a higher rate of fire and better support roles with specialised smoke and incendiary shells."
@@ -45,6 +48,9 @@ l_english:
  modern_tank_artillery_equipment_x_5_desc:0 "Tank artillery has reached a turning point, switching from ever-increasing calibers to a higher rate of fire and better support roles with specialised smoke and incendiary shells."
 
  # Сучасні ВТ
+ modern_tank_destroyer_equipment_2: "Сучасний ВТ II"
+ modern_tank_destroyer_equipment_3: "Сучасний ВТ III"
+
  modern_tank_destroyer_equipment_x: "Сучасний ВТ II"
  modern_tank_destroyer_equipment_x_short: "$modern_tank_destroyer_equipment_x$"
  modern_tank_destroyer_equipment_x_desc:0 "These tanks boast advanced ammunition and superb stealth, making up for their low damage with exceptional penetration values.They are the super-tank killers."
@@ -66,6 +72,9 @@ l_english:
  modern_tank_destroyer_equipment_x_5_desc:0 "These tanks boast advanced ammunition and superb stealth, making up for their low damage with exceptional penetration values.They are the super-tank killers."
 
  # Сучасні ЗСУ
+ modern_tank_aa_equipment_2: "Сучасна ЗСУ II"
+ modern_tank_aa_equipment_3: "Сучасна ЗСУ III"
+
  modern_tank_aa_equipment_x: "Сучасна ЗСУ II"
  modern_tank_aa_equipment_x_short: "$modern_tank_aa_equipment_x$"
  modern_tank_aa_equipment_x_desc:0 "High-caliber autocannons aimed with newly developed portable radar trackers turn these rebuilt obsolete medium tanks into anti-air fortresses."
@@ -95,6 +104,11 @@ l_english:
  super_heavy_tank_equipment_x_2_desc:0 "Faster treads allow these super heavy tanks to compete on the modern battlefield. High-caliber bunker smashing cannons and several layers of reinforced armor render them nearly unstoppable in a fair fight. While they will likely never reclaim dominance from the main battle tanks due to their reduced versatility, they nonetheless can provide devastating firepower when our troops need it most."
 
  # Надважкі САУ
+ super_heavy_tank_artillery_equipment_2: "Надважка САУ II"
+ super_heavy_tank_artillery_equipment_2_short: "$super_heavy_tank_artillery_equipment_2$"
+ super_heavy_tank_artillery_equipment_3: "Надважка САУ III"
+ super_heavy_tank_artillery_equipment_3_short: "$super_heavy_tank_artillery_equipment_3$"
+
  super_heavy_tank_artillery_equipment_x: "Надважка САУ II"
  super_heavy_tank_artillery_equipment_x_short: "$super_heavy_tank_artillery_equipment_x$"
  super_heavy_tank_artillery_equipment_x_desc:0 "Following the doctrine that bigger is always better, these artillery pieces stop any enemy in their tracks and start having problems with ammunition supply, reloading and gun barrels wearing out."
@@ -103,6 +117,11 @@ l_english:
  super_heavy_tank_artillery_equipment_x_2_desc:0 "Following the doctrine that bigger is always better, these artillery pieces stop any enemy in their tracks and start having problems with ammunition supply, reloading and gun barrels wearing out."
 
  # Надважкі ВТ
+ super_heavy_tank_destroyer_equipment_2: "Надважкий ВТ II"
+ super_heavy_tank_destroyer_equipment_2_short: "$super_heavy_tank_destroyer_equipment_2$"
+ super_heavy_tank_destroyer_equipment_3: "Надважкий ВТ III"
+ super_heavy_tank_destroyer_equipment_3_short: "$super_heavy_tank_destroyer_equipment_3$"
+
  super_heavy_tank_destroyer_equipment_x: "Надважкий ВТ II"
  super_heavy_tank_destroyer_equipment_x_short: "$super_heavy_tank_destroyer_equipment_x$"
  super_heavy_tank_destroyer_equipment_x_desc:0 "The ultimate answer to any kind of armor, these beasts do not need to be stealthy. Their armor is exceptional and their guns the deadliest. Their movement though..."
@@ -111,6 +130,11 @@ l_english:
  super_heavy_tank_destroyer_equipment_x_2_desc:0 "The ultimate answer to any kind of armor, these beasts do not need to be stealthy. Their armor is exceptional and their guns the deadliest. Their movement though..."
 
  # Надважкі ЗСУ
+ super_heavy_tank_aa_equipment_2: "Надважка ЗСУ II"
+ super_heavy_tank_aa_equipment_2_short: "$super_heavy_tank_aa_equipment_2$"
+ super_heavy_tank_aa_equipment_3: "Надважка ЗСУ III"
+ super_heavy_tank_aa_equipment_3_short: "$super_heavy_tank_aa_equipment_3$"
+
  super_heavy_tank_aa_equipment_x: "Надважка ЗСУ II"
  super_heavy_tank_aa_equipment_x_short: "$super_heavy_tank_aa_equipment_x$"
  super_heavy_tank_aa_equipment_x_desc:0 "This uncommon design of a rocket battery submerged within an armored box shows its worth right behind the battlefield, allowing full sky control while also absorbing the occasional shot."

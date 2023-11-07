@@ -124,7 +124,7 @@
  state_investor:0 "State Investor"
  MAN_state_investor_1: "$state_investor$"
  MAN_state_investor_2: "$state_investor$"
- mining_company: "Видобувна компанія"
+ #mining_company: "Видобувна компанія"
  standardisation_concern:0 "Standardisation Concern"
  magical_concern: "Магічний концерн"
  promising_general: "Перспективний командувач"
@@ -387,7 +387,7 @@
  siren_aircraft_manufacturer:0 "Siren Aircraft Manufacturer"
  siren_naval_manufacturer:0 "Siren Naval Manufacturer"
  revolutionary_lawyer:0 "Revolutionary Lawyer"
- socialist_journalist:0 "Socialist Journalist"
+ socialist_journalist_eaw:0 "Socialist Journalist"
  welfare_reformer:0 "Welfare Reformer"
  socialist_grandmother:0 "Socialist Grandmother"
  socialist_director:0 "Socialist Director"
@@ -502,8 +502,6 @@ Yal_skeleton_king_army_leader_desc:0 "§LFighting for the great Grover II inspir
  
  drug_dealer:0 "Army Drugs Supplier"
  magical_weapons_enthusiast:0 "Magical Weapons Enthusiasts"
- HIN_jeweled_deer:0 "The Jeweled Maharaja"
- HIN_unjeweled_deer:0 "The Unjeweled Maharaja"
  
  policy_analyst:0 "Policy Analyst"
  trait_mercenary_commander:0 "Mercenary Commander"
