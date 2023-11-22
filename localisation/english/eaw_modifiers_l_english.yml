@@ -16,7 +16,7 @@
  support_equipment_research:0 "Support Equipment Research Speed"
  special_forces_research:0 "Special Forces Research Speed"
  has_tribal_society_tt: "Є §Yплемінним суспільством§!"
- not_has_tribal_society_tt: "Не §Yплемінним суспільством§!"
+ not_has_tribal_society_tt: "Не є §Yплемінним суспільством§!"
  not_has_communal_society_tt: "Не є §Yкомунальним суспільством§!"
  has_agrarian_society_tt: "Є §Yаграрним суспільством§!"
  not_has_agrarian_society_tt: "Не є §Yаграрним суспільством§!"

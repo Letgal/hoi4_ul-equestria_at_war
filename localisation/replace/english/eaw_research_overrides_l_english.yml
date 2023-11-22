@@ -1,7 +1,6 @@
 ﻿l_english:
-
- ### Electronics ###
  electronic_mechanical_engineering:0 "Early Electromechanics"
+ ### ЕЛЕКТРОНІКА ###
  electronic_mechanical_engineering_desc:0 "Much interest and research into non-magical long-distance communication arose with the global increase in production due to the industrial revolution. As telegraphy and automated telephone exchanges enter public service, electromechanics promises a massive technological jump in communication and computing."
 
  radio: "Масове впровадження FM-радіо"
@@ -83,12 +82,11 @@
  guided_missile_equipment_3_short:0 "Imp. Guided Missile"
  guided_missile_equipment_3_desc:0 "Additional advances in our rocketry have only refined our early ballistic missiles. This new iteration of missiles burns harder for even longer, extending the range and speed of our missiles. They can carry a larger warhead to compensate for their inaccuracy, making for lethal area weapons. In addition, early experiments in multiple-stage rockets, though unsuccessful for now, do show immense promise for the future of our ballistic missiles."
 
-
- ### Industry ###
+ ### ПРОМИСЛОВІСТЬ ###
  basic_machine_tools:0 "National Standards"
  basic_machine_tools_desc:0 "As the world industrialises, numerous different production centres follow their standards that don't mesh with one another, causing difficulties and sluggishness in equipment production. There have already been some efforts to standardise the different processes, but when most factories can't even agree to standard lengths, it is time for the government to take direct action."
  improved_machine_tools:0 "Automatic Turret Lathes"
- improved_machine_tools_desc:0 "Lathes have been in use for millennia, but it is only in recent times that with the power of steam and now electricity, our metalworking lathes' tool-posts can be driven with minimal effort. A new innovative design with turret lathes reduce the worker's input to merely setting the workpiece with a crank. At the same time, a powered mounting moves the word piece against the cutting tool, drastically reducing worker error and effort while maximising their production output. "
+ improved_machine_tools_desc:0 "Lathes have been in use for millennia, but it is only in recent times that with the power of steam and now electricity, our metalworking lathes' tool-posts can be driven with minimal effort. A new innovative design with turret lathes reduce the worker's input to merely setting the workpiece with a crank. At the same time, a powered mounting moves the word piece against the cutting tool, drastically reducing worker error and effort while maximising their production output."
  advanced_machine_tools:0 "Proliferation of Servomechanisms"
  advanced_machine_tools_desc:0 "Workstations involve repetitive actions and inputs from workers that involve dangerous equipment if mishandled. To reduce the risk of work accidents or machining malfunctions on the part of the workers, we can install automatic devices called servomechanisms that monitor the machining operation of workstations and, if set up correctly, can correct errors. The job's no less boring but far safer."
  assembly_line_production:0 "Powered Assembly Lines"
@@ -121,7 +119,7 @@
  dispersed_industry3:0 "Integrated Long-Distance Transportation"
  dispersed_industry3_desc:0 "Generally, complex products such as rifles or vehicles are composed of multiple parts that need to be manufactured. By keeping these as far apart as possible while connecting them with robust transportation lines, our industrial capacity will grow while keeping it safe."
  dispersed_industry4:0 "Disguised Factories"
- dispersed_industry4_desc:0 "Camouflaging our more critical factories as different, harmless industries helps divert unwanted attention from them, thus further protecting our vital production lines. "
+ dispersed_industry4_desc:0 "Camouflaging our more critical factories as different, harmless industries helps divert unwanted attention from them, thus further protecting our vital production lines."
  dispersed_industry5:0 "Underground Facilities"
  dispersed_industry5_desc:0 "To further hide our factories, we can transfer them underground, disguised as hills. A costly and massive undertaking, but necessary to maintain secrecy and to make them resistant against attacks."
 
@@ -133,8 +131,8 @@
  construction3:0 "Mechanised Construction"
  construction3_desc:0 "For time immemorial, we have used machines for larger constructions. However, with greater and easier access to fuel-powered machines such as trucks and cranes, the same work and tasks necessary for construction are far less labour-intensive and can be done at a fraction of the time. There is a relatively high upfront and recurring cost in acquiring these new machines, but this is massively offset by the savings they bring."
  construction4:0 "The Moment Distribution Method"
- construction4_desc:0 "As beam structures proliferate and grow taller and more ambitious, further structural analysis is required, specifically for the flexural effects upon the joints of structures. Developing fixed-end moments distributed as such as to achieve equilibrium in the overall design. This somewhat math-intensive methodology does require specialised engineers, but it will produce larger and sturdier structures. "
  construction5:0 "Utilitarian Architecture"
+ construction4_desc:0 "As beam structures proliferate and grow taller and more ambitious, further structural analysis is required, specifically for the flexural effects upon the joints of structures. Developing fixed-end moments distributed as such as to achieve equilibrium in the overall design. This somewhat math-intensive methodology does require specialised engineers, but it will produce larger and sturdier structures."
  construction5_desc:0 "Much as traditionalists will bemoan current architectural trends, there is no denying that newer structures are far more practical and inexpensive. Adopting these architectural designs as the new standard for concurrent construction may create 'ugly' districts and cities. Still, they shall be monuments of our might, well after we're gone!"
 
  excavation1:0 "Hydraulic Drills"
@@ -183,7 +181,7 @@
  fuel_refining5:0 "Supplemental Diesel Production"
  fuel_refining5_desc:0 "We've been creating diesel oil as a side product of our atmospheric distillation and hydrocracking for some time. Though it is louder, 'dirtier', and requires a different ignition process in engines from gasoline, diesel is more efficient. We might not entirely shift over to diesel, but not exploiting this other fuel source would be foolish, as we can produce more fuel overall with it."
 
- ### Artillery ###
+ ### АРТИЛЕРІЯ ###
  interwar_artillery:0 "Applied Artillery Experience"
  artillery1:0 "Rechambering Methods"
  artillery2:0 "New Howitzer Designs"
@@ -211,7 +209,7 @@
  antitank3_desc:0 "Due to the excellent penetration qualities of High-Explosive Anti-Tank (HEAT) rounds, low-velocity guns can now defeat enemy armour that it could not hope to with standard ammunition."
  antitank4:0 "Self-Discarding Sabot"
 
- ### Navy ###
+ ### ФЛОТ ###
  basic_naval_mines:0 "Contact Mine"
  basic_naval_mines_desc:0 "A simple floating bomb, anchored to the sea floor. The mine explodes when it comes into contact with a ship."
  improved_naval_mines:0 "Magnetic Mine"

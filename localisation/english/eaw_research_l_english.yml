@@ -1,5 +1,5 @@
 ﻿l_english:
- paperclip_tech_bonus:0 ""Operation Paperclip" Bonus"
+ paperclip_tech_bonus: "Бонус від операції «Скріпка»"
  #excavation_tech:0 "Excavation Technologies Research Speed"# moved to replace folder
  naval_weaponry:0 "Naval Armaments"
  naval_artillery:0 "Naval Artillery"
@@ -52,7 +52,7 @@
  cat_mountaineers_doctrine: "Доктрина гірської піхоти"
  cat_marines_doctrine: "Доктрина морської піхоти"
  cat_paratroopers_doctrine: "Доктрина повітряного десанту"
- cat_racial_specforce_doctrine: "Доктрина расових спецвійськ"
+ cat_racial_specforce_doctrine: "Доктрина расових ССО"
 
  mechanised_infantry_c:0 "Advanced Waterproofing"
  mechanised_infantry_c_desc:0 "Taking lessons learned from amtracs and amtanks, we can help even our ordinary, non-marine light armor float. While no replacement for true marines, our troops will at least not be as helpless as they were."
@@ -491,7 +491,7 @@
  JET_FIGHTER_DOCTRINES_TITLE:0 "Jet Age Fighter Theory"
  JET_FIGHTER_DOCTRINES_DESC:0 "Advances in propulsion, radar, and missiles will forever change how we approach air combat."
 
- RACIAL_SPECFORCE_DOCTRINE_LABEL: "Расові спецвійська"
+ RACIAL_SPECFORCE_DOCTRINE_LABEL: "Расові сили спеціальних операцій"
  RACIAL_SPECFORCE_DOCTRINE_DESC:0 "Though modern weapons and tactics have steadily become more widespread, our own specialties are not to be forgotten."
  racial_specforce_start:0 "Elevate Our Best"
  racial_specforce_start_desc:0 "Evolutions of old traditions and equipment have proven to be very effective when officers young enough to consistently innovate are placed in command. It’s no wonder that even today our kind’s specialised combat roles manage to remain relevant, which is precisely why we have dedicated more internal resources to division reform."
