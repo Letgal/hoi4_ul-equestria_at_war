@@ -1,4 +1,6 @@
 # Український переклад *Equestria at War*
+Оновлено для версії моду *2.2.1.2*
+
 **Завершені файли:**
 + `countries`
 + `countries_griffonia`
