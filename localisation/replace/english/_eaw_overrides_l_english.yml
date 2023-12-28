@@ -590,7 +590,7 @@
   peoples_army: "Народна армія"
   peoples_army_desc:0 "The People's Army believes in the primacy of people over weapons, with superior motivation compensating for inferior technology, and enjoys widespread support from the civilian population.\n\n" # (!)
 
-  MANAGE_OCCUPIED_TERRITORIES: "Окуповані тер-рії"
+  MANAGE_OCCUPIED_TERRITORIES: "Окуповані землі"
   MANAGE_SUBJECTS: "Суб'єкти"
   MANAGE_EXILED_GOVERNMENTS: "Уряди у вигнанні"
 
