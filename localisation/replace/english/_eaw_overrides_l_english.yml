@@ -9,7 +9,7 @@
  #air_l
   AIRWING_CREATE_NO_MANPOWER: "§RНе можна створити авіакрило! Для нього недостатньо службових поні-ресурсів.§!"
   AIRWING_MISSION_TYPE_NAVAL_KAMIKAZE: "Самовбивчий удар"
-  AIRWING_MISSION_TYPE_NAVAL_KAMIKAZE_DESC: "Проводити самовбивчі удари проти ворожих кораблів у регіоні. Це значно збільшить шкоду, але також збільшить Ваші втрати."
+  AIRWING_MISSION_TYPE_NAVAL_KAMIKAZE_DESC: "Проводити самовбивчі удари проти ворожих кораблів у реґіоні. Це значно збільшить шкоду, але також збільшить Ваші втрати."
   CAN_USE_KAMIKAZE_PILOTS: "Може використовувати пілотів-самовбивць"
   kamikaze_focus_tooltip: "Дозволяє завдання §Y$AIRWING_MISSION_TYPE_NAVAL_KAMIKAZE$§! проти ворожих кораблів.\n"
   suicide_craft_desc: "Літак-самовбивця з ракетними двигунами."
@@ -344,9 +344,9 @@
   democratic_acceptance: "Прийняття дипломатичних дій гармоністів"
   fascism_drift: "Щоденна підтримка зверхності"
   fascism_acceptance: "Прийняття дипломатичних дій верхістів"
-  MODIFIER_LOCAL_MANPOWER: "Регіональні поні-ресурси"
-  MODIFIER_CONSCRIPTION_FACTOR_DESC: "Модифікатор кількості доступних із регіонів поні-ресурсів."
-  MODIFIER_CONSCRIPTION_TOTAL_FACTOR_DESC: "Модифікатор кількості доступних із регіонів поні-ресурсів."
+  MODIFIER_LOCAL_MANPOWER: "Реґіональні поні-ресурси"
+  MODIFIER_CONSCRIPTION_FACTOR_DESC: "Модифікатор кількості доступних із реґіонів поні-ресурсів."
+  MODIFIER_CONSCRIPTION_TOTAL_FACTOR_DESC: "Модифікатор кількості доступних із реґіонів поні-ресурсів."
   MODIFIER_AUTONOMY_MANPOWER_SHARE: "Вимога до поні-ресурсів суб'єкта"
   MODIFIER_AUTONOMY_MANPOWER_SHARE_DESC: "Кількість поні-ресурсів, потрібна для військ суб'єкта."
   MODIFIER_LOCAL_NON_CORE_MANPOWER: "Поні-ресурси в ненаціональній області"
@@ -422,7 +422,7 @@
   cat_torpedoes:0 "Torpedo technologies"
 
  #resistance_and_occupation_l
-  OCCUPIED_COUNTRY_MANPOWER_TOOLTIP: "У підконтрольних Вам регіонах є $NUM_TOTAL_MANPOWER|*H$ населення і з Вашим поточним законом й іншими модифікаторами Ви можете отримати доступ до $RATIO|.1H%$ ($NUM_ACCESSED_MANPOWER|*H$) цих поні-ресурсів."
+  OCCUPIED_COUNTRY_MANPOWER_TOOLTIP: "У підконтрольних Вам реґіонах є $NUM_TOTAL_MANPOWER|*H$ населення і з Вашим поточним законом й іншими модифікаторами Ви можете отримати доступ до $RATIO|.1H%$ ($NUM_ACCESSED_MANPOWER|*H$) цих поні-ресурсів."
   GARRISON_ENTRY_MANPOWER_TOOLTIP: "Поні-ресурси за придушення: $MANPOWER|*H$\nПоні-ресурси за дивізію: $MANPOWERDIV|*H$"
   FOREIGN_SUPPORT_TOOLTIP: "Поні-ресурси, надані іншими державами."
 

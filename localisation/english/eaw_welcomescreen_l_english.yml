@@ -16,8 +16,8 @@
 
  EAW_WS_TAB_1: "[Root.GetNameWithFlag]"
  EAW_WS_TAB_1_TT: "Історія й лор держави §Y[Root.GetNameDef]§!."
- EAW_WS_TAB_2: "Регіон"
- EAW_WS_TAB_2_TT: "Інформація про регіон."
+ EAW_WS_TAB_2: "Реґіон"
+ EAW_WS_TAB_2_TT: "Інформація про реґіон."
  EAW_WS_TAB_3: "£eaw_text£ Механіки"
  EAW_WS_TAB_3_TT: "Інформація про механіки £eaw_text£ §YEquestria at War§!."
  EAW_WS_TAB_4: "£eaw_text£ Список змін"
