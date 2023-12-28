@@ -5,6 +5,7 @@
 + `countries`
 + `countries_griffonia`
 + `countries_zebrica`
++ `country_DRG`
 + `eaw_adjacency_rules`
 + `eaw_autonomy`
 + `eaw_bookmarks_overrides`

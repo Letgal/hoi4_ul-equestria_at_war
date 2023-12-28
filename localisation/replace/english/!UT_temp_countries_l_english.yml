@@ -984,16 +984,6 @@
  DMT_communism_DEF: "Східна Республіка Псів"
  DMT_communism_ADJ: "Діамантогірськ"
 
-# country_DRG
- tribal_society2: "$tribal_society$"
- tribal_society3: "$tribal_society$"
- tribal_society4: "$tribal_society$"
-
- DRG_dragon_lord_ember: "Володарка драконів Ембер"
- DRG_lord_ruby: "Володар Рубі"
-
- DRG_lord_torch: "Володар Торч"
-
 # country_EQC
  EQC_fascism: "Новий Мейрленд"
  EQC_fascism_DEF: "Новий Мейрленд"
@@ -3296,7 +3286,7 @@
  CHN_ELF_military_occupation_democratic_ADJ: "Еквестрійсько-чейнджлінзьк"
 
 # country_MER
- MER_genevieve_voliere: "Женев'єв Вольєр"
+ MER_genevieve_voliere: "Женев'єва Вольєр"
 
 # country_MIT
  MIT_MEGALI_fascism: "Мегалі-Астеріон"
