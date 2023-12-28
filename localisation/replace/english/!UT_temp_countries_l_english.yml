@@ -4290,6 +4290,13 @@
  VED_daltanye_backstrom: "Далтаніе Бакстрьом" # Ø
  VED_gustav_garrensson: "Ґустав Ґарренссон"
 
+ VED_neutrality_party: "Дворянська рада"
+ VED_communism_party: "Скайнавські прихильники"
+ VED_democratic_party: "Династія Вінґстромів"
+ VED_fascism_party: "Дворянська рада"
+
+ VED_fascism_faction: "Ліга сильних"
+
 # country_WAR
  WAR_HIP_protectorate_fascism: "Гіпогрифська Варзена"
  WAR_HIP_protectorate_fascism_DEF: "Гіпогрифське територіальне королівство Варзена"
