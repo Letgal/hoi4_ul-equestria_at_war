@@ -140,17 +140,17 @@
  EQS_airfields_desc: "Щоби краще захистити серце нашої країни, ми мусимо збудувати додаткові аеродроми в центральних областях, щоби збільшити радіус покриття наших літаків. У період війни вони гарантуватимуть безпеку наших небес." # (&?)
  EQS_airfields2: "Аеродроми Південної Еквестрії"
  EQS_airfields2_desc: "Нам слід сполучити реґіони Еквестрії т. зв. повітряними мостами. У випадку війни нам доведеться захищати наші небеса; крім того, це збільшить радіус покриття та кількість тактичних варіантів для наших літаків." # (&?)
- # ((+))
  reinforce_border: "План укріплення кордону"
- reinforce_border_desc:0 "The changelings have become increasingly aggressive towards their neighbours, Equestria included. In light of this, we must commence fortification efforts along our common border. While our military experts do not think it will ensure victory on its own, it will be a delayer until we can rouse the rest of Equestria."
+ reinforce_border_desc: "Чейнджлінґи стають усе агресивнішими у відносинах із сусідами, в тому числі й до Еквестрії. В світлі цього, ми мусимо розпочати розвиток укріплень на нашому спільному кордоні. Хоча наші військові експерти вважають, що цього буде недостатньо, щоби забезпечити перемогу, вони затримають ворога, допоки ми не задіємо решту Еквестрії."
  Improve_relations: "Спільний ворог"
- Improve_relations_desc:0 "Queen Chrysalis is a scheming villain with every intent of conquering everything that stands in her path. We know this, and we shall make sure that the other nations of Equus know this as well!"
+ Improve_relations_desc: "Королева Кризаліс — підступна лиходійка, яка має намір завоювати все, що стоїть у неї на шляху. Ми це знаємо, і тому запевнимося, що інші держави Еквусу теж це знають!"
  Remove_Harmonic_Stagnation: "Оновити політичну систему"
- Remove_Harmonic_Stagnation_desc:0 "For the longest time, the practice of Harmony within our land has brought us peace and prosperity. It has, however, failed us and has allowed for war to come to our very doorstep. If we wish to survive this struggle, we must restructure our decentralized and democratic political system into something more... pragmatic."
+ Remove_Harmonic_Stagnation_desc: "Дуже довго дотримання принципів гармонії на нашій землі приносило нам мир і процвітання. Однак, гармонія нас підвела — вона дозволила війні стати в нас на порозі. Якщо ми хочемо вижити в цій боротьбі, ми мусимо перебудувати нашу децентралізовану та демократичну політичну систему в щось... прагматичніше."
  Suppress_bureaucracy: "Викорінити бюрократію"
- Suppress_bureaucracy_desc:0 "Our bloated bureaucratic system is simply not suited for war. We must streamline it, and make it much easier and quicker for us to implement changes and decisions. It is regrettable, but the war won't be won on triplicate paperwork."
+ Suppress_bureaucracy_desc: "Наша заплутана бюрократична система взагалі не готова до війни. Ми мусимо впорядкувати її та зробити впровадження змін і прийняття рішень простішим і швидшим. Шкода, але війну не виграєш клопотами з документами."
  Unleash_Equestrian_WarMachine: "Воєнна машина Еквестрії"
- Unleash_Equestrian_WarMachine_desc:0 "The enemy will soon learn to fear us, for they have awoken a giant. Our industry will come to life, and with it, the biggest and most powerful war machine this world has ever seen!"
+ Unleash_Equestrian_WarMachine_desc: "Ворог скоро навчиться боятися нас, адже він розбудив велетня. Наша промисловість оживе, а з нею й найбільша та найпотужніша воєнна машина, яку цей світ бачив!"
+ # ((+))
  luna_nova_academy: "[ROOT.GetLunaNovaFocusName]"
  luna_nova_academy_desc: "[ROOT.GetLunaNovaFocusDesc]"
  EQS_luna_nova_academy: "Академія «Луна-Нова»"
@@ -691,19 +691,19 @@
  equestria.21.d: "Схоже, що дракони образилися на нашу вимогу віддати Пустку. Ми отримали повідомлення, в якому мовиться, що вони ніколи не віддадуть Пустку мирно. Незадовго після цього, ми отримали більше звітів про драконів, що нападають на поля та села на Південному Сході. Звісно, ми знали про їхню часто жорстоку, грубу та войовничу природу, але ми навіть не думали, що вони зайдуть так далеко. Ризикувати війною через цю ситуацію просто немислимо, а за традиційною мораллю взагалі суперечливо. Можливо, поні та дракони занадто різні, щоби співіснувати мирно. Але якщо вони цього так хочуть, нам доведеться покінчити з їхніми нальотами єдиним способом, який вони зрозуміють."
  equestria.21.a: "Мир, шляхом війни."
 
+ equestria.22.t: "Нові генерали в військовому штабі"
+ equestria.22.d: "Ми може й віримо в мир, дружбу та гармонію, слід визнати, що ігнорувати наші збройні сили не можна. За наші ідеали слід боротися. Якщо ми хочемо жити в мирі, ми мусимо бути готові відстоювати цей мир. Звіт Доттед Лайна нам це вказав чітко. Але в цьому світі, нашого поточного офіцерсього складу недостатньо. Якщо опинимося в ситуації, де ми мусимо боротися за свої ідеали, за гармонію, ми мусимо бути готові зустріти це випробування. Хоча в нас є поні як принц Блублад, або наша нова зірка — Соарин, нам треба йти далі. Мабуть, це рішення було дивним, але деякі Елементи Гармонії, їхні друзі та декілька інших поні були зарекомендовані як потенційні генерали армії, готові служити своїй вітчизні в трудний час."
+ equestria.22.a: "Сподіваємося, вони нам стануть у нагоді."
+
+ equestria.25.t: "Диктатура пролетаріату" # Неповноцінна подія
+ equestria.25.d: "Ми успішно захопили владу в країні. Час нам захопити засоби виробництва та налаштувати економіку для роботи на народ."
+ equestria.25.a: "О, так."
+
+ equestria.26.t: "Оборона батьківщини"
+ equestria.26.d: "Магія Дружби вже довго була однією з визначних частин наших ідеалів. Покинути її було б майже немислимо. Вона нам пройти крізь стільки небезпечних ситуацій. Вона допомогла нам зрозуміти тих, кого колись називали поганцями, і допомогти їм розпочати їхні життя наново, як-от Старлайт Ґліммер, принцесі Луні та Тріксі. Але цей світ стає все небезпечнішим із плином часу. Наші домівки та наші ідеали в облозі. Як би це не було прикро, ми більше не можемо слідувати принципам Магії Дружби. Ми мусимо зміцнитися, і загартувати наші серця й тіла до твердості діаманта.\n\nАдже ми мусимо пам'ятати, за що боремося. Що ми захищаємо всіх невинних і слабких, хто не може постояти за себе. А якщо ми програємо, вони постраждають найбільше. Так, така наша резолюція — і ми мусимо гордо та стійко відстоювати ідею гармонії." # (&)
+ equestria.26.a: "Це рішення необхідне."
+
  # ((+))
- equestria.22.t:0 "New Generals in the Military Staff"
- equestria.22.d:0 "While we may believe in peace, friendship and harmony, we must recognize that we can't ignore our military. Our ideals must be fought for. Indeed, if we want to live peacefully, we must be ready to defend that peace. The Dotted Line Report made that very clear to us. But in this world, our current officer corps is not sufficient. If we find ourselves in a situation where we need to fight for our ideals, fight for harmony, we must be ready to meet that challenge. While we may have ponies like Prince Blueblood, or our rising star, Soarin, we must expand. While it may have been a strange measure, several of the Elements of Harmony, their friends and several other ponies have been reckoned to be prospective general officers and stand ready to serve their homeland in this time of need."
- equestria.22.a:0 "Let us hope they can cooperate."
-
- equestria.25.t:0 "Dictatorship of Proletariat" #dummied out
- equestria.25.d:0 "We've successfully seized the power in the country. It is time for us to seize the means of production and make the economy work for the people."
- equestria.25.a:0 "Yes."
-
- equestria.26.t:0 "Protection of the Homeland"
- equestria.26.d:0 "The Magic of Friendship was an important defining part of our ideals for a long time. It is almost unimaginable to give it up. It helped and carried us through so many dangerous situations. It helped us to understand those we once called villains and even help them begin their lives anew, like Starlight Glimmer, Princess Luna and Trixie. Yet this world is becoming increasingly more dangerous as the time fades. Our homeland and our ideals are under attack. As regrettable as it may be, we can no longer afford to follow the Magic of Friendship. We must steel ourselves, and harden our hearts and chests as hard as diamond.\n\nFor we must remember what we are fighting for. That we are defending all the innocent or weak who cannot defend themselves, and if we were to lose they would be the ones to suffer the most. Yes, this is our resolution and we must stand proud and firm in defence of harmony."
- equestria.26.a:0 "A necessary measure."
-
  equestria.31.t:0 "Stalliongradian Propaganda Campaign"
  equestria.31.d:0 "Recently, our intelligence officers have been alarmed by an increased number of Stalliongradian agents spreading their propaganda among our people. While we generally stand for the free exchange of ideas between ponies and don't interfere with what ideas our ponies talk about as long as they don't pose a direct threat to our nation and way of life, perhaps we ought to take a different approach this time and crack down on them. While we do not know what consequences our decision may have on the populace, we shouldn't make our decision lightly."
  equestria.31.a:0 "Crush them!"
