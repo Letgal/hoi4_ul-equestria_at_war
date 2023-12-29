@@ -148,8 +148,8 @@
   MAX_MANPOWER: "Максимум поні-ресурсів: "
   MANPOWER_TOTAL: "Усього поні-ресурсів: $MAX|0H*$"
   MANPOWER_USAGE: "Доступні поні-ресурси: $FREE|^2H$$EXILE$\nВикористовувані поні-ресурси:\nАрмія: $ARMY|^2H$\n    - Розміщені: $FIELD|^2H$\n    - У процесі навчання: $TRAINING|^2H$\nАвіація: $AIR|^2H$\nФлот: $NAVAL|^2H$\nГарнізони: $GARRISON|^2H$"
-  MANPOWER_CURRENT: "Усього поні-ресурсів: $TOTAL|^2H$\nДоступно $PERC|2%H$ усього населення національних земель ($ELIGIBLE|^H$)"
-  MANPOWER_CURRENT_MOBILIZATION: "Усього поні-ресурсів: $TOTAL|^2H$\nДоступно $PERC|2%H$ (близько $MOB|+3%$ мобілізуються щодня) усього населення національних земель ($ELIGIBLE|^H$)"
+  MANPOWER_CURRENT: "Усього поні-ресурсів: $TOTAL|^2H$\nДоступно $PERC|2%H$ усього населення осердних земель ($ELIGIBLE|^H$)" # CORE
+  MANPOWER_CURRENT_MOBILIZATION: "Усього поні-ресурсів: $TOTAL|^2H$\nДоступно $PERC|2%H$ (близько $MOB|+3%$ мобілізуються щодня) усього населення осердних земель ($ELIGIBLE|^H$)" # CORE
   MANPOWER_DESC: "Поні-ресурси походять від §Hпризовного населення§! країни та її окупованих територій і відображають істот, придатних до служби в збройних силах. Установіть жорсткіший §Hпризовний закон§!, щоби розширити призов населення і збільшити доступні поні-ресурси."
   MANPOWER_DIVISION: "Поні-ресурси в дивізії"
   MANPOWER_DIVISION_DESC: "§TКількість солдатів у цій §Hдивізії§!. Коли солдати гинуть, §Hдивізія§! отримує підкріплення з запасу §Hпоні-ресурсів§!.§!"
@@ -349,8 +349,8 @@
   MODIFIER_CONSCRIPTION_TOTAL_FACTOR_DESC: "Модифікатор кількості доступних із реґіонів поні-ресурсів."
   MODIFIER_AUTONOMY_MANPOWER_SHARE: "Вимога до поні-ресурсів суб'єкта"
   MODIFIER_AUTONOMY_MANPOWER_SHARE_DESC: "Кількість поні-ресурсів, потрібна для військ суб'єкта."
-  MODIFIER_LOCAL_NON_CORE_MANPOWER: "Поні-ресурси в ненаціональній області"
-  MODIFIER_GLOBAL_NON_CORE_MANPOWER: "Поні-ресурси в ненаціональних землях"
+  MODIFIER_LOCAL_NON_CORE_MANPOWER: "Поні-ресурси в неосердній області" # CORE
+  MODIFIER_GLOBAL_NON_CORE_MANPOWER: "Поні-ресурси в неосердних землях" # CORE
   MODIFIER_EQUIPMENT_CAPTURE: "Приріст співвідношення захоплення оснащення"
   MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR: "£prod_eff Зростання ефективності виробництва"
   MODIFIER_ARMY_SPEED_FACTOR: "Швидкість дивізій"
@@ -377,7 +377,7 @@
   MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY: " Бонус до атаки проти держави"
   MODIFIER_DEFENSE_BONUS_AGAINST_A_COUNTRY: " Бонус до захисту проти держави"
   MODIFIER_BREAKTHROUGH_BONUS_AGAINST_A_COUNTRY: " Бонус до прориву проти держави"
-  MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY_ON_ITS_CORES: " Атака на її національній землі"
+  MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY_ON_ITS_CORES: " Атака на її осердній землі" # CORE
   state_resource_oil: "Нафта"
   state_resource_aluminium: "Алюміній"
   state_resource_rubber: "Гума"

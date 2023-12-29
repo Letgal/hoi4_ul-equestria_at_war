@@ -248,7 +248,7 @@
  distrustful_relations:0 "Distrustful Relations"
  has_illiteracy: "Має §Yнеграмотність§!"
  not_has_illiteracy: "Не має §Yнеграмотність§!"
- war_plan_timeout:0 "Has enacted or cancelled §YWar Plan§! in the last §Y60§! days.\n"
+ war_plan_timeout: "§YВоєнний план§! було запроваджено або скасовано в межах останніх §Y60§! днів\n"
  initiated_border_conflict: "Ініціювали прикордонний конфлікт"
  nuked: "Радіаційне забруднення"
  demilitarized: "Держава була обеззброєна"
@@ -256,13 +256,13 @@
  established_embassy: "Засновано посольство"
  turned_down_marriage: "Відхилено пропозицію шлюбу"
  leaders_married: "Державний шлюб"
- crimes_against_harmony: "Щлочини проти гармонії"
+ crimes_against_harmony: "Злочини проти принципів гармонії"
  CHN_GRI_Friendship: "Дружба чейнджлінґів із грифонами"
  not_has_poverty: "Не має §Yбідність§!\n"
  is_griffon_empire_country_tt: "Початкова держава — §Yбудь-яка герцландська країна§!"
- is_core_of_griffon_empire_country_tt: "Є національною землею §Yбудь-якої герцландської країни§!"
+ is_core_of_griffon_empire_country_tt: "Є осердною землею §Yбудь-якої герцландської країни§!" # CORE
 
- any_controlled_state_is_coastal_tt:0 "Any controlled state:\n   Is coastal"
+ any_controlled_state_is_coastal_tt: "Будь-яка підконтрольна область:\n   Прибережна"
 
  RIV_hates_the_empire: "Ненавидить Імперію Грифонів"
  RIV_annexed_the_north_tt: "§H[event_target:RivFed.GetName]§! установила контроль над Північчю.\n"
