@@ -4141,7 +4141,7 @@
  eqs_war_admin_desc:0 "Frivolity and excess have no room in Equestria for the time being; funding and priority is to be given towards all matters that defend the state against incursion. Furthermore, projects that were intended for a more peaceful time have been suspended, and the ponies managing them have been shuffled into a different branch or conscripted."
  eqs_war_admin_extreme: "Мілітаризована бюрократія"
  eqs_war_admin_extreme_desc:0 "To further increase the efficiency of decision making and implementation, bureaucracy has been supplemented with military advisors, or in some cases, completely taken over by them. The excesses of pre-war times must not be repeated to ensure Equestrian victory."
- eqs_order_idea: "Гармонія — в порядку"
+ eqs_order_idea: "Гармонія — в порядку" # (&)
  eqs_order_idea_desc:0 "Everypony needs to be in the right place to protect Equestria, which primarily includes the extension of working hours, an increased drafting campaign, and spreading an adequate message of unity and devotion for the ponies to accept that change has come."
 
  EQS_blueblood_allowed: "Уведено воєнний стан"

@@ -21,7 +21,7 @@
 + `eaw_musictoggle`
 + `eaw_newspaper_headers` (без змін)
 + `eaw_old_music` (без змін)
-+ ~~`eaw_pony_techs`~~ (файл було оновлено)
++ `eaw_pony_techs`
 + `eaw_starting_warning_events`
 + `eaw_unitnames` (без змін)
 + `focus_filter_tag_overrides`
