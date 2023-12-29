@@ -44,7 +44,7 @@
 
  ANG_black_empire_fascism: "Священна Імперія Грифонів"
  ANG_black_empire_fascism_DEF: "Священна Імперія Грифонів"
- ANG_black_empire_fascism_ADJ: "Holy Griffonian"
+ ANG_black_empire_fascism_ADJ: "Священн"
  ANG_black_empire_democratic: "Республіка Грифонів"
  ANG_black_empire_democratic_DEF: "Республіка Грифонів"
  ANG_black_empire_democratic_ADJ: "Грифонськ"
@@ -937,6 +937,33 @@
  CYA_citystate_fascism_ADJ: "Фіміавськ"
 
 # country_DED
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  DED_necromancer_council: "Некромантська рада"
+  DED_rosa_maledicta: "Роза Маледикта"
+  #POLITICS_ROSAINITIAL_DESC:0 "Rosa Maledicta is one of many necromancers who are struggling for control over the fractured nation which is the Dread League. Rosa has recently risen as the de-facto leader of the necromancer council, but in the fickle lands of darkness that may well quickly change. Rosa rules with an iron fist, crushing all opposition with ruthless aggression and tyranny. Once a unicorn living in the peaceful lands of Equestria, she has been called to the land of the dead by promises of power and justice. She was never happy in Equestria. Ponies rejected her dark talents and she has been betrayed by her old pony friends more times than she can count. Never again. If the world will not love her, the world will learn to fear the name of Rosa Maledicta."
+  DED_rosa_maledicta_the_queen_of_blood: "Роза Маледикта, Королева Крові"
+  #POLITICS_ROSAVAMPIRE_DESC:0 "While the beauty of some ponies is a blissful dream, Rosa's is much more akin to a dark yet sensual nightmare. She flaunts her new vampiric skin quite readily and her harsh tyranny has cooled somewhat. One might be mistaken into thinking Rosa has become much more agreeable. One would be very wrong. Rosa is just as forceful and tyrannical as ever, but instead of almost desperate anger. She struts. There is a quiet sensual confidence about her which pulls others to her way of thinking. She has learned the vampire arts of influence well, and wields it masterfully. She is Rosa Maledicta the Queen of Blood. She comes for your soul and there will be no negotiation."
+  DED_rosa_maledicta_the_queen_of_bones: "Роза Маледикта, Королева Кісток"
+  #POLITICS_ROSALICH_DESC:0 "This monster is a far cry from the unicorn of old. Rosa Maledicta has enacted a dark ritual and turned herself into a ferocious lich. With her phylactery well hidden, she is now pulsing with dark power. Her seeming invincibility makes her cocky and aggressive. If she was ruthless before, now she has redefined the meaning of the word. Rosa seems angrier than before, quick to take life and raise it again in her service. Any remark about her monstrous appearance is quickly rewarded with death and she strides with a wicked confidence. No longer does she need to harsh punishments and harsher threats to keep her fellow necromancers in line, now she simply does such things for the pleasure. She is Rosa Maledicta the Queen of Bones. She comes for your soul and there will be no negotiation."
+  DED_queen_rubra: "Королева Рубра"
+  DED_skellinore: "Скеллінора"
+  DED_comrade_salikov: "Товариш Саліков"
+
+  # Генерали
+  DED_volgar_bloodhoof: "Волґар Бладгуф"
+  DED_windrunner: "Віндраннер"
+  DED_vincent_firestorm: "Вінсент Файрсторм"
+  DED_sombra_oscura: "Сомбра Оскура"
+  DED_muzius_the_hallowed: "Муцій Свячений"
+  DED_kadai_montanya: "Кадаї Монтанья"
+  DED_fractured_note: "Фрекчерд Ноут"
+  DED_tanzor: "Танзор"
+  DED_mister_doodets: "Містер Дудець"
+  DED_hell_van_moltke: "Гелл ван Мольтке"
+  DED_shrieking_banshee: "Шрікин Банші"
+  DED_otto_von_bridlemark: "Отто фон Брайдлмарк"
+
  magehold: "Мейджголд"
  magehold_lar: "$magehold$"
 
@@ -1351,6 +1378,93 @@
  SRS_FAW_puppet_communism: "Грифонячий Північний Реґіон"
  SRS_FAW_puppet_communism_DEF: "Грифонячий Північний Реґіон"
  SRS_FAW_puppet_communism_ADJ: "Північногрифоняч"
+
+ ### ПАРТІЇ ###
+  FAT_neutrality_party: "НРП-П"
+  FAT_neutrality_party_long: "Національна республіканська партія — праве крило"
+  FAT_neutrality_party_independent: "РКП"
+  FAT_neutrality_party_independent_long: "Республіканська конституціоналістська партія"
+  FAT_communism_party: "НРП-Л"
+  FAT_communism_party_long: "Національна республіканська партія — ліве крило"
+  FAT_communism_party_independent: "ГСП"
+  FAT_communism_party_independent_long: "Грифонська соціалістична партія"
+  FAT_democratic_party: "НРП-Ц"
+  FAT_democratic_party_long: "Національна республіканська партія — центральне крило"
+  FAT_democratic_party_independent: "СДП/ЛДГП"
+  FAT_democratic_party_independent_long: "Соціал-демократична партія/Ліберально-демократична гармонійна партія"
+  FAT_democratic_party_sdp: "СДП"
+  FAT_democratic_party_sdp_long: "Соціал-демократична партія"
+  FAT_democratic_party_ldhp: "ЛДГП"
+  FAT_democratic_party_ldhp_long: "Ліберально-демократична гармонійна партія"
+  FAT_fascism_party: "ГНРФ"
+  FAT_fascism_party_long: "Грифонський національний революційний фронт"
+  FAT_mao_party: "(Кф)ОСРФ"
+  FAT_mao_party_long: "Клаудберійська філія Об'єднаного соціалістичного революційного фронту"
+  FAW_neutrality_party: "Плюмен'ярові реставраціоністи"
+  FAW_communism_party: "ГСНП"
+  FAW_communism_party_long: "Грифонська соціалістична народна партія"
+  FAW_democratic_party: "НРП"
+  FAW_democratic_party_long: "Національна республіканська партія"
+  FAW_fascism_party: "Військова хунта"
+  FAW_suntail_party: "ГНРФ"
+  FAW_suntail_party_long: "Грифонський національний революційний фронт"
+  FAW_suntail_nonaligned_party: "Національна республіканська партія"
+  FAW_UK_neutrality_party: "Єдиний список/Партія цісаря"
+  FAW_UK_fascism_party: "Райхсліга"
+  FAW_UK_democratic_party: "Ліберальна партія"
+  FAT_GRI_communism_party: "СНП"
+  FAT_GRI_communism_long_party: "Соціалістична народна партія"
+  FAT_GRI_fascism_party: "ГНРФ"
+  FAT_GRI_fascism_party_long: "Грифонський національний революційний фронт"
+  FAT_GRI_democratic_party: "Національна республіканська партія"
+  FAT_GRI_neutrality_party: "Консервативна партія"
+  GRI_FAT_fascism_party: "НРФ"
+  GRI_FAT_fascism_party_long: "Національний революційний фронт"
+  GRI_FAT_neutrality_party: "Імперські лоялісти"
+  GRI_FAT_neutrality_party_long: "Імперські лоялісти"
+  GRI_FAT_democratic_party: "НРП"
+  GRI_FAT_democratic_party_long: "Національна республіканська партія"
+  GRI_FAT_communism_party: "ОСРФ"
+  GRI_FAT_communism_party_long: "Об'єднаний соціалістичний революційний фронт"
+  FAT_NTR_fascism_party: "Республіканська адміністрація"
+  FAT_NTR_neutrality_party: "Республіканська адміністрація"
+  FAT_NTR_democratic_party: "Республіканська адміністрація"
+  FAT_NTR_communism_party: "Республіканська адміністрація"
+
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  FAT_alexander_kemerskai: "Александер Кемерскай"
+  FAT_reinhard_suntail: "Райнгард Сантейл"
+  FAT_rikard_astler: "Рікард Астлер"
+  FAT_moe_sparrowsbane: "Мо Сперроузбейн"
+  FAT_cloudbury_general_congress: "Генеральний конгрес Клаудбері"
+  FAT_tobias_sivenhof: "Тобіас Сівенгоф"
+  FAT_stefano_arivelli: "Стефано Арівеллі"
+  FAT_provisional_council: "Тимчасова рада"
+  FAW_oskar_i: "Оскар I"
+  FAW_otto_iii: "Отто III"
+  FAW_military_council: "Військова рада"
+  FAW_corbin_redfluff: "Корбін Редфлафф"
+
+  # Генерали
+  FAT_alexander_kemerskai_jr: "Александер Кемерскай-молодший"
+  FAT_schnabel_sunglider: "Шнабель Санґлайдер"
+  FAT_claus_rosewing: "Клаус Роузвінґ"
+  FAT_chiron_stormfeather: "Кайрон Стормфезер"
+  FAT_max_whitefeather: "Макс Уайтфезер"
+  FAT_otto_gremmersen: "Отто Ґреммерсен"
+  FAT_jonas_hafslund: "Юнас Гафслунд"
+  FAT_walter_emerich: "Вальтер Емеріх"
+  FAT_simon_rigstag: "Сімон Ріґстаґ"
+  FAT_reinhard_monchel: "Райнгард Монкель"
+  FAT_barth_sievert: "Барт Сіверт"
+  FAT_erik_schroener: "Ерік Шрьонер" # Ø
+  FAW_clemont_dentrad: "Клемонт Дентрад"
+  FAW_joachim_the_shark: "Йоахім Акула"
+
+  # Адмірали
+  FAT_otto_saxhagenplumenjar: "Отто Саксгаґен-Плюмен'яр"
+  FAT_hermann_hassentelf: "Герман Гассентельф"
 
 # country_FAT_aprilfool
  FAT_APRILFOOLS_fascism: "Єресь Донкло"
@@ -2454,6 +2568,26 @@
  HIP_SIR_adagia: "Адажія"
  HIP_SIR_vp_adagia: "Адажія"
 
+# country_HLR
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  HLR_the_senate: "Сенат"
+  HLR_manfred_von_drak: "Манфред фон Драк"
+  HLR_headmaster_torygg: "Старший магістр Торіґґ"
+  HLR_interim_government: "Перехідний уряд"
+  HLR_ranalf_talons: "Ранальф Талонс"
+
+  # Генерали
+  HLR_ostwald_vind: "Ествальд Вінд" # Ø
+  HLR_william_steel_beak: "Вільям Сталевий Дзьоб"
+  HLR_goldheart: "Ґолдгарт"
+  HLR_archibald_the_faithful: "Арчибалд Вірний"
+  HLR_wilhelm_the_shy: "Вільгельм Соромливий"
+  HLR_tristian_of_trotterdam: "Трістіан Троттердамський"
+  HLR_sally_whitemane: "Саллі Уайтмейн"
+  HLR_platinum_cloudtail: "Платинум Клаудтейл"
+  #HLR_platinum_cloudtail_desc:0 "§YBorn§!: February 16th, 983 ALB\n\n§YBiography§!: Platinum Cloudtail was born in the town of Goldmire, raised to a generations-long family of carpenters who constructed for a living. He was an outlier among many ponies, seeking out a life of adventure and purpose beyond the towns. From time to time he’d overhear stories and rumors about holy figures to the north battling against the undead. Once he came of age he equipped himself with what he could before setting off to seek these individuals out.\n\nHe traveled far enough north to find that at least half the rumors were true, there were undead roaming throughout the winter wasteland. Alone in the wilderness he fought off the undead by turning the forest into a labyrinth of booby traps and fortifications. Enough reports of the occasional commotion gained enough attention to warrant an investigation by the local garrison. A small patrol led by the garrison’s leader, Skyflight Cloudtail, set out to see what the trouble was. Platinum was unable to prevent them from falling victim to the indiscriminate traps, but fortunately only one griffon had been severely injured. Platinum reached the group and after a tense situation managed to convince Skyflight to let him lead his group back out of the trapped area.\n\nOnce guided out of the forest Platinum allowed himself to be arrested and brought in for interrogation. He explained his story of seeking out the Order in hopes of finding a higher purpose in life and that he never intended for anyone to get hurt. Skyflight knew that if he turned Platinum away he may just end up off the leash and it would be a waste of such potential talent if he were to have him locked away in a cell.\n\nPlatinum was given an offer to repay what he did by enlisting among his men and serving the Order to which was accepted jubilantly. Starting from the bottom he worked his way up the ranks with each passing year, developing an unorthodox method of warfare by using guerilla tactics to slowly whittle down the enemy’s strength and break their morale. To show homage to the man who gave him the opportunity he had been looking for he adopted the last name of Cloudtail as his own."
+
 # country_HLQ
  HLQ_duchy_fascism: "Герцогство Геллквілл"
  HLQ_duchy_fascism_DEF: "Герцогство Геллквілл"
@@ -2672,6 +2806,29 @@
  griffonian_union: "Грифонський соціалістичний альянс"
  aquileian_union: "Аквелійський соціалістичний альянс"
  griffonian_democratic_faction: "Антанта"
+
+ ### ПАРТІЇ ###
+  JER_neutrality_party: "Династія Дискрет"
+  JER_neutrality_party_long: "Династія Дискрет"
+  JER_communism_party: "ПАР-П"
+  JER_communism_party_long: "Партія аквелійських робітників — помірні"
+  JER_democratic_party: "МФА"
+  JER_democratic_party_long: "Молодіжний фронт Аквелії"
+  JER_fascism_party: "ПРА"
+  JER_fascism_party_long: "Патріотичний рух Аквелії"
+  JER_communism_party_r: "ПАР-Р"
+  JER_communism_party_long_r: "Партія аквелійських робітників — радикали"
+  JER_national_party_name: "НПА"
+  JER_national_party_name_long: "Національна партія Аквелії"
+ 
+  JER_pan_griffonian_neutrality_party_name: "NRP"
+  JER_pan_griffonian_neutrality_party_name_long: "Національна республіканська партія"
+  JER_pan_griffonian_democratic_party_name: "МФГ"
+  JER_pan_griffonian_democratic_party_name_long: "Молодіжний фронт Грифонії"
+  JER_pan_griffonian_communism_party_name: "ГНП"
+  JER_pan_griffonian_communism_party_name_long: "Грифонська народна партія"
+  JER_pan_griffonian_fascism_party_name: "ГНА"
+  JER_pan_griffonian_fascism_party_name_long: "Грифонська націоналістична асоціація"
 
 # country_JER_assembly
  JHZ_fascism: "Герцландська республіка"
@@ -3909,6 +4066,18 @@
  SIC_MIT_bridge: "Еритсько-кеттський міст"
 
 # country_SRS
+ ### ПАРТІЇ ###
+  SRS_neutrality_party: "Скайнавська військова хунта"
+  SRS_neutrality_party_provisional_government: "Тимчасовий уряд Скайнавії"
+  SRS_communism_party: "ОСРФ"
+  SRS_communism_party_long: "Об'єднаний соціалістичний революційний фронт"
+  SRS_democratic_party: "ОСРФ-Г"
+  SRS_democratic_party_long: "Об'єднаний соціалістичний революційний фронт – гармоністи"
+  SRS_fascism_party: "СНР"
+  SRS_fascism_party_long: "Сканавський національний рух"
+  SRS_communism_communal_league: "Ліга скайнавських комун"
+  SRS_sickleclaws_clique: "Кліка Сиклкло"
+
  SRS_dominik_kingston: "Домінік Кінґстон"
  SRS_gilbert_lafayette: "Жільбер Лафаєтт"
  SRS_gabriella_gentlewing: "Ґабріелла Джентлвінґ"

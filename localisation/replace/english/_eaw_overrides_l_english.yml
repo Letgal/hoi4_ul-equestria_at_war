@@ -94,7 +94,7 @@
   FE_DIFFICULTY_VERY_HARD_TOOLTIP:1 "§L«Today I learned what the most important quality really is. A certain kind of spirit. A stick-to-it-iveness. A never-give-up, can-do attitude, that's the mark of a real winner!»§!" # (!)
   FE_HISTORICAL_TOOLTIP: "Держави, керовані ШІ, намагатимуться обирати §Hнаціональні фокуси§! в історичному порядку. Оберіть це, якщо Ви хочете, щоб країни ближче слідували своїм історичним шляхам. Деякі правила гри будуть несумісні з історичним ШІ."
   BYPASS_FOCUS_TRIGER: "Фокус буде пропущений, якщо:"
-  POLITICS_NOELECTIONS: "Вибори — за подіями"
+  POLITICS_NOELECTIONS: "Вибори: за подіями"
   POLITICS_NEXT_ELECTION: "Вибори: $DATE$"
   UNIT_LEVEL_0: "Ненавчені I"
   UNIT_LEVEL_1: "Ненавчені II"
