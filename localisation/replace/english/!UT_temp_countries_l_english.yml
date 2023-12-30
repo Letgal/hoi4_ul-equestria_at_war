@@ -1,5 +1,15 @@
 ﻿l_english:
 # country_ABY
+ ### ПАРТІЇ ###
+  ABY_neutrality_party: "Роялісти-Т"
+  ABY_neutrality_party_long: "Роялісти-традиціоналісти"
+  ABY_communism_party: "Розгнівані раби"
+  ABY_communism_party_long: "Розгнівані раби"
+  ABY_democratic_party: "Роялісти-П"
+  ABY_democratic_party_long: "Роялісти-прогресивісти"
+  ABY_fascism_party: "Династія Кітве"
+  ABY_fascism_party_long: "Династія Кітве"
+
  ABY_taile_sehissie_clawomonid: "Тейле Сичассіє Клоомонід"
 
 # country_ANG
@@ -3093,6 +3103,16 @@
  KAT_dread_empire_communism_ADJ: "Багрян"
 
 # country_KLG
+ ### ПАРТІЇ ###
+  KLG_neutrality_party: "Порядна мафія"
+  KLG_neutrality_party_long: "Порядні члени мафії"
+  KLG_communism_party: "Ревізіоністи"
+  KLG_communism_party_long: "Вигнанці-ревізіоністи зі Сталліонграду"
+  KLG_democratic_party: "ПДСВТ"
+  KLG_democratic_party_long: "Партія дружби, свободи та вільної торгівлі"
+  KLG_fascism_party: "Жорстока мафія"
+  KLG_fascism_party_long: "Жорстокі члени мафії"
+
  KLG_verko:0 "Verko"
  KLG_capper:0 "Capper"
  KLG_hammer_steel:0 "Hammer Steel"

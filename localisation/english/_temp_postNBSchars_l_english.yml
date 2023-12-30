@@ -15,15 +15,13 @@ ASS_donkey_kong:0 "Donkey Kong"
 ASS_eeyore:0 "Eeyore"
 ASS_estorell:0 "Estorell"
 
-
-BRS_mikalla_i:0 "Mikalla I"
+BRS_mikalla_i: "Мікалла I"
 
 CGI_khan_zaghu:0 "Khan Zaghu"
 
-CTL_benjen_v:0 "Benjen V"
-CTL_council_of_three:0 "Council of Three"
-CTL_dannya_shah:0 "Dannya Shah"
-
+CTL_benjen_v: "Бенджен V"
+CTL_council_of_three: "Рада трьох"
+CTL_dannya_shah: "Даннія-шах"
 
 DEL_high_priest_xuwicha:0 "High Priest Xuwicha"
 
@@ -47,9 +45,9 @@ GIF_king_dzinashi_name:0 "King Dzinashi III"
 GIF_queen_rungano_name:0 "Queen Rungano V"
 GIF_mhizha_name:0 "Mhizha"
 
-GYZ_gyz_windborn:0 "Gyz Windborn"
+GYZ_gyz_windborn: "Ґіз Віндборн"
 
-HIN_maharaja_rucerva:0 "Maharaja Rucerva"
+HIN_maharaja_rucerva: "Магараджа Руцерва"
 
 HMR_jawhara_bint_almas:0 "Jawhara bint Almas"
 
@@ -133,37 +131,37 @@ ROA_flavonius_sibakabaka:0 "Flavonius Sibakabaka"
 ROA_matshana:0 "Matshana"
 ROA_mbutu_valcostus:0 "Mbutu Valcostus"
 
-SAM_herra_manfred_vanisto:0 "Herra Manfred Vanistö"
+SAM_herra_manfred_vanisto: "Герра Манфред Ваністьо" # Ø
 
-SDC_grand_prince_faisal_ibn_saddle:0 "Grand Prince Faisal ibn Saddle"
-SDC_muhaimid_bin_hamza:0 "Muhaimid bin Hamza"
-SDC_zahra_al_malik:0 "Zahra Al Malik"
-SDC_yazid_al_hudhail:0 "Yazid Al Hudhail"
+SDC_grand_prince_faisal_ibn_saddle: "Великий принц Фейсал ібн Сідл"
+SDC_muhaimid_bin_hamza: "Мухаїмід бін Гамза"
+SDC_zahra_al_malik: "Захра ель-Малік"
+SDC_yazid_al_hudhail: "Єзід ель-Худгайль"
 
-SDF_grand_prince_faisal_ibn_saddle:0 "Grand Prince Faisal ibn Saddle"
-SDF_muhaimid_bin_hamza:0 "Muhaimid bin Hamza"
-SDF_zahra_al_malik:0 "Zahra Al Malik"
-SDF_yazid_al_hudhail:0 "Yazid Al Hudhail"
+SDF_grand_prince_faisal_ibn_saddle: "Великий принц Фейсал ібн Сідл"
+SDF_muhaimid_bin_hamza: "Мухаїмід бін Гамза"
+SDF_zahra_al_malik: "Захра ель-Малік"
+SDF_yazid_al_hudhail: "Єзід ель-Худгайль"
 
-SDL_grand_prince_faisal_ibn_saddle:0 "Grand Prince Faisal ibn Saddle"
-SDL_muhaimid_bin_hamza:0 "Muhaimid bin Hamza"
-SDL_zahra_al_malik:0 "Zahra Al Malik"
-SDL_yazid_al_hudhail:0 "Yazid Al Hudhail"
+SDL_grand_prince_faisal_ibn_saddle: "Великий принц Фейсал ібн Сідл"
+SDL_muhaimid_bin_hamza: "Мухаїмід бін Гамза"
+SDL_zahra_al_malik: "Захра ель-Малік"
+SDL_yazid_al_hudhail: "Єзід ель-Худгайль"
 
-SDS_grand_prince_faisal_ibn_saddle:0 "Grand Prince Faisal ibn Saddle"
-SDS_muhaimid_bin_hamza:0 "Muhaimid bin Hamza"
-SDS_zahra_al_malik:0 "Zahra Al Malik"
-SDS_yazid_al_hudhail:0 "Yazid Al Hudhail"
+SDS_grand_prince_faisal_ibn_saddle: "Великий принц Фейсал ібн Сідл"
+SDS_muhaimid_bin_hamza: "Мухаїмід бін Гамза"
+SDS_zahra_al_malik: "Захра ель-Малік"
+SDS_yazid_al_hudhail: "Єзід ель-Худгайль"
 
-SLC_stormleucus_icepaw:0 "Ibyz Icepaw"
+SLC_stormleucus_icepaw: "Ібіз Айспо"
 
-SPL_mahaan_ghanusson:0 "Mahaan Ghanusson"
+SPL_mahaan_ghanusson: "Магаан Гануссон"
 
-STM_ikvus_hailstorm:0 "Ikvus Hailstorm"
+STM_ikvus_hailstorm: "Іквус Гейлсторм"
 
 TAI_priestess_dara:0 "Priestess Dara"
 
-THU_tenzfur_thunderbringer:0 "Tenzfur Thunderbringer"
+THU_tenzfur_thunderbringer: "Тензфур Тандербринґер"
 
 TSV_phaenon_vollenhoven:0 "Phaenon Vollenhoven"
 TSV_general_ceraon_hattingh:0 "General Ceraon Hattingh"
