@@ -150,16 +150,16 @@
  Suppress_bureaucracy_desc: "Наша заплутана бюрократична система взагалі не готова до війни. Ми мусимо впорядкувати її та зробити впровадження змін і прийняття рішень простішим і швидшим. Шкода, але війну не виграєш клопотами з документами."
  Unleash_Equestrian_WarMachine: "Воєнна машина Еквестрії"
  Unleash_Equestrian_WarMachine_desc: "Ворог скоро навчиться боятися нас, адже він розбудив велетня. Наша промисловість оживе, а з нею й найбільша та найпотужніша воєнна машина, яку цей світ бачив!"
- # ((+))
  luna_nova_academy: "[ROOT.GetLunaNovaFocusName]"
  luna_nova_academy_desc: "[ROOT.GetLunaNovaFocusDesc]"
- EQS_luna_nova_academy: "Академія «Луна-Нова»"
- EQS_luna_nova_academy_desc:0 "With more funding and subsidies, the Luna Nova Academy will be able to fund more, bigger projects and contribute more to our national research development. Princess Luna will be undoubtedly happy to see more ponies attend her school."
+ EQS_luna_nova_academy: "Академія Луна-Нови"
+ EQS_luna_nova_academy_desc: "Отримавши більше коштів і субсидій, Академія Луна-Нови зможе фінансувати більше масштабніших проєктів і зробити більший внесок у науковий розвиток держави. Принцеса Луна, без сумніву, буде рада бачити більше поні в її школі."
  Fund_public_schools: "Державні школи"
- Fund_public_schools_desc:0 "More funding for public schools means smarter, better educated ponies: ponies who would surely contribute to research in one way or another."
+ Fund_public_schools_desc: "Збільшене фінансування державних шкіл означає розумніші, освіченіші поні — поні, які так чи інакше зможуть зробити внесок у науку."
  CTL_center_of_research: "[ROOT.GetCenterOfResearchFocusName]"
- CTL_center_of_research_desc:0 "With a new, educated society and youth, [ROOT.Capital.GetName] shall become the very centre of education, research and innovation. Equestria's best and brightest will flock towards [ROOT.Capital.GetName], making cooperation much easier."
+ CTL_center_of_research_desc: "Для нової, освіченої молоді — ба, для суспільства взагалі — [ROOT.Capital.GetName] стане головним центром освіти, науки й інновацій. Найясніші уми Еквестрії будуть з'їжджатися в місто [ROOT.Capital.GetName], що зробить співпрацю легшою."
  EQS_CTL_center_of_research: "Дослідницький центр у м. [ROOT.Capital.GetName]"
+ # ((+))
  Magcial_studies: "Дослідження магії"
  Magcial_studies_desc:0 "Uniting the various branches of Equestrian academia, we are improving our knowledge in magic and making breakthroughs its related fields. There are no limits to what we can achieve with magic."
  magical_training: "Загальні тренування магії"
@@ -201,7 +201,7 @@
  arms_potential: "«$star_energy$» в Толл-Тейлі"
  arms_potential_desc: "Корпорація «$star_energy$» оголосила, що вона планує розширювати свої філії в місті Толл-Тейл. Враховуючи нещодавні події, еквестрійський уряд розглядає модернізацію та розвиток виробнтицтва зброї завданням номер один, а тому розширення та подальший розвиток збройних фабрик у реґіоні буде фінансуватися за рахунок державного бюджету."
  eqs_support_status_quo: "Зберегти статус-кво"
- eqs_support_status_quo_desc:0 "What some historians call the Pax Celestia has remain a constant over the past thousand years, even as fortunes rose and waned around the wider world. This is a clear fact, what the Princess has built was made to last, and our efforts should be towards maintaining her golden mean."
+ eqs_support_status_quo_desc: "Поняття, називане істориками «Пакс Селестією», залишалося незмінним протягом останньої тисячі років — навіть коли життя починалися та скінчувалися по всьому світі. Ясний факт: все, що збудувала принцеса, вона збудувала на віки; наші зусилля потрібно спрямувати на підтримання її золотої середини."
  eqs_support_harmony: "Підтримати гармонію"
  eqs_support_harmony_desc:0 "We cannot emphasise our support of Friendship and Harmony enough. We will forever be the beacon of Harmony to not just our neighbours, but to the entire world! This will ensure peace, prosperity and equality for everycreature."
  send_envoy_yak: "Посол Пінкі Пай"
@@ -209,7 +209,7 @@
  shelter_velvet: "Дати притулок королеві Вельвет"
  shelter_velvet_desc:0 "The corruption and brutality of the Olenian government is a poorly kept secret. If we wish to put a stop to its actions, we must save Queen Velvet from the fangs of her own government before it is too late. From there, we can plan our next steps to deal with the Olenian problem, together."
  harmony_lean: "Підтримати гармонію в Як'якистані"
- harmony_lean_desc:0 "With closer and official ties to the Yaks, it is about time to support Prince Rutherford generously and ensure friendly relations are maintained between our nations. "
+ harmony_lean_desc: "Тепер, коли ми встановивили офіційні зв'язки з яками, настав час щедро підтримати принца Резерфорда та забезпечити підтримання дружніх відносин між нашими державами."
  pinkie_pie: "Заснувати посольство"
  pinkie_pie_desc: "Маючи такі хороші відносини з яками, ми можемо заснувати постійне посольство в столиці яків — Якистауні, що тільки збільшить взаєморозуміння та співпрацю."
  guarantee_independenceYAK: "Гарантувати незалежність"
@@ -620,9 +620,9 @@
  equestria.4.d_sol: "У минулому, як це надто часто бувало, члени багатих родин користувалися сімейними багатствами, щоби купити своєму жереб'яті місце в Школі. Зачасту це призводило до того, що учні не цінували можливість учитися тут і це знижувало рівень оцінок. Крім того, це дозволяло моральній гнилі потроху проникати в наше суспільство. Це ставить небажаний прецедент, який наша Імператриця більше не може терпіти. Сьогодні Її Імперська Величність погодилася з пропозицією профінансувати Школу для обдарованих єдинорогів безпосередньо з імперської скарбниці у формі щорічних вливань коштів. Ці нові кошти будуть використані для оновлення класних кімнат й інших шкільних приміщень, а також для придбання кращого обладнання. Це також додасть Короні влади та контролю над шкільною системою. Починаючи з цього семестру, школа крім акценту на магію також прищіплюватиме релігійні та моральні цінності. Це запевнить, що наступне покоління виросте чесними та зразковими громадянями суспільства."
  equestria.4.a: "Чудово."
 
- equestria.5.t: "Академія «Луна-Нова»"
- equestria.5.d: "Сьогодні те, що колись було нездійсненною мрією в головах дослідників академії «Луна-Нова», стало реальністю — стало це можливо завдяки великим вливанням коштів Корони. Академія «Луна-Нова» перемістилася зі свого старого кампуса в новіший, сучасніший і заснований на магії. Розміщені в старій годинниковій вежі поблизу Понівілля, нові лабораторії та навчальні зали простягаються вглиб під землю, залишаючи на поверхні та під землею кілька випробувальних секторів. Із цими новими приміщеннями, стало можливим дістати старі винаходи, що припадали пилюкою від нестачі коштів, площі або того й іншого, та почати нові випробування. І в залежності від рішення згори, усе це, мабуть, буде завершено в межах року.\n\nОчікується, що покровителька академії, Ї. В. Принцеса Луна влаштує сюди візит у найближчому майбутньому."
- equestria.5.t_sol: "Академія «Сол-Інвікта»"
+ equestria.5.t: "Академія Луна-Нови"
+ equestria.5.d: "Сьогодні те, що колись було нездійсненною мрією в головах дослідників Академії Луна-Нови, стало реальністю — стало це можливо завдяки великим вливанням коштів Корони. Академія Луна-Нови перемістилася зі свого старого кампуса в новіший, сучасніший і заснований на магії. Розміщені в старій годинниковій вежі поблизу Понівілля, нові лабораторії та навчальні зали простягаються вглиб під землю, залишаючи на поверхні та під землею кілька випробувальних секторів. Із цими новими приміщеннями, стало можливим дістати старі винаходи, що припадали пилюкою від нестачі коштів, площі або того й іншого, та почати нові випробування. І в залежності від рішення згори, усе це, мабуть, буде завершено в межах року.\n\nОчікується, що покровителька академії, Ї. В. Принцеса Луна влаштує сюди візит у найближчому майбутньому."
+ equestria.5.t_sol: "Академія Сол-Інвікти"
  equestria.5.d_sol: "Наша найпрестижніша школа, нині перейменована більш відповідно до її статусу, отримала субсидії від Її Імперської Величності. З цими коштами, школа зможе оновити свої лабораторії новітнім обладнанням, збільшити кількість професорів і їхні зарплатні, а також відкрити більше місць для вступу талановитих поні держави [ROOT.GetNameDef], кому в іншому випадку могли би відмовити через нестачу місць. Гуртожитки академії також будуть за потреби розширені та відновлені, щоби надати студентам місце для проживання та поліпшити рівень життя. Наостанок, Її Імперська Величність не поставила жодних вимог. Однак, під час її зустрічі з деканом, вона висловила своє «сильне» бажання побачити більший фокус на теорії та практиці магії, щоби зростити кращиї магів, та не забувати акцент, зроблений нею щодо технологій, хімії, фізики й інших природничих наук, а також фокус на релігійному й етичному вихованні." # [ROOT.GetNameGen]
  equestria.5.a: "Чекаємо багато успішних винаходів."
 
@@ -703,34 +703,34 @@
  equestria.26.d: "Магія Дружби вже довго була однією з визначних частин наших ідеалів. Покинути її було б майже немислимо. Вона нам пройти крізь стільки небезпечних ситуацій. Вона допомогла нам зрозуміти тих, кого колись називали поганцями, і допомогти їм розпочати їхні життя наново, як-от Старлайт Ґліммер, принцесі Луні та Тріксі. Але цей світ стає все небезпечнішим із плином часу. Наші домівки та наші ідеали в облозі. Як би це не було прикро, ми більше не можемо слідувати принципам Магії Дружби. Ми мусимо зміцнитися, і загартувати наші серця й тіла до твердості діаманта.\n\nАдже ми мусимо пам'ятати, за що боремося. Що ми захищаємо всіх невинних і слабких, хто не може постояти за себе. А якщо ми програємо, вони постраждають найбільше. Так, така наша резолюція — і ми мусимо гордо та стійко відстоювати ідею гармонії." # (&)
  equestria.26.a: "Це рішення необхідне."
 
- # ((+))
- equestria.31.t:0 "Stalliongradian Propaganda Campaign"
- equestria.31.d:0 "Recently, our intelligence officers have been alarmed by an increased number of Stalliongradian agents spreading their propaganda among our people. While we generally stand for the free exchange of ideas between ponies and don't interfere with what ideas our ponies talk about as long as they don't pose a direct threat to our nation and way of life, perhaps we ought to take a different approach this time and crack down on them. While we do not know what consequences our decision may have on the populace, we shouldn't make our decision lightly."
- equestria.31.a:0 "Crush them!"
- equestria.31.b:0 "Let them stay."
+ equestria.31.t: "Сталліонградська кампанія пропаґанди"
+ equestria.31.d: "Віднедавна, наші глави розвідки занепокоїлися все більшою кількістю сталліонградських агентів, що поширюють свою пропаґанду серед нашого народу. Попри те, що звично ми стоїмо за вільний обмін ідеями та не втручаємося в те, про що говорять наші поні, допоки вони не загрожують нашим державі або способу життя напряму, мабуть, цього разу нам слід підійти до цієї ситуації інакше та розквитатися з ними. Ми достеменно не знаємо, які наслідки це матиме на громадськість, але не можна приймати це рішення легковажно."
+ equestria.31.a: "Розженіть їх!"
+ equestria.31.b: "Нехай лишаються."
 
- equestria.32.t:0 "Stalliongrad Sends Infiltrators"
- equestria.32.d:0 "Our intelligence agents have managed to uncover a trail of evidence which led them to the conclusion that Stalliongrad had been infiltrating our society. They are spreading propaganda material among our little ponies and riling up the masses for their own devious end. We can only imagine the reason for this at the moment. Are they simply going to spread propaganda? Are they going to spy on us? Are they perhaps trying to instigate disobedience or the stars forbid a civil war? We need to decide how to deal with this issue quickly."
- equestria.32.a:0 "Crush them!"
- equestria.32.b:0 "Let them stay."
+ equestria.32.t: "Сталліонград надсилає підбурювачів"
+ equestria.32.d: "Нашим агентам розвідки вдалося знайти ланку доказів, які вказують на те, що Сталліонград активно проникає в наше суспільство. Вони поширюють пропаґандистські матеріали серед наших маленьких поні та підбурюють маси завади своїх хитрих цілей. Наразі причину для цього можна лиш уявити. Чи будуть вони просто поширювати пропаґанду? Чи, може, будуть шпигувати за нами? А може, вони намагаються спровокувати непокору або, леле, влаштувати громадянську війну? Ми мусимо вирішити, як вирішити цю проблему якнайшвидше."
+ equestria.32.a: "Розженіть їх!"
+ equestria.32.b: "Нехай лишаються."
 
- equestria.34.t:0 "Left Rallies" #dummied out
+ equestria.34.t:0 "Left Rallies" # Неповноцінна подія
  equestria.34.d:0 "Many big cities saw communists, socialists, workers and sympathisers going on the solidarity march through the major streets. The event is dedicated to the Labour Day celebrated on 1st of May. These ponies say that they share their solidarity with all the oppressed working class creatures of the world."
  equestria.34.a:0 "Let them be."
  equestria.34.b:0 "Crush the demonstration!"
 
- equestria.35.t:0 "Communist Activity" #dummied out
+ equestria.35.t:0 "Communist Activity" # Неповноцінна подія
  equestria.35.d:0 "After the socialist ponies were chased down by the Royal Guards during the Labour Day demonstration, political views of the left-wing ponies turned drastically radical. Many communist newspapers were founded, many communists conduct propaganda campaign on factories and in the countryside, thus the ranks of the Ponies Communist Party are replenished with more and more ponies."
  equestria.35.a:0 "Troubling."
 
- equestria.42.t:0 "Stalliongrad Comes to Our Aid!"
- equestria.42.d:0 "It was a surprise when Stalliongrad offered to aid us in the war against the Changelings. Despite the ideological differences between our two nations, the Changelings pose a threat to both of us. Queen Chrysalis has made no secret of h ambitions to dominate all of Equus. Despite some voices within the military and government, warning about a communist plot, it was decided in a meeting of the War Council today that we should accept this offer. An official telegram was sent back informing [From.GetName] of our decision. In the meantime, we should prepare for the arrival of Stalliongradian reinforcements that are hasting towards the frontline right now. Their armoured divisions should be of a great boon for us."
- equestria.42.a:0 "Together for Victory!"
+ equestria.42.t: "Сталліонград приходить на допомогу!"
+ equestria.42.d: "Той факт, що Сталліонград запропонував свою допомогу в війні проти чейнджлінґів, став несподіванкою. Незважаючи на ідеологічні відмінності між двома нашими державами, чейнджлінґи представляють загрозу для нас обох. Королева Кризаліс не приховує своїх амбіцій запанувати над усім Еквусом.\n\nПопри висловлювання деяких представників армії й уряду, що попереджають про комуністичну змову, на зустрічі Воєнної ради було вирішено, що цього разу нам слід прийняти цю пропозицію. Державі [FROM.GetNameDef] було відправлено офіційну телеграму, де повідомляється про наше рішення. Тим часом, нам слід підготуватися до прибуття сталліонградських підкріплень, які наразі поспішають на лінію фронту. Їхні бронетанкові дивізії можуть стати нам у великій нагоді."
+ equestria.42.a: "Разом — до перемоги!"
 
- equestria.43.t:0 "Princess Celestia Abdicates!" #dummied out
+ equestria.43.t:0 "Princess Celestia Abdicates!" # Неповноцінна подія
  equestria.43.d:0 "Following the start of the Equestrian Civil War, Princess Celestia refused to remain the leader of Equestria. She expressed her deepest sorrow for the fate of Equestria in the shade of latest events, saying that she had failed in preventing a disaster like this. She tearfully stated that she feels no longer able to reign the lands of Equestria, and that she would step back as leader of the Equestrian nation. No longer will her motherly glance caress equestrians in the morning No longer will she raise and lower the sun for them. Her reign, which has endured for over a thousand years, has come to an end. Princess Luna, shaken by this turn of events, will fill in her sister's spot as Equestria's leader during these dire times. Only time will tell what happens next."
  equestria.43.a:0 "Princess, no!"
 
+ # ((+))
  equestria.44.t:0 "The Civil War is Over!" 
  equestria.44.d:0 "After too many months, this unfortunate civil war is finally over. This terrible conflict, pitting unicorn against unicorn, pegasus against pegasus and earth pony against earth pony has torn our nation apart. Many have lost faith in the Equestrian ideal of Harmony and Friendship and seceded. However, at last, the long nightmare is all over. The forces of Harmony have prevailed and so did our ideals with them. We should, however, not forget this conflict and what led to it. We should look to the future as we begin reconstruction and recovery. We will make sure to not repeat the mistakes of the past and make ourselves stronger. We will ensure that this will never repeat. Never again a civil war!"
  equestria.44.a:0 "Equestria lives on!"
@@ -902,6 +902,7 @@
  equestria.255.d_1:0 "Nightmare Moon's secret force was discovered, and Luna was placed under arrest. Furious bat pony protestors attempted to storm the palace, and the Canterlot Guard, on edge from previous attacks, opened fire. A bat pony died and news of the incident, unheard of in Equestrian history, was broadcast across the nation. Transforming into Nightmare Moon, a distraught Luna escaped the palace and fled to Manehattan. Competing narratives fight across the airwaves.\n\n'Luna' claims Celestia has gone mad, transforming into a mare of flame and massacring bat ponies.\n\nCelestia claims that Nightmare Moon has returned, and claims the death of a protester was a terrible accident.\n\nBoth sides call loyal ponies to fight for the good of Equestria. The civil war has begun."
  equestria.225.a:0 "She organised all this using dreams?!"
 
+ # Перед війною
  equestria.226.t:0 "The Cause"
  equestria.226.d:0 "Flowing Current's limbs began to move again, as Luna's healing magic washed over the crowd. He couldn't believe it. Some reactionary had attempted to assassinate Princess Luna! She had emerged, blackened and angry, but alive. A week ago, an anonymous letter had instructing him that a terrible tragedy would occur and he would be needed at the power station, but he hadn't believed it.\n\nHe, the great organiser, was now in the wrong place at the wrong time. He launched into the air, racing across the city for the power station. In the streets below, gunfire rang out. Now they were making a grab for Manehattan! He pushed, his wings aching as he pulled in to land at the station entrance.\n\nFlashing his ID to a bewildered security guard, he sprinted for the boiler room. The Princess of the Night needed every advantage she could get.\n\n In front of him stood an emergency trip. With a station this large, it would take hours to properly restart. With luck, power fluctuations would trip other stations too.\n\nFlowing Current took a deep breath. Some would call this treason. But true justice required doing what was right, no matter what others thought.\n\nHe closed his eyes, and whispered a silent prayer "Please, let the Night rule. Just for this one day..."\n\nHe punched the button."
  equestria.226.a:0 "The lights of Equestria winked out."
