@@ -13,6 +13,7 @@
 + `eaw_difficulty`
 + `eaw_diplo_popup`
 + `eaw_focus`
++ `eaw_focus_filter_tag`
 + `eaw_flags_and_opinion_overrides`
 + `eaw_GFF_equipment`
 + `eaw_horse_techs`
