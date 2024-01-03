@@ -3198,6 +3198,16 @@
  KIR_milset_iroko: "Іроко"
  KIR_milset_redcedar: "Баньян"
 
+ ### ПАРТІЇ ###
+  KIR_neutrality_party: "Кліка Вінтер Фрост"
+  KIR_neutrality_party_long: "Кліка Вінтер Фрост"
+  KIR_communism_party: "Послідовники Райзинґ Сан"
+  KIR_communism_party_long: "Послідовники Райзинґ Сан"
+  KIR_democratic_party: "Кліка Отемн Блейз"
+  KIR_democratic_party_long: "Кліка Отемн Блейз"
+  KIR_fascism_party: "Кліка Фікл Каррента"
+  KIR_fascism_party_long: "Кліка Фікл Каррента"
+
  ### ПЕРСОНАЖІ ###
   # Лідери
   KIR_rain_shine: "Рейн Шайн"

@@ -401,6 +401,12 @@
   OPERATIVE_FORCED_INTO_HIDING: "§RЗмушений переховуватися§!"
   CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC: "Першу комірку можна отримати, створивши розвідагентство. Інші комірки можна отримати після п'ятого поліпшення агентства або призначення §Hпримарної джентлістоти§! на посаду радника.\nКерівники розвідмережі альянсу також отримують комірки в залежності від кількості держав в альянсі. Суб'єкти та країни з дуже малою промисловістю на це не впливають."
 
+ #peace_l
+  PEACE_TREATY_THREAT: "Мирний договір у $TREATY$"
+  PEACE_CONFERENCE_NAME_TREATY_OF: "Договір у"
+  PEACE_CONFERENCE_NAME: "м. $CAPITAL$"
+  PEACE_CONFERENCE_OK: "Горе переможеним"
+
  #plane_designer_l
   EQ_MOD_CAT_plane_jet_engine_type_TITLE: "1 реактивний двигун"
   air_torpedoe_1:0 "Aerial Torpedoes"
