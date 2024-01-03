@@ -1,8 +1,8 @@
 ﻿l_english:
  generic_folder: "Магічні технології"
  generic_folder_desc: "Магічні технології."
- magical_bonus:0 "Magical technology bonus"
- race_bonus:0 "Race-specific technology bonus"
+ magical_bonus: "Бонус до магічних технологій"
+ race_bonus: "Бонус до расових технологій"
  #These races do not have their own technologies. When they do get them, move the key to the racial tech loc file.
  yak_race: "Раса яків"
  yak_race_desc:0 "Yaks are large and sapient quadrupedal mammals, recognizable by their thick coat and large horns. They have extraordinary resilience to the cold and high altitudes, which combined with their surprising agility make them particularly adapted to mountainous environment. They have no magical abilities. Yaks tend to have short tempers and are easily insulted. A violent act known as "smashing" is a prominent feature of most yak cultures. They are herbivorous."
@@ -38,7 +38,7 @@
  harpy_race_desc:0 "Harpies are bipedal avian creatures, similar in appearance to wild tropical birds. Like griffons and hippogriffs, they use claws for grasping, but are unable to fly due to vestigial wings. As such, they have developed an affinity for the sea rather than the sky, and are known to be expert sailors. While preferring plant food, harpies do sometimes eat meat."
  yeti_race: "Раса єті"
  yeti_race_desc:0 "Yeti are bipedal mammalian creatures covered in thick, white fur, which allows them to survive in cold temperatures. They are divided into two subgroups: "true" Yeti and Storm Creatures. The former are very tall and intelligent, while the latter are short and hunchbacked. Storm Creatures are practically an eccentric warrior caste who do not speak and wear masks on their faces. Both types of yeti have bulky bodies, hands with three large fingers and sharp fangs, but there are some differences as well: "true" Yeti have cloven hooves, while Storm Creatures have paws and tails. They are generally a highly territorial and violent race, prone to infighting without a strong leader. They have no known magical abilities and are omnivorous. Contrary to popular belief, "true" Yeti do not have natural horns, though they tend to wear decorative ones."
- 
+
  ### Scripted Loc ###
  hand_talon:0 "talon"
  hand_talons:0 "talons"
@@ -124,7 +124,7 @@
  minotaur_race_type: "Мінотавр"
  dragon_race_type: "Дракон"
  undead_race_type: "Андед" # (&)
- 
+
  category_all_planes: "Усі літаки"
  category_all_artillery: "Уся артилерія"
  category_all_at: "Уся протитанкова артилерія"
@@ -135,12 +135,12 @@
  category_motmech: "Моторизована/механізована піхота"
  category_scout_plane: "Літаки-розвідники"
  category_magical: "Усі магічні батальйони"
- TITLE_GENERIC_SOCIETY_MAGIC_SUBTITLE: "СУСПІЛЬСТВО"
- TITLE_GENERIC_MILITARY_MAGIC_SUBTITLE: "АРМІЯ"
  CHANGELING_RECON_SPEED_BOOST_TT: "\n£unit_recon_icon_small Макс. швидкість розвідроти: §G+30%§!"
  PONY_RECON_SPEED_BOOST_TT: "\n£unit_recon_icon_small Макс. швидкість розвідроти: §G+60%§!"
+
  generic_race: "Стандартна раса"
  percentage_increase_notice: "§YВеличезне значення необхідне для досягнення потрібних результатів (дуже мале значення множиться на дуже велике). Реальні значення значно менші, ніж це може здатися.§!"
+ TITLE_GENERIC_SOCIETY_MAGIC_SUBTITLE: "СУСПІЛЬСТВО"
  tech_generic_misc:0 "Magical Industry"
  tech_generic_misc_desc:0 "Combining the subtle, capricious nature of magic with the regimented precision of industrial machinery presents great challenges, but even greater benefits."
  tech_generic_misc2:0 "Magical Excavation"
@@ -155,6 +155,7 @@
  tech_generic_misc_c_desc:0 "The potential of magic in divination to predict, intuit and interpret is well known. By using divination to test our own codes, we can identify codes that are unpredictable, opaque, and incomprehensible to the enemy."
  tech_generic_misc_c_lar:0 "Magical Cryptography"
  tech_generic_misc_c_lar_desc:0 "The potential of magic in divination to predict, intuit and interpret is well known. By using divination to test our own codes, we can identify codes that are unpredictable, opaque, and incomprehensible to the enemy."
+ TITLE_GENERIC_MILITARY_MAGIC_SUBTITLE: "АРМІЯ"
  tech_generic_l:0 "Magical Equipment Improvements"
  tech_generic_l_desc:0 "Although our primary weapons are already at the forefront of our efforts, supporting kit and smaller personal weaponry has room for improvement. Minor protective enchantments and magical weapon mechanisms can make supporting kit more useful in close combat and on the move, with a remarkably low rate of magical backfires or breakages."
  tech_generic_r:0 "Special Forces Magic Training"
@@ -177,8 +178,9 @@
  tech_generic_l5_desc:0 "Unlike ponies, we must manage our large armies with the delivered letter, transmitted signal and of course the spoken word. Whilst magic cannot replace these methods, they can improve on them, from magical seals and identifications for our letters, protective charms on our frail transmission lines, and even spells to boost the voice of an officer or food additives to enhance the courage of a wavering battalion."
  tech_generic_r5:0 "Magically-aided Administration"
  tech_generic_r5_desc:0 "Whilst magic capable of abolishing red tape and bureaucracy remains elusive, our bureaucrats paint a vision of the magical offices of the future - with self refilling inkwells, rubber stamps that can deny forms automatically, and submission boxes that are enchanted to repel any paperwork not possessing a triplicate signature..."
- race_tech:0 "Race-specific technology"
- magical_tech:0 "Magical Technology"
+
+ race_tech: "Расові технології"
+ magical_tech: "Магічні технології"
  #signal_company_tech:0 "Signal Company"
  maintenance_company_tech:0 "Maintenance Company"
  #military_police_tech:0 "Military Police"
