@@ -33,6 +33,7 @@ bitmapfonts = {
 		r = { 165 111 191 } # Rarity
 
 		# Ukrainian Translation
-		m = { 210 200 205 } # Machine Translation
+		M = { 222 210 216 } # Machine Translation White
+		m = { 48 24 36 } # Machine Translation Black
 	}
 }
