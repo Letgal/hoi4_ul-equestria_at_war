@@ -29,7 +29,7 @@
  STRATEGICREGION_28: "Море Вікінґів"
  STRATEGICREGION_29: "Панталасський океан"
  STRATEGICREGION_30: "Драконяче лігво"
- STRATEGICREGION_31: "Західні терени" # Західна Кірія
+ STRATEGICREGION_31: "Західні землі"
  STRATEGICREGION_32: "Заборонені Джунглі"
  STRATEGICREGION_33: "Південні колонії"
  STRATEGICREGION_34: "Драконяча пустка"
@@ -77,10 +77,10 @@
  STRATEGICREGION_76: "Віннісота"
  STRATEGICREGION_77: "Море Сонячного Світла"
  STRATEGICREGION_78: "Крижане море"
- STRATEGICREGION_79: "Дельта Медоносної" # Південна Кірія
+ STRATEGICREGION_79: "Дельта Медоносної"
  STRATEGICREGION_80: "Китове море"
  STRATEGICREGION_81: "Лазурні глибини"
- STRATEGICREGION_82: "Колиска роду кірінів" # Східна/Центральна Кірія
+ STRATEGICREGION_82: "Колиска роду кірінів"
  STRATEGICREGION_83: "Уайтбелл"
  STRATEGICREGION_84: "Долина Падаючого пір'я"
  STRATEGICREGION_85: "Північна Зайкірія"
@@ -281,8 +281,8 @@
  STRATEGICREGION_280: "Нескінченна пітьма"
  STRATEGICREGION_281: "Море Надії"
  STRATEGICREGION_282: "Південне Море Кірінів"
- STRATEGICREGION_283: "Велика Область Провидіння" # (&) # Північна Кірія
- STRATEGICREGION_284: "Примор'я провидіння" # (&) # Північне Море Кірінів
+ STRATEGICREGION_283: "Велике Провидіння"
+ STRATEGICREGION_284: "Примор'я Провидіння"
  STRATEGICREGION_285: "Панталасський океан"
  STRATEGICREGION_286: "Тепле море"
  STRATEGICREGION_287: "Панталасський океан"

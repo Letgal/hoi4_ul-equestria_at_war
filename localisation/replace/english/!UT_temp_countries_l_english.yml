@@ -3194,9 +3194,19 @@
  KAT_dread_empire_communism_ADJ: "Багрян"
 
 # country_KIR
- KIR_milset_baobab: "Баобаб"
- KIR_milset_iroko: "Іроко"
- KIR_milset_redcedar: "Баньян"
+ ### КОСМЕТИЧНІ ТЕҐИ ###
+  KIR_auto1_fascism: "Рада Північної Кірії"
+  KIR_auto1_fascism_DEF: "Надзвичайна рада Північної Кірії"
+  KIR_auto1_fascism_ADJ: "Північнокірінськ"
+  KIR_auto1_neutrality: "Рада Північної Кірії"
+  KIR_auto1_neutrality_DEF: "Надзвичайна рада Північної Кірії"
+  KIR_auto1_neutrality_ADJ: "Північнокірінськ"
+  KIS_confederal_union: "Конфедеративний союз"
+  KIS_confederal_union_DEF: "Конфедеративний союз Північної Кірії"
+  KIS_confederal_union_ADJ: "Північнокірінськ"
+  KIS_salvation_front: "Національний визвольний фронт"
+  KIS_salvation_front_DEF: "Кірінський визвольний фронт визволення Батьківщини"
+  KIS_salvation_front_ADJ: "Кірінськ"
 
  ### ПАРТІЇ ###
   KIR_neutrality_party: "Кліка Вінтер Фрост"
@@ -3263,6 +3273,10 @@
   KIR_bipartite_war_tt: "3½-річний план провалився"
   KIR_bipartite_war_over_tt:0 "The War of Northern Secession is over"
   KIC_fled_to_taungpau:0 "The Rising Fire has fled to Taungpau"
+
+ KIR_milset_baobab: "Баобаб"
+ KIR_milset_iroko: "Іроко"
+ KIR_milset_redcedar: "Баньян"
 
 # country_KLG
  ### ПАРТІЇ ###
@@ -3538,6 +3552,13 @@
  LSP_blueberry_soda: "Блуберрі Сода"
  LSP_copper_flanks: "Коппер Фленкс"
  LSP_iron_hooves: "Айрон Гувз"
+
+ ### ПОДІЇ ###
+  # Перенести в country_EQS після equestria.41
+  equestria.179.t: "Смуга невдач продовжується"
+  equestria.179.d: "У двері в покої [Root.GetLeader] несміливо постукали. Всередину знервовано ввійшла купка занекопоєних і стомлених бюрократів. «У чому проблема?» — спитала принцеса, відвівши свій погляд від поточних звітів і газет. Поні відступили з її питання. «Пробачте нам, принцесо... В нас невідкладні новини...» Одного з поні, який тримав листа, підштовхнули наперед. [Root.GetLeader] узяла його та розірвала конверт одним спритним рухом. Вона спохмурніла, і всі в кімнаті знітилися. Це був лист від мера Лас-Пегасуса, в якому декларувалося, що місто буде повністю незалежним від цієї громадянської війни і що в нього немає жодного бажання ставати ні на чий бік."
+  equestria.179.a: "Вони про це пошкодують!"
+  equestria.179.b: "Цікаво, що вони таке роблять..."
 
 # country_MAN&ELF
  ELF_prench_institute: "Пранцузький інститут"
