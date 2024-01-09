@@ -7,12 +7,12 @@
  EAW_TWT_OPEN: "Equestria at War в Twitter"
 
  EAW_WS_HEADER: "[Root.GetHeaderText]"
- EAW_WS_standard_header_text: "[Root.GetNameDefCap], 1007"
- EAW_WS_header_text_MAN: "Чейнджлінзький протекторат Мейнгеттен, [?MAN_WS_GetFormDate]"
- EAW_WS_header_text_ELF: "Еквестрійський визвольний фронт, [?ELF_WS_GetFormDate]"
- EAW_WS_header_text_KIR: "Ясно-червоне володарство Кірія, 1007"
- EAW_WS_header_text_KIC: "Братерська республіка Кірія, [?KIC_WS_GetFormDate]"
- EAW_WS_header_text_KIS: "Рада Північної Кірії, [?KIS_WS_GetFormDate]"
+ EAW_WS_standard_header_text: "[Root.GetNameDefCap], 1007 рік"
+ EAW_WS_header_text_MAN: "Чейнджлінзький протекторат Мейнгеттен, [?MAN_WS_GetFormDate] рік"
+ EAW_WS_header_text_ELF: "Еквестрійський визвольний фронт, [?ELF_WS_GetFormDate] рік"
+ EAW_WS_header_text_KIR: "Ясно-червоне володарство Кірія, 1007 рік"
+ EAW_WS_header_text_KIC: "Братерська республіка Кірія, [?KIC_WS_GetFormDate] рік"
+ EAW_WS_header_text_KIS: "Рада Північної Кірії, [?KIS_WS_GetFormDate] рік"
 
  EAW_WS_TAB_1: "[Root.GetNameWithFlag]"
  EAW_WS_TAB_1_TT: "Історія й лор держави §Y[Root.GetNameDef]§!."

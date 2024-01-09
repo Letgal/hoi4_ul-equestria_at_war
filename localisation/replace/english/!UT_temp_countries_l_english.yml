@@ -4329,7 +4329,6 @@
   equestria.140.b: "Ми підготуємося до економічної мобілізації."
   equestria.140.b.tp: "Дозволяє змінювати §Yекономічні закони§!."
 
-
  eqs_conscription_crisis: "Призовна криза"
  eqs_conscription_crisis_desc:0 "Conscientious objectors and pacifists, clinging to the ideals of friendship and harmony - they all refuse to fight. It would be a gallant display of virtue if our way of life wasn't in peril."
  eqs_defeatists: "Поразництво"
@@ -4348,6 +4347,14 @@
  eqs_order_idea_desc:0 "Everypony needs to be in the right place to protect Equestria, which primarily includes the extension of working hours, an increased drafting campaign, and spreading an adequate message of unity and devotion for the ponies to accept that change has come."
 
  EQS_blueblood_allowed: "Уведено воєнний стан"
+
+ cry_betrayal: "Зрадили нас"
+ cry_refused_to_negotiate: "Відмовилися домовлятися"
+ eqs_has_civil_war_tp: "$TRIGGER_IS_IN_CIVIL_WAR$"
+ eqs_not_has_civil_war_tp: "$TRIGGER_IS_NOT_IN_CIVIL_WAR$"
+ eqs_civil_war_ended_tp: "Громадянська війна скінчилася"
+ equestrian_civil_war_daybreaker_ended: "Повстання Луни розбите"
+ DB_is_in_lead_tt: "§Y$EQS_SOL_daybreaker$§!$TRIGGER_HAS_RULING_COUNTRY_LEADER$"
 
 # country_SRS
  ### ПАРТІЇ ###
