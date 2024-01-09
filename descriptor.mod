@@ -8,5 +8,5 @@ dependencies = {
 	"Equestria at War"
 	"Equestria at War - Український Переклад"
 }
-supported_version = "1.12.*"
+supported_version = "1.13.*"
 path = "mod/hoi4_ut-eaw"
