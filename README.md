@@ -6,6 +6,8 @@
 + `countries_griffonia`
 + `countries_zebrica`
 + `country_DRG`
++ `country_MTA` (умовно)
++ `country_NTR`
 + `eaw_adjacency_rules`
 + `eaw_autonomy`
 + `eaw_bookmarks_overrides`
@@ -17,14 +19,9 @@
 + `eaw_flags_and_opinion_overrides`
 + `eaw_GFF_equipment`
 + `eaw_horse_techs`
-+ `eaw_intelligence_agency_blocker` (без змін)
-+ `eaw_music` (без змін)
 + `eaw_musictoggle`
-+ `eaw_newspaper_headers` (без змін)
-+ `eaw_old_music` (без змін)
 + `eaw_pony_techs`
 + `eaw_starting_warning_events`
-+ `eaw_unitnames` (без змін)
 + `focus_filter_tag_overrides`
 + `loading_tips`
 + `province_names_overrides`
@@ -33,5 +30,12 @@
 + `southern_zebra_ideas`
 + `state_names`
 + `strategic_region_names`
-+ `supply_area_names_overrides` (без змін)
 + `victory_points`
+
+**Файли без змін:**
++ `eaw_intelligence_agency_blocker`
++ `eaw_music`
++ `eaw_newspaper_headers`
++ `eaw_old_music`
++ `eaw_unitnames`
++ `supply_area_names_overrides`
