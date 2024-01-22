@@ -30,6 +30,7 @@
 + `southern_zebra_ideas`
 + `state_names`
 + `strategic_region_names`
++ `unit_leader_stat_tooltips`
 + `victory_points`
 
 **Файли без змін:**

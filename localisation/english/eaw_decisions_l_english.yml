@@ -111,7 +111,7 @@ GRW_move_capital_Kivessin: "Перемістити столицію в Ківе�
 GRW_move_capital_Imperial_capital: "Перемістити столицію в Ґриффенгайм"
 
 form_griffon_empire_category: "Становлення спадкоємцем Імперії Грифонів"
-form_griffon_empire_category_desc:0 "With the Empire gone and [Root.GetName] in control of Griffenheim, we can declare ourselves to be the successors to the Empire."
+form_griffon_empire_category_desc: "Тепер, коли Імперія зникла, а [ROOT.GetName] контролює Ґриффенгайм, ми можемо проголосити себе спадкоємцями Імперії."
 form_griffon_empire: "Стати спадкоємцем Імперії Грифонів"
 
 magical_weapons_category: "Впровадження магічної зброї"
@@ -414,16 +414,15 @@ decision_cost_CP_15_pp_15_manpower_500: "£command_power£ §Y15§! £pol_power�
 decision_cost_CP_15_pp_15_manpower_500_blocked: "£command_power£ §R15§! £pol_power£ §R15§! £manpower_icon£ §R500§!"
 decision_cost_CP_15_pp_15_manpower_500_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP15PP15MP500]"
 
-motorized_magical_weapons_recently_changed:0 "§Y360 days§! have passed"
-mechanized_magical_weapons_recently_changed:0 "§Y360 days§! have passed"
-special_forces_magical_weapons_recently_changed:0 "§Y360 days§! have passed"
-logistics_helicopter_recently_changed:0 "§Y360 days§! have passed"
-hospital_helicopter_recently_changed:0 "§Y360 days§! have passed"
-hospital_helicopter_used:0 "Currently using helicopters in field hospitals"
-logistics_helicopter_used:0 "Currently using helicopters in logistics companies"
+motorized_magical_weapons_recently_changed: "Минуло §Y360 днів§!"
+mechanized_magical_weapons_recently_changed: "Минуло §Y360 днів§!"
+special_forces_magical_weapons_recently_changed: "Минуло §Y360 днів§!"
+logistics_helicopter_recently_changed: "Минуло §Y360 днів§!"
+hospital_helicopter_recently_changed: "Минуло §Y360 днів§!"
+hospital_helicopter_used: "Упроваджено використання вертольотів у ротах логістики"
+logistics_helicopter_used: "Упроваджено використання вертольотів у польових госпіталях"
 
 # FEZ black market
-
 FEZ_decision_cost_bank_3_pp_50: "£coin_text£ §Y3 000§! £pol_power£ §Y50§!"
 FEZ_decision_cost_bank_6_pp_50: "£coin_text£ §Y6 000§! £pol_power£ §Y50§!"
 FEZ_decision_cost_bank_9_pp_50: "£coin_text£ §Y9 000§! £pol_power£ §Y50§!"
@@ -459,14 +458,14 @@ decision_cost_8_favor_tooltip: "Прийняття цього рішення к�
  
 GRI_kill_blockers:0 "(AI ONLY) Kill Blockers"
 
-form_equestrian_socialist_union_category:0 "Equestrian Socialist Republic"
-form_equestrian_socialist_republic:0 "Form the Socialist Republic of Equestria"
-form_equestrian_socialist_union:0 "Form the Socialist Union of Equestria"
-form_the_socialist_world_republic:0 "Socialist Republic of the World"
-form_the_socialist_world_republic_decision:0 "Form the Socialist Republic of the World"
+form_equestrian_socialist_union_category: "Еквестрійська соціалістична республіка"
+form_equestrian_socialist_republic: "Утворити Соціалістичну республіку Еквестрія"
+form_equestrian_socialist_union: "Утворити Соціалістичний союз Еквестрії"
+form_the_socialist_world_republic: "Світова Соціалістична Республіка"
+form_the_socialist_world_republic_decision: "Утворити Світову Соціалістичну Республіку"
 
-improve_society_development_decision:0 "Modernise Society"
-improve_society_development_nim_fas_decision:0 "Modernise Society"
+improve_society_development_decision: "Осучаснити суспільство"
+improve_society_development_nim_fas_decision: "Осучаснити суспільство"
 
 improve_poverty_decision:0 "Tackle the Poverty Problem"
 improve_illiteracy_decision:0 "Encourage Reading Classes"

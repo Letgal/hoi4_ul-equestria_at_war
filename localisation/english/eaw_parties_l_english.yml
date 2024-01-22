@@ -87,7 +87,7 @@
  CHN_fascism_puppet_party: "Військова хунта"
 
  OLE_neutrality_party: "Дім Єлзек"
- OLE_communism_party: "Оленяча партія"
+ OLE_communism_party: "Народна партія" # Оленяча партія
  OLE_democratic_party: "Прибічники Вельвет"
  OLE_fascism_party: "Церква"
  OLE_fascism_party_long: "Церква Оленії"
