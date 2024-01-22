@@ -1,0 +1,15 @@
+﻿l_english:
+PRODUCTION_MATERIALS_CRYSTALS: "Кристал"
+#crystals_desc: "Кристали зберігають магію, тому їх можна використати в різних магічних технологіях. Вони також використовуються при створенні ядерних бомб." # Different duplicate from Eaw
+
+# Convert state resources script in `common/scripted_effects/EAW_convert_state_resources_effects.txt`
+EAW_convert_state_resources_tooltip: "\n  Перетворює виробництво [THIS.Getname] [Get_Convert_RES_input_tt] в[Get_Convert_RES_output_tt].[Get_has_synref]"
+EAW_convert_res_has_synref: "\n  Ресурси §Yнафтопереробних заводів§! §Rне§! переробляються."
+
+EAW_convert_oil: "£decision_oil_texticon §YНафта§!"
+EAW_convert_aluminium: "£decision_aluminium_texticon §YAluminium§!"
+EAW_convert_rubber: "£decision_rubber_texticon §YRubber§!"
+EAW_convert_tungsten: "£decision_tungsten_texticon §YTungsten§!"
+EAW_convert_steel: "£decision_steel_texticon §YSteel§!"
+EAW_convert_chromium: "£decision_chromium_texticon §YChromium§!"
+EAW_convert_crystal: "£decision_crystal_texticon §YCrystal§!"

@@ -151,6 +151,24 @@
  UNIT_GENERIC_NAME_JER: "$NR$ème $NAME$"
  UNIT_GENERIC_NAME_STG: "$NR$ya $NAME$"
 
+ crystals_desc: "Кристали зберігають магію, тому їх можна використати в різних магічних технологіях. Вони також використовуються при створенні ядерних бомб."
+
+ once_iw_small_airframe_researched_tt: "Якщо Ви дослідили технологію §Y$iw_small_airframe$§!:\n"
+ once_basic_small_airframe_researched_tt: "Якщо Ви дослідили технологію §Y$basic_small_airframe$§!:\n"
+ once_improved_small_airframe_researched_tt: "Якщо Ви дослідили технологію §Y$improved_small_airframe$§!:\n"
+ once_advanced_small_airframe_researched_tt: "Якщо Ви дослідили технологію §Y$advanced_small_airframe$§!:\n"
+ once_modern_small_airframe_researched_tt: "Якщо Ви дослідили технологію §Y$modern_small_airframe$§!:\n"
+ once_iw_medium_airframe_researched_tt: "Якщо Ви дослідили технологію §Y$iw_medium_airframe$§!:\n"
+ once_basic_medium_airframe_researched_tt: "Якщо Ви дослідили технологію §Y$basic_medium_airframe$§!:\n"
+ once_improved_medium_airframe_researched_tt: "Якщо Ви дослідили технологію §Y$improved_medium_airframe$§!:\n"
+ once_advanced_medium_airframe_researched_tt: "Якщо Ви дослідили технологію §Y$advanced_medium_airframe$§!:\n"
+ once_modern_medium_airframe_researched_tt: "Якщо Ви дослідили технологію §Y$modern_medium_airframe$§!:\n"
+ once_iw_large_airframe_researched_tt: "Якщо Ви дослідили технологію §Y$iw_large_airframe$§!:\n"
+ once_basic_large_airframe_researched_tt: "Якщо Ви дослідили технологію §Y$basic_large_airframe$§!:\n"
+ once_improved_large_airframe_researched_tt: "Якщо Ви дослідили технологію §Y$improved_large_airframe$§!:\n"
+ once_advanced_large_airframe_researched_tt: "Якщо Ви дослідили технологію §Y$advanced_large_airframe$§!:\n"
+ once_modern_large_airframe_researched_tt: "Якщо Ви дослідили технологію §Y$modern_large_airframe$§!:\n"
+
  dragons_light: "Дракончики"
  dragons_heavy: "Старші дракони"
 

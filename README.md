@@ -21,6 +21,7 @@
 + `eaw_horse_techs`
 + `eaw_musictoggle`
 + `eaw_pony_techs`
++ `eaw_production`
 + `eaw_starting_warning_events`
 + `focus_filter_tag_overrides`
 + `loading_tips`

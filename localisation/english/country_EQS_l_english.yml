@@ -366,9 +366,9 @@
 
  # ЕАО: Еквестрійська асоціація освіти
  EQS_ease_the_rules_of_EEA: "Полегшити правила ЕАО"
- EQS_ease_the_rules_of_EEA_desc:0 "For a thousand years, the EEA has kept Equestrian education in its cold grasp. With a tight, outdated and restrictive ruleset, their authority over our institutions has become a big problem. It's time to cut down on their rules and authority, and allow our ponies to teach and research things more independently - their own way."
+ EQS_ease_the_rules_of_EEA_desc: "Протягом тисяч років, Еквестрійська асоціація освіти втримувала освіту в Еквестрії в своїй холодній хватці. Влада ЕАО з її суворими, застарілими та обмежувальними правилами стала великою проблемою. Настав час підірвати її владу й авторитет і дозволити нашим поні вивчати та досліджувати речі більш незалежно — по-своєму."
  EQS_strengthen_EEA_authority: "Зміцнити авторитет ЕАО"
- EQS_strengthen_EEA_authority_desc:0 "For a thousand years, the EEA has ensured that everypony in Equestria receives only the most high quality education. With this in mind, we should further strengthen their role and authority, so that our education can blossom furher, just as it did over these past thousand years."
+ EQS_strengthen_EEA_authority_desc: "Протягом тисяч років, Еквестрійська асоціація освіти запевнялася, що кожен в Еквестрії отримає освіту лише найвищої якості. З урахуванням цього, нам слід надалі посилити її владу й авторитет, щоби наша освіта продовжувала процвітати, як вона це робила протягом останньої тисячі років."
 
  # This file's organization is an absolute disaster so I added the PRE-MADE TANK DESIGNS TOOLTIPS here #
  EQS_Timberwolf_tooltip: "\nБуде створено дизайн танка §YTimberwolf MkI§!, якщо доступні ось ці технології:\n §Y$basic_medium_tank_chassis$\n $tank_high_velocity_cannon$§!\n"
