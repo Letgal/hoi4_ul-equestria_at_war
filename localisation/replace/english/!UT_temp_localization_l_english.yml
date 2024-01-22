@@ -178,6 +178,29 @@
  heavy_dragons: "Старші дракони"
  tatzlwurm: "Татцельвурми"
 
+ pre_gw_artillery: "Доіндустріальна артилерія"
+  artillery_equipment_0: "Доіндустріальна артилерія"
+  artillery_equipment_0_short: "Доіндустр. артилерія"
+
+ melee_weapons: "Примітивна зброя"
+  melee_equipment: "Доіндустріальне оснащення"
+  melee_equipment_short: "Доіндустр. оснащення"
+  melee_equipment_0: "Середньовічне оснащення"
+  melee_equipment_0_short: "Примітивна зброя"
+ melee_weapons1: "Дульнозарядна зброя"
+  melee_equipment_1: "Дульнозарядна зброя"
+  melee_equipment_1_short: "Дульнозарядна зброя"
+
+ dragon_equipment: "Драконяче оснащення"
+  dragon_equipment_desc: "Драконяче оснащення складається з велетенських металевих плит, використовуваних як броня; адже одна лише луска слабо захищає від сучасної зброї."
+  dragon_equipment_0: "$dragon_equipment$"
+  dragon_equipment_0_desc: "$dragon_equipment_desc$"
+
+ windigo_equipment: "Оснащення віндіґо"
+  windigo_equipment_desc: "Слухай, навіщо це безтілесним духам потрібне оснащення? Чи це їхній еквівалент лупи?"
+  windigo_equipment_0: "$windigo_equipment$"
+  windigo_equipment_0_desc: "$windigo_equipment_desc$"
+
  armored_car_equipment_3: "Напівсучасна бронемашина"
  armored_car_equipment_3_short: "Напівсуч. бронемашина"
 
