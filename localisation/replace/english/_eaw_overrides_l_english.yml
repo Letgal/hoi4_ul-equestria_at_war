@@ -139,7 +139,7 @@
   SHIP_LEVEL_19: "Загартовані V"
   SHIP_LEVEL_20: "Ветерани"
   WEEKLY_FROM_OTHER_SOURCES: "\n§HМи також отримуємо§!:\nЩотижневі поні-ресурси: $VALUE|G$"
-  CAN_GENERATE_FAMALE_ACES:0 "Can have female military pilots"
+  CAN_GENERATE_FAMALE_ACES: "Може мати пілотів-жінок"
 
  #country_l
   MANPOWER: "Поні-ресурси"

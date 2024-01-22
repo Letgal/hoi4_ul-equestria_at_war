@@ -15,9 +15,9 @@
 
  CRY_AI_BEHAVIOR: "@CRY Кристальна імперія"
   RULE_OPTION_CRY_HISTORICAL_PATH: "Гармонія: союзники, не суб'єкти"
-  RULE_OPTION_CRY_HISTORICAL_PATH_DESC: "Принцеса Мі Аморе Каденс залишиться лідером Кристальної імперії та стане незалежною від @EQSЕквестрії.\n§g(Історичний шлях)§!"
+  RULE_OPTION_CRY_HISTORICAL_PATH_DESC: "Принцеса Мі Аморе Каденза залишиться лідером Кристальної імперії та стане незалежною від @EQSЕквестрії.\n§g(Історичний шлях)§!"
   RULE_OPTION_CRY_INTEGRATION_PATH: "Гармонія: вірність Еквестрії"
-  RULE_OPTION_CRY_INTEGRATION_PATH_DESC: "Принцеса Мі Аморе Каденс залишиться лідером Кристальної імперії та вирішить зберегти інтеграцію з @EQSЕквестрією."
+  RULE_OPTION_CRY_INTEGRATION_PATH_DESC: "Принцеса Мі Аморе Каденза залишиться лідером Кристальної імперії та вирішить зберегти інтеграцію з @EQSЕквестрією."
   RULE_OPTION_CRY_SOMBRA_PATH: "Зверхність: король Сомбра"
   RULE_OPTION_CRY_SOMBRA_PATH_DESC: "Король повернеться назавжди..."
   RULE_OPTION_CRY_COMMUNIST_PATH: "Комунізм: Арктик Лілі"
