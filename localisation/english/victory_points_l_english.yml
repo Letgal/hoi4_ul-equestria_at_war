@@ -28,7 +28,7 @@
  VICTORY_POINTS_7077: "Акадія-Бей"
  VICTORY_POINTS_11029: "Ферма каменів сім'ї Пай"
  VICTORY_POINTS_11511: "Роквілль"
- VICTORY_POINTS_351: "Новочернушськ"
+ VICTORY_POINTS_351: "Новочернуськ"
  VICTORY_POINTS_6023: "Луна-Нова"
  VICTORY_POINTS_3887: "Нейтон"
  VICTORY_POINTS_907: "Гоуп-Голлоу"
@@ -564,17 +564,17 @@
  VICTORY_POINTS_20286: "Яшилкенд"
  VICTORY_POINTS_16502: "Ліманджик"
  VICTORY_POINTS_16536: "Кузова"
- VICTORY_POINTS_16834: "Бардзр-Жайрр"
- VICTORY_POINTS_16786: "П'вокр-Тсотс"
- VICTORY_POINTS_16762: "Ханґіст-Джур"
- VICTORY_POINTS_16808: "Срті-Ховіт"
- VICTORY_POINTS_16790: "Хстак-Угі"
- VICTORY_POINTS_16873: "Мак'рум"
- VICTORY_POINTS_16874: "Батс-Дашт"
- VICTORY_POINTS_19593: "Ханґіст-Ґет"
- VICTORY_POINTS_16890: "Ґеті-Верджи"
- VICTORY_POINTS_16893: "Апастанатс-Тсотс"
- VICTORY_POINTS_4673: "Джрелу-Антс'к"
+ VICTORY_POINTS_16834: "Бардзр-Жайрр" # Բարձր Ժայռ
+ VICTORY_POINTS_16786: "П'ок'р-Цоц'" # Փոքր Ծոց
+ VICTORY_POINTS_16762: "Ганґіст-Джур" # Հանգիստ Ջուր
+ VICTORY_POINTS_16808: "Срті-Говіт" # (Սրտի)? Հովիտ
+ VICTORY_POINTS_16790: "Гстак-Угі" # Հստակ Ուղի
+ VICTORY_POINTS_16873: "Мак'рум" # Մաքրում
+ VICTORY_POINTS_16874: "Бац'-Дашт" # Բաց Դաշտ
+ VICTORY_POINTS_19593: "Ганґіст-Ґет" # Հանգիստ Գետ
+ VICTORY_POINTS_16890: "Ґеті-Верджи" # Գետի (Վերջը)?
+ VICTORY_POINTS_16893: "Апастанац'-Цоц'" # (Ապաստանաց)? Ծոց
+ VICTORY_POINTS_4673: "Джрелу-Анц'к'" # Ջրելու Անցք
  VICTORY_POINTS_18495: "Мейнерба-Мідоун"
  VICTORY_POINTS_20273: "Фезерпорт"
  VICTORY_POINTS_5228: "Мейрібор"
