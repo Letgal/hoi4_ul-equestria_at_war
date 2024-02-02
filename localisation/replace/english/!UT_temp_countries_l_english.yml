@@ -2612,9 +2612,9 @@
  HIP_HIE_CTH_puppet_communism_ADJ: "Гіпогрифськ"
 
  HIE_JRNL_next_page: "§YНаступна сторінка§!"
- HIE_JRNL_prev_page:0 "§YПопередня сторінка§!\n--------------\n§GКлацніть правою клавішею§!, щоби перейти до §YTable of Contents.§!"
+ HIE_JRNL_prev_page: "§YПопередня сторінка§!\n--------------\n§GКлацніть правою клавішею§!, щоби перейти до §Yзмісту§!."
 
- HIE_JRNL_page_1:0 "Table of Contents"
+ HIE_JRNL_page_1: "Зміст"
  HIE_JRNL_page_2: "Еквус"
  HIE_JRNL_page_3: "Грифонія"
  HIE_JRNL_page_4: "Зебрика"
@@ -3707,22 +3707,25 @@
  LSP_rockhoof_party:0 "General Petroleum"
  LSP_rockhoof_party_long:0 "The General Petroleum Company"
 
- LSP_mayor_rokenhar: "Мер Рокенгар"
- LSP_president_sugarquill: "Президент Шуґарквілл"
- LSP_mr_horse: "Містер Горс"
- LSP_the_royalist_movement: "Роялістський рух"
- LSP_sugar_sprinkle: "Шуґар Спринкл"
- LSP_starry_plough: "Старрі Плау"
- LSP_pine_chest: "Пайн Чест"
+ ### ПЕРСОНАЖІ ###
+  # Лідери держави
+  LSP_mayor_rokenhar: "Мер Рокенгар"
+  LSP_president_sugarquill: "Президент Шуґарквілл"
+  LSP_mr_horse: "Містер Горс"
+  LSP_the_royalist_movement: "Роялістський рух"
+  LSP_sugar_sprinkle: "Шуґар Спринкл"
+  LSP_starry_plough: "Старрі Плау"
+  LSP_pine_chest: "Пайн Чест"
 
- LSP_mercy_ribbons: "Мерсі Ріббонс"
- LSP_cherry_soda: "Черрі Сода"
- LSP_blueberry_soda: "Блуберрі Сода"
- LSP_copper_flanks: "Коппер Фленкс"
- LSP_iron_hooves: "Айрон Гувз"
+  # Генерали
+  LSP_mercy_ribbons: "Мерсі Ріббонс"
+  LSP_cherry_soda: "Черрі Сода"
+  LSP_blueberry_soda: "Блуберрі Сода"
+  LSP_copper_flanks: "Коппер Фленкс"
+  LSP_iron_hooves: "Айрон Гувз"
 
- # Адмірали
- LSP_sharp_shot: "Шарп Шот"
+  # Адмірали
+  LSP_sharp_shot: "Шарп Шот"
 
  ### ПОДІЇ ###
   # Перенести в country_EQS після equestria.41
