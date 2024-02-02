@@ -102,6 +102,10 @@
  FAL_AVI_fascism_DEF: "Велике герцогство Фалькор"
  FAL_AVI_fascism_ADJ: "Фалькорськ"
 
+ TAL_AVI_fascism: "Герцогство Талуза"
+ TAL_AVI_fascism_DEF: "Герцогство Талуза"
+ TAL_AVI_fascism_ADJ: "Талузьк"
+
  SIC_AVI_fascism: "Віконтство Скарлет"
  SIC_AVI_fascism_DEF: "Віконтство Скарлет"
  SIC_AVI_fascism_ADJ: "Скарлетськ"
@@ -2505,7 +2509,7 @@
 
  GRI_HEL_GOMMIE_communism: "Народна Республіка Грифонів"
  GRI_HEL_GOMMIE_communism_DEF: "Народна Республіка Грифонів"
- GRI_HEL_COMMIE_communism_ADJ: "Грифонськ"
+ GRI_HEL_GOMMIE_communism_ADJ: "Грифонськ"
 
  GRI_HEL_CONFED_democratic: "Грифонська конфедерація кантонів"
  GRI_HEL_CONFED_democratic_DEF: "Грифонська конфедерація кантонів"
@@ -2614,10 +2618,12 @@
  HIE_JRNL_page_2: "Еквус"
  HIE_JRNL_page_3: "Грифонія"
  HIE_JRNL_page_4: "Зебрика"
+ HIE_JRNL_page_5: "Нотатки"
 
  HIE_JRNL_ToC_1num: "стор. 3"
  HIE_JRNL_ToC_2num: "стор. 5"
  HIE_JRNL_ToC_3num: "стор. 7"
+ HIE_JRNL_ToC_4num: "стор. 9"
  HIE_JRNL_jump_to_page: "§GКлацніть§!, щоби §Yперегорнути на цю сторінку§!."
 
  JKR_sf_fascism: "Грифонський фронтир для знищення птахів"
@@ -3714,6 +3720,9 @@
  LSP_blueberry_soda: "Блуберрі Сода"
  LSP_copper_flanks: "Коппер Фленкс"
  LSP_iron_hooves: "Айрон Гувз"
+
+ # Адмірали
+ LSP_sharp_shot: "Шарп Шот"
 
  ### ПОДІЇ ###
   # Перенести в country_EQS після equestria.41

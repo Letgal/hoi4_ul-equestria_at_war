@@ -570,6 +570,9 @@
   restructure_supply_system: "Реорганізувати систему постачання"
   restructure_supply_system_desc:0 "By redirecting building materials and workers, we can quickly create a small number of make-shift supply dumps along some of our transport routes. This is, however, not a sustainable way of running the system.\n\n§RThis decision can only be taken once. The bonus will disappear if you construct more than 3 additional supply hubs.§!" # (!)
 
+ #operatives_l
+  COUNTERINTELLIGENCE_ACTIVITY_LEVEL_2: "§YВажливий§! — іноземні агенти мають підґрунтя в державі"
+
  #####Replacement loc for vanilla techs # NO HOOVES
   artillery1: "Артилерія I"
   artillery1_desc:0 "Rifled field guns made entirely out of metal and firing explosive ammunition are vastly more powerful than the cast cannons of old." # (!)
@@ -653,3 +656,6 @@
 
   ACHIEVEMENTS_MOD_OK: "§HДосягнення доступні в модифікаціях!§!\n\nДосягнення EAW можна знайти за кнопкою «Профіль кар'єри» (або «Огляд проходження») в меню гри, у вкладці «Нагороди»."
   our_war: "«Наша війна»"
+
+ #trade_l
+  CONVOYS_USAGE_DELAYED: "Конвої використовуються для імпорту ресурсів морем від інших країн, а також доставки наших ресурсів у межах держави і припасів для наших військ за морем."

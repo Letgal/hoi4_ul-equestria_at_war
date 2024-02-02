@@ -5,16 +5,16 @@
  form_country_rila_coring_states_tt: "Усі §Yрільські§! землі стануть осердними.\n" # CORE
  form_country_vinovia_coring_states_tt: "Усі §Yвиновійські§! землі стануть осердними.\n" # CORE
  form_country_westkeep_coring_states_tt: "Усі §Yвесткіпські§! землі стануть осердними.\n" # CORE
- form_country_pomovarra_coring_states_tt: "Усі §Yпомоваррські§! землі стануть осердними.\n" # CORE
- form_country_flowena_coring_states_tt: "Усі §Yфловенські§! землі стануть осердними.\n" # CORE
- form_country_adelart_coring_states_tt: "Усі §Yаделартські§! землі стануть осердними.\n" # CORE
- form_country_greifwald_coring_states_tt: "Усі §YҐрайфвальдські§! землі стануть осердними.\n" # CORE
- form_country_fezera_coring_states_tt: "Усі §Yфезерські§! землі стануть осердними.\n" # CORE
+ form_country_pomovarra_coring_states_tt: "Отримає претензії на всі §Yпомоваррські§! землі.\n"
+ form_country_flowena_coring_states_tt: "Отримає претензії на всі §Yфловенські§! землі.\n"
+ form_country_adelart_coring_states_tt: "Отримає претензії на всі §Yаделартські§! землі.\n"
+ form_country_greifwald_coring_states_tt: "Отримає претензії на всі §Yґрайфвальдські§! землі.\n"
+ form_country_fezera_coring_states_tt: "Отримає претензії на всі §Yфезерські§! землі.\n"
  form_country_prywhen_coring_states_tt: "Усі §Yпрайвенські§! землі стануть осердними.\n" # CORE
  form_country_lushi_coring_states_tt: "Усі §Yлюшінські§! землі стануть осердними.\n" # CORE
  form_country_gryphia_coring_states_tt: "Усі §Yгрифійські§! землі стануть осердними.\n" # CORE
  form_country_gryphus_coring_states_tt: "Усі §Yґрифуські§! землі стануть осердними.\n" # CORE
- form_country_tarrin_coring_states_tt: "Усі §Yтаррніські§! землі стануть осердними.\n" # CORE
+ form_country_tarrin_coring_states_tt: "Отримає претензії на всі §Yтаррінські§! землі.\n"
  form_country_avian_coring_states_tt: "Усі §Yавіанські§! землі стануть осердними.\n" # CORE
  form_country_erie_coring_states_tt: "Усі §Yерійські§! землі стануть осердними.\n" # CORE
  form_country_HIN_coring_states_tt: "Усі осердні §Yгіндійські§! землі стануть осердними.\n" # CORE
