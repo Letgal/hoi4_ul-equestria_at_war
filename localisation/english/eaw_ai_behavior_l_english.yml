@@ -26,8 +26,8 @@
  STG_AI_BEHAVIOR: "@STG Сталліонград"
   RULE_OPTION_VASILY_HISTORICAL: "Василій Пшеницин (історичний шлях)"
   RULE_OPTION_VASILY_HISTORICAL_DESC: "На виборах переможе Василій Пшеницин.\n@STGСталліонград допоможе @EQSЕквестрії в війні проти @CHNчейнджінґів."
-  RULE_OPTION_SINISTER_ALTERNATE: "Сіністер Серов (альтернативний шлях)"
-  RULE_OPTION_SINISTER_ALTERNATE_DESC: "На виборах переможе Сіністер Серов.\n@STGСталліонград із часом почне війну проти @EQSЕквестрії."
+  RULE_OPTION_SINISTER_ALTERNATE: "Сіністер Сєров (альтернативний шлях)"
+  RULE_OPTION_SINISTER_ALTERNATE_DESC: "На виборах переможе Сіністер Сєров.\n@STGСталліонград із часом почне війну проти @EQSЕквестрії."
   RULE_OPTION_DARKWING_ALTERNATE: "Дарк Вінґ (альтернативний шлях)"
   RULE_OPTION_DARKWING_ALTERNATE_DESC: "На виборах переможе Дарк Вінґ.\n@STGСталліонград стане маріонеткою @EQSЕквестрії й пізніше буде анексований."
 
