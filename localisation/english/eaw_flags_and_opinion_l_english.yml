@@ -11,27 +11,28 @@
  EQC_tag_switch: "§YНовий Мейрленд§! має особливе дерево фокусів під владою Місяця або Сонця. Змінити країну на §YНовий Мейрленд§!."
  CRY_tag_switch: "§YКристальна імперія§! має особливе дерево фокусів під владою Місяця або Сонця. Змінити країну на §YКристальну імперію§!."
 
- luna_reforms_support: "§YСелестія та Кантерлот працюватимуть над впровадженням реформ Луни. Цей шлях не має ризиків, але потребуватиме зусиль.§!"
- luna_reforms_independent: "§YЛуна спробує впроваджувати свої реформи без Селестії. Це може скінчитися дуже добре або дуже погано.§!"
+ ### СПРОБА РЕФОРМ ЛУНИ ###
+  luna_reforms_support: "§YСелестія та Кантерлот працюватимуть над упровадженням реформ Луни. Цей шлях не має ризиків, але потребуватиме зусиль.§!"
+  luna_reforms_independent: "§YЛуна спробує впроваджувати свої реформи без Селестії. Це може скінчитися дуже добре або дуже погано.§!"
 
- NLR_cult_radical_tt:0 "§GIn an event of an armed conflict the lunarist forces will be supplemented with a significant amount of modern equipment provided by the cultists.§!\n§RCauses some suspicious activity.§!\n§YToo much suspicious activity may cause the plot to be discovered.§!"
- NLR_cult_moderate_tt:0 "§YIn an event of an armed conflict the lunarist forces will be supplemented with a moderate amount of outdated equipment provided by the cultists.§!\n§YCauses a little suspicious activity.§!\n§YToo much suspicious activity may cause the plot to be discovered.§!"
- NLR_cult_calm_tt:0 "§RIn an event of an armed conflict the lunarist forces will be supplemented with a small amount of outdated equipment provided by the cultists.§!\n§GCauses no suspicious activity.§!"
+  NLR_cult_radical_tt: "§GУ разі спалахування збройного конфлікту сили лунаристів отримають значну кількість modern оснащення, наданого культистами.§!\n\n§RВикликає певну підозрілу активність.§!\n§YНадто підозріла діяльність може призвести до викриття змови.§!"
+  NLR_cult_moderate_tt: "§YУ разі спалахування збройного конфлікту сили лунаристів отримають помірну кількість outdated оснащення, наданого культистами.§!\n\n§YВикликає трохи підозрілої діяльності.§!\n§YНадто підозріла діяльність може призвести до викриття змови.§!"
+  NLR_cult_calm_tt: "§RУ разі спалахування збройного конфлікту сили лунаристів отримають малу кількість outdated оснащення, наданого культистами.§!\n\n§GНе викликає жодної підозрілої діяльності.§!"
 
- NLR_sympathizers_radical_tt:0 "§GLuna's speech will rally numerous factory workers of the eastern coast to the secret plot. In an event of an armed conflict this will significantly boost Luna's military industrial capacity§!\n§RCauses some suspicious activity.§!\n§YToo much suspicious activity may cause the plot to be discovered.§!"
- NLR_sympathizers_moderate_tt:0 "§YLuna's speech will rally some factory workers of the eastern coast to the secret plot. In an event of an armed conflict this will slightly boost Luna's military industrial capacity§!\n§YCauses a little suspicious activity.§!\n§YToo much suspicious activity may cause the plot to be discovered.§!"
- NLR_sympathizers_calm_tt:0 "§RLuna's speech will rally a few factory workers of the eastern coast to the secret plot. In an event of an armed conflict this will marginally boost Luna's military industrial capacity§!\n§GCauses no suspicious activity.§!"
+  NLR_sympathizers_radical_tt: "§GПромова Луни залучить numerous заводських працівників східного узбережжя до таємного плану. У разі спалахування збройного конфлікту вони значно посилять військово-промисловий потенціал Луни.§!\n\n§RВикликає певну підозрілу активність.§!\n§YНадто підозріла діяльність може призвести до викриття змови.§!"
+  NLR_sympathizers_moderate_tt: "§YПромова Луни залучить деяких заводських працівників східного узбережжя до таємного плану. У разі спалахування збройного конфлікту вони трохи посилять військово-промисловий потенціал Луни.§!\n\n§YВикликає трохи підозрілої діяльності.§!\n§YНадто підозріла діяльність може призвести до викриття змови.§!"
+  NLR_sympathizers_calm_tt: "§RПромова Луни залучить декількох заводських працівників східного узбережжя до таємного плану. У разі спалахування збройного конфлікту вони ледь посилять військово-промисловий потенціал Луни.§!\n\n§GНе викликає жодної підозрілої діяльності.§!"
 
- NLR_batpony_family_radical_tt:0 "§GBat ponies will form organized militias to help protect Luna's protestors. In an event of an armed conflict the lunarist forces will be supported by several well-equipped thestral divisions.§!\n§RCauses some suspicious activity.§!\n§YToo much suspicious activity may cause the plot to be discovered.§!"
- NLR_batpony_family_moderate_tt:0 "§YBat ponies will form some escort troops and minor militias to be available during the protests. In an event of an armed conflict the lunarist forces will be supported by a few partially equipped thestral divisions.§!\n§YCauses a little suspicious activity.§!\n§YToo much suspicious activity may cause the plot to be discovered.§!"
- NLR_batpony_family_calm_tt:0 "§RBat pony forces will be ready to be called up for future conflicts, but not immediately available if an armed conflict occurs.§!\n§GCauses no suspicious activity.§!"
+  NLR_batpony_family_radical_tt: "§GБетпоні сформують організовані збройні угрупування для допомоги протестувальникам Луни. У разі спалахування збройного конфлікту сили лунаристів підтримають жменя добре оснащених дивізій фестралів.§!\n\n§RВикликає певну підозрілу активність.§!\n§YНадто підозріла діяльність може призвести до викриття змови.§!"
+  NLR_batpony_family_moderate_tt: "§YБетпоні сформують кілька частин супроводу та дрібних ополчень, готових на випадок протестів. У разі спалахування збройного конфлікту сили лунаристів підтримають кілька частково оснащених дивізій фестралів.§!\n\n§YВикликає трохи підозрілої діяльності.§!\n§YНадто підозріла діяльність може призвести до викриття змови.§!"
+  NLR_batpony_family_calm_tt: "§RСили бетпоні будуть готові до заклику в майбутніх конфліктах, але в разі спалахування збройного конфлікту — не відразу.§!\n\n§GНе викликає жодної підозрілої діяльності.§!"
 
- NLR_partisans_radical_tt:0 "§GThe cultists will gather around the city of Whinnyapolis and attempt to take control of it and the surrounding area if an armed conflict occurs.§!\n§RCauses some suspicious activity.§!\n§YToo much suspicious activity may cause the plot to be discovered.§!"
- NLR_partisans_moderate_tt:0 "§YTheir primary goal hindered, the cultists will make a smaller push for the town of Ponderosa and attempt to take control of it and the surrounding area if an armed conflict occurs.§!\n§YCauses a little suspicious activity.§!\n§YToo much suspicious activity may cause the plot to be discovered.§!"
- NLR_partisans_calm_tt:0 "§RThe cultists will not be able to launch additional attacks if an armed conflcit occurs.§!\n§GCauses no suspicious activity.§!"
+  NLR_partisans_radical_tt: "§GКультисти зберуться довкола міста Вінніаполіс і в разі спалахування збройного конфлікту спробують узяти контроль над містом та його околицями.§!\n\n§RВикликає певну підозрілу активність.§!\n§YНадто підозріла діяльність може призвести до викриття змови.§!"
+  NLR_partisans_moderate_tt: "§YНе досягши первісної мети, культисти попрямують на місто Пондероза та в разі спалахування збройного конфлікту спробують узяти під контроль місто та його околиці.§!\n\n§YВикликає трохи підозрілої діяльності.§!\n§YНадто підозріла діяльність може призвести до викриття змови.§!"
+  NLR_partisans_calm_tt: "§RУ разі спалахування збройного конфлікту культисти не зможуть улаштувати додаткові атаки.§!\n\n§GНе викликає жодної підозрілої діяльності.§!"
 
- NLR_luna_speech_aggro_tt: "§RЦе розпочне громадянську війну.§!"
- NLR_luna_try_for_peace_tt: "§YЦе може й не вдатися...§!"
+  NLR_luna_speech_aggro_tt: "§RЦе розпочне громадянську війну.§!"
+  NLR_luna_try_for_peace_tt: "§YЦе може й не вдатися...§!"
 
  # nlr_workers_tlt:0 "Get support of Manehattan workers."
  eqs_refused_holding_games: "Відмовилися проводити Кристальний ярмарок"

@@ -442,8 +442,8 @@
  JHZ_viira_fascism: "Віірадська держава Гартленд"
 
  MNC_viira_fascism: "Пунавуорі"
- MNC_viira_fascism_DEF: "Червона Гора" 
- MNC_viira_fascism_ADJ: "Пунвуоріськ"
+ MNC_viira_fascism_DEF: "Червона Гора"
+ MNC_viira_fascism_ADJ: "Пунавуорійськ"
 
  JNG_viira_fascism: "Луотейнен Аарнікотка-Алуе"
  JNG_viira_fascism_DEF: "Північно-Західна Орлина Держава"
@@ -985,7 +985,7 @@
  CGI_CVA_CTH_zoenician_puppet_democratic_DEF: "Кваґґатайська республіка"
  CGI_CVA_CTH_zoenician_puppet_democratic_ADJ: "Кваґґатайськ"
  CGI_CVA_CTH_zoenician_puppet_neutrality: "Кваґґатай"
- CGI_CVA_CTH_zoenician_puppet_neutrality_DEF: "Кваґґатай" 
+ CGI_CVA_CTH_zoenician_puppet_neutrality_DEF: "Кваґґатай"
  CGI_CVA_CTH_zoenician_puppet_neutrality_ADJ: "Кваґґатайськ"
  CGI_CVA_CTH_zoenician_puppet_communism: "Унітарна держава Кольтшґару та Бакхари"
  CGI_CVA_CTH_zoenician_puppet_communism_DEF: "Унітарна держава Кольтшґару та Бакхари"
@@ -998,7 +998,7 @@
  LMB_CVA_CTH_zoenician_puppet_democratic_DEF: "Ламбет"
  LMB_CVA_CTH_zoenician_puppet_democratic_ADJ: "Ламбетськ"
  LMB_CVA_CTH_zoenician_puppet_neutrality: "Ламбет"
- LMB_CVA_CTH_zoenician_puppet_neutrality_DEF: "Ламбет" 
+ LMB_CVA_CTH_zoenician_puppet_neutrality_DEF: "Ламбет"
  LMB_CVA_CTH_zoenician_puppet_neutrality_ADJ: "Ламбетськ"
  LMB_CVA_CTH_zoenician_puppet_communism: "Ламбетський автономний реґіон"
  LMB_CVA_CTH_zoenician_puppet_communism_DEF: "Ламбетський автономний реґіон"
@@ -1011,7 +1011,7 @@
  MCW_CVA_CTH_zoenician_puppet_democratic_DEF: "Макавія"
  MCW_CVA_CTH_zoenician_puppet_democratic_ADJ: "Макавіанськ"
  MCW_CVA_CTH_zoenician_puppet_neutrality: "Макавія"
- MCW_CVA_CTH_zoenician_puppet_neutrality_DEF: "Макавія" 
+ MCW_CVA_CTH_zoenician_puppet_neutrality_DEF: "Макавія"
  MCW_CVA_CTH_zoenician_puppet_neutrality_ADJ: "Макавіанськ"
  MCW_CVA_CTH_zoenician_puppet_communism: "Макавіанський народний союз"
  MCW_CVA_CTH_zoenician_puppet_communism_DEF: "Макавіанський народний союз"
@@ -1024,7 +1024,7 @@
  MIT_CVA_CTH_zoenician_puppet_democratic_DEF: "Республіка Астеріон"
  MIT_CVA_CTH_zoenician_puppet_democratic_ADJ: "Астеріонськ"
  MIT_CVA_CTH_zoenician_puppet_neutrality: "Республіка Астеріон"
- MIT_CVA_CTH_zoenician_puppet_neutrality_DEF: "Республіка Астеріон" 
+ MIT_CVA_CTH_zoenician_puppet_neutrality_DEF: "Республіка Астеріон"
  MIT_CVA_CTH_zoenician_puppet_neutrality_ADJ: "Астеріонськ"
  MIT_CVA_CTH_zoenician_puppet_communism: "Астеріонський колектив"
  MIT_CVA_CTH_zoenician_puppet_communism_DEF: "Астеріонський колектив"
@@ -1037,7 +1037,7 @@
  CDR_CVA_CTH_zoenician_puppet_2_democratic_DEF: "Кольтдарська республіка"
  CDR_CVA_CTH_zoenician_puppet_2_democratic_ADJ: "Кольтдарськ"
  CDR_CVA_CTH_zoenician_puppet_2_neutrality: "Кольтдарська республіка"
- CDR_CVA_CTH_zoenician_puppet_2_neutrality_DEF: "Кольтдарська республіка" 
+ CDR_CVA_CTH_zoenician_puppet_2_neutrality_DEF: "Кольтдарська республіка"
  CDR_CVA_CTH_zoenician_puppet_2_neutrality_ADJ: "Кольтдарськ"
  CDR_CVA_CTH_zoenician_puppet_2_communism: "Кольтдарська республіка"
  CDR_CVA_CTH_zoenician_puppet_2_communism_DEF: "Кольтдарська республіка"
@@ -1175,7 +1175,7 @@
  EQC_democratic_DEF: "Співдружність Нового Мейрленду"
  EQC_democratic_ADJ: "Новомейрлендськ"
  EQC_neutrality: "Новий Мейрленд"
- EQC_neutrality_DEF: "Новий Мейрленд" 
+ EQC_neutrality_DEF: "Новий Мейрленд"
  EQC_neutrality_ADJ: "Новомейрлендськ"
  EQC_communism: "Соціалістична республіка Нового Мейрленду"
  EQC_communism_DEF: "Соціалістична республіка Нового Мейрленду"
@@ -1197,7 +1197,7 @@
  EQC_NLR_thestralia_neutrality_ADJ: "Фестралійськ"
 
  EQC_TAL_neutrality: "Республіка Талуза"
- EQC_TAL_neutrality_DEF: "Республіка Талуза" 
+ EQC_TAL_neutrality_DEF: "Республіка Талуза"
  EQC_TAL_neutrality_ADJ: "Талузьк"
  EQC_TAL_fascism: "Республіка Талуза"
  EQC_TAL_fascism_DEF: "Республіка Талуза"
@@ -1210,7 +1210,7 @@
  EQC_TAL_democratic_ADJ: "Талузьк"
 
  EQC_WNG_neutrality: "Республіка Вінґбардія"
- EQC_WNG_neutrality_DEF: "Республіка Вінґбардія" 
+ EQC_WNG_neutrality_DEF: "Республіка Вінґбардія"
  EQC_WNG_neutrality_ADJ: "Вінґбардійськ"
  EQC_WNG_fascism: "Республіка Вінґбардія"
  EQC_WNG_fascism_DEF: "Республіка Вінґбардія"
@@ -1223,7 +1223,7 @@
  EQC_WNG_democratic_ADJ: "Вінґбардійськ"
 
  EQC_FAL_neutrality: "Республіка Фалькор"
- EQC_FAL_neutrality_DEF: "Республіка Фалькор" 
+ EQC_FAL_neutrality_DEF: "Республіка Фалькор"
  EQC_FAL_neutrality_ADJ: "Фалькорськ"
  EQC_FAL_fascism: "Республіка Фалькор"
  EQC_FAL_fascism_DEF: "Республіка Фалькор"
@@ -1236,7 +1236,7 @@
  EQC_FAL_democratic_ADJ: "Фалькорськ"
 
  EQC_SIC_neutrality: "Республіка Сікамеон"
- EQC_SIC_neutrality_DEF: "Республіка Сікамеон" 
+ EQC_SIC_neutrality_DEF: "Республіка Сікамеон"
  EQC_SIC_neutrality_ADJ: "Сікамеонськ"
  EQC_SIC_fascism: "Республіка Сікамеон"
  EQC_SIC_fascism_DEF: "Республіка Сікамеон"
@@ -1249,7 +1249,7 @@
  EQC_SIC_democratic_ADJ: "Сікамеонськ"
 
  EQC_FRN_neutrality: "Республіка П'юмонт"
- EQC_FRN_neutrality_DEF: "Республіка П'юмонт" 
+ EQC_FRN_neutrality_DEF: "Республіка П'юмонт"
  EQC_FRN_neutrality_ADJ: "П'юмонтськ"
  EQC_FRN_fascism: "Республіка П'юмонт"
  EQC_FRN_fascism_DEF: "Республіка П'юмонт"
@@ -1262,7 +1262,7 @@
  EQC_FRN_democratic_ADJ: "П'юмонтськ"
 
  EQC_ARA_neutrality: "Республіка Арантіґа"
- EQC_ARA_neutrality_DEF: "Республіка Арантіґа" 
+ EQC_ARA_neutrality_DEF: "Республіка Арантіґа"
  EQC_ARA_neutrality_ADJ: "Арантізьк"
  EQC_ARA_fascism: "Республіка Арантіґа"
  EQC_ARA_fascism_DEF: "Республіка Арантіґа"
@@ -1275,7 +1275,7 @@
  EQC_ARA_democratic_ADJ: "Арантізьк"
 
  EQC_CYA_neutrality: "Республіка Ціанолізія"
- EQC_CYA_neutrality_DEF: "Республіка Ціанолізія" 
+ EQC_CYA_neutrality_DEF: "Республіка Ціанолізія"
  EQC_CYA_neutrality_ADJ: "Ціанолізьк"
  EQC_CYA_fascism: "Республіка Ціанолізія"
  EQC_CYA_fascism_DEF: "Республіка Ціанолізія"
@@ -1288,7 +1288,7 @@
  EQC_CYA_democratic_ADJ: "Ціанолізьк"
 
  EQC_MIT_neutrality: "Республіка Астеріон"
- EQC_MIT_neutrality_DEF: "Республіка Астеріон" 
+ EQC_MIT_neutrality_DEF: "Республіка Астеріон"
  EQC_MIT_neutrality_ADJ: "Астеріонськ"
  EQC_MIT_fascism: "Республіка Астеріон"
  EQC_MIT_fascism_DEF: "Республіка Астеріон"
@@ -1573,7 +1573,7 @@
  FAT_NTR_puppet_communism_ADJ: "Еверфростськ"
 
  FAW_NTR_puppet_fascism: "Республіка Еверфрост"
- FAW_NTR_puppet_fascism_DEF: "Республіка Еверфрост" 
+ FAW_NTR_puppet_fascism_DEF: "Республіка Еверфрост"
  FAW_NTR_puppet_fascism_ADJ: "Еверфростськ"
  FAW_NTR_puppet_neutrality: "Республіка Еверфрост"
  FAW_NTR_puppet_neutrality_DEF: "Республіка Еверфрост"
@@ -1932,7 +1932,7 @@
 
 # country_GRF
  ruthless_capitalist: "Безжальний капіталіст"
- 
+
  GRF_shadowrun_fascism: "Нова-Грифонія®"
  GRF_shadowrun_fascism_DEF: "Нова-Грифонія®"
  GRF_shadowrun_fascism_ADJ: "Нова-грифонськ®"
@@ -2038,7 +2038,7 @@
   RCT_reichskommissariat_communism: "Соціалістична річкова республіка"
   RCT_reichskommissariat_communism_DEF: "Соціалістична річкова республіка"
   RCT_reichskommissariat_communism_ADJ: "Рікгородськ"
- 
+
   ZES_reichskommissariat_fascism: "Райхскомісаріат Південно-Східна Грифонія"
   ZES_reichskommissariat_fascism_DEF: "Райхскомісаріат Південно-Східна Грифонія"
   ZES_reichskommissariat_fascism_ADJ: "Південно-східн"
@@ -2565,7 +2565,7 @@
  CGI_HIE_CTH_puppet_democratic_DEF: "Кваґґатайська республіка"
  CGI_HIE_CTH_puppet_democratic_ADJ: "Кваґґатайськ"
  CGI_HIE_CTH_puppet_neutrality: "Кваґґатай"
- CGI_HIE_CTH_puppet_neutrality_DEF: "Кваґґатай" 
+ CGI_HIE_CTH_puppet_neutrality_DEF: "Кваґґатай"
  CGI_HIE_CTH_puppet_neutrality_ADJ: "Кваґґатайськ"
  CGI_HIE_CTH_puppet_communism: "Унітарна держава Кольтшґару та Бакхари"
  CGI_HIE_CTH_puppet_communism_DEF: "Унітарна держава Кольтшґару та Бакхари"
@@ -2578,7 +2578,7 @@
  LMB_HIE_CTH_puppet_democratic_DEF: "Ламбет"
  LMB_HIE_CTH_puppet_democratic_ADJ: "Ламбетськ"
  LMB_HIE_CTH_puppet_neutrality: "Ламбет"
- LMB_HIE_CTH_puppet_neutrality_DEF: "Ламбет" 
+ LMB_HIE_CTH_puppet_neutrality_DEF: "Ламбет"
  LMB_HIE_CTH_puppet_neutrality_ADJ: "Ламбетськ"
  LMB_HIE_CTH_puppet_communism: "Ламбет"
  LMB_HIE_CTH_puppet_communism_DEF: "Ламбет"
@@ -2591,7 +2591,7 @@
  MCW_HIE_CTH_puppet_democratic_DEF: "Макавія"
  MCW_HIE_CTH_puppet_democratic_ADJ: "Макавіанськ"
  MCW_HIE_CTH_puppet_neutrality: "Макавія"
- MCW_HIE_CTH_puppet_neutrality_DEF: "Макавія" 
+ MCW_HIE_CTH_puppet_neutrality_DEF: "Макавія"
  MCW_HIE_CTH_puppet_neutrality_ADJ: "Макавіанськ"
  MCW_HIE_CTH_puppet_communism: "Макавіанський народний союз"
  MCW_HIE_CTH_puppet_communism_DEF: "Макавіанський народний союз"
@@ -2604,7 +2604,7 @@
  MIT_HIE_CTH_puppet_democratic_DEF: "Республіка Астеріон"
  MIT_HIE_CTH_puppet_democratic_ADJ: "Астеріонськ"
  MIT_HIE_CTH_puppet_neutrality: "Республіка Астеріон"
- MIT_HIE_CTH_puppet_neutrality_DEF: "Республіка Астеріон" 
+ MIT_HIE_CTH_puppet_neutrality_DEF: "Республіка Астеріон"
  MIT_HIE_CTH_puppet_neutrality_ADJ: "Астеріонськ"
  MIT_HIE_CTH_puppet_communism: "Астеріонський колектив"
  MIT_HIE_CTH_puppet_communism_DEF: "Астеріонський колектив"
@@ -2725,7 +2725,7 @@
  HIP_hardline_communism: "Комітет світової революції"
  HIP_hardline_communism_DEF: "Комітет світової революції"
  HIP_hardline_communism_ADJ: "Революційн"
- 
+
  HIP_anarchy_communism: "Сіквестрія"
  HIP_anarchy_communism_DEF: "Постцивілізаційні спільноти Сіквестрії та Гіпогрифії"
  HIP_anarchy_communism_ADJ: "Сіквестрійськ"
@@ -2754,7 +2754,7 @@
 
  HIE_HIP_puppet: "Гіппон"
  HIE_HIP_puppet_DEF: "Гіппонська республіка"
- 
+
  TRO_HIP_puppet: "Троткат"
  TRO_HIP_puppet_DEF: "Троткатська республіка"
 
@@ -2770,11 +2770,11 @@
  HIP_cultist_fascism: "Культисти Безодні"
  HIP_cultist_fascism_DEF: "Культисти Безодні"
  HIP_cultist_fascism_ADJ: "Культистськ"
- 
+
  HIP_loyalist_democratic: "Гіпогрифія"
  HIP_loyalist_democratic_DEF: "Гіпогрифія"
  HIP_loyalist_democratic_ADJ: "Гіпогрифськ"
- 
+
  HIP_siren_fascism: "Сиреналія"
  HIP_siren_fascism_DEF: "Сиреналія"
  HIP_siren_fascism_ADJ: "Сиренськ"
@@ -2817,7 +2817,7 @@
  HIP_united_society_communism: "Революційний Аріс"
  HIP_united_society_communism_DEF: "Революційний Аріс"
  HIP_united_society_communism_ADJ: "Аріськ"
- 
+
  HIP_united_society_2_fascism: "Фалангістський Аріс"
  HIP_united_society_2_fascism_DEF: "Національна фалангістська держава Арісу"
  HIP_united_society_2_fascism_ADJ: "Аріськ"
@@ -2834,7 +2834,7 @@
  HIP_nzf_democratic: "Північнозебриканська федерація"
  HIP_nzf_democratic_DEF: "Північнозебриканська федерація"
  HIP_nzf_democratic_ADJ: "Північнозебриканськ"
- 
+
  HIP_MILITARY_fascism: "Військовий уряд Арісу"
  HIP_MILITARY_fascism_DEF: "Військовий уряд Арісу"
  HIP_MILITARY_fascism_ADJ: "Аріськ"
@@ -3014,7 +3014,7 @@
  JER_REPUBLIC_neutrality: "Аквелійська республіка"
  JER_REPUBLIC_neutrality_DEF: "Друга Аквелійська республіка"
  JER_REPUBLIC_neutrality_ADJ: "Аквелійськ"
- 
+
  JER_REPUBLIC_2_democratic: "Аквелійська республіка"
  JER_REPUBLIC_2_democratic_DEF: "Друга Аквелійська республіка"
  JER_REPUBLIC_2_democratic_ADJ: "Аквелійськ"
@@ -3027,7 +3027,7 @@
  JER_REPUBLIC_2_neutrality: "Аквелійська республіка"
  JER_REPUBLIC_2_neutrality_DEF: "Друга Аквелійська республіка"
  JER_REPUBLIC_2_neutrality_ADJ: "Аквелійськ"
- 
+
  JER_REPUBLIC_3_democratic: "Аквелійська республіка"
  JER_REPUBLIC_3_democratic_DEF: "Друга Аквелійська республіка"
  JER_REPUBLIC_3_democratic_ADJ: "Аквелійськ"
@@ -3040,7 +3040,7 @@
  JER_REPUBLIC_3_neutrality: "Аквелійська республіка"
  JER_REPUBLIC_3_neutrality_DEF: "Друга Аквелійська республіка"
  JER_REPUBLIC_3_neutrality_ADJ: "Аквелійськ"
- 
+
  JER_JEB_REPUBLIC_PUPPET_democratic: "Район Ріла"
  JER_JEB_REPUBLIC_PUPPET_democratic_DEF: "Район Ріла"
  JER_JEB_REPUBLIC_PUPPET_democratic_ADJ: "Рільськ"
@@ -3053,7 +3053,7 @@
  JER_JFT_REPUBLIC_PUPPET_communism: "Район Прідея"
  JER_JFT_REPUBLIC_PUPPET_communism_DEF: "Район Прідея"
  JER_JFT_REPUBLIC_PUPPET_communism_ADJ: "Прідейськ"
- 
+
  JER_GRIFFONIAN_REPUBLIC_fascism: "Національна Республіка Грифонів"
  JER_GRIFFONIAN_REPUBLIC_fascism_DEF: "Національна Республіка Грифонів"
  JER_GRIFFONIAN_REPUBLIC_fascism_ADJ: "Республіканськ"
@@ -3066,7 +3066,7 @@
  JER_GRIFFONIAN_REPUBLIC_communism: "Республіка Грифонів"
  JER_GRIFFONIAN_REPUBLIC_communism_DEF: "Республіка Грифонів"
  JER_GRIFFONIAN_REPUBLIC_communism_ADJ: "Республіканськ"
- 
+
  JER_LE_EMPIRE_fascism: "Велика Аквелійська республіка"
  JER_LE_EMPIRE_fascism_DEF: "Велика Аквелійська республіка"
  JER_LE_EMPIRE_fascism_ADJ: "Аквелійськ"
@@ -3097,7 +3097,7 @@
   JER_communism_party_long_r: "Партія аквелійських робітників — радикали"
   JER_national_party_name: "НПА"
   JER_national_party_name_long: "Національна партія Аквелії"
- 
+
   JER_pan_griffonian_neutrality_party_name: "NRP"
   JER_pan_griffonian_neutrality_party_name_long: "Національна республіканська партія"
   JER_pan_griffonian_democratic_party_name: "МФГ"
@@ -3115,7 +3115,7 @@
  JHZ_democratic_DEF: "Герцландська республіка"
  JHZ_democratic_ADJ: "Герцландськ"
  JHZ_neutrality: "Велике князівство Герцланд"
- JHZ_neutrality_DEF: "Велике князівство Герцланд" 
+ JHZ_neutrality_DEF: "Велике князівство Герцланд"
  JHZ_neutrality_ADJ: "Герцландськ"
  JHZ_communism: "Герцландська республіка"
  JHZ_communism_DEF: "Герцландська республіка"
@@ -3128,7 +3128,7 @@
  JNG_democratic_DEF: "Північна Республіка Грифонів"
  JNG_democratic_ADJ: "Північногрифонськ"
  JNG_neutrality: "Велике герцогство Клаудбері"
- JNG_neutrality_DEF: "Велике герцогство Клаудбері" 
+ JNG_neutrality_DEF: "Велике герцогство Клаудбері"
  JNG_neutrality_ADJ: "Клаудберійськ"
  JNG_communism: "Північна Республіка Грифонів"
  JNG_communism_DEF: "Північна Республіка Грифонів"
@@ -3141,7 +3141,7 @@
  JGF_democratic_DEF: "Конфедерація озера Румер"
  JGF_democratic_ADJ: "Румерськ"
  JGF_neutrality: "Конфедерація озера Румер"
- JGF_neutrality_DEF: "Конфедерація озера Румер" 
+ JGF_neutrality_DEF: "Конфедерація озера Румер"
  JGF_neutrality_ADJ: "Румерськ"
  JGF_communism: "Конфедерація озера Румер"
  JGF_communism_DEF: "Конфедерація озера Румер"
@@ -3154,7 +3154,7 @@
  JKR_democratic_DEF: "Карфініанська федерація"
  JKR_democratic_ADJ: "Карфініанськ"
  JKR_neutrality: "Карфініанська федерація"
- JKR_neutrality_DEF: "Карфініанська федерація" 
+ JKR_neutrality_DEF: "Карфініанська федерація"
  JKR_neutrality_ADJ: "Карфініанськ"
  JKR_communism: "Карфініанська федерація"
  JKR_communism_DEF: "Карфініанська федерація"
@@ -3167,7 +3167,7 @@
  JOS_democratic_DEF: "Ост-Грифонська федеративна республіка"
  JOS_democratic_ADJ: "Ост-грифонськ"
  JOS_neutrality: "Об'єднане герцогство Остланд"
- JOS_neutrality_DEF: "Об'єднане герцогство Остланд" 
+ JOS_neutrality_DEF: "Об'єднане герцогство Остланд"
  JOS_neutrality_ADJ: "Остландськ"
  JOS_communism: "Ост-Грифонська федеративна республіка"
  JOS_communism_DEF: "Ост-Грифонська федеративна республіка"
@@ -3180,7 +3180,7 @@
  JHP_democratic_DEF: "Конкордат Поні Пагорбів"
  JHP_democratic_ADJ: "Пагорбн"
  JHP_neutrality: "Королівство Беорґфордас"
- JHP_neutrality_DEF: "Королівство Беорґфордас" 
+ JHP_neutrality_DEF: "Королівство Беорґфордас"
  JHP_neutrality_ADJ: "Пагорбн"
  JHP_communism: "Конкордат Поні Пагорбів"
  JHP_communism_DEF: "Конкордат Поні Пагорбів"
@@ -3193,7 +3193,7 @@
  JRV_democratic_DEF: "Річкова Федерація"
  JRV_democratic_ADJ: "Річков"
  JRV_neutrality: "Сполученя князівства Річкових Земель"
- JRV_neutrality_DEF: "Сполученя князівства Річкових Земель" 
+ JRV_neutrality_DEF: "Сполученя князівства Річкових Земель"
  JRV_neutrality_ADJ: "Річкоземн"
  JRV_communism: "Річкова Федерація"
  JRV_communism_DEF: "Річкова Федерація"
@@ -3206,7 +3206,7 @@
  JAS_democratic_DEF: "Республіка Астеріон"
  JAS_democratic_ADJ: "Мінотаврськ"
  JAS_neutrality: "Королівство Астеріон"
- JAS_neutrality_DEF: "Королівство Астеріон" 
+ JAS_neutrality_DEF: "Королівство Астеріон"
  JAS_neutrality_ADJ: "Мінотаврськ"
  JAS_communism: "Республіка Астеріон"
  JAS_communism_DEF: "Республіка Астеріон"
@@ -3219,7 +3219,7 @@
  JEV_democratic_DEF: "Евійська конфедерація"
  JEV_democratic_ADJ: "Евійськ"
  JEV_neutrality: "Евійська конфедерація"
- JEV_neutrality_DEF: "Евійська конфедерація" 
+ JEV_neutrality_DEF: "Евійська конфедерація"
  JEV_neutrality_ADJ: "Евійськ"
  JEV_communism: "Евійська конфедерація"
  JEV_communism_DEF: "Евійська конфедерація"
@@ -3954,7 +3954,28 @@
  NLR_nightmare: "Nightmare Motors, Inc."
  NLR_shoof: "$shoof$"
 
- NLR_nightmare_moon: "Найтмер Мун"
+ ### ПЕРСОНАЖІ ###
+  NLR_nightmare_moon: "Найтмер Мун"
+  NLR_astral_vision: "Астрал Віжн"
+  NLR_sunny_daze: "Санні Дейз"
+  NLR_midnight_blossom: "Міднайт Блоссом"
+  NLR_echo: "Ехо"
+  NLR_night_blade: "Найт Блейд"
+  NLR_tzyca: "Тзіка"
+  NLR_icy_breeze: "Айсі Бріз"
+  NLR_nightbreeze_thunderstorm: "Найтбріз Тандерсторм"
+  NLR_cleansing_night: "Клензинґ Найт"
+  NLR_seaward_march: "Сіуард Марч"
+  NLR_galaxy_rose: "Ґелаксі Роуз"
+
+ ### РИСИ ###
+  benevolent_overlord: "Доброзичлива імператриця"
+  #benevolent_overlord_desc:0 "Through compassion and forgiveness, the Empress rules over Equestria with a just hoof. It would still be unwise to cross her, however..."
+  nightmare_moon_trait: "Імператриця Ночі" # Володарка Ночі
+  nightmare_moon_trait_2: "$nightmare_moon_trait$"
+  the_nightmare_trait: "Найтмер"
+  NLR_regent_of_the_southwest: "Президент Південної асоціації"
+  NLR_empress_of_equus_trait: "Імператриця Всія Еквусу"
 
 # country_NMS
  NMS_nobody: "Ніхто"
@@ -4929,6 +4950,8 @@
  ### РІШЕННЯ ###
   TRD_trade_with_skyfall: "Торгувати зі Скайфоллом"
   TRD_trade_with_skyfall_desc: "Попри свій розмір, Скайфолл — економічний титан. Трохи інвестицій тут, кілька операцій із лоббіювання там, і ми зможемо отримати багато економічних вигод. Однак, це буде недешево, і Скайфолл може не оцінити наші спроби розширити торгові відносини з ним."
+  TRD_stop_trading_with_skyfall: "Припинити торгівлю зі Скайфоллом"
+  TRD_stop_trading_with_skyfall_desc: "Торгівля зі Скайфоллом принесла нас багато вигод, але якщо ситуація зміниться, ми завжди можемо припинити свою діяльність."
 
 # country_TRO
  TRO_civil_war_tag: "Об'єднаний республіканський фронт"
@@ -5326,7 +5349,7 @@
   YAL_Grover_Lord_of_Yale_communism: "Єльські комуни"
   YAL_Grover_Lord_of_Yale_communism_DEF: "Єльські комуни"
   YAL_Grover_Lord_of_Yale_communism_ADJ: "Єльськ"
- 
+
   YAL_grover_empire_fascism: "Грифонський Райх"
   YAL_grover_empire_fascism_DEF: "Грифонський Райх"
   YAL_grover_empire_fascism_ADJ: "Грифонськ"
