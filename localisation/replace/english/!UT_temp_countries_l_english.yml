@@ -544,6 +544,35 @@
  CGI_BAT_communism_DEF: "Соціалістична держава Кваґґатай"
  CGI_BAT_communism_ADJ: "Кваґґатайськ"
 
+ ### ПЕРСОНАЖІ ###
+  BAT_autumn_breeze: "Отем Бріз"
+  BAT_emerald_light: "Емералд Лайт"
+  BAT_eternal_eclipse: "Етернал Екліпс"
+  BAT_lunar_hail: "Лунар Гейл"
+  BAT_lightning_charm: "Лайтнинґ Чарм"
+  BAT_stone_palisade: "Стоун Палісейд"
+  BAT_lucent_eclipse: "Люсент Екліпс"
+  BAT_auburn_leaf: "Оберн Ліф"
+  BAT_leaf_lehay: "Ліф ЛеГей"
+  BAT_the_jackal: "Шакал"
+  BAT_dusk_wane: "Даск Уейн"
+  BAT_carrot_stick: "Керрот Стік"
+  BAT_carrot_stick_2: "$BAT_carrot_stick$"
+  BAT_auburn_leaf_and_lucent_eclipse: "$BAT_auburn_leaf$ і $BAT_lucent_eclipse$"
+  BAT_gorge_batton: "Гордж З. Баттон"
+  BAT_ocean_spray: "Оушн Спрей"
+  BAT_various_leaders: "Різні лідери"
+  BAT_autumn_meadow: "Отем Медоу"
+  BAT_imperial_legionary_council: "Імперська рада легіонерів"
+  BAT_stirling_silver: "Стірлінґ Силвер"
+  BAT_evening_star: "Івнинґ Стар"
+  BAT_crimson_wave: "Кримзон Уейв"
+  BAT_silver_shine: "Силвер Шайн"
+  BAT_ocean_spray_2: "Генерал-губернатор $BAT_ocean_spray$"
+  BAT_violet_glow: "Генерал-губернатор Вайолет Ґлоу"
+  BAT_hefty_standard: "Генерал-губернатор Гефті Стендард"
+  BAT_comet_flash: "Комет Флеш"
+
  ABILITY_CHEMICAL_ATTACK: "Газова атака"
  ABILITY_CHEMICAL_ATTACK_DESC: ""
 
@@ -2839,6 +2868,40 @@
  HIP_MILITARY_fascism_DEF: "Військовий уряд Арісу"
  HIP_MILITARY_fascism_ADJ: "Аріськ"
 
+ ### ПЕРСОНАЖІ ###
+  HIP_queen_novo: "Королева Ново"
+  HIP_stratus_skyranger: "Стратус Скайрейнджер"
+  HIP_posada: "Посада"
+  HIP_sky_beak: "Скай Бік"
+  HIP_nimbus_cloudstriker: "Німбус Клаудстрайкер"
+  HIP_arcus_flamefeather: "Аркус Файрбренд"
+  HIP_arden_ironquill: "Арден Айронквілл"
+  HIP_ulyssess: "Улісс"
+  HIP_colour_field: "Колор Філд"
+  HIP_lucy_duskfeather: "Люсі Даскфезер"
+  HIP_seaspray: "Сіспрей"
+  HIP_nobody: "Ніхто"
+  HIP_faber_greyfeather: "Фабер Ґрейфезер"
+  HIP_cold_stream: "Колд Стрім"
+  HIP_razorbeak: "Рейзорбік"
+  HIP_ocean_breeze: "Оушн Бріз"
+  HIP_typhoon: "Тайфун"
+  HIP_skybolt_spear: "Скайболт Спір"
+  HIP_blizzard_blitz: "Бліззард Бліц"
+  HIP_raft_wood: "Рафт Вуд"
+  HIP_af_duumvirate: "$HIP_raft_wood$ і $HIP_crack_lightning$"
+  HIP_council_of_students: "Рада студентів"
+  HIP_skystar: "Принцеса Скайстар"
+  HIP_skystar_queen: "Королева Скайстар"
+  HIP_skystar_citizen: "Скайстар"
+ 
+  HIP_cultist_leader: "Лідер культистів"
+  HIP_SIR_adagio: "Адажіо Дазл"
+  HIP_SIR_aria: "Арія Блейз"
+  HIP_SIR_sonata: "Соната Даск"
+
+  HIP_crack_lightning: "Крек Лайтнинґ"
+
  HIP_SIR_adagia: "Адажія"
  HIP_SIR_vp_adagia: "Адажія"
 
@@ -4796,8 +4859,8 @@
  TAL_flt_syndi_empire_communism_ADJ: "Південногрифонськ"
 
 # country_TBK
- BAT_republic: "Нова Міясчна Республіка"
- BAT_republic_DEF: "Нова Міясчна Республіка"
+ BAT_republic: "Нова Місячна Республіка"
+ BAT_republic_DEF: "Нова Місячна Республіка"
  BAT_republic_ADJ: "Місячн"
 
  TBK_ulnz: "Сполучені Землі Північної Зебрики"
@@ -4835,6 +4898,24 @@
  CTH_neo_hazrumenia_puppet: "Покровительство Кольтфаген"
  CTH_neo_hazrumenia_puppet_DEF: "Покровительство Кольтфаген"
  CTH_neo_hazrumenia_puppet_ADJ: "Кольтфагенськ"
+
+ ### ПЕРСОНАЖІ ###
+  TBK_pea_shooter: "Пі Шутер"
+  TBK_rose_rain: "Роуз Рейн"
+  TBK_zegiga: "Зеґіґа"
+  TBK_republic_congress: "Конгрес Республіки"
+  TBK_warlord_anarchy: "Анархія воєначальників"
+  TBK_wallnut_drive: "Уолнат Драйв"
+  TBK_baragzen: "Бараґзен"
+  TBK_matanzal: "Матанзал"
+  TBK_zamal_matanzal: "Замал-Матанзал"
+  TBK_zaalhanni: "Заалханні"
+  TBK_zamal_zaalhanni: "Замал-Заалханні"
+  TBK_alesia: "Алесія Снєжна"
+  TBK_vasile: "Васіле чель Традат"
+  TBK_bean_counter: "Бін Каунтер"
+  TBK_home_brew: "Гоум Брю"
+  ZUM_premier_balzer: "Прем'єр Балзер"
 
 # country_TEM
  TEM_aztlan_fascism: "Астланська імперія"
@@ -5040,6 +5121,14 @@
  WAR_HIP_greater_neutrality_DEF: "Суверенне королівство Велика Варзена"
  WAR_HIP_greater_communism: "Варзенський народний союз"
  WAR_HIP_greater_communism_DEF: "Варзенський народний союз"
+
+ ### ПЕРСОНАЖІ ###
+  WAR_king_zarizel_ii: "Король Барекзамал VII"
+  #WAR_king_zarizel_ii_desc:0 "§YBorn§!: 24th of August, 984 in Zamivgazal\n\n§YBiography§!: The second son of Zamaliahon XV, Barekzamal had an idyllic childhood, free of struggle. While his brother, Zamaliahon, was subject to endless tutoring as the crown prince, Barekzamal spent his days playing with the foals of the nobility, and galloping gleefully through the streets of Zamivgazal. His favourite playmate was Ummazanit Nazlayn, the daughter of a prominent noble. Although she was intended as a future bride for his brother, they were never officially engaged, and she much preferred Barekzamal's company to that of his eccentric brother.\n\nWhen Zamaliahon was made king in 1001, he swiftly leapt into action. He formally renounced any intention of marrying in the near future, leaving Barekzamal and Ummazanit free to get married. The two soon sired their first foal, a colt named Hannizamal. However, since Barekzamal was technically his brother's successor, he did make an effort to educate himself on the basics of statecraft and governance. But there was no rush. After all, they were young, and had their whole lives ahead of them. His brother would eventually find a nice mare and Barekzamal could live the rest of his life in bliss. Unfortunately, the gods had other plans for the young prince, and in 1005, his precious world was turned upside down.\n\nAs the Storm King swept through the kingdom, Barekzamal and his family managed to escape, but his brother didn't, and was slain in the Palace by the invaders. When Barekzamal found out, he was overwhelmed by grief, weeping for hours on end. After the conqueror was slain, Barekzamal returned to Zamivgazal a changed person. He quickly set to work, trying to keep the nation afloat. Although he had some success, for the most part, his policies were ineffective as his inexperience betrayed him. Now, he sits uneasy on the throne as the threat of revolt grows. While not as unpopular as his father was, he definitely has his fair share of opposition. The fate of the nation rests on his haunches, and it will take monumental effort on his part to keep it, and his throne, from falling out of his grasp. But Barekzamal is determined to bring Warzena into a brighter future, where he can smile with his family once more."
+  WAR_coalition_council: "Коаліційна рада"
+  WAR_taniiaton: "Занійатон"
+  WAR_benoam_zaadeh: "Бенноам Шімзел"
+  WAR_itthozamal_ankeper: "Іттозамал Анкепер"
 
 # country_WAT
  WAT_gandalf_the_grey: "Ґендальф Сірий"
@@ -5465,6 +5554,22 @@
  #YAN_dirk_loterijen: "Дірк Лотерейен"
 
 # country_ZAR
+ ### ПЕРСОНАЖІ ###
+  ZAR_mekiouzza_ataghan: "Мекіузза Атаган"
+  ZAR_wiwurgh: "Вівург Тасавент"
+  ZAR_blue_sage: "$ZAR_wiwurgh$"
+  ZAR_zawgha: "Зауга Амсармуд"
+  ZAR_umalez: "Умалез Атаган"
+  ZAR_talal_wasif: "Уасіф Талат"
+  ZAR_socialist_weirdo: "Іземрасен Ченвітт"
+  ZAR_general_1: "Узаден Арурад"
+  ZAR_general_2: "Меддур Амхурік"
+  ZAR_general_3: "Іґідер Тафрара"
+  ZAR_general_4: "Тійя Ашуші"
+  ZAR_general_5: "Юфтен Аврг'яс"
+  ZAR_general_6: "Асірем Уззал"
+  ZAR_regency_council_name: "Племінна рада"
+
  ZAR_worm_coring_name_18570: "Руїни Нового Аякачтлі"
  ZAR_worm_coring_name_18580: "Руїни Замивґазалу"
  ZAR_worm_coring_name_18681: "Руїни Айн-Тротґуре"
