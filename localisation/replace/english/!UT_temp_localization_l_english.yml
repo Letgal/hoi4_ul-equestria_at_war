@@ -366,6 +366,10 @@
  harsh_quotas_occupation_improved_EaW: "$harsh_quotas_occupation$"
  harsh_quotas_occupation_improved_EaW_tt:0 "\nЗмінити окупаційний закон §Y$harsh_quotas_occupation$§! на:\n $MODIFIER_RESISTANCE_DECAY$: §G+40%§!\n $MODIFIER_RESISTANCE_GROWTH$: §G-40%§!\n $MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS$: §G-20%§!\n $MODIFIER_LOCAL_RESOURCES$: §G+15%§!\n $MODIFIER_LOCAL_FACTORIES$: §G+15%§!\n $MODIFIER_LOCAL_SUPPLIES_FOR_CONTROLLER$: §G+25%§!\n Civilian Factory Sabotage Chance: §G-5%§!\n Military Factory Sabotage Chance: §G-5%§!\n $MODIFIER_COMPLIANCE_GAIN_ADD$: §G+0.030%§!\n"
 
+# eaw_riverfed
+ river_coalition_faction: "Річкова коаліція"
+ river_united_faction: "Організація Східногрифонського договору"
+
 # eaw_tank_modules
  EQ_MOD_CAT_tank_special_module_stabilizer_TITLE: "Стабілізатор"
  EQ_MOD_CAT_tank_special_module_maintenance_TITLE: "Простий ремонт"

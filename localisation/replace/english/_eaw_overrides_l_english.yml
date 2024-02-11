@@ -627,7 +627,7 @@
  #loading text replacement
   LOADING_GUI: "Завантажуємо Зебрику"
   LOADING_MAP_SPRITES: "Губимо Ідола Борея"
-  LOADING_DATABASES: "Підіймаємо Сонце"
+  LOADING_DATABASES: "Підіймаємо сонце"
   INIT_MAP_LOGIC: "Дивимося «Дружба — це диво»"
   LOADING_HISTORY: "Підписуємо Кольтстрімський договір"
   LOAD_EVENTS: "Програємо Фалькорську війну"

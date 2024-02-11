@@ -1729,6 +1729,8 @@
   FAT_otto_saxhagenplumenjar: "Отто Саксгаґен-Плюмен'яр"
   FAT_hermann_hassentelf: "Герман Гассентельф"
 
+ FAT_faction_pga: "Республіканський пакт"
+
 # country_FAT_aprilfool
  FAT_APRILFOOLS_fascism: "Єресь Донкло"
  FAT_APRILFOOLS_fascism_DEF: "Єресь Донкло"
@@ -2904,6 +2906,11 @@
 
   HIP_crack_lightning: "Крек Лайтнинґ"
 
+ HIP_middle_sea_treaty: "Договір Середнього моря" # Середньоморський договір
+ HIP_comintern: "Ревінтерн"
+ HIP_hegemony_faction: "Аріська гегемонія"
+ NORTH_ZEBRICAN_COALITION: "Північнозебриканська коаліція"
+
  HIP_SIR_adagia: "Адажія"
  HIP_SIR_vp_adagia: "Адажія"
 
@@ -3918,6 +3925,8 @@
  MIT_MEGALI_neutrality: "Сполучене Королівство Астеріону та Сікамеону"
  MIT_MEGALI_neutrality_DEF: "Сполучене Королівство Астеріону та Сікамеону"
  MIT_MEGALI_neutrality_ADJ: "Астеріонсько-сікамеонськ"
+
+ MIT_coalition_of_sovereign_nations: "Конкордат вільних націй"
 
  MIT_vp_neachora: "Неахора"
  MIT_vp_poli_eleftherias: "Полі-Елефтеріас"
