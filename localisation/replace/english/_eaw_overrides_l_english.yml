@@ -337,7 +337,7 @@
  #military_industrial_organization_l
   mio_cat_eq_all_light_tank:0 "All Light and Light Amphibious Tank Equipment"
   mio_cat_eq_all_medium_tank:0 "All Medium and MBT Tank Equipment"
-  mio_cat_eq_all_heavy_tank:0 "All Heavy Tank and Super Heavy Tank Equipment" 
+  mio_cat_eq_all_heavy_tank:0 "All Heavy Tank and Super Heavy Tank Equipment"
 
  #modifiers_l
   democratic_drift: "Щоденна підтримка гармонії"

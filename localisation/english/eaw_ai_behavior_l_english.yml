@@ -90,7 +90,7 @@
   RULE_OPTION_PLB_FASCIST_ALTERNATE_2:0 "Supremacist - Realm of the Frozen Sea"
   RULE_OPTION_PLB_FASCIST_ALTERNATE_2_AI_DESC:0 "Torben will take the lead to expunge changeling influence. Brutal revenge will be taken upon the perfidious changelings and griffons for all the ways they have wronged the bears."
 
- PNG_AI_BEHAVIOR: "@PNG Королівство Пінґленд" 
+ PNG_AI_BEHAVIOR: "@PNG Королівство Пінґленд"
   RULE_OPTION_FASCIST_HISTORICAL_PNG_AI_DESC:0 "The harsh King Orvar Njordin will come to power and establish the Black and White Storm to conquer much of northern Equus."
   RULE_OPTION_DEMOCRATIC_PNG_AI_DESC:0 "The kind King Hindrik Aberg will rule the Kingdom of Pingland well, and eventually transition to a constitutional monarchy."
   RULE_OPTION_COMMUNIST_PNG_AI_DESC:0 "In response to Njordin's brutal policies, a communist revolution will occur and topple him."
@@ -194,7 +194,7 @@
   RULE_OPTION_TRD_COMMUNIST_AI_DESC:0 "Guichard will double down on his authority. This will lead to the syndicalists taking power in a revolution. Then one of several leaders can take position of Chairgriff in the Trade Union Congress."
 
  FAT_AI_BEHAVIOR: "@FAT Республіка Грифонів"
-  RULE_OPTION_SUNGLIDER_HISTORICAL_FAT:0 "Harmonist - Sunglider" 
+  RULE_OPTION_SUNGLIDER_HISTORICAL_FAT:0 "Harmonist - Sunglider"
   RULE_OPTION_SUNGLIDER_HISTORICAL_FAT_AI_DESC:0 "A legitimate civilian government will be established and a cabinet will be formed under the idealist Sunglider.\n§g(Історичний шлях)§!"
   RULE_OPTION_KINGFEATHER_FAT:0 "Non-Aligned - Kingfeather"
   RULE_OPTION_KINGFEATHER_FAT_AI_DESC:0 "A legitimate civilian government will be established and a cabinet will be formed under the conservative Kingfeather."
@@ -372,7 +372,7 @@
   RULE_OPTION_NEUTRALITY_LCT_AI_DESC:0 "The Princely Coup will end without violence. Wavebreaker will be elected Grand Mayor but is unable to fight against the military's influence over the nation. He will take action against griffons to the south."
 
  NIM_AI_BEHAVIOR: "@NIM Німбусія"
-  RULE_OPTION_DEMOCRATIC_NIM:0 "Harmonist - Reformists" 
+  RULE_OPTION_DEMOCRATIC_NIM:0 "Harmonist - Reformists"
   RULE_OPTION_DEMOCRATIC_NIM_AI_DESC:0 "The Reformist ideals will take root in Nimbusia, steering it towards Harmony and integration with the River Coalition.\n§g(Історичний шлях)§!"
   RULE_OPTION_NEUTRALITY_NIM:0 "Non-Aligned - Traditionalists"
   RULE_OPTION_NEUTRALITY_NIM_DESC:0 "The Traditionalists will upheld the status quo in Nimbusia."
@@ -484,7 +484,7 @@
   RULE_OPTION_NEUTRALITY_BRF_AI_DESC:0 "If the monarchists defeat the communists and Prince Tomado remains alive, he will convince his father to reform his Kingdom into a constitutional monarchy.\nNon-aligned Brodfeld will remain largely passive, but can potentially form a faction with neighbours or get a wargoal on Blackrock's Bandits."
 
  BAN_AI_BEHAVIOR: "@BAN Бандити Блекрок"
-  RULE_OPTION_BAN_FASCIST:0 "Supremacist - Blackrock" 
+  RULE_OPTION_BAN_FASCIST:0 "Supremacist - Blackrock"
   RULE_OPTION_FASCIST_BAN_AI_DESC:0 "In this lawless land, the strong take what they want and the weak suffer in silence.\nSupremacist Blackhollow can either attack both Prywhen and Brodfeld or build up its defences. Either path allows it to conduct raids and spread crime to neighbouring nations.\n§g(Історичний шлях)§!"
   RULE_OPTION_BAN_COMMUNIST:0 "Communist - Reeve Blyeddin"
   RULE_BAN_COMMUNIST_AI_DESC:0 "Equality for all, all for equality! Smile, smile as we march onwards to glorious victory!\nCommunist Blackhollow remains passive and focuses on building a true Equalist utopia, where everygriff is equal and no one oppresses another like before."
@@ -548,7 +548,7 @@
   RULE_OPTION_LAK_NEUTRAL_ALTERNATE_AI_DESC:0 "Rumare will focus on saving what they have remaining."
 
  FAL_AI_BEHAVIOR: "@FAL Фалькорське королевство"
-  RULE_OPTION_FAL_HARMONIST_HISTORICAL:0 "Non-Aligned - All Hail Her Majesty" 
+  RULE_OPTION_FAL_HARMONIST_HISTORICAL:0 "Non-Aligned - All Hail Her Majesty"
   RULE_OPTION_FAL_HARMONIST_HISTORICAL_AI_DESC:0 "The griffons will remain faithful to Princess Maximilliana and she will continue to lead the nation.\n§g(Історичний шлях)§!"
   RULE_OPTION_FAL_FASCIST_ALTERNATE:0 "Supremacist - Falcor Above All"
   RULE_OPTION_FAL_FASCIST_ALTERNATE_AI_DESC:0 "The griffons will lose their faith in Princess Maximilliana's leadership. The Falcorian Eagles, led by Gabriele d'Artiglio will lead the nation and seek revenge on Wingbardy."
@@ -597,7 +597,7 @@
   RULE_OPTION_TBK_ZARANTIA_ANNEXATION_AI_DESC:0 "Pea Shooter will transfer Tobuck over to Zarantia after he has concluded his final affairs."
 
  ZAR_AI_BEHAVIOR: "@ZAR Зарантія"
-  RULE_OPTION_ZAR_NEUTRALITY_HISTORICAL:0 "Non-Aligned - The Aguellid-Queen"  
+  RULE_OPTION_ZAR_NEUTRALITY_HISTORICAL:0 "Non-Aligned - The Aguellid-Queen"
   RULE_OPTION_ZAR_NEUTRALITY_HISTORICAL_AI_DESC:0 "Mekiouzza will unite the tribes by force. Following her death, Umalez will roll back her mother's authoritarian tendencies to form the first true Zarantian Nation-State.\n§g(Історичний шлях)§!"
   RULE_OPTION_ZAR_SUPREMACY:0 "Supremacy - The Aguellid-Empress"
   RULE_OPTION_ZAR_SUPREMACY_AI_DESC:0 "Mekiouzza will unite the tribes by force. After her death, Umalez will follow in her mother's hoofsteps, using force to carve a Zarantian Empire within North Zebrica."

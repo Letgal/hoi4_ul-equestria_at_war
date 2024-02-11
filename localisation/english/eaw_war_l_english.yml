@@ -29,7 +29,7 @@
  WAR_NAME_ELF_CHN: "Еквестрійська визвольна війна"
  WAR_NAME_YAK_JAK: "Братська ворожнеча"
  WAR_NAME_JAK_YAK: "Братська ворожнеча"
- 
+
  WAR_NAME_GRW_BRF: "Громадянська війна в Прайвені"
  WAR_NAME_BRF_GRW: "Громадянська війна в Прайвені"
  WAR_NAME_LNS_LSC: "Громадянська війна в Лонґсуорді"
@@ -74,7 +74,7 @@
  WAR_NAME_FRN_JES: "Таррінська війна за незалежність"
  WAR_NAME_WNG_FAL: "Друга Фалькорська війна"
  WAR_NAME_FAL_WNG:0 "The National Reclamation War"
- 
+
  WAR_NAME_SDL_SDC: "Громадянська війна в Сідловій Арабії"
  WAR_NAME_SDL_SDF: "Громадянська війна в Сідловій Арабії"
  WAR_NAME_SDL_SDS: "Громадянська війна в Сідловій Арабії"
@@ -121,7 +121,7 @@
  WAR_NAME_KIS_KIC:0 "The Western Pacification"
  WAR_NAME_KIR_DEL:0 "The Far South Intervention"
  WAR_NAME_DEL_KIR:0 "The War of Resistance"
- 
+
  ### Tooltips ###
  EaW_wargoal_and_claims_tp:0 "§Y[This.GetNameDefCap]§! will gain §Gclaims§! and a §RWargoal§! for §Y[Prev.GetNameDef]'s§! core territories.\n"
  EaW_war_and_claims_tp:0 "§Y[This.GetNameDefCap]§! will gain §Gclaims§! and declare §RWar§! for §Y[Prev.GetNameDef]'s§! core territories.\n"

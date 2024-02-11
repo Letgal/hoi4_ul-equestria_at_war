@@ -49,7 +49,7 @@
  nicolaas_swartvleugel_stats_tp: "§gРівень§!: §Y3§! (£trait_attack §Y2§! £trait_defense §Y3§! £trait_planning §Y3§! £trait_logistics §Y2§!)\n§gРиси§!: §C$trait_reckless$§!\n\n"
  jan_onverschrikt_stats_tp: "§gРівень§!: §Y3§! (£trait_attack §Y4§! £trait_defense §Y2§! £trait_planning §Y2§! £trait_logistics §Y2§!)\n§gРиси§!: §C$infantry_officer$§!\n\n"
  wilfried_pasvogel_stats_tp: "§gРівень§!: §Y2§! (£trait_attack §Y2§! £trait_defense §Y2§! £trait_planning §Y1§! £trait_logistics §Y2§!)\n§gРиси§!: §C$politically_connected$§!\n\n"
- bob_de_kop_stats_tp: "§gРівень§!: §Y2§! (£trait_attack §Y1§! £trait_defense §Y2§! £trait_planning §Y2§! £trait_logistics §Y2§!)\n§gРиси§!: \n\n" 
+ bob_de_kop_stats_tp: "§gРівень§!: §Y2§! (£trait_attack §Y1§! £trait_defense §Y2§! £trait_planning §Y2§! £trait_logistics §Y2§!)\n§gРиси§!: \n\n"
  bertrand_bordelyon_stats_tp: "§gРівень§!: §Y2§! (£trait_attack §Y1§! £trait_defense §Y2§! £trait_maneuvering §Y2§! £trait_coordination §Y2§!)\n§gРиси§!: §C$superior_tactician$§!\n\n"
  alphonsine_surfurtive_stats_tp: "§gРівень§!: §Y2§! (£trait_attack §Y2§! £trait_defense §Y1§! £trait_maneuvering §Y2§! £trait_coordination §Y2§!)\n§gРиси§!: §C$seawolf$§!\n\n"
  gris_dargent_stats_tp: "§gРівень§!: §Y2§! (£trait_attack §Y3§! £trait_defense §Y1§! £trait_planning §Y2§! £trait_logistics §Y1§!)\n§gРиси§!: §C$career_officer$§!, §C$trait_reckless$§!\n\n"

@@ -21,7 +21,7 @@
  form_country_NVA_coring_states_tt: "Усі осердні §Yсенкіньські§! землі стануть осердними.\n" # CORE
  form_country_KXN_coring_states_tt: "Усі осердні §Yланкірські§! землі стануть осердними.\n" # CORE
  form_country_KHM_coring_states_tt: "Усі осердні §Yкхамрінські§! землі стануть осердними.\n" # CORE
- 
+
 ## Flags
  EVI_formed: "Сформовано Співдружність Еві"
  Zaikiria_formed:0 "Zaikiria has been Unified"
@@ -30,7 +30,7 @@
  form_aquileia_category: "Нова епоха для Аквелії"
  form_aquileia_category_desc:0 "With both the Discret dynasty and the Republican revolutionaries crushed or driven into exile, the former lands of Aquileia lack a strong leading figure. [Root.GetLeader] has been the driving force in vanquishing them, and time will tell if they'll repeat the steps of Grover II or be a more benevolent overlord."
  form_aquileia: "Відновити Аквелію"
- 
+
  form_hindia: "Об'єднана Гіндія"
  form_hindia_desc:0 "Finally, the dream of a united Hindia has been accomplished, as the deer of Eastern Zebrica have finally been united under a leader worthy of the title of ruler of all Hindia. Now that we have united the region under our control, it is imperative that our nation claim legitimacy over all free deer in Zebrica, so that we can be known as a true great power on the continent."
  form_hindia_decision: "Сформувати Гіндію"

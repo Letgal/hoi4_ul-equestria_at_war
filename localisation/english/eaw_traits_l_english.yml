@@ -256,7 +256,7 @@
  warrior_chief:0 "Warrior Chief"
 
  agricultural_concern: "Рільничий концерн"
- 
+
  artillery_officer: "Офіцер артилерії"
  artillery_officer_desc:0 "§LTrained as an artillery officer.§!"
  artillery_specialist: "Лідер артилерії"
@@ -264,7 +264,7 @@
  artillery_expert: "Експерт із артилерії"
  artillery_expert_desc:1 "§LA true expert in directing artillery.§!"
  artillery_ratio_over_80: "Співвідношення артилерії > §H80%§!"
- 
+
  signal_expert_trait:0 "Signal Expert"
  signal_expert_trait_desc:0 "§LAs a former radio host, this mare knows her way around the radio systems in the army.§!"
 
@@ -273,7 +273,7 @@
 
  renowned_marksgriff:0 "Renowned Marksgriffon"
  renowned_marksgriff_desc:0 "§LThis commander excels in marksgriffonship, and is sure to share their knowledge and skills with their troops.§!"
- 
+
  trait_nestor_lunin:0 "Airland Commander"
  trait_nestor_lunin_desc:0 "§LHaving commanded both land army and aviation in the past, the general knows how to use the strong sides of air support to defend his troops on the ground.§!"
 
@@ -367,8 +367,8 @@
  eccentric_ex_royal:0 "Eccentric Ex-Royal"
  head_of_ohs: "Директор УГС"
  head_of_ohs_lar: "$head_of_ohs$"
- cryptologic_genius:0 "Cryptologic Genius" 
- cryptologic_genius_lar: "$cryptologic_genius$" 
+ cryptologic_genius:0 "Cryptologic Genius"
+ cryptologic_genius_lar: "$cryptologic_genius$"
  siren_charismatic_manipulator:0 "Charismatic Manipulator"
  siren_level_headed_realist:0 "Level-Headed Realist"
  siren_passionate_ditz:0 "Passionate Ditz"
@@ -408,8 +408,8 @@
  operative_web_of_lies_desc:0 "This Operative is like a spider at the center of a web. Woven from secrets... and lies."
  operative_spyhunter:0 "Spy Hunter"
  operative_spyhunter_desc:0 "This Operative is skilled at hunting and catching enemy agents."
- operative_spiracles:0 "Manipulator" 
- operative_spiracles_desc:0 "This operative is an expert at manipulation, giving them a supply of middlemen to make up for their inability to transform. Unfortunately, being stuck as a changeling makes them the clear suspect if an information leak is found." 
+ operative_spiracles:0 "Manipulator"
+ operative_spiracles_desc:0 "This operative is an expert at manipulation, giving them a supply of middlemen to make up for their inability to transform. Unfortunately, being stuck as a changeling makes them the clear suspect if an information leak is found."
  operative_conmane:0 "Shaken, not Stirred"
  operative_conmane_desc:0 "This Operative is legendarily hard to catch."
 
@@ -495,18 +495,18 @@ Yal_skeleton_king_army_leader_desc:0 "§LFighting for the great Grover II inspir
  zony_race_trait_desc:0 "§LAs their name would suggest, a zony is a cross between a zebra and a pony. Thanks to the relative similarity of these two equine races, a zony may inherit features from both ends of the available genetic spectrum: As one example, many have the distinct colours of ponies and the stripes of zebras combined. Zony offspring produced by a pegasus or a unicorn parent do not have horns or wings, unlike thestral-zebra hybrids who can have the latter.§!"
  human_race_trait: "Людина"
  human_race_trait_desc: "§LЛюди — це двоногі мавпи. Чесно кажучи, від них дуже тхне.§!"
- 
+
  zebrican_close_combat_expert:0 "Zebrican Close Combat Expert"
  field_surgeon:0 "Field Surgeon"
- 
+
  drug_dealer:0 "Army Drugs Supplier"
  magical_weapons_enthusiast:0 "Magical Weapons Enthusiasts"
- 
+
  policy_analyst:0 "Policy Analyst"
  trait_mercenary_commander:0 "Mercenary Commander"
  trait_mercenary_commander_desc: ""
  HIP_high_priests_of_hippogriffia:0 "High Priests of An and Tiamat"
- 
+
  absolute_monarch:0 "Absolute Monarch"
  democratic_centralist:0 "Democratic Centralist"
  organic_centralist:0 "Organic Centralist"

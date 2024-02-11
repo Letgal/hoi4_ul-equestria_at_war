@@ -460,7 +460,7 @@
  tank_buster_2_desc:0 "The heavier tanks now in service require a much larger gun to combat. While extremely heavy and unwieldy, it is very capable as a weapon for attacks against enemy positions."
  rocket_rails:0 "Rocket Rails"
  rocket_rails_desc:0 "Unguided projectiles hung under the wings. Since they are fired ahead of the attacking plane, it is a lot easier for the pilot to aim them at the target compared to bombs."
- 
+
  armor_plate_small:0 "Armour Plates"
  armor_plate_small_desc:0 "Steel plating behind the pilot seat and around the engine give the plane increased survivability against ground fire and attacks from behind."
  armor_plate_medium: "$armor_plate_small$"
@@ -523,7 +523,7 @@
  air_air_radar_1_desc:0 "It wasn't long after the creation of radar that our engineers saw the potential in the same technology being used in our small aircraft. The thought process was that doing so would remove any given plane's reliance on a ground-based radar station, but the technology proved to be too cumbersome to mount on interception and air superiority aircraft. However, with recent miniaturisation efforts, it has now become possible to install such equipment; rudimentary as it may be."
  air_air_radar_2: "Радар «повітря–повітря» II"
  air_air_radar_2_desc:0 "Expectedly, the first batch of air-to-air radar installations were far from optimal. Though the pilots appreciated an extra piece of equipment to help locate enemy aircraft, ground based stations had both a longer range and less of an error margin compared to their airborne counterparts. In an effort to make the equipment more beneficial, the next generation of designs will have a greater range and will weigh even less so as to not be detrimental to the performance of our aircraft."
- 
+
  non_strategic_materials_small: "Використання нестратегічних матеріалів"
  non_strategic_materials_small_short: "Використання нестрат. матеріалів"
  non_strategic_materials_small_desc:0 "By substituting specially-treated wood or fabric for aluminum wherever possible, we can drastically reduce the usage of strategic materials. However, wood and fabric don't stand up very well to modern weapons."

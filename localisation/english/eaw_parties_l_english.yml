@@ -108,7 +108,7 @@
  PNG_communism_party: "АКП"
  PNG_communism_party_long: "Арктична комуністична партія"
  PNG_democratic_party: "ПД"
- PNG_democratic_party_long: "Партія дружби" 
+ PNG_democratic_party_long: "Партія дружби"
  PNG_fascism_party: "Крижаний Трон"
 
  YAK_neutrality_party: "Снігова рада"
@@ -158,7 +158,7 @@
  RIV_democratic_party_long:0 "United Harmonic Front"
  RIV_fascism_party:0 "LRK"
  RIV_fascism_party_long:0 "League of the River Kings"
- 
+
  BAK_neutrality_party:0 "BSP"
  BAK_neutrality_party_long:0 "Bakarska Stranka Pravica"
  BAK_communism_party:0 "ZDS"
@@ -471,7 +471,7 @@
  BAN_democratic_party: "ГГП"
  BAN_democratic_party_long: "Гармонійна гірська партія"
  BAN_fascism_party: "Бандити Блекрок"
- 
+
  SDL_neutrality_party:0 "Almalakiiyn"
  SDL_communism_party:0 "HEA"
  SDL_communism_party_long:0 "Harakat Aishtirakiatan Earabia"
@@ -479,7 +479,7 @@
  SDL_democratic_party_long:0 "Hizb al'Iislah"
  SDL_fascism_party:0 "HAAA"
  SDL_fascism_party_long:0 "Hizb Altaqadum Alwatanii Alearabii"
- 
+
  SDS_neutrality_party:0 "Almalakiiyn"
  SDS_communism_party:0 "HEA"
  SDS_communism_party_long:0 "Harakat Aishtirakiatan Earabia"
@@ -487,7 +487,7 @@
  SDS_democratic_party_long:0 "Hizb al'Iislah"
  SDS_fascism_party:0 "HAAA"
  SDS_fascism_party_long:0 "Hizb Altaqadum Alwatanii Alearabii"
- 
+
  SDC_neutrality_party:0 "Almalakiiyn"
  SDC_communism_party:0 "HEA"
  SDC_communism_party_long:0 "Harakat Aishtirakiatan Earabia"
@@ -495,7 +495,7 @@
  SDC_democratic_party_long:0 "Hizb al'Iislah"
  SDC_fascism_party:0 "HAAA"
  SDC_fascism_party_long:0 "Hizb Altaqadum Alwatanii Alearabii"
- 
+
  SDF_neutrality_party:0 "Almalakiiyn"
  SDF_communism_party:0 "HEA"
  SDF_communism_party_long:0 "Harakat Aishtirakiatan Earabia"
@@ -503,7 +503,7 @@
  SDF_democratic_party_long:0 "Hizb al'Iislah"
  SDF_fascism_party:0 "HAAA"
  SDF_fascism_party_long:0 "Hizb Altaqadum Alwatanii Alearabii"
- 
+
  BAT_neutrality_party: "ЛРЇІВ-П"
  BAT_neutrality_party_long: "Леґіонерська рада Її Імператорської Величності — помірні"
  BAT_communism_party: "Зрадники"

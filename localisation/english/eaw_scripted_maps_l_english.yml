@@ -61,18 +61,18 @@
  MAPMODE_EAW_SPECIES_MAP_MODE: "Режим мапи: §HРаса§!"
  MAPMODE_EAW_SPECIES_MAP_MODE_NAME: "Раса"
  MAPMODE_EAW_SPECIES_MAP_MODE_DESCRIPTION:0 "Shows the majority race of each country in the world map."
- 
+
  eaw_species_map_mode_tooltip: "§H[FROM.controller.Getname]§!"
  eaw_species_map_mode_tooltip_delayed: "У державі §H[FROM.controller.Getname]§! переважає §H[FROM.controller.EAW_Get_species_map_tooltip]§!."
- 
+
  # Culture mapmode
  MAPMODE_EAW_CULTURE_MAP_MODE: "Режим мапи: §HКультурні групи§!"
  MAPMODE_EAW_CULTURE_MAP_MODE_NAME: "Культурні групи"
  MAPMODE_EAW_CULTURE_MAP_MODE_DESCRIPTION: "Shows the predominant culture groups of states."
- 
+
  eaw_culture_map_mode_tooltip: "§H[FROM.EaW_Get_culture]§!"
  eaw_culture_map_mode_tooltip_delayed: "(§H[FROM.controller.GetNameWithFlag]§!): В області §H[FROM.GetName]§! переважає [FROM.EaW_Get_culture]."
- 
+
  eaw_culture_equestrian: "Еквестрійська культура"
  eaw_culture_changeling: "Чейнджлінзька культура"
  eaw_culture_olenian: "Оленійська культура"

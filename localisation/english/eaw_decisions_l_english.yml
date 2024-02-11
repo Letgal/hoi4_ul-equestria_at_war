@@ -435,7 +435,7 @@ FEZ_decision_cost_bank_9_pp_50_blocked: "£coin_text£ §R9 000§! £pol_power£
 FEZ_decision_cost_bank_12_pp_50_blocked: "£coin_text£ §R12 000§! £pol_power£ §R50§!"
 FEZ_decision_cost_bank_1000_pp_50_blocked: "£coin_text£ §R1M§! £pol_power£ §R50§!"
 
-# YAL Favors 
+# YAL Favors
 decision_cost_2_favor: "£iou_text£ §Y2§!"
 decision_cost_2_favor_blocked: "£iou_text£ §R2§!"
 decision_cost_2_favor_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostFavor2]"
@@ -455,7 +455,7 @@ decision_cost_6_favor_tooltip: "Прийняття цього рішення к�
 decision_cost_8_favor: "£iou_text£ §Y8§!"
 decision_cost_8_favor_blocked: "£iou_text£ §R8§!"
 decision_cost_8_favor_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostFavor8]"
- 
+
 GRI_kill_blockers:0 "(AI ONLY) Kill Blockers"
 
 form_equestrian_socialist_union_category: "Еквестрійська соціалістична республіка"
