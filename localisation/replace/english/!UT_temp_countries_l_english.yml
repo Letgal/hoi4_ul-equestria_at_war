@@ -4760,7 +4760,7 @@
  nestor_coup: "Переворот Нестора"
 
  STG_tsar_peter_iv: "Цар Пьотр IV"
- STG_ratibor_svetoslavich: "Ратібор Светославович"
+ STG_ratibor_svetoslavich: "Ратібор Свєтославович"
  STG_caramelka_sladkaya: "Карамелька Сладкая"
  STG_altidiya: "Альтідія"
  STG_supreme_soviet: "Верховна Рада" # SOV
@@ -4769,6 +4769,9 @@
  STG_sinister_serov_name: "Сіністер Сєров"
  STG_vasiliy_wheatin_name: "Василій Пшеницин"
  STG_dark_wing_name: "Дарк Вінґ"
+
+ STG_rename_Severokholm_to_Altytown: "Перейменувати Сєвєрохолм у Альтідійськ"
+ STG_vp_altytown: "Альтідійськ"
 
 # country_STL
  STL_MY_communism: "Містечко"
