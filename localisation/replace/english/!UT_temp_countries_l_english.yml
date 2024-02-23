@@ -2812,6 +2812,18 @@
  HIP_siren_fascism_DEF: "Сиреналія"
  HIP_siren_fascism_ADJ: "Сиренськ"
 
+ HIP_ADG_fascism: "Сиреналія"
+ HIP_ADG_fascism_DEF: "Сиреналія"
+ HIP_ADG_fascism_ADJ: "Сиренськ"
+
+ HIP_ARI_fascism: "Сиреналія"
+ HIP_ARI_fascism_DEF: "Сиреналія"
+ HIP_ARI_fascism_ADJ: "Сиренськ"
+
+ HIP_SNA_fascism: "Сиреналія"
+ HIP_SNA_fascism_DEF: "Сиреналія"
+ HIP_SNA_fascism_ADJ: "Сиренськ"
+
  HIP_GNU_fascism: "Уряд національної єдності"
  HIP_GNU_fascism_DEF: "Уряд національної єдності"
  HIP_GNU_fascism_ADJ: "УНЄськ"
@@ -2913,6 +2925,10 @@
 
  HIP_SIR_adagia: "Адажія"
  HIP_SIR_vp_adagia: "Адажія"
+ HIP_SIR_sonatagrad: "Сонатаград"
+ HIP_SIR_vp_sonatagrad: "Сонатаград"
+ HIP_SIR_somnambula_reset: "Сомнамбула"
+ HIP_SIR_vp_somnambula_reset: "Сомнамбула"
 
  EQS_HIP_sending_the_elements_tt: "§RНосії Елементів будуть недоступні в якості радників, допоки в нас не почнеться війна, спротив Скайстар не переможе або буде переможений.§!"
  EQS_HIP_elements_sent: "Ми надіслали Носіїв Елементів у Гіпогрифію"
@@ -3534,6 +3550,23 @@
  KIR_milset_redcedar: "Баньян"
 
 # country_KLG
+ ### КОСМЕТИЧНІ ТЕҐИ ###
+  KLG_FTZ_fascism: "Зона вільної торгівлі"
+  KLG_FTZ_fascism_DEF: "Зона вільної торгівлі"
+  KLG_FTZ_fascism_ADJ: "Клуджтаунськ"
+  KLG_FTZ_democratic: "Зона вільної торгівлі"
+  KLG_FTZ_democratic_DEF: "Зона вільної торгівлі"
+  KLG_FTZ_democratic_ADJ: "Клуджтаунськ"
+  KLG_FTZ_neutrality: "Зона вільної торгівлі"
+  KLG_FTZ_neutrality_DEF: "Зона вільної торгівлі"
+  KLG_FTZ_neutrality_ADJ: "Клуджтаунськ"
+  KLG_FTZ_communism: "Пустельна вільна територія"
+  KLG_FTZ_communism_DEF: "Пустельна вільна територія"
+  KLG_FTZ_communism_ADJ: "Клуджтаунськ"
+  KLG_FTZ: "Зона вільної торгівлі"
+  KLG_FTZ_DEF: "Зона вільної торгівлі"
+  KLG_FTZ_ADJ: "Клуджтаунськ"
+
  ### ПАРТІЇ ###
   KLG_neutrality_party: "Порядна мафія"
   KLG_neutrality_party_long: "Порядні члени мафії"

@@ -225,7 +225,7 @@
   RULE_OPTION_JER_RODIER_P:0 "Supremacist - Visions Of Greatness"
   RULE_OPTION_JER_RODIER_P_AI_DESC:0 "Léonard Rodier and the MPA win the election."
   RULE_OPTION_JER_VERANY_P:0 "Non-Aligned - The Dream Isn't Dead"
-  RULE_OPTION_JER_VERANY_P_AI_DESC:0 "Théodore Verany and the PNdA win the election."
+  RULE_OPTION_JER_VERANY_P_AI_DESC:0 "Théodore Vérany and the PNdA win the election."
 
  AET_AI_BEHAVIOR: "@AET Ґрайфвальд"
   RULE_OPTION_AET_FASCIST:0 "Supremacist - Prelate's Help"

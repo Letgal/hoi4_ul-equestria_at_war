@@ -45,3 +45,13 @@
  form_zaikiria_desc:0 "The region of Zaikiria was once united one banner, that of the Vermilion Dynasty. The Silence ended centuries of Kirian rule over Zaikiria, fracturing the southern kirin lands into separate nation-states. The reunification of Zaikiria under one ruler will fundamentally reshape the balance of power in the region, as the kirin of Zaikiria come together to seize their shared destiny."
  form_zaikiria_decision:0 "Unite Zaikiria Under One Banner"
  form_zaikiria_decision_req_tt:0 "Every [NVA.GetFlag] §Y[NVA.GetAdjective]§!, [KHM.GetFlag] §Y[KHM.GetAdjective]§!, and [KXN.GetFlag] §Y[KXN.GetAdjective]§! core state must be under full [Root.GetAdjective] control or that of a [Root.GetAdjective] §Ysubject§!."
+
+ form_free_trade_zone_category: "Формування Зони вільної торгівлі"
+ form_free_trade_zone_category_desc:0 "As Klugetown has toppled the old regimes of Maregypt and Abyssinia, we are in a comfortable position to create a new nation, that will truly represent both the cats and the ponies!\n\nOr at least, their crime lords."
+ form_free_trade_zone: "Об'єднати пустелю й узбережжя"
+ form_country_abyssinia_required_states_tt: "Контролює всі початкові землі §YАбіссинії§!"
+ form_country_maregypt_required_states_tt: "Контролює всі початкові землі §YМейргипту§!"
+ form_country_abyssinia_coring_states_tt: "Усі осердні землі §YАбіссинії§! стануть осердними." # CORE
+ form_country_maregypt_coring_states_tt: "Усі осердні землі §YМейргипту§! стануть осердними." # CORE
+ form_country_manedalusia_coring_states_tt: "Усі осердні землі §YМейндалусії§! стануть осердними." # CORE
+ form_country_ovingoland_coring_states_tt: "Усі осердні землі §YОвінґо§! стануть осердними." # CORE
