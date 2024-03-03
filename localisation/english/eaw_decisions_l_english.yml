@@ -138,282 +138,6 @@ hospital_helicopter_rollout_tt:0 "£unit_field_hospital_icon_small Field Hospita
 hospital_helicopter_remove: "Прибрати транспортні вертольоти з польових госпіталів"
 hospital_helicopter_remove_tt:0 "£unit_field_hospital_icon_small Field Hospitals will no longer require §YTransport Helicopters§!\n\nModify Field Hospitals by\n    Casualty Trickleback: §R-5%§!\n    Experience Loss From Casualties: §R+5%§!"
 
-decision_cost_CP_30_pp_25: "£command_power£ §Y30§! £pol_power£ §Y25§!"
-decision_cost_CP_30_pp_25_blocked: "£command_power£ §R30§! £pol_power£ §R25§!"
-decision_cost_CP_30_pp_25_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP30PP25]"
-
-decision_cost_CP_30: "£command_power£ §Y30§!"
-decision_cost_CP_30_blocked: "£command_power£ §R30§!"
-decision_cost_CP_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP30]"
-
-decision_cost_CP_15_pp_15: "£command_power£ §Y15§! £pol_power£ §Y15§!"
-decision_cost_CP_15_pp_15_blocked: "£command_power£ §R15§! £pol_power£ §R15§!"
-decision_cost_CP_15_pp_15_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP15PP15]"
-
-decision_cost_CP_35_pp_35: "£command_power£ §Y35§! £pol_power£ §Y35§!"
-decision_cost_CP_35_pp_35_blocked: "£command_power£ §R35§! £pol_power£ §R35§!"
-decision_cost_CP_35_pp_35_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP35PP35]"
-
-decision_cost_CP_35_pp_75: "£command_power£ §Y35§! £pol_power£ §Y75§!"
-decision_cost_CP_35_pp_75_blocked: "£command_power£ §R35§! £pol_power£ §R75§!"
-decision_cost_CP_35_pp_75_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP35PP75]"
-
-decision_cost_pp_50_manpower_2000: "£manpower_icon£ §Y2000§! £pol_power£ §Y50§!"
-decision_cost_pp_50_manpower_2000_blocked: "£manpower_icon£ §R2000§! £pol_power£ §R50§!"
-decision_cost_pp_50_manpower_2000_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostPP50Manpower2000]"
-
-decision_cost_pp_70_manpower_500: "£manpower_icon£ §Y500§! £pol_power£ §Y70§!"
-decision_cost_pp_70_manpower_500_blocked: "£manpower_icon£ §R500§! £pol_power£ §R70§!"
-decision_cost_pp_70_manpower_500_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostPP70Manpower500]"
-
-decision_cost_pp_60_manpower_150: "£manpower_icon£ §Y150§! £pol_power£ §Y60§!"
-decision_cost_pp_60_manpower_150_blocked: "£manpower_icon£ §R150§! £pol_power£ §R60§!"
-decision_cost_pp_60_manpower_150_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostPP60Manpower150]"
-
-decision_cost_pp_40_manpower_50: "£manpower_icon£ §Y50§! £pol_power£ §Y40§!"
-decision_cost_pp_40_manpower_50_blocked: "£manpower_icon£ §R50§! £pol_power£ §R40§!"
-decision_cost_pp_40_manpower_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostPP40Manpower50]"
-
-decision_cost_pp_50_manpower_18000: "£manpower_icon£ §Y18000§! £pol_power£ §Y50§!"
-decision_cost_pp_50_manpower_18000_blocked: "£manpower_icon£ §R18000§! £pol_power£ §R50§!"
-decision_cost_pp_50_manpower_18000_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostPP50Manpower18000]"
-
-decision_cost_pp_50_manpower_11100: "£manpower_icon£ §Y11100§! £pol_power£ §Y50§!"
-decision_cost_pp_50_manpower_11100_blocked: "£manpower_icon£ §R11100§! £pol_power£ §R50§!"
-decision_cost_pp_50_manpower_11100_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostPP50Manpower11100]"
-
-decision_cost_50_pp_manpower_22000: "£manpower_icon£ §Y22000§! £pol_power£ §Y50§!"
-decision_cost_50_pp_manpower_22000_blocked: "£manpower_icon£ §R22000§! £pol_power£ §R50§!"
-decision_cost_50_pp_manpower_22000_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostPP50Manpower22000]"
-
-decision_cost_army_xp_150_pp_30: "£army_experience£ §Y150§! £pol_power£ §Y30§!"
-decision_cost_army_xp_150_pp_30_blocked: "£army_experience£ §R150§! £pol_power£ §R30§!"
-decision_cost_army_xp_150_pp_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP150PP30]"
-
-decision_cost_air_xp_75_pp_30: "£air_experience£ §Y75§! £pol_power£ §Y30§!"
-decision_cost_air_xp_75_pp_30_blocked: "£air_experience£ §R75§! £pol_power£ §R30§!"
-decision_cost_air_xp_75_pp_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostAirXP75PP30]"
-
-decision_cost_air_xp_100_pp_30: "£air_experience£ §Y100§! £pol_power£ §Y30§!"
-decision_cost_air_xp_100_pp_30_blocked: "£air_experience£ §R100§! £pol_power£ §R30§!"
-decision_cost_air_xp_100_pp_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostAirXP100PP30]"
-
-decision_cost_air_xp_150_pp_30: "£air_experience£ §Y150§! £pol_power£ §Y30§!"
-decision_cost_air_xp_150_pp_30_blocked: "£air_experience£ §R150§! £pol_power£ §R30§!"
-decision_cost_air_xp_150_pp_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostAirXP150PP30]"
-
-decision_cost_navy_xp_50_air_xp_5_pp_15: "£navy_experience£ §Y50§! £air_experience£ §Y5§! £pol_power£ §Y15§!"
-decision_cost_navy_xp_50_air_xp_5_pp_15_blocked: "£navy_experience£ §R50§! £air_experience£ §R5§! £pol_power£ §R15§!"
-decision_cost_navy_xp_50_air_xp_5_pp_15_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostNavyXP50AirXP5PP15]"
-
-decision_cost_navy_xp_50_pp_30: "£navy_experience£ §Y50§! £pol_power£ §Y30§!"
-decision_cost_navy_xp_50_pp_30_blocked: "£navy_experience£ §R50§! £pol_power£ §R30§!"
-decision_cost_navy_xp_50_pp_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostNavyXP50PP30]"
-
-decision_cost_navy_xp_75_pp_30: "£navy_experience£ §Y75§! £pol_power£ §Y30§!"
-decision_cost_navy_xp_75_pp_30_blocked: "£navy_experience£ §R75§! £pol_power£ §R30§!"
-decision_cost_navy_xp_75_pp_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostNavyXP75PP30]"
-
-decision_cost_navy_xp_150_pp_30: "£navy_experience£ §Y150§! £pol_power£ §Y30§!"
-decision_cost_navy_xp_150_pp_30_blocked: "£navy_experience£ §R150§! £pol_power£ §R30§!"
-decision_cost_navy_xp_150_pp_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostNavyXP150PP30]"
-
-decision_cost_navy_xp_450_pp_60: "£navy_experience£ §Y450§! £pol_power£ §Y60§!"
-decision_cost_navy_xp_450_pp_60_blocked: "£navy_experience£ §R450§! £pol_power£ §R36§!"
-decision_cost_navy_xp_450_pp_60_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostNavyXP450PP60]"
-
-decision_cost_navy_xp_250_pp_60: "£navy_experience£ §Y250§! £pol_power£ §Y60§!"
-decision_cost_navy_xp_250_pp_60_blocked: "£navy_experience£ §R250§! £pol_power£ §R36§!"
-decision_cost_navy_xp_250_pp_60_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostNavyXP250PP60]"
-
-decision_cost_CP_25_army_xp_50: "£command_power£ §Y25§! £army_experience£ §Y50§!"
-decision_cost_CP_25_army_xp_50_blocked: "£command_power£ §R25§! £army_experience£ §R50§!"
-decision_cost_CP_25_army_xp_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP25ArmyXP50]"
-
-decision_cost_army_xp_50: "£army_experience£ §Y50§!"
-decision_cost_army_xp_50_blocked: "£army_experience£ §R50§!"
-decision_cost_army_xp_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP50]"
-
-decision_cost_army_xp_25: "£army_experience£ §Y25§!"
-decision_cost_army_xp_25_blocked: "£army_experience£ §R25§!"
-decision_cost_army_xp_25_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP25]"
-
-decision_cost_250_infantry_10k_fuel: "£infequip_text §Y250§! £fuel_texticon §Y10K§!"
-decision_cost_250_infantry_10k_fuel_blocked: "£infequip_text §R250§! £fuel_texticon §R10K§!"
-decision_cost_250_infantry_10k_fuel_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostInfEq250Fuel10k]"
-
-decision_cost_air_xp_50: "£air_experience£ §Y50§!"
-decision_cost_air_xp_50_blocked: "£air_experience£ §R50§!"
-decision_cost_air_xp_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostAirXP50]"
-
-decision_cost_navy_xp_50: "£navy_experience£ §Y50§!"
-decision_cost_navy_xp_50_blocked: "£navy_experience£ §R50§!"
-decision_cost_navy_xp_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostNavyXP50]"
-
-decision_cost_army_xp_75_pp_30: "£army_experience£ §Y75§! £pol_power£ §Y30§!"
-decision_cost_army_xp_75_pp_30_blocked: "£army_experience£ §R75§! £pol_power£ §R30§!"
-decision_cost_army_xp_75_pp_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP75PP30]"
-
-decision_cost_army_xp_75: "£army_experience£ §Y75§!"
-decision_cost_army_xp_75_blocked: "£army_experience£ §R75§!"
-decision_cost_army_xp_75_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP75]"
-
-decision_cost_army_xp_200: "£army_experience£ §Y200§!"
-decision_cost_army_xp_200_blocked: "£army_experience£ §R200§!"
-decision_cost_army_xp_200_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP200]"
-
-decision_cost_army_xp_200_manpower_21300: "£army_experience£ §Y200§! £manpower_icon£ §Y21300§!"
-decision_cost_army_xp_200_manpower_21300_blocked: "£army_experience£ §R200§! £manpower_icon£ §R21300§!"
-decision_cost_army_xp_200_manpower_21300_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP200Manpower21300]"
-
-decision_cost_army_xp_100: "£army_experience£ §Y100§!"
-decision_cost_army_xp_100_blocked: "£army_experience£ §R100§!"
-decision_cost_army_xp_100_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP100]"
-
-decision_cost_army_xp_10: "£army_experience£ §Y10§!"
-decision_cost_army_xp_10_blocked: "£army_experience£ §R10§!"
-decision_cost_army_xp_10_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP10]"
-
-decision_cost_army_xp_20: "£army_experience£ §Y20§!"
-decision_cost_army_xp_20_blocked: "£army_experience£ §R20§!"
-decision_cost_army_xp_20_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP20]"
-
-decision_cost_army_xp_30: "£army_experience£ §Y30§!"
-decision_cost_army_xp_30_blocked: "£army_experience£ §R30§!"
-decision_cost_army_xp_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP30]"
-
-decision_cost_army_xp_125: "£army_experience£ §Y125§!"
-decision_cost_army_xp_125_blocked: "£army_experience£ §R125§!"
-decision_cost_army_xp_125_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP125]"
-
-decision_cost_army_xp_50_manpower_6700: "£army_experience£ §Y50§! £manpower_icon£ §Y6700§!"
-decision_cost_army_xp_50_manpower_6700_blocked: "£army_experience£ §R50§! £manpower_icon£ §R6700§!"
-decision_cost_army_xp_50_manpower_6700_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP50Manpower6700]"
-
-decision_cost_army_xp_50_manpower_7000: "£army_experience£ §Y50§! £manpower_icon£ §Y7000§!"
-decision_cost_army_xp_50_manpower_7000_blocked: "£army_experience£ §R50§! £manpower_icon£ §R7000§!"
-decision_cost_army_xp_50_manpower_7000_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP50Manpower7000]"
-
-decision_cost_army_xp_100_manpower_10300: "£army_experience£ §Y100§! £manpower_icon£ §Y10300§!"
-decision_cost_army_xp_100_manpower_10300_blocked: "£army_experience£ §R100§! £manpower_icon£ §R10300§!"
-decision_cost_army_xp_100_manpower_10300_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP100Manpower10300]"
-
-decision_cost_army_xp_150: "£army_experience£ §Y150§!"
-decision_cost_army_xp_150_blocked: "£army_experience£ §R150§!"
-decision_cost_army_xp_150_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP150]"
-
-decision_cost_army_xp_150_manpower_21000: "£army_experience£ §Y150§! £manpower_icon£ §Y21000§!"
-decision_cost_army_xp_150_manpower_21000_blocked: "£army_experience£ §R150§! £manpower_icon£ §R21000§!"
-decision_cost_army_xp_150_manpower_21000_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP150Manpower21000]"
-
-decision_cost_2_loot: "£loot_text£ §Y2§!"
-decision_cost_2_loot_blocked: "£loot_text£ §R2§!"
-decision_cost_2_loot_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostLoot2]"
-
-decision_cost_4_loot: "£loot_text£ §Y4§!"
-decision_cost_4_loot_blocked: "£loot_text£ §R4§!"
-decision_cost_4_loot_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostLoot4]"
-
-decision_cost_5_loot: "£loot_text£ §Y5§!"
-decision_cost_5_loot_blocked: "£loot_text£ §R5§!"
-decision_cost_5_loot_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostLoot5]"
-
-decision_cost_6_loot: "£loot_text£ §Y6§!"
-decision_cost_6_loot_blocked: "£loot_text£ §R6§!"
-decision_cost_6_loot_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostLoot6]"
-
-decision_cost_8_loot: "£loot_text£ §Y8§!"
-decision_cost_8_loot_blocked: "£loot_text£ §R8§!"
-decision_cost_8_loot_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostLoot8]"
-
-decision_cost_1_chivalry_pp_50: "£helmet_text£ §Y1§! £pol_power£ §Y50§!"
-decision_cost_1_chivalry_pp_50_blocked: "£helmet_text£ §R1§! £pol_power£ §R50§!"
-decision_cost_1_chivalry_pp_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostChivalry1PP50]"
-
-decision_cost_manpower_10000: "£manpower_icon£ §Y10000§!"
-decision_cost_manpower_10000_blocked: "£manpower_icon£ §R10000§!"
-decision_cost_manpower_10000_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostManpower10000]"
-
-decision_cost_manpower_25000: "£manpower_icon£ §Y25000§!"
-decision_cost_manpower_25000_blocked: "£manpower_icon£ §R25000§!"
-decision_cost_manpower_25000_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostManpower25000]"
-
-decision_cost_manpower_50000: "£manpower_icon£ §Y50000§!"
-decision_cost_manpower_50000_blocked: "£manpower_icon£ §R50000§!"
-decision_cost_manpower_50000_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostManpower50000]"
-
-decision_cost_bank_5_pp_75: "£coin_text£ §Y5M§! £pol_power£ §Y75§!"
-decision_cost_bank_5_pp_75_blocked: "£coin_text£ §R5M§! £pol_power£ §R75§!"
-decision_cost_bank_5_pp_75_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostBank5PP75]"
-
-decision_cost_bank_5_pp_50: "£coin_text£ §Y5M§! £pol_power£ §Y50§!"
-decision_cost_bank_5_pp_50_blocked: "£coin_text£ §R5M§! £pol_power£ §R50§!"
-decision_cost_bank_5_pp_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostBank5PP50]"
-
-decision_cost_bank_2_pp_25: "£coin_text£ §Y2M§! £pol_power£ §Y25§!"
-decision_cost_bank_2_pp_25_blocked: "£coin_text£ §R2M§! £pol_power£ §R25§!"
-decision_cost_bank_2_pp_25_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostBank2PP25]"
-
-decision_cost_bank_3_pp_100: "£coin_text£ §Y3M§! £pol_power£ §Y100§!"
-decision_cost_bank_3_pp_100_blocked: "£coin_text£ §R3M§! £pol_power£ §R100§!"
-decision_cost_bank_3_pp_100_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostBank3PP100]"
-
-decision_cost_bank_3_pp_50: "£coin_text£ §Y3M§! £pol_power£ §Y50§!"
-decision_cost_bank_3_pp_50_blocked: "£coin_text£ §R3M§! £pol_power£ §R50§!"
-decision_cost_bank_3_pp_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostBank3PP50]"
-
-decision_cost_bank_4_pp_25: "£coin_text£ §Y4M§! £pol_power£ §Y25§!"
-decision_cost_bank_4_pp_25_blocked: "£coin_text£ §R4M§! £pol_power£ §R25§!"
-decision_cost_bank_4_pp_25_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostBank4PP25]"
-
-decision_cost_bank_3_pp_25: "£coin_text£ §Y3M§! £pol_power£ §Y25§!"
-decision_cost_bank_3_pp_25_blocked: "£coin_text£ §R3M§! £pol_power£ §R25§!"
-decision_cost_bank_3_pp_25_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostBank3PP25]"
-
-decision_cost_bank_1_pp_15: "£coin_text£ §Y1M§! £pol_power£ §Y15§!"
-decision_cost_bank_1_pp_15_blocked: "£coin_text£ §R1M§! £pol_power£ §R15§!"
-decision_cost_bank_1_pp_15_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostBank1PP15]"
-
-decision_cost_bank_2_pp_20: "£coin_text£ §Y2M§! £pol_power£ §Y20§!"
-decision_cost_bank_2_pp_20_blocked: "£coin_text£ §R2M§! £pol_power£ §R20§!"
-decision_cost_bank_2_pp_20_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostBank2PP20]"
-
-decision_cost_bank_6_pp_75: "£coin_text£ §Y6M§! £pol_power£ §Y75§!"
-decision_cost_bank_6_pp_75_blocked: "£coin_text£ §R6M§! £pol_power£ §R75§!"
-decision_cost_bank_6_pp_75_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostBank6PP75]"
-
-decision_cost_2000_guns_25_pp: "£infequip_text£ §Y2000§! £pol_power£ §Y25§!"
-decision_cost_2000_guns_25_pp_blocked: "£infequip_text£ §R2000§! £pol_power£ §R25§!"
-decision_cost_2000_guns_25_pp_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostEquipment2000PP25]"
-
-decision_cost_500_guns_50_pp: "£infequip_text£ §Y500§! £pol_power£ §Y50§!"
-decision_cost_500_guns_50_pp_blocked: "£infequip_text£ §R500§! £pol_power£ §R50§!"
-decision_cost_500_guns_50_pp_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostEquipment500PP50]"
-
-decision_cost_500_guns_100_pp: "£infequip_text£ §Y500§! £pol_power£ §Y100§!"
-decision_cost_500_guns_100_pp_blocked: "£infequip_text£ §R500§! £pol_power£ §R100§!"
-decision_cost_500_guns_100_pp_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostEquipment500PP100]"
-
-decision_cost_750_guns_50_pp: "£infequip_text£ §Y750§! £pol_power£ §Y50§!"
-decision_cost_750_guns_50_pp_blocked: "£infequip_text£ §R750§! £pol_power£ §R50§!"
-decision_cost_750_guns_50_pp_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostEquipment750PP50]"
-
-decision_cost_750_guns_100_pp: "£infequip_text£ §Y750§! £pol_power£ §Y100§!"
-decision_cost_750_guns_100_pp_blocked: "£infequip_text£ §R750§! £pol_power£ §R100§!"
-decision_cost_750_guns_100_pp_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostEquipment750PP100]"
-
-decision_cost_food_75_pp_25: "£wheat_texticon£ §Y75§! £pol_power£ §Y25§!"
-decision_cost_food_75_pp_25_blocked: "£wheat_texticon£ §R75§! £pol_power£ §R25§!"
-decision_cost_food_75_pp_25_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostFood75PP25]"
-
-decision_cost_3_stability: "£stability_texticon£ §Y3%§!"
-decision_cost_3_stability_blocked: "£stability_texticon£ §R3%§!"
-decision_cost_3_stability_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostStability3]"
-
-decision_cost_CP_15_pp_15_manpower_500: "£command_power£ §Y15§! £pol_power£ §Y15§! £manpower_icon£ §Y500§!"
-decision_cost_CP_15_pp_15_manpower_500_blocked: "£command_power£ §R15§! £pol_power£ §R15§! £manpower_icon£ §R500§!"
-decision_cost_CP_15_pp_15_manpower_500_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP15PP15MP500]"
-
 motorized_magical_weapons_recently_changed: "Минуло §Y360 днів§!"
 mechanized_magical_weapons_recently_changed: "Минуло §Y360 днів§!"
 special_forces_magical_weapons_recently_changed: "Минуло §Y360 днів§!"
@@ -421,40 +145,6 @@ logistics_helicopter_recently_changed: "Минуло §Y360 днів§!"
 hospital_helicopter_recently_changed: "Минуло §Y360 днів§!"
 hospital_helicopter_used: "Упроваджено використання вертольотів у ротах логістики"
 logistics_helicopter_used: "Упроваджено використання вертольотів у польових госпіталях"
-
-# FEZ black market
-FEZ_decision_cost_bank_3_pp_50: "£coin_text£ §Y3 000§! £pol_power£ §Y50§!"
-FEZ_decision_cost_bank_6_pp_50: "£coin_text£ §Y6 000§! £pol_power£ §Y50§!"
-FEZ_decision_cost_bank_9_pp_50: "£coin_text£ §Y9 000§! £pol_power£ §Y50§!"
-FEZ_decision_cost_bank_12_pp_50: "£coin_text£ §Y12 000§! £pol_power£ §Y50§!"
-FEZ_decision_cost_bank_1000_pp_50: "£coin_text£ §Y1M§! £pol_power£ §Y50§!"
-
-FEZ_decision_cost_bank_3_pp_50_blocked: "£coin_text£ §R3 000§! £pol_power£ §R50§!"
-FEZ_decision_cost_bank_6_pp_50_blocked: "£coin_text£ §R6 000§! £pol_power£ §R50§!"
-FEZ_decision_cost_bank_9_pp_50_blocked: "£coin_text£ §R9 000§! £pol_power£ §R50§!"
-FEZ_decision_cost_bank_12_pp_50_blocked: "£coin_text£ §R12 000§! £pol_power£ §R50§!"
-FEZ_decision_cost_bank_1000_pp_50_blocked: "£coin_text£ §R1M§! £pol_power£ §R50§!"
-
-# YAL Favors
-decision_cost_2_favor: "£iou_text£ §Y2§!"
-decision_cost_2_favor_blocked: "£iou_text£ §R2§!"
-decision_cost_2_favor_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostFavor2]"
-
-decision_cost_4_favor: "£iou_text£ §Y4§!"
-decision_cost_4_favor_blocked: "£iou_text£ §R4§!"
-decision_cost_4_favor_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostFavor4]"
-
-decision_cost_5_favor: "£iou_text£ §Y5§!"
-decision_cost_5_favor_blocked: "£iou_text£ §R5§!"
-decision_cost_5_favor_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostFavor5]"
-
-decision_cost_6_favor: "£iou_text£ §Y6§!"
-decision_cost_6_favor_blocked: "£iou_text£ §R6§!"
-decision_cost_6_favor_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostFavor6]"
-
-decision_cost_8_favor: "£iou_text£ §Y8§!"
-decision_cost_8_favor_blocked: "£iou_text£ §R8§!"
-decision_cost_8_favor_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostFavor8]"
 
 GRI_kill_blockers:0 "(AI ONLY) Kill Blockers"
 
@@ -529,47 +219,6 @@ our_struggle:0 "Our Struggle"
 our_cause:0 "Our Cause"
 equal_burdens:0 "Equal Burdens"
 
-### Zebrican Bats ###
-decision_cost_7500_test_subject: "£research_icon£ §Y7500§!"
-decision_cost_7500_test_subject_blocked: "£research_icon£ §R7500§!"
-decision_cost_7500_test_subject_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostTestSubject7500]"
-
-decision_cost_10000_test_subject: "£research_icon£ §Y10000§!"
-decision_cost_10000_test_subject_blocked: "£research_icon£ §R10000§!"
-decision_cost_10000_test_subject_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostTestSubject10000]"
-
-decision_cost_12500_test_subject: "£research_icon£ §Y12500§!"
-decision_cost_12500_test_subject_blocked: "£research_icon£ §R12500§!"
-decision_cost_12500_test_subject_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostTestSubject12500]"
-
-decision_cost_10000_labour_pp_15: "£manpower_icon£ §Y10000§! £pol_power §Y15§!"
-decision_cost_10000_labour_pp_15_blocked: "£manpower_icon£ §R10000§! £pol_power §R15§!"
-decision_cost_10000_labour_pp_15_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostLabour10000PP15]"
-
-decision_cost_15000_labour_pp_15: "£manpower_icon£ §Y15000§! £pol_power §Y15§!"
-decision_cost_15000_labour_pp_15_blocked: "£manpower_icon£ §R15000§! £pol_power §R15§!"
-decision_cost_15000_labour_pp_15_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostLabour15000PP15]"
-
-decision_cost_15000_labour: "£manpower_icon£ §Y15000§!"
-decision_cost_15000_labour_blocked: "£manpower_icon£ §R15000§!"
-decision_cost_15000_labour_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostLabour15000]"
-
-decision_cost_20000_labour_pp_15: "£manpower_icon£ §Y[?root.GetBATDecisionCostLabour225002000015000]§! £pol_power §Y[?root.GetBATDecisionCostPP]§!"
-decision_cost_20000_labour_pp_15_blocked: "£manpower_icon£ §R[?root.GetBATDecisionCostLabour225002000015000]§! £pol_power §R[?root.GetBATDecisionCostPP]§!"
-decision_cost_20000_labour_pp_15_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostLabour20000PP15]"
-
-decision_cost_25000_labour_pp_15: "£manpower_icon£ §Y[?root.GetBATDecisionCostLabour275002500020000]§! £pol_power §Y[?root.GetBATDecisionCostPP]§!"
-decision_cost_25000_labour_pp_15_blocked: "£manpower_icon£ §R[?root.GetBATDecisionCostLabour275002500020000]§! £pol_power §R[?root.GetBATDecisionCostPP]§!"
-decision_cost_25000_labour_pp_15_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostLabour25000PP15]"
-
-decision_cost_CP_15_mp_500: "£command_power£ §Y15§! £manpower_icon£ §Y500§!"
-decision_cost_CP_15_mp_500_blocked: "£command_power£ §R15§! £manpower_icon£ §R500§!"
-decision_cost_CP_15_mp_500_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP15MP500]"
-
-decision_cost_CP_15_pp_10_mp_500: "£command_power£ §Y15§! £pol_power£ §Y10§! £manpower_icon£ §Y500§!"
-decision_cost_CP_15_pp_10_mp_500_blocked: "£command_power£ §Y15§! £pol_power£ §Y10§!"
-decision_cost_CP_15_pp_10_mp_500_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP15PP10MP500]"
-
 ### ВЕРБУВАННЯ АГЕНТІВ ###
  recruit_equestrian_operative: "Завербувати агента-еквестрійця"
  recruit_changeling_operative: "Завербувати агента-чейнджлінґа"
@@ -614,6 +263,283 @@ SDL_attack_EMR_cat: "Возз'єднання Сідлової Арабії"
 placeholder_SDL_vs_EMR_decision: "Атакувати державу [EMR.GetNameDef]"
 placeholder_KAR_war_decision: "Атакувати державу [FROM.GetNameDef]"
 KAR_attack_west_cat: "Експансія на захід"
+
+### ВАРТІСТЬ РІШЕНЬ ###
+ decision_cost_CP_30_pp_25: "£command_power£ §Y30§! £pol_power£ §Y25§!"
+ decision_cost_CP_30_pp_25_blocked: "£command_power£ §R30§! £pol_power£ §R25§!"
+ decision_cost_CP_30_pp_25_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP30PP25]"
+
+ decision_cost_CP_30: "£command_power£ §Y30§!"
+ decision_cost_CP_30_blocked: "£command_power£ §R30§!"
+ decision_cost_CP_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP30]"
+
+ decision_cost_CP_15_pp_15: "£command_power£ §Y15§! £pol_power£ §Y15§!"
+ decision_cost_CP_15_pp_15_blocked: "£command_power£ §R15§! £pol_power£ §R15§!"
+ decision_cost_CP_15_pp_15_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP15PP15]"
+
+ decision_cost_CP_35_pp_35: "£command_power£ §Y35§! £pol_power£ §Y35§!"
+ decision_cost_CP_35_pp_35_blocked: "£command_power£ §R35§! £pol_power£ §R35§!"
+ decision_cost_CP_35_pp_35_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP35PP35]"
+
+ decision_cost_CP_35_pp_75: "£command_power£ §Y35§! £pol_power£ §Y75§!"
+ decision_cost_CP_35_pp_75_blocked: "£command_power£ §R35§! £pol_power£ §R75§!"
+ decision_cost_CP_35_pp_75_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP35PP75]"
+
+ decision_cost_pp_50_manpower_2000: "£manpower_icon£ §Y2000§! £pol_power£ §Y50§!"
+ decision_cost_pp_50_manpower_2000_blocked: "£manpower_icon£ §R2000§! £pol_power£ §R50§!"
+ decision_cost_pp_50_manpower_2000_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostPP50Manpower2000]"
+
+ decision_cost_pp_70_manpower_500: "£manpower_icon£ §Y500§! £pol_power£ §Y70§!"
+ decision_cost_pp_70_manpower_500_blocked: "£manpower_icon£ §R500§! £pol_power£ §R70§!"
+ decision_cost_pp_70_manpower_500_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostPP70Manpower500]"
+
+ decision_cost_pp_60_manpower_150: "£manpower_icon£ §Y150§! £pol_power£ §Y60§!"
+ decision_cost_pp_60_manpower_150_blocked: "£manpower_icon£ §R150§! £pol_power£ §R60§!"
+ decision_cost_pp_60_manpower_150_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostPP60Manpower150]"
+
+ decision_cost_pp_40_manpower_50: "£manpower_icon£ §Y50§! £pol_power£ §Y40§!"
+ decision_cost_pp_40_manpower_50_blocked: "£manpower_icon£ §R50§! £pol_power£ §R40§!"
+ decision_cost_pp_40_manpower_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostPP40Manpower50]"
+
+ decision_cost_pp_50_manpower_18000: "£manpower_icon£ §Y18000§! £pol_power£ §Y50§!"
+ decision_cost_pp_50_manpower_18000_blocked: "£manpower_icon£ §R18000§! £pol_power£ §R50§!"
+ decision_cost_pp_50_manpower_18000_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostPP50Manpower18000]"
+
+ decision_cost_pp_50_manpower_11100: "£manpower_icon£ §Y11100§! £pol_power£ §Y50§!"
+ decision_cost_pp_50_manpower_11100_blocked: "£manpower_icon£ §R11100§! £pol_power£ §R50§!"
+ decision_cost_pp_50_manpower_11100_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostPP50Manpower11100]"
+
+ decision_cost_50_pp_manpower_22000: "£manpower_icon£ §Y22000§! £pol_power£ §Y50§!"
+ decision_cost_50_pp_manpower_22000_blocked: "£manpower_icon£ §R22000§! £pol_power£ §R50§!"
+ decision_cost_50_pp_manpower_22000_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostPP50Manpower22000]"
+
+ decision_cost_army_xp_150_pp_30: "£army_experience£ §Y150§! £pol_power£ §Y30§!"
+ decision_cost_army_xp_150_pp_30_blocked: "£army_experience£ §R150§! £pol_power£ §R30§!"
+ decision_cost_army_xp_150_pp_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP150PP30]"
+
+ decision_cost_air_xp_75_pp_30: "£air_experience£ §Y75§! £pol_power£ §Y30§!"
+ decision_cost_air_xp_75_pp_30_blocked: "£air_experience£ §R75§! £pol_power£ §R30§!"
+ decision_cost_air_xp_75_pp_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostAirXP75PP30]"
+
+ decision_cost_air_xp_100_pp_30: "£air_experience£ §Y100§! £pol_power£ §Y30§!"
+ decision_cost_air_xp_100_pp_30_blocked: "£air_experience£ §R100§! £pol_power£ §R30§!"
+ decision_cost_air_xp_100_pp_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostAirXP100PP30]"
+
+ decision_cost_air_xp_150_pp_30: "£air_experience£ §Y150§! £pol_power£ §Y30§!"
+ decision_cost_air_xp_150_pp_30_blocked: "£air_experience£ §R150§! £pol_power£ §R30§!"
+ decision_cost_air_xp_150_pp_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostAirXP150PP30]"
+
+ decision_cost_navy_xp_50_air_xp_5_pp_15: "£navy_experience£ §Y50§! £air_experience£ §Y5§! £pol_power£ §Y15§!"
+ decision_cost_navy_xp_50_air_xp_5_pp_15_blocked: "£navy_experience£ §R50§! £air_experience£ §R5§! £pol_power£ §R15§!"
+ decision_cost_navy_xp_50_air_xp_5_pp_15_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostNavyXP50AirXP5PP15]"
+
+ decision_cost_navy_xp_50_pp_30: "£navy_experience£ §Y50§! £pol_power£ §Y30§!"
+ decision_cost_navy_xp_50_pp_30_blocked: "£navy_experience£ §R50§! £pol_power£ §R30§!"
+ decision_cost_navy_xp_50_pp_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostNavyXP50PP30]"
+
+ decision_cost_navy_xp_75_pp_30: "£navy_experience£ §Y75§! £pol_power£ §Y30§!"
+ decision_cost_navy_xp_75_pp_30_blocked: "£navy_experience£ §R75§! £pol_power£ §R30§!"
+ decision_cost_navy_xp_75_pp_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostNavyXP75PP30]"
+
+ decision_cost_navy_xp_150_pp_30: "£navy_experience£ §Y150§! £pol_power£ §Y30§!"
+ decision_cost_navy_xp_150_pp_30_blocked: "£navy_experience£ §R150§! £pol_power£ §R30§!"
+ decision_cost_navy_xp_150_pp_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostNavyXP150PP30]"
+
+ decision_cost_navy_xp_450_pp_60: "£navy_experience£ §Y450§! £pol_power£ §Y60§!"
+ decision_cost_navy_xp_450_pp_60_blocked: "£navy_experience£ §R450§! £pol_power£ §R36§!"
+ decision_cost_navy_xp_450_pp_60_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostNavyXP450PP60]"
+
+ decision_cost_navy_xp_250_pp_60: "£navy_experience£ §Y250§! £pol_power£ §Y60§!"
+ decision_cost_navy_xp_250_pp_60_blocked: "£navy_experience£ §R250§! £pol_power£ §R36§!"
+ decision_cost_navy_xp_250_pp_60_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostNavyXP250PP60]"
+
+ decision_cost_CP_25_army_xp_50: "£command_power£ §Y25§! £army_experience£ §Y50§!"
+ decision_cost_CP_25_army_xp_50_blocked: "£command_power£ §R25§! £army_experience£ §R50§!"
+ decision_cost_CP_25_army_xp_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP25ArmyXP50]"
+
+ decision_cost_army_xp_50: "£army_experience£ §Y50§!"
+ decision_cost_army_xp_50_blocked: "£army_experience£ §R50§!"
+ decision_cost_army_xp_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP50]"
+
+ decision_cost_army_xp_25: "£army_experience£ §Y25§!"
+ decision_cost_army_xp_25_blocked: "£army_experience£ §R25§!"
+ decision_cost_army_xp_25_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP25]"
+
+ decision_cost_250_infantry_10k_fuel: "£infequip_text §Y250§! £fuel_texticon §Y10K§!"
+ decision_cost_250_infantry_10k_fuel_blocked: "£infequip_text §R250§! £fuel_texticon §R10K§!"
+ decision_cost_250_infantry_10k_fuel_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostInfEq250Fuel10k]"
+
+ decision_cost_air_xp_50: "£air_experience£ §Y50§!"
+ decision_cost_air_xp_50_blocked: "£air_experience£ §R50§!"
+ decision_cost_air_xp_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostAirXP50]"
+
+ decision_cost_navy_xp_50: "£navy_experience£ §Y50§!"
+ decision_cost_navy_xp_50_blocked: "£navy_experience£ §R50§!"
+ decision_cost_navy_xp_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostNavyXP50]"
+
+ decision_cost_army_xp_75_pp_30: "£army_experience£ §Y75§! £pol_power£ §Y30§!"
+ decision_cost_army_xp_75_pp_30_blocked: "£army_experience£ §R75§! £pol_power£ §R30§!"
+ decision_cost_army_xp_75_pp_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP75PP30]"
+
+ decision_cost_army_xp_75: "£army_experience£ §Y75§!"
+ decision_cost_army_xp_75_blocked: "£army_experience£ §R75§!"
+ decision_cost_army_xp_75_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP75]"
+
+ decision_cost_army_xp_200: "£army_experience£ §Y200§!"
+ decision_cost_army_xp_200_blocked: "£army_experience£ §R200§!"
+ decision_cost_army_xp_200_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP200]"
+
+ decision_cost_army_xp_200_manpower_21300: "£army_experience£ §Y200§! £manpower_icon£ §Y21300§!"
+ decision_cost_army_xp_200_manpower_21300_blocked: "£army_experience£ §R200§! £manpower_icon£ §R21300§!"
+ decision_cost_army_xp_200_manpower_21300_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP200Manpower21300]"
+
+ decision_cost_army_xp_100: "£army_experience£ §Y100§!"
+ decision_cost_army_xp_100_blocked: "£army_experience£ §R100§!"
+ decision_cost_army_xp_100_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP100]"
+
+ decision_cost_army_xp_10: "£army_experience£ §Y10§!"
+ decision_cost_army_xp_10_blocked: "£army_experience£ §R10§!"
+ decision_cost_army_xp_10_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP10]"
+
+ decision_cost_army_xp_20: "£army_experience£ §Y20§!"
+ decision_cost_army_xp_20_blocked: "£army_experience£ §R20§!"
+ decision_cost_army_xp_20_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP20]"
+
+ decision_cost_army_xp_30: "£army_experience£ §Y30§!"
+ decision_cost_army_xp_30_blocked: "£army_experience£ §R30§!"
+ decision_cost_army_xp_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP30]"
+
+ decision_cost_army_xp_125: "£army_experience£ §Y125§!"
+ decision_cost_army_xp_125_blocked: "£army_experience£ §R125§!"
+ decision_cost_army_xp_125_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP125]"
+
+ decision_cost_army_xp_50_manpower_6700: "£army_experience£ §Y50§! £manpower_icon£ §Y6700§!"
+ decision_cost_army_xp_50_manpower_6700_blocked: "£army_experience£ §R50§! £manpower_icon£ §R6700§!"
+ decision_cost_army_xp_50_manpower_6700_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP50Manpower6700]"
+
+ decision_cost_army_xp_50_manpower_7000: "£army_experience£ §Y50§! £manpower_icon£ §Y7000§!"
+ decision_cost_army_xp_50_manpower_7000_blocked: "£army_experience£ §R50§! £manpower_icon£ §R7000§!"
+ decision_cost_army_xp_50_manpower_7000_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP50Manpower7000]"
+
+ decision_cost_army_xp_100_manpower_10300: "£army_experience£ §Y100§! £manpower_icon£ §Y10300§!"
+ decision_cost_army_xp_100_manpower_10300_blocked: "£army_experience£ §R100§! £manpower_icon£ §R10300§!"
+ decision_cost_army_xp_100_manpower_10300_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP100Manpower10300]"
+
+ decision_cost_army_xp_150: "£army_experience£ §Y150§!"
+ decision_cost_army_xp_150_blocked: "£army_experience£ §R150§!"
+ decision_cost_army_xp_150_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP150]"
+
+ decision_cost_army_xp_150_manpower_21000: "£army_experience£ §Y150§! £manpower_icon£ §Y21000§!"
+ decision_cost_army_xp_150_manpower_21000_blocked: "£army_experience£ §R150§! £manpower_icon£ §R21000§!"
+ decision_cost_army_xp_150_manpower_21000_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostArmyXP150Manpower21000]"
+
+ decision_cost_2_loot: "£loot_text£ §Y2§!"
+ decision_cost_2_loot_blocked: "£loot_text£ §R2§!"
+ decision_cost_2_loot_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostLoot2]"
+
+ decision_cost_4_loot: "£loot_text£ §Y4§!"
+ decision_cost_4_loot_blocked: "£loot_text£ §R4§!"
+ decision_cost_4_loot_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostLoot4]"
+
+ decision_cost_5_loot: "£loot_text£ §Y5§!"
+ decision_cost_5_loot_blocked: "£loot_text£ §R5§!"
+ decision_cost_5_loot_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostLoot5]"
+
+ decision_cost_6_loot: "£loot_text£ §Y6§!"
+ decision_cost_6_loot_blocked: "£loot_text£ §R6§!"
+ decision_cost_6_loot_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostLoot6]"
+
+ decision_cost_8_loot: "£loot_text£ §Y8§!"
+ decision_cost_8_loot_blocked: "£loot_text£ §R8§!"
+ decision_cost_8_loot_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostLoot8]"
+
+ decision_cost_1_chivalry_pp_50: "£helmet_text£ §Y1§! £pol_power£ §Y50§!"
+ decision_cost_1_chivalry_pp_50_blocked: "£helmet_text£ §R1§! £pol_power£ §R50§!"
+ decision_cost_1_chivalry_pp_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostChivalry1PP50]"
+
+ decision_cost_manpower_10000: "£manpower_icon£ §Y10000§!"
+ decision_cost_manpower_10000_blocked: "£manpower_icon£ §R10000§!"
+ decision_cost_manpower_10000_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostManpower10000]"
+
+ decision_cost_manpower_25000: "£manpower_icon£ §Y25000§!"
+ decision_cost_manpower_25000_blocked: "£manpower_icon£ §R25000§!"
+ decision_cost_manpower_25000_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostManpower25000]"
+
+ decision_cost_manpower_50000: "£manpower_icon£ §Y50000§!"
+ decision_cost_manpower_50000_blocked: "£manpower_icon£ §R50000§!"
+ decision_cost_manpower_50000_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostManpower50000]"
+
+ decision_cost_bank_5_pp_75: "£coin_text£ §Y5M§! £pol_power£ §Y75§!"
+ decision_cost_bank_5_pp_75_blocked: "£coin_text£ §R5M§! £pol_power£ §R75§!"
+ decision_cost_bank_5_pp_75_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostBank5PP75]"
+
+ decision_cost_bank_5_pp_50: "£coin_text£ §Y5M§! £pol_power£ §Y50§!"
+ decision_cost_bank_5_pp_50_blocked: "£coin_text£ §R5M§! £pol_power£ §R50§!"
+ decision_cost_bank_5_pp_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostBank5PP50]"
+
+ decision_cost_bank_2_pp_25: "£coin_text£ §Y2M§! £pol_power£ §Y25§!"
+ decision_cost_bank_2_pp_25_blocked: "£coin_text£ §R2M§! £pol_power£ §R25§!"
+ decision_cost_bank_2_pp_25_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostBank2PP25]"
+
+ decision_cost_bank_3_pp_100: "£coin_text£ §Y3M§! £pol_power£ §Y100§!"
+ decision_cost_bank_3_pp_100_blocked: "£coin_text£ §R3M§! £pol_power£ §R100§!"
+ decision_cost_bank_3_pp_100_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostBank3PP100]"
+
+ decision_cost_bank_3_pp_50: "£coin_text£ §Y3M§! £pol_power£ §Y50§!"
+ decision_cost_bank_3_pp_50_blocked: "£coin_text£ §R3M§! £pol_power£ §R50§!"
+ decision_cost_bank_3_pp_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostBank3PP50]"
+
+ decision_cost_bank_4_pp_25: "£coin_text£ §Y4M§! £pol_power£ §Y25§!"
+ decision_cost_bank_4_pp_25_blocked: "£coin_text£ §R4M§! £pol_power£ §R25§!"
+ decision_cost_bank_4_pp_25_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostBank4PP25]"
+
+ decision_cost_bank_3_pp_25: "£coin_text£ §Y3M§! £pol_power£ §Y25§!"
+ decision_cost_bank_3_pp_25_blocked: "£coin_text£ §R3M§! £pol_power£ §R25§!"
+ decision_cost_bank_3_pp_25_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostBank3PP25]"
+
+ decision_cost_bank_1_pp_15: "£coin_text£ §Y1M§! £pol_power£ §Y15§!"
+ decision_cost_bank_1_pp_15_blocked: "£coin_text£ §R1M§! £pol_power£ §R15§!"
+ decision_cost_bank_1_pp_15_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostBank1PP15]"
+
+ decision_cost_bank_2_pp_20: "£coin_text£ §Y2M§! £pol_power£ §Y20§!"
+ decision_cost_bank_2_pp_20_blocked: "£coin_text£ §R2M§! £pol_power£ §R20§!"
+ decision_cost_bank_2_pp_20_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostBank2PP20]"
+
+ decision_cost_bank_6_pp_75: "£coin_text£ §Y6M§! £pol_power£ §Y75§!"
+ decision_cost_bank_6_pp_75_blocked: "£coin_text£ §R6M§! £pol_power£ §R75§!"
+ decision_cost_bank_6_pp_75_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostBank6PP75]"
+
+ decision_cost_2000_guns_25_pp: "£infequip_text£ §Y2000§! £pol_power£ §Y25§!"
+ decision_cost_2000_guns_25_pp_blocked: "£infequip_text£ §R2000§! £pol_power£ §R25§!"
+ decision_cost_2000_guns_25_pp_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostEquipment2000PP25]"
+
+ decision_cost_500_guns_50_pp: "£infequip_text£ §Y500§! £pol_power£ §Y50§!"
+ decision_cost_500_guns_50_pp_blocked: "£infequip_text£ §R500§! £pol_power£ §R50§!"
+ decision_cost_500_guns_50_pp_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostEquipment500PP50]"
+
+ decision_cost_500_guns_100_pp: "£infequip_text£ §Y500§! £pol_power£ §Y100§!"
+ decision_cost_500_guns_100_pp_blocked: "£infequip_text£ §R500§! £pol_power£ §R100§!"
+ decision_cost_500_guns_100_pp_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostEquipment500PP100]"
+
+ decision_cost_750_guns_50_pp: "£infequip_text£ §Y750§! £pol_power£ §Y50§!"
+ decision_cost_750_guns_50_pp_blocked: "£infequip_text£ §R750§! £pol_power£ §R50§!"
+ decision_cost_750_guns_50_pp_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostEquipment750PP50]"
+
+ decision_cost_750_guns_100_pp: "£infequip_text£ §Y750§! £pol_power£ §Y100§!"
+ decision_cost_750_guns_100_pp_blocked: "£infequip_text£ §R750§! £pol_power£ §R100§!"
+ decision_cost_750_guns_100_pp_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostEquipment750PP100]"
+
+ decision_cost_food_75_pp_25: "£wheat_texticon£ §Y75§! £pol_power£ §Y25§!"
+ decision_cost_food_75_pp_25_blocked: "£wheat_texticon£ §R75§! £pol_power£ §R25§!"
+ decision_cost_food_75_pp_25_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostFood75PP25]"
+
+ decision_cost_3_stability: "£stability_texticon£ §Y3%§!"
+ decision_cost_3_stability_blocked: "£stability_texticon£ §R3%§!"
+ decision_cost_3_stability_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostStability3]"
+
+ decision_cost_CP_15_pp_15_manpower_500: "£command_power£ §Y15§! £pol_power£ §Y15§! £manpower_icon£ §Y500§!"
+ decision_cost_CP_15_pp_15_manpower_500_blocked: "£command_power£ §R15§! £pol_power£ §R15§! £manpower_icon£ §R500§!"
+ decision_cost_CP_15_pp_15_manpower_500_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP15PP15MP500]"
 
  decision_cost_biomass_750_pp_25: "£biomass_texticon£ §Y750§! £pol_power£ §Y25§!"
  decision_cost_biomass_750_pp_25_blocked: "£biomass_texticon£ §R750§! £pol_power£ §R25§!"
@@ -667,3 +593,77 @@ KAR_attack_west_cat: "Експансія на захід"
  decision_cost_magical_power_10_pp_25_blocked: "£magic_power_texticon£ §R10§! £pol_power£ §R25§!"
  decision_cost_magical_power_10_pp_25_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostMagic10PP25]"
 
+ # FEZ black market
+ FEZ_decision_cost_bank_3_pp_50: "£coin_text£ §Y3 000§! £pol_power£ §Y50§!"
+ FEZ_decision_cost_bank_6_pp_50: "£coin_text£ §Y6 000§! £pol_power£ §Y50§!"
+ FEZ_decision_cost_bank_9_pp_50: "£coin_text£ §Y9 000§! £pol_power£ §Y50§!"
+ FEZ_decision_cost_bank_12_pp_50: "£coin_text£ §Y12 000§! £pol_power£ §Y50§!"
+ FEZ_decision_cost_bank_1000_pp_50: "£coin_text£ §Y1M§! £pol_power£ §Y50§!"
+
+ FEZ_decision_cost_bank_3_pp_50_blocked: "£coin_text£ §R3 000§! £pol_power£ §R50§!"
+ FEZ_decision_cost_bank_6_pp_50_blocked: "£coin_text£ §R6 000§! £pol_power£ §R50§!"
+ FEZ_decision_cost_bank_9_pp_50_blocked: "£coin_text£ §R9 000§! £pol_power£ §R50§!"
+ FEZ_decision_cost_bank_12_pp_50_blocked: "£coin_text£ §R12 000§! £pol_power£ §R50§!"
+ FEZ_decision_cost_bank_1000_pp_50_blocked: "£coin_text£ §R1M§! £pol_power£ §R50§!"
+
+ # YAL Favors
+ decision_cost_2_favor: "£iou_text£ §Y2§!"
+ decision_cost_2_favor_blocked: "£iou_text£ §R2§!"
+ decision_cost_2_favor_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostFavor2]"
+
+ decision_cost_4_favor: "£iou_text£ §Y4§!"
+ decision_cost_4_favor_blocked: "£iou_text£ §R4§!"
+ decision_cost_4_favor_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostFavor4]"
+
+ decision_cost_5_favor: "£iou_text£ §Y5§!"
+ decision_cost_5_favor_blocked: "£iou_text£ §R5§!"
+ decision_cost_5_favor_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostFavor5]"
+
+ decision_cost_6_favor: "£iou_text£ §Y6§!"
+ decision_cost_6_favor_blocked: "£iou_text£ §R6§!"
+ decision_cost_6_favor_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostFavor6]"
+
+ decision_cost_8_favor: "£iou_text£ §Y8§!"
+ decision_cost_8_favor_blocked: "£iou_text£ §R8§!"
+ decision_cost_8_favor_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostFavor8]"
+
+ ### Zebrican Bats ###
+ decision_cost_7500_test_subject: "£research_icon£ §Y7500§!"
+ decision_cost_7500_test_subject_blocked: "£research_icon£ §R7500§!"
+ decision_cost_7500_test_subject_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostTestSubject7500]"
+
+ decision_cost_10000_test_subject: "£research_icon£ §Y10000§!"
+ decision_cost_10000_test_subject_blocked: "£research_icon£ §R10000§!"
+ decision_cost_10000_test_subject_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostTestSubject10000]"
+
+ decision_cost_12500_test_subject: "£research_icon£ §Y12500§!"
+ decision_cost_12500_test_subject_blocked: "£research_icon£ §R12500§!"
+ decision_cost_12500_test_subject_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostTestSubject12500]"
+
+ decision_cost_10000_labour_pp_15: "£manpower_icon£ §Y10000§! £pol_power §Y15§!"
+ decision_cost_10000_labour_pp_15_blocked: "£manpower_icon£ §R10000§! £pol_power §R15§!"
+ decision_cost_10000_labour_pp_15_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostLabour10000PP15]"
+
+ decision_cost_15000_labour_pp_15: "£manpower_icon£ §Y15000§! £pol_power §Y15§!"
+ decision_cost_15000_labour_pp_15_blocked: "£manpower_icon£ §R15000§! £pol_power §R15§!"
+ decision_cost_15000_labour_pp_15_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostLabour15000PP15]"
+
+ decision_cost_15000_labour: "£manpower_icon£ §Y15000§!"
+ decision_cost_15000_labour_blocked: "£manpower_icon£ §R15000§!"
+ decision_cost_15000_labour_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostLabour15000]"
+
+ decision_cost_20000_labour_pp_15: "£manpower_icon£ §Y[?root.GetBATDecisionCostLabour225002000015000]§! £pol_power §Y[?root.GetBATDecisionCostPP]§!"
+ decision_cost_20000_labour_pp_15_blocked: "£manpower_icon£ §R[?root.GetBATDecisionCostLabour225002000015000]§! £pol_power §R[?root.GetBATDecisionCostPP]§!"
+ decision_cost_20000_labour_pp_15_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostLabour20000PP15]"
+
+ decision_cost_25000_labour_pp_15: "£manpower_icon£ §Y[?root.GetBATDecisionCostLabour275002500020000]§! £pol_power §Y[?root.GetBATDecisionCostPP]§!"
+ decision_cost_25000_labour_pp_15_blocked: "£manpower_icon£ §R[?root.GetBATDecisionCostLabour275002500020000]§! £pol_power §R[?root.GetBATDecisionCostPP]§!"
+ decision_cost_25000_labour_pp_15_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostLabour25000PP15]"
+
+ decision_cost_CP_15_mp_500: "£command_power£ §Y15§! £manpower_icon£ §Y500§!"
+ decision_cost_CP_15_mp_500_blocked: "£command_power£ §R15§! £manpower_icon£ §R500§!"
+ decision_cost_CP_15_mp_500_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP15MP500]"
+
+ decision_cost_CP_15_pp_10_mp_500: "£command_power£ §Y15§! £pol_power£ §Y10§! £manpower_icon£ §Y500§!"
+ decision_cost_CP_15_pp_10_mp_500_blocked: "£command_power£ §Y15§! £pol_power£ §Y10§!"
+ decision_cost_CP_15_pp_10_mp_500_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP15PP10MP500]"
