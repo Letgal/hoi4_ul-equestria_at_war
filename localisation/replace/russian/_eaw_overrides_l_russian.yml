@@ -1,0 +1,663 @@
+﻿l_russian:
+ EAW_MENU_MODDB: "Equestria at War у MODDB"
+ EAW_MENU_DISCORD: "Сервер Equestria at War у Discord"
+ EAW_MENU_STEAMWORKSHOP: "Equestria at War у Майстерні Steam"
+ EAW_MENU_VK: "Equestria at War у VK"
+ maintheme: "RedSpark — The Way of Fire"
+ NOT_EXIST: "Для Вас буде вибрана випадкова країна."
+
+ #air_l
+  AIRWING_CREATE_NO_MANPOWER: "§RНе можна створити авіакрило! Для нього недостатньо службових поні-ресурсів.§!"
+  AIRWING_MISSION_TYPE_NAVAL_KAMIKAZE: "Самовбивчий удар"
+  AIRWING_MISSION_TYPE_NAVAL_KAMIKAZE_DESC: "Проводити самовбивчі удари проти ворожих кораблів у реґіоні. Це значно збільшить шкоду, але також збільшить Ваші втрати."
+  CAN_USE_KAMIKAZE_PILOTS: "Може використовувати пілотів-самовбивць"
+  kamikaze_focus_tooltip: "Дозволяє завдання §Y$AIRWING_MISSION_TYPE_NAVAL_KAMIKAZE$§! проти ворожих кораблів.\n"
+  suicide_craft_desc: "Літак-самовбивця з ракетними двигунами."
+  QUICK_DEPLOY_WING_DISABLE_NO_MAN_DESC: "Додати авіакрило $PLANE_TYPE|H$.\nУ Вас недостатньо поні-ресурсів."
+
+ #alert_l
+  alert_few_manpower_instant: "§HМало поні-ресурсів!§!"
+  alert_few_manpower_delayed: "У нас є мало поні-ресурсів. Це може призвести до того, що наші дивізії більше не зможуть отримувати підкріплення та воювати."
+  alert_not_enough_garrison_instant: "§HНедостатньо поні-ресурсів або оснащення для задовільнення потреб гарнізонів§!"
+  alert_not_enough_garrison_delayed: "Нам не вистачає $NUM|*H$ поні-ресурсів."
+
+ #autonomy_l
+  autonomy_colony: "Автономна маріонетка"
+  autonomy_reichskommissariat: "Комісаріат"
+  autonomy_reichsprotectorate: "Протекторат"
+  COLONIAL_FORCES_GENERAL_DESCRIPTION: "§GКлацніть, щоби переглянути шаблони суб'єктів і урядів у вигнанні.§!\n\nДивізії, створені за колоніальними шаблонами суб'єктів, можуть включати більше поні-ресурсів суб'єкта при нижчому рівні автономії."
+
+ #buildings_l
+  nuclear_reactor_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї.\n\nКожен ядерний реактор споживає §R12§! £resources_strip|7£.\nЯкщо у Вас немає £resources_strip|7£, нові ядерні бомби не будуть вироблятися."
+
+ #bop
+  BOP_TOOLTIP_STABLE: "Баланс сил наразі стабільний."
+
+ #bba_decisions_l
+  war_escalation_text: "£generic_war_escalation_text_icon Рівень ескалації війни: §Y[?PLB.PLB_war_escalation_level]§!"
+  war_escalation_level_tt: "§YПоточна ескалація війни§!\nРівень ескалації збільшується з часом, а також унаслідок різних дій, які вживають чейнджлінґи.\n\nТривалість війни: §Y+[?PLB.PLB_escalation_time_increase_total]§!\nЧейнджлінґи розпочали великий наступ (+1) [GetChangelingRenewedOffensiveText]\n\nЧейнджлінґи виділили принаймні 25 дивізій (+1) [GetChangeling25DivisionsText]\n\nЧейнджлінґи виділили принаймні 300 літаків (+1) [GetChangelingAircraftsText]"
+  war_escalation_1_tt: "Рівень 1\n Жодних ефектів"
+  war_escalation_2_tt: "Рівень 2\n Жодних ефектів"
+  war_escalation_3_tt: "Рівень 3\n §YПолярні ведмеді§!: Міжнародна репутація росте"
+  war_escalation_4_tt: "Рівень 4\n §YМіжнародна спільнота§!: Полярні ведмеді можуть надіслати запит на зброю\n §YЧейнджлінґи§!: Громадськість стурбована\n §YПолярні ведмеді§!: рішення §YЗакупівля зброї§! відкриті"
+  war_escalation_5_tt: "Рівень 5\n §YЧейнджлінґи§!: Армія зневірена\n §YПолярні ведмеді§!: Моральний дух армії посилений"
+  war_escalation_6_tt: "Рівень 6\n §YМіжнародна спільнота§!: Полярні ведмеді можуть надіслати запит на міжнародні бригади\n §YПолярні ведмеді§!: рішення §YМіжнародні бригади§! відкрите\n §YЧейнджлінґи§!: Неспокій по всій гегемонії"
+  war_escalation_7_tt: "Рівень 7\n §YЧейнджлінґи§!: Громадськість ставить під сумнів військові зусилля\n §YПолярні ведмеді§!: Благословення предків"
+  war_escalation_8_tt: "Рівень 8\n §YПолярні ведмеді§!: Дезертирство в лавах ворога\n §YЧейнджлінґи§!: Масове дезертирство"
+  war_escalation_9_tt: "Рівень 9\n §YПолярні ведмеді§!: Виживання всупереч усьому"
+  war_escalation_10_tt: "Рівень 10\n §YПолярні ведмеді§!: Народна війна\n §YЧейнджлінґи§!: Заворушення по всій імперії"
+
+ #characters_l
+  EFFECT_RETIRE_CHARACTER: "Усунути: $NAME|H$ в державі $COUNTRY|Y$."
+  EFFECT_CONTEXT_LEADER: "($FLAG$$LEADER|H$)"
+
+ #combat_l
+  COMBAT_LOG_BATTLE_LOST_MANPOWER: "Поні-ресурси: $MP|*R$"
+  COMBAT_LOG_LOSSES_IN_MP: "§HВтрачені поні-ресурси:§! $NUM|*$"
+  COMBAT_LOG_MP_LOST_DESC: "§HВтрачені поні-ресурси§!\nВтрати через ворожі наземні війська: $GND|R$\nВтрати через ворожі літаки: $AIR|R$"
+  COMBAT_LOG_MP_LOST_WITH_NAVY_DESC: "§HВтрачені поні-ресурси§!\nВтрати через ворожі наземні війська: $GND|R$\nВтрати через ворожі літаки: $AIR|R$\nВтрати через ворожий флот: $NAVY|R$"
+  COMBAT_SIDE_SUMMARY: "$MANPOWER|*1Y$ поні-ресурсів, $VEHICLES|Y$ од. техніки, $ARTILLERY|Y$ од. артилерії"
+
+ #core_l
+  CONFIRMDELETETEXT_RETURNDESC: "Використане озброєння буде повернене на склад, а §Yвійськові частини§! повернуться в §Yзапаси поні-ресурсів§!. Будь-які §Yекспедиційні війська§! будуть надіслані додому."
+  CONFIRMDELETETEXT_NAVYDESC: "Кораблі будуть §RЗНИЩЕНІ§!, а §Yвійськові частини§! повернуться в §Yзапаси поні-ресурсів§!."
+  CONFIRMDELETETEXT_RAILWAY_GUNS_TEXT: "Залізничні гармати будуть §RЗНИЩЕНІ§!, а §Yвійськові частини§! повернуться в §Yзапаси поні-ресурсів§!."
+  CONFIRMDELETETEXT_RAILWAY_GUNS_ENCIRCLED_SINGLE: "§RВійськова частина знаходиться в оточенні; Ви втратите все її оснащення та $VALUE|%0$ поні-ресурсів!§!"
+  CONFIRMDELETETEXT_RAILWAY_GUNS_ENCIRCLED_MULTI: "§R$NUM$ військ. част. знаходяться в оточенні; Ви втратите все їхнє оснащення та $VALUE|%0$ поні-ресурсів!§!"
+  CONFIRM_DELETE_ENCIRCLED_SINGLE: "§RВійськова частина знаходиться в оточенні; Ви втратите все її оснащення та $VALUE|%0$ поні-ресурсів!§!"
+  CONFIRM_DELETE_ENCIRCLED_MULTI: "§R$NUM$ військ. част. знаходяться в оточенні; Ви втратите все їхнє оснащення та $VALUE|%0$ поні-ресурсів!§!"
+  FE_IRONMAN: "Режим Ironpony"
+  FE_IRONMAN_TOOLTIP: "У режимі Ironpony використання консольних команд заблоковане, а гра автоматично зберігається в одному файлі. В цьому режимі відступати нікуди."
+  IRONMAN_START: "Запустити Ironpony"
+  SAVEITEM_IRONMAN: "Ironpony: $YESNO$"
+  FE_IRONMAN_MULTIPLAYER: "Ironpony недоступний у мережевій грі."
+  FE_IRONMAN_MP_BLOCKED: "§RРежим Ironman недоступний у мережевій грі.§!"
+  FE_IRONMAN_NOCLOUD: "Для Ironman потрібно ввімкнути Steam Cloud, а користувач мусить бути авторизований у Steam."
+  FE_SINGLE_PLAYER: "Зіграю-но я сам..."
+  FE_MULTI_PLAYER: "Покличу-но я друзів!"
+  MENU_BAR_IRONMAN_SAVE: "Збереження Ironpony"
+  MENU_BAR_IRONMAN_PLAIN: "Ironpony"
+  TRIGGER_IS_IRONMAN: "Гра запущена в режимі Ironpony"
+  TRIGGER_IS_NOT_IRONMAN: "Гра не запущена в режимі Ironpony"
+  NUCLEAR_PRODUCTION_ETA: "Наступна ядерна бомба зроблена на $PROGRESS|1G%$ і буде готова десь через $DAYS|G$ дн.\n\nЯкщо у Вас немає £resources_strip|7£, нові ядерні бомби не будуть вироблятися."
+  NUCLEAR_PRODUCTION_NONE: "Наразі ми не виробляємо ядерні бомби..\n\nЯкщо у Вас немає £resources_strip|7£, нові ядерні бомби не будуть вироблятися."
+  ACHIEVEMENTS_VIEW_LOCKED: "§RДосягнення доступні тільки в Ironpony!§!"
+  CONFIRMCONSOLIDATEUNITSAREENCIRCLED: "§RОбрані війська оточені; Ви втратите все їхнє оснащення та $VALUE|%0$ їхніх поні-ресурсів!§!"
+  CONFIRMCONSOLIDATE_EQUIPMENT_GAIN_CONSOLIDATE_TITLE:0 "Ось це буде повернуто на §Hсклади§!/в §Hзапас поні-ресурсів§!:"
+  CONSOLIDATE_TOOLTIP:0 "Merge understrength and damaged units. Consolidated units' experience is kept. Ponypower and equipment is added together." # (!)
+  FE_SELECT_SCENARIO: "Обрати континент"
+  FE_CHANGE_SCENARIO: "Змінити континент"
+  FE_DIFFICULTY_VERY_EASY_TOOLTIP:0 "§L«It's okay, Rainbow Dash. Not everypony can be as brave as me».§!" # (!)
+  FE_DIFFICULTY_EASY_TOOLTIP:0 "§L«Hey! I could clear the sky in ten seconds flat!»§!" # (!)
+  FE_DIFFICULTY_NORMAL_TOOLTIP:0 "§L«We've learned that friendship isn't always easy, but there's no doubt it's worth fighting for!»§!" # (!)
+  FE_DIFFICULTY_HARD_TOOLTIP:1 "§L«Yeah, it takes guts. But it also takes brains. And sometimes a big lunch and a nap».§!" # (!)
+  FE_DIFFICULTY_VERY_HARD_TOOLTIP:1 "§L«Today I learned what the most important quality really is. A certain kind of spirit. A stick-to-it-iveness. A never-give-up, can-do attitude, that's the mark of a real winner!»§!" # (!)
+  FE_HISTORICAL_TOOLTIP: "Держави, керовані ШІ, намагатимуться обирати §Hнаціональні фокуси§! в історичному порядку. Оберіть це, якщо Ви хочете, щоб країни ближче слідували своїм історичним шляхам. Деякі правила гри будуть несумісні з історичним ШІ."
+  BYPASS_FOCUS_TRIGER: "Фокус буде пропущений, якщо:"
+  POLITICS_NOELECTIONS: "Вибори: за подіями"
+  POLITICS_NEXT_ELECTION: "Вибори: $DATE$"
+  UNIT_LEVEL_0: "Ненавчені I"
+  UNIT_LEVEL_1: "Ненавчені II"
+  UNIT_LEVEL_2: "Ненавчені III"
+  UNIT_LEVEL_3: "Ненавчені IV"
+  UNIT_LEVEL_4: "Ненавчені V"
+  UNIT_LEVEL_5: "Треновані I"
+  UNIT_LEVEL_6: "Треновані II"
+  UNIT_LEVEL_7: "Треновані III"
+  UNIT_LEVEL_8: "Треновані IV"
+  UNIT_LEVEL_9: "Треновані V"
+  UNIT_LEVEL_10: "Регулярні I"
+  UNIT_LEVEL_11: "Регулярні II"
+  UNIT_LEVEL_12: "Регулярні III"
+  UNIT_LEVEL_13: "Регулярні IV"
+  UNIT_LEVEL_14: "Регулярні V"
+  UNIT_LEVEL_15: "Загартовані I"
+  UNIT_LEVEL_16: "Загартовані II"
+  UNIT_LEVEL_17: "Загартовані III"
+  UNIT_LEVEL_18: "Загартовані IV"
+  UNIT_LEVEL_19: "Загартовані V"
+  UNIT_LEVEL_20: "Ветерани"
+  SHIP_LEVEL_0: "Ненавчені I"
+  SHIP_LEVEL_1: "Ненавчені II"
+  SHIP_LEVEL_2: "Ненавчені III"
+  SHIP_LEVEL_3: "Ненавчені IV"
+  SHIP_LEVEL_4: "Ненавчені V"
+  SHIP_LEVEL_5: "Треновані I"
+  SHIP_LEVEL_6: "Треновані II"
+  SHIP_LEVEL_7: "Треновані III"
+  SHIP_LEVEL_8: "Треновані IV"
+  SHIP_LEVEL_9: "Треновані V"
+  SHIP_LEVEL_10: "Регулярні I"
+  SHIP_LEVEL_11: "Регулярні II"
+  SHIP_LEVEL_12: "Регулярні III"
+  SHIP_LEVEL_13: "Регулярні IV"
+  SHIP_LEVEL_14: "Регулярні V"
+  SHIP_LEVEL_15: "Загартовані I"
+  SHIP_LEVEL_16: "Загартовані II"
+  SHIP_LEVEL_17: "Загартовані III"
+  SHIP_LEVEL_18: "Загартовані IV"
+  SHIP_LEVEL_19: "Загартовані V"
+  SHIP_LEVEL_20: "Ветерани"
+  WEEKLY_FROM_OTHER_SOURCES: "\n§HМи також отримуємо§!:\nЩотижневі поні-ресурси: $VALUE|G$"
+  CAN_GENERATE_FAMALE_ACES: "Може мати пілотів-жінок"
+
+ #country_l
+  MANPOWER: "Поні-ресурси"
+  SERVICE_MANPOWER: "£manpower_texticon£ Службові поні-ресурси:"
+  SERVICE_MANPOWER_DESC: "Службові поні-ресурси необхідні для підтримання працездатності різних видів техніки."
+  MAX_MANPOWER: "Максимум поні-ресурсів: "
+  MANPOWER_TOTAL: "Усього поні-ресурсів: $MAX|0H*$"
+  MANPOWER_USAGE: "Доступні поні-ресурси: $FREE|^2H$$EXILE$\nВикористовувані поні-ресурси:\nАрмія: $ARMY|^2H$\n    - Розміщені: $FIELD|^2H$\n    - У процесі навчання: $TRAINING|^2H$\nАвіація: $AIR|^2H$\nФлот: $NAVAL|^2H$\nГарнізони: $GARRISON|^2H$"
+  MANPOWER_CURRENT: "Усього поні-ресурсів: $TOTAL|^2H$\nДоступно $PERC|2%H$ усього населення осердних земель ($ELIGIBLE|^H$)" # CORE
+  MANPOWER_CURRENT_MOBILIZATION: "Усього поні-ресурсів: $TOTAL|^2H$\nДоступно $PERC|2%H$ (близько $MOB|+3%$ мобілізуються щодня) усього населення осердних земель ($ELIGIBLE|^H$)" # CORE
+  MANPOWER_DESC: "Поні-ресурси походять від §Hпризовного населення§! країни та її окупованих територій і відображають істот, придатних до служби в збройних силах. Установіть жорсткіший §Hпризовний закон§!, щоби розширити призов населення і збільшити доступні поні-ресурси."
+  MANPOWER_DIVISION: "Поні-ресурси в дивізії"
+  MANPOWER_DIVISION_DESC: "§TКількість солдатів у цій §Hдивізії§!. Коли солдати гинуть, §Hдивізія§! отримує підкріплення з запасу §Hпоні-ресурсів§!.§!"
+  MANPOWER_DIVISION_SIZE_DESC: "§TУ цій §Hдивізії§! є $AMOUNT|G$ військ. Коли солдати гинуть, §Hдивізія§! отримує підкріплення з запасу §Hпоні-ресурсів§!.§!"
+  MANPOWER_DIVISION_SIZE_BREAKDOWN_DESC: "§TУ цій §Hдивізії§! є $AMOUNT|G$ військ. Поні-ресурси вона отримує з:§!"
+  MANPOWER_SHIP: "Службові поні-ресурси корабля"
+  MANPOWER_SHIP_DESC: "§TЦьому §Hкораблю§! потрібно $AMOUNT|G$ осіб у якості службових поні-ресурсів.§!"
+  MANPOWER_AIRWING: "Службові поні-ресурси авіакрила"
+  MANPOWER_AIRWING_DESC: "§TЦьому §Hавіакрилу§! потрібно $AMOUNT|G$ осіб у якості службових поні-ресурсів.§!"
+  CONSCRIPTION_TOTAL_FACTOR_EXTRA_DESC: "\nФактична кількість поні-ресурсів змінена на $VAL|-%0$ через\n"
+  MANPOWER_MONTHLY_TOTAL: "Щомісячний приріст поні-ресурсів: $VALUE|^+1$($PERC|2%H$)\nЗагальний приріст населення: $MAX|^2H$($FACTOR|2%H$ від загальної кількості)\n\nБазовий приріст: $RATIO|%H$"
+  MANPOWER_IN_USE: "Розміщені поні-ресурси"
+  MANPOWER_IN_USE_DESC: "§TКількість солдатів у розміщених військах. Коли солдати вмирають, війська отримують підкріплення з Ваших запасів §Hпоні-ресурсів§!.§!"
+  MANPOWER_IN_USE_GARRISON: "Поні-ресурси в гарнізонах"
+  MANPOWER_IN_USE_GARRISON_DESC: "§TКількість солдатів у гарнізонах. Коли солдати вмирають, війська отримують підкріплення з Ваших запасів §Hпоні-ресурсів§!.§!"
+  MANPOWER_PROVINCE_TOOLTIP: "Поні-ресурси: $VAL|*Y$"
+  NAVAL_SERVICE_MANPOWER_DESC: "Службові поні-ресурси, необхідні для підтримання працездатності нашого флоту."
+  AIR_SERVICE_MANPOWER_DESC: "Службові поні-ресурси, необхідні для підтримання працездатності нашої авіації."
+
+ #deployment_l
+  CONVEYOR_MANPOWER_NEED: "Необхідні поні-ресурси: $AMOUNT|H$"
+  DEPLOYMENT_MANPOWER_DESC: "Поні-ресурси: $VALUE|Y0$ (максимум: $MAX|Y0$)"
+  DEPLOYMENT_LINES_HIT_THE_CAP: "Ми можемо тренувати не більш ніж $CAP|*H$ солдатів.\nОбмежено максимумом розміщених поні-ресурсів ($RATIO|H0%$ із $INFIELD|*H$, мінімум солдатів: $MINPOSSIBLE|*H$)"
+  CONVEYOR_CAN_NOT_MANPOWER_TRAIN: "§RНедостатньо поні-ресурсів для подальшого тренування.§!"
+  CONVEYOR_CAN_NOT_TRAIN_COUNT: "§RНедостатньо поні-ресурсів або оснащення для тренування $DIVS|H$ дивізій.§!"
+  TEMPLATE_PRIO_2_DESC: ""Військові частини з цим шаблоном отримуватимуть оснащення раніше за всіх і з найвищим пріоритетом після свого розміщення. Використовуйте для своїх найкращих військ і де вони найкорисніші."
+
+ #designer_l
+  DESIGNER_MANPOWER: "Поні-ресурси: "
+  DESIGNER_MANPOWER_DESC: "Скільки поні-ресурсів потрібно, щоби заповнити цю дивізію."
+  NAME_THEME_ANIMALS: "Національні істоти"
+  NAME_THEME_HISTORICAL_CARRIERS: "Національні авіаносці"
+  NAME_THEME_HISTORICAL_DESTROYERS: "Національні есмінці"
+  NAME_THEME_HISTORICAL_SUBMARINES: "Національні підводні човни"
+  NAME_THEME_HISTORICAL_CL: "Національні легкі крейсери"
+  NAME_THEME_HISTORICAL_CA: "Національні важкі крейсери"
+  NAME_THEME_HISTORICAL_BC: "Національні лінійні крейсери"
+  NAME_THEME_HISTORICAL_BB: "Національні лінкори"
+  NAME_THEME_HISTORICAL_SHBB: "Національні надважкі лінкори"
+  NAME_THEME_HISTORICAL_LIGHT_DDS: "Національні легкі есмінці"
+  NAME_THEME_HISTORICAL_DE: "Національні есмінці супроводу"
+  NAME_THEME_HISTORICAL_TB: "Національні торпедні човни"
+  NAME_THEME_HISTORICAL_CVL: "Національні легкі авіаносці/авіаносці супроводу"
+  NAME_THEME_HISTORICAL_CLAA: "Національні протиповітряні крейсери"
+  NAME_THEME_HISTORICAL_MINELAYERS: "Національні закладачі мін"
+
+ #diplomacy_l
+  DIPLOMACY_ASKSTATECONTROL_DESC:0 "Having control of an occupied state means you will need to take care of resistance there, but will give you access to the resources, ponypower and factories there." # (!)
+  DIPLOMACY_GIVESTATECONTROL_DESC:0 "Giving away control of an occupied state can help you manage resistance and help your faction members get access to resources, ponypower and factories." # (!)
+  ESTIMATED_MANPOWER: "Приблизні поні-ресурси"
+  DIPLOMACY_MESSAGE_SUBJECT_AUTONOMY_CHANGE_MANPOWER: "Для цього нам потрібно $VALUE|^2H$ поні-ресурсів."
+  DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_MANPOWER:0 "To sufficiently exceed the deployed ponypower of the current leader and its subjects, we and our subjects need an effective $NEEDED|*Y$ deployed ponypower, but only have $CURRENT|*Y$." # (!)
+  DIPLOMACY_ASSUME_FACTION_LEADERSHIP_MANPOWER_PROGRESS: "   $CURRENT|*R$ розміщених поні-ресурсів із потрібних $NEEDED|*Y$."
+
+  DIPLOMACY_REQUEST_FOREIGN_MANPOWER_ACTION_DESC:0 "Request foreign ponypower to fulfill our Garrisons." # (!)
+  DIPLOMACY_REQUEST_FOREIGN_MANPOWER_ACTION_DESC_MORE:0 "Request more foreign ponypower to fulfill our Garrisons.\n(We already have $NUMBER|H*$ ponypower from this country)" # (!)
+  DIPLOMACY_REQUEST_FOREIGN_MANPOWER_REQUEST_DESC:2 "$COUNTRY|UY$ requests ponypower for their Garrisons." # (!)
+  DIPLOMACY_REQUEST_FOREIGN_MANPOWER_REQUEST_DESC_MORE:0 "$COUNTRY|UY$ requests more ponypower for their Garrisons.\nThey already have $NUMBER|H*$ ponypower from us." # (!)
+  DIPLOMACY_REQUEST_FOREIGN_MANPOWER_REQUEST_DETAILS:0 "Ponypower needed to maintain their policies: $NEEDED|H*$\nCurrent total Foreign Ponypower in their stock: $CURRENT|H*$" # (!)
+  DIPLOMACY_CANCEL_FOREIGN_MANPOWER_ACTION_DESC:1 "Pull back the ponypower we gave for their Garrisons ($NUMBER|H*$)." # (!)
+  DIPLOMACY_CANCEL_FOREIGN_MANPOWER_MESSAGE_ACTION_DESC:1 "$COUNTRY|UY$ cancels Garrison support.\n\nThey pull back the ponypower they gave ($NUMBER|H*$)." # (!)
+  DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_REQUEST_FOREIGN_MANPOWER:0 "$COUNTRY|UY$ has §Gaccepted§! our request for Garrison support.\n\nThey gave us $MANPOWER|H*$ Ponypower." # (!)
+  #foreign_manpower_initiator_desc: "$COUNTRY|UY$ надає поні-ресурси для гарнізонів інших держав"
+  #foreign_manpower_initiator_extended_desc: "$COUNTRY1|UY$ надає поні-ресурси для гарнізонів держави $COUNTRY2|Y$"
+  #foreign_manpower_receiver_desc: "$COUNTRY|UY$ використовує поні-ресурси інших держав у своїх гарнізонах"
+  #foreign_manpower_receiver_extended_desc: "$COUNTRY1|UY$ використовує поні-ресурси держави $COUNTRY2|Y$ у своїх гарнізонах"
+  #FOREIGN_MANPOWER_REASON_NO_NEED:1 "We don't really need more Foreign Ponypower: " # (!)
+  #FOREIGN_MANPOWER_REASON_NOT_ENOUGH: "$COUNTRY|UY$ не має достатньо поні-ресурсів, щоби дати їх нам: "
+  #FOREIGN_MANPOWER_REASON_ALREADY_ENOUGH: "$COUNTRY|UY$ не хоче давати нам більше поні-ресурсів: "
+  #FOREIGN_MANPOWER_REASON_COOLDOWN:0 "$COUNTRY|UY$ gave us Ponypower recently. They will not accept a new request before $DATE|H$: " # (!)
+  DIPLOMACY_NUMBER_FOREIGN_MANPOWER_SENT:0 "Send $MANPOWER|H$ Ponypower to $COUNTRY|H$." # (!)
+
+  democratic_leanings_good: "Гармонійні нахили"
+  democratic_leanings_bad: "$democratic_leanings_good$"
+  DR_STRATEGIC_HOSTILITY: "Держава $US|Y$ має стратегічні причини щодо держави $THEM|Y$: "
+  DR_STRATEGIC_FRIENDSHIP: "Держава $US|Y$ має стратегічні причини щодо держави §Y$THEM$§!: "
+  DR_STRATEGIC_ALLIANCE: "Держава $US|Y$ має стратегічні причини щодо держави §Y$THEM$§!: "
+  DR_STRATEGIC_SUPPORT: "Держава $US|Y$ має стратегічні причини щодо держави §Y$THEM$§!: "
+  DR_STRATEGIC_NOT_ALLIANCE: "Держава $US|Y$ має стратегічні причини щодо держави §Y$THEM$§!: "
+  DR_STRATEGIC_NOT_SUPPORT: "Держава $US|Y$ має стратегічні причини щодо держави §Y$THEM$§!: "
+  DR_US_DEMOCRATIC: "$US|UY$ — гармонійна держава: "
+  DR_OFFENSIVE_WAR: "Заклик гармонійної держави в наступальну війну: "
+  foreign_manpower_initiator_desc: "$COUNTRY|UY$ надає поні-ресурси для гарнізонів інших держав"
+  foreign_manpower_initiator_extended_desc: "$COUNTRY1|UY$ надає поні-ресурси для гарнізонів держави $COUNTRY2|Y$"
+  foreign_manpower_receiver_desc: "$COUNTRY|UY$ використовує поні-ресурси інших держав у своїх гарнізонах"
+  foreign_manpower_receiver_extended_desc: "$COUNTRY1|UY$ використовує поні-ресурси держави $COUNTRY2|Y$ у своїх гарнізонах"
+  FOREIGN_MANPOWER_REASON_NO_NEED:1 "We don't really need more Foreign Ponypower: " # (!)
+  FOREIGN_MANPOWER_REASON_NOT_ENOUGH: "$COUNTRY|UY$ не має достатньо поні-ресурсів, щоби дати їх нам: "
+  FOREIGN_MANPOWER_REASON_ALREADY_ENOUGH: "$COUNTRY|UY$ не хоче давати нам більше поні-ресурсів: "
+  FOREIGN_MANPOWER_REASON_COOLDOWN:0 "$COUNTRY|UY$ gave us Ponypower recently. They will not accept a new request before $DATE|H$: " # (!)
+  DIPLOMACY_DEM_NO_THREAT_JUSTIFYING_WAR: "Гармонійні країни та члени альянсів із гармонійним лідером не можуть виправдовувати цілі війни проти країн, які не створили світову напруженість."
+  DIPLOMACY_NUMBER_FOREIGN_MANPOWER_SENT:0 "Send $MANPOWER|H$ Ponypower to $COUNTRY|H$." # (!)
+  DIPLOMACY_REQUEST_FOREIGN_MANPOWER_ACTION_DESC:0 "Request foreign ponypower to fulfill our Garrisons." # (!)
+  DIPLOMACY_REQUEST_FOREIGN_MANPOWER_ACTION_DESC_MORE:0 "Request more foreign ponypower to fulfill our Garrisons.\n(We already have $NUMBER|H*$ ponypower from this country)" # (!)
+
+ #dod_focus_l
+  ROM_license_german_equipment: "Ліцензії на німецьке оснащення"
+  ROM_license_german_equipment_desc:0 "Foreign equipment is superior to our own, but perhaps we could obtain the licenses to produce these weapons, ourselves." # (!)
+
+ #effect_l
+  EFFECT_MAKE_PUPPET: "Держава $TARGET|UY$ стане суб'єктом держави $COUNTRY|Y$."
+  EFFECT_MANPOWER_ADD_COUNTRY: "Поні-ресурси: $VAL|+=0$."
+  EFFECT_MANPOWER_ADD_STATE: "Поні-ресурси: $VAL|+=0$."
+  EFFECT_DISABLE_TEMPLATE_EDITTING:0 "Disable editing of the $NAME|H$ Division Template, and the training or disbanding of units belonging to it."
+  EFFECT_ENABLE_TEMPLATE_EDITTING:0 "Enable editing of the $NAME|H$ Division Template, and the training or disbanding of units belonging to it."
+
+ #events_l
+  political.4.d:0 "The communist revolutionary movement, once a fringe popular among radical students and troublemakers, has seen increased support among the [Root.GetAdjective] working class. The fact that even more people choose to identify themselves with a 'class' at all implies that Socialist ideas are spreading beyond those who actively seek to overthrow the government.\n\n[Root.GetRulingParty] members lament this development, longing for a time when '[Root.GetAdjective]' was what people identified as first and foremost. Their concerns are not unfounded. It could be argued that a revolution is already underway, occurring on several levels of society, and it may be too late to stop it." # (!)
+  political.4.a:0 "They may call themselves whatever they want." # (!)
+  political.5.t:0 "Soldiers Desert to Communist Militias" # (!)
+  political.5.d:0 "'Capitalists and nationalists would have you spill your blood for them on the front lines, turning worker against worker over disputes that do not concern the true socialist! Instead of taking up arms against workers who struggle abroad, raise them against the oppressors and overthrow the tyrants!'\n\nThe army, usually a bastion of loyalty and national pride, has proven not to be immune to the communist propaganda spreading rapidly in [Root.GetName]. Soldiers are deserting, refusing to fight for their country, sometimes going as far as joining militia movements that claim to be preparing for revolution." # (!)
+  GAME_OVER_TT: "§RГра закінчиться для Вас.§!\n"
+
+  country_capitulated.0.d_positive_both_no_faction: "[This.GetNewspaperHeader][From.From.GetLeader] оголосив, що боягузлива [Root.GetAdjective]а нація більше не може встояти під тиском розміщених у державі [From.From.GetAdjective]их військ. [Root.GetAdjective]а влада вирішила втекти з держави й створити уряд у вигнанні. Їхні основні війська капітулювали, а [From.From.GetNameDef] тепер контролює їхні головні території.\nПопри те, що війна продовжується, тим не менш це велика перемога для держави [From.From.GetNameDef]."
+  country_capitulated.0.d_negative_both_no_faction: "[This.GetNewspaperHeader][Root.GetLeader] оголосив, що [Root.GetAdjective]а нація більше не може встояти під тиском [From.From.GetAdjective]их окупаційних військ, які скоюють немислимі звірства в їхній країні. [Root.GetAdjective]а влада створила уряд у вигнанні. Їхні основні війська капітулювали, а [From.From.GetNameDef] тепер контролює їхні головні території.\nНезважаючи на цю нищівну втрату, війна проти держави [From.From.GetNameDef] ще далека від завершення."
+  country_capitulated.0.d_neutral_both_no_faction:1 "[This.GetNewspaperHeader]With the [From.From.GetAdjective] forces in control of most of the [Root.GetAdjective] territory, their government has gone into exile and their main forces have capitulated to [From.From.GetNameDef], who is now in control of their home area.\nThe violent struggles between [From.From.GetNameDef] and [Root.GetNameDef] are officially over, and the defeated side is entirely at the mercy of the victors." # (!)
+  country_capitulated.0.a: "[Root.GetTNOReference]"
+
+ #equipment_l
+  motorized_equipment_0: "Рання вантажівка"
+  motorized_equipment_0_desc:1 "Since the start of mass production of motor vehicles in Equestria and Skyfall, militaries started to use basic civilian trucks for transporting supplies and hauling equipment. These are becoming an integral part of most armies."
+
+ #focus_filter_tag_l
+  FOCUS_FILTER_MANPOWER: "Поні-ресурси"
+
+ #focus_l
+  RAJ_revive_the_screw_guns_effect: "Відкриває: §H$mountain_gun$§!\n£unit_artillery_brigade_icon_small §HАртилерія\n    Пагорби§!: Рух: §G+10%§!\n    §HГори§!: Рух: §G+15%§!\n£unit_anti_tank_brigade_icon_small §HПТА\n    Пагорби§!: Рух: §G+10%§!\n    §HГори§!: Рух: §G+15%§!"
+  RAJ_jungle_training_effect: "Відкриває: §H$RAJ_jungle_training$§!\nУсі §Hсили спеціальних операцій\n    Джунглі§!\n      Атака: §G+5%§!\n      Рух: §G+10%§!\n"
+  liberty_ethos_desc: "У цей час ідеологічних фанатиків, які хочуть задушити універсальні цінності, ми захистимо індивідуальні права та свободи."
+  doctrine_effort_desc: "Військові доктрини, що визначали наземний бій у давнину, застаріли. Ми мусимо поставити наших найкращих людей на формування військової думки завтрашнього дня."
+  fighter_focus_desc: "Війни давнини навчили нас ранньому повітряному бою, але це був тільки початок. Створення найновіших моделей винищувачів дасть нам перевагу в майбутньому."
+  nuclear_effort_desc: "Стоячи на порозі відкриття, яке змінить світ, ми не можемо дозволити іншим запалити вогонь, який зможе одного дня пожерти нашу планету."
+  volunteer_corps_desc:0 "Мы никогда не стали бы заставлять своих граждан отдавать жизнь за идеалы свободы, однако если граждане сами желают помогать другим странам, мы должны предоставить им такую возможность." # (!)
+  why_we_fight_desc:0 "Мир становится все более небезопасным. Народ должен видеть, какие зверства совершаются теми, кто рвется к власти. Пора привлечь граждан под наши знамена, чтобы они были готовы отстаивать свою свободу." # (!)
+  political_correctness_desc:0 "Существа, отстаивающие взгляды, расходящиеся с мнением большинства, беспокоятся о том, что против них существует глобальный заговор. Это любопытная идея." # (!)
+
+ #government_in_exile_l
+  EXILE_MANPOWER_DAILY_GROWTH: "Щоденний ріст §Hпоні-ресурсів ветеранів у вигнанні§!: $AMOUNT|H^$"
+  EXILE_MANPOWER_EXPLANATION_DELAYED_HOST:0 "We can use $EXILEADJ|H$ §HExiled Veteran Ponypower§! to recruit §HExile Air Wings§! and §HExile Veteran Divisions§! when they have sufficient §HLegitimacy§!." # (!)
+  EXILE_MANPOWER_EXPLANATION_DELAYED_EXILE_PLAYER:0 "§HExiled Veteran Ponypower§! is used by our host ($HOSTNAMEDEF|UH$) to recruit §HExile Air Wings§! and §HExile Veteran Divisions§! when we have sufficient §HLegitimacy§!." # (!)
+  GIE_AIRWING_SELECT_MANPOWER_BUTTON_EXILE: "Наразі ми використовуємо §H$COUNTRYADJ$і§! §Hпоні-ресурси ветеранів у вигнанні§!."
+  GIE_AIRWING_SELECT_MANPOWER_BUTTON_OWN: "Наразі ми використовуємо §H$COUNTRYADJ$і§! §Hпоні-ресурси§!."
+  GIE_AIRWING_SELECT_MANPOWER_EXILE_AVAILABLE: "Клацніть, щоб обрати, чиї §Hпоні-ресурси§! використати для цього §Hавіакрила§!."
+  GIE_RECRUITMENT_LOCKED_HOST:0 "$COUNTRY|HU$ needs to have $VALUE|0H$ §HLegitimacy§! before we can recruit $TYPE|H$ using §HExiled Veteran Ponypower§!."
+  GIE_RECRUITMENT_LOCKED_EXILE_PLAYER:0 "We need to have $VALUE|0H$ §HLegitimacy§! before $HOSTNAMEDEF|H$ can recruit $TYPE|H$ using §HExiled Veteran Ponypower§!."
+  GIE_AIRWING_RECRUITMENT_SELECT_EXILE: "Клацніть, щоби використати §H$COUNTRYADJ|l$і§! §Hпоні-ресурси ветеранів у вигнанні§!."
+  GIE_AIRWING_RECRUITMENT_SELECT_OWNER: "Клацніть, щоби використати §H$COUNTRYADJ|l$і§! §Hпоні-ресурси§!."
+  GIE_REINSTATE_EFFECT_DESC:0 "By reinstating the government all $NAMEADJ$ §HExiled Divisions§!, §HArmy Leaders§! and §HShips§! will be transfered back to $NAMEDEF|H$. We will no longer be able to use their §HExiled Veteran Ponypower§! for §HExiled Air Wings§! and the planes will be returned to storage." # (!)
+  COUNTRYVIEW_GIE_INFO:0 "Our host ($HOSTNAMEDEF|H$) benefits from higher §HLegitimacy§!\n§HLegitimacy§! affects §HExiled Veteran Ponypower§! trickle to host and regular ponypower for us.\n\n§HExile Veteran Divisions§! get combat bonuses against $OCCUPIERLIST$\n     - Attack: $ATK_VS_OCCUPIER|%0+$\n     - Defense: $DEF_VS_OCCUPIER|%+0$\nAdditional bonuses when fighting on our cores:\n     - Attack: $ATK_ON_CORE|%+0$\n     - Defense: $DEF_ON_CORE|%+0$" # (!)
+
+ #ideas_l
+  democratic_influence: "Вплив гармонізму"
+  democratic_influence_desc:0 "Harmonist pressure has made harmonic ideas very popular, and the country is susceptible to align with other Harmonists."
+  #generic_democratic_reformer:0 "Pro-Harmony Politician"
+  #generic_fascist_demagogue:0 "Pro-Supremacy Politician"
+  democratic_opposition_voicing_protests:0 "Harmonist Opposition Voicing Protests"
+  democratic_revolutionaries: "Революціонери-гармоністи"
+  democratic_revolutionaries_desc:0 "If support for Harmony rises above 70%, the nation will be plunged into civil war. If support for Harmony drops below 30%, revolutionary activity will stop."
+  the_long_lance: "«Довгий спис»"
+  the_long_lance_desc:0 "The Long Lance is a torpedo specially designed by Jezeragrad Armaments, which has twice the range of its foreign counterparts. This greatly increases its efficiency." # (!)
+  undisturbed_isolation_desc:0 "This nation has been politically disconnected from the greater world for a long time, favoring a policy of isolationism and retreat when threatened. Its industries are in most cases working at half capacity, and will keep doing so unless major events rouse the nation from torpor. Unlike a detached country, however, this country has continued to modernize and advance in its solitude." # (!)
+
+ #intel_ledger_l
+  INTEL_LEDGER_MANPOWER_TOOLTIP: "Доступні поні-ресурси: $RANGE|H$"
+  INTEL_LEDGER_FIELDED_MANPOWER_TOOLTIP: "Розміщені поні-ресурси:"
+  INTEL_LEDGER_DEPLOYED_MANPOWER_COUNT: "Розміщено армійських поні-ресурсів: $AMOUNT|H$"
+  INTEL_LEDGER_DEPLOYED_MANPOWER_COUNT_WITH_CAP: "Розміщено армійських поні-ресурсів: $AMOUNT|H$ (потрібні армійські розвіддані: $MIN|H.0%$)"
+  INTEL_LEDGER_DEPLOYED_NAVY_MANPOWER_COUNT: "Розміщено флотських поні-ресурсів: $AMOUNT|H$"
+  INTEL_LEDGER_DEPLOYED_NAVY_MANPOWER_COUNT_WITH_CAP: "Розміщено флотських поні-ресурсів: $AMOUNT|H$ (потрібні флотські розвіддані: $MIN|H.0%$)"
+  INTEL_LEDGER_DEPLOYED_AIR_MANPOWER_COUNT: "Розміщено авіаційних поні-ресурсів: $AMOUNT|H$"
+  INTEL_LEDGER_DEPLOYED_AIR_MANPOWER_COUNT_WITH_CAP: "Розміщено авіаційних поні-ресурсів: $AMOUNT|H$ (потрібні авіаційні розвіддані: $MIN|H.0%$)"
+  CIV_LEDGER_THRESHOLD_FUZZY_TOTAL_MANPOWER: "Приблизно всього поні-ресурсів"
+  CIV_LEDGER_THRESHOLD_MANPOWER: "Усього поні-ресурсів"
+  ARMY_LEDGER_THRESHOLD_DEPLOYED_MANPOWER: "Розміщені поні-ресурси армії"
+  ARMY_LEDGER_THRESHOLD_FUZZY_DEPLOYED_MANPOWER: "Приблизні розміщені поні-ресурси армії"
+  NAVY_LEDGER_THRESHOLD_FIELDED_MANPOWER: "Розміщені поні-ресурси флоту"
+  NAVY_LEDGER_THRESHOLD_FUZZY_FIELDED_MANPOWER: "Приблизні розміщені поні-ресурси флоту"
+  AIR_LEDGER_THRESHOLD_FIELDED_MANPOWER: "Розміщені поні-ресурси авіації"
+  AIR_LEDGER_THRESHOLD_FUZZY_FIELDED_MANPOWER: "Приблизні розміщені поні-ресурси авіації"
+
+ #lar_decisions_l
+  recruit_in_state_tt: "Ми отримаємо місцевого агента з даною культурою. Цього агента буде важче помітити при проникненні та виконанні завдань у державах із цією культурою."
+  recruit_in_state_to_pool_tt: "Місцевий агент із даною культурою стане доступний для вербування, якщо в нас є відкрита §Yкомірка для агента§!. Цього агента буде важче помітити при проникненні та виконанні завдань у державах із цією культурою."
+
+ #military_industrial_organization_l
+  mio_cat_eq_all_light_tank:0 "All Light and Light Amphibious Tank Equipment"
+  mio_cat_eq_all_medium_tank:0 "All Medium and MBT Tank Equipment"
+  mio_cat_eq_all_heavy_tank:0 "All Heavy Tank and Super Heavy Tank Equipment"
+
+ #modifiers_l
+  democratic_drift: "Щоденна підтримка гармонії"
+  democratic_acceptance: "Прийняття дипломатичних дій гармоністів"
+  fascism_drift: "Щоденна підтримка зверхності"
+  fascism_acceptance: "Прийняття дипломатичних дій верхістів"
+  MODIFIER_LOCAL_MANPOWER: "Реґіональні поні-ресурси"
+  MODIFIER_CONSCRIPTION_FACTOR_DESC: "Модифікатор кількості доступних із реґіонів поні-ресурсів."
+  MODIFIER_CONSCRIPTION_TOTAL_FACTOR_DESC: "Модифікатор кількості доступних із реґіонів поні-ресурсів."
+  MODIFIER_AUTONOMY_MANPOWER_SHARE: "Вимога до поні-ресурсів суб'єкта"
+  MODIFIER_AUTONOMY_MANPOWER_SHARE_DESC: "Кількість поні-ресурсів, потрібна для військ суб'єкта."
+  MODIFIER_LOCAL_NON_CORE_MANPOWER: "Поні-ресурси в неосердній області" # CORE
+  MODIFIER_GLOBAL_NON_CORE_MANPOWER: "Поні-ресурси в неосердних землях" # CORE
+  MODIFIER_EQUIPMENT_CAPTURE: "Приріст співвідношення захоплення оснащення"
+  MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR: "£prod_eff Зростання ефективності виробництва"
+  MODIFIER_ARMY_SPEED_FACTOR: "Швидкість дивізій"
+  MODIFIER_WEEKLY_MANPOWER: "Щотижневі поні-ресурси"
+  MODIFIER_EXILED_MAPOWER_GAIN_FACTOR: "Щоденні поні-ресурси у вигнанні"
+  MODIFIER_EXILED_GOVERNMENT_WEEKLY_MANPOWER: "Щотижневі поні-ресурси уряду у вигнанні"
+  MODIFIER_AIR_MANPOWER_REQUIREMENT_FACTOR: "Вимога до поні-ресурсів авіації "
+  modifier_trait_cavalry_expert_xp_gain_factor: "$txg_tt$ §Y$cavalry_expert$§!"
+  modifier_trait_cavalry_leader_xp_gain_factor: "$txg_tt$ §Y$cavalry_leader$§!"
+  modifier_trait_cavalry_officer_xp_gain_factor: "$txg_tt$ §Y$cavalry_officer$§!"
+  modifier_state_production_speed_industrial_complex_factor: "Швидкість будівництва §Yцивільних заводів§!"
+  modifier_state_production_speed_industrial_complex_factor_desc: "Модифікатор швидкості будівництва §Yцивільних заводів§! у цій області."
+  modifier_state_production_speed_arms_factory_factor: "Швидкість будівництва §Yвійськових заводів§!"
+  modifier_state_production_speed_arms_factory_factor_desc: "$modifier_state_production_arms_factory_factor_desc$"
+  modifier_state_production_speed_dockyard_factor: "Швидкість будівництва §Yверфей§!"
+  modifier_state_production_speed_dockyard_factor_desc: "$modifier_state_production_dockyard_factor_desc$"
+  modifier_state_repair_speed_industrial_complex_factor: "Швидкість ремонту §Yцивільних заводів§!"
+  modifier_state_repair_speed_industrial_complex_factor_desc: "Модифікатор швидкості ремонту §Yцивільних заводів§! у цій області."
+  modifier_state_repair_speed_arms_factory_factor: "Швидкість ремонту §Yвійськових заводів§!"
+  modifier_state_repair_speed_arms_factory_factor_desc: "Модифікатор швидкості ремонту §Yвійськових заводів§! у цій області."
+  modifier_state_repair_speed_dockyard_factor: "Швидкість ремонту §Yверфей§!"
+  modifier_state_repair_speed_dockyard_factor_desc: "Модифікатор швидкості ремонту §Yверфей§! у цій області."
+  modifier_unit_recon_design_cost_factor:0 "Recon Detachment Unit Design Cost"
+  MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY: " Бонус до атаки проти держави"
+  MODIFIER_DEFENSE_BONUS_AGAINST_A_COUNTRY: " Бонус до захисту проти держави"
+  MODIFIER_BREAKTHROUGH_BONUS_AGAINST_A_COUNTRY: " Бонус до прориву проти держави"
+  MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY_ON_ITS_CORES: " Атака на її осердній землі" # CORE
+  state_resource_oil: "Нафта"
+  state_resource_aluminium: "Алюміній"
+  state_resource_rubber: "Гума"
+  temporary_state_resource_oil: "Нафта"
+  temporary_state_resource_aluminium: "Алюміній"
+  temporary_state_resource_rubber: "Гума"
+
+ #nsb_ideas_l
+  proper_heritage_spirit_desc:0 "A good General may be trained, but a great General must be bred." # (!)
+  disdain_for_the_digging_spirit: "Окопи страшні"
+  disdain_for_the_digging_spirit_desc:0 ""What if somepony falls in and gets hurt?"\n\nTrench warfare, perfected as a doctrine during the brutal Falcor War of 985-989 ALB, allows a soldier with a shovel to form a strongpoint that is easy to defend. But in the minds of the Equestrians, warfare consists of rows of warriors in shining armour marching in disciplined ranks on the open field, wielding muskets or even spears. The idea of having to stand in a muddy trench and risk getting trench hoof is appaling to them." # (!)
+  doctrinal_orthodoxy_spirit: "Незнайомість із танками"
+  doctrinal_orthodoxy_spirit_desc:0 ""How do I drive a tank with hooves?"\n\nDuring the Severyanan Winter Revolution in 996 ALB, the Equestrian Royal Guard witnessed the potential of armoured warfare in practice when they faced converted tractors on the battlefield. Princess Celestia was then quick to organize a research program to develop modern fighting vehicles, but despite the advancements, the Equestrians themselves have not yet adapted to this new technology. They find the concept of utilizing vehicles for military purposes to be foreign and strange." # (!)
+  traditionalism_academy_spirit_desc:0 ""War. War never changes. Wait, it does?"\n\nWhile elsewhere, arms races between rival nations forced constant development and refinement of warfare, in Equestria the military remained stagnated. Even as new innovations were made, Equestria was slow to adopt them, even seeing things such as rifles and artillery guns as unnecessary and excessively violent weapons. Without Princess Celestia's constant efforts to avoid falling behind too much, Equestrian Royal Guard would've continued to use spears as their primary weapon. Despite the recent push for modernizing the military, many ponies still prefer the old and reliable ways of combat." # (!)
+  elevated_engineering_corps_spirit_desc:0 "The best judge of one's ability and character is to give them a shovel and a day to do something useful with it." # (!)
+  reserve_officers_spirit_desc:0 "Не всякий хочет сделать военное ремесло своей профессией, но во времена войны такие существа еще могут послужить стране." # (!)
+  brave_commanders_spirit_desc: "До морських демонів торпеди; повний вперед!"
+  heritage_of_accomplishment_desc:0 "The history and accomplishments of our regiments stands testament to the heroism of our soldiers. By habitually recognizing great deeds, every creature might aspire to that same greatness." # (!)
+
+ #operatives_l
+  OPERATIVE_FORCED_INTO_HIDING: "§RЗмушений переховуватися§!"
+  CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC: "Першу комірку можна отримати, створивши розвідагентство. Інші комірки можна отримати після п'ятого поліпшення агентства або призначення §Hпримарної джентлістоти§! на посаду радника.\nКерівники розвідмережі альянсу також отримують комірки в залежності від кількості держав в альянсі. Суб'єкти та країни з дуже малою промисловістю на це не впливають."
+
+ #peace_l
+  PEACE_TREATY_THREAT: "Мирний договір у $TREATY$"
+  PEACE_CONFERENCE_NAME_TREATY_OF: "Договір у"
+  PEACE_CONFERENCE_NAME: "м. $CAPITAL$"
+  PEACE_CONFERENCE_OK: "Горе переможеним"
+
+ #plane_designer_l
+  EQ_MOD_CAT_plane_jet_engine_type_TITLE: "1 реактивний двигун"
+  air_torpedoe_1:0 "Aerial Torpedoes"
+  air_torpedoe_1_desc:0 "The idea of aerial torpedoes is not new and has captured the imagination of bomber designers in the race to develop a dedicated anti-ship bomber. Though air-dropped torpedoes must, by necessity, be lighter and carry a smaller warhead than regular torpedoes, we cannot dismiss the tactical flexibility of a torpedo bomber and further invest in this technology."
+  air_torpedoe_2:0 "Jettisonable Water-Entry Fins"
+  air_torpedoe_2_desc:0 "We have found that a proper torpedo attack from a naval bomber requires careful and low-altitude flying to prevent premature detonations or torpedoes running at deeper depths when entering the water. Experimenting with disposable aerodynamic stabilising fins on the torpedoes' tail significantly impacts the torpedo's performance. With different designs for different circumstances, the versatility of our aerial torpedoes has skyrocketed."
+  air_torpedoe_3:0 "Improved Control Systems"
+  air_torpedoe_3_desc:0 "Even with the introduction of aerodynamic tail stabilisers, they tend to fail before impacting choppy waves or heavy seas. Further experiments in an autonomous control system, which countersteers the rolling motion in the air and the water, make our torpedoes incredibly stable even in rougher conditions. Additional refinements to these systems will make for more reliable, if slightly expensive, replacements for the jettisonable fins we have used."
+
+ #production_l
+  PRODUCTION_CAN_NOT_DEPLOY_MANPOWER: "Недостатньо поні-ресурсів"
+  PROD_LINE_PLANE_DEST_RESERVES_DUE_TO_MANPOWER: "Переміщено в §Yрезерв§! через нестачу §Hпоні-ресурсів§! для надання §Yпідкріплень§!"
+
+ #research_l
+  superior_firepower_desc: "Ця доктрина зосереджується на закидуванні ворога снарядами, а не солдатами. Наші воїни безцінні, снаряди ж — дешеві.\n\n"
+  SUPERIOR_FIREPOWER_DOCTRINE_DESC: "Ця доктрина зосереджується на закидуванні ворога снарядами, а не солдатами. Наші воїни безцінні, снаряди ж — дешеві."
+  suicide_craft: "Літак-самовбивця"
+  advanced_special_forces_desc:0 "With extensive training, we can ensure that our special forces will be able perform above and beyond that of normal creatures." # (!)
+  cat_torpedoes:0 "Torpedo technologies"
+
+ #resistance_and_occupation_l
+  OCCUPIED_COUNTRY_MANPOWER_TOOLTIP: "У підконтрольних Вам реґіонах є $NUM_TOTAL_MANPOWER|*H$ населення і з Вашим поточним законом й іншими модифікаторами Ви можете отримати доступ до $RATIO|.1H%$ ($NUM_ACCESSED_MANPOWER|*H$) цих поні-ресурсів."
+  GARRISON_ENTRY_MANPOWER_TOOLTIP: "Поні-ресурси за придушення: $MANPOWER|*H$\nПоні-ресурси за дивізію: $MANPOWERDIV|*H$"
+  FOREIGN_SUPPORT_TOOLTIP: "Поні-ресурси, надані іншими державами."
+
+ #state_l
+  STATE_POPULATION_DESC: "Кількість істот, що живуть у цій області. Ваші призовні закони дозволяють Вам використовувати певний відсоток населення як призовників у Ваших дивізіях, кораблях і літаках."
+  STATE_OWNER_RESISTANCE_NON_CORE_INFO: "Держава $COUNTRY|H$ матиме доступ лише до $MANPOWER|-%.0$ поні-ресурсів області."
+  STATE_OWNER_RESISTANCE_NON_CORE_INFO_WITH_MODIFIERS: "Держава $COUNTRY|H$ матиме доступ лише до $MANPOWER|-%.0$ поні-ресурсів області, а також отримає наступні модифікатори через установлений окупаційний статус:"
+
+ #stats_l
+  STAT_CASUALTY_TRICKLEBACK: "Відшкодування втрат і збереження підтримки війни: "
+  STAT_CASUALTY_TRICKLEBACK_DESC:0 "What percentage of ponypower makes it back to the ponypower pool after being wounded in combat." # (!)
+  STAT_ARMY_CASUALTY_TRICKLEBACK: "Відшкодування втрат і збереження підтримки війни: "
+  STAT_ARMY_CASUALTY_TRICKLEBACK_DESC:0 "The proportion of losses in combat that can be saved and returned to the ponypower pool." # (!)
+
+ #tactics_l
+  tactic_banzai_charge: "Відчайдушна атака"
+
+ #theater_l
+  THEATRE_PRIORITY_DESC:0 "Theater priority decides which one will first get replacement resources and ponypower shipped." # (!)
+
+ #traits_l
+  democratic_reformer: "Гармонійний реформатор"
+  democratic_reformer_desc:0 "A firm believer in the people's right to rule themselves, this politician sees empowering them as the first priority and aims for the country to be ruled with their mandate."
+  anti_democrat:0 "Anti-Harmony"
+  fascist_demagogue: "Верхіст-демагог"
+  silent_workhorse: "Робочий поні"
+  political_dancer_desc:0 "Knows the moves when it comes to maneuvering on the dance mat of politics."
+  dealbroker_desc:0 "People don't like to see how sausages and laws get made. This person knows why."
+  army_cavalry_1: "Мотопіхота \n(спеціаліст)"
+  army_cavalry_2: "Мотопіхота \n(експерт)"
+  army_cavalry_3: "Мотопіхота \n(геній)"
+  inspirational_leader_desc:0 "A natural leader. Soldiers will face their worst fears when backed by a powerful leader."
+  pacific_fleet_naval_manufacturer: "Конструктор флоту Місячного океану"
+  atlantic_fleet_naval_manufacturer: "Конструктор флоту Селестійського моря"
+  mediterranean_naval_manufacturer: "Конструктор флоту Арабійського моря"
+  black_sea_naval_manufacturer: "Конструктор флоту Середнього моря"
+  generic_black_sea_fleet_organization:0 "Middle Sea Fleet Manufacturer"
+  generic_mio_initial_trait_black_sea_fleet_designer:0 "Middle Sea Fleet Designer"
+  cavalry_leader: "Лідер мотопіхоти"
+  cavalry_expert: "Експерт із мотопіхоти"
+  cavalry_officer: "Мотопіхотний офіцер"
+  cavalry_officer_desc: "Тренований як мотопіхотний офіцер."
+  cavalary_ratio_over_40: "Співвідношення мотопіхоти та мехапіхоти > §H40%§!"
+  gentlemanly:1 "Courteous"
+  fly_swatter: "Мухобійник"
+  emperor_and_autocrat_of_all_the_russias: "Імператор й автократ Всія Грифонії"
+  stalin_architect_of_communism: "Архітектори комунізму"
+  compassionate_gentleman: "Співчутливий вельможа"
+  head_of_intelligence: "Примарна джентлістота"
+  fascist_sympathies: "Верхістські симпатії"
+  peasant_sympathiser_desc:0 "§LHolds sympathies for the peasants and working class.§!"
+  marxist_priest: "Священик-марксист"
+  red_suffragette: "Червоний суфражист"
+  la_pasionaria:0 "The Passionate"
+  divisive_absolute_monarch:0 "Divisive Despot"
+  falangist_industrialist:0 "Industrial National Syndicalist"
+  marxist_philosopher: "Філософ-марксист"
+  marxist_academic: "Академік-марксист"
+  prime_minister_husnu: "Високопосадовець"
+  defier_of_the_sun_god:0 "Defier of the Celestial Gods"
+  supreme_representative_of_god_on_earth:0 "Supreme Representative of the Gods"
+  archbishop_of_ethiopian_orthodox_tewahedo_church:0 "Arch-Shaman of All Souls of Ice"
+  anti_bolshevik_leftist: "Лівак-антисталліоніст"
+  SWI_soviet_spy: "Сталліонградський шпигун"
+  the_director: "Директор"
+  operative_master_interrogator_desc:1 "Этот агент может разговорить кого угодно."
+
+ #triggers_l
+  TRIGGER_HAS_ARMY_MANPOWER_AT_LEAST: "Не менш ніж $AMOUNT|*2H$ поні-ресурсів у розміщених дивізіях"
+  TRIGGER_HAS_ARMY_MANPOWER_AT_MOST: "Не більш ніж $AMOUNT|*2H$ поні-ресурсів у розміщених дивізіях"
+  TRIGGER_HAS_ARMY_MANPOWER_OF_TYPE_AT_LEAST: "Не менш ніж $AMOUNT|*2H$ поні-ресурсів у дивізіях $TYPE|H$"
+  TRIGGER_HAS_ARMY_MANPOWER_OF_TYPE_AT_MOST: "Не більш ніж $AMOUNT|*2H$ поні-ресурсів у дивізіях $TYPE|H$"
+  TRIGGER_HAS_MANPOWER_MORE_THAN: "Більш ніж $NUMBER|*H$ поні-ресурсів"
+  TRIGGER_HAS_MANPOWER_LESS_THAN: "Менш ніж $NUMBER|*H$ поні-ресурсів"
+  TRIGGER_HAS_FOREIGN_MANPOWER_MORE_THAN: "Більш ніж $NUMBER|*H$ іноземних поні-ресурсів"
+  TRIGGER_HAS_FOREIGN_MANPOWER_LESS_THAN: "Менш ніж $NUMBER|*H$ іноземних поні-ресурсів"
+  TRIGGER_GARRISON_MANPOWER_NEED_MORE_THAN: "Гарнізонам потрібно більш ніж $NUMBER|*H$ поні-ресурсів"
+  TRIGGER_GARRISON_MANPOWER_NEED_LESS_THAN: "Гарнізонам потрібно менш ніж $NUMBER|*H$ поні-ресурсів"
+  TRIGGER_RECRUIT_HAS_MANPOWER: "Не менш між $NUMBER|*H$ доступних поні-ресурсів"
+  TRIGGER_RECRUIT_HAS_NOT_MANPOWER: "Не більш між $NUMBER|*H$ доступних поні-ресурсів"
+  TRIGGER_MANPOWER_PER_FACTORY: "поні-ресурсів на військовий завод"
+  TRIGGER_MANPOWER_IN_DEPLOYMENT_QUEUE: "поні-ресурсів у черзі розміщення"
+  TRIGGER_ARMY_MANPOWER_IN_STATE: "поні-ресурсів, розміщених в області $STATE|H$"
+  TRIGGER_ARMY_MANPOWER_IN_STATE_OF_TYPE: "поні-ресурсів, розміщених в області $STATE|H$ з дивізій $TYPE|H$"
+  can_unlock_new_special_forces_tree_none:0 "£trigger_yes §HBranch Specialisms§! Remaining: §H2§!"
+
+ #unit_l
+  CURRENT_MANPOWER: " - Поточні поні-ресурси: $VAL|*H1$ ($PER|%0H$)\n"
+  UNIT_STAT_MANPOWER: "§TПоточні §Hпоні-ресурси§! — $VAL|H$ із $MAX|H$§!"
+  recon: "Загін розвідки"
+  light_tank_recon_desc: "Використовуючи для розвідки легкі танки, ми можемо проводити розвідку боєм і краще оцінювати сили супротивника."
+  SERVICE_MANPOWER_HEADER: "Службові поні-ресурси"
+  LOW_MANPOWER_STAT_EFFECT:0 "§RWe currently only have $CUR|Y$ of $MAX|Y$ ponies in this division, limiting all stats to $FACTOR|%Y$ of what they would be if all equipment was present.§!" # (!)
+  armored_car_desc: "Швидка й мобільна машина, захищена від піхотного вогню."
+  modern_tank_destroyer_brigade: "Основний бойовий ВТ"
+  modern_tank_destroyer_brigade_desc: "Шасі основного бойового танка, оснащене ще більшою гарматою замість башти."
+  modern_armor: "Основний бойовий танк"
+  modern_armor_desc:0 "Main Battle Tanks have evolved to deal with most battlefield situations. Powerful guns and sloped armor have eliminated the need for specialized tanks." # (!)
+  bicycle_battalion: "Велосипедна піхота"
+
+ #waroverview_l
+  CAN_SURRENDER_FACTION_MEMBERS: "Вони зараз вооють разом зі своїм альянсом і здадуться, лише якщо всі основні учасники війни капітулюють.\n§YЛідер§! §YРічкової коаліції§! не капітулює, якщо не здався кожен інший її член.\nДо капітуляції лишилось основних учасників:\n$MEMBER_LIST|Y$"
+  FIELDER_MANPOWER: "Поні-ресурси: $MAN|Y*$"
+
+ #wtt_decisions_l
+  ban_democratic_party: "Заборонити гармонійні та демократичні партії"
+  ban_democratic_party_desc: "Гармонійні та демократичні партії надто довго перешкоджали нашому уряду. Їхнє наполягання на індивідуальних «правах» підривають наші зусилля по створенню кращої нації для всього нашого населення."
+  anti_democratic_raids: "Антигармонійні рейди"
+  #anti_fascist_raids: "Антизверхні рейди"
+  #anti_fascist_raids_desc: "Ми мусимо розправитися зі зверхніми елементами в нашій нації заради довготривалої внутрішньої стабільності. Їхній вплив занадто великий, і вони потенційно можуть стати проблемою для уряду."
+  ban_fascist_party: "Заборонити зверхність"
+  ban_fascist_party_desc: "З нашою поточною ситуацією, дозволяти зверхнім партіям надалі організовуватися скоро підірве нашу здатність ефективно правити. Доведеться вжити радикальних заходів."
+  ban_fascist_party_tt: "Зміна популярності зверхності: §G-§![?.Root.party_popularity@fascism|%0G].\n"
+  anti_fascist_raids: "Антизверхні рейди"
+  anti_fascist_raids_desc: "Ми мусимо розправитися зі зверхніми елементами в нашій нації заради довготривалої внутрішньої стабільності. Їхній вплив занадто великий, і вони потенційно можуть стати проблемою для уряду."
+  war_propaganda_against_warmonger_desc: "Нація скликає всіх громадян. Війна, схожа на ту, яку переживає держава [From.GetName], може статись і тут."
+  war_propaganda_against_tension_desc: "Ми мусимо стати проти загрози з боку держави [From.GetName]. Безпека нашої держави залежить від кожного громадянина, який виконує свою роль."
+  women_in_the_workforce:0 "Call Up Auxiliaries"
+  women_in_the_workforce_desc:0 "As our economy is fully mobilized, we find ourselves in a shortage of frontline troops. Calling up auxiliary troops to supplement our forces may be controversial, but it is likely necessary."
+  demobilization_desc:0 "Угроза войны не кажется достаточно актуальной, и народ больше не готов терпеть порядки военного времени. Нам нужно пересмотреть законы и подумать, не стоит ли пойти на уступки, прежде чем протесты станут громче." # (!)
+  demobilization_economic_desc:0 "Угроза войны не кажется достаточно актуальной, и народ больше не готов терпеть тяготы военной экономики. Нам нужно пересмотреть экономические законы и подумать, не стоит ли пойти на уступки и повысить производство потребительских товаров." # (!)
+  war_propaganda_desc: "Світ навколо нас палає, а наш народ, як на зло, не готовий до війни. Ми мусимо підняти їхнє бажання взятися до зброї за свою країну."
+
+ #mtg
+  RULE_OPTION_DEMOCRATIC: "Гармонійний шлях"
+  RULE_OPTION_DEMOCRATIC_HISTORICAL: "Історичний гармонійний шлях"
+  RULE_OPTION_DEMOCRATIC_ALTERNATE: "Альтернативний гармонійний шлях"
+  RULE_OPTION_FASCIST: "Зверхній шлях"
+  RULE_OPTION_FASCIST_HISTORICAL: "Історичний зверхній шлях"
+  RULE_OPTION_FASCIST_ALTERNATE: "Альтернативний зверхній шлях"
+  ---_democratic: "будь-яка гармонійна країна"
+  ---_fascist: "будь-яка зверхня країна"
+  ---_communist: "будь-яка комуністична країна"
+  DR_US_DEMOCRATIC: "$US|UY$ — гармонійна держава: "
+  DR_US_FASCIST: "$US|U$ — зверхня держава: "
+
+ #mtg_decisions_l
+  purge_infiltrators_desc:0 "Our friends in the legitimate [From.GetAdjective] government are concerned by the increasing support for Stallionist and ultranationalist movements within the volunteer forces serving us. We should remove disloyal officers and disarm mutinous formations before things get out of hand. The influence this will win us inside their country will be invaluable, especially post-war." # (!)
+
+ #nsb_decisions_l
+  restructure_supply_system: "Реорганізувати систему постачання"
+  restructure_supply_system_desc:0 "By redirecting building materials and workers, we can quickly create a small number of make-shift supply dumps along some of our transport routes. This is, however, not a sustainable way of running the system.\n\n§RThis decision can only be taken once. The bonus will disappear if you construct more than 3 additional supply hubs.§!" # (!)
+
+ #operatives_l
+  COUNTERINTELLIGENCE_ACTIVITY_LEVEL_2: "§YВажливий§! — іноземні агенти мають підґрунтя в державі"
+
+ #####Replacement loc for vanilla techs # NO HOOVES
+  artillery1: "Артилерія I"
+  artillery1_desc:0 "Rifled field guns made entirely out of metal and firing explosive ammunition are vastly more powerful than the cast cannons of old." # (!)
+  antitank1: "Модернізація ПТА"
+  antitank1_desc:0 "The importance of effective anti-tank weapons grows as tanks see wider use. Introducing a new generation of these weapons will be necessary to combat modern tank designs." # (!)
+  tech_signal_company: "Рота зв'язку I"
+  tech_signal_company_desc:0 "Establishing and maintaining communications in the field has always required special skills. With the advent of new communications and detection technology, new possibilities for the practice lie ahead." # (!)
+  tech_maintenance_company4: "Ремонтна рота IV"
+  tech_maintenance_company4_desc:0 "Experiences with designing for active redundancy can be renewed to work with more modern equipment to make maintenance easier." # (!)
+  human_wave_offensive: "Хвильовий наступ"
+  human_wave_offensive_desc:0 "A Wave Offensive is an infantry tactic in which an attacker conducts a frontal assault with densely concentrated infantry formations against the enemy line, with the intent to overrun the defenders by engaging in melee combat." # (!)
+  flexible_line: "Гнучкі конвеєри"
+  flexible_line_desc:0 "As well-oiled a machine as the assembly line may be, it is still manned, which allows for adaptation when needed. We should make use of this in our industrial production." # (!)
+  improved_computing_machine: "Поліпшена обчислювальна машина"
+  improved_computing_machine_desc:0 "Electronic digital computers can now be made which are programmable. Although still expensive and large, these machines allow for intelligence analysis far beyond our biological capacity." # (!)
+  large_front_offensive: "Великий фронтовий наступ"
+  large_front_offensive_desc:0 "By conducting, or threatening, Wave Offensives across multiple areas of the front we can prevent the enemy from concentrating his firepower against any single attack." # (!)
+  interwar_artillery: "Модернізація артилерії"
+  interwar_artillery_desc:0 "Lessons learned in the development of different types of artillery can be cross-applied to the design of other pieces." # (!)
+  werwolf_guerillas: "Партизани-«вервольфи»"
+  werwolf_guerillas_desc:0 "The Werwolves are a planned resistance group that will fight on against the occupying powers if the war is lost." # (!)
+  volkssturm: "Dronessturm"
+  volkssturm_desc:0 "The Dronessturm, or People's Militia, consists of those who are too old, too young, or otherwise unfit for regular military service.\n\n" # (!)
+  peoples_army: "Народна армія"
+  peoples_army_desc:0 "The People's Army believes in the primacy of people over weapons, with superior motivation compensating for inferior technology, and enjoys widespread support from the civilian population.\n\n" # (!)
+
+  MANAGE_OCCUPIED_TERRITORIES: "Окуповані землі"
+  MANAGE_SUBJECTS: "Суб'єкти"
+  MANAGE_EXILED_GOVERNMENTS: "Уряди у вигнанні"
+
+ #from loc file lar_operations
+  caustic_personality: "Уїдливий характер"
+  capture_cyphers_bribe_desc:1 "We have an agent on the inside and will provide him with the necessary funds to steal a codebook and turn it over to our agent." # (!)
+  capture_cyphers_seduction_desc:0 "Наш агент вступит в контакт с тем, у которого есть доступ к шифру, и воспользуется своим обаянием — или иными средствами, — чтобы заполучить копию."
+  operation_infiltrate_armed_forces_navy_desc:0 "§LВнедриться в спаянные коллективы моряков на [From.GetAdjective]их кораблях будет трудно, а вот береговые службы — другое дело. Устроив туда своего агента, мы сможем выведать ценную информацию, а также получим возможность поддерживать потом более сложные операции.§!"
+  operation_infiltrate_armed_forces_airforce_desc:0 "§LThe [From.getAdjective] Air Force is the youngest of the [From.GetAdjective] armed forces. As such, it has in its ranks many people of unusual backgrounds. We could exploit some of them to get a agent on the inside.§!" # (!)
+
+  infiltrate_military_bribe_desc:0 "Наш агент найдет кого-то, испытывающего финансовые затруднения, и предложит ему значительную сумму за поддержку. Деньги на взятку мы выделим из нашей казны."
+  infiltrate_military_seduction_desc:0 "Наш агент близко сойдется с кем-то изнутри, чтобы раздобыть информацию и получить рычаги влияния."
+  steal_blueprints_seduction_desc:0 "Наш агент близко сойдётся с учёным или инженером, задействованным в проекте, и воспользуется своим обаянием, чтобы получить дополнительную информацию. Мы, конечно, не ждём, что за хорошо проведённое время кто-то вручит полный комплект чертежей, и всё же в таких обстоятельствах индивидуумы бывают откровеннее обычного."
+  capture_cyphers_seduction_outcome:0 "Наш агент смог убедить индивидуума, располагающего шифрами, поделиться ими."
+  operation_infiltrate_armed_forces_army_desc:0 "§LВ [From.GetAdjective]ой армии есть индивидуумы, которых можно склонить к передаче нам дополнительной информации и поддержке в будущих операциях.§!"
+
+ #poland_dlc_decisions_l_russian
+  decision_cost_CP_25_pp_50: "£command_power£ §Y25§! £pol_power£ §Y50§!"
+  decision_cost_CP_25_pp_50_blocked: "£command_power£ §R25§! £pol_power£ §R50§!"
+  decision_cost_CP_25_pp_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP25PP50]"
+  decision_cost_CP_25_pp_25: "£command_power£ §Y25§! £pol_power£ §Y25§!"
+  decision_cost_CP_25_pp_25_blocked: "£command_power£ §R25§! £pol_power£ §R25§!"
+  decision_cost_CP_25_pp_25_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP25PP25]"
+
+ #loading text replacement
+  LOADING_GUI: "Завантажуємо Зебрику"
+  LOADING_MAP_SPRITES: "Губимо Ідола Борея"
+  LOADING_DATABASES: "Підіймаємо сонце"
+  INIT_MAP_LOGIC: "Дивимося «Дружба — це диво»"
+  LOADING_HISTORY: "Підписуємо Кольтстрімський договір"
+  LOAD_EVENTS: "Програємо Фалькорську війну"
+  LOAD_INIT: "Стагнуємо гармонію"
+  LOAD_FLAGS: "Закінчуємо Мовчання"
+  INIT_GAMESTATE: "Знімаємо прокляття з Кристальної імперії"
+  CREATING_CHKSUM: "Видаляємо Дискорда"
+  GENERATING_GRADIENT_BORDERS: "Пишемо довідник Твінкл Спрінкл"
+  LOAD_GFX: "Видаляємо руки"
+  CREATING_PROVINCE: "Ховаємо секрети"
+  LOAD_GFX_PDXMAP_SHADERS: "Будуємо Кристальне дзеркало"
+  LOAD_GFX_PDXMAP_TERRAIN: "Перенавчаємо Найтмер"
+  LOAD_GFX_PDXMAP_BORDERS: "Здіймаємо триколор"
+  LOAD_GFX_PDXMAP_TEXTURES: "Провалюємо вторгнення в Кантерлот"
+  LOAD_GFX_PDXMAP_TREES: "Додаємо маловідомі відсилання"
+  LOAD_GFX_PDXMAP_RIVERS: "Будуємо Імперську залізницю"
+  LOAD_GFX_PDXMAP_STATIC_OBJECTS: "Запалюємо Полум'я дружби"
+  PRECALC_NAVAL_DIST: "Розбиваємо Короля Шторма"
+
+  FE_LOADING_HISTORY: "Генеруємо поні..."
+  LOADING_MAIN_MENU: "Шукаємо закляття Старсвірла"
+  EXITING_TO_FRONTEND: "Лагодимо хронологію"
+  EXECUTE_HISTORY: "Переписуємо історію..."
+
+  CUSTOM_DIFFICULTY_GROUP_NAME: "Посилення держав"
+
+  ACHIEVEMENTS_MOD_OK: "§HДосягнення доступні в модифікаціях!§!\n\nДосягнення EAW можна знайти за кнопкою «Профіль кар'єри» (або «Огляд проходження») в меню гри, у вкладці «Нагороди»."
+  our_war: "«Наша війна»"
+
+ #trade_l
+  CONVOYS_USAGE_DELAYED: "Конвої використовуються для імпорту ресурсів морем від інших країн, а також доставки наших ресурсів у межах держави і припасів для наших військ за морем."

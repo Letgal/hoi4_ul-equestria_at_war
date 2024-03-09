@@ -1,0 +1,167 @@
+﻿l_russian:
+ cat_torpedoes_research:0 "Темпы исследований торпед"
+ naval_light_artillery_research:0 "Темпы исследований легких & вторичных батарей"
+ trade_interdiction_tree_research:0 "Темпы исследований доктрины «Заграждения морских путей»"
+ asw_tech_research:0 "Темпы исследований технологий противолодочной обороны"
+ cat_ship_light_battery_research:0 "Темпы исследований технологий лёгких батарей"
+ cat_ship_medium_battery_research:0 "Темпы исследований технологий средних батареи"
+
+ helicopter_tech:0 "Технология вертолётов"
+ promote_equality:0 "Продвижение гармонии"
+ #sent_equipment:0 "Отправить Снаряжение"# Different duplicate from Eaw
+ #sent_volunteers:0 "Отправить Военную Миссию"# Different duplicate from Eaw
+ super_combat_abilities_tt:0 "\nПозволяет использовать приказ §HПоследний рубеж§! и §HВынужденная атака§! гораздо дешевле.\n"
+ made_friends:0 "Приняли дружбу"
+ refused_friends:0 "Отказали в дружбе"
+ support_equipment_research:0 "Темпы исследований снаряжения поддержки"
+ special_forces_research:0 "Темпы исследований спецназа"
+ has_tribal_society_tt: "Є §Yпримітивним суспільством§!"
+ not_has_tribal_society_tt: "Не є §Yпримітивним суспільством§!"
+ not_has_communal_society_tt: "Не є §Yкомунальним суспільством§!"
+ has_agrarian_society_tt: "Є §Yаграрним суспільством§!"
+ not_has_agrarian_society_tt: "Не є §Yаграрним суспільством§!"
+ has_pre_industrial_society_tt: "Є §Yнапівіндустріальним суспільством§!"
+ not_has_pre_industrial_society_tt: "Не є §Yнапівіндустріальним суспільством§!"
+ has_outdated_industry_tt: "Є §Yмолодим індустріальним суспільством§!"
+ has_modern_society_tt: "Є §Yсучасним суспільством§!"
+ research_pre_ironclad_modifier: "Коригування темпу досліджень до значень до 1.6 (обхід, ігноруйте)"
+ de_facto_non_core_state:0 "Незначительное количество обладателей гражданства"
+ particulary_core_state:0 "Малое количество обладателей гражданства"
+ power_for_the_strongest:0 "Власть сильнейшим"
+ industrial_exemptions_granted:0 "Предоставлены промышленные льготы"
+
+ modifier_army_sub_unit_magical_infantry_attack_factor: "Атака магічної піхоти"
+ modifier_army_sub_unit_magical_infantry_defence_factor: "Захист магічної піхоти"
+ modifier_army_sub_unit_magical_infantry_speed_factor: "Швидкість магічної піхоти"
+
+ modifier_army_sub_unit_magical_motorized_attack_factor: "Атака магічної мотопіхоти"
+ modifier_army_sub_unit_magical_motorized_defence_factor: "Захист магічної мотопіхоти"
+ modifier_army_sub_unit_magical_motorized_speed_factor: "Швидкість магічної мотопіхоти"
+
+ modifier_army_sub_unit_magical_mechanized_attack_factor: "Атака магічної мехапіхоти"
+ modifier_army_sub_unit_magical_mechanized_defence_factor: "Захист магічної мехапіхоти"
+ modifier_army_sub_unit_magical_mechanized_speed_factor: "Швидкість магічної мехапіхоти"
+
+ modifier_army_sub_unit_pegasi_attack_factor: "Атака пегасів"
+ modifier_army_sub_unit_pegasi_defence_factor: "Захист пегасів"
+ modifier_army_sub_unit_pegasi_speed_factor: "Швидкість пегасів"
+
+ modifier_army_sub_unit_unicorn_company_attack_factor: "Атака рот єдинорогів"
+ modifier_army_sub_unit_unicorn_company_defence_factor: "Захист рот єдинорогів"
+
+ modifier_army_sub_unit_jager_attack_factor: "Атака єгерів"
+ modifier_army_sub_unit_jager_defence_factor: "Захист єгерів"
+ modifier_army_sub_unit_jager_speed_factor: "Швидкість єгерів"
+
+ modifier_army_sub_unit_infiltrator_company_attack_factor:0 "Атака роты инфильтраторов"
+ modifier_army_sub_unit_infiltrator_company_defence_factor:0 "Защита роты инфильтраторов"
+
+ modifier_army_sub_unit_knights_attack_factor: "Атака лицарів"
+ modifier_army_sub_unit_knights_defence_factor: "Захист лицарів"
+ modifier_army_sub_unit_knights_speed_factor: "Швидкість лицарів"
+
+ modifier_army_sub_unit_super_griffons_attack_factor:0 "Атака Звёздных Рыцарей"
+ modifier_army_sub_unit_super_griffons_defence_factor:0 "Защита Звёздных Рыцарей"
+ modifier_army_sub_unit_super_griffons_speed_factor:0 "Скорость Звёздных Рыцарей"
+
+ modifier_army_sub_unit_ironpaws_attack_factor:0 "Атака железнолапых"
+ modifier_army_sub_unit_ironpaws_defence_factor:0 "Оборона железнолапых"
+ modifier_army_sub_unit_ironpaws_speed_factor:0 "Скорость железнолапых"
+
+ modifier_army_sub_unit_windigo_horrors_attack_factor: "Атака жахіть"
+ modifier_army_sub_unit_windigo_horrors_defence_factor: "Захист жахіть"
+ modifier_army_sub_unit_windigo_horrors_speed_factor: "Швидкість жахіть"
+
+ modifier_army_sub_unit_category_support_battalions_attack_factor: "Атака рот підтримки"
+ modifier_army_sub_unit_category_support_battalions_defence_factor: "Захист рот підтримки"
+
+ modifier_army_sub_unit_category_all_at_attack_factor: "Атака ПТА"
+ modifier_army_sub_unit_category_all_at_defence_factor: "Захист ПТА"
+ modifier_army_sub_unit_category_all_at_speed_factor: "Швидкість ПТА"
+
+ modifier_army_sub_unit_category_all_aa_attack_factor: "Атака зенітної артилерії"
+ modifier_army_sub_unit_category_all_aa_defence_factor: "Захист зенітної артилерії"
+ modifier_army_sub_unit_category_all_aa_speed_factor: "Швидкість зенітної артилерії"
+
+ modifier_army_sub_unit_spirit_warriors_attack_factor: "Атака напасників"
+ modifier_army_sub_unit_spirit_warriors_defence_factor: "Захист напасників"
+ modifier_army_sub_unit_spirit_warriors_speed_factor: "Швидкість напасників"
+
+ modifier_army_sub_unit_bar_weak_clockwerk_attack_factor:0 "Атака грубых механизмов"
+ modifier_army_sub_unit_bar_weak_clockwerk_defence_factor:0 "Оборона грубых механизмов"
+ modifier_army_sub_unit_bar_weak_clockwerk_speed_factor:0 "Скорость грубых механизмов"
+
+ modifier_army_sub_unit_kirin_vanguards_attack_factor:0 "Атака авангардов"
+ modifier_army_sub_unit_kirin_vanguards_defence_factor:0 "Оборона авангардов"
+ modifier_army_sub_unit_kirin_vanguards_speed_factor:0 "Скорость авангардов"
+ modifier_army_sub_unit_kirin_vanguards_max_org_factor:0 "Организация авангардов"
+ modifier_army_sub_unit_kirin_vanguards_org_recovery_cap_factor:0 "Предел восстановления организации авангардов"
+
+ modifier_army_sub_unit_kirin_braves_attack_factor:0 "Атака храбрецов"
+ modifier_army_sub_unit_kirin_braves_defence_factor:0 "Оборона храбрецов"
+
+ modifier_army_sub_unit_panzerbar_attack_factor: "Атака пансербйорнів"
+ modifier_army_sub_unit_panzerbar_defence_factor: "Захист пансербйорнів"
+ modifier_army_sub_unit_panzerbar_speed_factor: "Швидкість пансербйорнів"
+ modifier_army_sub_unit_panzerbar_max_org_factor: "Організація пансербйорнів"
+
+ killed_pop_by_nuclear_attack_factor: "Втрати від ядерних ударів"
+
+ sabotage_crystals: "Саботаж виробництва кристалів"
+ state_resource_crystals: "Кристали"
+ temporary_state_resource_crystals: "Кристали"
+ country_resource_crystals: "Кристали"
+ state_resource_cost_crystals: "Споживання кристалів"
+ country_resource_cost_crystals: "Споживання кристалів"
+
+ HIP_embassies_opinion:0 "Посольство гиппогрифов"
+ HIP_silverstream_plan_opinion:0 "Сотрудничество в рамках плана Сильверстрим"
+ absolute_madfish:0 "Безумная рыбопони"
+ HIP_insult_EQS:0 "Дипломатическое оскорбление"
+
+ scheisswald_forest: "Ліс Шайсвальд"
+ eygsic_forest: "Ліс Ейґсік"
+ centaur_forest: "Дивний Ліс"
+ water_modifier_pirate_raids_name: "Піратські рейди"
+ water_modifier_pirate_raids_icon: "GFX_modifiers_weather_icons:8"
+
+ empowered_state_resistance:0 "Усиленное сопротивление"
+
+ klugetown_criminals:0 "Криминальная гавань"
+
+ Terathopia_fascism: "Тамбелон"
+ Terathopia_fascism_DEF: "Тамбелон"
+ Terathopia_fascism_ADJ: "Тамбелонськ"
+ Terathopia_democratic: "Тамбелон"
+ Terathopia_democratic_DEF: "Тамбелон"
+ Terathopia_democratic_ADJ: "Тамбелонськ"
+ Terathopia_neutrality: "Тамбелон"
+ Terathopia_neutrality_DEF: "Тамбелон"
+ Terathopia_neutrality_ADJ: "Тамбелонськ"
+ Terathopia_communism: "Тамбелон"
+ Terathopia_communism_DEF: "Тамбелон"
+ Terathopia_communism_ADJ: "Тамбелонськ"
+
+ BAT_partisan_modifier:0 "Хироптеррские партизаны"
+
+ modifier_unit_pegasi_design_cost_factor: "Вартість дизайну пегасів"
+ modifier_unit_jager_design_cost_factor: "Вартість дизайну єгерів"
+ modifier_unit_knights_design_cost_factor: "Вартість дизайну лицарів"
+ modifier_unit_ironpaws_design_cost_factor:0 "Стоимость проекта железнолапых"
+ modifier_unit_light_dragons_design_cost_factor: "Вартість дизайну дракончиків"
+ modifier_unit_heavy_dragons_design_cost_factor: "Вартість дизайну старших драконів"
+ modifier_unit_windigo_horrors_design_cost_factor: "Вартість дизайну жахіть"
+ modifier_unit_spirit_warriors_design_cost_factor: "Вартість дизайну напасників"
+ modifier_unit_magical_infantry_design_cost_factor: "Вартість дизайну магічної піхоти"
+ modifier_unit_magical_motorized_design_cost_factor: "Вартість дизайну магічної мотопіхоти"
+ modifier_unit_magical_mechanized_design_cost_factor: "Вартість дизайну магічної мехапіхоти"
+ modifier_unit_infiltrator_company_design_cost_factor:0 "Стоимость проекта рот инфильтраторов"
+ modifier_unit_kirin_vanguards_design_cost_factor:0 "Стоимость проекта авангвардов"
+ modifier_unit_unicorn_company_design_cost_factor: "Вартість дизайну рот єдинорогів"
+ modifier_unit_modern_flame_tank_design_cost_factor: "Вартість дизайну основного бойового вогнеметного танка"
+ modifier_unit_ded_anti_infantry_monster_design_cost_factor: "Вартість дизайну мантикор"
+ modifier_unit_ded_anti_infantry_monster_2_design_cost_factor: "Вартість дизайну хімер"
+ modifier_unit_ded_heavy_monster_2_design_cost_factor: "Вартість дизайну гідр"
+ modifier_unit_ded_heavy_monster_design_cost_factor: "Вартість дизайну титанів"
+ modifier_unit_ded_tatzlwurm_design_cost_factor: "Вартість дизайну татцельвурмів"
+ modifier_unit_ded_anti_tank_monster_design_cost_factor:0 "Стоимость проекта пращехвостов"
