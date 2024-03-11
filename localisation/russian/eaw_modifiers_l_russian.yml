@@ -122,7 +122,8 @@
  scheisswald_forest: "Ліс Шайсвальд"
  eygsic_forest: "Ліс Ейґсік"
  centaur_forest: "Дивний Ліс"
- water_modifier_pirate_raids_name: "Піратські рейди"
+ water_modifier_pirate_raids: "Піратські рейди"
+water_modifier_pirate_raids_name: "$water_modifier_pirate_raids$"
  water_modifier_pirate_raids_icon: "GFX_modifiers_weather_icons:8"
 
  empowered_state_resistance:0 "Усиленное сопротивление"

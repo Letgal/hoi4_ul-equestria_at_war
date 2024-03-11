@@ -265,17 +265,21 @@ placeholder_KAR_war_decision: "Атакувати державу [FROM.GetNameDe
 KAR_attack_west_cat: "Експансія на захід"
 
 ### ВАРТІСТЬ РІШЕНЬ ###
- decision_cost_CP_30_pp_25: "£command_power£ §Y30§! £pol_power£ §Y25§!"
- decision_cost_CP_30_pp_25_blocked: "£command_power£ §R30§! £pol_power£ §R25§!"
- decision_cost_CP_30_pp_25_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP30PP25]"
-
  decision_cost_CP_30: "£command_power£ §Y30§!"
  decision_cost_CP_30_blocked: "£command_power£ §R30§!"
  decision_cost_CP_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP30]"
 
+ decision_cost_CP_100: "£command_power£ §Y100§!"
+ decision_cost_CP_100_blocked: "£command_power£ §R100§!"
+ decision_cost_CP_100_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP100]"
+
  decision_cost_CP_15_pp_15: "£command_power£ §Y15§! £pol_power£ §Y15§!"
  decision_cost_CP_15_pp_15_blocked: "£command_power£ §R15§! £pol_power£ §R15§!"
  decision_cost_CP_15_pp_15_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP15PP15]"
+
+ decision_cost_CP_30_pp_25: "£command_power£ §Y30§! £pol_power£ §Y25§!"
+ decision_cost_CP_30_pp_25_blocked: "£command_power£ §R30§! £pol_power£ §R25§!"
+ decision_cost_CP_30_pp_25_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP30PP25]"
 
  decision_cost_CP_35_pp_35: "£command_power£ §Y35§! £pol_power£ §Y35§!"
  decision_cost_CP_35_pp_35_blocked: "£command_power£ §R35§! £pol_power£ §R35§!"

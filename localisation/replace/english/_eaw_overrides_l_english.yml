@@ -53,6 +53,8 @@
  #characters_l
   EFFECT_RETIRE_CHARACTER: "Усунути: $NAME|H$ в державі $COUNTRY|Y$."
   EFFECT_CONTEXT_LEADER: "($FLAG$$LEADER|H$)"
+  CHARACTER_ADVISOR_ON_ADD_TOOLTIP:0 "When Hired:"
+  CHARACTER_ADVISOR_ON_REMOVE_TOOLTIP:0 "When Fired:"
 
  #combat_l
   COMBAT_LOG_BATTLE_LOST_MANPOWER: "Поні-ресурси: $MP|*R$"
@@ -255,7 +257,6 @@
  #effect_l
   EFFECT_MAKE_PUPPET: "Держава $TARGET|UY$ стане суб'єктом держави $COUNTRY|Y$."
   EFFECT_MANPOWER_ADD_COUNTRY: "Поні-ресурси: $VAL|+=0$."
-  EFFECT_MANPOWER_ADD_STATE: "Поні-ресурси: $VAL|+=0$."
   EFFECT_DISABLE_TEMPLATE_EDITTING:0 "Disable editing of the $NAME|H$ Division Template, and the training or disbanding of units belonging to it."
   EFFECT_ENABLE_TEMPLATE_EDITTING:0 "Enable editing of the $NAME|H$ Division Template, and the training or disbanding of units belonging to it."
 

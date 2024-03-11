@@ -55,11 +55,11 @@ GetTNOMaintext_KIR_beats_KIC: "Государство  §Y[?winning_country^peac
 GetTNOMaintext_KIC_beats_KIR: "Государство  §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! низвергло государство  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в ходе §YКиринской революции§!."
 GetTNOMaintext_KIC_beats_KIS: "Государство  §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! низвергло государство  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в ходе §YВторой киринской революции§!."
 GetTNOMaintext_KIR_beats_NSA: "Государство  §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! сокрушило государство  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в ходе §YМятежа Массикота§!."
-GetTNOMaintext_NSA_beats_KIR: "Государство  §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! низвергло государство  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в ходе §YРеволюции [GetYear] года§!."
+GetTNOMaintext_NSA_beats_KIR: "Государство  §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! низвергло  £KIR_neutrality_flag §YАлое Царство Кирия§! в ходе §YРеволюции [GetYear] года§!."
 GetTNOMaintext_KIR_beats_DEL: "Государство  §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! умиротворило государство  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в ходе §YИнтервенции на дальний юг§!."
 GetTNOMaintext_FRV_beats_KIC: "Государство  §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! низвергло государство  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в ходе §YТретьей киринской революции§!."
 GetTNOMaintext_KIC_beats_FRV: "Государство  §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! сокрушило государство  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в ходе §YВосстания Благоухания§!."
-GetTNOMaintext_UMC_beats_KIC: "Государство  §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! захлестнуло государство  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
+GetTNOMaintext_UMC_beats_KIC: "Государство  §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! свергло  £KIC_flag §YПуть Разгорающегося Пламени§!, положив конец Первой Кирийской Республике."
 GetTNOMaintext_KIC_beats_UMC: "Государство  §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! сокрушило государство  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
 GetTNOMaintext_COC_beats_KIS: "Государство  §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! низвергло государство  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в ходе §YВосстания детей§!."
 GetTNOMaintext_KIS_beats_COC: "Государство  §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! сокрушило государство  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в ходе §YВосстания детей§!."
@@ -210,6 +210,7 @@ GetTNOReference_KIR: "Печаль і полум'я огорнули волод�
 GetTNOReference_KIR_1: "Закінчується осінь, приходить зима."
 GetTNOReference_KIR_2: "Сонце заходить, закінчується осінь, приходить зима."
 GetTNOReference_KIR_3: "Мовчання було порушено назавжди."
+GetTNOReference_KIR_4: "Старі не можуть вічно вбивати молодих."
 GetTNOReference_KIR_DEL: "Кіновар робить свій імперський дебют."
 GetTNOReference_DEL_KIR: "Що за чортівня?"
 GetTNOReference_KIC: "Вогонь прерій загашено."

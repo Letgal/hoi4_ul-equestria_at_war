@@ -536,6 +536,7 @@ Yal_skeleton_king_army_leader_desc:0 "§LСражение под началом 
  air_land_theorist:0 "Теоретик воздушно-наземного боя"
 
 ### THESE ARE NOT DUPLICATES, DO NOT REMOVE
+ alt_red_army_organizer: "$red_army_organizer$"
  alt_army_chief_defensive_1: "$army_chief_defensive_1$"
  alt_army_chief_defensive_2: "$army_chief_defensive_2$"
  alt_army_chief_defensive_3: "$army_chief_defensive_3$"
@@ -613,6 +614,9 @@ Yal_skeleton_king_army_leader_desc:0 "§LСражение под началом 
  alt_air_air_combat_training_1: "$air_air_combat_training_1$"
  alt_air_air_combat_training_2: "$air_air_combat_training_2$"
  alt_air_air_combat_training_3: "$air_air_combat_training_3$"
+ alt_army_radio_intelligence_1: "$army_radio_intelligence_1$"
+ alt_army_radio_intelligence_2: "$army_radio_intelligence_2$"
+ alt_army_radio_intelligence_3: "$army_radio_intelligence_3$"
  alt_air_naval_strike_1: "$air_naval_strike_1$"
  alt_air_naval_strike_2: "$air_naval_strike_2$"
  alt_air_naval_strike_3: "$air_naval_strike_3$"
