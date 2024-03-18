@@ -1,7 +1,10 @@
 name = "Equestria at War: Українська локалізація (GitHub)"
 picture = "thumbnail.png"
 version = "2.2.2.1"
-tags = { "Translation" }
+tags = {
+	"Translation"
+	"1.14"
+}
 dependencies = {
 	"Українська локалізація"
 	"Українська локалізація (GitHub)"
