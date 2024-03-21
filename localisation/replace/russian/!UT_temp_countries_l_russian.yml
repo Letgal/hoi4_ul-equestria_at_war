@@ -3939,6 +3939,11 @@
  CHN_ELF_military_occupation_democratic_DEF: "Еквестрійська окупаційна територія Земель Чейнджлінґів"
  CHN_ELF_military_occupation_democratic_ADJ: "Еквестрійсько-чейнджлінзьк"
 
+ ELF_ask_for_states_back: "Відновлення Еквестрії"
+ #ELF_ask_for_states_back_desc:0 "We were not alone in the struggle to defeat the Changeling menace; many other nations of the world have aided us in our liberatory endeavour. Some Equestrian territories emancipated from Changeling occupation remain under the control of such allies, however, and must be returned to us forthwith."
+ ELF_ask_for_states_back_decision: "Переговори про відновлення"
+ #ELF_ask_for_states_back_decision_desc:0 "We had been united against a common enemy, but our allies must be given recompense for their losses sustained in the fight to free Equestria and its ponies from under the Changeling jackboot. The debts we owe them shall be a heavy burden on our nascent freedom, but ultimately, it was an acceptable cost to pay."
+
 # country_MER
  MER_genevieve_voliere: "Женев'єва Вольєр"
 
