@@ -4630,7 +4630,7 @@
 
 # country_SOL
  EQS_celestia_evil_meter_category: "Принцесин тягар"
- EQS_celestia_evil_meter_category_desc: "У цьому мінливому світі, прийняття складних рішень заради блага Еквестрії залишається принцесі Селестії. Однак, навіть безсмертні алікорни не убезпечені від тягарів війни."
+ EQS_celestia_evil_meter_category_desc: "У цьому мінливому світі, прийняття складних рішень заради блага Еквестрії залишається принцесі Селестії. Однак, навіть безсмертні алікорни не вбезпечені від тягарів війни."
  EQS_become_daybreaker_decision: "[Root.BecomeDaybreakerScriptedLoc]"
  SanityMeter: "Тягар війни"
  BecomeDaybreaker: "Віддатися вогню люті"
