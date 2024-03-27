@@ -43,3 +43,5 @@
 + `eaw_old_music`
 + `eaw_unitnames`
 + `supply_area_names_overrides`
+
+Мод доступний до завантаження в [Майстерні *Steam*](https://steamcommunity.com/workshop/filedetails/?id=3176454246).
