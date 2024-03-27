@@ -669,8 +669,8 @@ BOI: "Ґриффонстоун"
  BOI_neutrality: "Королівство Ґриффонстоун"
  BOI_neutrality_DEF: "Королівство Ґриффонстоун"
  BOI_neutrality_ADJ: "Ґриффонстоунськ"
- BOI_communism: "Радянська держава Ґриффонстоун" # SOV
- BOI_communism_DEF: "Радянська держава Ґриффонстоун" # SOV
+ BOI_communism: "Радянська держава Ґриффонстоун"
+ BOI_communism_DEF: "Радянська держава Ґриффонстоун"
  BOI_communism_ADJ: "Ґриффонстоунськ"
 
 LAK: "Румер"
@@ -1364,6 +1364,6 @@ BAK: "Бакара"
  BAK_neutrality: "Бакарська республіка"
  BAK_neutrality_DEF: "Бакарська республіка"
  BAK_neutrality_ADJ: "Бакарськ"
- BAK_communism: "Бакарська радянська соціалістична республіка" # SOV
- BAK_communism_DEF: "Бакарська радянська соціалістична республіка" # SOV
+ BAK_communism: "Бакарська радянська соціалістична республіка"
+ BAK_communism_DEF: "Бакарська радянська соціалістична республіка"
  BAK_communism_ADJ: "Бакарськ"

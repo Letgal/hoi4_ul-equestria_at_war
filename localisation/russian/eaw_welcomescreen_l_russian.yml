@@ -31,7 +31,7 @@
 # 24 рядки тексту
  EAW_WS_TAB_1_TXT: "[Root.GetCountryIntro]"
  EAW_WS_TAB_2_TXT: "[Root.GetRegionDesc]"
- EAW_WS_TAB_3_TXT_HEADER_1:0 "§OПримітка перекладача: перекладений текст не відображається повністю; тимчасово неперекладено.§!\n\nExpanded & racial technologies and units"
+ EAW_WS_TAB_3_TXT_HEADER_1:0 "§uПримітка перекладача: перекладений текст не відображається повністю; тимчасово неперекладено.§!\n\nExpanded & racial technologies and units"
  EAW_WS_TAB_3_TXT_HEADER_2:0 "\nSociety & Research Development, Illiteracy, and Poverty"
  EAW_WS_TAB_3_TXT_HEADER_3:0 "\nNuclear warfare changes"
  EAW_WS_TAB_3_TXT_HEADER_4:0 "\nOperation Paperclip: post-war research bonuses"

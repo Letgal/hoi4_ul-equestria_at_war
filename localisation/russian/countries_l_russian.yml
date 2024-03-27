@@ -24,7 +24,7 @@ EQS: "Еквестрія"
  EQS_COM_communism: "Соціалістична республіка Еквестрія"
  EQS_COM_communism_DEF: "Соціалістична республіка Еквестрія"
  EQS_COMWAR_communism: "ЕРФСР" # SOV
- EQS_COMWAR_communism_DEF: "Еквестрійська радянська федеративна соціалістична республіка" # SOV
+ EQS_COMWAR_communism_DEF: "Еквестрійська радянська федеративна соціалістична республіка"
  EQS_COMUNI_communism: "Соціалістичний союз Еквестрії"
  EQS_COMUNI_communism_DEF: "Соціалістичний союз Еквестрії"
  EQS_COMUNI_communism_ADJ: "Еквестрійськ"
