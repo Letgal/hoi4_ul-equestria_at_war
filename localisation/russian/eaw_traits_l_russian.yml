@@ -312,7 +312,7 @@
  trait_swift_wing: "Клептоман"
  trait_swift_wing_desc:0 "§LУ этой кобылы есть талант к сбору снаряжения прямо в полевых условиях. Однако лучше не задаваться вопросами, откуда на самом деле поступают эти припасы.§!"
 
- trait_reformist: "Командувач Sturmgreifen"
+ trait_reformist: "Командувач Sturmgreifen" # (&)
  trait_reformist_desc: ""
 
  grand_admiral: "Ґросадмірал"

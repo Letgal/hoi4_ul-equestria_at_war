@@ -248,6 +248,7 @@
   RULE_OPTION_PSODY_MODE: "Видалити інфраструктуру"
  GREAT_WAR_AI_BUFFS: "Бонуси для ШІ під час Великої війни"
   RULE_OPTION_BUFFS_ADDED: "Бонуси для ШІ Еквестрії"
+  RULE_OPTION_CHN_BUFFS_ADDED: "Бонуси для ШІ Земель Чейнджлінґів"
  NCR_EXISTS_STATUS: "Новокаліфорнійська експедиція"
   RULE_OPTION_NCR_ACTIVE: "Відчинити портал"
   RULE_OPTION_NCR_PLAY_AS: "Відчинити портал і грати за людей"
@@ -255,6 +256,8 @@
   RULE_OPTION_DED_APRIL_FOOL: "ШВИДШЕ, ШВИДШЕ, ШВИДШЕ"
  EOG_APRIL_FOOL_STATUS: "Єресь Донкло"
   RULE_OPTION_EOG_APRIL_FOOL: "ЗА ІМПЕРАТОРА!"
+ ABY_APRIL_FOOL_STATUS: "Каценрайх"
+  RULE_OPTION_ABY_APRIL_FOOL: "Кіт із далекого космосу" # Кац
 
 # eaw_generic_techs
  generic_folder: "Магічні технології"
