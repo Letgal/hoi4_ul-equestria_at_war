@@ -127,21 +127,21 @@
 
 ### ІДЕЇ (на шляху до Сонячної імперії) ###
  eqs_conscription_crisis: "Призовна криза"
- eqs_conscription_crisis_desc:0 "Conscientious objectors and pacifists, clinging to the ideals of friendship and harmony - they all refuse to fight. It would be a gallant display of virtue if our way of life wasn't in peril."
+ eqs_conscription_crisis_desc: "§MВідмовники від військової служби і пацифісти, які чіпляються за ідеали дружби та гармонії — всі вони відмовляються воювати. Це було б галантним проявом чесноти, якби наш спосіб життя не був у небезпеці.§!"
  eqs_defeatists: "Поразництво"
- eqs_defeatists_desc:0 "Even with the serious threat on the horizon, defeatist messages permeate through the newspapers and radio stations. Unfortunately, the time for peaceful resolutions has ended, Equestria must fight on."
+ eqs_defeatists_desc: "§MНавіть коли на горизонті нависла серйозна загроза, через газети і радіостанції проникають поразницькі повідомлення. На жаль, час мирних рішень закінчився — Еквестрія повинна боротися далі.§!"
  eqs_media_control: "Кантерлотська пропаґанда"
- eqs_media_control_desc:0 "From the western shores to the southeastern ports, the media speak with one voice of unity, self-sacrifice and strength. All must lend their full potential if Equestria is to prevail."
+ eqs_media_control_desc: "§MВід західних берегів до південно-східних портів ЗМІ одноголосо говорять про єдність, самопожертву та силу. Всі мусять докласти весь свій потенціал, щоб Еквестрія перемогла.§!"
  eqs_war_law: "Воєнний стан"
- eqs_war_law_desc:0 "The situation is growing increasingly desperate. Civil rights are to be suspended, curfews enacted, and military law will be applicable towards civilians. This arrangement will last until events allow us to relax, preferably after the war ends in our victory."
+ eqs_war_law_desc: "§MСитуація стає все більш відчайдушною. Громадянські права слід заморозити, ввести комендантську годину, а до цивільних осіб застосовувати військове законодавство. Такий порядок триватиме, допоки події не дозволять нам розслабитися — бажано після того, як війна завершиться нашою перемогою.§!"
  eqs_war_law_extreme: "Мілітаризація держави"
- eqs_war_law_extreme_desc:0 "The distinction between civilian and soldier has become rather muddled; everypony can be subjected towards a military tribunal if found guilty of obstruction, insubordination, defiance or defeatism. Only through an extreme change in our psyche can we hope to survive."
+ eqs_war_law_extreme_desc: "§MРізниця між цивільним і солдатом стала досить розмитою; кожен може постати перед військовим трибуналом, якщо його визнають винним у перешкоджанні, непокорі, непослусі чи поразництві. Лише крізь екстремальну зміну нашої психіки ми можемо сподіватися на виживання.§!"
  eqs_war_admin: "Бюрократія воєнного стану"
- eqs_war_admin_desc:0 "Frivolity and excess have no room in Equestria for the time being; funding and priority is to be given towards all matters that defend the state against incursion. Furthermore, projects that were intended for a more peaceful time have been suspended, and the ponies managing them have been shuffled into a different branch or conscripted."
+ eqs_war_admin_desc: "§MНаразі в Еквестрії немає місця легковажності та надмірностям; фінансування та пріоритет надається всім справам, які захищають державу від вторгнення. Крім того, проєкти, первісно призначені для більш мирного часу, були призупинено, а поні, які ними керували, були переведені в іншу філію або призвані на військову службу.§!"
  eqs_war_admin_extreme: "Мілітаризована бюрократія"
- eqs_war_admin_extreme_desc:0 "To further increase the efficiency of decision making and implementation, bureaucracy has been supplemented with military advisors, or in some cases, completely taken over by them. The excesses of pre-war times must not be repeated to ensure Equestrian victory."
+ eqs_war_admin_extreme_desc: "§MДля подальшого підвищення ефективності прийняття та виконання рішень бюрократія була доповнена військовими радниками, а в деяких випадках повністю перейнята ними. Надмірності довоєнних часів не мусять повторитися, щоб забезпечити перемогу Еквестрії.§!"
  eqs_order_idea: "Гармонія — в порядку" # (&)
- eqs_order_idea_desc:0 "Everypony needs to be in the right place to protect Equestria, which primarily includes the extension of working hours, an increased drafting campaign, and spreading an adequate message of unity and devotion for the ponies to accept that change has come."
+ eqs_order_idea_desc: "§MЩоби захистити Еквестрію, кожен мусить бути на своєму місці, що в першу чергу включає в себе збільшення робочого часу, посилення призовної кампанії та поширення адекватного повідомлення про єдність і відданість, щоби поні прийняли, що зміни настали.§!"
 
  EQS_blueblood_allowed: "Уведено воєнний стан"
 
@@ -158,15 +158,15 @@
 
  SOL_examine_the_situation:0 "Examine the Situation"
  SOL_examine_the_situation_desc:0 "Organise commission in regards of our foreign and internal policies."
- SOL_increase_presense_inCRY:0 "Subjugate Crystal Ponies"
- SOL_increase_presense_inCRY_desc:0 "We need to make sure that the Crystal Ponies accept their place as our subjects."
- SOL_Crystal_Fair:0 "Force Mi Amore to Bend"
- SOL_Crystal_Fair_desc:0 "Ever since Celestia's transformation, Princess Cadance has tried to distance herself and her fiefdom from the Empire. She has to be dealt with, in order to secure unity across Equestria. One way or another, she will bend."
- SOL_rainbow_falls_resort:0 "Rainbow Falls Arsenal"
- SOL_rainbow_falls_resort_desc:0 "Build a new Arsenal in Rainbow Falls, so that our subjects may prove themselves as more useful soldiers."
+ SOL_increase_presense_inCRY: "Підкорити кристальних поні"
+ SOL_increase_presense_inCRY_desc: "Ми мусимо запевнитися, що кристальні поні приймуть своє місце як наших підданих."
+ SOL_Crystal_Fair: "Змусити Мі Аморе схилитися"
+ SOL_Crystal_Fair_desc: "Відтоді як Селестія трансформувалася, принцеса Каденс намагалася віддалити себе та свої володіння від Імперії. З нею треба розквитатися, щоби забезпечити єдність усієї Еквестрії. Так чи інакше, вона схилиться."
+ SOL_rainbow_falls_resort: "Арсенал Рейнбоу-Фолз"
+ SOL_rainbow_falls_resort_desc: "Збудуймо новий арсенал у Рейнбоу-Фолз, щоби наші піддані могли показати себе кориснішими солдатами."
  SOL_crystalcity_university:0 "Universities in Crystal City"
- SOL_transequestrian_raillines:0 "Trans-Imperial Railway"
- SOL_transequestrian_raillines_desc:0 "With our new industrial capacities, and with conflict looming on the horizon, a new project to build a railway across all of Equestria would surely prove most beneficial to our cause."
+ SOL_transequestrian_raillines: "Трансімперська залізниця"
+ SOL_transequestrian_raillines_desc: "Із нашим новим промисловим потенціалом, і враховуючи конфлікт, що висить на горизонті, новий проєкт із будівництва залізниці крізь усю Еквестрію однозначно сильно допоможе нашій справі." # (&)
  SOL_manehattan_line:0 "Improve Manehattan Railline"
  SOL_manehattan_line_desc:0 "Quick transportation between the capital and Manehattan, the biggest city of Equestria, is essential in emergency cases."
  SOL_Ministry_of_defense:0 "Ministry of Defence"
@@ -214,12 +214,12 @@
  SOL_Suppress_bureaucracy:0 "Eradicate Bureaucracy"
  SOL_Unleash_Equestrian_WarMachine:0 "Equestrian War Machine"
  SOL_unicorn_academy:0 "Unicorn Academy"
- SOL_luna_nova_academy:0 "Sol Invicta Academy"
- SOL_luna_nova_academy_desc:0 "With more funding and subsidies, the Sol Invicta Academy will be able to fund more, bigger projects and contribute more to our national research development."
+ SOL_luna_nova_academy: "Академія Сол-Інвікти"
+ SOL_luna_nova_academy_desc: "Отримавши більше фінансування та субсидій, Академія Сол-Інвікти зможе фінансувати більші та масштабніші проєкти, а також робити більший внесок у національні дослідження." # (&)
  SOL_Fund_public_schools:0 "Public Schools"
  SOL_Fund_public_schools_desc:0 "More funding for public schools means smarter, better educated ponies. Ponies who would surely contribute to research in one way or another."
- SOL_CTL_center_of_research:0 "Imperial Center of Research"
- SOL_CTL_center_of_research_desc:0 "With a new, educated society and youth, Canterlot shall become the very center of education, research and habilitation."
+ SOL_CTL_center_of_research: "Імперський дослідницький центр"
+ SOL_CTL_center_of_research_desc: "Із новими й освіченими суспільством і молоддю, Кантерлот стане центром освіти, дослідження та підготовки."
  SOL_Magcial_studies:0 "Magical Studies"
  SOL_Magcial_studies_desc:0 "Uniting our academic forces, we are increasing our knowledge in magical fields."
  SOL_magical_training:0 "Allponies Magical Training"
@@ -540,7 +540,7 @@
  lady_inquisitor_planning:0 "Lady Inquisitor"
  EQS_SOL_evil_twilight_sparkle:0 "Sunrise Sparkle"
 
- EQS_SOL_blaze:0 "Blaze "Bomber" Firehooves"
+ EQS_SOL_blaze:0 "Blaze «Bomber» Firehooves"
  EQS_SOL_thunderlane:0 "Thunderlane"
  thunderlane_desc:0 "Thunderlane is a member of the Wonderbolts and a capable and resilient flier. He has a steely focus and never shies away from a challenge. Despite his duties he still doesn't neglect his little brother Rumble."
  EQS_SOL_wind_rider:0 "Wind Rider"
@@ -565,12 +565,12 @@
  EQS_SOL_padlock:0 "Padlock"
  EQS_SOL_ksen_autumn:0 "Ksen Autumn"
 
- EQS_SOL_fascism_party:0 "Holy Sun Reign"
- EQS_SOL_fascism_party_long:0 "Holy Sun Reign"
+ EQS_SOL_fascism_party: "$EQS_fascism_party$"
+ EQS_SOL_fascism_party_long: "$EQS_fascism_party$"
 
  solaire_of_astora_desc:0 "Bright winged flame\nFull of power and grace\nGlorious one\nWe all bow to your majesty\nWarrior in flight\nFrom the depths you arise\nTo erase the shadows\n\nSwiftly you move\nTo reclaim and to prove\nYou're the goddess of fire\nAnd none can withstand your flare\nAll must give way\nTo the eternal day\nMay you reign forever!"
 
- SOL_faction:0 "Harmony Pact"
+ SOL_faction: "Гармонійний Пакт"
 
 ### ПОДІЇ ###
  news.sol.1.t:0 "Solar Civil War!"
