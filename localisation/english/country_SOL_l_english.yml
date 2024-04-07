@@ -140,7 +140,7 @@
  eqs_war_admin_desc: "§MНаразі в Еквестрії немає місця легковажності та надмірностям; фінансування та пріоритет надається всім справам, які захищають державу від вторгнення. Крім того, проєкти, первісно призначені для більш мирного часу, були призупинено, а поні, які ними керували, були переведені в іншу філію або призвані на військову службу.§!"
  eqs_war_admin_extreme: "Мілітаризована бюрократія"
  eqs_war_admin_extreme_desc: "§MДля подальшого підвищення ефективності прийняття та виконання рішень бюрократія була доповнена військовими радниками, а в деяких випадках повністю перейнята ними. Надмірності довоєнних часів не мусять повторитися, щоб забезпечити перемогу Еквестрії.§!"
- eqs_order_idea: "Гармонія — в порядку" # (&)
+ eqs_order_idea: "Гармонія — це порядок"
  eqs_order_idea_desc: "§MЩоби захистити Еквестрію, кожен мусить бути на своєму місці, що в першу чергу включає в себе збільшення робочого часу, посилення призовної кампанії та поширення адекватного повідомлення про єдність і відданість, щоби поні прийняли, що зміни настали.§!"
 
  EQS_blueblood_allowed: "Уведено воєнний стан"
@@ -224,6 +224,8 @@
  SOL_Magcial_studies_desc:0 "Uniting our academic forces, we are increasing our knowledge in magical fields."
  SOL_magical_training:0 "Allponies Magical Training"
  SOL_magical_training_desc:0 "To take another step towards harvesting the enormous power of magic, we shall make it mandatory for all unicorns to participate in magical training in the armed forces."
+ SOL_more_research: "Необмежений прогрес"
+ SOL_more_research_desc: "Щоби втримати нашу технологічну перевагу, справедливо було би скасувати певні обмеження — на благо Імперії. Етика, мораль, нестача коштів — ніщо з цього не мусить стати на шляху прогресу."
  SOL_industry_manehattan:0 "Manehattan Steel Factories"
  SOL_industry_manehattan_desc:0 "Manehattan is not only our largest urban centre, but an industrial gold mine as well. Where else should we invest but in the booming metropolis?"
  SOL_industry_las_pegasus:0 "Las Pegasus Toaster Factories"
@@ -284,9 +286,21 @@
  SOL_River_Fortifications:0 "River Fortifications"
  SOL_magical_crypto_machines:0 "Magical Crypto Machines"
  SOL_magical_crypto_machines_desc:0 "Magic can accomplish many different things and tasks, even such as inventing new electronic devices and techniques. How? No clue. It's magic, after all."
+ SOL_bat_problems: "Проблема з «кажанами»"
+ SOL_bat_problems_desc: "Тепер, коли ми чітко закріпилися на землі, а наше правління вбезпечене, ми мусимо якомога раніше вирішити питання фестралів. Із цими «дітьми ночі» треба розквитатися належним чином." # (&)
 
- SOL_Imperium_Solis:0 "Imperium Solem"
- SOL_Imperium_Solis_desc:0 "It is time for a new dawn for Equestria - the Solar Empire shall rise, and all will bask in the light and glory of our Empress!"
+ SOL_reconquer_equestria: "Об'єднати Еквестрію"
+ SOL_reconquer_equestria_desc: "Держави-сепаратисти Еквестрії дурять себе думкою, що зможуть вижити в цьому жорстокому світі самі по собі. Може бути лиш одна Еквестрія, адже тільки разом ми — сила. Єдність є природним законом, і ми його дотримаємося."
+ SOL_civil_war_measures: "Заходи громадянської війни"
+ SOL_civil_war_measures_desc: "Попри попередні реформи еквестрійського суспільства, їх усе ще недостатньо, а щоби забезпечити нашу перемогу над зрадниками та бунтівниками, необхідно вжити рішучих заходів. Імператриця здобуде єдність, подобається це їм чи ні."
+ SOL_end_of_civil_war: "Кінець громадянської війни"
+ SOL_end_of_civil_war_desc: "Скептики та зрадники вивчили свій жорсткий урок. Життя в Еквестрії нарешті може повернутися до норми; але збережемо ретельний нагляд на випадок, якщо вони знову спробують опиратися законному правлінню Імператриці."
+
+ SOL_twilight_ascend: "Вознесіння"
+ SOL_twilight_ascend_desc: "Настав час колишній учениці Імператриці, колись відомій як Твайлайт Спаркл, приєднатися до Її Імператорської Величності в її осяйній славі. Вона більше не служитиме тим, хто бажає розбити гармонію в Імперії. Натомість вона виконуватиме роботу на благо Імператриці та приноситиме гармонію шляхом порядку."
+
+ SOL_Imperium_Solis: "Imperium Solem"
+ SOL_Imperium_Solis_desc: "Настав час нового світанку в Еквестрії — Сонячна імперія вознесеться, і всі будуть грітися у світлі та славі нашої Імператриці!"
 
  SOL_empress_protector:0 "Empress Protector"
  SOL_empress_protector_desc:0 "The ponies, and other beings need protection from harm and disorder - only in this way we can uphold Harmony. The Sun is a loving, nurturing protector. She watches over us all."
@@ -336,8 +350,6 @@
  SOL_She_Who_Raises_the_Sun:0 "She Who Raises the Sun"
  SOL_She_Who_Raises_the_Sun_desc:0 "Without her Sun, the world would be shrouded in eternal darkness. Without her Sun, there would be no life. The God-Empress is the life-giver, the protector, the Empire itself - She Who Raises the Sun."
 
- SOL_reconquer_equestria:0 "Unite Equestria"
- SOL_reconquer_equestria_desc:0 "The separatist states across Equestria are deluded if they think they can survive on their own in this cruel world. There can be only one Equestria - for only together we are strong. Unity is a natural law, and we shall uphold it."
  SOL_reconquer_cry:0 "Crystal Duchy"
  SOL_reconquer_cry_desc:0 "[CRY.GetName] has decided that it would be better off on their own - but they cannot escape the Burning Eye of the Sky."
  SOL_reconquer_stg:0 "Rogue Province"
@@ -358,18 +370,11 @@
  SOL_conquer_GRI_desc:0 "With Harmony and Light reigning supreme in Equestria, it is time for griffons to see the Sun in all of her glory. A grand fleet shall carry the Empress' message across the ocean."
  SOL_core_cry:0 "Integrate Crystal Lands"
  SOL_core_cry_desc:0 "It is time to bring proper Imperial administration to the Crystal Lands, and to make sure that the populace knows their place."
- SOL_attack_bat_desc:0 "The very existence of Chiropterra as a national entity is an affront to Daybreaker and her holy reign. The time has come to wipe their miserable regime away and destroy thousands of years of abhorrent Nightmare worship, for the good of ponies everywhere."
  SOL_attack_bat:0 "Dawn Over Zebrica"
+ SOL_attack_bat_desc:0 "The very existence of Chiropterra as a national entity is an affront to Daybreaker and her holy reign. The time has come to wipe their miserable regime away and destroy thousands of years of abhorrent Nightmare worship, for the good of ponies everywhere."
  SOL_core_stg:0 "Snuff Out the Revolution"
  SOL_core_stg_desc:0 "The great socialist experiment ends - the misbegotten child of Marks and Steel Stallion. Their insidious structures shall be undone, society unravelled, pride and defiance crushed. All that will remain is another obedient province of the Empire."
- SOL_civil_war_measures:0 "Civil War Measures"
- SOL_civil_war_measures_desc:0 "Despite our previous reforms to the Equestrian society, it is still not enough, and drastic measures need to be taken in order secure our victory against the traitors and rebels. The Empress will have unity, whether they like it or not."
- SOL_civil_war:0 "Civil War"
- SOL_civil_war_measures_idea:0 "Civil War Measures"
- SOL_end_of_civil_war:0 "The End of Civil War"
- SOL_end_of_civil_war_desc:0 "The unbelievers and traitors have received their harsh lesson. Life in Equestria can finally return to normal - but we shall keep a very open eye should they attempt to resist the Empress' rightful rule again."
- SOL_more_research:0 "Unrestricted Progress"
- SOL_more_research_desc:0 "In order for us to keep our technological advantage, it is justified to remove certain restrictions for the good of the Empire. Ethics, morals, lack of funding - none of that can stand in the way of progress."
+
  SOL_military_reorganization:0 "Military Reorganisation"
  SOL_military_reorganization_desc:0 "The military is still a leftover from the old Equestrian state. It needs to be reorganised into a force worthy of an Empire."
  SOL_generals_loyality:0 "Ascertain Loyalty"
@@ -460,11 +465,6 @@
  SOL_rb_cruisers_desc:0 "Cruisers are very flexible, and they are relatively inexpensive. Constructing new cruiser models with more armament, better speed and improved armour would allow us to increase our naval power by a large margin."
  SOL_rb_marines:0 "Imperial Marines"
  SOL_rb_marines_desc:0 "In order to project power all across the world, we must not only have a large and powerful navy, but it is also important for us to have a dedicated Marine Corps. These Imperial Marines will carry out naval invasions with ease, and allow us to spread the light of the Empress to even the darkest corners of the world."
- SOL_twilight_ascend:0 "Ascension"
- SOL_twilight_ascend_desc:0 "The time has come for the former student of the Empress, once known as Twilight Sparkle, to join Her Imperial Majesty in her radiating glory. No longer will she serve those who would seek to shatter the Harmony of the Empire, but she will instead work for the benefit of the Empress, and bring about Harmony through Order."
-
- SOL_bat_problems:0 "The Bat Problem"
- SOL_bat_problems_desc:0 "Now that we have our hooves firmly planted on the ground and our rule is secured, we must solve the issue of thestrals as soon as possible. These "children of the night" have to be dealt with in an appropriate manner."
 
 ### ІДЕЇ ###
  daybreaker_mother:0 "Empress Mother"
@@ -472,9 +472,11 @@
  daybreaker_god2:0 "God-Empress"
  daybreaker_protector:0 "Empress Protector"
 
- supernova:0 "Supernova"
- supernova_desc:0 "§RThis Field Marshal will be removed after a set period of time!§!\nThe Dawn comes. The Sun pierces the veil of darkness. The Fire leaves no sinner alive."
+ supernova: "Супернова"
+ supernova_desc: "§RЦей фельдмаршал буде недоступний після визначеного часу!§!\nСвітає. Сонце пронизує покров темряви. Вогонь визволяє нас від гріхів."
  sun_of_the_night_desc:0 "Bright winged flame\nFull of power and grace\nGlorious one\nWe all bow to your majesty\nWarrior in flight\nFrom the depths you arise\nTo erase the shadows\n\nSwiftly you move\nTo reclaim and to prove\nYou're the goddess of fire\nAnd none can withstand your flare\nAll must give way\nTo the eternal day\nMay you reign forever!"
+ SOL_civil_war: "Громадянська війна"
+ SOL_civil_war_measures_idea: "$SOL_civil_war_measures$"
  SOL_harmonic_resistance_idea:0 "Harmonic Resistance"
  SOL_harmonic_resistance_idea_desc:0 "Whispers behind closed doors, posters and graffiti appearing on the walls in the middle of the night..."
  SOL_harmonic_resistance_idea2:0 "Harmonic Resistance"
@@ -534,7 +536,7 @@
  SOL_enemy_debuff_idea:0 "Scorching Sun"
  SOL_enemy_debuff_idea_desc:0 "The Sun feels unnaturally bright and warm, giving our troops on the field a much harder time. The civilians aren't much better off either, choosing to lock themselves in their homes to escape this fury of the Sun..."
 
- SOL_has_twilight:0 "Twilight Sparkle has been captured."
+ SOL_has_twilight: "Твайлайт Спаркл у полоні"
 
  lady_inquisitor:0 "Lady Inquisitor"
  lady_inquisitor_planning:0 "Lady Inquisitor"
