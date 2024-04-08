@@ -3,7 +3,7 @@
  EAW_MENU_DISCORD: "Сервер Equestria at War у Discord"
  EAW_MENU_STEAMWORKSHOP: "Equestria at War у Майстерні Steam"
  EAW_MENU_VK: "Equestria at War у VK"
- maintheme: "Wilzy — Stellaquis"
+ maintheme: "RedSpark — The Way Of Fire"
  NOT_EXIST: "Для Вас буде вибрана випадкова країна."
 
  #air_l
@@ -229,6 +229,8 @@
 
   democratic_leanings_good: "Гармонійні нахили"
   democratic_leanings_bad: "$democratic_leanings_good$"
+  DR_STRATEGY_ACCEPTANCE:0 "Есть стратегические причины принять дипломатический запрос от государства §Y$US$§!: "
+  DR_STRATEGY_RELUCTANCE:0 "Есть стратегические причины отклонить дипломатический запрос от государства §Y$US$§!: "
   DR_STRATEGIC_HOSTILITY: "Держава $US|Y$ має стратегічні причини щодо держави $THEM|Y$: "
   DR_STRATEGIC_FRIENDSHIP: "Держава $US|Y$ має стратегічні причини щодо держави §Y$THEM$§!: "
   DR_STRATEGIC_ALLIANCE: "Держава $US|Y$ має стратегічні причини щодо держави §Y$THEM$§!: "
