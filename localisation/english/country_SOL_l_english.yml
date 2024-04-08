@@ -299,6 +299,7 @@
  SOL_twilight_ascend: "Вознесіння"
  SOL_twilight_ascend_desc: "Настав час колишній учениці Імператриці, колись відомій як Твайлайт Спаркл, приєднатися до Її Імператорської Величності в її осяйній славі. Вона більше не служитиме тим, хто бажає розбити гармонію в Імперії. Натомість вона виконуватиме роботу на благо Імператриці та приноситиме гармонію шляхом порядку."
 
+ # Внутрішня політика
  SOL_Imperium_Solis: "Imperium Solem"
  SOL_Imperium_Solis_desc: "Настав час нового світанку в Еквестрії — Сонячна імперія вознесеться, і всі будуть грітися у світлі та славі нашої Імператриці!"
 
@@ -350,6 +351,7 @@
  SOL_She_Who_Raises_the_Sun:0 "She Who Raises the Sun"
  SOL_She_Who_Raises_the_Sun_desc:0 "Without her Sun, the world would be shrouded in eternal darkness. Without her Sun, there would be no life. The God-Empress is the life-giver, the protector, the Empire itself - She Who Raises the Sun."
 
+ # Зовнішня політика
  SOL_reconquer_cry:0 "Crystal Duchy"
  SOL_reconquer_cry_desc:0 "[CRY.GetName] has decided that it would be better off on their own - but they cannot escape the Burning Eye of the Sky."
  SOL_reconquer_stg:0 "Rogue Province"
@@ -375,6 +377,7 @@
  SOL_core_stg:0 "Snuff Out the Revolution"
  SOL_core_stg_desc:0 "The great socialist experiment ends - the misbegotten child of Marks and Steel Stallion. Their insidious structures shall be undone, society unravelled, pride and defiance crushed. All that will remain is another obedient province of the Empire."
 
+ # Армійська гілка
  SOL_military_reorganization:0 "Military Reorganisation"
  SOL_military_reorganization_desc:0 "The military is still a leftover from the old Equestrian state. It needs to be reorganised into a force worthy of an Empire."
  SOL_generals_loyality:0 "Ascertain Loyalty"
@@ -467,10 +470,10 @@
  SOL_rb_marines_desc:0 "In order to project power all across the world, we must not only have a large and powerful navy, but it is also important for us to have a dedicated Marine Corps. These Imperial Marines will carry out naval invasions with ease, and allow us to spread the light of the Empress to even the darkest corners of the world."
 
 ### ІДЕЇ ###
- daybreaker_mother:0 "Empress Mother"
- daybreaker_god:0 "God-Empress"
- daybreaker_god2:0 "God-Empress"
- daybreaker_protector:0 "Empress Protector"
+ daybreaker_protector: "$SOL_empress_protector$"
+ daybreaker_mother: "$SOL_empress_mother$"
+ daybreaker_god: "$SOL_god_empress$"
+ daybreaker_god2: "$SOL_god_empress$"
 
  supernova: "Супернова"
  supernova_desc: "§RЦей фельдмаршал буде недоступний після визначеного часу!§!\nСвітає. Сонце пронизує покров темряви. Вогонь визволяє нас від гріхів."
@@ -538,34 +541,34 @@
 
  SOL_has_twilight: "Твайлайт Спаркл у полоні"
 
- lady_inquisitor:0 "Lady Inquisitor"
- lady_inquisitor_planning:0 "Lady Inquisitor"
- EQS_SOL_evil_twilight_sparkle:0 "Sunrise Sparkle"
+ lady_inquisitor: "Леді-інквізитор"
+ lady_inquisitor_planning: "$lady_inquisitor$"
+ EQS_SOL_evil_twilight_sparkle: "Санрайз Спаркл"
 
- EQS_SOL_blaze:0 "Blaze «Bomber» Firehooves"
- EQS_SOL_thunderlane:0 "Thunderlane"
+ EQS_SOL_blaze: "Блейз «Bomber» Файргувз"
+ EQS_SOL_thunderlane: "Тандерлейн"
  thunderlane_desc:0 "Thunderlane is a member of the Wonderbolts and a capable and resilient flier. He has a steely focus and never shies away from a challenge. Despite his duties he still doesn't neglect his little brother Rumble."
- EQS_SOL_wind_rider:0 "Wind Rider"
+ EQS_SOL_wind_rider: "Вінд Райдер"
  wind_rider_desc:0 "Wind Rider is a former Wonderbolt who had several flying records under his name, before Rainbow Dash broke them. He attempted to frame her for a crime she didn't commit in return, but his plot was discovered. He was dishonorably discharged from the Wonderbolts as a result. Nevertheless, he still is a pony of many talents despite his age."
- EQS_SOL_benevelle:0 "Benevelle"
- EQS_SOL_dottedline:0 "Dotted Line"
- EQS_SOL_scope:0 "Shadow Scope"
- EQS_SOL_summersweet:0 "Summer Sweet"
- EQS_SOL_morninglight:0 "Morning Light"
- EQS_SOL_sunnyflare:0 "Sunny Flare"
- EQS_SOL_arcane_nova:0 "Arcane Nova"
- EQS_SOL_shining_star:0 "Shining Star"
- EQS_SOL_scroup_whitemares:0 "Scroup Whitemares"
- EQS_SOL_aurora_shinesparck:0 "Aurora Shinespark"
- EQS_SOL_midwinter_halo:0 "Midwinter Halo"
- EQS_SOL_august_fon_eisenstadt:0 "August Fon Eisenstadt"
- EQS_SOL_comet_trail:0 "Comet Trail"
- EQS_SOL_Capsaicin:0 "Capsaicin"
- EQS_SOL_comm_rush:0 "Comm Rush"
- EQS_SOL_Stormchaser:0 "Stormchaser"
- EQS_SOL_sunrise_sparkle:0 "Sunrise Sparkle"
- EQS_SOL_padlock:0 "Padlock"
- EQS_SOL_ksen_autumn:0 "Ksen Autumn"
+ EQS_SOL_benevelle: "Беневелль"
+ EQS_SOL_dottedline: "Доттед Лайн"
+ EQS_SOL_scope: "Шедоу Скоуп"
+ EQS_SOL_summersweet: "Саммер Світ"
+ EQS_SOL_morninglight: "Морнинґ Лайт"
+ EQS_SOL_sunnyflare: "Санні Флейр" # Флер
+ EQS_SOL_arcane_nova: "Аркейн Нова"
+ EQS_SOL_shining_star: "Шайнинґ Стар"
+ EQS_SOL_scroup_whitemares: "Скруп Уайтмейрс" # Уайтмерс
+ EQS_SOL_aurora_shinesparck: "Аурора Шайнспарк"
+ EQS_SOL_midwinter_halo: "Мідвінтер Гейло"
+ EQS_SOL_august_fon_eisenstadt: "Ауґуст фон Айзенштадт"
+ EQS_SOL_comet_trail: "Комет Трейл"
+ EQS_SOL_Capsaicin: "Капсайцин"
+ EQS_SOL_comm_rush: "Комм Раш"
+ EQS_SOL_Stormchaser: "Стормчейзер"
+ EQS_SOL_sunrise_sparkle: "Санрайз Спаркл"
+ EQS_SOL_padlock: "Педлок"
+ EQS_SOL_ksen_autumn: "Ксень Отем"
 
  EQS_SOL_fascism_party: "$EQS_fascism_party$"
  EQS_SOL_fascism_party_long: "$EQS_fascism_party$"
