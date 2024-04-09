@@ -1,6 +1,6 @@
 ﻿l_english:
  EQS_celestia_evil_meter_category: "Принцесин тягар"
- EQS_celestia_evil_meter_category_desc: "У цьому мінливому світі, прийняття складних рішень заради блага Еквестрії залишається принцесі Селестії. Однак, навіть безсмертні алікорни не вбезпечені від тягарів війни."
+ EQS_celestia_evil_meter_category_desc: "У цьому мінливому світі прийняття складних рішень заради блага Еквестрії залишається за принцесою Селестією. Однак, навіть безсмертні алікорни не вбезпечені від тягарів війни."
  EQS_become_daybreaker_decision: "[Root.BecomeDaybreakerScriptedLoc]"
  SanityMeter: "Тягар війни"
  BecomeDaybreaker: "Віддатися вогню люті"
@@ -22,8 +22,8 @@
  EQS_CelestiasPopularSupport_min_good: "§Gвірять у дружбу та гармонію§!"
  SOL_BAT_decision_req_tt: "Кожна §Y[BAT.GetFlag]хіроптеррська§! осердна область мусить бути під повним контролем держави §O[ROOT.GetName]§! або §O[ROOT.GetAdjective]ої§! маріонетки"
 
- EQS_celestia_feeling_angry: "Принцеса Селестія $EQS_celestia_sanity_5$ або ж гірше\n"
- EQS_celestia_not_feeling_angry: "Принцеса Селестія не $EQS_celestia_sanity_5$ або ж гірше\n"
+ EQS_celestia_feeling_angry: "Принцеса Селестія $EQS_celestia_sanity_5$ або гірше\n"
+ EQS_celestia_not_feeling_angry: "Принцеса Селестія не $EQS_celestia_sanity_5$ або гірше\n"
 
  EQS_conscription_decision: "Розглянути можливість призову"
  EQS_conscription_decision_desc: "$equestria.139.d$"
@@ -32,7 +32,7 @@
  EQS_celestia_speech_decision: "Промова принцеси"
  EQS_celestia_speech_decision_desc: "Чейнджлінґи підступно атакували нашу мирну націю. Було б добре провести промову, і зробити це слід принцесі Селестії."
  EQS_enact_war_plan_decision: "Запровадити воєнний план"
- EQS_enact_war_plan_decision_desc: "Ми опинилися втягнуті в війну; було б мудро вжити певних заходів, щоби пережити цю бурю. Поні будуть невдоволені цими змінами, але вони зрозуміють, що Еквестрії це піде на користь."
+ EQS_enact_war_plan_decision_desc: "Ми опинилися втягнуті у війну; було б мудро вжити певних заходів, щоби пережити цю бурю. Поні будуть невдоволені цими змінами, але вони зрозуміють, що Еквестрії це піде на користь."
 
  EQS_turn_off_war_plan_decision: "Скасувати воєнний план"
  EQS_turn_off_war_plan_decision_desc: "Ми можемо скасувати заходи, ужиті в межах воєнного плану, щоби дати жителям перепочити."
