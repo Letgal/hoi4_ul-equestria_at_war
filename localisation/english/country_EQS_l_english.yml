@@ -300,75 +300,76 @@
  EQS_sombra_return_war: "Захистити Еквестрію"
  EQS_sombra_return_war_desc: "Настав час завдати удар у відповідь на цє столітнє варварство. Наші добровольчі війська ледве щось міняють. Оскільки, за інформацією від наших шпигунів, ситуація там не поліпшується, саме настав час воювати за оборону Еквестрії."
 
- demands_democracy: "Громадськість вимагає референдум"
- reaffirming_princessdom: "Влада принцес отримала другий шанс"
- the_diet: "Сейм мусить бути заснований"
- parliament_prime_minister: "Обрано конституційну монархію"
- congress_president: "Пропозиція республіки перемогла"
- eqs_prevent_the_vote: "Запобігти голосуванню"
- eqs_prevent_the_vote_desc: "Цих дітлахів із їхніми вимогами про референдум, очевидно, обдурили. Вони й не підозрюють про наслідки. Їм самим буде краще, якщо статус-кво продовжиться. Як-не-як, принцеса краще знає, адже вона вела нас так довго. Сумніватися в ній означало би зраду."
- eqs_jail_dissenters: "Заарештувати незгодних"
- eqs_jail_dissenters_desc: "На жаль, попри наші спроби заспокоїти республіканців, вони продовжують нам докучати. Треба діяти швидко, перш ніж вони стануть загрозою для нашої гармонії. Принцеса нас захистить."
- eqs_come_to_compromise: "Пошук компромісу"
- eqs_come_to_compromise_desc: "Тепер, коли війна скінчилася, поні поглянули всередину, на згарище своєї держави, своїх життів і, що найважливіше, на свій уряд, який так довго вів їх шляхом гармонії, аж раптом привів їх до катастрофічної війни. Так, як ніяк раніше, вони вимагають владу над своєю долею. Але потрібно зберігати порядок. Що нам робити?"
- eqs_allow_the_vote: "Дозволити вотум недовіри"
- eqs_allow_the_vote_desc: "Стан речей очевидний, і більше не можна це заперечувати. Правління сестер-алікорнів розбилося, а поні розчаровані. Поні вимагають дещо під назвою «вотум недовіри», то вони його отримають."
- eqs_reaffirming_princessdom: "Затвердження влади принцес"
- eqs_reaffirming_princessdom_desc:0 "Much to our great relief, a majority of ponies still believe in the monarchy, but her redemption must be swift lest we want to lose their remaining hope."
- eqs_powers_of_the_diet: "Повноваження сейму"
- eqs_powers_of_the_diet_desc:0 "There was not a majority vote against the monarchy, but this large minority could not be ignored lest we want to risk more pointless conflict. A diet has been established to satisfy their demands, but what powers will this body have, just how much power, and who should be included?"
- eqs_new_royal_role: "Нова роль монархії"
- eqs_new_royal_role_desc:0 "The vote came somewhat close but still resulted in a strong majority against the monarchy. Agreements have been made to let it remain, but it will be balanced with an elected parliament."
- eqs_new_equestrian_republic: "Нова Еквестрійська республіка"
- eqs_new_equestrian_republic_desc:0 "The vote ended with a resounding and uncompromising cry for self-government, so the ancient régime has been dragged down, the new Republic standing in its place. We must quickly secure law, order, and justice on our own terms, it is only the beginning."
- eqs_maintain_autonomies: "Зберегти традиційні автономії"
- eqs_maintain_autonomies_desc:0 "For over a millennium, our decentralised government has proven to be efficient and effective. With small reforms, it can continue to be so. The Princess does not wish to smother her subjects with orders and demands."
- eqs_centralize_control: "Централізувати владу й авторитет"
- eqs_centralize_control_desc:0 "While the old decentralised model has served Equestria faithfully for over a millennium, the war has revealed to us truly how loose our union is. We must solidify our nation for the future."
- eqs_appeasing_people: "Умиротворити поні"
- eqs_appeasing_people_desc:0 "The final step to reaffirming the monarchy's legitimacy and the Equestrian union is to lend our ear to the people and pay them more mind in the future. Reforms are to be made post-haste."
- eqs_faith_harmony_empire: "Віра в гармонійну імперію"
- eqs_faith_harmony_empire_desc:0 "It has been a tumultuous year for Equestria, but the Monarchy in all its ancient wisdom has proven it is still ever more capable to adapt and evolve itself and the nation for the future. Long live the Princesses of Equestria!"
- eqs_diet_nobles: "Дворянський сейм"
- eqs_diet_nobles_desc:0 "It has been decided, whether through sheer political influence, general consensus, or otherwise, that the traditionally rich and powerful are fit to fill the Diet. May their power and intellect benefit the nation."
- eqs_diet_commoners: "Народний сейм"
- eqs_diet_commoners_desc:0 "Ultimately, this Diet has been created for the lower classes to address their grievances, so they shall fill the Diet. May their wisdom heal our wounds."
- eqs_merchant_republic: "Торгова республіка"
- eqs_merchant_republic_desc:0 "The nobles have grown incredibly powerful within the Diet, perhaps worryingly so to the Princess. It has done wonders for Equestria economically, but what of their loyalty..?"
- eqs_commoner_kingdom: "Королівство простого народу"
- eqs_commoner_kingdom_desc:0 "The commoners have wielded their power well and decisively, even in their somewhat limited role in the Diet. However, some of their decisions have been rather daring and precarious..."
- eqs_old_wisdom: "Віра в старовинну мудрість"
- eqs_old_wisdom_desc:0 "Despite the Monarchy's fears of the actions of their Diet, no disaster or uprising has come to pass and the ponies now seem content. Peace and order has returned."
- eqs_overrule_princess: "Змістити принцесу"
- eqs_overrule_princess_desc:0 "The Diet has gained too much power, and they have effectively overruled the Monarchy. But to maintain the peace, the Princess still sits on the throne... if only to act as a mantle piece."
- eqs_executive_monarch: "Виконавча монархія"
- eqs_executive_monarch_desc:0 "Parliament has voted and it has been decided that the monarchy will act in as an executive along side the Prime Minister, and they will directly work together on passing legislation drafted by Parliament."
- eqs_figurehead_monarch: "Представницька монархія" # (&?)
- eqs_figurehead_monarch_desc:0 "It is uncertain, but by either Parliamentary vote or by voluntary action, the Monarchy has decided to take a laid back political role. They will have no active official powers and act in an advisory role and as the face of the government and embodiment of Equestria."
- eqs_new_princess_and_parliament: "Нова принцеса та її парламент"
- eqs_new_princess_and_parliament_desc:0 "Our new government has been forged after a long and strenuous several moons, and all seems to be going well now internally. All there is left to do now is to perpetuate it."
- eqs_great_charter: "Великий статут Співдружності"
- eqs_great_charter_desc:0 "To perpetuate this new Commonwealth and these new principles of Harmony, we establish this new Charter for ourselves and our posterity."
- eqs_charter_liberties: "Декларація самовизначення"
- eqs_charter_liberties_desc:0 "With the establishment of our new government and this New Harmony, we should outline and ensure the rights of ponies in the absence of a powerful maternal leader, and define our sovereign power over our own fates and destinies."
- eqs_charter_republic: "Статут Республіки"
- eqs_charter_republic_desc:0 "With the establishment of self determination and sovereignty, we should outline the role and powers of this new government to translate the will of the people into law and never be able to collapse into chaos over the conflicts of one or two ponies, no matter how powerful."
- eqs_species_rights: "Закон про права видів"
- eqs_species_rights_desc:0 "Already we've encountered a great hurdle in the founding of our new Republic... in the wording of our still infant founding documents and in the face of war around the world, we're faced with more and more non-pony refugees. It can be interpreted that we do not include them, so we extend our hooves to them in welcome, having penned the first amendments to our charters."
- eqs_grand_army: "Велика армія для великої республіки"
- eqs_grand_army_desc:0 "To truly solidify our new Harmony and Republic in the chaos tearing apart the world, we need a large and powerful professional army more than ever. A grand army as some in Congress call it."
- eqs_harmony_not_what_it_used_to_be: "Гармонія вже не та, що раніше"
- eqs_harmony_not_what_it_used_to_be_desc:0 "The year of trials and tribulations, at least politically, is finally over. Equestria and the Harmony we hold within it is finally secure again, even if it is not the same we began with. We must now look outward."
- eqs_bastion_of_harmony: "Бастіон гармонії"
- eqs_bastion_of_harmony_desc:0 "With our new found Harmony in hoof, we have to defend it with all our might and will lest we lose it to some outside invader. Equestria prevails."
- eqs_arsenal_of_harmony: "Арсенал гармонії"
- eqs_arsenal_of_harmony_desc:0 "Perhaps defence of this hard gained Harmony is not enough. For the greater good, we must be a Harmonic bulwark both at home and abroad."
+ # Реформування влади в Еквестрії
+  demands_democracy: "Громадськість вимагає референдум"
+  reaffirming_princessdom: "Влада принцес отримала другий шанс"
+  the_diet: "Сейм мусить бути заснований"
+  parliament_prime_minister: "Обрано конституційну монархію"
+  congress_president: "Пропозиція республіки перемогла"
+  eqs_prevent_the_vote: "Запобігти голосуванню"
+  eqs_prevent_the_vote_desc: "Цих дітлахів із їхніми вимогами про референдум, очевидно, обдурили. Вони й не підозрюють про наслідки. Їм самим буде краще, якщо статус-кво продовжиться. Як-не-як, принцеса краще знає, адже вона вела нас так довго. Сумніватися в ній означало би зраду."
+  eqs_jail_dissenters: "Заарештувати незгодних"
+  eqs_jail_dissenters_desc: "На жаль, попри наші спроби заспокоїти республіканців, вони продовжують нам докучати. Треба діяти швидко, перш ніж вони стануть загрозою для нашої гармонії. Принцеса нас захистить."
+  eqs_come_to_compromise: "Пошук компромісу"
+  eqs_come_to_compromise_desc: "Тепер, коли війна скінчилася, поні поглянули всередину, на згарище своєї держави, своїх життів і, що найважливіше, на свій уряд, який так довго вів їх шляхом гармонії, аж раптом привів їх до катастрофічної війни. Так, як ніяк раніше, вони вимагають владу над своєю долею. Але потрібно зберігати порядок. Що нам робити?"
+  eqs_allow_the_vote: "Дозволити вотум недовіри"
+  eqs_allow_the_vote_desc: "Стан речей очевидний, і більше не можна це заперечувати. Правління сестер-алікорнів розбилося, а поні розчаровані. Поні вимагають дещо під назвою «вотум недовіри», то вони його отримають."
+  eqs_reaffirming_princessdom: "Затвердження влади принцес"
+  eqs_reaffirming_princessdom_desc: "На превелике щастя, більшість поні все ще вірить у монархію, але її спокути мусить бути швидкою, якщо ми не хочемо втратити залишки їхньої надії."
+  eqs_powers_of_the_diet: "Повноваження сейму"
+  eqs_powers_of_the_diet_desc: "Оголоси проти монархії не здобули більшість, але цією великою меншиною не можна нехтувати, якщо ми не хочемо ризикувати продовженням конфлікту. Для задоволення їхніх вимог було створено сейм, але які повноваження цей орган матиме, скільки влади та кого слід включати?"
+  eqs_new_royal_role: "Нова роль монархії"
+  eqs_new_royal_role_desc: "Було близько, але голоси проти монархії все одно досягли потужної більшості. Було домовлено угоди, що дозволяє її зберегти, але протиставлятися їй буде вибраний парламент."
+  eqs_new_equestrian_republic: "Нова Еквестрійська республіка"
+  eqs_new_equestrian_republic_desc: "Голосування скінчилося гучним і безумовним закликом до самоврядування; стародавній режим було повалено, і на її місце стала нова республіка. Ми мусимо хутко встановити порядок і справедливість на наших вимогах, адже це лише початок." # (&?)
+  eqs_maintain_autonomies: "Зберегти традиційні автономії"
+  eqs_maintain_autonomies_desc: "Протягом понад тисячоліття, наш децентралізований уряд показав себе ефективним і результативним. Із малими реформами, він може продовжити це. Принцеса не бажає завантажувати своїх підданих наказами та вимогами." # (&)
+  eqs_centralize_control: "Централізувати владу й авторитет"
+  eqs_centralize_control_desc: "Хоча стара децентралізована модель вірно слугувала Еквестрії понад тисячу років, війна проявила нам, наскільки насправді роз'єднаний наш союз. Ми мусимо солідифікувати нашу державу на майбутнє." # (&)
+  eqs_appeasing_people: "Умиротворити поні"
+  eqs_appeasing_people_desc: "Останній крок до відновлення леґітимності монархії й еквестрійського союзу — прислухатися до народу та надалі більше зважати на нього. Реформи треба впроваджувати якнайшвидше." # (&)
+  eqs_faith_harmony_empire: "Віра в гармонійну імперію"
+  eqs_faith_harmony_empire_desc: "Цей рік був бурхливий для Еквестрії, але монархія в усій своїй стародавній мудрості довела, що досі цілком може адаптувати та розвинути себе та державу для майбутнього. Хай живуть принцеси Еквестрії!" # (&)
+  eqs_diet_nobles: "Дворянський сейм"
+  eqs_diet_nobles_desc: "Ми вирішили, хай крізь сам політичний вплив, загальний консенсус або інше, що традиційно багаті та сильні здатні посісти місце в сеймі. Хай їхні влада й інтелект принесуть користь державі." # (&)
+  eqs_diet_commoners: "Народний сейм"
+  eqs_diet_commoners_desc: "Урешті-решт, цей сейм був створений для звернення уваги на проблеми нижчих класів, тож вони посядуть місце в сеймі. Хай їхня мудрість загоїть наші рани." # (&)
+  eqs_merchant_republic: "Торгова республіка"
+  eqs_merchant_republic_desc: "Дворяни в межах сейму стали неймовірно потужними — мабуть, до тривожного з погляду принцеси рівня. Економічно це творить дива для Еквестрії, але що ж стосовно їхньої лояльності..?"
+  eqs_commoner_kingdom: "Королівство простого народу"
+  eqs_commoner_kingdom_desc: "Простий народ уміло та рішуче втримує владу, попри свою дещо обмежену роль у сеймі. Однак, деякі з їхніх рішень були дещо сміливими та ризикованими..."
+  eqs_old_wisdom: "Віра в старовинну мудрість"
+  eqs_old_wisdom_desc: "Попри побоювання монархії стосовно дій державного сейму, жодної катастрофи чи повстання так і не сталося, а поні, схоже, задоволені. Мир і порядок відновилися." # (&?)
+  eqs_overrule_princess: "Змістити принцесу"
+  eqs_overrule_princess_desc: "Сейм здобув забагато влади й, по суті, повалив монархію. Але щоби зберегти мир, принцеса досі сидить на престолі... хоч і виконує лише церемоніальну роль." # (&?)
+  eqs_executive_monarch: "Виконавча монархія"
+  eqs_executive_monarch_desc: "Парламент проголосував і вирішив, що монархія отримає виконавчу роль поруя із прем'єр-міністром і вони напряму працюватимуть над упровадженням законів, розроблених парлементом." # (&)
+  eqs_figurehead_monarch: "Представницька монархія" # (&?)
+  eqs_figurehead_monarch_desc: "Непевно як, але чи за голосами парламенту, чи добровільною дією, монархія вирішила прибрати собі менш залучену політичну роль. Вона не матиме активну державну владу та діятиме в якості порадницького органу, обличчя уряду та втілення Еквестрії." # (&)
+  eqs_new_princess_and_parliament: "Нова принцеса та її парламент"
+  eqs_new_princess_and_parliament_desc: "Наш новий уряд було сформовано після довгих і напружених декількох місяців і, схоже, наразі все йде як слід. Тепер залишилося тільки продовжувати це." # (&)
+  eqs_great_charter: "Великий статут Співдружності"
+  eqs_great_charter_desc: "Щоби зберегти цю нову Співдружність і ці нові принципи гармонії, ми впровадимо цей новий статут для нас і наших наступників." # (&)
+  eqs_charter_liberties: "Декларація самовизначення"
+  eqs_charter_liberties_desc: "Із заснуванням нашого нового уряду та цієї нової гармонії, нам слід окреслити та гарантувати права поні за відсутності могутньої материнської особи та визначити суверенну владу над нашою долею." # (&)
+  eqs_charter_republic: "Статут Республіки"
+  eqs_charter_republic_desc: "Із проголошенням самоврядування та суверенітету, нам варто окреслити роль і владу цього нового уряду, щоби перенести волю народу в закон і не впасти в хаос через конфлікт між одним чи двома поні, хай які вони могутні." # (&)
+  eqs_species_rights: "Закон про права видів"
+  eqs_species_rights_desc: "Ми вже зіткнулися з великою перешкодою в заснування нашої нової Республіки... Враховуючи висловлення наших досі молодих засновних документів та війни по всьому світі, ми стиакємося з дедалі більшою кількістю біженців-непоні. Хтось може подумати, що ми їх не приймаємо, тож ми привітаємо їх, розписавши перші поправки наших статутів." # (&)
+  eqs_grand_army: "Велика армія для великої республіки"
+  eqs_grand_army_desc: "Щоби по-справжньому затвердити наші нові гармонію та Республіку посеред хаосу, що розриває світ на шмаття, нам потрібна масштабна та потужна професійна армія — більш ніж будь-коли. Велика армія, як її звуть деякі члени Конгресу." # (&)
+  eqs_harmony_not_what_it_used_to_be: "Гармонія вже не та, що раніше"
+  eqs_harmony_not_what_it_used_to_be_desc: "Рік випробувань і негараздів — принаймні, політично — нарешті скінчився. Еквестрія та гармонія, що ми їх тримаємо в собі, нарешті знову в безпеці, навіть якщо вони не такі, як були на початку. Тепре ми мусимо виглянути назовні." # (&)
+  eqs_bastion_of_harmony: "Бастіон гармонії"
+  eqs_bastion_of_harmony_desc: "Тримаючи в копитах новознайдену гармонію, ми мусимо захистити її всіма нашими силами, і зробимо це — а інакше втратимо її через якихось зовнішніх загарбників. Еквестрія виживе." # (&)
+  eqs_arsenal_of_harmony: "Арсенал гармонії"
+  eqs_arsenal_of_harmony_desc: "Можливо, оборони цієї важко здобутої гармонії недостатньо. Заради більшого блага, мусимо стати оплотом гармонії як усередині, так і ззовні." # (&)
 
  # ЕАО: Еквестрійська асоціація освіти
- EQS_ease_the_rules_of_EEA: "Полегшити правила ЕАО"
- EQS_ease_the_rules_of_EEA_desc: "Протягом тисяч років, Еквестрійська асоціація освіти втримувала освіту в Еквестрії в своїй холодній хватці. Влада ЕАО з її суворими, застарілими та обмежувальними правилами стала великою проблемою. Настав час підірвати її владу й авторитет і дозволити нашим поні вивчати та досліджувати речі більш незалежно — по-своєму."
- EQS_strengthen_EEA_authority: "Зміцнити авторитет ЕАО"
- EQS_strengthen_EEA_authority_desc: "Протягом тисяч років, Еквестрійська асоціація освіти запевнялася, що кожен в Еквестрії отримає освіту лише найвищої якості. З урахуванням цього, нам слід надалі посилити її владу й авторитет, щоби наша освіта продовжувала процвітати, як вона це робила протягом останньої тисячі років."
+  EQS_ease_the_rules_of_EEA: "Полегшити правила ЕАО"
+  EQS_ease_the_rules_of_EEA_desc: "Протягом тисяч років, Еквестрійська асоціація освіти втримувала освіту в Еквестрії в своїй холодній хватці. Влада ЕАО з її суворими, застарілими та обмежувальними правилами стала великою проблемою. Настав час підірвати її владу й авторитет і дозволити нашим поні вивчати та досліджувати речі більш незалежно — по-своєму."
+  EQS_strengthen_EEA_authority: "Зміцнити авторитет ЕАО"
+  EQS_strengthen_EEA_authority_desc: "Протягом тисяч років, Еквестрійська асоціація освіти запевнялася, що кожен в Еквестрії отримає освіту лише найвищої якості. З урахуванням цього, нам слід надалі посилити її владу й авторитет, щоби наша освіта продовжувала процвітати, як вона це робила протягом останньої тисячі років."
 
  # This file's organization is an absolute disaster so I added the PRE-MADE TANK DESIGNS TOOLTIPS here #
  EQS_Timberwolf_tooltip: "\nБуде створено дизайн танка §YTimberwolf MkI§!, якщо доступні ось ці технології:\n §Y$basic_medium_tank_chassis$\n $tank_high_velocity_cannon$§!\n"
@@ -459,7 +460,7 @@
  nuclear_power_EQS: "Магічно-атомні електростанції"
  manehattan: "Мейнгеттенський науковий інститут"
  rainbow_factory: "Клаудсдейльська погодна фабрика"
- EQS_sweet_apple_acres: "Яблучна алея"
+ EQS_sweet_apple_acres: "Ферма «Солодке яблуко»"
  EQS_equestrian_railway: "Експрес Дружби"
  EQS_fluttershy: "Флаттершай"
  fluttershy_desc: "Флаттершай — Елемент Доброти та доглядачка тварин. Вона відома своєю соромливістю, але також своєю красою та прихованою напористістю, яка проявляється, коли її друзям загрожує небезпека. Тепер вона зацікавлена в очоленні відділу з робробки лікувальних мегазаклять. Однак деякі науковці в групі зваблені ідеєю більш... агресивного застосування цієї магії."
