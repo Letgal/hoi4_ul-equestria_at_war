@@ -8,6 +8,7 @@
 + `countries_griffonia`
 + `countries_zebrica`
 + `country_DRG`
++ `country_EQS`
 + `country_MTA` (умовно)
 + `country_NTR`
 + `eaw_adjacency_rules`
