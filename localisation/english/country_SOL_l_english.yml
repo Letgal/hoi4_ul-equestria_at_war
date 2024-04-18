@@ -422,34 +422,35 @@
   SOL_magic_doc: "Коригування доктрини"
   SOL_magic_doc_desc: "Наші стратегія та тактика мусять враховувати роль магії. У такий спосіб ми зможемо гарантувати повну кооперацію між магічним і немагічним підрозділами армії."
 
- SOL_air_force:0 "Imperial Air Force"
- SOL_air_force_desc:0 "The Solar Empire needs a strong air force to be able to both defend it's own skies, and rain hellfire down upon all that would defy the Empress."
- SOL_operational_integrity:0 "Operational Integrity"
- SOL_operational_integrity_desc:0 "The Imperial Air Force must be flexible, and be able to both devastate enemy combatants and annihilate the industrial capabilities of any enemy force. As such, we should focus our efforts on bombers which are capable of both."
- SOL_rb_fighter:0 "Fighter Prototypes"
- SOL_rb_fighter_desc:0 "To protect our own skies and to escort our tactical bombers, new fighter models are required. There have been many advances in aeronautics recently, and we would do well to continue research in this field."
- SOL_rb_tac_bomber:0 "Tactical Bomber Designs"
- SOL_rb_tac_bomber_desc:0 "Now that we have new and improved fighter models, we should focus on designing new tactical bombers capable of raining hellfire down on our enemies."
- SOL_rb_oi_doctrine:0 "Doctrinal Flexibility"
- SOL_rb_oi_doctrine_desc:0 "The Imperial Air Force is based around flexibility. As such, it would be madness to limit ourselves to rigid doctrines. We shall create our own doctrine, encompassing various tactics from other fields."
- SOL_oi_napalm:0 "Napalm"
- SOL_oi_napalm_desc:0 "Our scientists have recently developed a chemical they refer to as 'Napalm'. It is capable of bringing the fire of the sun down on our foes, and the best part? It can be dropped just like a regular bomb. We will teach our enemies the might of the Sun!"
- SOL_jets:0 "Jet Experiments"
- SOL_jets_desc:0 "A new generation of aircraft design has been proposed. Jet aircraft use turbines instead of propellers, and this allows them to fly at unprecedented speeds. Investment into this field could provide us with immensely powerful warplanes."
- SOL_rockets:0 "Military Rocketry"
- SOL_rockets_desc:0 "Rocketry is a field that shows great promise for military application. Further experimentation could yield astounding results, and allow us to deliver huge payloads all over the world."
- SOL_WMD:0 "Solar Flare"
- SOL_WMD_desc:0 "Recent scientific and magical advances may allow us to create a weapon capable of destruction beyond any scale we could have previously imagined. The experimental bomb, code-named "Solar Flare", would be capable of wiping out entire cities in the blink of an eye! This weapon will allow us to truly bring the might of the sun down on our foes."
- SOL_strategic_destruction:0 "Strategic Destruction"
- SOL_strategic_destruction_desc:0 "The focus of the new Imperial Air Force must be to bring destruction to any that would oppose the will of the Empress. To this end, we must develop huge new aircraft, capable of carrying unprecedented amounts of bombs to be dropped over the enemies cities."
- SOL_rb_heavy_fighter:0 "Long Range Escorts"
- SOL_rb_heavy_fighter_desc:0 "In order to maximise the effectiveness of our heavy bombers' attacks, we will need to protect them from hostile aircraft. To this end, new fighters must be developed, with a focus on range and heavy armament. This should allow them to keep up with our bombers and defend them against any enemy fighters."
- SOL_rb_strat_bomber:0 "Bomber Improvements"
- SOL_rb_strat_bomber_desc:0 "There are still many things that could be improved in the design of our heavy bombers. This should become our next priority, as having the best bombers available should allow us to exploit our doctrinal advantage to great effect."
- SOL_rb_sd_doctrine:0 "Area Bombardment"
- SOL_rb_sd_doctrine_desc:0 "Our aerial doctrine is focused on power. Rain down thousands of bombs on enemy cities, until there is nothing left but ashes. We will cripple any nation that would dare oppose the will of the Empress."
- SOL_sd_magical_payloads:0 "Magical Payloads"
- SOL_sd_magical_payloads_desc:0 "We can use advanced spells and matrices to create bombs imbued with special magical properties. This allows us to have bombs available for every type of situation, be it bombs loaded with magical fire or other arcane effects."
+  SOL_air_force: "Імперські ВПС"
+  SOL_air_force_desc: "Сонячній імперії потрібна потужна авіація, щоби могти як захищати власні небеса, так і приносити пекельний дощ усім, хто заперечуватиме Імператриці." # (&): приносити пекельний дощ
+  SOL_operational_integrity: "Оперативна цілісність"
+  SOL_operational_integrity_desc: "Імперські ВПС мусять бути гнучкими та могти як знищувати ворожих бійців, так і руйнувати промисловий потенціал усякої ворожої сили. Отже, нам необхідно зосередити наші зусилля на бомбардувальниках — адже вони здатні виконати обидві задачі."
+  SOL_rb_fighter: "Прототипи винищувачів"
+  SOL_rb_fighter_desc: "Щоби захистити власні небеса та супроводжувати наші тактичні бомбардувальники, необхідні нові моделі винищувачів. Нещодавно в аеронавтиці сталося багато проривів, і нам не завадило би продовжити дослідження в цій галузі."
+  SOL_rb_tac_bomber: "Проєкти тактичних бомбардувальників"
+  SOL_rb_tac_bomber_desc: "Тепер, коли ми маємо нові та поліпшені моделі винищувачів, нам слід зосередитися на розробці нових тактичних бомбардувальників, здатних приносити пекельний дощ нашим ворогам." # (&): приносити пекельний дощ
+  SOL_rb_oi_doctrine: "Доктринальна гнучкість"
+  SOL_rb_oi_doctrine_desc: "Імперські ВПС базуються на принципі гнучкості. Отже, було би божевіллям обмежувати себе суворими доктринами. Ми створимо власну доктрину, що включить різні тактики з інших галузей."
+  SOL_oi_napalm: "Напалм"
+  SOL_oi_napalm_desc: "Наші науковці нещодавно розробили хімічну речовину, яку звуть «напалмом». Він здатен принести вогонь Сонця на наших ворогів, а найліпшу в ньому? Його можна скинути як звичайну бомбу. Ми навчимо наших ворогів силі Сонця!"
+  SOL_jets: "Реактивні експерименти"
+  SOL_jets_desc: "Було запропоновано нове покоління розробки літаків. Реактивна авіація використовує турбіни замість пропелерів, і це дозволяє їм літати з небаченими швидкостями. Інвестування в цю галузь може надати нам надзвичайно потужні військові літаки."
+  SOL_rockets: "Військова ракетна техніка"
+  SOL_rockets_desc: "Ракетобудування — це галузь, котра показує великий потенціал для військового застосування. Подальше експериментування може дати приголомшливі результати та дозволити нам доставляти великі вантажі по всьому світі." # (&)
+  SOL_WMD: "Спалах Сонця"
+  SOL_WMD_desc: "Нещодавні наукові та магічні прориви можуть дозволити нам створити зброю, здатну на знищення поза масштабами, які ми могли би раніше уявити. Експериментальна бомба під кодовою назвою «Спалах Сонця» зможе в одну мить стирати цілі міста! Ця зброя дозволить нам справді принести могуть Сонця до наших ворогів." # (&)
+  SOL_strategic_destruction: "Стратегічне знищення"
+  SOL_strategic_destruction_desc: "Акцент нових Імперських ВПС мусить бути поставлений на принесенні нищення всім, хто опиратиметься волі Імператриці. Заради цієї мети ми мусимо розробити нові велетенські літаки, здатні переносити небачені кількості бомб, щоби потім скидати їх на міста ворога." # (&)
+  SOL_rb_heavy_fighter: "Супровід далекої дії"
+  SOL_rb_heavy_fighter_desc: "Щоби максимізувати ефективність атак наших важких бомбардувальників, нам доведеться захищати їх від ворожих літаків. Для досянення цієї мети необхідно розробити нові винищувачі, з акцентом на відстань і важке озброєння. Це також дозволить їм тримати темп із нашими бомбардувальниками та захищати їх від усяких винищувачів ворога." # (&)
+  SOL_rb_strat_bomber: "Поліпшення бомбардувальників"
+  SOL_rb_strat_bomber_desc: "У дизайні наших важких бомбардувальників досі є багато речей, які можна би поліпшити. Це мусить стати нашим наступним пріоритетом, адже володіння найліпшими доступними бомбардувальниками має дозволити нам якнайбільше скористатися нашою доктринальною перевагою." # (&)
+  SOL_rb_sd_doctrine: "Зональне бомбардування"
+  SOL_rb_sd_doctrine_desc: "Наша повітряна доктрина зосереджена на силі. Скиньте тисячі бомб на ворожі міста, аж поки не лишиться ніщо, крім попелу. Ми покалічимо всяку державу, котра посміє протистояти волі Імператриці." # (&)
+  SOL_sd_magical_payloads: "Магічні вантажі"
+  SOL_sd_magical_payloads_desc: "Ми можемо використовувати новітні заклинання та матриці, щоби створювати бомби, пройняті спеціальними магічними властивостями. Це дозволить нам мати бомби для кожного типу ситуацій, хай ці бомби заповнені магічним вогнем чи іншими чарівними ефектами." # (&)
+
  SOL_navy:0 "Imperial Navy"
  SOL_navy_desc:0 "To secure the coast of the Empire, a large naval force is required. There are a few different ideas as to how we should go about accomplishing this, but for now we should simply do our best to reform the officer cadre and conduct training exercises."
  SOL_battleships:0 "Decisive Battle"
