@@ -156,6 +156,7 @@
 ### ФОКУСИ ###
  equestria_sol_focus: "Дерево фокусів Сонячної імперії"
 
+ # Примітка перекладача: неперекладені тут фокуси або використовують локалізацію гармонійної Еквестрії, або не відображаються взагалі.
  SOL_examine_the_situation:0 "Examine the Situation"
  SOL_examine_the_situation_desc:0 "Organise commission in regards of our foreign and internal policies."
  SOL_increase_presense_inCRY: "Підкорити кристальних поні"
@@ -202,8 +203,8 @@
  SOL_Forget_magic_of_friendship_desc:0 "For most of the time, ponies were extremely peaceful and friendly creatures that managed to settle all arguments with conscience. Right now circumstances dictate their own rules, and we cannot win in this war without fighting back. And fighting back hard."
  SOL_EQS_WMD:0 "Equestrian Weapon of Mass Destruction"
  SOL_EQS_WMD_desc:0 "Desperate times require desperate measures. We are on a brink of developing a new weapon, that our scientists say will be much stronger than anything we knew before."
- SOL_Nuclear_Power:0 "Magic-Nuclear Power"
- SOL_Nuclear_Power_desc:0 "After long study, we are now capable of using magic and science in one. This breakthrough will allow to us to produce almost unlimited amounts of energy for both civilian and military use."
+ SOL_Nuclear_Power: "Ядерно-магічна енергія"
+ SOL_Nuclear_Power_desc: "Після тривалого вивчення, ми тепер здатні використовувати магію та науку science як одне ціле. Цей прорив дозволить нам виробляти майже безмежні кількості енергії як для цивільного, так для військового застосування." # (&)
  SOL_worrisome_changelings:0 "Changeling Problem"
  SOL_worrisome_changelings_desc:0 "Queen Chrysalis and her army of changelings have been a great worry for a long time now. We must take steps to safeguard ourselves from any potential attack."
  SOL_reinforce_border:0 "Reinforce Northwest"
