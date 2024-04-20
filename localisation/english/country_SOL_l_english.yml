@@ -204,7 +204,7 @@
  SOL_EQS_WMD:0 "Equestrian Weapon of Mass Destruction"
  SOL_EQS_WMD_desc:0 "Desperate times require desperate measures. We are on a brink of developing a new weapon, that our scientists say will be much stronger than anything we knew before."
  SOL_Nuclear_Power: "Ядерно-магічна енергія"
- SOL_Nuclear_Power_desc: "Після тривалого вивчення, ми тепер здатні використовувати магію та науку science як одне ціле. Цей прорив дозволить нам виробляти майже безмежні кількості енергії як для цивільного, так для військового застосування." # (&)
+ SOL_Nuclear_Power_desc: "Після тривалого вивчення, ми тепер здатні використовувати магію та науку як одне ціле. Цей прорив дозволить нам виробляти майже безмежні кількості енергії як для цивільного, так для військового застосування." # (&)
  SOL_worrisome_changelings:0 "Changeling Problem"
  SOL_worrisome_changelings_desc:0 "Queen Chrysalis and her army of changelings have been a great worry for a long time now. We must take steps to safeguard ourselves from any potential attack."
  SOL_reinforce_border:0 "Reinforce Northwest"
@@ -550,9 +550,9 @@
 
  EQS_SOL_blaze: "Блейз «Bomber» Файргувз"
  EQS_SOL_thunderlane: "Тандерлейн"
- thunderlane_desc:0 "Thunderlane is a member of the Wonderbolts and a capable and resilient flier. He has a steely focus and never shies away from a challenge. Despite his duties he still doesn't neglect his little brother Rumble."
+ thunderlane_desc: "Тандерлейн — член Диво-блискавок і здібний літун. Він уміє зосереджуватися та ніколи не відмовляється від випробування. Попри свої обов'язки, він не нехтує своїм молодшим братом Рамблом."
  EQS_SOL_wind_rider: "Вінд Райдер"
- wind_rider_desc:0 "Wind Rider is a former Wonderbolt who had several flying records under his name, before Rainbow Dash broke them. He attempted to frame her for a crime she didn't commit in return, but his plot was discovered. He was dishonorably discharged from the Wonderbolts as a result. Nevertheless, he still is a pony of many talents despite his age."
+ wind_rider_desc: "Вінд Райдер — колишній член Диво-блискавок. Він володів кількома льотними рекордами, перш ніж їх побила Рейнбоу Деш. У відповідь він спробував звинуватити її у злочині, який вона не скоювала, але його план було викрито. За це його ганебно виключили з Диво-блискавок. Так чи інакше, цей поні досі має багато талантів, незважаючи на свій вік."
  EQS_SOL_benevelle: "Беневелль"
  EQS_SOL_dottedline: "Доттед Лайн"
  EQS_SOL_scope: "Шедоу Скоуп"
@@ -582,35 +582,36 @@
  SOL_faction: "Гармонійний Пакт"
 
 ### ПОДІЇ ###
- news.sol.1.t:0 "Solar Civil War!"
- news.sol.1.d:0 "[This.GetNewspaperHeader]Today marks a marked turn of events in Equestrian History. On this day, Princess Celestia of the Equestrian Diarchy disbanded the government's bureaucratic institutions, with speed and efficiency. She was then swiftly arranged to be crowned Empress of the new Solar Empire, as Equestria is being renamed as. Reportedly, in response to that, her Sister, Princess Luna, burst into the Coronation with several other officials in rebellion, and attempted to halt the coronation. Time can only tell what shall come of this, as powerful magical blasts fill the Canterlot skyline."
- news.sol.1.d_rep:0 "[This.GetNewspaperHeader]Today marks a marked turn of events in Equestrian History. On this day, Princess Celestia of the Equestrian Diarchy disbanded the government's bureaucratic institutions, with speed and efficiency. She was then swiftly arranged to be crowned Empress of the new Solar Empire, as Equestria is being renamed as. Reportedly, in response to that, a coalition of nobles, republicans and liberals raised their arms in rebellion, and attempted to halt the coronation. Time can only tell what shall come of this, as powerful magical blasts fill the Canterlot skyline."
- news.sol.1.a:0 "We will protect Harmony!"
- news.sol.1.b:0 "This misguided rebellion must be crushed!"
- news.sol.1.c:0 "Interesting."
+ # Новини
+  news.sol.1.t: "Сонячна громадянська війна!"
+  news.sol.1.d: "[This.GetNewspaperHeader]Сьогоднішній день є визначним поворотом в історії Еквестрії. Цього дня, принцеса з еквестрійської диархії Селестія хутко й ефективно розпустила бюрократичні установи уряду. Тоді вона стрімко організувала свою коронацію як Імператриці Сонячної імперії, як надалі буде названо Еквестрію. Стверджують, що у відповідь її сестра, принцеса Луна, зірвала коронацію з іще кількома урядовцями, улаштувавши заколот і спробувавши спинити коронацію. Тільки час покаже, що з цього буде. Потужні магічні удари вже сповнюють небо над Кантерлотом." # (&)
+  news.sol.1.d_rep: "[This.GetNewspaperHeader]Сьогоднішній день є визначним поворотом в історії Еквестрії. Цього дня, принцеса з еквестрійської диархії Селестія хутко й ефективно розпустила бюрократичні установи уряду. Тоді вона стрімко організувала свою коронацію як Імператриці Сонячної імперії, як надалі буде названо Еквестрію. Стверджують, що у відповідь коаліція дворян, республіканців і лібералів улаштувала заколот і спробувала спинити коронацію. Тільки час покаже, що з цього буде. Потужні магічні удари вже сповнюють небо над Кантерлотом." # (&)
+  news.sol.1.a: "Ми захистимо гармонію!"
+  news.sol.1.b: "Цей бунт блазнів мусить бути розбитий!"
+  news.sol.1.c: "Цікаво."
 
- news.sol.2.t:0 "The End of Solar Civil War"
- news.sol.2.d:0 "[This.GetNewspaperHeader]Today, the Imperial Government has unconditionally surrendered to the Equestrian Freedom Revolutionary Movement. Whereabouts of former Empress Daybreaker are currently unknown, though there are rumours of her being shot by firing squad or banished to the Sun. When asked for a comment, Princess Luna refused, stating that she would require some time to grieve, and heal the nation. The Solar Civil War is officially over."
- news.sol.2.a:0 "At least this terrible chapter of our history is over."
- news.sol.2.b:0 "Harmony does not yield, it seems."
+  news.sol.2.t: "Кінець Сонячної громадянської війни"
+  news.sol.2.d: "[This.GetNewspaperHeader]Сьогодні імперський уряд безумовно капітулював перед Революційним рухом за свободу Еквестрії. Місцезнаходження колишньої імператриці Дейбрейкер наразі невідоме — хоча ходять чутки, що з нею розквитався розстрільний загін або її вигнано на Сонце. Коли до неї звернулися за коментарем, принцеса Луна відмовилася відповідати, заявивши, що їй знадобиться час на журбу та зцілення держави. Сонячна громадянська війна офіційно скінчилася." # (&)
+  news.sol.2.a: "Принаймні цей жахливий розділ нашої історії скінчився."
+  news.sol.2.b: "Схоже, що гармонія не здається."
 
- news.sol.3.t:0 "The End of Solar Civil War"
- news.sol.3.d:0 "[This.GetNewspaperHeader]Today, Empress Daybreaker announced that she and her armies have totally and completely eradicated the traitorous elements plaguing the countryside. When asked for a statement, Daybreaker went on to say, "I am disappointed and saddened that my sister and her cronies were unable to see the light of my brilliant day. Thus, I will be taking the rest of the day to mourn, privately, before I return to leading us into a better tomorrow." The Solar Civil War is officially over."
- news.sol.3.a:0 "What a shame we were forced to spill blood."
- news.sol.3.b:0 "Harmony, washed away by tyranny."
+  news.sol.3.t: "$news.sol.2.t$"
+  news.sol.3.d: "[This.GetNewspaperHeader]Сьогодні імператриця Дейбрейкер оголосила, що вона та її армії повністю та безповоротно винищили зрадницькі елементи, що мучили сільську місцевість. Коли ту попросили про твердження, Дейбрейкер відповіла: «Я розчарована та засмучена, що моя сестра та її товариші не змогли побачити світло мого яскравого дня. Таким чином, я візьму решту дня для журби — приватно, — перш ніж повернуся до скерування нас до ліпшого завтра». Сонячна громадянська війна офіційно скінчилася." # (&)
+  news.sol.3.a: "Шкода, що нам довелося проливати кров."
+  news.sol.3.b: "Гармонію змила тиранія."
 
- news.sol.4.t:0 "Daybreaker Ascends"
- news.sol.4.d:0 "[This.GetNewspaperHeader]Today marks a historic day in Equestrian History. Beset on all sides by real and perceived enemies to her country, Princess Celestia - now calling herself Daybreaker Sun, declared Equestria a Solar Empire and quickly and effectively reshuffled the government. Princess Luna herself was recalled from the field, her post given to another competent general, and reportedly left the country. Meanwhile, the new Empress has refocused her efforts on, quote, "Winning the war, at any cost, and keeping my ponies safe from outside harm, from anyone - pony, changeling, griffon, or any other being seeking to destroy Harmony.""
- news.sol.4.d_noluna:0 "[This.GetNewspaperHeader]Today marks a historic day in Equestrian History. Beset on all sides by real and perceived enemies to her country, Princess Celestia - now calling herself Daybreaker Sun, declared Equestria a Solar Empire and quickly and effectively reshuffled the government. The new Empress has refocused her efforts on, quote, "Winning the war, at any cost, and keeping my ponies safe from outside harm, from anyone - pony, changeling, griffon, or any other being seeking to destroy Harmony.""
- news.sol.4.a:0 "Onwards, towards a brighter future!"
- news.sol.4.b:0 "That's new."
- news.sol.4.c:0 "Should we be scared?"
+  news.sol.4.t: "Сходження Дейбрейкер"
+  news.sol.4.d: "[This.GetNewspaperHeader]Сьогодні історичний день у історії Еквестрії. Звідусіль оточена реальними й уявними ворогами своєї країни, принцеса Селестія — нині відома як Дейбрейкер Сан — оголосила Еквестрію Сонячної імперією та швидко й ефективно обернула уряд. Саму принцесу Луну було відкликано з поля бою — її посаду віддали іншому здібному генералові, — і вона покинула країну. Тим часом, нова Імператриця зосередила свої зусилля на, цитата: «Перемогу у війні будь-якою ціною та захисті моїх поні від зовнішніх загроз із боку будь-кого: поні, чейнджлінґів, грифонів чи будь-яких істот, що мають намір знищити гармонію»." # (&)
+  news.sol.4.d_noluna: "[This.GetNewspaperHeader]Сьогодні історичний день у історії Еквестрії. Звідусіль оточена реальними й уявними ворогами своєї країни, принцеса Селестія — нині відома як Дейбрейкер Сан — оголосила Еквестрію Сонячної імперією та швидко й ефективно обернула уряд. Нова Імператриця зосередила свої зусилля на, цитата: «Перемогу у війні будь-якою ціною та захисті моїх поні від зовнішніх загроз із боку будь-кого: поні, чейнджлінґів, грифонів чи будь-яких істот, що мають намір знищити гармонію»." # (&)
+  news.sol.4.a: "Уперед, у світле майбутнє!"
+  news.sol.4.b: "Щось новеньке."
+  news.sol.4.c: "Чи слід нам боятися?"
 
- news.sol.5.t:0 "Second Solar Civil War"
- news.sol.5.t_first:0 "Solar Civil War"
- news.sol.5.d:0 "[This.GetNewspaperHeader]As the new government was busy with other matters, support for a revolution has been quietly growing across Equestria unsuppressed, and today, the rebels made their move. Politicians, activists, disgruntled soldiers and nobles, republicans, socialists - ponies from all walks of life have taken up arms in with a singular aim - overthrowing Daybreaker's regime - and have begun a civil war against the Solar government, proclaiming that they seek 'freedom for themselves and the oppressed ponies of Equestria'. Empress Daybreaker herself has yet to comment on the matter."
- news.sol.5.a:0 "We shall crush those fools!"
- news.sol.5.b:0 "The struggles in Equestria continue."
+  news.sol.5.t: "Друга Сонячна громадянська війна"
+  news.sol.5.t_first: "Сонячна громадянська війна"
+  news.sol.5.d: "[This.GetNewspaperHeader]Оскільки новий уряд був зайнятий іншими справами, підтримка революції тихо й без утиску зростала по Еквестрії, і сьогодні бунтарі зробили свій хід. Політики, активісти, невдоволені солдати та дворяни, республіканці, соціалісти — поні з усіх верств населення взяли до копит зброю з єдиною ціллю: повалення Дейбрейкер, і почали громадянську війну проти сонячного уряду, стверджуючи, що жадають «свободу для себе та пригноблених поні Еквестрії». Імператриця Дейбрейкер іще не прокоментувала цю подію." # (&)
+  news.sol.5.a: "Ми розчавимо цих дурнів!"
+  news.sol.5.b: "Боротьба в Еквестрії триває."
 
  solarempire.1.t:0 "The Sun Shines High"
  solarempire.1.d:0 "After an extensive tour of duty Empress Daybreaker has declared the front stable enough for her to return to the capital to continue the hard work of reorganising the nation and its new territory. As her airship passed over the land many subjects both old and new rushed out to wave hello to their beloved monarch. One mare doing just that had this to say on recent events, 'I'm just happy that the Empress is going to be taking a more personal touch in the government now. With her guiding light I know nothing can go wrong.' Other subjects had similar sentiments."
