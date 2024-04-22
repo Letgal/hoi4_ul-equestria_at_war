@@ -3,7 +3,9 @@
 
 Мод замінює **англійську** та **російську** локалізації. **Українську** буде додано в майбутньому.
 
-**Завершені файли:**
+Локалізація доступна до завантаження в [Майстерні *Steam*](https://steamcommunity.com/workshop/filedetails/?id=3176454246).
+
+## Завершені файли
 + `countries`
 + `countries_griffonia`
 + `countries_zebrica`
@@ -37,12 +39,13 @@
 + `unit_leader_stat_tooltips`
 + `victory_points`
 
-**Файли без змін:**
+### Переписати в майбутньому
++ `country_STG`
+
+## Файли без змін
 + `eaw_intelligence_agency_blocker`
 + `eaw_music`
 + `eaw_newspaper_headers`
 + `eaw_old_music`
 + `eaw_unitnames`
 + `supply_area_names_overrides`
-
-Мод доступний до завантаження в [Майстерні *Steam*](https://steamcommunity.com/workshop/filedetails/?id=3176454246).
