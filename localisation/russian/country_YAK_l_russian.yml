@@ -102,7 +102,7 @@
   YAK_use_karsag_ideas_desc:0 "Наша цивільна промисловість розширюється, доводячи, що прислухатися до профспілкових діячів із Карсакаґу було хорошим рішенням. Хоча ми не повинні дозволяти їм набирати занадто багато влади, треба тримати їх поруч."
 
   YAK_use_baradur_ideas:0 "Завершити відновлення Бара'дура"
-  YAK_use_baradur_ideas_desc:0 "The Veteran's League's proposal to the government hinges on improving our production capabilities. We need more [This.YakOrJakLowercase]s to make guns, so that we are prepared for the next war!" # (!)
+  YAK_use_baradur_ideas_desc:0 "Предложение Лиги ветеранов зависит от улучшения наших производственных возможностей. Нам нужно больше яков, чтобы сделать оружие, чтобы мы были готовы к следующей войне!" # (!)
 
   YAK_aid_shattered_jaki:0 "Допомогти розтрощеному клану"
   YAK_aid_shattered_jaki_desc:0 "Нарешті рожева поні почала відвідувати йаків і пропонує, щоби яки послали старійшин до наших братів. Це ризиковано, але ми можемо довіритися рожевій поні."
@@ -250,7 +250,7 @@
   YAK_approach_stalliongrad_desc:0 "Сталліонградські поні були першим натхненням для товариша-вождя. Яки запропонують поні дружбу. Із силою яка і тим, що використовують поні, яки ЗНИЩАТЬ буржуїв!"
 
   YAK_rejected:0 "Розділення революцій"
-  YAK_rejected_desc:0 "Stalliongrad will not talk to us. But it does not matter. [This.YakOrJakUppercase]s do not care if anyone objects to their Ways! [This.YakOrJakUppercase] ways are for the [This.YakOrJakLowercase]s, and they are always the best ways." # (!)
+  YAK_rejected_desc:0 "Сталлионград не желает разговаривать с нами. Но это не важно. Якам все равно, если кто-то возражает против их пути! Пути яков - для яков, и они всегда самые лучшие." # (!)
 
   YAK_spread_revolution_bears:0 "Північне повстання"
   YAK_spread_revolution_bears_desc:0 "Яки поважають силу і мужність. Ведмеді півночі мають силу й мужність! Яки відправять яків на північ, щоби знайти однодумців і звільнити робітників від їхніх господарів!"
@@ -296,7 +296,7 @@
   YAK_more_trains_desc:0 "Кого хвилює, чи прибувають вони вчасно? Якам просто треба більше потягів. Набагато більше, ніж зараз. Якщо трохи скосити очі, потяг виглядає як як, що біжить в атаку."
 
   YAK_military_is_essential:0 "Основа армії"
-  YAK_military_is_essential_desc:0 "Complacent [This.YakOrJakLowercase]s are Dead [This.YakOrJakLowercase]s! We cannot be like Prince Whoever-He-Was. Only strength of arms can make our empire great again." # (!)
+  YAK_military_is_essential_desc:0 "Самодовольные яки - мёртвые яки! Мы не можем быть как принц Как-его-там. Только сила оружия может снова сделать нашу империю великой." # (!)
 
   YAK_more_jobs_for_yaks:0 "Знайди роботу!"
   YAK_more_jobs_for_yaks_desc:0 "До того, як яки захопили владу, у кланах було багато яків без роботи. Але тепер, коли ми знову сильні, давайте змусимо яків працювати на славу Як'якистану.\n~друже, раджу тобі теж знайти роботу роби будь що, але кидай гойку~"
@@ -360,7 +360,7 @@
 
  # Таємний шлях жуків-яків
   YAK_changeling_infitration:0 "Цілком нормальний день"
-  YAK_changeling_infitration_desc:0 "You see something out of the corner of your eye, but dismiss it. Just nerves. These are interesting times, after all! The feeling of being followed is just some silly passing fancy... Right?" # (!)
+  YAK_changeling_infitration_desc:0 "Ты видишь что-то уголком глаза, но отмахиваешься от этого. Просто нервы. В конце концов, мы живём интересные времена! Чувство, что за тобой следят - просто игры глупого воображения... Верно?" # (!)
 
   YAK_changeling_colonization:0 "Перші кроки"
   YAK_changeling_colonization_desc:0 "Абсолютно несподівано Як'якистан вирішив зблизитися з Кризаліс і подав прохання про те, щоби стати незалежною державою в Гегемонії Чейнджлінґів! Еквестрія занепокоєна, всі в сум'ятті."
@@ -442,7 +442,7 @@
   YAK_increase_school_funding_desc:0 "Яки за природою є консервативним народом, яки пишаються способом життя яків... але якам слід запросити поні для навчання нас технологій поні."
 
   YAK_educated_society:0 "Великі вчення"
-  YAK_educated_society_desc:0 "The collected teachings of one of our greatest sages has been recovered in full and at last translated. Let us make the [This.YakOrJakUppercase] Way work for the [This.YakOrJakUppercase]s." # (!)
+  YAK_educated_society_desc:0 "Учения одного из наших величайших мудрецов были восстановлены полностью и почти полностью переведены на современный язык. Давайте заставим путь яков работать на нас." # (!)
 
   YAK_modern_factories:0 "Оновлення майстерні"
   YAK_modern_factories_desc:0 "Шлях яків — це дещо більше за банальне НИЩИТИ все та всіх. Традиції важливі для доброго яка. Але яки можуть бути добрими, традиційними яками зі справжніми фабриками й дорогами."
@@ -540,7 +540,7 @@
   YAK_new_fighters_desc:0 "Подібно до старих яків зі списами, нові яки — це солдати, які б'ються в хмарах."
 
   YAK_new_bombers:0 "Розколоті хмари"
-  YAK_new_bombers_desc:0 "Our bombers will split the sky with new destructive suns! We will SMASH them from the heavens!" # (!)
+  YAK_new_bombers_desc:0 "Наши бомбардировщики расколотят небо новыми разрушительными солнцами! Мы СОКРУШИМ врагов с небес!" # (!)
 
   YAK_new_air_fields:0 "ЯКИ піднімаються до сонця"
   YAK_new_air_fields_desc:0 "Аеродроми допоможуть якам прокласти шлях у небо!"
@@ -552,7 +552,7 @@
   YAK_bomber_doctrine_desc:0 "Високо над землею бомбардувальники яків нагадують, що не слід було будити гнів яків. Бомби — лише початок."
 
   YAK_cas_research:0 "Навздогін за виючим вітром"
-  YAK_cas_research_desc:0 "After the bombing and the shelling comes screaming air support, like harrying lancers of ages long gone." # (!)
+  YAK_cas_research_desc:0 "После бомбежек и обстрелов прилетает визжащая и воющая поддержка с воздуха для наших войск." # (!)
 
   YAK_radar_f:0 "Високо сиджу, далеко гляджу"
   YAK_radar_f_desc:0 "Мудрий як бачить своїми очима, але в повітрі сонце засліплює яків. Спочатку яки використовують радар, а потім і самі очі."
@@ -664,7 +664,7 @@
  yakistan.22.a:0 "Звідки почнеться відродження імперії?"
 
  yakistan.23.t:0 "Цілком нормальний день"
- yakistan.23.d:0 "It was a normal day. Khan Koletiv reviewed reports from his general staff on the state of the army, and was pleased. Things were going well. Only the night before, he discussed in detail the logistics of invading the changelings to the west. His generals were split on the matter, but all agreed that sound plans would be required.\n\nHe took breakfast as he always did without anyone present, and so was surprised when a young officer entered. But he was loathe to treat any military yak poorly! He hailed the officer. 'What is your business here? I take my meals alone, young yak.'\n\n'I'm sorry to bother you, sir,' said the stranger. 'It's just that I have an urgent dispatch. May I approach?'\n\nUrgent? His brow furrowed. If it was worth disturbing him... 'Yes. Come closer.'\n\nThe young officer approached, and reached into the pack at his side. The Khan began to rise...\n\nAnd then it was just a normal day. The Khan ate alone, as he always did, and no one disturbed him. He went about his normal routine, and no one was any bit the wiser. Except, of course, for a keen young officer helping some orderlies carry a large package away." # (!)
+ yakistan.23.d:0 "Это был нормальный день. Хан Колетив просмотрел отчеты своего генерального штаба о состоянии армии и был доволен. Все шло хорошо. Только прошлой ночью он подробно обсудил логистику при вторжении к чейнджлингам на западе. Мнения его генералов разделились по этому вопросу, но все согласились с тем, что потребуются разумные планы.\n\nОн завтракал, как и всегда, один, и поэтому был удивлен, когда вошел молодой офицер. Но он не хотел плохо относиться к якам-военным из своей армии, поэтому спокойно поприветствовал офицера. 'Что тебе здесь надо? Я ем один, молодой як.'\n\n'Извините, что беспокою вас, сэр,' сказал незнакомец. 'Просто у меня срочное донесение. Можно подойти?'\n\nСрочное? Он нахмурился. Да, это стоило беспокойства... 'Да. Подойди ближе.'\n\nМолодой офицер подошел и полез в сумку на боку. Хан начал вставать...\n\nИ далее это был просто обычный день. Хан ел один, как и всегда, и никто его не беспокоил. Он выполнял свои обычные рутинные дела, и ничего неожиданного не происходило. За исключением, конечно же, молодого офицера, который помог некоторым ординарцам унести большой тюк." # (!)
  yakistan.23.a:0 "Операція «Занаду» починається."
 
  yakistan.24.t:0 "Ніжний шепіт"
@@ -827,8 +827,8 @@
  YAK_hive_tt:0 "Яки зможуть засновувати нові §Gвулики§!.\n"
  YAK_changeling_military_tt:0 "Яки розблокують §Gнове військове командування§!.\n"
  YAK_bug_jagers_tt:0 "Чотири §Gдивізії єгерів§! приєднаються до яків.\n"
- YAK_true_bugs_tt:0 "We will become a §YChangeling§! nation.\nNew §Gracial technologies§! will be unlocked.\n" # (!)
- YAK_mountain_knowledge_tt:0 "Our combat abilities in §Ymountainous terrain§! will be further improved.\n" # (!)
+ YAK_true_bugs_tt:0 "Мы станем нацией §Gчейнджлингов§!.\nНовые §Gрасовые технологии§! станут доступными.\n" # (!)
+ YAK_mountain_knowledge_tt:0 "Наши способности вести бой в §Yгорной местности§! улучшатся ещё больше.\n" # (!)
  YAK_prepare_the_elites_tt:0 "П'ять §Yелітних дивізій§! приєднаються до вас.\n"
 
 ### ІМПЕРІЯ ЯКІВ ###
