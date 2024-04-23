@@ -13,6 +13,7 @@
 + `country_EQS`
 + `country_MTA` (умовно)
 + `country_NTR`
++ `eaw_achievements`
 + `eaw_adjacency_rules`
 + `eaw_autonomy`
 + `eaw_bookmarks_overrides`
