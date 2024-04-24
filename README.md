@@ -11,8 +11,12 @@
 + `countries_zebrica`
 + `country_DRG`
 + `country_EQS`
++ `country_JEB`
++ `country_JFT`
++ `country_JRR`
 + `country_MTA` (умовно)
 + `country_NTR`
++ `country_VIN`
 + `country_YAK`
 + `eaw_achievements`
 + `eaw_adjacency_rules`

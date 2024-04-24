@@ -3211,6 +3211,75 @@
   JER_pan_griffonian_fascism_party_name: "ГНА"
   JER_pan_griffonian_fascism_party_name_long: "Грифонська націоналістична асоціація"
 
+ ### ПЕРСОНАЖІ ###
+  JER_char_moriset: "Король Морісет Дискрет"
+  JER_char_vivienne: "Вів'єн Дискрет" # Вів'єнна
+  JER_char_rodier: "Леонар Родьє"
+  JER_char_verany: "Теодор Верані"
+  JER_char_cru: "Ґран Крю"
+  JER_char_gaudreau: "Сесіль Ґодро" # Сесілія
+  JER_char_crepe: "Шуґар Креп"
+  JER_char_thibault: "Тібо Деверьо" # EU
+  JER_char_allard: "Віктор Аллар"
+  JER_char_assemblee: "Народні збори"
+  JER_char_berthelot: "Альбер Бертело"
+  JER_char_greifenwaldstrawberry: "Шарль-Ґійом-Фердінан де Ґрайвальд-Полуниця"
+  JER_char_simon: "Сімон Ґільбер"
+  JER_char_artigue: "Женев'єва Артіґ"
+  JER_char_foulque: "Фульк Катліно" # Катлено?
+  JER_char_duval: "Ґабріель Дюваль"
+  JER_char_dutertre: "Сесілія Дютертр"
+  JER_char_sophie: "Софі Альтьєр" # Альтьє?
+  JER_char_brochard: "Ліонелла Брошар"
+  JER_char_shako: "Сева Шако"
+  JER_char_eagleheart: "Іґлгарт"
+  JER_char_fierte: "Жозетта Ф'єрте"
+  JER_char_cyril: "Сіріль Дюран"
+  JER_char_remi: "Ремі Руссло"
+  JER_char_morning: "Морнинґ Стар"
+  JER_char_felix: "Фелікс Мюра"
+  JER_char_moreau: "Віктор Моро"
+  JER_char_lafitte: "Жан Лафітт"
+  JER_char_voss: "Восс Корсер"
+  JER_char_claire: "Клер Лаколон"
+  JER_char_krayt: "Крайт де Беланже"
+  JER_char_bargette: "Жан Шевальє Баржетт"
+  JER_char_gilbert: "Ґлібер Ла Фоветт"
+  JER_char_fier: "Ф'є Шукетт"
+  JER_char_soleil: "Солей Муншедоу"
+  JER_char_louis: "Луї Дебуа"
+  JER_char_himir: "Шімера Онкрена"
+  JER_gunnar_sable: "Ґуннар Сабель-Карлссон"
+  #JER_gunnar_sable_desc:0 "§YBorn:§! Feb 3rd, 981\n\n§YBiography:§! Born in a small village just outside the city of Veteborg, he spent most of his childhood exploring the forests of northern Vedina. He and his family would immigrate to Aquileia in 1000 where Gunnar would soon join the army.\n\n§YPortrait by:§! NotoriousNostalgia"
+
+  # Маріонеткові держави
+  # Революціонери Ріли; отримані з aquileia.10
+  JEB_boreas_babeuf: "Бореас Бабьоф" # EU
+  JEB_annejosephine_de_mericourt: "Анна-Жозефіна де Мерікур"
+  JEB_aquilin_dumouriez: "Акілен Дюмур'є"
+  JEB_gerard_simon_de_berger: "Жерар Сімон де Берже"
+
+  # Революціонери Уесткіпу; отримані з aquileia.12
+  JRR_christian_moineau: "Бастьєн Муано"
+  JRR_claude_bouvreuil: "Клод Буврьой" # EU
+  JRR_gilberte_bergeronnerette: "Жільбер Бержероннеретт"
+  JRR_hercules_loiseau: "Еркюль Луазо"
+  JRR_yves_goeland: "Ів Ґолан" # Ґьолан?
+
+  # Революціонери Виновії; отримані з aquileia.14
+  VIN_jeanbaptiste_jules_gelinottedesbois: "Жан-Батіст Жюль Желінотт-де-Буа" # Желенотт?
+  VIN_louismarc_de_la_caille: "Луї-Марк де да Кай"
+  VIN_guillaume_boucarle: "Ґійом Букарль"
+  VIN_isabelle_de_piegrieche: "Ізабель де П'є-Ґріеш"
+  VIN_antoine_bouchard_de_puymoineau: "Антуан Бушар де Пюїмуано"
+
+  # Революціонери Прідеї; отримані з aquileia.45
+  JFT_guillaume_marronne: "Ґійом Марронн"
+  JFT_pain_leve: "Пен Леве"
+  JFT_anne_dieuxleveulent: "Анн Дьє-де-Вьолан" # EU (Dieux, Veulent)
+  JFT_berty_albatros: "Берті Альбатрос"
+  JFT_vin_gai: "Він Ґай"
+
 # country_JER_assembly
  JHZ_fascism: "Герцландська республіка"
  JHZ_fascism_DEF: "Герцландська республіка"
