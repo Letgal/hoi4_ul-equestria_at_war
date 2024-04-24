@@ -19,6 +19,7 @@
 + `eaw_autonomy`
 + `eaw_bookmarks_overrides`
 + `eaw_bop`
++ `eaw_decisions`
 + `eaw_difficulty`
 + `eaw_diplo_popup`
 + `eaw_focus`
