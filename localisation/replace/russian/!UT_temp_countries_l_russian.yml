@@ -1682,10 +1682,16 @@
  EQS_POE: "Еквестрійське княгинство"
  EQS_POE_DEF: "Еквестрійське княгинство"
  EQS_POE_ADJ: "Еквестрійськ"
+ EQS_POE_communism: "Чорна армія Півдня"
+ EQS_POE_communism_DEF: "Чорна армія Півдня"
+ EQS_POE_communism_ADJ: "Еквестрійськ"
 
- EQS_ERE: "Еквіністська республіка Еквестрія"
- EQS_ERE_DEF: "Еквіністська республіка Еквестрія"
+ EQS_ERE: "Республіка Еквестрія"
+ EQS_ERE_DEF: "Республіка Еквестрія"
  EQS_ERE_ADJ: "Еквестрійськ"
+ EQS_ERE_communism: "Еквіністська республіка Еквестрія"
+ EQS_ERE_communism_DEF: "Еквіністська республіка Еквестрія"
+ EQS_ERE_communism_ADJ: "Еквестрійськ"
 
 # country_FAL
  FAL_Falcoria_fascism: "Імперо ді Фалькорія"
@@ -2740,8 +2746,8 @@
  JER_HEL_ANARCHY_communism_DEF: "Аквелійська вільна територія"
  JER_HEL_ANARCHY_communism_ADJ: "Аквелійськ"
 
- JER_HEL_PRELATURE_neutrality: "Аквелійська вища прелатура"
- JER_HEL_PRELATURE_neutrality_DEF: "Аквелійська вища прелатура"
+ JER_HEL_PRELATURE_neutrality: "Священна асамблея Аквелії"
+ JER_HEL_PRELATURE_neutrality_DEF: "Священна асамблея Аквелії"
  JER_HEL_PRELATURE_neutrality_ADJ: "Аквелійськ"
 
  JER_HEL_REPUBLIC_neutrality: "Третя Аквелійська республіка"
