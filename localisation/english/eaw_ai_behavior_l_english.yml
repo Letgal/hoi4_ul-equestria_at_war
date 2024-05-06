@@ -215,7 +215,7 @@
   RULE_OPTION_MNC_DEMOCRATIC:0 "Harmonist - The Federation"
   RULE_OPTION_DEMOCRATIC_MNC_AI_DESC:0 "The republicans will bring peace and democracy to Brantbeak and will eventually hold a referendum about joining with the Griffonian Republic."
 
- JER_AI_BEHAVIOR: "@JER Аквелія"
+ JER_AI_BEHAVIOR: "@JER Аквілея"
   RULE_OPTION_JER_MONARCHIST_P:0 "Non-Aligned - The King's Country"
   RULE_OPTION_JER_MONARCHIST_P_AI_DESC:0 "King Moriset Discret will secure his hold on Aquileia and attempt to crush the Revolutionaries."
   RULE_OPTION_JER_CRU_P:0 "Communist - The Shining Star of Socialism"

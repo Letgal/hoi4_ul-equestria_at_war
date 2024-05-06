@@ -1,6 +1,6 @@
 ﻿l_english:
 ### Tooltips ###
- form_country_aquileia_coring_states_tt: "Усі §Yаквелійські§! землі стануть осердними.\n" # CORE
+ form_country_aquileia_coring_states_tt: "Усі §Yаквілейські§! землі стануть осердними.\n" # CORE
  form_country_pridea_coring_states_tt: "Усі §Yпрідейські§! землі стануть осердними.\n" # CORE
  form_country_rila_coring_states_tt: "Усі §Yрільські§! землі стануть осердними.\n" # CORE
  form_country_vinovia_coring_states_tt: "Усі §Yвиновійські§! землі стануть осердними.\n" # CORE
@@ -27,9 +27,9 @@
  Zaikiria_formed:0 "Zaikiria has been Unified"
 
 ### Decisions ###
- form_aquileia_category: "Нова епоха для Аквелії"
+ form_aquileia_category: "Нова епоха для Аквілеї"
  form_aquileia_category_desc:0 "With both the Discret dynasty and the Republican revolutionaries crushed or driven into exile, the former lands of Aquileia lack a strong leading figure. [Root.GetLeader] has been the driving force in vanquishing them, and time will tell if they'll repeat the steps of Grover II or be a more benevolent overlord."
- form_aquileia: "Відновити Аквелію"
+ form_aquileia: "Відновити Аквілею"
 
  form_hindia: "Об'єднана Гіндія"
  form_hindia_desc:0 "Finally, the dream of a united Hindia has been accomplished, as the deer of Eastern Zebrica have finally been united under a leader worthy of the title of ruler of all Hindia. Now that we have united the region under our control, it is imperative that our nation claim legitimacy over all free deer in Zebrica, so that we can be known as a true great power on the continent."

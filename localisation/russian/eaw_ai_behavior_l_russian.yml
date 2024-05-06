@@ -215,7 +215,7 @@
   RULE_OPTION_MNC_DEMOCRATIC:0 "Гармония - Федерация"
   RULE_OPTION_DEMOCRATIC_MNC_AI_DESC:0 "Республиканцы принесут мир и демократию в Брэнтбик и проведут референдум о присоединении к Республике Грифонов."
 
- JER_AI_BEHAVIOR: "@JER Аквелія"
+ JER_AI_BEHAVIOR: "@JER Аквілея"
   RULE_OPTION_JER_MONARCHIST_P:0 "Нейтралитет - Страна Короля"
   RULE_OPTION_JER_MONARCHIST_P_AI_DESC:0 "Король Морисет Дискрет сохранит свою власть над Аквелией и попытается сокрушить революционеров."
   RULE_OPTION_JER_CRU_P:0 "Коммунизм - Сияющая звезда социализма"
