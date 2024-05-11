@@ -21,23 +21,18 @@
 + `eaw_achievements`
 + `eaw_adjacency_rules`
 + `eaw_autonomy`
-+ `eaw_bookmarks_overrides`
 + `eaw_bop`
 + `eaw_decisions`
 + `eaw_difficulty`
 + `eaw_diplo_popup`
 + `eaw_focus`
 + `eaw_focus_filter_tag`
-+ `eaw_flags_and_opinion_overrides`
-+ `eaw_GFF_equipment`
 + `eaw_horse_techs`
 + `eaw_musictoggle`
 + `eaw_pony_techs`
 + `eaw_production`
 + `eaw_starting_warning_events`
-+ `focus_filter_tag_overrides`
 + `loading_tips`
-+ `province_names_overrides`
 + `recall_volunteers`
 + `renamed_states`
 + `southern_zebra_ideas`
@@ -45,6 +40,13 @@
 + `strategic_region_names`
 + `unit_leader_stat_tooltips`
 + `victory_points`
+
+### Тека `replace`
++ `eaw_bookmarks_overrides`
++ `eaw_flags_and_opinion_overrides`
++ `eaw_lar_operations_overrides`
++ `focus_filter_tag_overrides`
++ `province_names_overrides`
 
 ### Переписати в майбутньому
 + `country_STG`
