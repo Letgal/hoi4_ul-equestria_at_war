@@ -11,13 +11,15 @@
 + `countries_zebrica`
 + `country_DRG`
 + `country_EQS`
++ `country_GRF` (переклав [*StasJesus*](https://steamcommunity.com/profiles/76561198867405533))
 + `country_JEB`
 + `country_JFT`
 + `country_JRR`
 + `country_MTA` (умовно)
 + `country_NTR`
++ `country_STG`
 + `country_VIN`
-+ `country_YAK`
++ `country_YAK` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
 + `eaw_achievements`
 + `eaw_adjacency_rules`
 + `eaw_autonomy`
