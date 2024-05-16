@@ -5188,27 +5188,6 @@
  BRZ_PLB_occupation_DEF: "Айсгілл"
  BRZ_PLB_occupation_ADJ: "Айсгілльськ"
 
-# country_PNG
- PNG_EMP_fascism: "Арктична імперія"
- PNG_EMP_fascism_DEF: "Арктична імперія"
- PNG_EMP_fascism_ADJ: "Арктичн"
-
- PNG_republic_democratic: "Республіка Пінґленд"
- PNG_republic_democratic_DEF: "Республіка Пінґленд"
- PNG_republic_democratic_ADJ: "Пінгвіняч"
-
- PNG_king_lolo: "Король Лоло"
- PNG_king_orvar_njordin: "Король Орвар Нйордін"
- PNG_emperor_orvar_njordin: "Emperor Орвар Нйордін"
- PNG_king_hindrik_aberg: "Король Гіндрік Аберґ"
- PNG_theo_malmkvist: "Тео Мальмквіст"
- PNG_ragnel_dahlin: "Раґнель Далін"
-
- PNG_skipper: "Шкіпер"
- PNG_kowalski: "Ковальський"
- PNG_rico: "Ріко"
- PNG_private: "Рядовий"
-
 # country_PYT
  PYT_SSR_fascism: "Ґрайфенмаршен"
  PYT_SSR_fascism_DEF: "Ґрайфенмаршен"
