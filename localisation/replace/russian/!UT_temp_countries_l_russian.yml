@@ -1263,20 +1263,20 @@
 
  CYA_equality_communism: "Рівна Ціанолізія"
  CYA_equality_communism_DEF: "Рівна Ціанолізія"
- CYA_equality_communism_ADJ: "Ціанолізіанськ"
+ CYA_equality_communism_ADJ: "Ціанолізьк"
 
  CYA_southcities_neutrality: "Фрайштаат Ціанолізія"
  CYA_southcities_neutrality_DEF: "Вільна держава Ціанолізія"
- CYA_southcities_neutrality_ADJ: "Ціанолізіанськ"
+ CYA_southcities_neutrality_ADJ: "Ціанолізьк"
  CYA_southcities_democratic: "Фрайштаат Ціанолізія"
  CYA_southcities_democratic_DEF: "Вільна держава Ціанолізія"
- CYA_southcities_democratic_ADJ: "Ціанолізіанськ"
+ CYA_southcities_democratic_ADJ: "Ціанолізьк"
  CYA_southcities_communism: "Фолькштаат Ціанолізія"
  CYA_southcities_communism_DEF: "Народна держава Ціанолізія"
- CYA_southcities_communism_ADJ: "Ціанолізіанськ"
+ CYA_southcities_communism_ADJ: "Ціанолізьк"
  CYA_southcities_fascism: "Фрайштаат Ціанолізія"
  CYA_southcities_fascism_DEF: "Вільна держава Ціанолізія"
- CYA_southcities_fascism_ADJ: "Ціанолізіанськ"
+ CYA_southcities_fascism_ADJ: "Ціанолізьк"
 
  CYA_citystate_neutrality: "Фрайштаат Ной-Фіміав"
  CYA_citystate_neutrality_DEF: "Вільна держава Новий Фіміав"
@@ -1290,6 +1290,27 @@
  CYA_citystate_fascism: "Фрайштаат Ной-Фіміав"
  CYA_citystate_fascism_DEF: "Вільна держава Новий Фіміав"
  CYA_citystate_fascism_ADJ: "Фіміавськ"
+
+ ### ПЕРЕМОЖНІ БАЛИ ###
+  CYA_vp_kustendschugel: "Кюстенджунґель"
+  CYA_vp_loewenfeld: "Льовенфельд" # Ø
+  CYA_vp_loeweninsel: "Льовенінзель" # Ø
+  CYA_vp_sankt_eyrsbruck: "Санкт-Ейрсбрюк"
+  CYA_vp_grafinbuhl: "Ґрефінбюль"
+  CYA_vp_neu_thymiau: "Ной-Фіміав"
+  CYA_vp_adlerfelsen: "Адлерфельзен"
+  CYA_vp_taillowhafen: "Тейллоугафен"
+  CYA_vp_letztlicht: "Лецтліхт"
+  CYA_vp_rinderholm: "Ріндергольм"
+  CYA_vp_griffinsel: "Ґриффінзель"
+  CYA_vp_stierkopf: "Штіркопф"
+  CYA_vp_greifendorf: "Ґрайфендорф"
+  CYA_vp_frachau: "Драхау"
+  CYA_state_ostkuste: "Осткюсте"
+  CYA_state_hohehalle: "Гьогегалле" # Ø
+  CYA_state_livani: "Лівані"
+  CYA_state_schneespitzen: "Шнеешпіцен"
+  CYA_state_greifland: "Ґрайфланд"
 
 # country_DED
  ### ПЕРСОНАЖІ ###
