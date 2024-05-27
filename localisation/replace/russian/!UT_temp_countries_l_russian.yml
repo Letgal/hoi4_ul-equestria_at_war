@@ -5551,40 +5551,6 @@
  STG_rename_Severokholm_to_Altytown: "Перейменувати Сєвєрохолм у Альтідійськ"
  STG_vp_altytown: "Альтідійськ"
 
-# country_STL
- STL_MY_communism: "Містечко"
- STL_MY_communism_DEF: "Містечко"
- STL_MY_communism_ADJ: "Міськ"
-
- STG_MY_communism: "Наша Сєвєрянська республіка"
- STG_MY_communism_DEF: "Наша Сєвєрянська республіка"
- STG_MY_communism_ADJ: "Рівно-сєвєрянськ"
-
- STG_OUR_communism: "Наш Сталліонград"
- STG_OUR_communism_DEF: "Наш Сталліонград"
- STG_OUR_communism_ADJ: "Рівно-сталліонградськ"
-
- EQS_OUR_communism: "Наша Еквестрія"
- EQS_OUR_communism_DEF: "Наша Еквестрія"
- EQS_OUR_communism_ADJ: "Рівно-еквестрійськ"
-
- STL_STG_neutrality_party: "$STG_neutrality_party$"
- STL_STG_neutrality_party_long: "$STG_neutrality_party_long$"
- STL_STG_communism_party: "СЕП"
- STL_STG_communism_party_long: "Сталліонградська еквалістська партія"
- STL_STG_democratic_party: "ДЕПНС"
- STL_STG_democratic_party_long: "Демократично-еквалістська партія Нашого Сталліонграду"
- STL_STG_fascism_party: "$STG_fascism_party$"
-
- STL_feather_bangs: "Фезер Бенґс"
- STL_double_diamond: "Дабл Даймонд"
- STL_evening_cloud: "Івнинґ Клауд"
- STL_spymaster_trochanter: "Таємний радник Трохантер"
-
- STL_grey_bread: "Ґрей Бред"
- STL_liquid_miracle: "Ліквід Міракл"
- STL_magic_fly: "Меджик Флай"
-
 # country_Storm
  form_storm_kingdom: "Наступник Короля Шторма"
  form_storm_kingdom_desc: ""
