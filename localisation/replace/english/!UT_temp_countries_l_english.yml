@@ -6064,6 +6064,21 @@
   WAR_benoam_zaadeh: "Бенноам Шімзел"
   WAR_itthozamal_ankeper: "Іттозамал Анкепер"
 
+ ### ПАРТІЇ ###
+  WAR_fascism_party: "ХСНП"
+  WAR_fascism_party_long: "Хазруменська соціал-націоналістична партія"
+  WAR_neutrality_party: "КАО"
+  WAR_neutrality_party_long: "Коаліція антимонархічних організацій"
+  WAR_neutrality_fractured_party: "LFW"
+  WAR_neutrality_fractured_party_long: "League for a Free Warzena"
+  WAR_democratic_party: "Династія ґав Залмем"
+  WAR_communism_party: "ВКП"
+  WAR_communism_party_long: "Варзенська комуністична партія"
+  WAR_neutrality_party_HIP: "Аріська адміністрація"
+  WAR_neutrality_party_HIP_long: "Аріська адміністрація"
+  WAR_fascism_HIP_party: "Національний фронт"
+  WAR_fascism_HIP_party_long: "Арісько-варзенський фронт національного відродження"
+
 # country_WAT
  WAT_gandalf_the_grey: "Ґендальф Сірий"
 
@@ -6676,7 +6691,7 @@
   ZAR_regency_council_name: "Племінна рада"
 
  ZAR_worm_coring_name_18570: "Руїни Нового Аякачтлі"
- ZAR_worm_coring_name_18580: "Руїни Замивґазалу"
+ ZAR_worm_coring_name_18580: "Руїни Замівґазалу"
  ZAR_worm_coring_name_18681: "Руїни Айн-Тротґуре"
  ZAR_worm_coring_name_18351: "Руїни Кольтфагену"
  ZAR_worm_coring_name_18416: "Руїни Гіппону"
