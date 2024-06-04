@@ -17,7 +17,9 @@
 + `country_JRR`
 + `country_MTA` (умовно)
 + `country_NTR`
++ `country_OLE`<!--  (переклав *Max*) -->
 + `country_STG`
++ `country_STL`<!--  (переклав *Max*) -->
 + `country_VIN`
 + `country_YAK` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
 + `eaw_achievements`

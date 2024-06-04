@@ -4849,58 +4849,6 @@
  NMS_army_government_t_communism_DEF: "Південно-Східна Місячна Соціалістична Республіка"
  NMS_army_government_t_communism_ADJ: "Південно-східн"
 
-# country_OLE
- OLE_reinstate_the_allsherjargothi_idea: "Аллсгер'ярґоді"
- OLE_johan_idea: "Король Юган «Дьєвулен»"
- OLE_johan_handled_idea: "$OLE_johan_idea$"
-
- OLE_waiting_on_johan: "§YКороль Юган§! іще не відповів"
- OLE_civil_war_avoided: "Громадянської війни уникнуто"
- OLE_EQS_coup: "§Y$EQS_democratic$§! влаштувала переворот"
-
- OLE_agree_peace_puppet: "§Y$OLE_neutrality$§! стало маріонеткою"
- OLE_agree_peace_annex: "§Y$OLE_neutrality$§! було анексоване"
-
- OLE_end_civil_war: "Кінець громадянської війни"
-
- OLE_Johan_Pretender_tp: "Претенденти роду Єлзек"
- OLE_True_Queen_tp: "Дім Єлзек"
-
- OLE_Situation_Stable_tp: "§CОленія буде стабілізована.§!\n"
- OLE_johan_exiled_tp: "§YКороль Юган «Дьєвулен» буде засланий.§!\n"
- OLE_johan_dungeon_tp: "§YКороль Юган «Дьєвулен» буде заарештований.§!\n"
-
- civilian_industry_organizer: "Організатор цивільної промисловості"
- pop_singer: "Популярний співак"
- minister_of_agriculture: "Міністр сільгоспу"
- silent_workdeer: "Робочий олень"
- olenian_seer: "Провидець"
-
- OLE_king_johan_djavulen: "Король Юган «Дьєвулен» Єлзек"
- OLE_allsherjargothi_jurva: "Аллсгер'ярґоді Юрва"
- OLE_queen_velvet: "Королева Вельвет"
- OLE_kullervo_sirola: "Куллерво Сірола"
- OLE_haakon_lurswig: "Гокун Лурсвіґ"
- OLE_ansa_sito: "Анса Сіто"
- OLE_alvari_pirhonen: "Алварі Піргонен"
- OLE_einair_kainen: "Ейнайр Канен"
- OLE_eilert: "Ейлерт"
- OLE_rikka_kaalinpaa: "Рікка Каалінпяа"
- OLE_ilma_anjanen: "Ілма Ан'янен"
- OLE_fredrik_haataja: "Фредрік Гаатая"
- OLE_Vidkun_Hjortsling: "Відкун Йортслінґ"
- OLE_prinve_djavulen: "Принц Матіас Єлзек"
-
- ### ДОДАТКОВА ЛОКАЛІЗАЦІЯ (використовується лиш в одній події) ###
-  OLE_velvet_name_dative: "Вельвет"
-  OLE_king_name_dative: "Югану"
-  OLE_priest_name_dative: "Юрві"
-  OLE_communist_name_dative: "Куллерво Сіролі"
-  OLE_Queen: "королеві"
-  OLE_King: "королю"
-  OLE_Priest: "алсгер'ярґоді"
-  OLE_Communist: "лідеру"
-
 # country_OLV
  OLV_kingdom_fascism: "Рейтндіраланд"
  OLV_kingdom_fascism_DEF: "Рейтндіраланд"
