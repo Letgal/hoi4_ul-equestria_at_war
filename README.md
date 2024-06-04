@@ -12,12 +12,15 @@
 + `country_DRG`
 + `country_EQS`
 + `country_GRF` (переклав [*StasJesus*](https://steamcommunity.com/profiles/76561198867405533))
++ `country_ERI`
++ `country_EYR`
 + `country_JEB`
 + `country_JFT`
 + `country_JRR`
 + `country_MTA` (умовно)
 + `country_NTR`
 + `country_OLE`<!--  (переклав *Max*) -->
++ `country_POM`
 + `country_STG`
 + `country_STL`<!--  (переклав *Max*) -->
 + `country_VIN`
