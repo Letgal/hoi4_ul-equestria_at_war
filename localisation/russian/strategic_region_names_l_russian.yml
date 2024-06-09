@@ -76,7 +76,7 @@
  STRATEGICREGION_75: "Сонячна рівнина"
  STRATEGICREGION_76: "Віннісота"
  STRATEGICREGION_77: "Море Сонячного Світла"
- STRATEGICREGION_78: "Крижане море"
+ STRATEGICREGION_78: "Льодове море" # Крижане
  STRATEGICREGION_79: "Дельта Медоносної"
  STRATEGICREGION_80: "Китове море"
  STRATEGICREGION_81: "Лазурні глибини"
@@ -204,7 +204,7 @@
  STRATEGICREGION_203: "Кліфсайд"
  STRATEGICREGION_204: "Річкові долини"
  STRATEGICREGION_205: "Зондерзуне"
- STRATEGICREGION_206: "Крижане тавро"
+ STRATEGICREGION_206: "Льодове тавро"
  STRATEGICREGION_207: "Бакара"
  STRATEGICREGION_208: "Вогняна Лапа"
  STRATEGICREGION_209: "Федрейндж"
@@ -219,7 +219,7 @@
  STRATEGICREGION_218: "Берег Відкриттів"
  STRATEGICREGION_219: "Панталасський океан"
  STRATEGICREGION_220: "Мертве море"
- STRATEGICREGION_221: "Крижані води"
+ STRATEGICREGION_221: "Льодові води" # Крижані
  STRATEGICREGION_222: "Ґрифуське море"
  STRATEGICREGION_223: "Панталасський океан"
  STRATEGICREGION_224: "Панталасський океан"

@@ -5548,29 +5548,6 @@
  SRS_FAT_republic_of_cloudsbury_communism_DEF: "Соціалістична республіка Клаудбері"
  SRS_FAT_republic_of_cloudsbury_communism_ADJ: "Клаудберійськ"
 
-# country_STG
- sinnie: "Сіністер Сєров"
- vasya: "Василій Пшеницин"
- dank_wing: "Дарк Вінґ"
-
- vasya_coup: "Переворот Василія"
- sinister_coup: "Переворот Сіністера"
- nestor_coup: "Переворот Нестора"
-
- STG_tsar_peter_iv: "Цар Пьотр IV"
- STG_ratibor_svetoslavich: "Ратібор Свєтославович"
- STG_caramelka_sladkaya: "Карамелька Сладкая"
- STG_altidiya: "Альтідія"
- STG_supreme_soviet: "Верховна Рада" # SOV
- STG_nestor_lunin: "Нестор Лунін"
-
- STG_sinister_serov_name: "Сіністер Сєров"
- STG_vasiliy_wheatin_name: "Василій Пшеницин"
- STG_dark_wing_name: "Дарк Вінґ"
-
- STG_rename_Severokholm_to_Altytown: "Перейменувати Сєвєрохолм у Альтідійськ"
- STG_vp_altytown: "Альтідійськ"
-
 # country_Storm
  form_storm_kingdom: "Наступник Короля Шторма"
  form_storm_kingdom_desc: ""
@@ -6691,16 +6668,16 @@
   ZAR_regency_council_name: "Племінна рада"
 
  ZAR_worm_coring_name_18570: "Руїни Нового Аякачтлі"
- ZAR_worm_coring_name_18580: "Руїни Замівґазалу"
+ ZAR_worm_coring_name_18580: "Руїни Замівґазала"
  ZAR_worm_coring_name_18681: "Руїни Айн-Тротґуре"
- ZAR_worm_coring_name_18351: "Руїни Кольтфагену"
- ZAR_worm_coring_name_18416: "Руїни Гіппону"
+ ZAR_worm_coring_name_18351: "Руїни Кольтфагена"
+ ZAR_worm_coring_name_18416: "Руїни Гіппона"
  ZAR_worm_coring_name_18450: "Руїни Кизил-Зеба"
  ZAR_worm_coring_name_19886: "Руїни гори Аріс"
- ZAR_worm_coring_name_18748: "Руїни Кантерфорду"
+ ZAR_worm_coring_name_18748: "Руїни Кантерфорда"
  ZAR_worm_coring_name_18783: "Руїни Нортпойнта"
  ZAR_worm_coring_name_18759: "Руїни Клотона"
- ZAR_worm_coring_name_18717: "Руїни Старфілду"
+ ZAR_worm_coring_name_18717: "Руїни Старфілда"
  ZAR_worm_coring_name_18719: "Руїни Талонкантера"
  ZAR_worm_coring_name_18741: "Руїни Гаулінґтона"
  ZAR_worm_coring_name_18664: "Руїни Вінґґардена"
