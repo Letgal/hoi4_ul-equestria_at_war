@@ -1,6 +1,6 @@
 ﻿l_english:
 #### LABELS FOR SHIP NAMELISTS ####
-##New Namelists added in EAW
+ # New Namelists added in EAW
  NAME_THEME_HISTORICAL_CL_CA: "Національні крейсери"
  NAME_THEME_HISTORICAL_BB_BC: "Національні лінкори"
  NAME_THEME_PLACES: "Національні місця"
@@ -49,24 +49,24 @@
  NAME_THEME_NEUTRAL_GENERIC_SUBMARINES: "Стандартні нейтральні підводні човни"
  NAME_THEME_NEUTRAL_GENERIC_CARRIERS: "Стандартні нейтральні авіаносці"
 
- ### NON-MTG ###
+### NON-MTG ###
  # Ships and Equipment #
- destroyer_5:0 "Modern Conventional Destroyer"
+ destroyer_5: "$ship_hull_light_5_short$"
  destroyer_5_desc:0 "These destroyers are the ultimate incarnation of what was once the torpedo boat destroyer: fast, well-armed, and excellent sub-hunters, the destroyer has become a mainstay of the fleet as a light escort and as the prime ASW naval vessel. Though some naval designers believe that we've hit the peak point for this kind of destroyer, these are still a significant threat to submersibles and capital ships."
- destroyer_6:0 "Early Guided-Missile Destroyer"
+ destroyer_6: "$ship_hull_light_6_short$"
  destroyer_6_desc:0 "Missile technology has advanced to the point where a single weapons system can perform multiple roles. This new generation of destroyers still has the same primary escort and ASW duties. However, with the new missile system, these destroyers can now effectively engage enemy aircraft. Even older ships can be retrofitted with the new missile weaponry to reduce costs without reducing the destroyers' overall firepower."
 
- light_cruiser_5:0 "Fleet Cruiser"
+ light_cruiser_5: "Флотський крейсер"
  light_cruiser_5_desc:0 "Most of the concurrent naval doctrines have reduced the effectiveness of independent operations by single ships or very small task groups, in which light cruisers previously found success. These new cruisers are not expected to engage in large-scale surface action and instead solely provide anti-aircraft support to the more essential carriers. With improved radar direction of autoloaded DP guns, these are the ultimate conventional anti-aircraft cruisers."
- light_cruiser_6:0 "Early Guided-Missile 'Frigate'"
+ light_cruiser_6: "Переобладнаний ракетний крейсер" # (&)
  light_cruiser_6_desc:0 "Developments in missile weaponry have put into question the use of light cruisers in modern fleet doctrine. Many older hulls can be converted into missile cruisers with the appropriate missile weapon systems. In contrast, new designs have significantly less displacement, which effectively turns these cruisers into frigates. These frigates are effective offensive and defensive ships with excellent anti-missile, anti-ship, and anti-air missile systems, particularly when paired with the new and improved lightweight armour plating."
 
- heavy_cruiser_5:0 "Modern All-Gun Cruiser"
+ heavy_cruiser_5: "Сучасний багатогарматний крейсер"
  heavy_cruiser_5_desc:0 "Changing naval tactics has made surface engagements of old far less common, and the heavy cruiser has lost its role as a commerce raider. Much like its smaller counterparts, modern heavy cruisers have been reduced to auxiliary ships and escorts to the ageing battleships and the ascendent carriers. Though a glorified 'big' light cruiser, these contemporary heavy cruiser designs are excellent and represent the ideal heavy cruiser."
- heavy_cruiser_6:0 "Early Guided-Missile Cruiser"
+ heavy_cruiser_6: "Крейсер із ранніми керованими ракетами"
  heavy_cruiser_6_desc:0 "The widespread adoption of missile weapons has placed our heavy cruiser in a curious position. Battleships have become almost prohibitively expensive, and missile weapon systems make our new missile cruisers just as deadly as battleships. Aircraft and submarines are still a significant threat to even the most modern missile cruisers. However, the new weapon mountings and advanced armour plating make them devastating naval vessels."
 
- pre_dreadnought_nomtg:0 "Macawian-Style Battleship"
+ pre_dreadnought_nomtg: "$ship_hull_pre_dreadnought_short$"
  pre_dreadnought_nomtg_desc:0 "A symbol of Macawia's naval power, their influential battleship design was quickly adopted worldwide and has historically been the Griffonian Empire's ship of battle. Wildly outdated by today's standards, this floating steel fortress still boasts large and dangerous guns and should not be underestimated."
 
  battle_cruiser_3_desc:0 "These subsequent battlecruisers are the quickest capital ship ever to sail the seas. Continued improvements are still primarily focused on its secondary and anti-aircraft weaponry, while breakthroughs in fire directory make its primary guns deadlier at little cost in displacement or speed. However, it's becoming evident that this class of ships is reaching a dead-end."
@@ -74,25 +74,25 @@
  battleship_5_desc:0 "The golden age of the battleship is rapidly passing by us as the threats to these large warships become insurmountable. Our advances in computing and fire directors can still make the primary weapons of new battleship designs powerful and deadly, making for a superb offshore artillery platform that is lethal at range. However, the cost of constructing and maintaining battleships is very high, and only a few die-hard proponents actively campaign for an expansion of our battleship programme."
  battleship_6_desc:0 "A final attempt by traditionalists to keep the battleship relevant in this new age, contemporary designs seek to upgrade most of the vessel's arsenal with the latest in cruise missile technology. These ships still boast the terrifying heavy artillery from yesteryear. However, due to their vulnerability, any new battleship will be relegated to fire support duties, such as shore bombardment."
 
- SH_battleship_3:0 "Super Guided-Missile Battleship"
+ SH_battleship_3: "Надважкий лінкор із керованими ракетами"
  SH_battleship_3_desc:0 "Perhaps more of a statement of stubborn pride than viable warships, these battleships armed with vast arsenals of rockets and cruise missiles are nothing more than upscaled guided-missile battleships. Their survivability and firepower are nothing short of awe-inspiring, but many naval theorists believe this class of vessels to be massive sinkholes of money, materiel, and sailors. They urge us to look elsewhere for a true statement of modern naval power."
 
- light_carrier_1:0 "Flat-Deck Cruiser"
+ light_carrier_1: "Крейсер із пласкою палубою"
  light_carrier_1_desc:0 "Early attempts to recreate the carrier hulls built by Hippogriffia led to some nations experimenting with converting a more conventional cruiser hull by placing a flight deck atop most of its superstructure. Sometimes known as 'flat-tops', these flat-deck cruisers have no main armaments and fewer aircraft than normal carriers. Nevertheless, these smaller carriers are a less costly alternative and can carry out some limited carrier roles."
  carrier_5_desc:0 "There is a new naval arms race, but now it's waged between aircraft carriers. New jet-powered aircraft necessitates the introduction of the angled flight deck and jet blast deflector so that the new generation of aircraft can operate efficiently. These contemporary aircraft carriers will extend our naval reach beyond what was once thought possible."
  carrier_6_desc:0 "Our aircraft have become far larger than our previous propeller aircraft, and our carriers must accommodate this. Designed to operate naval jets, the newest aircraft carriers are considerably bigger and carry far more onboard ordnance and supplies to handle and service the newer aircraft. With these ships, our fleets will have a near-global reach, and no enemy shall be left untouched."
 
- submarine_5:0 "Attack Submarine"
+ submarine_5: "Штурмовий підводний човен"
  submarine_5_desc:0 "Attack submarines are a continuation of the previous hunter-killer classes. Far larger to accommodate additional torpedoes, larger engines, more sophisticated fire controls, and finer centimetric radar arrays, attack submarines can stay submerged almost indefinitely so long as the fuel and batteries last. Knowing just how difficult life is for submariners, crew comfort is a high priority: we've given them relatively spacious crew quarters and air conditioning!"
- submarine_6:0 "Early Cruise Missile Submarine"
+ submarine_6: "Підводний човен із ранніми крилатими ракетами" # (&)
  submarine_6_desc:0 "The continued development of missile technology offers a tempting opportunity for our newest submarines. Cruise missile submarines are powerful vessels, as they carry the devastating reach and firepower of cruise missiles with the stealth of submarines. With their cruise missile and torpedo weaponry, these submarines can strike any target, submerged, surface, or terrestrial, with destructive precision. Only another submarine can reliably sink a cruise missile submarine!"
 
- panzerschiff_nomtg:0 "Pocket Battleship"
+ panzerschiff_nomtg: "$ship_hull_cruiser_panzerschiff$"
  panzerschiff_nomtg_desc:0 "In an attempt to do the impossible, engineers succeeded in mating battleship-level armament with a cruiser hull. The result is a ship that outguns any other known cruiser, but which is also expensive, comparatively slow and relatively poorly armored."
- panzerschiffe_nomtg:0 "Pocket Battleship"
- coastal_defense_ship_nomtg:1 "Coastal Defense Ship"
+ panzerschiffe_nomtg: "$panzerschiffe$"
+ coastal_defense_ship_nomtg: "Корабель берегової оборони"
  coastal_defense_ship_nomtg_desc:0 "An older design decades past, coastal defense ships combine the guns of a battleship with the hull of a cruiser, resulting in a powerful, but slow, cruiser, aimed at deterrence and local defense."
- cruiser_submarine_nomtg:0 "Cruiser Submarine"
+ cruiser_submarine_nomtg: "Підводний крейсер"
  cruiser_submarine_nomtg_desc:0 "These larger submarines can patrol a longer range and hold more firepower or support equipment than their smaller cousins. However, their vulnerability and expense is making them obsolete."
 
  ##### Ends - edit as necessary #####
@@ -1589,48 +1589,46 @@
  ZES_submarine_nuc:0 "Nuclear Classe"
  ZES_submarine_nuc_short:0 "Nuclear Classe"
 
-
- ### MTG ###
+### MTG ###
  # Ships and Equipment #
-
- ship_hull_light_5:0 "Modern Conventional Destroyer Hull"
- ship_hull_light_5_short:0 "Modern Conventional Destroyer"
+ ship_hull_light_5: "Корпус сучасного стандартного есмінця"
+ ship_hull_light_5_short: "Сучасний стандартний есмінець"
  ship_hull_light_5_desc:0 "These destroyer hulls are the ultimate incarnation of what was once the torpedo boat destroyer: fast, well-armed, and excellent sub-hunters, the destroyer has become a mainstay of the fleet as a light escort and as the prime ASW naval vessel. Though some naval designers believe that we've hit the peak point for this kind of destroyer, these are still a significant threat to submersibles and capital ships."
- ship_hull_light_6:0 "Early Guided-Missile Destroyer Hull"
- ship_hull_light_6_short:0 "Early Guided-Missile Destroyer"
+ ship_hull_light_6: "Корпус есмінця з ранніми керованими ракетами"
+ ship_hull_light_6_short: "Есмінець із ранніми керованими ракетами"
  ship_hull_light_6_desc:0 "Missile technology has advanced to the point where a single weapons system can perform multiple roles and the newest generation of destroyer hulls follows this development. These still act as the primary escort and submarine hunter. However, with the integration of new missile systems, these destroyers can now effectively engage enemy aircraft."
 
- ship_hull_cruiser_5:0 "Modern All-Gun and Fleet Cruiser Hulls"
- ship_hull_cruiser_5_short:0 "Modern All-Gun and Fleet Cruisers"
+ ship_hull_cruiser_5: "Корпуси сучасних багатогарматних і флотських крейсерів"
+ ship_hull_cruiser_5_short: "Сучасні багатогарматні та флотські крейсери"
  ship_hull_cruiser_5_desc:0 "New thinking in naval warfare has drastically changed pre-existing roles that cruisers fulfilled, causing a paradigm shift in cruiser designs. As such, new cruiser hulls are generally of a lower displacement, making these ships more suitable to their new fleet auxiliary duties. Despite their diminishing value, these cruisers are at the cutting edge."
- ship_hull_cruiser_6:0 "Early Guided-Missile Frigate and Cruiser Hulls"
- ship_hull_cruiser_6_short:0 "Early Missile Frigates and Cruisers"
+ ship_hull_cruiser_6: "Корпуси крейсерів із ранніми керованими ракетами" # (&)
+ ship_hull_cruiser_6_short: "Крейсери з ранніми керованими ракетами" # (&)
  ship_hull_cruiser_6_desc:0 "In light of the adoption of missile weapons, cruisers are now in a strange position as military vessels. These new frigate and cruiser hulls pack a surprisingly large amount of firepower in small ships when mounted with the appropriate missile weapons system and advanced armour scheme."
 
- ship_hull_heavy_5:0 "Modern All-Gun Battleship Hull"
- ship_hull_heavy_5_short:0 "Modern All-Gun Battleship"
+ ship_hull_heavy_5: "Корпус сучасного багатогарматного лінкора"
+ ship_hull_heavy_5_short: "Сучасний багатогарматний лінкор"
  ship_hull_heavy_5_desc:0 "The golden age of the battleship and battlecruisers is rapidly passing as the threats to these large warships become insurmountable. Our advances in computing and fire directors can still make the primary weapons of new designs powerful and deadly, making for a superb offshore artillery platform that is lethal at range. However, the cost of constructing and maintaining these large hulls is very high, and only a few die-hard proponents actively campaign for an expansion of our battleship and battlecruiser programmes."
- ship_hull_heavy_6:0 "Guided-Missile Battleship Hull"
- ship_hull_heavy_6_short:0 "Guided-Missile Battleship"
+ ship_hull_heavy_6: "Корпус лінкора з керованими ракетами"
+ ship_hull_heavy_6_short: "Лінкор із керованими ракетами"
  ship_hull_heavy_6_desc:0 "A final attempt by traditionalists to keep the battleship and battlecruiser relevant in this new age, contemporary hull designs seek to upgrade most of the vessels' arsenal with the latest in cruise missile technology. These ships still boast the terrifying heavy artillery from yesteryear. However, due to their vulnerability, any new battleship or battlecruiser will be relegated to fire support duties, such as shore bombardment."
 
- ship_hull_carrier_4:0 "Jet Aircraft Carrier Hull"
- ship_hull_carrier_4_short:0 "Jet Aircraft Carrier"
+ ship_hull_carrier_4: "Корпус авіаносця з реактивною авіацією"
+ ship_hull_carrier_4_short: "Авіаносець із реактивною авіацією"
  ship_hull_carrier_4_desc:0 "The next generation of aircraft carriers must be compatible with naval jet aircraft, which require a more extended flight deck and protection from the jet blast hazards for our deck crew. An angled flight deck built into the hull facilitates jet operations, and jet blast deflectors will keep our flight deck crew safe."
- ship_hull_carrier_5:0 "Modern Fleet Carrier Hull"
- ship_hull_carrier_5_short:0 "Modern Fleet Carrier"
+ ship_hull_carrier_5: "Корпус сучасного флотського авіаносця"
+ ship_hull_carrier_5_short: "Сучасний флотський авіаносець"
  ship_hull_carrier_5_desc:0 "New hulls for modern aircraft carriers are mostly refined versions of the previous jet aircraft carriers, with pre-planned structures to allow for easier integration of contemporary RADAR and computer systems and the mounting of SAM systems. With plenty of space for hangars decks, these vessels are large enough to transport and operate about as many air wings as a decently-sized land airbase, allowing these modern carriers to exert air power far and wide. "
- ship_hull_supercarrier_1:0 "Supercarrier Hull"
+ ship_hull_supercarrier_1: "Корпус суперавіаносця"
  ship_hull_supercarrier_1_desc:0 "Technically not an actual class, the supercarrier might easily be the largest vessel ever put to sea. The hull is effectively an oversized version of the fleet carrier hull, made to be able to house additional hangar decks or armaments. It is so massive that it can easily carry double the number of planes that a more conventional fleet carrier can, capable of asserting our air supremacy wherever it goes. There is, quite literally, nowhere that our naval craft can't strike."
 
- ship_hull_submarine_5:0 "Early Attack Submarine Hull"
- ship_hull_submarine_5_short:0 "Early Attack Submarine"
+ ship_hull_submarine_5: "Корпус раннього штурмового підводного човна"
+ ship_hull_submarine_5_short: "Ранній штурмовий підводний човен"
  ship_hull_submarine_5_desc:0 "Attack submarines are a continuation of the previous hunter-killer classes. Far larger to accommodate additional torpedoes, larger engines, more sophisticated fire controls, and finer centimetric radar arrays, attack submarines can stay submerged almost indefinitely so long as the fuel and batteries last. Knowing just how difficult life is for submariners, crew comfort is a high priority: we've given them relatively spacious crew quarters and air conditioning!"
- ship_hull_submarine_6:0 "True Attack Submarine Hull"
- ship_hull_submarine_6_short:0 "True Attack Submarine"
+ ship_hull_submarine_6: "Корпус штурмового підводного човна"
+ ship_hull_submarine_6_short: "Штурмовий підводний човен"
  ship_hull_submarine_6_desc:0 "New iterations of previous attack submarines, these new hulls are made to mount specialised launch tubes capable of using sophisticated electronic decoys. Unlike previous models, these are better suited to fool acoustic torpedoes and thus, vastly improves the survivability of our new submarines, something that our sailors will be grateful for. "
- ship_hull_cruiser_submarine_2:0 "Advanced Cruiser Submarine"
+ ship_hull_cruiser_submarine_2: "Удосконалений підводний крейсер"
  ship_hull_cruiser_submarine_2_desc:0 "A submarine far larger than its predecessor, this improved cruise submarine hull can carry higher capacity batteries and more fuel, giving immense range. With such submarines, we can strike from well over half a world away!"
- ship_hull_missile_submarine_1:0 "Cruise Missile Submarine Hull"
- ship_hull_missile_submarine_1_short:0 "Cruise Missile Submarine"
+ ship_hull_missile_submarine_1: "Корпус підводного човна з крилатими ракетами"
+ ship_hull_missile_submarine_1_short: "Підводний човен із крилатими ракетами"
  ship_hull_missile_submarine_1_desc:0 "The continued development of missile technology offers a tempting opportunity for our newest submarines. Cruise missile submarines are powerful vessels, as they can carry the devastating reach and firepower of cruise missiles with the stealth of submarines. With their cruise missile and torpedo weaponry, these submarines can strike any target, submerged, surface, or terrestrial, with destructive precision. Only another submarine can reliably sink a cruise missile submarine!"
