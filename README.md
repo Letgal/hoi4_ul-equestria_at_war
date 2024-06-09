@@ -18,12 +18,14 @@
 + `country_JFT`
 + `country_JRR`
 + `country_MTA` (умовно)
++ `country_north_zebrican_war`
 + `country_NTR`
 + `country_OLE`<!--  (переклав *Max*) -->
 + `country_POM`
 + `country_STG`
 + `country_STL`<!--  (переклав *Max*) -->
 + `country_VIN`
++ `country_WAR`
 + `country_YAK` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
 + `eaw_achievements`
 + `eaw_adjacency_rules`
