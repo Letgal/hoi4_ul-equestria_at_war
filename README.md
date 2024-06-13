@@ -9,6 +9,7 @@
 + `countries`
 + `countries_griffonia`
 + `countries_zebrica`
++ `country_CRY`
 + `country_DRG`
 + `country_EQS`
 + `country_GRF` (переклав [*StasJesus*](https://steamcommunity.com/profiles/76561198867405533))
