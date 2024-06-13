@@ -1003,9 +1003,6 @@
 
  old_partnership_faction: "Стародавній Пакт"
 
-# country_CRY_NLR
- nlr_cadance: "$princess_cadence$"
-
 # country_CTH_Monzano
  CTH_MZN_CW: "Кольтфагенська федеральна армія"
  CTH_MZN_CW_DEF: "Сили Кольтфагенської федеральної армії"

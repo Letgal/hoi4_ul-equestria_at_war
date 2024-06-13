@@ -9,7 +9,9 @@
 + `countries`
 + `countries_griffonia`
 + `countries_zebrica`
-+ `country_CRY`
++ `country_CRY` (переклав *Юрій Лащенко*)
++ `country_CRY_NLR` (переклав *Юрій Лащенко*)
++ `country_CRY_SOL` (переклав *Юрій Лащенко*)
 + `country_DRG`
 + `country_EQS`
 + `country_GRF` (переклав [*StasJesus*](https://steamcommunity.com/profiles/76561198867405533))
@@ -21,10 +23,10 @@
 + `country_MTA` (умовно)
 + `country_north_zebrican_war`
 + `country_NTR`
-+ `country_OLE`<!--  (переклав *Max*) -->
++ `country_OLE` (переклав *Max*)
 + `country_POM`
 + `country_STG`
-+ `country_STL`<!--  (переклав *Max*) -->
++ `country_STL` (переклав *Max*)
 + `country_VIN`
 + `country_WAR`
 + `country_YAK` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
@@ -60,6 +62,8 @@
 
 ### Переписати в майбутньому
 + `country_STG`
++ `country_north_zebrican_war`
++ `country_WAR`
 
 ## Файли без змін
 + `eaw_intelligence_agency_blocker`
