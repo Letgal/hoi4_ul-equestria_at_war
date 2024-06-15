@@ -283,7 +283,7 @@
  VICTORY_POINTS_1425: "Заседдл"
  VICTORY_POINTS_7986: "Бакс"
  VICTORY_POINTS_6757: "Кольтлєво"
- VICTORY_POINTS_1885: "Нові-Понезар"
+ VICTORY_POINTS_1885: "Новий Понезар" # Нові-Понезар
  VICTORY_POINTS_7702: "Тьмяні Води"
  VICTORY_POINTS_4643: "Дрімліф"
  VICTORY_POINTS_3962: "Чорні Води"
@@ -297,7 +297,7 @@
  VICTORY_POINTS_7128: "Кроуоя"
  VICTORY_POINTS_3875: "Бікау"
  VICTORY_POINTS_4592: "Темшоар"
- VICTORY_POINTS_11769: "Кесепуолі"
+ VICTORY_POINTS_11769: "Кесяпуолі" # Æ
  VICTORY_POINTS_9834: "Ісгамн"
  VICTORY_POINTS_715: "Елґстад"
  VICTORY_POINTS_4057: "Еслотт" # Ö
@@ -510,7 +510,7 @@
  VICTORY_POINTS_9693: "Сньофлінґа"
  VICTORY_POINTS_588: "Куувалоранта"
  VICTORY_POINTS_11782: "Естскуґ" # Ö
- VICTORY_POINTS_9446: "Гейне"
+ VICTORY_POINTS_9446: "Гейня" # Æ
  VICTORY_POINTS_12166: "Брубю"
  VICTORY_POINTS_10914: "Клоборг"
  VICTORY_POINTS_19067: "Ґура"
@@ -577,7 +577,7 @@
  VICTORY_POINTS_7178: "Котейлія"
  VICTORY_POINTS_12143: "Ветейлє"
  VICTORY_POINTS_7197: "Мейрелє"
- VICTORY_POINTS_10309: "Кольтовац-Ґорні"
+ VICTORY_POINTS_10309: "Горішній Кольтовац" # Кольтовац-Ґорні
  VICTORY_POINTS_5041: "Рейтн'ейрі"
  VICTORY_POINTS_12881: "Гярдголт"
  VICTORY_POINTS_5091: "Дауветлір"
@@ -607,7 +607,7 @@
  VICTORY_POINTS_18093: "Ентлершедпур"
  VICTORY_POINTS_18044: "Маріча"
  VICTORY_POINTS_17999: "Бакпур"
- VICTORY_POINTS_17636: "Мунтжас"
+ VICTORY_POINTS_17636: "Мунтжак"
  VICTORY_POINTS_2530: "Мускбай"
  VICTORY_POINTS_20603: "Чіталґонґ"
  VICTORY_POINTS_20529: "Янґуа"
@@ -647,7 +647,7 @@
  VICTORY_POINTS_10206: "Ауреолін"
  VICTORY_POINTS_20387: "Цинобреза"
  VICTORY_POINTS_20392: "Хризантема" # алт. Конкорд
- VICTORY_POINTS_17104: "Петріхор"
+ VICTORY_POINTS_17104: "Петрикор"
  VICTORY_POINTS_20446: "Бамбук"
  VICTORY_POINTS_17150: "Платан"
  VICTORY_POINTS_10188: "Кедр"

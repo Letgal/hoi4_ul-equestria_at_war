@@ -1,6 +1,6 @@
 ﻿l_english:
  RECALL_VOLUNTEERS_TITLE: "Відкликати добровольців"
- RECALL_VOLUNTEERS_ACTION_DESC: "Ми можемо вирішити відкликати добровольців, яких надіслали в інші країни."
+ RECALL_VOLUNTEERS_ACTION_DESC: "Ми можемо вирішити відкликати добровольців, яких надіслали до інших країн."
  RECALL_VOLUNTEERS_TOOLTIP: "§RУ держави §Y[This.GetNameWithFlag]§! мусять бути наші добровольці, яких можна відкликати.§!"
  RECALL_VOLUNTEERS_TOOLTIP_G: "У держави §Y[This.GetNameWithFlag]§! мусять бути наші добровольці, яких можна відкликати."
  RECALL_VOLUNTEERS_TOOLTIP_DISABLED: "§RДержава §Y[Root.GetNameWithFlag]§! не може відкликáти добровольців.§!"
