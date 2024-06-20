@@ -55,3 +55,10 @@
  form_country_maregypt_coring_states_tt: "Усі осердні землі §YМейргипту§! стануть осердними." # CORE
  form_country_manedalusia_coring_states_tt: "Усі осердні землі §YМейндалусії§! стануть осердними." # CORE
  form_country_ovingoland_coring_states_tt: "Усі осердні землі §YОвінґо§! стануть осердними." # CORE
+
+ form_riseia_category: "Різейське об'єднання"
+ form_riseia_category_desc:0 "The influence of Saddle Arabia wanes. After so long ruling themselves, the horses of the Riseian peninsula can finally try their hoof at being their own creatures - together, this time."
+ form_riseia: "Об'єднати Різейський півострів"
+ form_country_maretania_required_states_tt: "Контролює всі початкові землі §YМейританії§!"
+ form_country_osqat_required_states_tt: "Контролює всі початкові землі §YОскату§!"
+ form_country_haymir_required_states_tt: "Контролює всі початкові землі §YГейміру§!"
