@@ -1105,6 +1105,11 @@
  CTL_KIR_democratic_DEF: "Вільна конфедерація Кірії"
  CTL_KIR_democratic_ADJ: "Кіріанськ"
 
+ ### ПЕРСОНАЖІ ###
+  CTL_benjen_v: "Бенджен V"
+  CTL_council_of_three: "Рада трьох"
+  CTL_dannya_shah: "Даннія-шах"
+
  CTL_faction: "Осткранбійський альянс"
 
 # country_CVA
@@ -1618,6 +1623,7 @@
   EQC_ARA_fago_faggolini: "Фаґо Фаґґоліні"
   EQC_CYA_mideia_vlaha: "Мідея Влаха" # Влага?
   EQC_MIT_mommy_cow: "Мітера Агеладас"
+  EQC_NLR_CYA_glowing_note: "Ґлоуинґ Ноут"
 
   EQC_marius_hurricane: "Маріус Гаррикейн"
   EQC_yuria_lovett: "Юрія Лаветт"
@@ -1656,8 +1662,6 @@
   stormfeather: "Стормфезер"
   upper_crust: "Аппер Краст"
   #upper_crust_desc:0 "The wife of Jet Set, Upper Crust is a member of the Canterlot Elite who moved to New Mareland when her husband Jet Set accepted the position of Governor-General there. She had even encouraged him to do so, believing that it would both be a fresh start for both of them and that it would be his chance to prove himself as more than just a typical socialite as many were assuming at the time. Upper Crust shares Jet Set's steadfast belief in Harmony and a brighter future, and consistantly works with him to ensure that he can be as successful here as he once was back in Canterlot."
-  suri_polomare: "Сурі Поломейр"
-  #suri_polomare_desc:0 "Once a rising star in Manehattan, Suri Polomare's career as a fashion designer hit a snag after a confrontation with the Element of Generosity and rival fashionista, Rarity, resulted in her assistant Coco Pommel leaving her employment. As a result, she chose to cut ties in Equestria and move to New Mareland, finding decent success both in fashion designing and in military uniforms. With her short temper, she can be downright unpleasant at times, but though she may be no Rarity, nopony can deny her talent at dressmaking either. In fact, her success in New Mareland led to her eventual induction into the Shadowbolt Society."
   neon_lights: "Неон Лайтс"
   #neon_lights_desc:0 "A new addition to the New Mareland cabinet, Neon Lights is a diplomat serving for the colony, an occupation few would have guessed he would take years ago when he was a known delinquent. Despite his past, he does show skill in being able to smooth any ruffled feathers and keep any diplomatic situation under control. Rumors have it that he has also been recently inducted into the Shadowbolt Society."
   royal_pin: "Роял Пін"
@@ -1805,6 +1809,9 @@
  EQS_POE: "Еквестрійське княгинство"
  EQS_POE_DEF: "Еквестрійське княгинство"
  EQS_POE_ADJ: "Еквестрійськ"
+ EQS_POE_democratic: "Еквестрійське князівство"
+ EQS_POE_democratic_DEF: "Еквестрійське князівство"
+ EQS_POE_democratic_ADJ: "Еквестрійськ"
  EQS_POE_communism: "Чорна армія Півдня"
  EQS_POE_communism_DEF: "Чорна армія Півдня"
  EQS_POE_communism_ADJ: "Еквестрійськ"
@@ -3454,6 +3461,8 @@
   HIP_arden_ironquill: "Арден Айронквілл"
   HIP_ulyssess: "Улісс"
   HIP_colour_field: "Колор Філд"
+  HIP_bright_heart: "Брайт Гарт"
+  HIP_cabbage_stew: "Кеббедж Стью"
   HIP_lucy_duskfeather: "Люсі Даскфезер"
   HIP_seaspray: "Сіспрей"
   HIP_nobody: "Ніхто"
@@ -5485,14 +5494,18 @@
  NTR_SRS_far_northern_republic_communism_DEF: "Далекопівнічна республіка"
  NTR_SRS_far_northern_republic_communism_ADJ: "Далекопівнічн"
 
+ SRS_dictatorship_neutrality: "Уряд Скайнавії"
+ SRS_dictatorship_neutrality_DEF: "Уряд Скайнавії"
+ SRS_dictatorship_neutrality_ADJ: "Скайнавськ"
+
  SRS_republic_of_skynavia_fascism: "Республіка Скайнавія"
  SRS_republic_of_skynavia_fascism_DEF: "Республіка Скайнавія"
  SRS_republic_of_skynavia_fascism_ADJ: "Скайнавськ"
  SRS_republic_of_skynavia_democratic: "Республіка Скайнавія"
  SRS_republic_of_skynavia_democratic_DEF: "Республіка Скайнавія"
  SRS_republic_of_skynavia_democratic_ADJ: "Скайнавськ"
- SRS_republic_of_skynavia_neutrality: "Уряд Скайнавії"
- SRS_republic_of_skynavia_neutrality_DEF: "Уряд Скайнавії"
+ SRS_republic_of_skynavia_neutrality: "Республіка Скайнавія"
+ SRS_republic_of_skynavia_neutrality_DEF: "Республіка Скайнавія"
  SRS_republic_of_skynavia_neutrality_ADJ: "Скайнавськ"
  SRS_republic_of_skynavia_communism: "Скайнавські комуни"
  SRS_republic_of_skynavia_communism_DEF: "Конфедерація комун Скайнавії"
