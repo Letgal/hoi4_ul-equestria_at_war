@@ -5557,37 +5557,6 @@
  SRS_FAT_republic_of_cloudsbury_communism_DEF: "Соціалістична республіка Клаудбері"
  SRS_FAT_republic_of_cloudsbury_communism_ADJ: "Клаудберійськ"
 
-# country_Storm
- form_storm_kingdom: "Наступник Короля Шторма"
- form_storm_kingdom_desc: ""
-
- STM_storm_king_name: "Король Шторм"
- STM_storm_queen_name: "Королева Шторм"
-
- form_storm_kingdom_decision: "Висунути претензію на Рогату корону"
- form_storm_kingdom_decision_desc: ""
-
- SK_formed: "Королівство Шторма було возз'єднане"
- STM_threat_name: "Возз'єднано Королівство Шторма"
- STM_rightful_heir: "Законний наступник"
-
- STORM_KINGDOM_fascism: "Королівство Шторма"
- STORM_KINGDOM_fascism_DEF: "Королівство Шторма"
- STORM_KINGDOM_fascism_ADJ: "Єтійськ"
- STORM_KINGDOM_democratic: "Королівство Шторма"
- STORM_KINGDOM_democratic_DEF: "Королівство Шторма"
- STORM_KINGDOM_democratic_ADJ: "Єтійськ"
- STORM_KINGDOM_neutrality: "Королівство Шторма"
- STORM_KINGDOM_neutrality_DEF: "Королівство Шторма"
- STORM_KINGDOM_neutrality_ADJ: "Єтійськ"
- STORM_KINGDOM_communism: "Соціалістична Республіка Єті"
- STORM_KINGDOM_communism_DEF: "Соціалістична Республіка Єті"
- STORM_KINGDOM_communism_ADJ: "Єтійськ"
-
- HYE_thunderbowl_name: "Ґурі-Дгурваа"
- HYE_thunderbowl_vp_name: "Калбі-Вейн"
- HYE_northvale_name: "Кайнта-Доохада"
-
 # country_STW
  ### ПЕРСОНАЖІ ###
   STW_gabriela_eagleclaw: "Герцогиня Ґабріела Іґлкло"
