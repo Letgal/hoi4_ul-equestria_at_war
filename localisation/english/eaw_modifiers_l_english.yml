@@ -1,20 +1,20 @@
 ﻿l_english:
- cat_torpedoes_research:0 "Torpedoes Research Speed"
- naval_light_artillery_research:0 "Light & Secondary Battery Research Speed"
- trade_interdiction_tree_research:0 "Trade Interdiction Doctrine Research Speed"
- asw_tech_research:0 "Anti-Submarine Warfare Technology Research Speed"
- cat_ship_light_battery_research:0 "Light Batteries Research Speed"
- cat_ship_medium_battery_research:0 "Medium Batteries Research Speed"
+ cat_torpedoes_research: "Темпи дослідження торпед"
+ naval_light_artillery_research: "Темпи дослідження легких і допоміжних батарей"
+ trade_interdiction_tree_research: "Темпи дослідження доктрини перешкоджання торгівлі"
+ asw_tech_research: "Темпи дослідження протичовнової війни"
+ cat_ship_light_battery_research: "Темпи дослідження легких батарей"
+ cat_ship_medium_battery_research: "Темпи дослідження середніх батарей"
 
- helicopter_tech:0 "Helicopter technology"
- promote_equality:0 "Promotion of Harmony"
- #sent_equipment:0 "Sent Equipment"# Identical duplicate from Eaw
- #sent_volunteers:0 "Sent a Military Mission"# Different duplicate from Eaw
- super_combat_abilities_tt:0 "\nAllows the use of the §HLast Stand§! and §HForce Attack§! Command Abilities at a greatly reduced cost. They also will no longer reduce war support on being damaged.\n"
- made_friends:0 "Accepted Friendship"
- refused_friends:0 "Refused Friendship"
- support_equipment_research:0 "Support Equipment Research Speed"
- special_forces_research:0 "Special Forces Research Speed"
+ helicopter_tech: "Технології вертольотів"
+ promote_equality: "Просування гармонії"
+ #sent_equipment:0 "Sent Equipment" # Different duplicate from Eaw
+ #sent_volunteers:0 "Sent a Military Mission" # Different duplicate from Eaw
+ super_combat_abilities_tt: "\nДозволяє використовувати командирські накази §HОстанній рубіж§! і §HПримусова атака§! за значно зменшеною вартістю. Вони також більше не знижуватимуть підтримку війни при отриманні пошкоджень.\n"
+ made_friends: "Прийняли дружбу"
+ refused_friends: "Відхилили дружбу"
+ support_equipment_research: "Темпи дослідження додаткового оснащення"
+ special_forces_research: "Темпи дослідження технологій ССО"
  has_tribal_society_tt: "Є §Yпримітивним суспільством§!"
  not_has_tribal_society_tt: "Не є §Yпримітивним суспільством§!"
  not_has_communal_society_tt: "Не є §Yкомунальним суспільством§!"
@@ -53,20 +53,20 @@
  modifier_army_sub_unit_jager_defence_factor: "Захист єгерів"
  modifier_army_sub_unit_jager_speed_factor: "Швидкість єгерів"
 
- modifier_army_sub_unit_infiltrator_company_attack_factor:0 "Атака Infiltrator Company"
- modifier_army_sub_unit_infiltrator_company_defence_factor:0 "Захист Infiltrator Company"
+ modifier_army_sub_unit_infiltrator_company_attack_factor: "Атака рот інфільтраторів"
+ modifier_army_sub_unit_infiltrator_company_defence_factor: "Захист рот інфільтраторів"
 
  modifier_army_sub_unit_knights_attack_factor: "Атака лицарів"
  modifier_army_sub_unit_knights_defence_factor: "Захист лицарів"
  modifier_army_sub_unit_knights_speed_factor: "Швидкість лицарів"
 
- modifier_army_sub_unit_super_griffons_attack_factor:0 "Атака Star Knights"
- modifier_army_sub_unit_super_griffons_defence_factor:0 "Захист Star Knights"
- modifier_army_sub_unit_super_griffons_speed_factor:0 "Швидкість Star Knights"
+ modifier_army_sub_unit_super_griffons_attack_factor: "Атака зоряних лицарів"
+ modifier_army_sub_unit_super_griffons_defence_factor: "Захист зоряних лицарів"
+ modifier_army_sub_unit_super_griffons_speed_factor: "Швидкість зоряних лицарів"
 
- modifier_army_sub_unit_ironpaws_attack_factor:0 "Атака Ironpaws"
- modifier_army_sub_unit_ironpaws_defence_factor:0 "Захист Ironpaws"
- modifier_army_sub_unit_ironpaws_speed_factor:0 "Швидкість Ironpaws"
+ modifier_army_sub_unit_ironpaws_attack_factor: "Атака залізнолапих"
+ modifier_army_sub_unit_ironpaws_defence_factor: "Захист залізнолапих"
+ modifier_army_sub_unit_ironpaws_speed_factor: "Швидкість залізнолапих"
 
  modifier_army_sub_unit_windigo_horrors_attack_factor: "Атака жахіть"
  modifier_army_sub_unit_windigo_horrors_defence_factor: "Захист жахіть"
@@ -143,12 +143,12 @@
  Terathopia_communism_DEF: "Тамбелон"
  Terathopia_communism_ADJ: "Тамбелонськ"
 
- BAT_partisan_modifier:0 "Chiropterran Partisans"
+ BAT_partisan_modifier: "Хіроптеррські партизани"
 
  modifier_unit_pegasi_design_cost_factor: "Вартість дизайну пегасів"
  modifier_unit_jager_design_cost_factor: "Вартість дизайну єгерів"
  modifier_unit_knights_design_cost_factor: "Вартість дизайну лицарів"
- modifier_unit_ironpaws_design_cost_factor:0 "Вартість дизайну Ironpaws"
+ modifier_unit_ironpaws_design_cost_factor: "Вартість дизайну залізнолапих"
  modifier_unit_light_dragons_design_cost_factor: "Вартість дизайну дракончиків"
  modifier_unit_heavy_dragons_design_cost_factor: "Вартість дизайну старших драконів"
  modifier_unit_windigo_horrors_design_cost_factor: "Вартість дизайну жахіть"
@@ -156,7 +156,7 @@
  modifier_unit_magical_infantry_design_cost_factor: "Вартість дизайну магічної піхоти"
  modifier_unit_magical_motorized_design_cost_factor: "Вартість дизайну магічної мотопіхоти"
  modifier_unit_magical_mechanized_design_cost_factor: "Вартість дизайну магічної мехапіхоти"
- modifier_unit_infiltrator_company_design_cost_factor:0 "Вартість дизайну Infiltrator Company"
+ modifier_unit_infiltrator_company_design_cost_factor: "Вартість дизайну рот інфільтраторів"
  modifier_unit_kirin_vanguards_design_cost_factor:0 "Вартість дизайну Kirin Vanguards"
  modifier_unit_unicorn_company_design_cost_factor: "Вартість дизайну рот єдинорогів"
  modifier_unit_modern_flame_tank_design_cost_factor: "Вартість дизайну основного бойового вогнеметного танка"

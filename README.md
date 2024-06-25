@@ -27,6 +27,7 @@
 + `country_POM`
 + `country_STG`
 + `country_STL` (переклав *Max*)
++ `country_Storm` (переклав *Daybreaker*)
 + `country_VIN`
 + `country_WAR`
 + `country_YAK` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
@@ -44,6 +45,7 @@
 + `eaw_pony_techs`
 + `eaw_production`
 + `eaw_starting_warning_events`
++ `eaw_zebra_generic` (переклав *Daybreaker*)
 + `loading_tips`
 + `recall_volunteers`
 + `renamed_states`
