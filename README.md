@@ -9,6 +9,7 @@
 + `countries`
 + `countries_griffonia`
 + `countries_zebrica`
++ `country_AET`
 + `country_BUF` (переклав *Kiparu*)
 + `country_CRY` (переклав *Юрій Лащенко*)
 + `country_CRY_NLR` (переклав *Юрій Лащенко*)

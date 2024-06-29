@@ -12,21 +12,6 @@
 
  ABY_taile_sehissie_clawomonid: "Тейле Сичассіє Клоомонід"
 
-# country_AET
- ### ПЕРСОНАЖІ ###
-  # Лідери
-  AET_count_cloudet: "Граф Клаудет"
-  AET_prelate_ludwig_ebonwing: "Прелат Людвіґ Ебонвінґ"
-  AET_archon_erebus_i: "Архонт Ереб I"
-  AET_nestor_bernier: "Нестор Берньє"
-
-  # Генерали
-  AET_jannik_petalbeak: "Жаннік Петалбік"
-  AET_henry_brazier: "Анрі Бразьє"
-  AET_harald_mistfeather: "Гаральд Містфезер"
-  AET_aekold_helbrass: "Екольд Гельбрасс"
-  AET_azazel: "Азазель"
-
 # country_ANG
  ANG_republic_fascism: "Енґріверське регентство"
  ANG_republic_fascism_DEF: "Енґріверське регентство"
