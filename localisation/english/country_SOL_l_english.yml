@@ -716,83 +716,83 @@
  solarempire.34.d: "Услід за декларацією Імператрицею Дейбрейкер перетворення Еквестрії в Сонячну імперію під час війни, багато поні висловили своє незадоволення тим, що вважають тиранічним кроком правительки, раніше відомої офіційно як принцеса Селестія. Тепер, коли війна офіційно скінчилася, прихильники цього самопроголошеного «гармонійного опору» зібралися у великі осередки з метою протистояти уряду будь-якими доступними засобами. Дехто бере участь у вповільненні роботи, інші публікують памфлети проти Дейбрейкер, а решта нападає на урядові установи зі зброєю. Члени цих груп злічуються тисячами, і очевидно одне: попри спроби Імператриці Дейбрейкер об'єднати націю від її правлінням, старе розуміння гармонії до часу нікуди не зникне." # (&?)
  solarempire.34.a: "Дурні, набридливі нісенітниці."
 
- solarempire.13.t:0 "Rise"
- solarempire.13.d:0 "It took some time for my student to finally see the light as I see it - but now, she has truly ascended - her power is almost rivalling my own. She is now ready to serve true Harmony. Yes, she will be most useful - I can already see her aching to set her plans in motion."
- solarempire.13.a:0 "Sunrise Sparkle has a nice ring to it."
+ solarempire.13.t: "Схід сонця"
+ solarempire.13.d: "Знадобився час, щоби моя учениця нарешті побачила світло так, як його бачу я. Але тепер, вона по-справжньому вознеслася: її сила майже не поступється моїй. Вона готова служити істинній гармонії. Так, вона буде дуже корисною — я вже бачу, як їй кортить реалізувати свої плани." # (&?)
+ solarempire.13.a: "«Санрайз Спаркл» звучить гарно."
 
- solarempire.131.t:0 "Governing the Crystal Lands"
- solarempire.131.d:0 "[puppet_CRY.GetNameDefCap], our loyal subject and our companion in true harmony, is still much too forgiving towards her subjects. This tolerance of ponies who do not walk the path of harmony is a danger to them and by extension, to us. We should decide whether we want to change the ruler of our northern holdings, or keep the current princess in charge.\n\n[puppet_CRY.GetLeader], the current ruler of [puppet_CRY.GetNameDef], has wisely chosen to stay loyal to us. She has been a supporter of the old, weak, style of harmony and it still remains to be seen whether she can properly keep the crystal ponies in line. Sunrise Sparkle, our most fateful apprentice, has seen the light of truth and is ready to serve our cause. Sunrise is acquainted with the local populace and would make a most diligent administrator for the Crystal Province."
- solarempire.131.a:0 "[puppet_CRY.GetLeader] will get a chance to show her loyalty."
- solarempire.131.b:0 "Sunrise Sparkle will return order to the realm!"
+ solarempire.131.t: "Управління Кристальними землями"
+ solarempire.131.d: "Держава [puppet_CRY.GetNameDef], наш вірний суб'єкт і соратник істинної гармонії, все ще надто поблажлива до своїх підданих. Ця терпимість до поні, які не слідують шляхом гармонії, небезпечна для них, а отже й для нас. Нам слід вирішити, чи хочемо ми змінити правителя нашими північними володіннями або ж залишити поточну принцесу при владі.\n\n[puppet_CRY.GetLeader], поточна правителька держави [puppet_CRY.GetNameDef], мудро вирішила залишится лояльною нам. Вона є прихильницею старого, слабкого стилю гармонії, і ми ще побачимо, чи зможе вона належним чином підтримувати порядок. Санрайз Спаркл, наша найбільш вірна учениця, побачила світло істини і готова служити нашій справі. Санрайз знайома з місцевим населенням, і з неї вийде найбільш працьовита адміністраторка Кристальної провінції."
+ solarempire.131.a: "[puppet_CRY.GetLeader] отримає шанс проявити свою лояльність."
+ solarempire.131.b: "Санрайз Спаркл відновить порядок у державі!"
 
- solarempire.132.t:0 "[Root.GetLeader] Forever"
- solarempire.132.d:0 "Although the Celestia we knew has changed and she may never return to her old self, [Root.GetLeader] decided to subordinate herself to Daybreaker. The alicorn feared that resistance may just lead to yet more bloodshed and deep down, she hoped the Celestia she knew would come back. Luckily, Daybreaker decreed that [Root.GetLeader] could continue to rule the Crystal Empire. Although there would be a lot of oversight from Canterlot, [Root.GetLeader] hopes that she can at least protect her ponies somewhat in this arrangement."
- solarempire.132.a:0 "We need to carry on."
+ solarempire.132.t: "[Root.GetLeader] назавжди"
+ solarempire.132.d: "Хоча Селестія, яку ми знали, змінилася і зможе більше не повернутися до старої «я», [Root.GetLeader] вирішила підкоритися Дейбрейкер. Алікорн боялася, що опір може просто привести до ще білього кровопролиття, і в душі мала надію, що стара Селестія повернеться. На щастя, Дейбрейкер оголосила, що [Root.GetLeader] може продовжити управління Кристальною Імперією. Хоча за державою буде вестися суворий нагляд із Кантерлота, [Root.GetLeader] сподівається, що з цією домовленістю вона принаймні зможе дещо захистити своїх поні." # (&)
+ solarempire.132.a: "Ми продовжимо йти нашим шляхом."
 
- solarempire.133.t:0 "The Grand Inquisitor"
- solarempire.133.d:0 "Grand Inquisitor Sunrise Sparkle arrived in the Crystal City with an entourage of loyal troops. Without as much as a struggle, the alicorn installed herself in the palace and started getting to work without any ceremony. There was much to do here, and it was a great honour that Empress Daybreaker chose Sunrise to administer this part of her empire. As she made herself comfortable on the throne which once belonged to her dear friend, she felt a moment of regret. But the feeling fleeted and soon the inquisitor couldn't even recall it. This was her new home and she had a new task. She would make her Empress proud."
- solarempire.133.a:0 "It is time to spread true harmony."
+ solarempire.133.t: "Великий інквізитор"
+ solarempire.133.d: "Великий інквізитор Санрайз Спаркл прибула до Кристального Міста в оточенні відданих солдатів. ПяФактично без бою алікорн поселилася в палаці та без усяких церемоній узялася до роботи. Тут багато справ, і факт, що Імператриця Дейбрейкер обрала Санрайз для управління цією частиною її імперії, був великою честю. Коли вона облаштовувалася на троні, який колись належав її дорогій подрузі, вона на мить відчула жаль. Але відчуття минуло і скоро інквізитор навіть не могла згадати його. Це був її новий дім і вона мала нове завдання. Імператриця пишатиметься нею." # (&?)
+ solarempire.133.a: "Час поширювати істинну гармонію."
 
- solarempire.14.t:0 "Taking Sides"
- solarempire.14.d:0 "With Princess Celestia having undergone a transformation into Daybreaker, and with Nightmare Moon having her sight set on Canterlot, we find ourselves in a precarious position. Do we support Daybreaker and the Solar Empire - the continuation of the Equestrian government, or hope that Nightmare Moon will be more lenient? Or perhaps, given the players, maybe the best move is not to play?"
- solarempire.14.a:0 "We are staying out of this."
- solarempire.14.b:0 "We have our obligations towards Equestria."
- solarempire.14.c:0 "Nightmare Moon doesn't sound so terrible now..."
+ solarempire.14.t: "Вибір сторони"
+ solarempire.14.d: "Принцеса Селестія пройшла перетворення в Дейбрейкер, а Найтмер Мун спрямувала свій погляд на Кантерлот; ми ж опинилися в хиткому положенні. Чи підтримати нам Дейбрейкер і Сонячну Імперію — спадкоємицю еквестрійської влади, або ж висловити надію, що Найтмер Мун буде більш прихильною? Або, ймовірно, з урахуванням становища, найліпшим ходом буде вихід із гри?" # (&) :: останнє речення переписати
+ solarempire.14.a: "Ми залишаємося осторонь."
+ solarempire.14.b: "Ми маємо наші зобов'язання перед Еквестрією."
+ solarempire.14.c: "Найтмер Мун тепер не звучить так жахливо..."
 
- solarempire.15.t:0 "Time for Independence"
- solarempire.15.d:0 "The war is over, and the common enemy uniting us and Daybreaker is gone. Shall we keep the status quo and our subservience to the Solar Empire, or should we break ties with the tyrant in [SOL.Capital.GetName]?"
- solarempire.15.a:0 "We will not serve a tyrant!"
- solarempire.15.b:0 "Break free, and risk Sun's wrath?! Madness!"
+ solarempire.15.t: "Час незалежності"
+ solarempire.15.d: "Війна скінчилася, і спільний ворог, який поєднував нас із Дейбрейкер, зник. Чи збережемо ми статус-кво та нашу покору Сонячній Імперії, або ж ми розірвемо зв'язки з тираном у місті [SOL.Capital.GetName]?" # (&?)
+ solarempire.15.a: "Ми не станемо служити тиранові!"
+ solarempire.15.b: "Відколотися і ризикнути гнівом Сонця?! Божевілля!"
 
- solarempire.18.t:0 "Twilight Sparkle Captured"
- solarempire.18.d_sol:0 "[This.GetNewspaperHeader]Loyalist Solar troops have managed to capture Twilight Sparkle. Now that she is in custody, Daybreaker hopes that she can convince her faithful student of the righteousness of the Imperial cause."
- solarempire.18.d_eqs:0 "[This.GetNewspaperHeader]In a day that will live in infamy, Twilight Sparkle has been captured by troops still loyal to the crazed Princess Celestia. Even now, the Sun Tyrant plans to make her old student just as mentally unhinged as herself through unspeakable means."
- solarempire.18.a:0 "We've saved her!"
- solarempire.18.b:0 "We must save her!"
- solarempire.18.c:0 "I wonder what will happen with her..."
+ solarempire.18.t: "Твайлайт Спаркл узято в полон"
+ solarempire.18.d_sol: "[This.GetNewspaperHeader]Лоялістським сонячним військам вдалося полонити Твайлайт Спаркл. Тепер, коли вона перебуває під вартою, Дейбрейкер сподівається, що зможе переконати її вірну ученицю в правоті імперської ідеї." # (&)
+ solarempire.18.d_eqs: "[This.GetNewspaperHeader]Цей день житиме в ганьбі: Твайлайт Спаркл потрапила в полон до військ, досі лояльних збожеволілій принцесі Селестії. Просто зараз Сонячний Тиран планує зробити свою стару ученицю такою ж психічно неврівноваженою, як і вона, з застосуванням немислимих методів." # (&)
+ solarempire.18.a: "Ми врятували її!"
+ solarempire.18.b: "Ми мусимо врятувати її!"
+ solarempire.18.c: "Цікаво, що з нею станеться..."
 
- solarempire.19.t:0 "Crystal Princess Regent Twilight Sparkle Meets Mentor"
- solarempire.19.d:0 "[This.GetNewspaperHeader]Responding to a summons by Empress Daybreaker, Princess Twilight Sparkle travelled from [CRY.Capital.GetName] to [SOL.Capital.GetName]. After an eventful meeting, Daybreaker has announced that, as a countermeasure to the rising threat of assassination and civil unrest, Princess Regent Twilight has agreed of her own free will, without coercion, to reside in the Solar capital for the time being."
- solarempire.19.a:0 "Just like old times."
- solarempire.19.b:0 "Interesting."
- solarempire.19.c:0 "Is she mad, walking into the maw of the beast like that?!"
+ solarempire.19.t: "Кристальна принцеса-реґент Твайлайт Спаркл зустрічається з наставницею"
+ solarempire.19.d: "[This.GetNewspaperHeader]У відповідь на виклик від Імператриці Дейбрейкер, принцеса Твайлайт Спаркл вирушила з міста [CRY.Capital.GetName] до [SOL.Capital.GetName]. Після багатої на події зустрічі Дейбрейкер оголосила, що в якості контрзаходу на зростаючу загрозу вбивства та цивільного неспокою, принцеса-реґент Твайлайт з власної волі, без примусу, вирішила поки що проживати в Сонячній столиці." # (&?)
+ solarempire.19.a: "Просто як у старі часи."
+ solarempire.19.b: "Цікаво."
+ solarempire.19.c: "Вона божевільна? Отак просто ввійти до пащі звіра?!"
 
- solarempire.20.t:0 "Crystal Princess Regent Twilight Sparkle Declares Neutrality"
- solarempire.20.d:0 "[This.GetNewspaperHeader]In a statement today made in [CRY.Capital.GetName], Princess Regent Twilight Sparkle has declared that, while she opposes the actions of Daybreaker, she can neither bring herself to fight her former teacher nor force the ponies of [CRY.GetName] to fight their former compatriots. Therefore, she has declared that isolationism and non-interventionism will guide their foreign policy from now on."
- solarempire.20.a:0 "What makes a mare turn neutral?"
- solarempire.20.b:0 "Don't worry, I will not forget about you, my student..."
+ solarempire.20.t: "Кристальна принцеса-реґент Твайлайт Спаркл проголошує нейтралітет"
+ solarempire.20.d: "[This.GetNewspaperHeader]У заяві, виголошеній сьогодні в місті [CRY.Capital.GetName], принцеса-реґент Твайлайт Спаркл проголосила, що, хоча вона протистоїть діям Дейбрейкер, вона ані не може змусити себе боротися з колишньою вчителькою, ані примушувати [CRY.GetAdjective]их поні боротися з колишніми співвітчизниками. Таким чином, вона виголосила, що відтепер їхньою зовнішньою політикою керуватимуть ізоляціонізм і невтручання." # (&?)
+ solarempire.20.a: "Що змушує кобилицю стати нейтральною?"
+ solarempire.20.b: "Не хвилюйся, я про тебе не забуду, моя ученице..."
 
- solarempire.21.t:0 "Twilight Sparkle Escapes!"
- solarempire.21.d_eqs:0 "[This.GetNewspaperHeader]Princess Twilight has managed to avoid capture by the Solar Imperial Military, fleeing to join the rebels, far beyond the reach of the Empire. While Daybreaker has vowed to capture her, it can not be denied that, at least for the moment, Twilight Sparkle is indeed truant."
- solarempire.21.d_cry:0 "[This.GetNewspaperHeader]Princess Twilight has managed to avoid capture by the Solar Imperial Military, fleeing north to the Crystal Empire and her sister-in-law's family. While Daybreaker has vowed to capture her, [CRY.GetLeader] has responded through diplomatic channels that Twilight Sparkle is under their protection and that they will fight Daybreaker to the last if necessary."
- solarempire.21.a:0 "You can't run forever, my faithful student."
- solarempire.21.b:0 "Daybreaker can try and come get her!"
- solarempire.21.c:0 "Interesting."
+ solarempire.21.t: "Твайлайт Спаркл утікає!"
+ solarempire.21.d_eqs: "[This.GetNewspaperHeader]Принцесі Твайлайт владося уникнути захоплення Сонячною імператорською армією, і вона втекла до повстанців далеко поза зоною досяжності Імперії. Дейбрейкер поклялася взяти її в полон, але не можна заперечити, що принаймні на момент Твайлайт Спаркл дійсно вільна." # (&)
+ solarempire.21.d_cry: "[This.GetNewspaperHeader]Принцесі Твайлайт владося уникнути захоплення Сонячною імператорською армією, і вона втекла на північ, до Кристальної Імперії та родини своєї невістки. Дейбрейкер поклялася взяти її в полон, але [CRY.GetLeader] крізь дипломатичні канали дала знати, що Твайлайт Спаркл перебуває під її захистом і що за потреби вони будуть битися з Дейбрейкер до останнього." # (&)
+ solarempire.21.a: "Ти не зможеш тікати вічно, моя вірна ученице."
+ solarempire.21.b: "Хай Дейбрейкер спробує її впіймати!"
+ solarempire.21.c: "Цікаво."
 
- solarempire.23.t:0 "Twilight Sparkle Captured After Rebel Capitulation"
- solarempire.23.d:0 "[This.GetNewspaperHeader]As the resistance was collapsing, Imperial soldiers managed to capture Twilight Sparkle amids the chaos and bring her to [SOL.Capital.GetName]. There, Empress Daybreaker declared that Princess Twilight will be rehabilitated to see the error and foolishness of her behaviour."
- solarempire.23.a:0 "All too easy."
- solarempire.23.b:0 "That's terrible!"
- solarempire.23.c:0 "Interesting."
+ solarempire.23.t: "Твайлайт Спаркл узято в полон після капітуляції повстанців"
+ solarempire.23.d: "[This.GetNewspaperHeader]По мірі розпаду спротиву, імперським солдатам вдалося полонити Твайлайт Спаркл посеред хаосу та доставити її до міста [SOL.Capital.GetName]. Там Імператриця Дейбрейкер оголосила, що принцесу Твайлайт буде реабілітовано, щоби показати їй помилковість і нерозсудливість її поведінки." # (&?)
+ solarempire.23.a: "Як легко."
+ solarempire.23.b: "Це жахливо!"
+ solarempire.23.c: "Цікаво."
 
- solarempire.24.t:0 "Twilight Sparkle Once Again Dodges Solar Military"
- solarempire.24.d:0 "[This.GetNewspaperHeader]After the collapse of the Harmonist Rebellion, Princess Twilight has fled north to the Crystal Empire. Enraged, Empress Daybreaker has declared that she will chase Twilight Sparkle to the farthest reaches of the world if she has to."
- solarempire.24.a:0 "What am I paying you fools for?"
- solarempire.24.b:0 "We are awaiting her arrival."
- solarempire.24.c:0 "Another plan of the Sun Tyrant foiled!"
- solarempire.24.e:0 "I see."
+ solarempire.24.t: "Твайлайт Спаркл знов уникає сонячних військ"
+ solarempire.24.d: "[This.GetNewspaperHeader]Після розпаду заколоту гармоністів, принцеса Твайлайт утекла на північ, до Кристальної Імперії. Розлючена Імператриця Дейбрейкер оголосила, що вона поженеться за Твайлайт Спаркл до найдальших закутків світу, якщо доведеться."
+ solarempire.24.a: "За що я вам, блазням, плачу?"
+ solarempire.24.b: "Ми чекаємо на її прибуття."
+ solarempire.24.c: "Черговий план сонячного тирана провалився!"
+ solarempire.24.e: "Зрозуміло."
 
- solarempire.25.t:0 "Twilight Sparkle Arrives in [CRY.Capital.GetName]"
- solarempire.25.d:0 "[This.GetNewspaperHeader]With Solar troops high on her tail, Princess Twilight Sparkle, Element of Magic and former student of Princess Celestia-turned-Daybreaker arrived in [Root.GetAdjective] capital. There, [Root.GetLeader] has declared that Princess Twilight is under her protection, to cheers of gathered populace."
- solarempire.25.a:0 "She is welcome to stay as long as is needed."
- solarempire.25.b:0 "There is only one punishment for helping a traitor."
- solarempire.25.c:0 "Interesting."
+ solarempire.25.t: "Твайлайт Спаркл прибуває до міста [CRY.Capital.GetName]"
+ solarempire.25.d: "[This.GetNewspaperHeader]Маючи на хвості сонячні війська, принцеса Твайлайт Спаркл, Елемент Магії та колишня учениця принцеси Селестії, що обернулася на Дейбрейкер, прибула до [Root.GetAdjective]ої столиці. Там [Root.GetLeader] оголосила, що принцеса Твайлайт перебуває під її захистом, що викликало задоволення публіки." # (&)
+ solarempire.25.a: "Вона може залишатися так довго, скільки знадобиться." # (&?)
+ solarempire.25.b: "Є лиш одне покарання за допомогу зрадникові."
+ solarempire.25.c: "Цікаво."
 
- solarempire.26.t:0 "Twilight Sparkle Captured in the Crystal Empire"
- solarempire.26.d:0 "[This.GetNewspaperHeader]As the Crystal Empire was collapsing, Solar troopers captured Princess Twilight in a daring raid. The emotionally distraught Princess of Friendship is even now being brought before her former mentor. Her fate, as well as the fate of her family, is now in the hooves of the Sun Empress."
- solarempire.26.a:0 "Charming to the last."
- solarempire.26.b:0 "Oh no..."
- solarempire.26.c:0 "I see."
+ solarempire.26.t: "Твайлайт Спаркл узято в полон у Кристальній Імперії"
+ solarempire.26.d: "[This.GetNewspaperHeader]По мірі розпаду Кристальної Імперії, імперські воїни взяли в полон принцесу Твайлайт у результаті сміливого рейду. Емоційно розбита Принцеса Дружби постане перед своєю колишньою наставницею. Її доля, зарівно як і доля її сім'ї, лежить у копитах Імператриці Сонця." # (&?)
+ solarempire.26.a: "Чарівна до самого кінця."
+ solarempire.26.b: "О ні..."
+ solarempire.26.c: "Зрозуміло."
 
  solarempiresparkles.1.t:0 "Preparations"
  solarempiresparkles.1.d:0 "Today would be an important day- not just for me, but for the Empire as a whole. My preparations were made, and the path before me was clear. I am to make the Crystal Empire bend it's knee to it's true, Solar Rulers- by whatever means necessary...\n\nMy only hope is that Shining and Cadance are reasonable in the face of the new regime; that they can be brought to see Daybreaker's light as I have. But, if they cannot... well...\n\nThat's why I am going, after all. I slid open my closet door with a quick and simple spell, and gazed at the three sets of clothing in the direct centre. Daybreaker had given me the mission, and I'd given myself three options. Making my choice, I levitated my selection out of the closet to dress in. I'd go as..."
