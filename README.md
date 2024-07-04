@@ -11,11 +11,13 @@
 + `countries_zebrica`
 + `country_AET`
 + `country_BUF` (переклав *Kiparu*)
++ `country_CES` (переклав *Daybreaker*)
 + `country_CRY` (переклав *Юрій Лащенко*)
 + `country_CRY_NLR` (переклав *Юрій Лащенко*)
 + `country_CRY_SOL` (переклав *Юрій Лащенко*)
 + `country_DRG`
 + `country_EQS`
++ `country_GRF` (переклав *Юрій Лащенко*)
 + `country_GRF` (переклав [*StasJesus*](https://steamcommunity.com/profiles/76561198867405533))
 + `country_ERI`
 + `country_EYR`

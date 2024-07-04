@@ -2378,18 +2378,6 @@
 # country_GAR
  GAR_gargoyles_race: "Раса ґарґулій"
 
-# country_GFF
- GFF_governor_muck: "Губернатор Мак"
- GFF_chancellor_kekfeather: "Канцлер Кекфезер"
- GFF_virgil_emperor: "Імператор Верджил"
- GFF_heinrich_redtail: "$GRF_heinrich_redtail$"
-
- virgil_l: "Верджил"
- virgil_l2: "$virgil_l$"
- heinrich_l: "$GRF_heinrich_redtail$"
- heinrich_l2: "$GRF_heinrich_redtail$"
- eurus_l: "Еурус Форестгілл"
-
 # country_Great_lakes
  Generic_great_lakes_cosmetic_tag_placeholder_fascism: "Імперія Великих Озер"
  Generic_great_lakes_cosmetic_tag_placeholder_fascism_DEF: "Імперія Великих Озер"
