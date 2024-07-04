@@ -67,8 +67,9 @@
 + `province_names_overrides`
 
 ### Переписати в майбутньому
-+ `country_STG`
++ `country_AET`
 + `country_north_zebrican_war`
++ `country_STG`
 + `country_WAR`
 
 ## Файли без змін
