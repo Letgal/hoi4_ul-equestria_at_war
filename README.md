@@ -46,6 +46,7 @@
 + `eaw_focus_filter_tag`
 + `eaw_horse_techs`
 + `eaw_musictoggle`
++ `eaw_parties` (умовно)
 + `eaw_pony_techs`
 + `eaw_production`
 + `eaw_starting_warning_events`
