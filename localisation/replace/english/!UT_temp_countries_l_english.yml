@@ -900,21 +900,6 @@
  CCN_communism_DEF: "Об'єднане Королівство Чейнджлінґів"
  CCN_communism_ADJ: "Чейнджлінзьк"
 
-# country_CES
- CES_king_dust: "Король Даст"
- CES_furher_seaterror: "Фюрер Сітеррор"
- CES_daring_do: "Дерінґ Ду"
- CES_addie_hoover: "Адді Гувер"
- CES_mayor_quibble_pants: "Мер Квіббл Пентс"
-
- CES_quibble_pants: "Квіббл Пентс"
- CES_di_caprio: "Ді Капріо"
- CES_lauriel_craft: "Лоріел Крафт"
- CES_dian_diamonds: "Діан Даймондс"
- CES_henry_diamonds: "Генрі Даймондс"
- CES_van_drake: "Ван Дрейк"
- CES_knifepony: "Ґрейв Солс"
-
 # country_CHN
  CHN_queen_chrysalis: "Королева Кризаліс"
  CHN_thorax_name: "Торакс"
