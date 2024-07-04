@@ -2369,6 +2369,18 @@
   FRN_fabrizio: "Сер Фабріціо дель Уччелло"
   FRN_nobody: "Ніхто"
 
+ ### ПАРТІЇ ###
+  FRN_neutrality_party: "Пакт Мартлвінґів"
+  FRN_communism_party: "ПАС"
+  FRN_communism_party_long: "Партія аграрних соціалістів"
+  FRN_democratic_party: "Брати та сестри Трійці"
+  FRN_fascism_party: "ПЛФ"
+  FRN_fascism_party_long: "Патріотична ліга Францистрії"
+  FRN_democratic_party_1: "ВіТ"
+  FRN_democratic_party_1_long: "Вірність і традиція"
+  FRN_democratic_party_2: "РСП"
+  FRN_democratic_party_2_long: "Регілійна соціалістична партія"
+
  FRN_pulcino: "Пульчіно"
  FRN_vp_francistria: "Францистрія"
 
@@ -6243,6 +6255,19 @@
   WNG_national_liberation_committee: "Комітет національного визволення"
   WNG_EQC_puppet_leader: "Ґранческо П'юмоні"
   WNG_prince_gamedeo: "Принц Ґамедео, герцог Асболуса"
+
+ ### ПАРТІЇ ###
+  WNG_neutrality_party: "ЛПВ"
+  WNG_neutrality_party_long: "Ліберальна партія Вінґбардії"
+  WNG_monarchy_party: "Королівська рада"
+  WNG_monarchy_party_long: "Королівська рада"
+  WNG_communism_party: "КПВ"
+  WNG_communism_party_long: "Комуністична партія Вінґбардії"
+  WNG_democratic_party: "НПВ"
+  WNG_democratic_party_long: "Народна партія Вінґбардії"
+  WNG_fascism_party: "НФП"
+  WNG_fascism_party_long: "Національна фашистська партія"
+  WNG_nlc: "Комітет національного визволення"
 
 # country_YAK
  Yak_YAK: "Як"
