@@ -4657,9 +4657,9 @@
  CHN_ELF_military_occupation_democratic_ADJ: "Еквестрійсько-чейнджлінзьк"
 
  ELF_ask_for_states_back: "Відновлення Еквестрії"
- #ELF_ask_for_states_back_desc:0 "We were not alone in the struggle to defeat the Changeling menace; many other nations of the world have aided us in our liberatory endeavour. Some Equestrian territories emancipated from Changeling occupation remain under the control of such allies, however, and must be returned to us forthwith."
+ ELF_ask_for_states_back_desc: "Ми були не єдині в боротьбі проти загрози чейнджлінґів; багато інших держав світу допомогли нам у наших визвольних зусиллях. Однак деякі еквестрійські території, визволені з-під окупації чейнджлінґів, перебувають під контролем цих союзників, і вони мусять негайно повернутися до нас." # (&)
  ELF_ask_for_states_back_decision: "Переговори про відновлення"
- #ELF_ask_for_states_back_decision_desc:0 "We had been united against a common enemy, but our allies must be given recompense for their losses sustained in the fight to free Equestria and its ponies from under the Changeling jackboot. The debts we owe them shall be a heavy burden on our nascent freedom, but ultimately, it was an acceptable cost to pay."
+ ELF_ask_for_states_back_decision_desc: "Ми об'єдналися супротив спільного ворога, але нашим союзникам слід дати відшкодувати втрати, пережиті в боротьбі за визволення Еквестрії та її поні від гніту чейнджлінґів. Борги перед ним стануть важким тягарем для нашої молодої свободи, але врешті-решт це прийнятна ціна." # (&)
 
 # country_MER
  MER_genevieve_voliere: "Женев'єва Вольєр"
@@ -5615,7 +5615,7 @@
   TBK_zegiga: "Зеґіґа"
   TBK_republic_congress: "Конгрес Республіки"
   TBK_warlord_anarchy: "Анархія воєначальників"
-  TBK_wallnut_drive: "Уолнат Драйв"
+  TBK_wallnut_drive: "Уоллнат Драйв"
   TBK_baragzen: "Бараґзен"
   TBK_matanzal: "Матанзал"
   TBK_zamal_matanzal: "Замал-Матанзал"

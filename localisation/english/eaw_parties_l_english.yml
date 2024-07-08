@@ -482,13 +482,14 @@
  baaa: "Боягузи"
  baa: "Боягузи"
 
- SDL_neutrality_party:0 "Almalakiiyn"
- SDL_communism_party:0 "HEA"
- SDL_communism_party_long:0 "Harakat Aishtirakiatan Earabia"
- SDL_democratic_party:0 "HaB"
- SDL_democratic_party_long:0 "Hizb al'Iislah"
- SDL_fascism_party:0 "HAAA"
- SDL_fascism_party_long:0 "Hizb Altaqadum Alwatanii Alearabii"
+ # (&) :: переписати та локалізувати
+ SDL_neutrality_party:0 "Аль-Малакійн"
+ SDL_communism_party:0 "ГАЕ"
+ SDL_communism_party_long:0 "Гаракат Аіштіракіатан Еарабія"
+ SDL_democratic_party:0 "ХІ"
+ SDL_democratic_party_long:0 "Хізб аль-Іслаг"
+ SDL_fascism_party:0 "ХТВЕ"
+ SDL_fascism_party_long:0 "Хізб аль-Такадум аль-Ватанійй аль-Еарабійй"
 
  SDS_neutrality_party: "$SDL_neutrality_party$"
  SDS_communism_party: "$SDL_communism_party$"
@@ -607,10 +608,11 @@
  MTA_fascism_party: "???"
  MTA_fascism_party_long: "???"
 
- GIF_fascism_party:0 "Imba ye Matanda"
- GIF_neutrality_party:0 "Imba ye Twizanbwe"
- GIF_democratic_party:0 "Imba ye Musagano"
- GIF_communism_party:0 "Chikwata CheVarombo"
+ # (&) :: переписати та локалізувати
+ GIF_fascism_party:0 "Імба є Матанда"
+ GIF_neutrality_party:0 "Імба є Твізанбве"
+ GIF_democratic_party:0 "Імба є Мусаґано"
+ GIF_communism_party:0 "Чіквата ЧеВаромбо"
 
  MQA_fascism_party: "КНБ"
  MQA_fascism_party_long: "Комітет національної безпеки"
