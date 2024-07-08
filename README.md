@@ -27,10 +27,10 @@
 + `country_MTA` (умовно)
 + `country_north_zebrican_war`
 + `country_NTR`
-+ `country_OLE` (переклав *Max*)
++ `country_OLE`<!--  (переклав *Max*) -->
 + `country_POM`
 + `country_STG`
-+ `country_STL` (переклав *Max*)
++ `country_STL`<!--  (переклав *Max*) -->
 + `country_Storm` (переклав *Daybreaker*)
 + `country_VIN`
 + `country_WAR`
@@ -52,6 +52,7 @@
 + `eaw_starting_warning_events`
 + `eaw_zebra_generic` (переклав *Daybreaker*)
 + `loading_tips`
++ `parties`<!--  (переклав *Max*) -->
 + `recall_volunteers`
 + `renamed_states`
 + `southern_zebra_ideas`
