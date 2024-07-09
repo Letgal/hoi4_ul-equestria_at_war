@@ -9,9 +9,9 @@
 + `countries`
 + `countries_griffonia`
 + `countries_zebrica`
-+ `country_AET`
++ `country_AET` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
 + `country_BUF` (переклав *Kiparu*)
-+ `country_CES` (переклав *Daybreaker*)
++ `country_CES` (переклав [*Daybreaker*](https://steamcommunity.com/profiles/76561199084403733))
 + `country_CRY` (переклав *Юрій Лащенко*)
 + `country_CRY_NLR` (переклав *Юрій Лащенко*)
 + `country_CRY_SOL` (переклав *Юрій Лащенко*)
@@ -29,12 +29,12 @@
 + `country_NTR`
 + `country_OLE`<!--  (переклав *Max*) -->
 + `country_POM`
-+ `country_STG`
++ `country_STG` (переклав *ціктакомба*)
 + `country_STL`<!--  (переклав *Max*) -->
 + `country_Storm` (переклав *Daybreaker*)
 + `country_VIN`
-+ `country_WAR`
-+ `country_YAK` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
++ `country_WAR` (переклав *StasJesus*)
++ `country_YAK` (переклав *ціктакомба*)
 + `eaw_achievements`
 + `eaw_adjacency_rules`
 + `eaw_autonomy`
@@ -42,6 +42,7 @@
 + `eaw_decisions`
 + `eaw_difficulty`
 + `eaw_diplo_popup`
++ `eaw_flags_and_opinion`
 + `eaw_focus`
 + `eaw_focus_filter_tag`
 + `eaw_horse_techs`

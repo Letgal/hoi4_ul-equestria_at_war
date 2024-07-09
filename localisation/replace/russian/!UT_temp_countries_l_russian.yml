@@ -4289,6 +4289,9 @@
  KLG_hammer_steel:0 "Хаммер Стил"
  KLG_grumm:0 "Грумм"
 
+# country_LAK
+ unlock_focuses: "Відкриває фокуси."
+
 # country_LCT
  LCT_fascism: "Озергородська держава"
  LCT_fascism_DEF: "Озергородська держава"
