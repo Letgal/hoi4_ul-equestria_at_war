@@ -62,7 +62,11 @@
 + `unit_leader_stat_tooltips`
 + `victory_points`
 
-### Тека `replace`
+### Папка `replace`
++ `country_CAN_overrides` (умовно)
++ `country_CRY_overrides`
++ `country_JUN_overrides`
++ `country_YAL_overrides`
 + `eaw_bookmarks_overrides`
 + `eaw_flags_and_opinion_overrides`
 + `eaw_lar_operations_overrides`
@@ -82,3 +86,4 @@
 + `eaw_old_music`
 + `eaw_unitnames`
 + `supply_area_names_overrides`
++ `replace/country_MAN&ELF_overrides`
