@@ -46,6 +46,7 @@
 + `eaw_focus`
 + `eaw_focus_filter_tag`
 + `eaw_horse_techs`
++ `eaw_leaders` (зокрема переклав *ціктакомба*)
 + `eaw_musictoggle`
 + `eaw_parties` (умовно)
 + `eaw_pony_techs`
