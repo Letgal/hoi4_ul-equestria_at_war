@@ -215,7 +215,7 @@ l_english:
  rocket_artillery_equipment_x_2_short: "Сучас. ракет. артилерія"
  rocket_artillery_equipment_x_2_desc:0 "Developments in the field of rocketry had yielded fast firing rockets that burned for shorter but flew considerably farther. With improved building materials, larger rockets carrying greater warheads necessitated new launch platforms that were still easy to transport and capable of even greater and more intense barrages. "
 
- # Піхотне оснащення
+ # Піхотне спорядження
  infantry_equipment_x: "Штурмові гвинтівки"
  infantry_equipment_x_short: "$infantry_equipment_x$"
  infantry_equipment_x_desc:0 "A divergence from the development of battle rifles, the assault rifle mainly differentiates itself from the former by using intermediate rifle cartridges. The smaller calibre sacrifices overall range and stopping power for better weapon handling, making the assault rifle more useful in tighter combat situations. New tactics developed in tandem with this new rifle change the old infantry combat dynamics, rendering our soldiers far deadlier than those of yesteryear."

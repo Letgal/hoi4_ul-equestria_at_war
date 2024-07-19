@@ -529,7 +529,7 @@
   light_tank_recon_desc: "Використовуючи для розвідки легкі танки, ми можемо проводити розвідку боєм і краще оцінювати сили супротивника."
   SERVICE_MANPOWER_HEADER: "Службові поні-ресурси"
   LOW_MANPOWER_STAT_EFFECT:0 "§RWe currently only have $CUR|Y$ of $MAX|Y$ ponies in this division, limiting all stats to $FACTOR|%Y$ of what they would be if all equipment was present.§!" # (!)
-  armored_car_desc: "Швидка й мобільна машина, захищена від піхотного вогню."
+  armored_car_desc: "Швидка та мобільна машина, захищена від піхотного вогню."
   modern_tank_destroyer_brigade: "Основний бойовий ВТ"
   modern_tank_destroyer_brigade_desc: "Шасі основного бойового танка, оснащене ще більшою гарматою замість башти."
   modern_armor: "Основний бойовий танк"
