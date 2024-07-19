@@ -178,6 +178,42 @@
  at_armored_car_equipment_desc: "Опис"
  armored_car_at_equipment2: "Сучасна протитанкова бронемашина"
 
+ ### ЕКВЕСТРІЯ ###
+  EQS_melee_equipment_0: "Кантерлотські мечі"
+  EQS_melee_equipment_0_short: "Кантерлотські мечі"
+  EQS_melee_equipment_0_desc: "Найліпші мечі від кантерлотських ковалів. Це елеґантна зброя для більш цивілізованої епохи, яку нині використовують виключно на парадах і в крайніх випадках."
+  EQS_melee_equipment_1: "Мушкети Макінтошів"
+  EQS_melee_equipment_1_short: "Мушкети Макінтошів"
+  EQS_melee_equipment_1_desc: "Мушкети старої збірки Макінтошів."
+  EQS_infantry_equipment_0: "Гвинтівка «Лілія»"
+  EQS_infantry_equipment_0_short: "Лілія"
+  EQS_infantry_equipment_1: "Гвинтівка «Лаванда»"
+  EQS_infantry_equipment_1_short: "Лаванда"
+  EQS_infantry_equipment_2: "Гвинтівка «Вапняк»"
+  EQS_infantry_equipment_2_short: "Вапняк"
+  EQS_infantry_equipment_3: "Самозарядна гвинтівка «Вічнодика»"
+  EQS_infantry_equipment_3_short: "Вічнодика"
+  EQS_infantry_equipment_x: "Блискавка"
+  EQS_infantry_equipment_x_short: "Блискавка"
+  EQS_infantry_equipment_x_2: "Зоряне Сяйво"
+  EQS_infantry_equipment_x_2_short: "Зоряне Сяйво"
+
+  EQS_magical_equipment_1: "Гвинтівка «Луна-Нова» (прот. 3)"
+  EQS_magical_equipment_1_short: "Луна-Нова"
+  EQS_magical_equipment_2: "Магічна автоматична гвинтівка «Алікорн»"
+  EQS_magical_equipment_2_short: "Алікорн"
+  EQS_magical_equipment_3: "Магічна автоматична гвинтівка «Супернова»"
+  EQS_magical_equipment_3_short: "Супернова"
+  EQS_magical_equipment_4: "МК «Філліделфія»"
+  EQS_magical_equipment_4_short: "Філліделфія"
+
+  EQS_artillery_equipment_1: "70-мм гаубиця «Модель 8»"
+  EQS_artillery_equipment_1_short: "Модель 8"
+  EQS_artillery_equipment_2: "110-мм гаубиця «Модель 17»"
+  EQS_artillery_equipment_2_short: "Модель 17"
+  EQS_artillery_equipment_3: "170-мм гаубиця «Землетрус»"
+  EQS_artillery_equipment_3_short: "Землетрус" # Earthshaker
+
 # eaw_game_rules
  EQS_STATUS: "Еквестрія"
   RULE_OPTION_DEFAULT_EQS_STATUS_DESC: "Еквестрія — мирна та гармонійна держава, об'єднана диархією двох сестер-алікорнів."
