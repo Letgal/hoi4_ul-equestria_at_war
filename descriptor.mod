@@ -4,6 +4,7 @@ version = "2.2.2.6"
 tags = {
 	"Translation"
 	"1.14"
+	"Ukrainian"
 }
 dependencies = {
 	"Українська локалізація"

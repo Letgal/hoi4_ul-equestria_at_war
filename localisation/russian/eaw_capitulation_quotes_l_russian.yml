@@ -212,7 +212,7 @@ GetTNOReference_KIR_1: "Закінчується осінь, приходить 
 GetTNOReference_KIR_2: "Сонце заходить, закінчується осінь, приходить зима."
 GetTNOReference_KIR_3: "Мовчання було порушено назавжди."
 GetTNOReference_KIR_4: "Старі не можуть вічно вбивати молодих."
-GetTNOReference_KIR_DEL: "Кіновар робить свій імперський дебют."
+GetTNOReference_KIR_DEL: "Кіновар робить свій імперський дебют." # Кіновар: жіночий рід
 GetTNOReference_DEL_KIR: "Що за чортівня?"
 GetTNOReference_KIC: "Вогонь прерій загашено."
 GetTNOReference_KIC_1: "Стара доля спіткала нового матріарха."

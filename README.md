@@ -12,12 +12,12 @@
 + `country_AET` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
 + `country_BUF` (переклав *Kiparu*)
 + `country_CES` (переклав [*Daybreaker*](https://steamcommunity.com/profiles/76561199084403733))
-+ `country_CRY` (переклав *Юрій Лащенко*)
-+ `country_CRY_NLR` (переклав *Юрій Лащенко*)
-+ `country_CRY_SOL` (переклав *Юрій Лащенко*)
++ `country_CRY` (переклав [*Green Kitten*](https://steamcommunity.com/profiles/76561198235810742))
++ `country_CRY_NLR` (переклав *Green Kitten*)
++ `country_CRY_SOL` (переклав *Green Kitten*)
 + `country_DRG`
 + `country_EQS`
-+ `country_GRF` (переклав *Юрій Лащенко*)
++ `country_GRF` (переклав *Green Kitten*)
 + `country_GRF` (переклав [*StasJesus*](https://steamcommunity.com/profiles/76561198867405533))
 + `country_ERI`
 + `country_EYR`

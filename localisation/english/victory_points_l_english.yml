@@ -620,7 +620,7 @@
  VICTORY_POINTS_16710: "Спокій"
  VICTORY_POINTS_16721: "Дикий Рис"
  VICTORY_POINTS_20416: "Массіко"
- VICTORY_POINTS_20456: "Кіновар"
+ VICTORY_POINTS_20456: "Кіновар" # жіночий рід
  VICTORY_POINTS_20524: "Рапсодія"
  VICTORY_POINTS_20563: "Пахощі" # алт. Евфонія
  VICTORY_POINTS_20649: "Святкування"
@@ -676,7 +676,7 @@
  VICTORY_POINTS_20379: "Камфора"
  VICTORY_POINTS_20600: "Сайсі"
  VICTORY_POINTS_13043: "Аґава"
- VICTORY_POINTS_20411: "Велика Жимолость"
+ VICTORY_POINTS_20411: "Велика Жимолость" # Woodbine
  VICTORY_POINTS_12159: "Фосфор"
  VICTORY_POINTS_13360: "Алое"
  VICTORY_POINTS_20393: "Мірис"
@@ -708,7 +708,7 @@
  VICTORY_POINTS_17127: "В. П. Іроко"
  VICTORY_POINTS_16732: "В. П. Баньян"
  VICTORY_POINTS_2342: "Сумах"
- VICTORY_POINTS_20545: "Мала Жимолость"
+ VICTORY_POINTS_20545: "Мала Жимолость" # Honeysuckle
  VICTORY_POINTS_20452: "Меллорн"
  VICTORY_POINTS_16705: "Астраґал"
  VICTORY_POINTS_16322: "Настурція"
