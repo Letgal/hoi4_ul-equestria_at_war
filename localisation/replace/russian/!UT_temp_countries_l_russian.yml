@@ -444,6 +444,35 @@
  BAN_BOI_communism_DEF: "Наш Ґриффонстоун"
  BAN_BOI_communism_ADJ: "Ґриффонстоунськ"
 
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  BAN_cyrille_bluecrest: "Цирілла Блукрест"
+  BAN_blackrock: "Блекрок"
+  BAN_reeve_blyeddin: "Ріів Бледдин"
+
+  # Ґенерали
+  BAN_kajetan_bronsfeather: "Каєтан Бронзфезер"
+  BAN_dominik_pinfeather: "Домінік Пінфезер"
+  BAN_ulrich_hiperion: "Ульрих Гіперіон"
+
+  # Радники
+  BAN_vellare_hoenbrig: "Велларе Гоенбриґ"
+  BAN_ruqualash_bund: "Руквалаш Бунд"
+  BAN_chronus_roth: "Кронус Рот"
+  BAN_adlar_behrendt: "Адлар Берендт"
+  BAN_raintail_schutz: "Рейнтейл Шюц"
+  BAN_coeus_schutz: "Койус Шюц"
+  BAN_elmar: "Ельмар"
+  BAN_bluein: "Блуїн"
+  BAN_gaewin: "Ґаевін"
+  BAN_jochen: "Йохен"
+  BAN_huen_bendel: "Гюен Бендель"
+  BAN_aouranos: "Ауранос"
+  BAN_zikoba_gruber: "Зикоба Ґрубер"
+  BAN_phantomcrest_friesinger: "Фантомкрест Фрізинґер"
+  BAN_flatfeathers_suber: "Флетфезерс Субер"
+  BAN_don_adv: "Дон Еспадарте"
+
 # country_BAR
  barrad_climate: "Баррадський клімат"
  barrad_climate2: "$barrad_climate$"
@@ -820,6 +849,29 @@
  BRZ_EMPIRE_IDC_communism: "Демократична соціалістична імперія Грифонії"
  BRZ_EMPIRE_IDC_communism_DEF: "Демократична соціалістична імперія Грифонії"
  BRZ_EMPIRE_IDC_communism_ADJ: "Грифонськ"
+
+ ### ПАРТІЇ ###
+  BRZ_neutrality_party: "КП"
+  BRZ_neutrality_party_long: "Князівська партія"
+  BRZ_royal_party: "КП"
+  BRZ_royal_party_long: "Князівська партія"
+  BRZ_communism_party: "КПБ"
+  BRZ_communism_party_long: "Комуністична партія Бронзгіллу"
+  BRZ_democratic_party: "ГКП"
+  BRZ_democratic_party_long: "Гармонійно-консервативна партія"
+  BRZ_labour_party: "ГРП"
+  BRZ_labour_party_long: "Гармонійна робітнича партія"
+  BRZ_fascism_party: "НС"
+  BRZ_fascism_party_long: "Національний союз"
+  BRZ_fascism_knights: "Лицарі Бронзового хреста"
+  BRZ_fascism_knights_long: "Лицарі Бронзового хреста"
+  BRZ_archonate: "Прелат Рейвенсбурґа"
+  BRZ_archonate_long: "Прелат Рейвенсбурґа"
+  BRZ_bronze_party: "БҐП"
+  BRZ_bronze_party_long: "Бронзова ґрафська партія"
+  BRZ_communism_party_kim: "РПБ"
+  BRZ_communism_party_kim_long: "Робітнича партія Бронзгіллу"
+  #BRZ_juche_desc:0 "Unz-Kravakgash, sometimes translated as Self-Reliance, is the belief that the masses cannot self-regulate, but rather must be guided by a 'Great Leader' who is the mastermind of the working class. The Great Leader is without flaw and never commits mistakes, is always benevolent and always rules for the masses. The army is the greatest of all institutions guided by the Great Leader."
 
  ### ПЕРСОНАЖІ ###
   BRZ_count_ignatius: "Граф Іґнатіус Бронзтейл"
@@ -1204,6 +1256,45 @@
  CYA_citystate_fascism: "Фрайштаат Ной-Фіміав"
  CYA_citystate_fascism_DEF: "Вільна держава Новий Фіміав"
  CYA_citystate_fascism_ADJ: "Фіміавськ"
+
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  CYA_countess_taillow_sumpfkiel: "Графиня Тейллоу Зумпфкіль"
+  CYA_lady_taillow_von_livani: "Леді Тейллоу фон Лівані"
+  CYA_the_peoples_congress: "Народний конґрес"
+  CYA_alexandria_rinde: "Александрія Рінде"
+
+  # Ґенерали
+  CYA_yohn_vogelbeck: "Йон Фоґельбек"
+  CYA_bren_von_botschaftsstadt: "Брен фон Ботшафтсштадт"
+  CYA_ersuhl_von_thymiaushafen: "Ерзуль фон Фіміавсгафен"
+  CYA_elisia_geltz: "Елізія Ґельц"
+  CYA_rudiger_von_alonza: "Рюдіґер фон Алонца"
+  CYA_massimo_nachahmen: "Массімо Нахамен"
+
+  # Адмірали
+  CYA_scile_von_sprache: "Шіле фон Шпрахе"
+  CYA_cyprius_molch: "Кіпріус Мольх"
+
+  # Радники
+  CYA_prince_of_terror: "Юрґен фон Ґриффінґ"
+  CYA_smooth_talking_charmer: "Ганс Ґлаттеклауе"
+  CYA_captain_of_industry: "Маріе Шорнштайн"
+
+  minister_oeconomi: "Міністр Ейкономі"
+  minister_prolaiio: "Міністр Пролайо"
+  minister_adstutia: "Міністр Адстутія"
+  minister_casila: "Міністр Касіла"
+  marechal_highhoof: "Маршал Гайгуф"
+
+  CYA_army_chief_reform: "Вільгельміна Ланґкроне"
+  CYA_air_chief_ground_support: "Бореора Лойтшнабель"
+  CYA_air_chief_bomber_interception: "Курт фон Шнайклау"
+  CYA_navy_chief_commerce_raiding: "Курт фон Аквілея"
+  CYA_high_command_planning: "Лотар фон Троттинґа"
+  CYA_high_command_regrouping: "Берта Айлінґ"
+  CYA_high_command_artillery: "Людвиґ фон Нестторф"
+  CYA_theorist: "Едуард фон Льовберт" # Ø
 
  ### ПЕРЕМОЖНІ БАЛИ ###
   CYA_vp_kustendschugel: "Кюстенджунґель"
@@ -1771,6 +1862,73 @@
  EQC_FAL_protectorate_communism: "Соціалістична республіка Новий Мейрленд"
  EQC_FAL_protectorate_communism_DEF: "Соціалістична республіка Новий Мейрленд"
  EQC_FAL_protectorate_communism_ADJ: "Новомейрлендськ"
+
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  FAL_princess_maximilliana: "Принцеса Максімілліана"
+  FAL_queen_maximilliana: "Королева Максімілліана"
+  FAL_queen_maximilliana_ii: "Королева Максімілліана II"
+  FAL_gabriele_dartiglio: "Ґабріеле д'Артільйо"
+  FAL_andrea_ausiello: "Андреа Аузіелло"
+
+  # Ґенерали
+  FAL_princeconsort_alberto: "Принц-консорт Альберто"
+  FAL_aeliana_albia: "Армандо Альбія"
+  FAL_justus_lucius: "Юстус Луціус"
+  FAL_erika_von_feveros: "Еріка фон Феверос"
+  FAL_luigi_piediazzuri: "Луїджі П'єдіадзурі"
+  FAL_astore_diaz: "Асторе Діас"
+
+  # Адмірали
+  FAL_storno_toco: "Сторно Токо"
+  FAL_asiolo_dai_ciuffi: "Азіоло дай Чюффі"
+
+  # Радники
+  #Alberto_desc:0 "The Princess' beloved husband, Alberto is popular among the commonfolk for his charitable actions and humble nature. He is known for his baking skills, which he uses to provide food for the less fortunate griffons, doing his best to prevent starvation among the destitute. However, Alberto participates very rarely in the ongoings of the Falcorian politics, for he is not interested in them and wants nothing to do with the extremists."
+  Agrippa: "Аґапіто Дзітто"
+  Karkinos: "Карло ді Ала"
+  Kerykes: "Каракоза П'юма"
+  Pherae: "Ф'єро Бекко"
+  Ictinus_FAL: "Іґнаціо Артільйо"
+  Herostratus: "Ерое Неро"
+  Hesiod: "Ефізіо Пенна"
+  Gnathaena: "Ґаетана Креста"
+  Ampharos: "Одеро Терні Орландо"
+  Eunomus: "Еустакіо П'юмаджо"
+  Erinna: "Ермінія Пікк'ята"
+  Elpinice: "Ельпідіо Велоче"
+  Dorieus_FAL: "Доріано Волаторе"
+  Callia: "Каллісто Туффаторе"
+  Bion: "Б'яджо Пйоджа"
+  Alexias: "Александра Баньята"
+  Molossia: "Модесто Нуотаторе"
+  Albinus: "Альбіно Пресбіте"
+  Riven: "Рівен Шортфезер"
+  Agasicles: "Аґостіна ді Ферро"
+  Abronychus: "Абрамо Наскосто"
+  Zeus: "Дзено Уччелло"
+  Falea: "Фалеа Луміноза"
+  Falco: "Фалько Анатра"
+  Swellow: "Свелло Рондіне"
+
+ ### КОНСТРУКТОРИ ###
+  Nicocreon: "Гарматна майстерня Маттона"
+  Lycus: "Greybill Munizioni"
+  Lycurgus: "Atto Rapido"
+  maximillion: "Maximillion Refineries"
+  falx: "Falx Electronics"
+  malleus: "Malleus Manufacturing"
+  Hermes: "Falcor Aerospace"
+  Artemis: "Aeronautica Umbra"
+  Apollo: "Sudfolc Marittimo e Aereo"
+  Poseidon: "Верф Судфолка"
+  Fluctus: "Cantiere Navale Reale"
+  Cerberus: "Fabbrica Falcoriana Automobili"
+  Eupolis_FAL: "Eusebio Aquila"
+
+ ### НАЗВИ ОБЛАСТЕЙ ###
+  FAL_state_artiglio_islands: "Острови Артільйо"
+  FAL_state_maximilliana: "Максімілліана"
 
 # country_FAT
  FAT_Cloudbury_fascism: "Національна республіка Клаудбері"
@@ -3858,6 +4016,22 @@
   JFT_berty_albatros: "Берті Альбатрос"
   JFT_vin_gai: "Він Ґай"
 
+ ### РИСИ ###
+  JER_cru_trait: "Великий хлопчина"
+  JER_gadreau_trait: "Співчутлива революціонерка"
+  JER_marshal: "Маршал" # Maréchal
+  JER_verany_trait: "Герой революції"
+  JER_father_of_the_republic: "Батько республіки"
+  JER_kindly_enigma: "Загадковий доброзичливець"
+  JER_kindly_enigma_lar: "$JER_kindly_enigma$"
+  JER_uncouth: "Нестерпний геній"
+  JER_thibault_trait: "Профспілковий організатор"
+  JER_allard_trait: "Палкий аванґардист"
+  JER_captain_of_state_trait: "Капітан корабля"
+  JER_trade_council_trait: "Голос народу"
+  JER_empress_of_aquileia_trait: "Імператриця Аквілеї"
+  JER_empress_of_griffonia_trait: "Імператриця Аквілеї та Всія Грифонії"
+
 # country_JER_assembly
  JHZ_fascism: "Герцландська республіка"
  JHZ_fascism_DEF: "Герцландська республіка"
@@ -3989,6 +4163,43 @@
  JES_pan_aquileia_tag_communism: "Панаквілейська федерація"
  JES_pan_aquileia_tag_communism_DEF: "Панаквілейська федерація"
  JES_pan_aquileia_tag_communism_ADJ: "Панаквілейськ"
+
+ ### ПАРТІЇ ###
+  JES_neutrality_party: "Династія Дискрет"
+  JES_neutrality_party_long: "Династія Дискрет"
+  JES_communism_party: "ТСС"
+  JES_communism_party_long: "Таррінський союз соціалістів"
+  JES_democratic_party: "ТАЗ"
+  JES_democratic_party_long: "Таррінсько-аквілейські збори" # асамблея
+  JES_fascism_party: "ТНП"
+  JES_fascism_party_long: "Таррінська національна партія"
+  JES_communism_faction: "Ґенеральний національний конґрес"
+  JES_democratic_faction: "Республіканська фракція"
+  JES_fascism_faction: "Ультранаціоналістична фракція"
+
+ ### ПЕРСОНАЖІ ###
+  JES_count_guillaume_discret: "Граф Ґійом Дискрет"
+
+  JES_poet_advisor: "Рамбо Боскеґа"
+  JES_industry_advisor: "Ольстер Дюпюй"
+  JES_figurehead_advisor: "Фольтаж Деґей" # Деґюей?
+  JES_education_advisor: "Жюль Пейє"
+  JES_economist_advisor: "Люсьєн Бібело"
+  JES_connected_citizen_advisor: "Доріана Арно"
+
+  JES_land_theorist: "Валантен де Прекур"
+  JES_defence_theorist: "Ірен Ясент"
+  JES_air_theorist: "Емар Еньян"
+
+  JES_meinard_chief: "Мейнар Носер"
+  JES_corina_chief: "Коріна Трасвірер"
+  JES_leontina_chief: "Леонтіна Пандьйонн"
+  JES_air_reformer_chief: "План-Воль Левек"
+  JES_air_superiority_chief: "Емма Девож"
+  JES_morale_commander: "Каміла Бранке"
+  JES_logistics_commander: "Колен Понто"
+  JES_maneuver_commander: "Кантен Дельіль-Прево"
+  JES_cavalry_commander: "Моніка Левавассьор" # EU
 
  JES_focus_tree: "Дерево фокусів Тарріна"
 
@@ -4290,7 +4501,44 @@
  KLG_grumm:0 "Грумм"
 
 # country_LAK
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  LAK_alaric_dawnbreaker: "Аларік Донбрейкер"
+  LAK_rumare_peoples_council: "Румерська народна рада"
+
+  # Ґенерали
+  LAK_plane_crasher: "Плейн Крешер"
+  LAK_graid_ap_sawdwr: "Ґрайд ап Саудур"
+  #welsh_sheepfucker_desc:0 "§YBorn§!: August 18th, 965 in Rumare\n\n§YRank§!: Cyffredinol\n\n§YBiography§!: Born in Rumare in 965 to an Imperial Officer and a local Rumarean fishergriff, Graid spent the first years of his chickhood in comfortable living, as the small island barony was mostly devoid of the conflict and troubles which plagued Griffonia even before the collapse of the Empire. He would spend these years either playing in the grassy fields of the island or in his education, which his father ensured was focused on the history of Griffonia and the Empire.\n\nThis changed in 978, when the Republican Revolution struck the Empire. As Imperial authority disappeared overnight, Rumare gained de-facto independence; however this didn't sit well with his father, who remained loyal to Griffenheim. As a result, twelve year old Graid would be uprooted from his home, as his father moved his family to the Heartlands and joined the Imperial loyalists against Kemerskai's revolutionaries. After Grover V was restored to the throne, Graid's father decided to stay in Griffenheim, as he was promoted due to his loyalty to the Imperials. His education on the Empire's history and glory was doubled down, and now included the teaching of Griffish language and literature, displacing his native Rumarean.\n\nAfter coming of age, Graid was enrolled in the Vinnin Military Academy, graduating four years latter in 987 as an infantry officer. The climate of social chaos and decay in the Empire following the Revolution made him feel unhappy, and he began to look at his chickhood in Rumare with a certain sense of nostalgia. As a result, he focused himself on his free time to learning of Rumare's history, culture and literature; increasing his fondness for his birthplace. He eventually resigned his officer commission from the Reichsarmee after eleven years of service and promptly moved back to Rumare. After writing a Rumarean language novel in 1001 - which wasn't very successful - he made a request to Baron Recimir to join as an officer of the small Rumare Defense Force, which was accepted.\n\n§YPortrait By§!: Riley"
+  LAK_dyfi_evans: "Диві Еванс"
+  LAK_iorath_uren: "Іораф Урен"
+
+  # Радники
+  LAK_captain_of_industry: "Осіан ап Карвин"
+  LAK_fortification_engineer: "Карвин Талоґ"
+  LAK_war_industrialist: "Еліс ап Трістан"
+  LAK_backroom_backstabber: "Рис Кофі"
+  LAK_army_chief_off: "Морґан ап Алан"
+  LAK_army_chief_def: "Трістан Дрісколл"
+  LAK_navy_chief_decisive_bat: "Гарі Мосс"
+  LAK_navy_chief_commerce_raiding: "Меґан ап Гивел"
+  LAK_air_close_air_sup: "Алан ап Рис"
+  LAK_air_chief_airborne: "Джак Мосс"
+  LAK_air_chief_all_weather: "Трістан Терфел"
+  LAK_army_inf: "Алед ап Алан"
+  LAK_army_art: "Ґвидіон Кофі"
+  LAK_commando: "Джак Морґан"
+  LAK_navy_fleet_log: "Брин ап Карвин"
+  LAK_air_air_combat_trainer: "Ніа Дрісколл"
+  LAK_military_theorist: "Дилан ап Гивел"
+  LAK_naval_theorist: "Дилан Морґан"
+  LAK_air_warfare_theorist: "Кай Ґріффітс"
+
  unlock_focuses: "Відкриває фокуси."
+
+ ### НАЗВИ ОБЛАСТЕЙ/ПРОВІНЦІЙ ###
+  384_LAK_NAME: "Ейнкартрев"
+  5203_LAK_NAME: "Бринкопр"
 
 # country_LCT
  LCT_fascism: "Озергородська держава"
@@ -4683,6 +4931,56 @@
  MIT_MEGALI_neutrality: "Сполучене Королівство Астеріону та Сікамеону"
  MIT_MEGALI_neutrality_DEF: "Сполучене Королівство Астеріону та Сікамеону"
  MIT_MEGALI_neutrality_ADJ: "Астеріонсько-сікамеонськ"
+
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  MIT_fascio_communist_coalition_cabinet: "Кабінет міністрів ФКК"
+  MIT_military_administration: "Військова адміністрація"
+  MIT_provisional_government: "Тимчасовий уряд"
+  MIT_andris_dory: "Андріс Дорі"
+  MIT_konstantine_opli: "Константін Оплі"
+  MIT_maximin_kokkinos: "Максімін Коккінос"
+
+  # Ґенерали
+  MIT_ioannis_mamouris: "Іоанніс Мамуріс"
+  MIT_athanasios_exadaktylos: "Афанасіос Екзадактілос"
+  MIT_konstantinos_charalambis: "Константінос Хараламбіс"
+  MIT_dimosthenis_dialetis: "Дімосфеніс Діалетіс"
+  MIT_makis_rodides: "Макіс Родідіс"
+  MIT_magia_nicoloti: "Магіа Ніколоті"
+  MIT_ioulitta_valliade: "Іулітта Валліаде"
+  MIT_asopus_justus: "Асопус Юстус"
+
+  # Адмірали
+  MIT_georgios_tsolakoglou: "Георгіос Цолакоглу"
+
+  # Радники
+  MIT_Iron_Will: "Айрон Віл"
+  #MIT_Iron_Will_desc:0 "After having a relatively successful career in Equestria as a motivational speaker and assertiveness trainer, Iron Will has decided to return to his homeland and seek employment there. Some say it is because of his poor reputation in the land of ponies."
+  #shekel_desc:0 "General Justus' fame is based on his relentless and devastating raids against Freeholders' Syndicate, making him a boogeybull for both the pirates and Asterion Marine Corps. In stark contrast, the bull's political career has been disastrous. His staunch supporter of Enotita - especially its more militant wing - paints him as a firm supporter of country's current course. But his outright xenophobia, as well as visible support of old, obscure beliefs and faiths puts him really low on popularity lists. \n\nPerhaps, he would be better off with the Fascio-Communist Coalition, but the general harshly pushed away their invites, as he considers them hostile elements, that "push back the glorious day of mainland reclamation". These factors combined make a decorated general, one of the most brilliant military minds of modern Asterion... a laughingstock of country's political scene.\n\n§YPortrait by§!: Scroup"
+  MIT_Randy: "Ренді, козлик-ведучий"
+  #MIT_Randy_desc:0 "While working as a speaker and a trainer, Iron Will had a group of goat assistants, the most notable of which was Randy. He was responsible for most of the administrative work behind Iron Will's many shows and public appearances and is always glad to do paperwork (even though he often eats the paper)."
+  MIT_compassionate_gentleman: "Евгеніос Іоанну"
+  MIT_war_industrialist: "Васіліос Захарокс"
+  MIT_armaments_organizer: "Сідіра Оплі"
+  MIT_quartermaster_general: "Стратігос Кератос"
+  MIT_pot: "Іоанна Буллпіоті"
+  MIT_communist_advisor: "Іліас Цірімукос"
+  MIT_fascist_advisor: "Стіліані Раллі"
+  MIT_harmony_advisor: "Амулія Керамопулу"
+  MIT_army_chief_offensive: "Полеміос Оплофорос"
+  MIT_army_chief_defensive: "Стратос Аспідас"
+  MIT_air_chief_reform: "Кірос Міноас"
+  MIT_air_chief_safety: "Аргос Стаферос"
+  MIT_navy_chief_commerce_raiding: "Скіодіс Ревмас"
+  MIT_navy_chief_maneuver: "Мумуліна Ласкаріу"
+  MIT_military_theorist: "Алікі Петровеї"
+  MIT_naval_theorist: "Варфоломус Галанос"
+  MIT_air_warfare_theorist: "Ікарос Фтерос"
+  MIT_hc1: "Марія Зафірі"
+  MIT_hc2: "Георгіос Сакулотос"
+  MIT_hc3: "Іріні Конділі"
+  MIT_hc4: "Янніс Таврос"
 
  MIT_coalition_of_sovereign_nations: "Конкордат вільних націй"
 
@@ -5403,6 +5701,104 @@
  fetter_keys_ac: "$fetter_keys$"
 
 # country_SIC
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  SIC_father_jose: "Отець Хосе"
+  SIC_don_espadarte: "Дон Еспадарте"
+  #SIC_espadarte_desc:0 "How can a person like Don Espadarte be summarized in a few paragraphs? His personality is as colourful as it is diverse, and popular rumours about him muddle the truth. To some, he is a hero of the common folk, who steals from the rich and gives to the poor. To others, he is a criminal, a pirate, a true scoundrel. Griffons hate him or love him, and either interpretation can be the reason for such strong feelings.\n\nIn public, Don Espedarte is suave, a womanizer and a skilled negotiator, able to make difficult deals with others. Yet in private, he is a conflicted person, divided between being a true hero or taking advantage of others; common good against personal greed. His real name is known only to him, and his past is a well-kept secret. He is the son of a disgraced merchant, who was imprisoned for his acts of crime during the desperate times, when the Griffonian Empire collapsed and the continental economy was in tatters. As such, he was introduced to a life of crime at a young age, and has been arrested by Sicameonese authorities multiple times, yet has always managed to get released with only mild punishments. He became a big player in Sicameon's criminal underworld, forming many connections with mafia bosses and corsairs.\n\nNow, he is taking the gamble of his life, using questionable means to become the leader of Sicameon. Whether he simply seeks to exploit the populace or genuinely improve their lives remains to be seen, as his loyalty to his nation and his duty is faltering at best."
+  SIC_alexis_de_sicameon: "Алексіс де Сікамеон"
+  #SIC_alexis_desc:0 "Alexis de Sicameon, whose name was Alexis Tórtola-Paloma before he became the Dux of Sicameon, comes from the nation's traditional political elite which consists of merchants and communal leaders of inland parishes. He rose to power in the customary manner, rising through the ranks and holding increasingly prestigious offices before finally reaching the top. This custom has its roots in the Karthinian period, having changed little over the centuries.\n\nAlexis is a pragmatist, caring less about ideals and more about what is practical and useful to his agenda. As such, he is flexible and willing to cooperate with his political enemies if necessary. Both his opponents and supporters would say he brought a feminine touch to his administration, preferring to resolve disputes in a delicate, empathic fashion. He is a humble and gentle person, popular across all strata of Sicameonese society, and simply wishes for peace and prosperity. Yet there are some who say he is too soft and too compromising, and that Sicameon needs radical solutions to its problems in these uncertain times."
+  SIC_remige_plumar: "Реміхе Плюмар"
+  #SIC_remige_desc:0 "Growing up in the countryside, Remige Plumar experienced cultural shock as he moved to a coastal city, becoming exposed to a diverse influx of ideas brought to Sicameonese ports from abroad. He changed from a peasant to a lover of culture, but also realized that Sicameon was just one nation among many. Thus, he became a visionary, believing Sicameon should be strong to retain its independence, yet also take part in international affairs. He soon joined the main radical party of Sicameon, revitalizing it and shaking up the establishment with his unorthodox views.\n\nHis ideology, Sicameonese syndicalism, is a mix of both domestic and foreign ideas. He is a proponent of trade unions, strike actions and internationalism, yet also a devout member of Sycaecia's cult, a populist leader and an advocate of democracy. His ideas have spread widely among the working class of Sicameon, but have also made him an enemy of the merchants who have traditionally held much power in the country. Not only that, but he often finds himself in conflict with foreign socialists, making his aspirations of internationalism difficult to fulfill."
+
+  # Ґенерали
+  SIC_carlos_kartino_de_valle: "Карлос Картіно де Валле"
+  SIC_mika_volarman_de_etchebehere: "Міка Воларман де Етчебеере"
+  SIC_cipriano_garra: "Сіпріано Ґарра"
+  SIC_valentin_el_campesino_glacialez: "Валентін «Ель-Кампесіно» Ґласіалес"
+  SIC_jose_pico: "Хоче Піко"
+  SIC_leila_ordona: "Лейла Ордона"
+  SIC_teodorico_aponte: "Теодоріко Апонте"
+
+  # Адмірали
+  SIC_antonio_azarola_y_grifon: "Антоніо Асарола-і-Ґріфон"
+  SIC_juana_pluma_garraz_de_mendoza: "Хуана Плюма Ґаррас де Мендоса"
+  SIC_miguel_vuelo_fernandez_pajaro: "Мігель Вуело Фернандес Пахаро"
+
+  # Радники
+  SIC_advisor_1: "Карлос де Мідорія"
+  SIC_advisor_2: "Асунсьйон Кола Інфернал"
+  SIC_advisor_3: "Ана Плюма де Єрро"
+  SIC_advisor_4: "Федеріко Плюманегра"
+  SIC_advisor_5: "Каміло Нідоальто"
+  SIC_advisor_6: "Хасінто Пікорробле"
+  SIC_advisor_7: "Сантьяго Рамон Ґарра де ла Томента"
+  SIC_advisor_8: "Хорхе Орельяна"
+  SIC_advisor_9: "Педро Крестасул"
+  SIC_advisor_10: "Мігель Аларроха"
+  SIC_advisor_11: "Рікардо Аласеро"
+  SIC_advisor_12: "Мануель Коласеро"
+  SIC_advisor_13: "Марія дель Кармен Аларроса"
+  SIC_advisor_14: "Хуан де ла Ґарра"
+  SIC_advisor_15: "Рафаель Коларроха"
+  SIC_advisor_16: "Іньякі Ґарраларга"
+  SIC_advisor_17: "Франсіско Ґарранегра"
+  SIC_advisor_18: "Вікторія Плюмалус"
+  SIC_advisor_19: "Роса Ґарраоскура"
+  SIC_advisor_20: "Федеріко Плюмагріс"
+  SIC_advisor_21: "Ґарсіласо Алав'єнто"
+  SIC_advisor_22: "Анхель Пікоррока"
+  SIC_advisor_23: "Люсія Піко де Фуего"
+  SIC_advisor_24: "Хосе Плюмарроха"
+  SIC_blackrock_adv: "Блекрок Еспадарте"
+
+ ### АЛЬЯНСИ ###
+  SIC_robin_hood_faction: "Лос-Пікарос"
+  SIC_oligarquia_faction: "Олігаркія"
+
+ ### КОНСТРУКТОРИ ###
+  arahno_vehiculos_especiales: "Arahno Vehiculos Especiales"
+  arahno_vehiculos_especiales_desc: ""
+  construccion_agricola_tractores: "Compania de Tractores Agricolas"
+  construccion_agricola_tractores_desc: ""
+  laboratoria_de_la_isla_escarlata: "Laboratorio de Isla Escarlata"
+  laboratoria_de_la_isla_escarlata_desc: ""
+  nacional_de_electricidad_midoria: "Nacional de Electricidad Midoria"
+  nacional_de_electricidad_midoria_desc: ""
+  nacional_de_electricidad_midoria_lvl2: "$nacional_de_electricidad_midoria$"
+  nacional_de_electricidad_midoria_lvl2_desc: ""
+  nacional_de_electricidad_midoria_lvl3: "$nacional_de_electricidad_midoria$"
+  nacional_de_electricidad_midoria_lvl3_desc: ""
+  fomento_de_obras_y_construcciones_sicameon_FOCS: "FOCS"
+  fomento_de_obras_y_construcciones_sicameon_FOCS_desc: ""
+  arsenal_sycamore: "Arsenal Nacional Sycamore"
+  arsenal_sycamore_desc: ""
+  estrella: "Estrella"
+  estrella_desc: ""
+  estrella_lvl2: "$estrella$"
+  estrella_lvl2_desc: ""
+  estrella_lvl3: "$estrella$"
+  estrella_lvl3_desc: ""
+  motores_makomo: "Motores Makomo"
+  motores_makomo_desc: ""
+  astilleros_y_talleres_de_queruscos: "Astilleros y Talleres de Queruscos"
+  astilleros_y_talleres_de_queruscos_desc: ""
+  eritonaval: "Eritonaval"
+  eritonaval_desc: ""
+  eritonaval_lvl2: "$eritonaval$"
+  eritonaval_lvl2_desc: ""
+  eritonaval_lvl3: "$eritonaval$"
+  eritonaval_lvl3_desc: ""
+  fast_battleship_committee_designer: "Comité de Acorazado Rápido"
+  fast_battleship_committee_designer_desc: ""
+  construcciones_aeronauticas_escalara_CAEA: "CAEA"
+  construcciones_aeronauticas_escalara_CAEA_desc: ""
+  ala_vuelo: "Ala-Vuelo"
+  ala-vuelo_desc: ""
+  grupo_aviones_keowen: "Grupo Aviones Keowen"
+  grupo_aviones_keowen_desc: ""
+
+ ### МОДИФІКАТОРИ ДУМКИ ###
  SIC_antimonarchism: "Антимонархізм"
  SIC_minotaur_friends: "Друзі-мінотаври"
  SIC_bandits: "Зневага до злочинців"
@@ -5570,6 +5966,23 @@
   TAL_entrenchment_advisor: "Феліче Віньйола"
   TAL_concealment_advisor: "Панталео Сошія" # Соша
   TAL_logistics_advisor: "Ернесто Марроне"
+
+ ### ПОЛІТИЧНІ ПАРТІЇ ###
+  TAL_neutrality_party: "КП"
+  TAL_neutrality_party_long: "Консервативна партія"
+  TAL_communism_party: "ТРФ"
+  TAL_communism_party_long: "Талузький робітничий фронт"
+  TAL_democratic_party: "ЛП"
+  TAL_democratic_party_long: "Ліберальна партія"
+  TAL_fascism_party: "ЛНВ"
+  TAL_fascism_party_long: "Ліга національного відродження"
+  TAL_miner_party: "ФТК"
+  TAL_miner_party_long: "Федерація талузьких комун"
+  TAL_syndi_party: "СП"
+  TAL_syndi_party_long: "Синдикалістська партія"
+
+ ### АЛЬЯНСИ ###
+  TAL_syndi_faction: "Південногрифонська робітнича ліга"
 
 # country_TBK
  BAT_republic: "Нова Місячна Республіка"

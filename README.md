@@ -10,6 +10,7 @@
 + `countries_griffonia`
 + `countries_zebrica`
 + `country_AET` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
++ `country_BOI`
 + `country_BUF` (переклав *Kiparu*)
 + `country_CES` (переклав [*Daybreaker*](https://steamcommunity.com/profiles/76561199084403733))
 + `country_CRY` (переклав [*Green Kitten*](https://steamcommunity.com/profiles/76561198235810742))

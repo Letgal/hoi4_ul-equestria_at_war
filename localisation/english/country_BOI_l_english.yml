@@ -1,0 +1,18 @@
+﻿l_english:
+### ПЕРСОНАЖІ ###
+ # Лідери
+  BOI_grandpa_gruff: "Дідусь Ґрафф"
+  BOI_zombie_guto: "Зомбі-Ґуто"
+  BOI_gilda: "Ґільда"
+  BOI_gertrude: "Ґертруда"
+
+ # Ґенерали
+  BOI_greta: "Ґрета"
+  BOI_gabriella: "Ґабріелла"
+  BOI_gallus: "Ґаллус"
+
+### Designers ###
+ BOI_griffonstone_national_university: "Ґриффонстоунський національний університет"
+
+### РІШЕННЯ ###
+ BOI_ally_wingbardy: "Приєднатися до альянсу [From.GetFactionName]"
