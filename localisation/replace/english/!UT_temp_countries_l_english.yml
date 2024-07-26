@@ -461,7 +461,7 @@
   BAN_chronus_roth: "Кронус Рот"
   BAN_adlar_behrendt: "Адлар Берендт"
   BAN_raintail_schutz: "Рейнтейл Шюц"
-  BAN_coeus_schutz: "Койус Шюц"
+  BAN_coeus_schutz: "Цеус Шюц"
   BAN_elmar: "Ельмар"
   BAN_bluein: "Блуїн"
   BAN_gaewin: "Ґаевін"
@@ -2129,6 +2129,59 @@
  FAT_APRILFOOLS_communism_DEF: "Єресь Донкло"
  FAT_APRILFOOLS_communism_ADJ: "Маарськ"
 
+# country_FBK
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  FBK_council_of_chieftains: "Рада вождів"
+  FBK_hermane_gering: "Гермейн Ґеринґ"
+  FBK_king_hermane_i: "Король Гермейн I"
+  FBK_grand_duke_hermane_i: "Великий герцоґ Гермейн I"
+  FBK_cenhelm_of_farbrook: "Ценгельм Фарбруцький"
+  FBK_a_squabbling_group_of_stallionists: "Сварлива група сталліоністів"
+  FBK_comrade_applethorn: "Товариш Епплторн"
+  FBK_hempstrand_char: "Гемпстренд"
+  FBK_interim_government: "Перехідний уряд"
+
+  # Ґенерали
+  FBK_taffy_swirl: "Таффі Свірл"
+  FBK_mertweth_of_losthope: "Мертвет Лостгоупський"
+  FBK_minnyhooves: "Міннігувз"
+  FBK_chief_brightflank: "Вождь Брайтфленк"
+
+  # Радники
+  FBK_advisor1: "Ґрейкоут"
+  FBK_advisor2: "Трифт Ґрифт"
+  FBK_advisor3: "Ґлінт Ґолд"
+  FBK_advisor4: "Уормгарт"
+  FBK_advisor5: "Іратус Аркана"
+  FBK_advisor6: "Фезергувз"
+  FBK_advisor7: "Даґаут"
+  FBK_advisor8: "Уайтфезерс"
+  FBK_advisor9: "Ґолден Вінґ"
+  FBK_advisor10: "Сішанті"
+  FBK_advisor11: "Солтлік"
+  FBK_advisor12: "Шур Шот"
+  FBK_advisor13: "Флітгуф"
+  FBK_advisor14: "Баррел Чест"
+  FBK_advisor15: "Кін Ай"
+  FBK_advisor16: "Уор Рум"
+  FBK_advisor17: "Ред Фезерс"
+  FBK_advisor18: "Брайт Спарк"
+
+ ### КОМПАНІЇ ###
+  FBK_advisor19: "Тракторний завод «Tugworth»"
+  FBK_advisor20: "Бронетанковий концерн «Maxima»"
+  FBK_advisor21: "Farbrook Munition Co."
+  FBK_advisor22: "Bitbridle Rifles"
+  FBK_advisor23: "Whiteline Vehicles"
+  FBK_advisor24: "Фарбруцька ґільдія купців"
+  FBK_advisor25: "Єзераґрадська електроніка — фарбруцька філія"
+  FBK_advisor26: "Hillwings Aviation"
+  FBK_advisor27: "Northern Wind Co."
+  FBK_advisor28: "Losthope Shipping Co."
+  FBK_advisor29: "Бакарські емісари"
+  FBK_advisor30: "Пірати Синього Прапора"
+
 # country_FEA
  FEA_c_takeover_tag_fascism: "Фетізька національна республіка"
  FEA_c_takeover_tag_fascism_DEF: "Фетізька національна республіка"
@@ -2303,6 +2356,57 @@
   # Адмірали
   FEZ_bertrand_bordelyon: "Бертран Бордліон"
   FEZ_alphonsine_surfurtive: "Альфонсін Сюрфюртів"
+
+# country_FIR
+ EAW_WS_FIR: "Ялини: Сховані в лісах"
+ #EAW_WS_FIR_desc:0 "Firtrees is a small collection of villages in the North-East of the Griffonian Continent. Bonedrift, the largest village, typically dominates the affairs of the realm, but a council of each tribe's chieftain convenes once every three months to discuss matters and address problems that are too large for one village to handle.\n\nFirtrees is an isolated place, covered in deep forests. The ponies here ignore almost everything that happens outside their borders, and even the bandits of the Sunstriker Clan rarely bother to raid them, so little is there here. §RMagic is strictly regulated§!, and only members of the Sacred Order are allowed to cast spells. Any illegal spellcasting is strictly punished, by any means up to and including §Rexile§!. In the wild lands of the north, being made an exile and outlaw is tantamount to a death sentence, making this punishment doubly horrifying. While some ponies regard this as unfair, it is one of the reasons why our nation has been §Ystable§! and §Ypeaceful§! for so long.\n\nIn 1007, Firtrees still seems peaceful, but ominous rumblings can be heard. The Chieftain of the Coldmouth Clan has died with no living family members, and there is a major dispute over who will succeed him. Some mention that §YShinespark§!, his daughter, may still live, but she was §Rexiled§! years ago for advancing §Rdangerous theories§!. We were almost certain that she had died, but there have been rumblings that she may still live. If she does, then it is likely that she will §Yreturn§!, and then she will have to be §Ydealt with§!, whether peacefully or by force. Will life in Firtrees continue as normal, or change irrevocably? Only time will tell...\n\nAnd behind all of this, strange lights are seen in the Deep Woods, and strange dreams have been plaguing the seers. Is it possible that the §RForest Spirits§! have awoken?"
+
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  FIR_shinespark_name: "Шайнспарк"
+  FIR_iorweth_the_spirit_speaker: "Іорвет Що-Розмовляє-З-Духами"
+  FIR_not_iorweth: "Іорвет?"
+  FIR_avatar_iorweth: "Аватар Іорвет"
+  FIR_the_keepers: "Хранителі"
+
+  # Ґенерали
+  FIR_chief_iron_hooves: "Вождь Айрон Гувз"
+  FIR_heortweth_the_brave: "Геортвет Відважний"
+  FIR_glamroth_oakenhoof: "Ґламрот Оукенгуф" # Дубове Копито
+
+  # Радники
+  FIR_advisor1: "Седдлбеґ"
+  FIR_advisor2: "Ґан Баттер"
+  FIR_advisor3: "Топ Гет"
+  FIR_advisor4: "Ґолд Брайдл"
+  FIR_advisor_fortifier: "Брик Гаус"
+  FIR_advisor5: "Вождь Лайз-Ин-Уейт"
+  FIR_advisor6: "Вождь Квікстеп"
+  FIR_advisor7: "Вождь Ертворкс"
+  FIR_advisor8: "Клаудстрейф"
+  FIR_advisor9: "Фрівінґз"
+  FIR_advisor10: "Фоамсерф"
+  FIR_advisor11: "Силвер Тут"
+  FIR_advisor12: "Уинн"
+  FIR_advisor13: "Беттлгарді"
+  FIR_advisor14: "Акварія Ленс"
+  FIR_advisor15: "Вождь Ертворкс"
+  FIR_advisor16: "Кримзон Гувз"
+  FIR_advisor17: "Вінґфледж"
+  FIR_advisor18: "Старрі Скай"
+
+ ### КОМПАНІЇ ###
+  FIR_advisor19: "Firtree Tractor Co."
+  FIR_advisor20: "Bonedrift Armor Co."
+  FIR_advisor21: "Buckanberg Boomsticks"
+  FIR_advisor22: "Bitbridle Rifle Co. — ялинова філія"
+  FIR_advisor23: "Greyhooves Halftracks"
+  FIR_advisor24: "Купецькі ґільдії Ялини"
+  FIR_advisor25: "Єзераґрадська електроніка — ялинова філія" # (&?)
+  FIR_advisor26: "Blue Wings Aeronautics"
+  FIR_advisor27: "Thunderbolt Aircraft"
+  FIR_advisor28: "Brightfoam Merchant Shipping Co."
+  FIR_advisor29: "Kyzna Rymbal — ялинова філія"
 
 # country_FLO
  FLO_POM_neutrality: "Республіка Помоварра"
@@ -3727,6 +3831,75 @@
  HLQ_empire_2_communism_DEF: "Річкова Комуна"
  HLQ_empire_2_communism_ADJ: "Річкоземн"
 
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  HLQ_siegfried_trappenfeld: "Зіґфрід Траппенфельд"
+  HLQ_inner_circle_council: "Рада Внутрішнього Кола"
+  HLQ_urlach_ap_cyrod: "Урлах ап Кирод"
+  HLQ_wingfried_von_katerinburg: "Вінґфрід фон Катеринбурґ"
+  HLQ_edler_von_wingenberg: "Едлер фон Вінґенберґ"
+  HLQ_august_von_ortelsberg: "Ауґуст фон Ортельсберґ"
+  HLQ_river_breeze: "Ривер Бріз"
+  HLQ_reiner_guttenfried: "Райнер Ґуттенфрід"
+  HLQ_king_elias_whitecrest: "Король Еліас Уайткрест"
+  HLQ_volkskomitee_der_nationalen_befreiung: "Народний комітет національного визволення"
+  HLQ_ernst_fischer: "Ернст Фішер"
+
+  # Ґенерали
+  HLQ_demetrius_kamphaus: "Деметріус Кампгаус"
+  HLQ_carl_von_soldau: "Карл фон Зольдау"
+  HLQ_wilhelm_stackelberg: "Вільгельм Штакельберґ"
+  HLQ_steeltalon_the_butcher: "Стілталон М'ясник"
+  HLQ_trudy_oettinger: "Труді Еттинґер"
+  HLQ_helen_eisenfaust: "Гелен Айзенфауст"
+  HLQ_erika_stahlflugel: "Еріка Штальфлюґель"
+  HLQ_eisen_silberkrone: "Айзен Зильберкроне"
+  HLQ_alfred_aschenkampff: "Альфред Ашенкампфф"
+  HLQ_alina_hochmeister: "Аліна Гохмайстер"
+  HLQ_hyperion_waldstein: "Гіперіон Вальдштайн"
+  HLQ_wolfhard_fischart: "Вольфгард Фішарт"
+  HLQ_raoul_kranefuss: "Рауль Кранефус"
+  HLQ_julian_feininger: "Юліан Файнинґер"
+  HLQ_kaleb_bitterlich: "Калеб Біттерліх"
+  HLQ_antonin_schoff: "Антонін Шофф"
+  HLQ_eckhardt_essen: "Екгардт Ессен"
+  HLQ_iron_reed: "Айрон Рід"
+
+  # Радники
+  HLQ_PA_Crus: "Комет Гейз"
+  HLQ_PA_Gentel: "Рокі Роуд"
+  HLQ_PA_CapOfInd: "Герман Зауерланд"
+  HLQ_PA_FortIng: "Фрідріх Ґрімбілл"
+  HLQ_PA_WarInd: "Еллі Ґльокнер" # Ø
+  HLQ_PA_PropExp: "Вольфгард Зайфрід" # Зейфрід?
+  HLQ_PA_Press: "Альфред Розенбік"
+  HLQ_PA_Terror: "Гайнрих Гіллталон"
+  HLQ_PA_Mizzy: "Марі «Міззі» де Артуа"
+
+  HLQ_LC_off: "Отто Штальґлаубе"
+  HLQ_LC_def: "Віктор фон Зольдау"
+  HLQ_LC_uni: "Ернст Імкло"
+
+  HLQ_NC_battle: "Офіон Бер"
+  HLQ_NC_sub_dest: "Вальфрід Уайтбік"
+
+  HLQ_AC_super: "Альвін Міттермаєр"
+  HLQ_AC_bomb: "Еребос Гопф"
+
+  HLQ_meme: "Оберфюрер Фледермаус"
+  HLQ_meme_2: "Риттер-коммандант Фледермаус"
+  HLQ_HC_commando: "Зефірус Фрош"
+  HLQ_HC_regroup: "Фістфолл Гауке"
+  HLQ_HC_log: "Ісаак Гайльпрін"
+  HLQ_HC_navy: "Еміль Зиммель"
+  HLQ_HC_weather: "Ауґуста Штауффер"
+
+  HLQ_T_land: "Гайне Рьор" # Ø
+  HLQ_T_naval: "Франк Шьопфер" # Ø
+  HLQ_T_air: "Сесілія Шмід"
+
+ HLQ_industrial_concern: "Зінтенський завод"
+
 # country_JAK
  JAK_better_troops:0 "Jak Way of War"
  JAK_cheaper_guns:0 "Jak Way of Weaponsmithing"
@@ -4583,8 +4756,8 @@
  LCT_great_lake_city_ally_fascism_ADJ: "Озергородськ"
 
 # country_LNS
- LNS_bandits_fascism: "Бандити Гайденрайха"
- LNS_bandits_fascism_DEF: "Бандити Гайденрайха"
+ LNS_bandits_fascism: "Бандити Гайденрайх"
+ LNS_bandits_fascism_DEF: "Бандити Гайденрайх"
  LNS_bandits_fascism_ADJ: "Гайденрайхськ"
  LNS_bandits_democratic: "Лонґсуордська республіка"
  LNS_bandits_democratic_DEF: "Лонґсуордська республіка"
@@ -4719,6 +4892,140 @@
  BRZ_LSC_communism: "Бронзгілльська окупаційна адміністрація"
  BRZ_LSC_communism_DEF: "Бронзгілльська окупаційна адміністрація"
  BRZ_LSC_communism_ADJ: "Бронзгілльськ"
+
+ ### ПЕРСОНАЖІ (LNS) ###
+  # Лідери
+  LNS_count_pallas_dusktalon: "Граф Паллас Даскталон"
+  LNS_rosa_heidenreich: "Роза Гайденрайх"
+  LNS_max_windwing: "Макс Віндвінґ"
+  LNS_anne_crimsontail: "Анна Кримзонтейл"
+  LNS_friedrich_bronzefeather: "Фрідрих Бронзфезер"
+
+  # Ґенерали
+  LNS_heinrich_von_plummen: "Гайнріх фон Плюммен"
+  LNS_werner_shadowfeather: "Вернер Шедоуфезер"
+  LNS_joachim_ehrenberg: "Йоахим Еренберґ"
+  LNS_augustin_lichter: "Ауґустин Ліхтер"
+  LNS_dionysus_mooncrest: "Діонісус Мункрест"
+
+  # Радники
+  LNS_PA_SilWork: "Герон Пойкер" # Пекер?
+  LNS_PA_PropExp: "Геллплюм Крьоґер" # Ø # Кроґер?
+  LNS_PA_WarInd: "Бімфезерс Ліхтер"
+  LNS_PA_ArmOrg: "Сесі Шварценеґґер"
+  LNS_PA_Terror: "Офіон Рорман"
+
+  LNS_LC_off: "Штіпа Кунц"
+  LNS_LC_def: "Донквілл Фішлер"
+  LNS_LC_uni: "Піпсквік Редлер"
+
+  LNS_NC_battle: "Йокаста Шубек"
+  LNS_NC_sub: "Лайтвінґ Юнґ"
+
+  LNS_AC_super: "Орайлі Ноффке"
+  LNS_AC_bomb: "Арес Арендт"
+
+  LNS_HC_reg: "Силверталон Кауліц"
+  LNS_HC_reform: "Джинґлз Гаммершмідт"
+  LNS_HC_inf: "Снаффлз Фаульстих"
+  LNS_HC_weather: "Бікерз Фаєль"
+  LNS_HC_air_train: "Аквіла Туґендгат" # Туґендгафт?
+
+  LNS_T_land: "Гуті Саклер"
+  LNS_T_naval: "Лунарквілл Вайс"
+  LNS_T_air: "Аулбанді Мессершмідт"
+
+ ### ПЕРСОНАЖІ (LSM) ###
+  # Лідери
+  LSM_conrad_silvertalon: "Конрад Силверталон"
+  LSM_konrada_wavewing: "Конрада Уейввінґ"
+  LSM_hochmeisterin_konrada_wavewing: "Велика маґістерка Конрада Уейввінґ"
+  LSM_peter_whitewing: "Петер Уайтвінґ"
+  LSM_emma_redbeak: "Емма Редбік"
+  LSM_wilhelm_helltalon: "Вільгельм Геллталон"
+
+  # Ґенерали
+  LSM_rembert_cloudbeak: "Ремберт Клаудбік"
+  LSM_rene_hora: "Рене «Стратеґ» Гора"
+
+  # Радники
+  LSM_PA_SilWork: "Соларфлафф Енґельберґ"
+  LSM_PA_FinExp: "Ґринквіллз Відеман"
+  LSM_PA_WarInd: "Зефір Далюґе" # Даліґе?
+  LSM_PA_ArmOrg: "Тандеркло Штробль"
+  LSM_PA_CapOfInd: "Дуорфплюм Вайднер"
+
+  LSM_pony_1: "Скай Скрейпер"
+  LSM_pony_2: "Уайлд Ейс"
+  LSM_pony_3: "Вайолет Рейн"
+
+  LSM_LC_off: "Кінтія Губер"
+  LSM_LC_def: "Канґа Штоєрман"
+  LSM_LC_uni: "Бімтейл Тальберґ"
+
+  LSM_NC_battle: "Графн Гольтгузен"
+  LSM_NC_sub: "Сінтрібос Денерт"
+
+  LSM_AC_super: "Бейлі Гайдер"
+  LSM_AC_bomb: "Мунфлафф Альтшуль"
+
+  LSM_HC_reg: "Петалбреф Альт"
+  LSM_HC_mot: "Бубо Ранер"
+  LSM_HC_inf: "Гадес Кнаке"
+  LSM_HC_air: "Містфезер Джилґес"
+  LSM_HC_navy: "Клайв Нессель"
+
+  LSM_T_land: "Фредді Фрьозе" # Ø
+  LSM_T_naval: "Посейдон Ґольдшнайдер"
+  LSM_T_air: "Лайтфезерс Руттер"
+
+ ### ПЕРСОНАЖІ (LSC) ###
+  # Лідери
+  LSC_starry_night: "Старрі Найт"
+  LSC_abba_povner: "Абба Повнер"
+  LSC_golden_morning: "Ґолден Морнинґ"
+  LSC_flawless_justice: "Флолесс Джастис"
+  LSC_sofia_von_tyzenhauzen: "Софія фон Тізенгаузен"
+  LSC_reconstruction_authority_char: "Відбудовна адміністрація"
+  LSC_occupational_authority: "Окупаційна адміністрація"
+
+  # Ґенерали
+  LSC_lite_fire: "Лайт Файр"
+  LSC_ludwig_von_pliater: "Людвиґ фон Пліатер"
+  LSC_nakties_salna: "Нактіес Шальна"
+  LSC_felix_birkeland: "Фелікс Біркеланд"
+  LSC_ember_firefly: "Ембер Файрфлай"
+  LSC_marija_gimbalnas: "Марія Ґімбальнас"
+  LSC_antanas_gogas: "Антанас Ґоґас"
+  LSC_silver_sunset: "Силвер Сансет"
+
+  # Радники
+  LSC_PA_SilWork: "Фроузен Фимбл"
+  LSC_PA_PropExp: "Лотар Каль"
+  LSC_PA_FortEng: "Фейнз Розенкранц"
+  LSC_PA_PopFig: "Мунлайт Ейс"
+  LSC_PA_CapOfInd: "Афіній Зайлер"
+  LSC_PA_AirRaid: "Парадайз Ґем"
+
+  LSC_LC_off: "Вікольт Самоґіт"
+  LSC_LC_def: "Арклід Канопітайті"
+  LSC_LC_uni: "Тот Бекерз"
+
+  LSC_NC_battle: "Бліц"
+  LSC_NC_sub: "Манґо Слезинґер"
+
+  LSC_AC_super: "Дефкло Унтерман"
+  LSC_AC_bomb: "Черрі Ґем"
+
+  LSC_HC_reg: "Літтл Фимбл"
+  LSC_HC_mot: "Тартарус Штаффель"
+  LSC_HC_inf: "Еурітіон Шайд"
+  LSC_HC_navy: "Тас Гохберґ"
+  LSC_HC_air: "Свіфт Міст"
+
+  LSC_T_land: "Морнинґ Доу"
+  LSC_T_naval: "Цеус Пельтцер"
+  LSC_T_air: "Гутс Гессель"
 
  LSC_state_razed_griffenheim: "Руїни Ґриффенгайму"
 
@@ -5032,6 +5339,46 @@
   MNC_guntbert_greyfeather: "Ґунтберт Ґрейфезер"
   MNC_einar_steelbeak: "Ейнар Стілбік"
   MNC_istvan_firebeak: "Іштван Файрбік"
+
+# country_NCH
+ ### УРЯД ###
+  # Лідери
+  NCH_queen_gytha: "Королева Ґіта"
+  NCH_feilean_of_clann_leamhan: "Фелян із кланну Ляун"
+  NCH_oiren_of_oir: "Орян із Орі"
+  NCH_queen_oiren: "Королева Орян"
+  NCH_cader_sclerite: "Кейдер Склерит"
+
+  # Ґенерали
+  NCH_feilean: "Фелян"
+  NCH_airann: "Арянн"
+  NCH_garran_of_leamhan: "Ґарран із Ляуна"
+
+  # Радники
+  NCH_navy_chief_1: "Адмірал Поетґілс"
+  NCH_navy_chief_2: "Адмірал Фаллон"
+
+  # Конструктори
+  NCH_KLA: "KLAA AG"
+  NCH_generic_tank_manufacturer: "Biúró na nGluaisteán"
+  NCH_motorised: "Biúró na nGluaisteán"
+
+  longchlois: "Longchlóis Blomsport"
+  NCH_freemare: "FM Automotives LLC"
+
+  NCH_greda: "GredaBlomsport SpA"
+  NCH_reichswaffen: "Reichswaffen AG"
+  NCH_waffenhauser: "WH Grenecylf"
+
+  NCH_generic_light_aircraft_manufacturer: "Oifig na Eitlíocht"
+  NCH_generic_medium_aircraft_manufacturer: "CNIH"
+  NCH_generic_heavy_aircraft_manufacturer: "Ceardlann MóA"
+  NCH_generic_naval_aircraft_manufacturer: "CAdA"
+
+  NCH_generic_infantry_equipment_manufacturer: "Lochainn Loadaid"
+
+  NCH_generic_industrial_concern: "Промислова компанія"
+  NCH_generic_electronics_concern: "Компанія електроніки"
 
 # country_NCR
  NCR_fascism: "Новокаліфорнійське військове губернаторство"
@@ -6371,13 +6718,6 @@
   WAR_neutrality_party_HIP_long: "Аріська адміністрація"
   WAR_fascism_HIP_party: "Національний фронт"
   WAR_fascism_HIP_party_long: "Арісько-варзенський фронт національного відродження"
-
-# country_WAT
- WAT_gandalf_the_grey: "Ґендальф Сірий"
-
- WAT_holy_srings_concern: "Священні струмки"
-
- WAT_holy_srings: "Священні струмки"
 
 # country_WIN
  WIN_gateway_to_zebrica_idea: "Ворота в Зебрику"

@@ -1,0 +1,47 @@
+﻿l_english:
+### ПЕРСОНАЖІ ###
+ # Лідери
+  WAT_keeper_eathelin: "Хранителька Ізелін"
+  WAT_velvet_emeraldflame: "Велвет Емералдфлейм"
+  WAT_godwine_brasseyes: "Ґодвін Брассайз"
+  WAT_leofgyd_tealmane: "Леофґід Тілмейн"
+
+ # Ґенерали
+  WAT_winter_breeze: "Вінтер Бріз"
+  WAT_virtuous_hope: "Верчуес Гоуп"
+  WAT_virtuous_hope_desc: ""
+
+ # Радники
+  WAT_council_of_keepers: "Рада хранителів"
+  WAT_haylay: "Гейлей"
+  WAT_elia_storm: "Елія Сторм"
+  WAT_aldus_warrior: "Алдус Воїн"
+  WAT_annalee_the_swift: "Анналі Спритна"
+  WAT_aylmer: "Айлмер"
+  WAT_stal_flugel: "Стал Флюґель"
+  WAT_kendrick_flugel: "Кендрік Флюґель"
+  WAT_watertown_boatman: "Струмгородський човняр"
+  WAT_silry_thunder: "Силрі Тандер"
+  WAT_strongheart: "Стронґгарт"
+  WAT_gandalf_the_grey: "Ґендальф Сірий"
+  WAT_hereward_northern: "Геревард Північний"
+  WAT_meriida_strangelight: "Мерііда Дивне Світло"
+  WAT_malcom_corchstone: "Малком Корчстоун" # Unused
+
+### КОНСТРУКТОРИ ###
+ northern_tank: "Північні танки"
+ enchanted_armour_concern: "Концерн із зачарування спорядження"
+ farbrook_shipbuilding: "Фарбруцькі кораблі"
+ stal_wing_berau: "Бюро Стал Вінґа"
+ WAT_generic_medium_aircraft_manufacturer: "Конструктор середніх літаків"
+ WAT_generic_heavy_aircraft_manufacturer: "Конструктор важких літаків"
+ WAT_generic_naval_aircraft_manufacturer: "Конструктор морських літаків"
+ kenelm_smithery: "Кузня Кенелма"
+ slingshots_of_watertown: "Струмгородські рогатки"
+ WAT_carts_n_darts: "Carts 'n' Darts"
+ imported_factory_WAT: "Імпортна фабрика"
+ WAT_jezeragrad_electronics: "Єзераґрадська електроніка — струмгородська філія" # (&?)
+ WAT_holy_srings_concern: "Священні струмки"
+
+### ІДЕЇ ###
+ WAT_holy_srings: "Священні струмки"

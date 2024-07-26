@@ -35,6 +35,7 @@
 + `country_Storm` (переклав *Daybreaker*)
 + `country_VIN`
 + `country_WAR` (переклав *StasJesus*)
++ `country_WAT`
 + `country_YAK` (переклав *ціктакомба*)
 + `eaw_achievements`
 + `eaw_adjacency_rules`
