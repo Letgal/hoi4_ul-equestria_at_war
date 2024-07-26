@@ -790,6 +790,42 @@
  BAT_100PP_7FA_blocked: "§R100§!£pol_power або §Y+7%§!£supremacy_texticon£"
 
 # country_BRF
+ ### ПЕРСОНАЖІ ###
+  #BRF_Kloseu_desc:0 "King Kloseu de Kissau is the first ruler of the Kingdom of Brodfeld. He became the Prince of Brodfeld in 963 ALB and was elected Domnitor (ruling prince) of Kivessin and Sydia in 965 ALB. In 973 ALB, when the Griffonian Empire was falling apart, Kloseu declared independence and claimed the title of King of Brodfeld. He was crowned in the Grand Temple of Eviliana in Kivessin by Prelate Denali.\n\nDuring his rule Brodfeld grew wealthier and became known as the ricebasket of Griffonia, yet blight caused the Great Famine in 995 ALB. After the economic crisis of the new millennium, Kloseu declared a state of emergency in 1001 ALB which granted him autocratic powers and cracked down on any disorder and dissent, restoring stability in Brodfeld.\n\nThe peace was brief, however, as in 1003 ALB an assassination attempt was made on him while he was spectating a military parade in Kivessin with his wife. He was merely wounded on his cheek, but his wife died in his embrace. Afterwards he blamed communists and banned all communist organizations, yet members of PCP resisted arrest, formed the PLA and rebelled. The civil war began."
+  #BRF_Kloseu_fasc_desc:0 "King Kloseu de Kissau has become Autocrat of All Prywhen, the undisputed ruler of Brodfeld with nigh-unlimited powers. The military and the members of the fanatical Golden Guard are unquestionably loyal to him, while those who oppose him know their doom is near. The griffons of Prywhen simply call him 'Conducator', Leader, the chosen one of goddess Eviliana and their mighty master."
+  BRF_our_king: "Король Клозеу де Кіссау"
+  #BRF_our_king_desc:0 "In a miraculous turn of events, the King has listened to reason and has written a new constitution, relinquishing most of his powers to a democratically elected Senate and turning into little more than a figurehead of the nation. He now spends most of his time in his secluded manor on the Evi river and goes fishing every day."
+  BRF_Enrico: "Енріко Ківальдорі"
+  #BRF_Enrico_leader_desc:0 "Enrico Chivaldori is a son of a Wingbardian migrant and has lived in Sydia his whole life. He has had a passion for music his entire life and is a talented violin player. Over his life he has worked as a music teacher and a conductor before finally entering politics and joining PNL. He is a supporter of democracy and harmony and a close friend of Prince Tomado who shares his liberal ideals. He was among the thousands of griffons who Kloseu banished from the country for being supporters of dangerous ideas but the Prince convinced his father to pardon him. A calm, reasonable speaker, he managed to get elected Prime Minister (possibly with some help from his royal friend) and now leads the government of Brodfeld."
+  BRF_Prelate: "Прелат Деналі"
+  #BRF_Prelate_desc:0 "Prelate Denali is an ancient griffon, rivaling Archon Eros in age. He has seen Prywhen be united and go through hard times of great suffering. Always has he been aiding those in need, the poor and downtrodden of society who find salvation in religion. To him, communists are monsters who wish to destroy the world as we know it and doom the souls of griffons by abandoning their Gods."
+  benevolent_overlord_2: "Доброзичливий повелитель"
+  BRF_Mason_Of_Sydia: "Масон Сідійський"
+  BRF_Mason_Of_Kivessin: "Масон Ківессинський"
+  BRF_Tomado: "Принц Томадо де Кіссау"
+  BRF_King_Tomado: "Король Томадо де Кіссау"
+  #BRF_Tomado_desc:0 "Tomado de Kissau is King Kloseu's only son and legitimate heir. He is an idealistic griffon in his early twenties who lost his mother when an assassination attempt was made on his father. He has been influenced by liberal ideals, mostly thanks to his close friend Enrico Chivaldori, and wishes for Brodfeld to become a constitutional monarchy. His father's recent cruelty and despotism made him worried and afraid."
+  BRF_princess_mira: "Принцеса Міра де Кіссау"
+  BRF_Twinkle_Sprinkle: "Твінкл Спринкл"
+  #BRF_Twinkle_Sprinkle_desc:0 "A cute purple griffon who likes magic and writes letters to the King.\n\nRenowned author of the famous book "Twinkle Sprinkle's Abridged Guide To The Places Of The World""
+  BRF_Ion_Soimescu: "Іон Соїмеску"
+  BRF_Ion_Soimescu2: "$BRF_Ion_Soimescu$"
+  BRF_Kihai_Vulturita: "Кіхай Вултуріта" # Вултуриця?
+  BRF_Lexandro_Leuescu: "Лександру Леуеску"
+  BRF_Constan_Pryzan: "Константі Прівезан"
+  BRF_king_kloseu_de_kissau: "Король Клозеу де Кіссау"
+  BRF_fasc_king_kloseu_de_kissau: "Король Клозеу «Кондукетор»"
+  BRF_catelin_toderoiu: "Кателін Тодерою"
+  BRF_sycle_coroanargint: "Сайкл Короанарґінт"
+  BRF_Mason_of_Twelt: "Масон Твельтський"
+  #BRF_Walrus_desc:0 "§gBorn in 966 ALB, Sycle was once one of the many peasants on the countryside, living in one of the many unknown villages. Having lived on the border near the Gryphian Host, he had faced one of the raids done by the Cossacks as a child. Having witnessed their immense speed at which they flew, agility of their moves and determination on their faces, this shaped the childhood of Sycle's life. He eagerly studied many wars of the past, and enlisted at the local garrison as soon as he became 18. Year after year of eager and loyal service saw him soon promoted to an officer, and later, a general. To him, the fact that a lowly peasant could rise to the rank of a General, proved him that the current system was indeed, fair and just, for all those willing to work for their future. After the attempted assassination of the King in 1003 ALB, he was one of the many officers involved in the arrests and executions of various socialist groups. Deeply loyal, he will follow the King to the Gates of Tartarus itself.§!"
+
+ ### КОМПАНІЇ ###
+  BRF_industry_manufacturer: "Металургійний комбінат Ківессина"
+  BRF_refinery: "PetroBrod"
+  BRF_arty_manufacturer: "Королівський арсенал"
+  BRF_medium_tank_manufacturer: "Atelierele Leonida"
+
  BRF_nonaligned: "Бродфельдська відлига"
  BRF_democ_welcome_democrats: "Помилувати демократів"
  BRF_open_borders: "Відкрити кордони"
@@ -2406,7 +2442,7 @@
   FIR_advisor26: "Blue Wings Aeronautics"
   FIR_advisor27: "Thunderbolt Aircraft"
   FIR_advisor28: "Brightfoam Merchant Shipping Co."
-  FIR_advisor29: "Kyzna Rymbal — ялинова філія"
+  FIR_advisor29: "Кузня «Чайка» — ялинова філія"
 
 # country_FLO
  FLO_POM_neutrality: "Республіка Помоварра"
@@ -3166,19 +3202,191 @@
  FRE_GRU_company_neutrality_DEF: "Територія Понайської компанії"
  FRE_GRU_company_neutrality_ADJ: "Понайськ"
 
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  GRU_yeve_de_viartorre: "Єве де Віарторре"
+  GRU_provisional_council: "Тимчасова рада"
+  GRU_gerhardt_weissfisch: "Ґергардт Вайсфіш"
+  GRU_revolutionary_coalition: "Революційна коаліція"
+  GRU_edward_piorowski: "Едвард Пюровський"
+  GRU_aniela_gryfon: "Анєля Ґрифонь"
+
+  # Маріонеткові лідери
+  GRU_dog_leader_name: "Визволитель Юрґен Маунтеншілд"
+  GRU_coast_leader_name: "Адмірал Лукас Юнґинґен"
+  GRU_city_leader_name: "Леді Марія фон Рієка"
+
+  # Ґенерали
+  GRU_master_of_war_craft: "Майстер воєнного ремесла"
+  GRU_jurgen_von_grypsburg: "Юрґен фон Ґрипсбурґ"
+  GRU_albus_piscis: "Альбус Пісціс"
+  GRU_dobrawa_brzozowska: "Добрава Бжозовська"
+  GRU_jaspis_bialoryb: "Яспіс Бялориб"
+
+  # Адмірали
+  GRU_fernando_pescada: "Фернандо Пескада"
+  GRU_matthias_felchen: "Маттіас Фельхен"
+
+  # Радники
+  GRU_Prelate: "Прелат Йоган Кло"
+  GRU_advisor_1: "Енріке Плюмадорада"
+  GRU_advisor_2: "Елена Ґарратруено"
+  GRU_advisor_3: "Антоніо Алав'єнто"
+  GRU_advisor_4: "Міхаель Пфанкюхмайстер"
+  GRU_advisor_5: "Лютер фон Брауншнабель"
+  GRU_advisor_6: "Маріан Валєнтинович"
+  GRU_advisor_7: "Єжи Борейша"
+  GRU_advisor_8: "Анджей Вайха"
+  GRU_advisor_9: "Ванда Васілевська"
+  GRU_advisor_10: "Едвард Длуґий"
+
+  GRU_advisor_11: "Майстер Зибранд" 
+  GRU_advisor_12: "Ґжеґож Бженчищикєвич"
+
+  GRU_advisor_13: "Крістобаль Аласьєло"
+  GRU_advisor_14: "Енґельгард Рабе фон Тіфбруннен"
+  GRU_advisor_15: "Зиґмунт Берлінґ"
+  GRU_advisor_16: "Едмунд Кнолль-Ковнацький"
+
+  GRU_advisor_17: "Хав'єр Унанегра"
+  GRU_advisor_18: "Ернст фон Ґрипсбурґ"
+  GRU_advisor_19: "Здзіслав Краснодембський"
+  GRU_advisor_20: "Станіслав Сосабовський"
+
+  GRU_advisor_21: "Людвиґ фон Аєрсгаузен"
+  GRU_advisor_22: "Ісабель Алафеліс"
+  GRU_advisor_23: "Юзеф Унруґ"
+  GRU_advisor_24: "Єжи Туманішвілі"
+
+  GRU_advisor_25: "Зіґфрід фон Фойхтфлюґель"
+  GRU_advisor_26: "Хосе Антоніо Пікоальто"
+  GRU_advisor_27: "Еміліо Ґарраокульта"
+  GRU_advisor_28: "Ґотфрід фон Гогенфоґель"
+  GRU_advisor_29: "Войцєх Карузельський"
+  GRU_advisor_30: "Антоні Шиллінґ"
+  GRU_advisor_31: "Мєчислав Чарний"
+  GRU_advisor_32: "Людвік Кмічич"
+
+ ### КОНЦЕРНИ ###
+  GRU_infantry_concern: "Зброярня Ордену Опініка"
+  GRU_artillery_concern: "Збройовий завод Балісмонта"
+  GRU_light_tank_concern: "Автофабрика Камафеу"
+  GRU_medium_tank_concern: "Машинобудівні заводи Тіфбруннена"
+  GRU_light_air_concern: "Авіакомпанія Колегіо"
+  GRU_heavy_air_concern: "Авіабаза Еріешлоса"
+  GRU_raiding_naval_concern: "Верф Віарторре"
+  GRU_defence_naval_concern: "Суднобудівні верфі Ріапорту"
+  GRU_industrial_concern: "Лісозаготівельна компанія Нічного лісу"
+  GRU_electronics_concern: "Університет Колегіо"
+
  GRU_COMMIE_ALLIANCE: "Ріапортуський пакт"
 
  GRU_vp_nova_aviaria: "Нова-Авіарія"
- GRU_vp_schloss_edelweiss:0 "Schloss Edelweiß"
- GRU_vp_schloss_feuerufer:0 "Schloss Feuerufer"
- GRU_vp_schloss_red_incel:0 "Schloss Röteinsel"
+ GRU_vp_schloss_edelweiss: "Шлос Едельвайс"
+ GRU_vp_schloss_feuerufer: "Шлос Фоєруфер"
+ GRU_vp_schloss_red_incel: "Шлос Рьотеінзель" # Ø
  GRU_vp_gryfow: "Ґрифув"
  GRU_state_tierra_purpura: "Тьєрра-Пурпура"
  GRU_state_praia_seca: "Прая-Сека"
  GRU_state_renani: "Ренані"
 
 # country_GRW
+ ### ПЕРСОНАЖІ ###
+  GRW_Mandarin: "Мандарин Фезерин"
+  GRW_Cynthia: "Цинтія"
+  GRW_Murkfeathers: "Меркфезерс"
+  GRW_Dakaran_Begone: "Дакаран Біґон"
+  GRW_Theresa: "Тереза"
+  GRW_Witia: "Вітія Грифон"
+  GRW_Phanes: "Фейнз"
+  GRW_Andor: "Андор"
+  GRW_Duskfluffian: "Даскфлаффіан"
+  GRW_Searaider: "Алікс Пайнз"
+  GRW_Theresa_2: "$GRW_Theresa$"
+  GRW_Brandon_Swift: "Брендон Свіфт"
+  GRW_Finbol: "Файнал Бол"
+  GRW_Bart_Herbs: "Барт Гербз"
+  GRW_Iegov: "Єґов"
+  GRW_Ludochka: "Людочка"
+  GRW_advisor18: "Ракетник"
+  GRW_dorian_of_brodfeld: "Доріан Бродфельдський"
+  GRW_princip_meyer_brantbeak: "Принцип Маєр Брентбік"
+  GRW_president_beam_bruno: "Бім Бруно"
+  GRW_comradegeneral_filip_redglad: "Філіп Редґлед"
+  GRW_richard_spear: "Ричард Спір"
+  GRW_rain_twister: "Рейн Твістер"
+  GRW_koldvin: "Колдвін"
+  GRW_gheara_ciocescu: "Ґяра Чоческу"
+  GRW_pirate_yellow_beak: "Пірат Єллоу Бік"
+
  GRW_redgladin_state: "Редґледин"
+
+# country_GRY
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  GRY_hetman_calas_bulba: "Гетьман Калас Бульба"
+  GRY_interim_government: "Перехідний уряд"
+  GRY_interim_government_desc: "Гетьман Бульба мертвий! Визначеного наступника нема, тому необхідно якнайшвидше скликати Раду, щоб обрати нового гетьмана."
+  GRY_pavel_vereskopadsky: "Павло Верескопадський"
+  GRY_yeven_krawvelets: "Євген Кравелець"
+  GRY_borad_grifnitsky: "Борад Грифницький"
+  GRY_cornilo_khurshevich: "Корнило Хрущевич" # англ. Хуршевич
+
+  # Ґенерали
+  GRY_stepan_razbeak: "Степан Разбік"
+  GRY_ivan_feathovskyi: "Іван Фезовський"
+  GRY_petro_zelenka: "Петро Зеленка"
+  GRY_sydir_kvach: "Сидір Квач"
+  GRY_mykhailo_prolatov: "Михайло Пролатов"
+  GRY_vasyl_clawrushkiv: "Василь Клаврушків"
+  GRY_oleksander_clawkiv: "Олександр Клавків"
+
+  # Радники
+  GRY_advisor1: "Симон Притлюра" # англ. Прінлюра
+  GRY_advisor2: "Михайло Трушевський" # англ. Трушкевський
+  GRY_advisor3: "Андрелай Шептицький" # англ. Анатолій Кринах/Крінах
+  GRY_advisor4: "Зафоборонпром"
+  GRY_workhorse: "Роман Сікорвінґ"
+  GRY_propagandaMaster: "Петро «Сахаров» Ґрейвінґ"
+  GRY_theorist1: "Олег Антонінов"
+  GRY_theorist2: "Володимир Стальськів"
+  GRY_theorist3: "Сергій Клорольов"
+  GRY_air_dude1: "Рюрик Тараскричів" # рос. Тараскринів
+  GRY_air_dude2: "Надія Скриченко" # рос. Терещенко
+  GRY_air_dude3: "Борис Татяроков" # рос. Татярнак
+  GRY_naval_dude1: "Михайло Шиблін" # рос. Шибілін
+  GRY_naval_dude2: "Борис Козбік" # рос. Кастербак
+  GRY_armyChief1: "Борис «Володимирович» Кестраль"
+  GRY_armyChief2: "Олександр Уклавиченко" # рос. Клавиченко
+  GRY_armyChief3: "Шимон Протко"
+  GRY_milAdv1: "Антон Невсбік"
+  GRY_milAdv2: "Микола Шрапнельваль" # рос. Міхновський
+  GRY_milAdv3: "Костянтин Мовалотов"
+  GRY_milAdv4: "Василь Полуботок" # англ. Чупчукак
+  GRY_polishGenius: "Матеуш Нобік"
+
+ ### КОМПАНІЇ ###
+  GRY_tank_1: "Машинобудівний завод ім. Моллішева"
+  GRY_tank_2: "Зафоборонпром"
+  GRY_air_concern: "Антонінов Аеротех"
+  GRY_air_man_1: "Aropragt"
+  GRY_air_man_2: "Енатро Ейркрафт"
+  GRY_air_man_3: "Sikorbeak Aeronautics"
+  GRY_navy_concern: "Кузня «Чайка»"
+  GRY_navy_man_1: "Зафзопольське судноплавство"
+  GRY_navy_man_2: "Оканське суднобудівництво"
+  GRY_fac1: "Каївський арсенал"
+  GRY_fac2: "РБЗ-Форт"
+  GRY_fac3: "ЗрАЗ"
+  GRY_indy: "МатинВест"
+  GRY_synthy: "Воробейко Нафтогазпром"
+  GRY_leccy: "ЗАЕ Електронікс"
+  GRY_agri: "Сало і Горілка"
+
+ ### ФОКУСИ (щоби не забути) ###
+  GRY_grand_battleplan_focus: "Доктрина масштабного планування"
+  GRY_mass_assault_focus: "Доктрина масованого наступу"
+  GRY_superior_firepower_focus: "Доктрина переважаючого вогню"
 
 # country_HAU
  HAU_hermann_meyer: "Герман Маєр"
@@ -4570,6 +4778,91 @@
   KIS_salvation_front_DEF: "Кірінський визвольний фронт визволення Батьківщини"
   KIS_salvation_front_ADJ: "Кірінськ"
 
+  NVA_KIR: "Домініон Лотоса"
+  NVA_KIR_DEF: "Кіноварний домініон Лотоса"
+  NVA_KIR_ADJ: "Лотосов"
+  ROA_KIR: "Протекторат західних реґіонів"
+  ROA_KIR_DEF: "Кіноварний протекторат західних реґіонів"
+  ROA_KIR_ADJ: "Західнореґіональн"
+  ZOO_KIR: "Протекторат Зонґо"
+  ZOO_KIR_DEF: "Кіноварний протекторат Зонґо"
+  ZOO_KIR_ADJ: "Зонґолезьк"
+  KXN_KIR: "Командорство Зайкірії"
+  KXN_KIR_DEF: "Кіноварне командорство Зайкірії"
+  KXN_KIR_ADJ: "Зайкірійськ"
+  DEL_KIR: "Командорство Далекого півдня"
+  DEL_KIR_DEF: "Кіноварне командорство Далекого півдня"
+  DEL_KIR_ADJ: "Далекопівденн"
+  YAN_KIR: "Командорство Зебрид"
+  YAN_KIR_DEF: "Кіноварне командорство Зебрид"
+  YAN_KIR_ADJ: "Зебридськ"
+  GFS_KIR: "Домініон Трибарвного оперення"
+  GFS_KIR_DEF: "Кіноварний домініон Трибарвного оперення"
+  GFS_KIR_ADJ: "Південнозебриканськ"
+  BRS_KIR: "Барасінґга"
+  BRS_KIR_DEF: "Кіноварний мандат Барасінґга"
+  BRS_KIR_ADJ: "Барасінґськ"
+  GAZ_KIR: "Таунґпау"
+  GAZ_KIR_DEF: "Кіноварний мандат Таунґпау"
+  GAZ_KIR_ADJ: "Таунґпауськ"
+  ZLU_KIR: "Зеблу"
+  ZLU_KIR_DEF: "Кіноварний мандат Зеблу"
+  ZLU_KIR_ADJ: "Зеблуськ"
+  MQA_KIR: "Домініон Перламутрової брами"
+  MQA_KIR_DEF: "Кіноварний домініон Перламутрової брами"
+  MQA_KIR_ADJ: "Самбоватськ"
+  HIN_KIR: "Домен Гіндії"
+  HIN_KIR_DEF: "Кіноварний домен Гіндії"
+  HIN_KIR_ADJ: "Гіндійськ"
+  SPL_KIR: "Стаґпал"
+  SPL_KIR_DEF: "Кіноварний мандат Стаґпал"
+  SPL_KIR_ADJ: "Стаґпальськ"
+  LMB_KIR: "Віцекоролівство Ламбет"
+  LMB_KIR_DEF: "Кіноварне віцекоролівство Ламбет"
+  LMB_KIR_ADJ: "Ламбетськ"
+  KIS_KIR: "Віцекоролівство Провидіння"
+  KIS_KIR_DEF: "Кіноварне віцекоролівство Великого Провидіння"
+  KIS_KIR_ADJ: "Провидінськ"
+  KIS_AUB_KIR: "ВМЕЗ Південної Кірії"
+  KIS_AUB_KIR_DEF: "Виключна морська економічна зона Південної Кірії"
+  KIS_AUB_KIR_ADJ: "Кірійськ"
+  KIC_soldiers_rising_fire: "Солдати Висхідного Вогню"
+  KIC_soldiers_rising_fire_DEF: "Солдати Висхідного Вогню"
+  KIC_soldiers_rising_fire_AJD: "Висхідновогнян"
+
+  KIR_harmony_nirik: "Армія кірінської спокути"
+  KIR_harmony_nirik_DEF: "Армія кірінської спокути"
+  KIR_harmony_nirik_ADJ: "Кірійськ"
+  KIR_tradition_nirik: "Поборники Конкорд"
+  KIR_tradition_nirik_DEF: "Сестринська держава Поборників Конкорд"
+  KIR_tradition_nirik_ADJ: "Кірійськ"
+  KIR_rising_fire_nirik: "Мечі Каскадних Іскр"
+  KIR_rising_fire_nirik_DEF: "Присяжні мечі Каскадних Іскр"
+  KIR_rising_fire_nirik_ADJ: "Кірійськ"
+  KIR_pirate: "Пірати Перламутра"
+  KIR_pirate_DEF: "Піратська талассократія Перламутра"
+  KIR_pirate_ADJ: "Перламутров"
+
+  KIR_CoC: "Діти Конкорд"
+  KIR_CoC_DEF: "Діти Конкорд"
+  KIR_CoC_ADJ: "Кірійськ"
+  COC_kingdom: "Королівство Конкорд"
+  COC_kingdom_DEF: "Спільне королівство Конкорд"
+  COC_kingdom_ADJ: "Кірійськ"
+  COC_commonalty: "Громади Кірії"
+  COC_commonalty_DEF: "Вільні та демократичні громади Кірії"
+  COC_commonalty_ADJ: "Кірійськ"
+
+  KXN_KIC: "Зайкірійський союз"
+  KXN_KIC_DEF: "Зайкірійський союз"
+  KXN_KIC_ADJ: "Зайкірійськ"
+  GAZ_KIC: "Комуна Таунґпау"
+  GAZ_KIC_DEF: "Комуна Таунґпау"
+  GAZ_KIC_ADJ: "Таунґпауськ"
+  YAN_KIC: "Зебридська федерація"
+  YAN_KIC_DEF: "Зебридська федерація"
+  YAN_KIC_ADJ: "Зебридськ"
+
  ### ПАРТІЇ ###
   KIR_neutrality_party: "Кліка Вінтер Фрост"
   KIR_neutrality_party_long: "Кліка Вінтер Фрост"
@@ -5027,7 +5320,7 @@
   LSC_T_naval: "Цеус Пельтцер"
   LSC_T_air: "Гутс Гессель"
 
- LSC_state_razed_griffenheim: "Руїни Ґриффенгайму"
+ LSC_state_razed_griffenheim: "Руїни Ґриффенгайма"
 
  longsword_focus: "Дерево фокусів Лонґсуорду"
  longsword_focus_fascist_civil_war: "$longsword_focus$"
@@ -5128,6 +5421,48 @@
   equestria.179.d: "У двері в покої [Root.GetLeader] несміливо постукали. Всередину знервовано ввійшла купка занекопоєних і стомлених бюрократів. «У чому проблема?» — спитала принцеса, відвівши свій погляд від поточних звітів і газет. Поні відступили з її питання. «Пробачте нам, принцесо... В нас невідкладні новини...» Одного з поні, який тримав листа, підштовхнули наперед. [Root.GetLeader] узяла його та розірвала конверт одним спритним рухом. Вона спохмурніла, і всі в кімнаті знітилися. Це був лист від мера Лас-Пегасуса, в якому декларувалося, що місто буде повністю незалежним від цієї громадянської війни і що в нього немає жодного бажання ставати ні на чий бік."
   equestria.179.a: "Вони про це пошкодують!"
   equestria.179.b: "Цікаво, що вони таке роблять..."
+
+# country_LUS
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  LUS_prince_elias_whitecrest: "Князь Еліас Уайткрест"
+  LUS_king_elias_i_whitecrest: "Король Еліас I Уайткрест"
+  LUS_prince_gerar_whitecrest: "Князь Жерар Уайткрест"
+  LUS_king_gerar_ii_whitecrest: "Король Жерар II Уайткрест"
+  LUS_toridan: "Торідан"
+  LUS_razech_oumont: "Разех Умонт"
+
+  # Ґенерали
+  LUS_hilbert_forsher: "Гільберт Форшер"
+  LUS_scar_screaming_eagle_blackkryl: "Скар «Screaming Eagle» Блеккрил"
+  LUS_bodier: "Бодьє"
+  LUS_perakeyi: "Перакей"
+  LUS_petya: "Петя"
+  LUS_punk: "Панк"
+  LUS_destroyer_of_every_world_possible: "Руйнівник усіх можливих світів"
+
+  # Радники
+  princess_mira: "Княгина Міра Уайткрест"
+  LUS_karkarich: "Кар Карич"
+  LUS_war_industrialist: "Река Омонт"
+  LUS_prince_of_terror: "Ференц Сарні"
+  LUS_Lord_Drak_Army_chief: "Марвен Драк"
+  LUS_Zsofia_Neel: "Жофія Ніл" # Ньїл
+  LUS_Horty_Makkorty: "Горті Маккорті"
+  LUS_Dormin_Ghalk: "Дормін Галк"
+  LUS_scar_blackkryl: "Ортур Чьорґеї" # Ø # Åртур
+  LUS_peter_brigand: "Пийтер Бріґанд"
+  LUS_barto_miroven: "Кором Борта" # Кåром Бåртå
+  LUS_crovin_laar: "Корвін Лоар" # Лåар
+  LUS_clover_weaponry: "Erus Acel"
+  LUS_arty_manufacture: "Артилерійська компанія «Nagy Fegyverek»"
+  LUS_afli_masters: "Ґільдія майстрів Афлі"
+  LUS_lushian_polytechnics: "Люшінський політех"
+  LUS_Nedhern: "КБ Йожефа Ґоломба" # Ґåлåмб
+  LUS_barman: "КБ «Ширяючі крила»"
+  LUS_bork: "Вітрильна компанія річки Прай"
+  LUS_prywhen_research_com: "Дослідження з Прайвеном"
+  LUS_GRW_lushi_research_com: "Дослідження з Люші"
 
 # country_MAN&ELF
  ELF_prench_institute: "Пранцузький інститут"
