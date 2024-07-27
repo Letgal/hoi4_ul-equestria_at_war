@@ -1,6 +1,6 @@
 ﻿l_russian:
  horse_folder: "Технології коней"
- horse_folder_desc: "Магічні технології та поліпшення, унікальні для раси коней."
+ horse_folder_desc: "Магічні технології та поліпшення, притаманні расі коней."
  tech_earth_horse: "$tech_earth_pony$"
  tech_earth_horse_desc: "$tech_earth_pony_desc$"
  tech_earth_horse_a1: "$tech_earth_pony_a1$"
