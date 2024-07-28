@@ -1,0 +1,34 @@
+﻿l_russian:
+ DEP_fascism: "Імперія Тіньових Дерев"
+ DEP_fascism_DEF: "Імперія Тіньових Дерев"
+ DEP_fascism_ADJ: "Деревн"
+ DEP_democratic: "Королівство Депонія"
+ DEP_democratic_DEF: "Королівство Депонія"
+ DEP_democratic_ADJ: "Депонськ"
+ DEP_neutrality: "Депонія"
+ DEP_neutrality_DEF: "Депонія"
+ DEP_neutrality_ADJ: "Депонськ"
+ DEP_communism: "Комуна деревних поні"
+ DEP_communism_DEF: "Комуна деревних поні"
+ DEP_communism_ADJ: "Деревн"
+
+### ПЕРСОНАЖІ ###
+ # Лідери
+  DEP_king_grimhoof: "Король Ґримгуф"
+  DEP_pearly_dough: "Перлі Доу"
+  DEP_moonlight_dust: "Мунлайт Даст"
+  DEP_caramel_punch: "Карамель Панч"
+
+ # Ґенерали
+  DEP_colt_shadow: "Кольт Шедоу"
+  DEP_violet_light: "Вайолет Лайт"
+
+### ІДЕЇ ###
+ DEP_old_country: "Стара країна"
+ DEP_old_country_desc: "Депонія — стара країна, яка досі живе у власному минулому. Решта сходу може сміятися з нас, але ми глибоко вкорінені в традиціях і ми віримо в нашого короля."
+
+### ПІДКАЗКИ ###
+ DEP_Advisors_rounds_1_tt:0 "Need At Least 1 Advisor Rounds finished"
+ DEP_Advisors_rounds_2_tt:0 "Need At Least 2 Advisor Rounds finished"
+ DEP_Advisors_rounds_3_tt:0 "Need At Least 3 Advisor Rounds finished"
+ DEP_Advisors_rounds_4_tt:0 "Need All Advisor Rounds finished"

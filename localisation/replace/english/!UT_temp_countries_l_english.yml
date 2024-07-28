@@ -290,6 +290,60 @@
  DMT_BAK_puppet_tag_fascism_DEF: "Респуліка Каза-ар-Гав"
  DMT_BAK_puppet_tag_fascism_ADJ: "Каза-ар-гавськ"
 
+ ### ПАРТІЇ ###
+  BAK_admirality_party: "Адміралтейство"
+  BAK_admirality_party_long: "Бакарське адміралтейство"
+
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  BAK_firm_scow: "Фирм Скау"
+  BAK_water_lily: "Уотер Лілі"
+  BAK_bray_foam: "Брей Фоам"
+  BAK_cobalt_wind: "Кобальт Вінд"
+  BAK_tea_dip: "Ті Дип"
+
+  # Ґенерали
+  BAK_tough_bunker: "Таф Бункер"
+  BAK_fall_line: "Фолл Лайн"
+  BAK_direct_drive: "Дайрект Драйв"
+  BAK_golden_target: "Ґолден Тарґет"
+  BAK_keen_perspective: "Кін Перспектив"
+  BAK_flight_risk: "Флайт Риск"
+
+  # Адмірали
+  BAK_stormy_skies: "Стормі Скайз"
+  BAK_sea_lily: "Сі Лілі"
+
+  # Радники
+  BAK_advisor_1: "Силвер Сейл"
+  BAK_advisor_2: "Стар Чейзер"
+  BAK_advisor_3: "Спайс Барк"
+  BAK_advisor_4: "Саншайн Керрак"
+  BAK_advisor_5: "Ебоні Вінґ"
+  BAK_advisor_6: "Сеґґинґ Беґ"
+  BAK_advisor_7: "Рубі Шор"
+  BAK_advisor_8: "Стормі Скайз" # This is a differernt person from the admiral.
+  BAK_advisor_9: "Вайолет Філд"
+  BAK_advisor_10: "Коламн Стилл"
+  BAK_advisor_11: "Скай Чейзер"
+  BAK_advisor_12: "Силвер Скайз"
+  BAK_advisor_13: "Морнинґ Лайт"
+  BAK_advisor_14: "Сонґ Берд"
+  BAK_advisor_15: "Платинум Вінд"
+  BAK_advisor_16: "Арктик Бріз"
+  BAK_advisor_17: "Стар Брисл"
+  BAK_advisor_18: "Перл Дайвер"
+  BAK_advisor_19: "Велвет Гувз"
+  BAK_advisor_20: "Кримзон Медоу"
+  BAK_advisor_21: "Уайлд Мейн"
+  BAK_advisor_22: "Дейґлоу"
+  BAK_advisor_23: "Мун Бім"
+  BAK_advisor_24: "Форест Ґрін"
+  BAK_advisor_25: "Вінді Бріз"
+  BAK_advisor_29: "Лайтнинґ Чарм"
+  BAK_advisor_30: "Еппл Сайдер"
+  BAK_advisor_31: "Вайолет Даск"
+
 # country_BAL
  BAL_golden_delicious_name: "Ґолден Делішес"
  BAL_cricket_chafer_name: "Крикет Чейфер"
@@ -1488,20 +1542,6 @@
  DED_VMP: "Королівство Опівночі"
  DED_VAM: "Королівство Вічності"
 
-# country_DEP
- DEP_fascism: "Імперія Тіньових Дерев"
- DEP_fascism_DEF: "Імперія Тіньових Дерев"
- DEP_fascism_ADJ: "Деревн"
- DEP_democratic: "Королівство Депонія"
- DEP_democratic_DEF: "Королівство Депонія"
- DEP_democratic_ADJ: "Депонськ"
- DEP_neutrality: "Депонія"
- DEP_neutrality_DEF: "Депонія"
- DEP_neutrality_ADJ: "Депонськ"
- DEP_communism: "Комуна деревних поні"
- DEP_communism_DEF: "Комуна деревних поні"
- DEP_communism_ADJ: "Деревн"
-
 # country_DMT
  DMT_fascism: "Діамантова Гора"
  DMT_fascism_DEF: "Діамантова Гора"
@@ -1515,6 +1555,64 @@
  DMT_communism: "Східна Республіка Псів"
  DMT_communism_DEF: "Східна Республіка Псів"
  DMT_communism_ADJ: "Діамантогірськ"
+
+ ### ПАРТІЇ ###
+  # Назви взяті з російської, бо так легше.
+  DMT_neutrality_party: "ЛАПА"
+  DMT_neutrality_party_long: "Лоялістська асоціація псів-аристократів"
+  DMT_communism_party: "ЛАЮ"
+  DMT_communism_party_long: "Ліга аванґардистів-юнаків" # (&)
+  DMT_democratic_party: "ГАВ"
+  DMT_democratic_party_long: "Гармонійний альянс вірнопідданих"
+  DMT_fascism_party: "ГРР"
+  DMT_fascism_party_long: "Гірські ратники-роялісти"
+
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  DMT_clifford_the_red: "Кліффорд Червоний"
+  DMT_rover_diamondshield: "Ровер Даймондшілд"
+  DMT_fido: "Фідо"
+  DMT_princess_molly: "Принцеса Моллі"
+  DMT_bernard: "Бернард"
+
+  # Ґенерали
+  DMT_gnasher: "Нешер"
+  DMT_biter: "Байтер"
+
+  # Радники
+  DMT_Rover: "Роарер"
+  DMT_Bowsette: "Кейнетте"
+  DMT_Scooby: "Скублз"
+
+  DMT_Canine: "Лупус"
+  DMT_Canis_Lupus: "Каніс"
+  DMT_Wolfy: "Вулфі"
+  DMT_Rockey: "Рокі"
+  DMT_Spot: "Спот"
+
+  DMT_Borzoi: "Борзой"
+  DMT_Eskimo: "Бліззард"
+
+  DMT_Corgi: "Корґі"
+  DMT_Boston_Terrier: "Бостон"
+  DMT_Basenji: "Басенджі"
+
+  DMT_Border_collie: "Коллін"
+  DMT_Australian_Sheppard: "Ошард"
+  DMT_Pointer: "Пойнтер"
+  DMT_Cocker_Spaniel: "Спаніель"
+
+  DMT_Sweep_Advocate_for_Democracy: "Свіп"
+  DMT_Fido_Equal_Rights_Activist: "Фідо"
+  DMT_Spot_Noble: "Роял"
+
+  DMT_Dobermann: "Манндобер"
+  DMT_Shih_Tzu: "Ши-цу"
+  DMT_Akita: "Акіта"
+  DMT_Yorkshire: "Йоркі"
+  DMT_Rex_Slave_Driver: "Рекс"
+  DMT_Mastiff: "Мастифф"
+  DMT_Great_Dane: "Дейнер"
 
 # country_EQC
  EQC_fascism: "Новий Мейрленд"
@@ -2653,6 +2751,60 @@
  FRE_communism_DEF: "Понай ан Дарах-Руаг"
  FRE_communism_ADJ: "Понайськ"
 
+ ### ПАРТІЇ ###
+  FRE_democratic_party: "Коаліція тишеха"
+  FRE_communism_party: "ВП"
+  FRE_communism_party_long: "Вільна партія"
+  FRE_neutrality_party: "Коаліція кланнів"
+  FRE_fascism_party: "Лорди-тріаги"
+
+  #FRE_tribal_federation_desc:0 "The Prìomh Chomhairle is a council of 87 Triaths and Toisiches who meet to discuss matters related to all tribes. The Taoiseach is elected to represent all the tribes internationally and to guide the tribes in matters of state."
+
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  FRE_crimson_cridhe_an_dragon_nic_heart: "Кримзон «Драконяче Серце» нік Гарт"
+  FRE_council_of_the_free: "Рада вільних"
+  FRE_council_of_the_warriors: "Рада воїнів"
+  FRE_foam_mac_blossom: "Фоам мак Блоссом"
+
+  # Генерали
+  FRE_raven_cridhe_teine_nic_call: "Рейвен «Вогняне Серце» нік Калл"
+  FRE_lelei_la_lalena: "Лелей Ла Лалена"
+
+  # Радники
+  FRE_civ_industry_advisor: "Бітті Будівельник"
+  FRE_mil_industry_advisor: "Мунстіл"
+  FRE_ideological_crusader_advisor: "Санні «Переговірниця» нік Віллоу"
+  FRE_silent_workhorse_advisor: "Татко «Старий Фермер» мак Корн"
+  FRE_smooth_talking_charmer_advisor: "Роуз «Жінка-На-Час» нік Лав"
+  FRE_military_theorist_advisor: "Болд «Волохатий» мак Айрон"
+  FRE_air_war_advisor: "Блу «Меткий» мак Віндзор"
+  FRE_entrenchment_adv: "Ред «Великий» мак Еппл"
+  FRE_navy_screen_adv: "Уотер «Бульбашка» нік Гарт"
+  FRE_chief_defensive: "Кристал «Серце» нік Шілд"
+  FRE_chief_morale: "Пренсі «Реготун» мак Сонґ"
+  FRE_air_reform: "Лайт «Клостар» мак Вінґ" # (&) :: псевдонім
+  FRE_air_ground: "Флаттер «Соромливий» нік Сторм"
+  FRE_navy_decisive_chief: "Стронґ «Восьмивесловий» мак Ор"
+  FRE_fleet_logistics_chief: "Блу «Малий» мак Гувз"
+
+ ### ІДЕЇ ###
+  FRE_isolated_tribes: "Ізольовані племена"
+  #FRE_isolated_tribes_desc:0 "There are many tribes high in the mountains that know little of the council. While we will protect them, they are best left alone."
+  FRE_traditional_army: "Традиційна армія"
+  FRE_slowed_industralisation: "Уповільнена індустріалізація"
+  FRE_appeased_breezies: "Брізі заспокоєні"
+  FRE_breezie_famin: "Брізі голодують"
+  FRE_agriculture_reformes_idea: "Сільськогосподарські реформи"
+
+  # Компанії
+  FRE_tank_manufacturer: "Понайський спільний цех"
+  FRE_fighter_industry: "Aerloingeas"
+  FRE_bomber_industry: "Uilepheist"
+  FRE_naval_manufacturer: "Ламріґська верф"
+  FRE_industrial_concern: "Mac Donhoofs"
+  FRE_infantry_equipment_manufacturer: "Зброярня «Dìtreabh»"
+
 # country_FRN
  FRN_no_francis_fascism: "Графство П'юмонт"
  FRN_no_francis_fascism_DEF: "Графство П'юмонт"
@@ -3328,7 +3480,7 @@
   GRU_advisor_9: "Ванда Васілевська"
   GRU_advisor_10: "Едвард Длуґий"
 
-  GRU_advisor_11: "Майстер Зибранд" 
+  GRU_advisor_11: "Майстер Зибранд"
   GRU_advisor_12: "Ґжеґож Бженчищикєвич"
 
   GRU_advisor_13: "Крістобаль Аласьєло"
@@ -5216,6 +5368,70 @@
  LCT_great_lake_city_ally_fascism_DEF: "Великий Озергород"
  LCT_great_lake_city_ally_fascism_ADJ: "Озергородськ"
 
+ ### ПАРТІЇ ###
+  LCT_neutrality_party: "КДП"
+  LCT_neutrality_party_long: "Конституційно-демократична партія"
+  LCT_communism_party: "ССО"
+  LCT_communism_party_long: "Сполучені синдикати Озергороду"
+  LCT_democratic_party: "СДП"
+  LCT_democratic_party_long: "Соціал-демократична партія"
+  LCT_fascism_party: "Аванґард"
+  LCT_fascism_party_long: "Республіканський аванґард"
+
+  LCT_prince_faction: "Князівська фракція"
+  LCT_prince_faction_long: "Князівська фракція за відновлення та відродження нації"
+
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  LCT_springtime_frost: "Спринґтайм Фрост"
+  LCT_wavebreaker: "Уейвбрейкер"
+  LCT_deirdra_skye: "Дейрдра Скай"
+  LCT_westerly_leeward: "Уестерлі Ліуард"
+  LCT_heavenly_snow: "Гевенлі Сноу"
+  LCT_tito_titovich: "Тіто Тітович"
+
+  # Ґенерали
+  LCT_riversword: "Риверсуорд"
+  LCT_lake_shield: "Лейк Шілд"
+  LCT_cold_dew: "Колд Дью"
+  LCT_wild_tree: "Уайлд Трі"
+  LCT_thunder_wing: "Тандер Вінґ"
+  LCT_bright_star: "Брайт Стар"
+  LCT_iron_water: "Айрон Уотер"
+  LCT_azure: "Азура"
+  LCT_starwort: "Старуорт"
+  LCT_willow_moss: "Віллоу Мосс"
+  LCT_sunrise_sky: "Санрайз Скай"
+  LCT_pon_sanyc: "Понь Санич"
+  LCT_janko_pasnjakovic: "Янко Пашнякович"
+
+  # Радники
+  LCT_fortification: "Бівер Ран"
+  LCT_captain_of_industry: "Ривер Смоґ"
+  LCT_war_industrialist: "Тинкер Ток"
+  LCT_silent_workhorse: "Уотердью"
+  LCT_prince_of_terror: "Смолл Ґрин"
+  LCT_backroom: "Даун Ривер"
+  LCT_smooth_talker: "Світі Спринґ"
+
+  LCT_military_theorist: "Файр Флеш"
+  LCT_naval_theorist: "Тайд Тернер"
+  LCT_air_theorist: "Призм Сорті"
+
+  LCT_hc_bomber_intercept: "Фулл Лайт"
+  LCT_hc_tac_bombing: "Ґрізетта Коґвіл"
+
+  LCT_air_sea_chief: "Уотер Вінґз"
+  LCT_raiding_chief: "Шедоу Шауер"
+  LCT_dec_battle_chief: "Кеннонейд"
+
+  LCT_safty_air_chief: "Віндсок"
+  LCT_bat_chief: "Кул Міст"
+  LCT_weather_chief: "Стаді Клауд"
+
+  LCT_drill_army_chief: "Гейстер Рейзор"
+  LCT_morale_army_chief: "Міст Флауер"
+
 # country_LNS
  LNS_bandits_fascism: "Бандити Гайденрайх"
  LNS_bandits_fascism_DEF: "Бандити Гайденрайх"
@@ -5920,7 +6136,59 @@
  NIM_communism_DEF: "Німбусіанська вільна республіка"
  NIM_communism_ADJ: "Німбусіанськ"
 
+ ### ПАРТІЇ ###
+  NIM_neutrality_party: "Традиціоналісти"
+  NIM_democratic_party: "Реформісти"
+  NIM_fascism_party: "Пуристи"
+  NIM_communism_party: "Ілоти"
+
+  NIM_democratic_party_rep: "ПНД"
+  NIM_democratic_party_rep_long: "Партія нової демократії"
+  NIM_neutrality_party_rep: "ПНС"
+  NIM_neutrality_party_rep_long: "Партія німбусіанської спадщини"
+  NIM_fascism_party_rep: "ПСН"
+  NIM_fascism_party_rep_long: "Партія сильної Німбусії"
+  NIM_communism_party_rep: "РЗЕ"
+  NIM_communism_party_rep_long: "Рух за емансипацію"
+
+  NIM_Traditionalist: "Традиціоналіст"
+  NIM_Purist: "Пурист"
+  NIM_Reformist: "Реформіст"
+
+ #NIM_atrocities:0 "Caused terrible atrocities"
  NIM_vp_nesiasis: "Несіасіс"
+
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  NIM_pegicles: "Пегікл"
+  NIM_the_boule: "Буль"
+  NIM_pegalaios: "Пегалай"
+  NIM_andreia: "Андрія" # Андрея?
+  NIM_metakeros: "Метакерос"
+  NIM_dialusides: "Діалісідіс" # Діалусідес?
+
+  # Ґенерали
+  NIM_gylhippos: "Гіліпп"
+  NIM_scleroanavates: "Склероанаватіс" # Склероанаватес?
+  NIM_synnefo_hionos: "Сіннефо Іонос"
+  NIM_anemoroe: "Анеморое"
+  NIM_sideropleon: "Сідероплеон"
+  NIM_keraunoptose: "Керавноптос"
+  NIM_iodis_avgi: "Іодіс Авгі"
+  NIM_shell_watch: "Шелл Уотч"
+  NIM_twenty_fifth_pegasus: "Тіфонас Категіда-Спафі"
+  NIM_javik: "Явік"
+
+  # Адмірали
+  NIM_kataigida_trieres: "Категіда Тріеріс" # Тріерес?
+
+  # Радники
+  NIM_harmony_advisor: "Понетагорас"
+  NIM_neutrality_advisor: "Демаркскіос"
+  NIM_fascism_advisor: "Спевсіппос"
+  NIM_advisor_3: "Силвер Морнинґ"
+  NIM_advisor_4: "Герекл"
+  NIM_high_command_3: "Паледонеус"
 
 # country_NLR
  NLR_fragile_rule_1: "Селестійський спротив"
@@ -6507,6 +6775,73 @@
   PYT_advisor_14: "Еміль Драх"
   PYT_advisor_15: "Лінус Фельзенбаум"
   PYT_advisor_16: "Марґарете Ебоннейл"
+
+# country_RCT
+ ### ПАРТІЇ ###
+  RCT_democratic_party: "РГП"
+  RCT_democratic_party_long: "Річкова гармонійна партія"
+  RCT_communism_party: "СРК"
+  RCT_communism_party_long: "Союз річкових комуністів"
+  RCT_neutrality_party: "РКП"
+  RCT_neutrality_party_long: "Річкова консервативна партія"
+  RCT_fascism_party: "ННФ"
+  RCT_fascism_party_long: "Національний народний фронт"
+
+  RCT_ohs_party: "УГС"
+  RCT_ohs_party_long: "Управління гармонійних служб"
+
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  RCT_river_swirl: "Ривер Свірл"
+  RCT_nova_whirl: "Нова Вірл"
+  RCT_caramel_haze: "Карамель Гейз"
+  RCT_arthur_flow: "Артур Флоу"
+
+  # Ґенерали
+  RCT_katerina_kaffenhoof: "Катеріна Каффенгуф"
+  RCT_artemis_rosamund: "Артеміда Розамунд"
+  RCT_auriga: "Ауріґа"
+  RCT_arcane_tesla: "Аркейн Тесла"
+  RCT_spring_rain: "Спринґ Рейн"
+  RCT_ermilia_czrnozemiszna: "Ермілія Чрноземішна"
+  RCT_arcane_gear: "Аркейн Ґір"
+  RCT_ema_rosic: "Ема Росич" # Рошич?
+  RCT_jakov_coltsevic: "Яков Кольтсевич" # Кольтшевич?
+  RCT_brilliant_specter: "Брилліант Спектр"
+  RCT_brilliant_shade: "Брилліант Шейд"
+  RCT_hawkeye_falconer: "Гокай Фалконер"
+  RCT_gear_tail: "Ґір Тейл"
+  RCT_twotail_tail: "Тутейл Тейл"
+  RCT_ironside_vandergallop: "Айронсайд Вандерґаллоп"
+
+  # Радники
+  RCT_pumpkin_swirl: "Пампкин Свірл"
+  #RCT_pumpkin_swirl_desc:0 "While it's clear she's out of her element, she tries her best - and she seems determined to prove that nepotism is not what got her this position.\n"
+  RCT_quick: "Квік Стич"
+  RCT_beakoliser: "Свіфт Страйк"
+  RCT_taloniser: "Шайнинґ Шілд"
+  RCT_old_guard_guy: "Гектор Ліпіззан"
+  RCT_river_swimmer: "Свіфт Ривер"
+  RCT_hollow_water: "Ует Уотер"
+  RCT_Flying_Waterfall: "Ґрей Клауд"
+  RCT_Stabby_Stabby: "Тандер Рейн"
+  RCT_Leteci_sef: "Фірлесс Флайт"
+  RCT_Sea_Colt: "Сі Солт"
+  RCT_Pollar_River: "Оушн Дрім"
+  RCT_Helping_Hoof: "Гелпинґ Гуф"
+  RCT_Up_Oven: "Файр Сторм"
+  RCT_Under_Water: "Андер Уотер"
+  RCT_dep_assistant: "Сер Даркмейн"
+  RCT_cap_of_ind: "Міністр Крім Стрім"
+  RCT_Behind_Trusther: "Бігайнд Найф"
+  RCT_Flowing_Tear: "Флоуинґ Тір"
+  RCT_Logical_Thinking: "Айрон Гуф"
+  RCT_Surreal_Grass: "Сюрреал Ґрасс"
+  RCT_arclight: "Арклайт"
+  RCT_Nuclear_Water: "Нюклеар Уотер"
+  RCT_Hoover_Balls: "Санні Сендс"
+  RCT_Jolly_River: "Джоллі Ривер"
+  RCT_Wet_Water: "Кольтовацька академія"
 
 # country_RIV
  will_not_interfere_in_the_north: "Річкова коаліція §Yне буде втручатися в війни між північними селами§!"
@@ -7417,6 +7752,64 @@
  WIT_republic_tag_RIV_neutrality_DEF: "Республіка Віттенленд"
  WIT_republic_tag_RIV_communism: "Республіка Віттенленд"
  WIT_republic_tag_RIV_communism_DEF: "Республіка Віттенленд"
+
+ ### ПАРТІЇ ###
+  WIT_neutrality_party: "Князі Вітенаґемоту"
+  WIT_neutrality_party_council: "СЗТ"
+  WIT_neutrality_party_council_long: "Спілка хранителів традицій"
+  WIT_neutrality_party_parliament: "СТҐ"
+  WIT_neutrality_party_parliament_long: "Спілка торговельних ґільдій" # (&)
+  WIT_communism_party: "Союз фермерів" # (&)
+  WIT_communism_party_parliament: "РЗР"
+  WIT_communism_party_parliament_long: "Рух звільнення робітників" # (&)
+  WIT_democratic_party: "Правління королеви" # (&)
+  WIT_democratic_party_parliament: "СЗС"
+  WIT_democratic_party_parliament_long: "Спілка захисників свободи"
+  WIT_fascism_party: "Князі-єдинороги"
+  WIT_fascism_party_parliament: "СВ"
+  WIT_fascism_party_parliament_long: "Спілка відважних" # (&)
+
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  WIT_white_star: "Уайт Стар"
+  WIT_sigeweard_spellshield: "Сіґевеард Спеллшілд"
+  WIT_wulfric_grey: "Вульфрик Ґрей"
+  WIT_spirit_fire: "Спірит Файр"
+  WIT_eadberhta_featherwing: "Еадберхта Фезервінґ"
+  WIT_voliare_gingerbeard: "Воліаре Джинджербірд"
+  WIT_violet_plough: "Вайолет Плау"
+  WIT_honoria_goldmane: "Гонорія Ґолдмейн"
+  WIT_forlorn_hope: "Форлорн Гоуп"
+
+  # Ґенерали
+  WIT_katherine_fertz: "Катерина Ферц"
+  WIT_gilded_gale: "Ґилдед Ґейл"
+  WIT_snowy_smarty: "Сноуї Смарті"
+  WIT_fruity_loop: "Фруті Луп"
+  WIT_marigold: "Меріґолд"
+  WIT_bread_crumbs: "Бред Крамбз"
+  WIT_archmage_river_run: "Архімаг Ривер Ран"
+  WIT_mysteria: "Містерія"
+
+  # Радники
+  WIT_Mage_Advisor: "Дейн Брассайз"
+  WIT_Fort_Maker_Advisor: "Вільбурґ Файрмейн"
+  WIT_Smooth_Talker: "Лавендер Смуч"
+  WIT_Industry_Captain: "Серулеан Уейв"
+  WIT_War_Industrialist: "Лемон Ґрасс"
+  WIT_Theorist: "Стіл Літтл"
+  WIT_generic_army_chief_off: "Тандер Редмейн"
+  WIT_generic_army_chief_def: "Осґар Кримзонстрайп"
+  WIT_Derby_Advisor: "Кутберхт Емералдфлейм"
+  WIT_generic_army_art: "Гільда Пейлкоат"
+  WIT_generic_army_log: "Муншедоу Аметист"
+  WIT_generic_army_entrenchment: "Мільдґюд Стілсноу"
+  WIT_generic_navy_chief_decisive_bat: "Ґледвіне Флад"
+  WIT_generic_navy_anti_submarine: "Ельфтрюд Діпдайв"
+  WIT_generic_navy_fleet_log: "Ривер Рафт"
+  WIT_generic_air_air_combat_trainer: "Бриск Кольт"
+  WIT_generic_air_close_air_sup: "Дюк Вінґ"
+  WIT_generic_air_chief_all_weather: "Клауд Гармоні"
 
 # country_WNG
  WNG_fascism: "Королівство Вінґбардія"

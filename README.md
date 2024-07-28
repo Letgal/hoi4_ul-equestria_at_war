@@ -16,6 +16,7 @@
 + `country_CRY` (переклав [*Green Kitten*](https://steamcommunity.com/profiles/76561198235810742))
 + `country_CRY_NLR` (переклав *Green Kitten*)
 + `country_CRY_SOL` (переклав *Green Kitten*)
++ `country_DEP` (умовно)
 + `country_DRG`
 + `country_EQS`
 + `country_GRF` (переклав *Green Kitten*)
