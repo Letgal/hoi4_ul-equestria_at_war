@@ -2998,16 +2998,16 @@
 
   NIM_reichskommissariat_fascism: "Республіка Німбусія"
   NIM_reichskommissariat_fascism_DEF: "Республіка Німбусія"
-  NIM_reichskommissariat_fascism_ADJ: "Німбусіанськ"
+  NIM_reichskommissariat_fascism_ADJ: "Німбусійськ"
   NIM_reichskommissariat_democratic: "Республіка Німбусія"
   NIM_reichskommissariat_democratic_DEF: "Республіка Німбусія"
-  NIM_reichskommissariat_democratic_ADJ: "Німбусіанськ"
+  NIM_reichskommissariat_democratic_ADJ: "Німбусійськ"
   NIM_reichskommissariat_neutrality: "Німбусія"
   NIM_reichskommissariat_neutrality_DEF: "Німбусія"
-  NIM_reichskommissariat_neutrality_ADJ: "Німбусіанськ"
+  NIM_reichskommissariat_neutrality_ADJ: "Німбусійськ"
   NIM_reichskommissariat_communism: "Вільна республіка"
   NIM_reichskommissariat_communism_DEF: "Вільна республіка"
-  NIM_reichskommissariat_communism_ADJ: "Німбусіанськ"
+  NIM_reichskommissariat_communism_ADJ: "Німбусійськ"
 
   RCT_reichskommissariat_fascism: "Незалежна Рікгородська держава"
   RCT_reichskommissariat_fascism_DEF: "Незалежна Рікгородська держава"
@@ -5981,7 +5981,7 @@
   MIT_georgios_tsolakoglou: "Георгіос Цолакоглу"
 
   # Радники
-  MIT_Iron_Will: "Айрон Віл"
+  MIT_Iron_Will: "Айрон Віл" # sic! :: Одна L тут зумисно: згадайте слово «віл».
   #MIT_Iron_Will_desc:0 "After having a relatively successful career in Equestria as a motivational speaker and assertiveness trainer, Iron Will has decided to return to his homeland and seek employment there. Some say it is because of his poor reputation in the land of ponies."
   #shekel_desc:0 "General Justus' fame is based on his relentless and devastating raids against Freeholders' Syndicate, making him a boogeybull for both the pirates and Asterion Marine Corps. In stark contrast, the bull's political career has been disastrous. His staunch supporter of Enotita - especially its more militant wing - paints him as a firm supporter of country's current course. But his outright xenophobia, as well as visible support of old, obscure beliefs and faiths puts him really low on popularity lists. \n\nPerhaps, he would be better off with the Fascio-Communist Coalition, but the general harshly pushed away their invites, as he considers them hostile elements, that "push back the glorious day of mainland reclamation". These factors combined make a decorated general, one of the most brilliant military minds of modern Asterion... a laughingstock of country's political scene.\n\n§YPortrait by§!: Scroup"
   MIT_Randy: "Ренді, козлик-ведучий"
@@ -6123,18 +6123,18 @@
  NCR_fascism_party_long: "Новокаліфорнійська військова хунта"
 
 # country_NIM
- NIM_fascism: "Німбусіанська автократія"
- NIM_fascism_DEF: "Німбусіанська автократія"
- NIM_fascism_ADJ: "Німбусіанськ"
+ NIM_fascism: "Німбусійська автократія"
+ NIM_fascism_DEF: "Німбусійська автократія"
+ NIM_fascism_ADJ: "Німбусійськ"
  NIM_democratic: "Республіка Німбусія"
  NIM_democratic_DEF: "Республіка Німбусія"
- NIM_democratic_ADJ: "Німбусіанськ"
+ NIM_democratic_ADJ: "Німбусійськ"
  NIM_neutrality: "Німбусія"
  NIM_neutrality_DEF: "Німбусія"
- NIM_neutrality_ADJ: "Німбусіанськ"
- NIM_communism: "Німбусіанська вільна республіка"
- NIM_communism_DEF: "Німбусіанська вільна республіка"
- NIM_communism_ADJ: "Німбусіанськ"
+ NIM_neutrality_ADJ: "Німбусійськ"
+ NIM_communism: "Німбусійська вільна республіка"
+ NIM_communism_DEF: "Німбусійська вільна республіка"
+ NIM_communism_ADJ: "Німбусійськ"
 
  ### ПАРТІЇ ###
   NIM_neutrality_party: "Традиціоналісти"
@@ -6145,7 +6145,7 @@
   NIM_democratic_party_rep: "ПНД"
   NIM_democratic_party_rep_long: "Партія нової демократії"
   NIM_neutrality_party_rep: "ПНС"
-  NIM_neutrality_party_rep_long: "Партія німбусіанської спадщини"
+  NIM_neutrality_party_rep_long: "Партія німбусійської спадщини"
   NIM_fascism_party_rep: "ПСН"
   NIM_fascism_party_rep_long: "Партія сильної Німбусії"
   NIM_communism_party_rep: "РЗЕ"

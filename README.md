@@ -9,7 +9,7 @@
 + `countries`
 + `countries_griffonia`
 + `countries_zebrica`
-+ `country_AET` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
++ `country_AET` (переклав [*StasJesus*](https://steamcommunity.com/profiles/76561198867405533))
 + `country_BOI`
 + `country_BUF` (переклав *Kiparu*)
 + `country_CES` (переклав [*Daybreaker*](https://steamcommunity.com/profiles/76561199084403733))
@@ -19,8 +19,8 @@
 + `country_DEP` (умовно)
 + `country_DRG`
 + `country_EQS`
-+ `country_GRF` (переклав *Green Kitten*)
-+ `country_GRF` (переклав [*StasJesus*](https://steamcommunity.com/profiles/76561198867405533))
++ `country_GFF` (переклав *Green Kitten*)
++ `country_GRF` (переклав *StasJesus*)
 + `country_ERI`
 + `country_EYR`
 + `country_JEB`
@@ -31,7 +31,7 @@
 + `country_NTR`
 + `country_OLE`<!--  (переклав *Max*) -->
 + `country_POM`
-+ `country_STG` (переклав *ціктакомба*)
++ `country_STG` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
 + `country_STL`<!--  (переклав *Max*) -->
 + `country_Storm` (переклав *Daybreaker*)
 + `country_VIN`
