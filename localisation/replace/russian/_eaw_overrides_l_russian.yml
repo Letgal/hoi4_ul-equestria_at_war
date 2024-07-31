@@ -152,7 +152,7 @@
   SERVICE_MANPOWER_DESC: "Службові поні-ресурси необхідні для підтримання працездатності різних видів техніки."
   MAX_MANPOWER: "Максимум поні-ресурсів: "
   MANPOWER_TOTAL: "Усього поні-ресурсів: $MAX|0H*$"
-  MANPOWER_USAGE: "Доступні поні-ресурси: $FREE|^2H$$EXILE$\nВикористовувані поні-ресурси:\nАрмія: $ARMY|^2H$\n    - Розміщені: $FIELD|^2H$\n    - У процесі навчання: $TRAINING|^2H$\nАвіація: $AIR|^2H$\nФлот: $NAVAL|^2H$\nГарнізони: $GARRISON|^2H$"
+  MANPOWER_USAGE: "Доступні поні-ресурси: $FREE|^2H$$EXILE$\nВикористовувані поні-ресурси:\nАрмія: $ARMY|^2H$\n    - Розгорнуті: $FIELD|^2H$\n    - У процесі навчання: $TRAINING|^2H$\nАвіація: $AIR|^2H$\nФлот: $NAVAL|^2H$\nГарнізони: $GARRISON|^2H$"
   MANPOWER_CURRENT: "Усього поні-ресурсів: $TOTAL|^2H$\nДоступно $PERC|2%H$ усього населення осердних земель ($ELIGIBLE|^H$)" # CORE
   MANPOWER_CURRENT_MOBILIZATION: "Усього поні-ресурсів: $TOTAL|^2H$\nДоступно $PERC|2%H$ (близько $MOB|+3%$ мобілізуються щодня) усього населення осердних земель ($ELIGIBLE|^H$)" # CORE
   MANPOWER_DESC: "Поні-ресурси походять від §Hпризовного населення§! країни та її окупованих територій і відображають істот, придатних до служби в збройних силах. Установіть жорсткіший §Hпризовний закон§!, щоби розширити призов населення і збільшити доступні поні-ресурси."
@@ -166,8 +166,8 @@
   MANPOWER_AIRWING_DESC: "§TЦьому §Hавіакрилу§! потрібно $AMOUNT|G$ осіб у якості службових поні-ресурсів.§!"
   CONSCRIPTION_TOTAL_FACTOR_EXTRA_DESC: "\nФактична кількість поні-ресурсів змінена на $VAL|-%0$ через\n"
   MANPOWER_MONTHLY_TOTAL: "Щомісячний приріст поні-ресурсів: $VALUE|^+1$($PERC|2%H$)\nЗагальний приріст населення: $MAX|^2H$($FACTOR|2%H$ від загальної кількості)\n\nБазовий приріст: $RATIO|%H$"
-  MANPOWER_IN_USE: "Розміщені поні-ресурси"
-  MANPOWER_IN_USE_DESC: "§TКількість солдатів у розміщених військах. Коли солдати вмирають, війська отримують підкріплення з Ваших запасів §Hпоні-ресурсів§!.§!"
+  MANPOWER_IN_USE: "Розгорнуті поні-ресурси"
+  MANPOWER_IN_USE_DESC: "§TКількість солдатів у розгорнутих військах. Коли солдати вмирають, війська отримують підкріплення з Ваших запасів §Hпоні-ресурсів§!.§!"
   MANPOWER_IN_USE_GARRISON: "Поні-ресурси в гарнізонах"
   MANPOWER_IN_USE_GARRISON_DESC: "§TКількість солдатів у гарнізонах. Коли солдати вмирають, війська отримують підкріплення з Ваших запасів §Hпоні-ресурсів§!.§!"
   MANPOWER_PROVINCE_TOOLTIP: "Поні-ресурси: $VAL|*Y$"
@@ -177,10 +177,10 @@
  #deployment_l
   CONVEYOR_MANPOWER_NEED: "Необхідні поні-ресурси: $AMOUNT|H$"
   DEPLOYMENT_MANPOWER_DESC: "Поні-ресурси: $VALUE|Y0$ (максимум: $MAX|Y0$)"
-  DEPLOYMENT_LINES_HIT_THE_CAP: "Ми можемо тренувати не більш ніж $CAP|*H$ солдатів.\nОбмежено максимумом розміщених поні-ресурсів ($RATIO|H0%$ із $INFIELD|*H$, мінімум солдатів: $MINPOSSIBLE|*H$)"
+  DEPLOYMENT_LINES_HIT_THE_CAP: "Ми можемо тренувати не більш ніж $CAP|*H$ солдатів.\nОбмежено максимумом розгорнутих поні-ресурсів ($RATIO|H0%$ із $INFIELD|*H$, мінімум солдатів: $MINPOSSIBLE|*H$)"
   CONVEYOR_CAN_NOT_MANPOWER_TRAIN: "§RНедостатньо поні-ресурсів для подальшого тренування.§!"
   CONVEYOR_CAN_NOT_TRAIN_COUNT: "§RНедостатньо поні-ресурсів або оснащення для тренування $DIVS|H$ дивізій.§!"
-  TEMPLATE_PRIO_2_DESC: "Військові частини з цим шаблоном отримуватимуть оснащення раніше за всіх і з найвищим пріоритетом після свого розміщення. Використовуйте для своїх найкращих військ і де вони найкорисніші."
+  TEMPLATE_PRIO_2_DESC: "Військові частини з цим шаблоном отримуватимуть оснащення раніше за всіх і з найвищим пріоритетом після свого розгортання. Використовуйте для своїх найкращих військ і де вони найкорисніші."
 
  #designer_l
   DESIGNER_MANPOWER: "Поні-ресурси: "
@@ -207,7 +207,7 @@
   ESTIMATED_MANPOWER: "Приблизні поні-ресурси"
   DIPLOMACY_MESSAGE_SUBJECT_AUTONOMY_CHANGE_MANPOWER: "Для цього нам потрібно $VALUE|^2H$ поні-ресурсів."
   DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_MANPOWER:0 "Чтобы превзойти нынешнего лидера и его субъектов по количеству задействованных пони ресурсов, нам и нашим субъектам нужно $NEEDED|*Y$ ед. задействованных пони ресурсов, но сейчас у нас только $CURRENT|*Y$."
-  DIPLOMACY_ASSUME_FACTION_LEADERSHIP_MANPOWER_PROGRESS: "   $CURRENT|*R$ розміщених поні-ресурсів із потрібних $NEEDED|*Y$."
+  DIPLOMACY_ASSUME_FACTION_LEADERSHIP_MANPOWER_PROGRESS: "   $CURRENT|*R$ розгорнутих поні-ресурсів із потрібних $NEEDED|*Y$."
 
   DIPLOMACY_REQUEST_FOREIGN_MANPOWER_ACTION_DESC:0 "Запросить иностранные пони ресурсы для заполнения гарнизонов."
   DIPLOMACY_REQUEST_FOREIGN_MANPOWER_ACTION_DESC_MORE:0 "Запросить больше иностранных пони ресурсов для заполнения гарнизонов.\nУ нас уже есть $NUMBER|H*$ ед. пони ресурсов из этого государства"
@@ -321,21 +321,21 @@
 
  #intel_ledger_l
   INTEL_LEDGER_MANPOWER_TOOLTIP: "Доступні поні-ресурси: $RANGE|H$"
-  INTEL_LEDGER_FIELDED_MANPOWER_TOOLTIP: "Розміщені поні-ресурси:"
-  INTEL_LEDGER_DEPLOYED_MANPOWER_COUNT: "Розміщено армійських поні-ресурсів: $AMOUNT|H$"
-  INTEL_LEDGER_DEPLOYED_MANPOWER_COUNT_WITH_CAP: "Розміщено армійських поні-ресурсів: $AMOUNT|H$ (потрібні армійські розвіддані: $MIN|H.0%$)"
-  INTEL_LEDGER_DEPLOYED_NAVY_MANPOWER_COUNT: "Розміщено флотських поні-ресурсів: $AMOUNT|H$"
-  INTEL_LEDGER_DEPLOYED_NAVY_MANPOWER_COUNT_WITH_CAP: "Розміщено флотських поні-ресурсів: $AMOUNT|H$ (потрібні флотські розвіддані: $MIN|H.0%$)"
-  INTEL_LEDGER_DEPLOYED_AIR_MANPOWER_COUNT: "Розміщено авіаційних поні-ресурсів: $AMOUNT|H$"
-  INTEL_LEDGER_DEPLOYED_AIR_MANPOWER_COUNT_WITH_CAP: "Розміщено авіаційних поні-ресурсів: $AMOUNT|H$ (потрібні авіаційні розвіддані: $MIN|H.0%$)"
+  INTEL_LEDGER_FIELDED_MANPOWER_TOOLTIP: "Розгорнуті поні-ресурси:"
+  INTEL_LEDGER_DEPLOYED_MANPOWER_COUNT: "Розгорнуто армійських поні-ресурсів: $AMOUNT|H$"
+  INTEL_LEDGER_DEPLOYED_MANPOWER_COUNT_WITH_CAP: "Розгорнуто армійських поні-ресурсів: $AMOUNT|H$ (потрібні армійські розвіддані: $MIN|H.0%$)"
+  INTEL_LEDGER_DEPLOYED_NAVY_MANPOWER_COUNT: "Розгорнуто флотських поні-ресурсів: $AMOUNT|H$"
+  INTEL_LEDGER_DEPLOYED_NAVY_MANPOWER_COUNT_WITH_CAP: "Розгорнуто флотських поні-ресурсів: $AMOUNT|H$ (потрібні флотські розвіддані: $MIN|H.0%$)"
+  INTEL_LEDGER_DEPLOYED_AIR_MANPOWER_COUNT: "Розгорнуто авіаційних поні-ресурсів: $AMOUNT|H$"
+  INTEL_LEDGER_DEPLOYED_AIR_MANPOWER_COUNT_WITH_CAP: "Розгорнуто авіаційних поні-ресурсів: $AMOUNT|H$ (потрібні авіаційні розвіддані: $MIN|H.0%$)"
   CIV_LEDGER_THRESHOLD_FUZZY_TOTAL_MANPOWER: "Приблизно всього поні-ресурсів"
   CIV_LEDGER_THRESHOLD_MANPOWER: "Усього поні-ресурсів"
-  ARMY_LEDGER_THRESHOLD_DEPLOYED_MANPOWER: "Розміщені поні-ресурси армії"
-  ARMY_LEDGER_THRESHOLD_FUZZY_DEPLOYED_MANPOWER: "Приблизні розміщені поні-ресурси армії"
-  NAVY_LEDGER_THRESHOLD_FIELDED_MANPOWER: "Розміщені поні-ресурси флоту"
-  NAVY_LEDGER_THRESHOLD_FUZZY_FIELDED_MANPOWER: "Приблизні розміщені поні-ресурси флоту"
-  AIR_LEDGER_THRESHOLD_FIELDED_MANPOWER: "Розміщені поні-ресурси авіації"
-  AIR_LEDGER_THRESHOLD_FUZZY_FIELDED_MANPOWER: "Приблизні розміщені поні-ресурси авіації"
+  ARMY_LEDGER_THRESHOLD_DEPLOYED_MANPOWER: "Розгорнуті поні-ресурси армії"
+  ARMY_LEDGER_THRESHOLD_FUZZY_DEPLOYED_MANPOWER: "Приблизні розгорнуті поні-ресурси армії"
+  NAVY_LEDGER_THRESHOLD_FIELDED_MANPOWER: "Розгорнуті поні-ресурси флоту"
+  NAVY_LEDGER_THRESHOLD_FUZZY_FIELDED_MANPOWER: "Приблизні розгорнуті поні-ресурси флоту"
+  AIR_LEDGER_THRESHOLD_FIELDED_MANPOWER: "Розгорнуті поні-ресурси авіації"
+  AIR_LEDGER_THRESHOLD_FUZZY_FIELDED_MANPOWER: "Приблизні розгорнуті поні-ресурси авіації"
 
  #lar_decisions_l
   recruit_in_state_tt: "Ми отримаємо місцевого агента з даною культурою. Цього агента буде важче помітити при проникненні та виконанні завдань у державах із цією культурою."
@@ -505,8 +505,8 @@
   operative_master_interrogator_desc:1 "Этот агент может разговорить кого угодно."
 
  #triggers_l
-  TRIGGER_HAS_ARMY_MANPOWER_AT_LEAST: "Не менш ніж $AMOUNT|*2H$ поні-ресурсів у розміщених дивізіях"
-  TRIGGER_HAS_ARMY_MANPOWER_AT_MOST: "Не більш ніж $AMOUNT|*2H$ поні-ресурсів у розміщених дивізіях"
+  TRIGGER_HAS_ARMY_MANPOWER_AT_LEAST: "Не менш ніж $AMOUNT|*2H$ поні-ресурсів у розгорнутих дивізіях"
+  TRIGGER_HAS_ARMY_MANPOWER_AT_MOST: "Не більш ніж $AMOUNT|*2H$ поні-ресурсів у розгорнутих дивізіях"
   TRIGGER_HAS_ARMY_MANPOWER_OF_TYPE_AT_LEAST: "Не менш ніж $AMOUNT|*2H$ поні-ресурсів у дивізіях $TYPE|H$"
   TRIGGER_HAS_ARMY_MANPOWER_OF_TYPE_AT_MOST: "Не більш ніж $AMOUNT|*2H$ поні-ресурсів у дивізіях $TYPE|H$"
   TRIGGER_HAS_MANPOWER_MORE_THAN: "Більш ніж $NUMBER|*H$ поні-ресурсів"
@@ -518,9 +518,9 @@
   TRIGGER_RECRUIT_HAS_MANPOWER: "Не менш між $NUMBER|*H$ доступних поні-ресурсів"
   TRIGGER_RECRUIT_HAS_NOT_MANPOWER: "Не більш між $NUMBER|*H$ доступних поні-ресурсів"
   TRIGGER_MANPOWER_PER_FACTORY: "поні-ресурсів на військовий завод"
-  TRIGGER_MANPOWER_IN_DEPLOYMENT_QUEUE: "поні-ресурсів у черзі розміщення"
-  TRIGGER_ARMY_MANPOWER_IN_STATE: "поні-ресурсів, розміщених в області $STATE|H$"
-  TRIGGER_ARMY_MANPOWER_IN_STATE_OF_TYPE: "поні-ресурсів, розміщених в області $STATE|H$ з дивізій $TYPE|H$"
+  TRIGGER_MANPOWER_IN_DEPLOYMENT_QUEUE: "поні-ресурсів у черзі розгортання"
+  TRIGGER_ARMY_MANPOWER_IN_STATE: "поні-ресурсів, розгорнутих в області $STATE|H$"
+  TRIGGER_ARMY_MANPOWER_IN_STATE_OF_TYPE: "поні-ресурсів, розгорнутих в області $STATE|H$ з дивізій $TYPE|H$"
   can_unlock_new_special_forces_tree_none:0 "£trigger_yes §HСпециализаций§! осталось: §H2§!"
 
  #unit_l
