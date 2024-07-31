@@ -31,7 +31,8 @@
 + `country_NTR`
 + `country_OLE`<!--  (переклав *Max*) -->
 + `country_POM`
-+ `country_STG` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
++ `country_RCT` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
++ `country_STG` (переклав *ціктакомба*)
 + `country_STL`<!--  (переклав *Max*) -->
 + `country_Storm` (переклав *Daybreaker*)
 + `country_VIN`
