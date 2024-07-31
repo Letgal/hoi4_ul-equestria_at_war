@@ -262,22 +262,6 @@
  ABY_APRIL_FOOL_STATUS: "Каценрайх"
   RULE_OPTION_ABY_APRIL_FOOL: "Кіт із далекого космосу" # Кац
 
-# eaw_griffon_techs
- griffon_folder: "Технології грифонів"
- griffon_folder_desc: "Промислові, соціальні та військові технології, притаманні расі грифонів."
- griffon_race: "Раса грифонів"
-
-# eaw_hippogriff_techs
- hippogriff_folder: "Технології гіпогрифів"
- hippogriff_folder_desc: "Промислові, соціальні та військові технології, притаманні расі гіпогрифів."
- hippogriff_race: "Раса гіпогрифів"
- #hippogriff_race_desc:0 "Hippogriffs are a quadrupedal race native to Mount Aris. They are similar to griffons, having the front half of an eagle, but are taller and have the rear half of an equine rather than a feline. Theories about Hippogriffs being the offspring of horses and griffons have not been proven to be true. In addition, hippogriffs can use a shard from the magical Pearl of Transformation to change into Seaponies, aquatic fish-like creatures. In both forms, they are primarily carnivorous and mostly eat fish."
- TITLE_HIPPOGRIFF_SEAPONIES_SUBTITLE: "МОРСЬКІ ПОНІ-МОРПІХИ"
- TITLE_HIPPOGRIFF_ENGINEERING_SUBTITLE: "ІНЖЕНЕРІЯ"
- TITLE_HIPPOGRIFF_RECON_SUBTITLE: "РОЗВІДКА ТА ВИЯВЛЕННЯ"
- TITLE_HIPPOGRIFF_COMBINED_SUBTITLE: "СПІЛЬНОДІЯ РОДІВ ВІЙСЬК"
- TITLE_HIPPOGRIFF_ENDURANCE_SUBTITLE: "ВИТРИВАЛІСТЬ"
-
 # eaw_kirin_techs
  kirin_folder: "Технології кірінів"
  kirin_folder_desc: "Промислові, соціальні та військові технології, притаманні расі §Yкірінів§!."

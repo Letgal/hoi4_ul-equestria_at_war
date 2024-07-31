@@ -42,12 +42,15 @@
 + `eaw_adjacency_rules`
 + `eaw_autonomy`
 + `eaw_bop`
++ `eaw_capitulation_quotes`
 + `eaw_decisions`
 + `eaw_difficulty`
 + `eaw_diplo_popup`
 + `eaw_flags_and_opinion`
 + `eaw_focus`
 + `eaw_focus_filter_tag`
++ `eaw_griffon_tech`
++ `eaw_hippogriff_techs` (умовно)
 + `eaw_horse_techs`
 + `eaw_leaders` (зокрема переклав *ціктакомба*)
 + `eaw_musictoggle`
