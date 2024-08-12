@@ -28,6 +28,7 @@
 + `country_JRR`
 + `country_MTA` (умовно)
 + `country_north_zebrican_war`
++ `country_NLR` (переклав *Green Kitten*)
 + `country_NTR`
 + `country_OLE`<!--  (переклав *Max*) -->
 + `country_POM`

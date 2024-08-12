@@ -6190,41 +6190,6 @@
   NIM_advisor_4: "Герекл"
   NIM_high_command_3: "Паледонеус"
 
-# country_NLR
- NLR_fragile_rule_1: "Селестійський спротив"
- NLR_fragile_rule_1_desc:0 "Не все охотно приняли нашу официальную версию о восстании. Многие пони видят своей правительницей лишь Селестию и поэтому открыто проявляют неповиновение и провоцируют беспорядки на внутреннем фронте. Большинство действует в одиночку, но всё больше и больше пони собираются в организованные группы и совершают тактические диверсии именно там, где мы слабее всего."
- NLR_fragile_rule_2: "$celestial_resistance$"
- NLR_fragile_rule_2_desc: "$NLR_fragile_rule_1_desc$"
- NLR_fragile_rule_3: "$celestial_resistance$"
- NLR_fragile_rule_3_desc:0 "Не все охотно приняли нашу официальную версию о восстании. Многие пони видят своей правительницей лишь Селестию и поэтому открыто проявляют неповиновение и провоцируют беспорядки на внутреннем фронте. Большинство действует в одиночку, но всё больше и больше пони собираются в организованные группы и совершают тактические диверсии именно там, где мы слабее всего.\n\nОднако наши недавние усилия привели к сокращению численности бойцов сопротивления, и пройдёт совсем немного времени, прежде чем их действия станут совершенно незначительными."
-
- NLR_detrot: "Detrot Motors"
- NLR_nightmare: "Nightmare Motors, Inc."
- NLR_shoof: "$shoof$"
-
- ### ПЕРСОНАЖІ ###
-  NLR_nightmare_moon: "Найтмер Мун"
-  NLR_astral_vision: "Астрал Віжн"
-  NLR_sunny_daze: "Санні Дейз"
-  NLR_midnight_blossom: "Міднайт Блоссом"
-  NLR_echo: "Ехо"
-  NLR_night_blade: "Найт Блейд"
-  NLR_tzyca: "Тзіка"
-  NLR_icy_breeze: "Айсі Бріз"
-  NLR_nightbreeze_thunderstorm: "Найтбріз Тандерсторм"
-  NLR_cleansing_night: "Клензинґ Найт"
-  NLR_seaward_march: "Сіуард Марч"
-  NLR_galaxy_rose: "Ґелаксі Роуз"
-
- ### РИСИ ###
-  benevolent_overlord: "Доброзичлива імператриця"
-  #benevolent_overlord_desc:0 "Through compassion and forgiveness, the Empress rules over Equestria with a just hoof. It would still be unwise to cross her, however..."
-  nightmare_moon_trait: "Імператриця Ночі" # Володарка Ночі
-  nightmare_moon_trait_2: "$nightmare_moon_trait$"
-  the_nightmare_trait: "Найтмер"
-  NLR_regent_of_the_southwest: "Президент Південної асоціації"
-  NLR_empress_of_equus_trait: "Імператриця Всія Еквусу"
-
 # country_NMS
  NMS_nobody: "Ніхто"
  NMS_moonspeaker_conclave: "Конклав Місяцемовних"
