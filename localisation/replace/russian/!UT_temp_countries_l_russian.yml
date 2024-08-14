@@ -6799,6 +6799,14 @@
  ROU_heartland_communism_DEF: "Герцландська комуна"
  ROU_heartland_communism_ADJ: "Герцландськ"
 
+ ### ПАРТІЇ ###
+  ROU_traitors: "Прибічники Гефеста"
+  ROU_traitors_long: "Прибічники Гефеста"
+  ROU_kv: "Консервативний народний альянс"
+  ROU_kv_long: "Консервативний народний альянс"
+  ROU_gshp: "ГСГПГ"
+  ROU_gshp_long: "Грифонська соціал-гармоністська партія"
+
  ### ПЕРСОНАЖІ ###
   ROU_senator_ravioli: "Сенатор Равіолі"
   ROU_archon_erion_xii: "$archon_erion$"
@@ -7052,6 +7060,36 @@
   STW_felix_hardbeak: "Фелікс Гардбік"
   STW_fritz_bronzetail: "Фріц Бронзтейл"
   STW_august_goldplume: "Ауґуст Ґолдплюм"
+
+ # Радники
+  STW_captain_of_industry: "Петер Містфезер"
+  STW_war_industrialist: "Еміль Стормфезер"
+  STW_prince_of_terror: "Ганс Тандертейл"
+  STW_backroom_backstabber: "Стаффан Дарккло"
+  STW_quartermaster_general: "Отто Силверплюм"
+  STW_compassionate_gentleman: "Ерих Ґолдплюм"
+  STW_head_of_intelligence: "Ева Лайтвінґ"
+  STW_military_theorist: "Макс Гардбік"
+  STW_military_theorist_2: "Джін Іґлкло"
+  STW_military_theorist_3: "Джилліан Айронталон"
+  STW_air_warfare_theorist: "Антон Ґримвінґ"
+  STW_rocket_scientist: "Фелікс Квіквінґ"
+  STW_peasant_collective: "Селянський колектив"
+  STW_army_chief_off: "Отто Бронзтейл"
+  STW_army_chief_def: "Ганс Старбілл"
+  STW_army_chief_man: "Теодор Тандертейл"
+  STW_navy_chief_decisive_bat: "Гаральд Бімкло"
+  STW_navy_submarine: "Анікет Блутейл"
+  STW_bomber_griff: "Стаффан Геллкрест"
+  STW_fighter_griff: "Фриц Ґрейталон"
+  STW_air_chief_all_weather: "Гайнц Уайтвінґ"
+  STW_army_art: "Тобіас Геллкрест"
+  STW_army_inf: "Конрад Стормборн"
+  STW_army_arm: "Отто Стормборн"
+  STW_navy_fleet_log: "Райнголд Ґрейталон"
+  STW_safety_griff: "Ауґуст фон Біксгайм"
+  STW_ground_support_griff: "Еліас Старкрест"
+  STW_regency_council: "Регентська рада"
 
 # country_TAL
  TAL_fascism: "Нова-Талонсія"
