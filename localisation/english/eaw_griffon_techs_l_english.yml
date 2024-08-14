@@ -2,6 +2,7 @@
  griffon_folder: "Технології грифонів"
  griffon_folder_desc: "Промислові, соціальні та військові технології, притаманні расі грифонів."
  griffon_race: "Раса грифонів"
+ griffon_race_desc:0 "Griffons are sapient creatures who are half avian and half feline. They are quadrupeds, with sharp talons on their front legs and paws on their rear legs. All griffons also have wings on their backs, which makes traversing across rough terrain easy for them. They are also known to be relatively strong creatures, but lack significant magical capabilities as they are only capable of enchantments and incantations. They are said to be a greedy and gold-obsessed species but this is just a lie invented by insolvent debtors. While biologically carnivorous, griffons do consume baked goods as part of their diet. They do not eat raw plants, however."
  knights_tech_research: "Темпи дослідження технологій лицарів"
  TITLE_GRIFFON_KNIGHTS_SUBTITLE:0 "ГРИФОНЯЧІ ЛИЦАРІ"
  TITLE_GRIFFON_SOCIETY_SUBTITLE:0 "СУСПІЛЬСТВО ТА ГОСПОДАРСТВО"

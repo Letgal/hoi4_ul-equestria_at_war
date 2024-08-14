@@ -33,6 +33,13 @@
  super_heavy_tank_aa_equipment_1:0 "Super Heavy SP Anti-Air I"
  super_heavy_tank_aa_equipment_1_short:0 "SH. AA I"
 
+ amphibious_tank_equipment_1:0 "Early Amphibious Tank"
+ amphibious_tank_equipment_1_short:0 "Early Amph. Tank"
+ amphibious_tank_equipment_1_desc:0 "The value of a tank designed for amphibious operations is evident but a considerable engineering challenge. Limited by weight and size, amphibious tanks are most similar to other light tank designs but built with integrated pontoons or other flotation devices to allow them to traverse water. Though light in armour and armament, and a relatively slow speed on the water, limit the scope of these tanks, they are an essential step for armoured amphibious operations."
+ amphibious_tank_equipment_2:0 "Basic Amphibious Tank"
+ amphibious_tank_equipment_2_short:0 "Basic Amph. Tank"
+ amphibious_tank_equipment_2_desc:0 "Early amphibious tank designs had several flaws, whether speed, firepower, or protection, which made them poor tanks. However, they also confirmed the theory: armoured support that can easily cross large rivers or participate in a beachhead has proven invaluable. New developments in water sealing and designs make these amphibious tanks far more capable in land combat."
+
  infantry_equipment_0: "Казнозарядні гвинтівки"
  infantry_equipment_0_short: "Казнозарядні гвинтівки"
  infantry_equipment_0_desc:0 "Muskets of old have been largely replaced by breech-loaded rifled firearms, which use smokeless powder and can be reloaded quickly and easily. In addition, soldiers use sidearms such as pistols and bayonets as well as state-issued helmets and uniforms."

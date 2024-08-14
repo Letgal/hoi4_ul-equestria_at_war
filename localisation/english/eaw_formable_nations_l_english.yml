@@ -49,8 +49,8 @@
  form_free_trade_zone_category: "Формування Зони вільної торгівлі"
  form_free_trade_zone_category_desc:0 "As Klugetown has toppled the old regimes of Maregypt and Abyssinia, we are in a comfortable position to create a new nation, that will truly represent both the cats and the ponies!\n\nOr at least, their crime lords."
  form_free_trade_zone: "Об'єднати пустелю й узбережжя"
- form_country_abyssinia_required_states_tt: "Контролює всі початкові землі §YАбіссинії§!"
- form_country_maregypt_required_states_tt: "Контролює всі початкові землі §YМейргипту§!"
+ form_country_abyssinia_required_states_tt: "Усі початкові землі §YАбіссинії§! контролюються безпосередньо або маріонеткою"
+ form_country_maregypt_required_states_tt: "Усі початкові землі §YМейргипту§! контролюються безпосередньо або маріонеткою"
  form_country_abyssinia_coring_states_tt: "Усі осердні землі §YАбіссинії§! стануть осердними." # CORE
  form_country_maregypt_coring_states_tt: "Усі осердні землі §YМейргипту§! стануть осердними." # CORE
  form_country_manedalusia_coring_states_tt: "Усі осердні землі §YМейндалусії§! стануть осердними." # CORE
@@ -62,3 +62,7 @@
  form_country_maretania_required_states_tt: "Контролює всі початкові землі §YМейританії§!"
  form_country_osqat_required_states_tt: "Контролює всі початкові землі §YОскату§!"
  form_country_haymir_required_states_tt: "Контролює всі початкові землі §YГейміру§!"
+
+ form_deerkind_category:0 "Unify Deerkind"
+ form_deerkind_category_desc:0 "Deerkind has always been disunited, has always been fighting with themselves. For the first time in history, the possibility of a single ruling body over all cervids is achievable. No longer will we be on the backhoof, subject to foreign powers and marred by petty infighting. Deerkind stands together!"
+ form_deerkind:0 "Unite All Deerkind"

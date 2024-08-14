@@ -929,8 +929,8 @@ l_english:
  stalliongrad.116.c:0 "Вчитися, вчитися і ще раз вчитися."
  stalliongrad.116.e:0 "Магія у серцях пролетаріату."
 
- stalliongrad.124.t:0 "[GRW.GetNameDef] пропонує союз"
- stalliongrad.124.d:0 "[GRW.GetLeader] пропонує союз, щоб ми разом боролися проти імперіалізму."
+ stalliongrad.124.t:0 "[GRW.GetNameDef] пропонує альянс"
+ stalliongrad.124.d:0 "[GRW.GetLeader] пропонує альянс, щоб ми разом боролися проти алікорнів."
  stalliongrad.124.a:0 "Погодитись"
  stalliongrad.124.b:0 "Нехай вони до нас долучаться."
  stalliongrad.124.c:0 "Ні."
@@ -1127,20 +1127,20 @@ l_english:
 
  # Піхота
   STG_infantry_at:0 "ПТРД"
-  STG_infantry_at2:0 "РПГ-43"
+  STG_infantry_at2:0 "РПГ-14"
 
-  STG_support_weapons2:0 "ДП & РМ-38"
-  STG_support_weapons3:0 "ДС-13 & 82-ПМ-41"
-  STG_support_weapons4:0 "СГ-15 Говорунов & 120-ПМ-43"
-  STG_support_weapons:0 "PM M1910 & 9 cm ГР"
+  STG_support_weapons2:0 "ДП & РМ-09"
+  STG_support_weapons3:0 "ДС-09 & 82-ПМ-11"
+  STG_support_weapons4:0 "СГ-13 Говорунов & 120-ПМ-13"
+  STG_support_weapons:0 "PM M989 & 9-см ГР"
 
   STG_infantry_equipment_0:0 "Лілія"
   STG_infantry_equipment_0_short:0 "Лілія"
 
-  STG_infantry_equipment_1:0 "СВТ-38/40"
-  STG_infantry_equipment_1_short:0 "СВІТА"
+  STG_infantry_equipment_1:0 "СВТ-07/09"
+  STG_infantry_equipment_1_short:0 "СВєТа"
 
-  STG_infantry_equipment_2:0 "ППШ-41"
+  STG_infantry_equipment_2:0 "ППШ-10"
   STG_infantry_equipment_2_short:0 "ППШ-10"
 
   STG_infantry_equipment_3:0 "ППС-13"
@@ -1184,28 +1184,28 @@ l_english:
   STG_mechanized_equipment_3_short:0 "БТР-152"
 
  # Артилерія
-  STG_anti_air_equipment_1:0 "M1939 37mm AA"
-  STG_anti_air_equipment_1_short:0 "M1939 37mm AA"
+  STG_anti_air_equipment_1:0 "M1009 37-мм AA"
+  STG_anti_air_equipment_1_short:0 "M1009 37-мм AA"
 
-  STG_anti_air_equipment_2:0 "M1940 25mm AA"
+  STG_anti_air_equipment_2:0 "M1011 25-мм AA"
 
-  STG_anti_air_equipment_3:0 "KS-19 100mm"
-
-
-  STG_anti_tank_equipment_1:0 "M 1930 37mm"
-  STG_anti_tank_equipment_1_short:0 "M1930"
-
-  STG_anti_tank_equipment_2:0 "M 42 45mm"
-
-  STG_anti_tank_equipment_3:0 "76.2mm ЗИС-3"
+  STG_anti_air_equipment_3:0 "KS-19 100-мм"
 
 
-  STG_artillery_equipment_1:0 "M05 76mm"
-  STG_artillery_equipment_1_short:0 "M05 76mm"
+  STG_anti_tank_equipment_1:0 "M 1000 37-мм"
+  STG_anti_tank_equipment_1_short:0 "M1000"
 
-  STG_artillery_equipment_2:0 "M60 107mm"
+  STG_anti_tank_equipment_2:0 "M 12 45-мм"
 
-  STG_artillery_equipment_3:0 "M13 152mm"
+  STG_anti_tank_equipment_3:0 "76.2-мм ЗИС-3"
+
+
+  STG_artillery_equipment_1:0 "M05 76-мм"
+  STG_artillery_equipment_1_short:0 "M05 76-мм"
+
+  STG_artillery_equipment_2:0 "M60 107-мм"
+
+  STG_artillery_equipment_3:0 "M13 152-мм"
 
 
   STG_rocket_artillery_equipment_1:0 "M-8-6"

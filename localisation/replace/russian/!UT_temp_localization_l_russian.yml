@@ -249,7 +249,7 @@
  RULE_AI_DIVISION_LIMITER: "£eaw_text£ Обмеження дивізій ШІ"
  INFUNSTRUCTURE: "Початкова інфраструктура"
   RULE_OPTION_PSODY_MODE: "Видалити інфраструктуру"
- GREAT_WAR_AI_BUFFS: "Бонуси для ШІ під час Великої війни"
+ GREAT_WAR_AI_BUFFS: "£eaw_text£ Бонуси для ШІ під час Великої війни"
   RULE_OPTION_BUFFS_ADDED: "Бонуси для ШІ Еквестрії"
   RULE_OPTION_CHN_BUFFS_ADDED: "Бонуси для ШІ Земель Чейнджлінґів"
  NCR_EXISTS_STATUS: "Новокаліфорнійська експедиція"

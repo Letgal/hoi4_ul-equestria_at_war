@@ -6200,11 +6200,12 @@
  NMS_kekers: "Кекерс"
  NMS_baltimare_band: "Балтимейрська банда"
 
- NMS_star_chaser: "Стар Чейзер"
+ #NMS_star_chaser: "Стар Чейзер"
  NMS_berry_meadow: "Беррі Медоу"
  NMS_comet_chaser: "Комет Чейзер"
  NMS_night_dasher: "Найт Дешер"
  NMS_silver_moon: "Силвер Мун"
+ NMS_slashing: "Слешинґ Прайсес"
 
  NMS_civilian_government_fascism: "Південно-східне Губернаторство"
  NMS_civilian_government_fascism_DEF: "Південно-східне Губернаторство"
