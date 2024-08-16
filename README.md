@@ -10,10 +10,12 @@
 + `countries_griffonia`
 + `countries_zebrica`
 + `country_AET` (переклав [*StasJesus*](https://steamcommunity.com/profiles/76561198867405533))
++ `country_BAL` (переклав [*Green Kitten*](https://steamcommunity.com/profiles/76561198235810742))
++ `country_BAL_protectorate` (переклав *Green Kitten*)
 + `country_BOI`
 + `country_BUF` (переклав *Kiparu*)
 + `country_CES` (переклав [*Daybreaker*](https://steamcommunity.com/profiles/76561199084403733))
-+ `country_CRY` (переклав [*Green Kitten*](https://steamcommunity.com/profiles/76561198235810742))
++ `country_CRY` (переклав *Green Kitten*)
 + `country_CRY_NLR` (переклав *Green Kitten*)
 + `country_CRY_SOL` (переклав *Green Kitten*)
 + `country_DEP` (умовно)
