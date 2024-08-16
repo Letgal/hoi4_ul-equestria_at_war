@@ -19,13 +19,14 @@
 + `country_DEP` (умовно)
 + `country_DRG`
 + `country_EQS`
-+ `country_GFF` (переклав *Green Kitten*)
-+ `country_GRF` (переклав *StasJesus*)
 + `country_ERI`
 + `country_EYR`
++ `country_GFF` (переклав *Green Kitten*)
++ `country_GRF` (переклав *StasJesus*)
 + `country_JEB`
 + `country_JFT`
 + `country_JRR`
++ `country_JUN` (переклав *Green Kitten*)
 + `country_MTA` (умовно)
 + `country_north_zebrican_war`
 + `country_NLR` (переклав *Green Kitten*)
