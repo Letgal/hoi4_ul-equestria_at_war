@@ -6802,29 +6802,6 @@
   ROU_hammenchet: "Вальтер Гамменхет"
   ROU_jursten_marcher: "Мартін Юрстен"
 
-# country_SCS
- vp_name_coltlumbia: "Кольтлумбія"
-
- SCS_silverstar: "Силверстар"
- SCS_braeburn: "$EQS_braeburn$"
- SCS_jd_neighvis: "Дж. Д. Нейвіс"
- SCS_rockfeller: "Рокфеллер"
- SCS_danaus_plexippus: "Данаус Плексіппус"
- SCS_maud_pie: "$EQS_maudpie$"
-
- SCS_star_spur: "Стар Спер"
- SCS_apple_ale: "Еппл Ейл"
- SCS_mccree: "МакКрі"
- SCS_moonshine_melody: "Муншайн Мелоді"
- SCS_sorren_peak: "Соррен Пік"
- SCS_burnside_fervor: "Бернсайд Фервор"
- SCS_trotbert_e_neigh: "Тротберт Е. Ней"
- SCS_stewed_apple: "Стюд Еппл"
- SCS_stone_wall: "Стоун Уолл"
-
- flim_SCS: "$EQS_flim_flam$"
- fetter_keys_ac: "$fetter_keys$"
-
 # country_SIC
  ### ПЕРСОНАЖІ ###
   # Лідери
