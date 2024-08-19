@@ -29,6 +29,7 @@
 + `country_JFT`
 + `country_JRR`
 + `country_JUN` (переклав *Green Kitten*)
++ `country_LSP` (переклав *Green Kitten*)
 + `country_MTA` (умовно)
 + `country_north_zebrican_war`
 + `country_NLR` (переклав *Green Kitten*)
@@ -90,9 +91,16 @@
 
 ### Переписати в майбутньому
 + `country_AET`
++ `country_BAL`
++ `country_BAL_protectorate`
++ `country_JUN`?
++ `country_LSP`
 + `country_north_zebrican_war`
++ `country_NLR`
++ `country_NMS`
++ `country_SCS`
 + `country_STG`
-+ `country_WAR`
++ `country_WAR`?
 
 ## Файли без змін
 + `eaw_intelligence_agency_blocker`
