@@ -43,6 +43,7 @@
 + `country_STG` (переклав *ціктакомба*)
 + `country_STL`<!--  (переклав *Max*) -->
 + `country_Storm` (переклав *Daybreaker*)
++ `country_VAN` (переклав *Green Kitten*)
 + `country_VIN`
 + `country_WAR` (переклав *StasJesus*)
 + `country_WAT`
@@ -100,6 +101,7 @@
 + `country_NMS`
 + `country_SCS`
 + `country_STG`
++ `country_VAN`
 + `country_WAR`?
 
 ## Файли без змін
