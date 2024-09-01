@@ -7,8 +7,8 @@
 
 ### ВЕРХНІЙ ТЕКСТ ###
  GetTNOMaintext_great_war: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! перемогла державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!, завершивши §YВелику війну§!."
- GetTNOMaintext_solar_conquest: "Погляд держави §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! випалив\nдержаву §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!. Щодалі більше падають перед силами сонця."
- GetTNOMaintext_lunar_conquest: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! огорнула\nдержаву §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!. Ніч стає щодалі сильнішою."
+ GetTNOMaintext_solar_conquest: "Погляд держави §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! випалив державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!. Щодалі більше падають перед силами сонця."
+ GetTNOMaintext_lunar_conquest: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! огорнула державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!. Ніч стає щодалі сильнішою."
  GetTNOMaintext_cry_conquest: "§Y[?winning_country^peace_gui_index.GetNameWithFlag]§! продовжує свій шлях завоювання, розтрощивши державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
  GetTNOMaintext_stg_conquest: "§Y[?winning_country^peace_gui_index.GetNameWithFlag]§! здіймає червоний прапор над державою §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! у своїй вічній боротьбі."
  GetTNOMaintext_stl_beats_stg: "§Y[?winning_country^peace_gui_index.GetNameWithFlag]§!, рештки невдалого експерименту, перемогли сильнішу\nдержаву §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!, незважаючи на всі перебачення."

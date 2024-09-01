@@ -677,11 +677,11 @@
  NLR_marriage_decisions_desc:0 "Шлюби"
 
 ### РІШЕННЯ ###
- NLR_exterminate_resistance_1:0 "Знищити селестійський спротив"
+ NLR_exterminate_resistance_1: "Винищити селестійський спротив"
  NLR_exterminate_resistance_1_desc: ""
- NLR_exterminate_resistance_2:0 "Знищити селестійський спротив"
+ NLR_exterminate_resistance_2: "Винищити селестійський спротив"
  NLR_exterminate_resistance_2_desc: ""
- NLR_exterminate_resistance_3:0 "Знищити селестійський спротив"
+ NLR_exterminate_resistance_3: "Винищити селестійський спротив"
  NLR_exterminate_resistance_3_desc: ""
  NLR_rename_stalliongrad_decision:0 "Нова назва для Сталліонграда"
  NLR_rename_stalliongrad_decision_desc:0 "Ми повинні стерти всі згадки про Сталліонград як місто, щоби ця катастрофа під назвою комунізм не повторилася в майбутньому."
@@ -821,8 +821,8 @@
  NLR_triumph: "Triumph Motors"
 
 ### ПЕРЕМОЖНІ БАЛИ ###
- NLR_vp_the_lunar_castle:0 "Замок Луни"
- NLR_vp_lunargrad:0 "Лунаград"
+ NLR_vp_the_lunar_castle: "Місячний Замок"
+ NLR_vp_lunargrad: "Лунаград" # Лунарград в АЛ
 
 ### ПІДКАЗКИ ДО ЕФЕКТІВ ###
  NLR_night_guard_tooltip:0 "З'являться 3 елітні дивізії §YМісячної імперської гвардії§!.\n\n"

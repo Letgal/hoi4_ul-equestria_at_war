@@ -56,6 +56,7 @@
 + `eaw_decisions`
 + `eaw_difficulty`
 + `eaw_diplo_popup`
++ `eaw_factions`
 + `eaw_flags_and_opinion`
 + `eaw_focus`
 + `eaw_focus_filter_tag`
