@@ -424,8 +424,8 @@
  BAR_grand_county_neutrality: "Велике графство Баррад"
  BAR_grand_county_neutrality_DEF: "Велике графство Баррад"
  BAR_grand_county_neutrality_ADJ: "Баррадськ"
- BAR_grand_county_communism: "Баррадська радянська республіка"
- BAR_grand_county_communism_DEF: "Баррадська радянська республіка"
+ BAR_grand_county_communism: "Баррадська соціалістична республіка"
+ BAR_grand_county_communism_DEF: "Баррадська соціалістична республіка"
  BAR_grand_county_communism_ADJ: "Баррадськ"
 
  BAR_WIT_fascism: "Королівство Віттенленд"
@@ -437,8 +437,8 @@
  BAR_WIT_neutrality: "Королівство Віттенленд"
  BAR_WIT_neutrality_DEF: "Королівство Віттенленд"
  BAR_WIT_neutrality_ADJ: "Віттенлендськ"
- BAR_WIT_communism: "Віттенлендські радянські республіки"
- BAR_WIT_communism_DEF: "Віттенлендські радянські республіки"
+ BAR_WIT_communism: "Віттенлендська соціалістична республіка"
+ BAR_WIT_communism_DEF: "Віттенлендська соціалістична республіка"
  BAR_WIT_communism_ADJ: "Віттенлендськ"
 
  BAR_viira_fascism: "Віірад"
@@ -1011,11 +1011,11 @@
   CCN_Velvet: "Кейсарінна Вельвет"
   CCN_Thorax: "Кейсарій Торакс"
 
+ changeling_spies: "Шпигуни-чейнджлінґи"
+
 # country_CHN
  CHN_queen_chrysalis: "Королева Кризаліс"
  CHN_thorax_name: "Торакс"
-
- changeling_spies: "Шпигуни-чейнджлінґи"
 
 # country_CME
  CME_reunited_fascism: "Кемелкандська держава"
@@ -2745,7 +2745,7 @@
  FLO_republic_tag_communism_ADJ: "Фловенськ"
 
  ### ПЕРСОНАЖІ ###
-  FLO_chocolat_de_rosebrune: "Шокола де Розбрюн"
+  FLO_chocolat_de_rosebrune: "Шоколат де Розбрюн"
   FLO_nicolas_de_charbon: "Нікола де Шарбон"
   FLO_anna_de_indigo: "Анна де Індіґо"
   FLO_Anna: "Анна де Розбрюн"
@@ -8001,6 +8001,8 @@
   #YAL_Wurst_Cervelat_desc:0 "§YBorn§!: 4th of February, 967 in Greenback\n§YPosition§!: Party leader of NDPH\n§YBiography§!: Cervelat loves to eat."
   YAL_tommykay: "Томас Кесселькло"
   #YAL_tommykay_desc:0 "§YBorn:§! 13th of September, 979 in Middenheim\n§YRank:§! Freshly promoted Wachtmeister\n§YBiography:§! Many generals of the Empire outside of Yales territories were shocked by the election of a mere Garrison Hauptmann such as Thomas was able to receive a title of a Wachtmeister without any military achievements whatsoever, that was, until they got invited for a professional wargame session against Thomas himself. The voices of discontent were much more silent after the remarkable feat that was Thomas victory in a wargame match against the Field Marshal Bronzetail himself, opening a way for this young griff to show his "superior tactics and maneuvers" onto a real battlefield, with a smirk of pride and overconfidence by his side, this firebrand newbie is ready to face the real life wargame. "
+  YAL_yvette_frischtalon: "Іветта Фришталон"
+  #YAL_yvette_frischtalon_desc:0 "§YBorn:§! 982\n§YBiography:§! Yvette was born to a minor ultimately inconsequential noble family wealthy enough to live well but if no real note among high society.\nGrowing up her entire life in Yale she was well educated and raised in the city yet never found herself adjusting well to the expected role and activities of the nobility finding she much preferred to learn about history especially on topics of the wars and battles of the empire's past and playing sports with the other children over learning the intricacies of house politics and fancy dinner parties.\nEventually this led to Yvette choosing to join one of the knightly orders in Yale over continuing to indulge the tedium of high society finding she took to the role and lifestyle quite well and raising through the ranks thanks to both her notable size and strength and her keen mind for battlefield tactics and operations her forward thinking ideas on the role of knights in a modern battlefield and her honorable service record have risen her to the rank of general.\nA dedicated Griffonian patriot Yvette has full belief in the future of Griffonia under the Grovers is the only way forward for Griffonia no matter what and she harbors especially strong disdain for the communists and especially the republicans blaming them for ruining the Empire.\n§YPortrait By§!: NotusNostalgia"
 
   #YAL_tank_development:0 "Tank Development Programs"
   #YAL_tank_development_desc:0 "We must remain on the cutting-edge of armoured warfare if we are to survive. New development programs will allow our tanks to outperform all others."
