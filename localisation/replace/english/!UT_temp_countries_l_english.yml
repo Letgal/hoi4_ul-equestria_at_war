@@ -1020,6 +1020,13 @@
  CHN_queen_chrysalis: "Королева Кризаліс"
  CHN_thorax_name: "Торакс"
 
+ queen_helvia: "Королева Дітрісіума"
+ queen_aurantia: "Королева Ліктіди"
+ queen_yaria: "Королева Сорайта"
+ queen_argynnis: "Королева Вракса"
+ great_nobody: "Великий імперський ніхто"
+ great_nobody_lar: "$great_nobody$"
+
 # country_CME
  CME_reunited_fascism: "Кемелкандська держава"
  CME_reunited_fascism_DEF: "Кемелкандська держава"
