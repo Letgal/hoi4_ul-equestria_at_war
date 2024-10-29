@@ -1,5 +1,5 @@
 # Українська локалізація *Equestria at War*
-Оновлено для *Equestria at War* версії ***2.2.2.8*** (версія гри&nbsp;— *1.14*)
+Оновлено для *Equestria at War* версії ***2.3*** (версія гри&nbsp;— *1.14*)
 
 Мод замінює **англійську** та **російську** локалізації.
 
@@ -14,7 +14,7 @@
 + `country_BAL_protectorate` (переклав *Green Kitten*)
 + `country_BOI`
 + `country_BUF` (переклав *Kiparu*)
-+ `country_CES` (переклав [*Daybreaker*](https://steamcommunity.com/profiles/76561199084403733))
++ ~~`country_CES`~~ (попередню версію переклав [*Daybreaker*](https://steamcommunity.com/profiles/76561199084403733))
 + `country_CRY` (переклав *Green Kitten*)
 + `country_CRY_NLR` (переклав *Green Kitten*)
 + `country_CRY_SOL` (переклав *Green Kitten*)
@@ -47,7 +47,7 @@
 + `country_VIN`
 + `country_WAR` (переклав *StasJesus*)
 + `country_WAT`
-+ `country_YAK` (переклав *ціктакомба*)
++ ~~`country_YAK`~~ (попередню версію переклав *ціктакомба*)
 + `eaw_achievements`
 + `eaw_adjacency_rules`
 + `eaw_autonomy`

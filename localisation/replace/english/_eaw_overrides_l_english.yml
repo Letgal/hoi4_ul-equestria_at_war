@@ -3,7 +3,7 @@
  EAW_MENU_DISCORD: "Сервер Equestria at War у Discord"
  EAW_MENU_STEAMWORKSHOP: "Equestria at War у Майстерні Steam"
  EAW_MENU_VK: "Equestria at War у VK"
- maintheme: "RedSpark — The Way Of Fire"
+ maintheme: "RedSpark & Wilzy — A SMASHing Adventure"
  NOT_EXIST: "Для Вас буде вибрана випадкова країна."
 
  #air_l
@@ -252,6 +252,14 @@
   DIPLOMACY_REQUEST_FOREIGN_MANPOWER_ACTION_DESC:0 "Request foreign ponypower to fulfill our Garrisons." # (!)
   DIPLOMACY_REQUEST_FOREIGN_MANPOWER_ACTION_DESC_MORE:0 "Request more foreign ponypower to fulfill our Garrisons.\n(We already have $NUMBER|H*$ ponypower from this country)" # (!)
 
+  anti_comintern_pact_opinion:0 "Anti-Chrysalis Pact Signatory"
+  anti_soviet_pact_call_refused:0 "Refused To Honor Anti-Chrysalis Pact"
+  refused_anti_comintern_pact_opinion:0 "Rejected Anti-Chrysalis Pact"
+  tripartite_pact_opinion:1 "Anti-Chrysalis Pact Signatory"
+  refused_tripartite_pact_opinion:1 "Rejected Anti-Chrysalis Pact"
+  pact_against_us:0 "Anti-Chrysalis Pact Signatory"
+  worse_pact_against_us:1 "Anti-Chrysalis Pact Signatory"
+
  #dod_focus_l
   ROM_license_german_equipment: "Ліцензії на німецьке оснащення"
   ROM_license_german_equipment_desc:0 "Foreign equipment is superior to our own, but perhaps we could obtain the licenses to produce these weapons, ourselves." # (!)
@@ -481,6 +489,7 @@
   cavalary_ratio_over_40: "Співвідношення мотопіхоти та мехапіхоти > §H40%§!"
   gentlemanly:1 "Courteous"
   fly_swatter: "Мухобійник"
+  ataman_transbaikal_host:0 "Grand Marshal of the Transpolar Host"
   emperor_and_autocrat_of_all_the_russias: "Імператор й автократ Всія Грифонії"
   stalin_architect_of_communism: "Архітектори комунізму"
   compassionate_gentleman: "Співчутливий вельможа"
@@ -498,7 +507,15 @@
   defier_of_the_sun_god:0 "Defier of the Celestial Gods"
   supreme_representative_of_god_on_earth:0 "Supreme Representative of the Gods"
   archbishop_of_ethiopian_orthodox_tewahedo_church:0 "Arch-Shaman of All Souls of Ice"
+  army_german_ground_commander: "Командир чейнджлінґів \n(геній)"
+  pan_americanist_caudillo:0 "Pan-Equusian Strongyak"
+  nationalist_lutheran_priest:0 "Nationalist Shorooniist Shaman"
+  BALTIC_anti_bolshevik:1 "Veteran Anti-Communist"
+  veteran_anti_bolshevik:0 "Veteran Anti-Communist"
   anti_bolshevik_leftist: "Лівак-антисталліоніст"
+  trait_GRE_stauch_monarchist_desc:0 "This leader respects and reveres the monarchy as an institution."
+  JUNO_national_socialist_occultist:0 "Pan-Equusian Occultist"
+  tsars_puppet:0 "Speaker at the Gate"
   SWI_soviet_spy: "Сталліонградський шпигун"
   the_director: "Директор"
   operative_master_interrogator_desc:1 "Этот агент может разговорить кого угодно."
@@ -639,7 +656,7 @@
   LOADING_HISTORY: "Підписуємо Кольтстрімський договір"
   LOAD_EVENTS: "Програємо Фалькорську війну"
   LOAD_INIT: "Стагнуємо гармонію"
-  LOAD_FLAGS: "Закінчуємо Мовчання"
+  LOAD_FLAGS: "НИЩИМО котопташок"
   INIT_GAMESTATE: "Знімаємо прокляття з Кристальної Імперії"
   CREATING_CHKSUM: "Видаляємо Дискорда"
   GENERATING_GRADIENT_BORDERS: "Пишемо довідник Твінкл Спрінкл"

@@ -70,8 +70,8 @@
  GRF_market_liberal_party_long: "Ліберальна партія"
 
  GFF_neutrality_party: "Колоніальна адміністрація"
- GFF_communism_party: "ЗГСП"
- GFF_communism_party_long: "Західногрифонська соціалістична партія"
+ GFF_communism_party: "МРГСП"
+ GFF_communism_party_long: "Максималістсько-революційна грифонська соціалістична партія"
  GFF_democratic_party: "ЗГСДП"
  GFF_democratic_party_long: "Західногрифонська соціал-демократична партія"
  GFF_fascism_party: "Рейдери Верджила"
@@ -110,16 +110,6 @@
  PNG_democratic_party: "ПД"
  PNG_democratic_party_long: "Партія дружби"
  PNG_fascism_party: "Льодовий Трон"
-
- YAK_neutrality_party: "Снігова рада"
- YAK_communism_party: "Народна комуністична партія"
- YAK_democratic_party: "Якська монархія"
- YAK_fascism_party: "Державна влада хана"
-
- JAK_neutrality_party: "Біла рада"
- JAK_communism_party: "$YAK_communism_party$"
- JAK_democratic_party: "Йакська ліберальна партія" # Як'якська »»
- JAK_fascism_party: "$YAK_fascism_party$"
 
  FBK_neutrality_party: "Рада вождів"
  FBK_communism_party: "ПССП"
