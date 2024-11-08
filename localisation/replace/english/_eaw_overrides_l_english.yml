@@ -145,6 +145,9 @@
   SHIP_LEVEL_20: "Ветерани"
   WEEKLY_FROM_OTHER_SOURCES: "\n§HМи також отримуємо§!:\nЩотижневі поні-ресурси: $VALUE|G$"
   CAN_GENERATE_FAMALE_ACES: "Може мати пілотів-жінок"
+  MENU_BAR_GAME_WIKI: "Вікі Hearts of Iron"
+  FOCUS_SEARCH_TYPE_TEXT: "Пошук"
+  CHOOSE_INSIGNIA: "Обрати емблему"
 
  #country_l
   MANPOWER: "Поні-ресурси"
@@ -443,6 +446,9 @@
   synth_resources: "Синтетичні ресурси"
 
  #resistance_and_occupation_l
+  COUNTRY_OCCUPATION_TITLE: "Окупація"
+  FOREIGN_SUPPORT: "Іноземна підтримка"
+  MAIN_GARRISON_TEMPLATE: "Керівництво територіями"
   OCCUPIED_COUNTRY_MANPOWER_TOOLTIP: "У підконтрольних Вам реґіонах є $NUM_TOTAL_MANPOWER|*H$ населення і з Вашим поточним законом й іншими модифікаторами Ви можете отримати доступ до $RATIO|.1H%$ ($NUM_ACCESSED_MANPOWER|*H$) цих поні-ресурсів."
   GARRISON_ENTRY_MANPOWER_TOOLTIP: "Поні-ресурси за придушення: $MANPOWER|*H$\nПоні-ресурси за дивізію: $MANPOWERDIV|*H$"
   FOREIGN_SUPPORT_TOOLTIP: "Поні-ресурси, надані іншими державами."

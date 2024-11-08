@@ -3331,18 +3331,18 @@
   FBK_mandate_communism_DEF: "Соціалістична федерація Гюґельланд"
   FBK_mandate_communism_ADJ: "Гюґельландськ"
 
-  EQC_mandate_fascism: "Райхсмандат Штутенштаат"
-  EQC_mandate_fascism_DEF: "Райхсмандат Штутенштаат"
-  EQC_mandate_fascism_ADJ: "Штутенштаатськ"
-  EQC_mandate_democratic: "Республіка Штутенштаат"
-  EQC_mandate_democratic_DEF: "Республіка Штутенштаат"
-  EQC_mandate_democratic_ADJ: "Штутенштаатськ"
-  EQC_mandate_neutrality: "Райхсмандат Штутенштаат"
-  EQC_mandate_neutrality_DEF: "Райхсмандат Штутенштаат"
-  EQC_mandate_neutrality_ADJ: "Штутенштаатськ"
-  EQC_mandate_communism: "Народна республіка Штутенштаат"
-  EQC_mandate_communism_DEF: "Народна республіка Штутенштаат"
-  EQC_mandate_communism_ADJ: "Штутенштаатськ"
+  EQC_mandate_fascism: "Райхсмандат Нойштутенланд"
+  EQC_mandate_fascism_DEF: "Райхсмандат Нойштутенланд"
+  EQC_mandate_fascism_ADJ: "Нойштутенландськ"
+  EQC_mandate_democratic: "Республіка Нойштутенланд"
+  EQC_mandate_democratic_DEF: "Республіка Нойштутенланд"
+  EQC_mandate_democratic_ADJ: "Нойштутенландськ"
+  EQC_mandate_neutrality: "Райхсмандат Нойштутенланд"
+  EQC_mandate_neutrality_DEF: "Райхсмандат Нойштутенланд"
+  EQC_mandate_neutrality_ADJ: "Нойштутенландськ"
+  EQC_mandate_communism: "Народна республіка Нойштутенланд"
+  EQC_mandate_communism_DEF: "Народна республіка Нойштутенланд"
+  EQC_mandate_communism_ADJ: "Нойштутенландськ"
 
   MIT_kingdom_fascism: "Райхсмандат Астеріон"
   MIT_kingdom_fascism_DEF: "Райхсмандат Астеріон"
@@ -4574,22 +4574,8 @@
  HLQ_industrial_concern: "Зінтенський завод"
 
 # country_JAK
- JAK_better_troops:0 "Путь Войны Йака"
- JAK_cheaper_guns:0 "Оружейное производство Йака"
- JAK_war_plan:0 "План войны Йака"
- JAK_smarter_pop:0 "Обучающий центр Йака"
- JAK_defence:0 "Свобода от Иностранных Слабостей"
- JAK_rebuilding:0 "Великое Восстановление"
- JAK_fortress:0 "Нация - Крепость"
- JAK_bunkers:0 "Укрепления"
- JAK_isolationism:0 "Великая Изоляция"
- JAK_yaktopia_idea:0 "Йактопия"
- JAK_angry_jaks:0 "Грандиозный Якслурберфест"
- JAK_angry_jaks_desc:0 "Дабы показать, что именно йаки являются истинными яками, в отличие от этих вонючек из Якякистана, мы проведем самый грандиозный фестиваль Якслурберфест. На нём мы сможем вволю КРУШИТЬ!"
-
  JAK_prince_bradford: "Принц Бредфорд"
  JAK_khan_bradford: "Хан Бредфорд"
- JAK_chairyak_bradford: "Глава Бредфорд"
 
  JAK_prince_rutherford: "$YAK_prince_rutherford$"
  JAK_bradford: "$YAK_bradford$"
@@ -4605,17 +4591,16 @@
  JAK_air_skychief_agnes: "$YAK_skychief_agnes$"
  JAK_boomer: "$YAK_boomer$"
 
- JAK_garrin_korai:0 "Гаррин Корай"
- JAK_maihov_kerz:0 "Майхов Керц"
- JAK_khan_leeroy:0 "Хан Лирой"
- JAK_khan_ainsley:0 "Хан Эйнсли"
+ JAK_garrin_korai:0 "Гаррин"
+ JAK_maihov_kerz:0 "Майхоф"
 
  JAK_yakistanks: "ЙакисТанки"
  JAK_buuhtan_motors: "$YAK_buuhtan_motors$"
  JAK_darksky_aeronautics: "$YAK_darksky_aeronautics$"
  JAK_northwind_design: "$YAK_northwind_design$"
- JAK_ryben_industries:0 "Рубен Индастриз"
- JAK_saihan_river_authority: "Адміністрація ріки Сайхан"
+ JAK_saihan_river_authority: "Сайханська ГЕС"
+
+ #POLITICS_PRINCEBRADFORD_DESC:0 "На схід від міжнародно визнаного Як'якистану принц Бредфорд очолює так званий Йаки-клан. Давній суперник свого брата, принца Радерфорда, Бредфорд просто хоче, щоби його яків — або йаків, залежно від того, кого ви запитаєте — залишили в спокої. На жаль для Бредфорда, в умовах зростання напруженості з чейнджлінґами на заході, грифонами на сході та самим принцом Радерфордом, який дихає йому в потилицю, Йаки-клан опинився у ризикованому становищі." # Життєпис змінено
 
 # country_JER
  JER_REPUBLIC_democratic: "Аквілейська республіка"
@@ -6176,7 +6161,7 @@
   NIM_sideropleon: "Сідероплеон"
   NIM_keraunoptose: "Керавноптос"
   NIM_iodis_avgi: "Іодіс Авгі"
-  NIM_shell_watch: "Шелл Уотч"
+  NIM_shell_watch: "Паратірітіс Хелонас"
   NIM_twenty_fifth_pegasus: "Тіфонас Категіда-Спафі"
   NIM_javik: "Явік"
 
