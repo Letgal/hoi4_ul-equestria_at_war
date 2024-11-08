@@ -308,10 +308,33 @@
  trait_guard_general_desc:0 "§LThis general has spent considerable time working with special forces and particularly skilled regiments, making discipline in their troops both an expectation and a reality.§!"
 
  trait_swift_wing: "Клептоман"
- trait_swift_wing_desc:0 "§LThis mare has a talent for making acquisitions in the field. It would be best not to question where the supplies come from, however.§!"
+ trait_swift_wing_desc:0 "§LThis general has a talent for making acquisitions in the field. It would be best not to question where the supplies come from, however.§!"
 
  trait_reformist: "Командувач Sturmgreifen" # (&)
  trait_reformist_desc: ""
+
+ YAK_rightful_king: "Законний принц"
+ YAK_rightful_king_2: "$YAK_rightful_king$"
+
+ YAK_absent_leader:0 "Absentee Leader"
+
+ JAK_rightful_king: "$YAK_rightful_king$"
+ JAK_unmatched_brutalizer:0 "Unmatched Brutalizer"
+ defier_of_the_sun_god_hc:0 "Defier of the Celestial Gods"
+ JAK_khatun_of_yakyakistan: "Хатун Як'якистану"
+ JAK_tsaritsa_of_severyana: "Цариця Сєвєряни"
+ JAK_princess_of_equestria: "Принцеса Еквестрії"
+ JAK_empress_of_equus: "Імператриця Еквусу" # combined with some additional bonuses
+ JAK_changeling_consul: "Чейнджлінзький консул"
+ JAK_scourge_of_the_gods: "Бич Богів"
+ JAK_reluctant_harmonist:0 "Reluctant Harmonist"
+ JAK_expansionist_policies:0 "Expansionist Policies"
+ JAK_expansionist_policies_take_states_tt:0 "\n§YReduced cost§! for §YTake States§! action on §Y@GRF @GFF @PNG @PLB Northern Equus cores§! in Peace Conferences."
+ JAK_scourge_of_the_gods_take_states_tt:0 "\n§YReduced cost§! for §YTake States§! action on §YGriffon culture cores§! in Peace Conferences."
+ JAK_nothing_ever_happens: "Нічого ніколи не стається"
+ YAK_friendship_school_student: "Випускниця Школи дружби"
+ YAK_council_communist: "Комуніст із ради"
+ YAK_socialist_autocrat: "Соціалістичний автократ"
 
  grand_admiral: "Ґросадмірал"
  unstable_coalition: "Нестабільна коаліція"
@@ -532,6 +555,15 @@ Yal_skeleton_king_army_leader_desc:0 "§LFighting for the great Grover II inspir
  military_pioneer:0 "Military Pioneer"
  controversial_writer:0 "Controversial Writer"
  air_land_theorist:0 "Air-Land Battle Theorist"
+
+ CES_annoying_nitpicker:0 "Annoying Nitpicker"
+ CES_pony_of_shadows_trait:0 "Umbrum Superweapon"
+ CES_pony_of_shadows_commander:0 "Commander of Shadows"
+ CES_pony_of_shadows_commander_desc:0 "My tactics are as unnatural as I am."
+ CES_greater_shard_commander:0 "Greater Shard"
+ CES_greater_shard_commander_desc:0 "My reflections are as unnatural as the destruction they sow."
+ CES_righteous_hoof_of_the_sun:0 "Righteous Hoof of the Sun"
+ CES_daring_do_inspiring_commander:0 "Inspiring Commander"
 
 ### THESE ARE NOT DUPLICATES, DO NOT REMOVE
  alt_red_army_organizer: "$red_army_organizer$"

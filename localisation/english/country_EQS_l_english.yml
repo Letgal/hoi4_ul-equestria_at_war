@@ -374,6 +374,7 @@
  # This file's organization is an absolute disaster so I added the PRE-MADE TANK DESIGNS TOOLTIPS here #
  EQS_Timberwolf_tooltip: "\nБуде створено дизайн танка §YTimberwolf MkI§!, якщо доступні ось ці технології:\n §Y$basic_medium_tank_chassis$\n $tank_high_velocity_cannon$§!\n"
  EQS_Comet_tooltip: "\nБуде створено дизайн танка §YComet MkI§!, якщо доступні ось ці технології:\n §Y$improved_medium_tank_chassis$\n $tank_high_velocity_cannon_2$§!\n"
+ EQS_extreme_measures_conscription_tt: "Цей фокус відкриє §Yрішення§! для розширення §Yпризову§!, якщо той іще не розблокований."
 
 ### РІШЕННЯ ###
  EQS_militias: "Призов воєнного часу"
