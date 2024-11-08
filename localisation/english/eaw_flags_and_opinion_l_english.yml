@@ -296,8 +296,8 @@
  refused_offer: "Відхилено пропозицію співпраці"
  SIC_filthy_traitors: "Кляті зрадники"
  SIC_loyal_subjects: "Вірні піддані"
- daybreaker_spawned: "Дейбрейкер з'явилася"
- Pony_Human_friendship: "Дружби поні з людьми"
+ #daybreaker_spawned: "Дейбрейкер з'явилася"
+ Pony_Human_friendship: "Дружба поні з людьми"
  sheltered_velvet: "Надано притулок Вельвет"
  recruitment_in_process: "Вербування місцевого агента вже триває"
 
