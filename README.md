@@ -21,6 +21,11 @@
 + `country_DEP` (умовно)
 + `country_DRG`
 + `country_EQC`<!--  (переклав *Max*) -->
++ `country_EQC_equality`<!--  (переклав *Max*) -->
++ `country_EQC_MARE`<!--  (переклав *Max*) -->
++ `country_EQC_NLR`<!--  (переклав *Max*) -->
++ `country_EQC_Reichsmandat`<!--  (переклав *Max*) -->
++ `country_EQC_SOL`<!--  (переклав *Max*) -->
 + `country_EQS`
 + `country_ERI`
 + `country_EYR`
