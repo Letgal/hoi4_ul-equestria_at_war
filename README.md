@@ -20,6 +20,7 @@
 + `country_CRY_SOL` (переклав *Green Kitten*)
 + `country_DEP` (умовно)
 + `country_DRG`
++ `country_EQC`<!--  (переклав *Max*) -->
 + `country_EQS`
 + `country_ERI`
 + `country_EYR`
