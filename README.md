@@ -29,6 +29,7 @@
 + `country_EQS`
 + `country_ERI`
 + `country_EYR`
++ `country_FAT` (переклав *StasJesus*)
 + `country_GFF` (умовно; переклав *Green Kitten*)
 + `country_GRF` (умовно; старіший вміст переклав *StasJesus*)
 + `country_JEB`
