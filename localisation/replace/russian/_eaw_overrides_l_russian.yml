@@ -29,6 +29,8 @@
 
  #buildings_l
   nuclear_reactor_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї.\n\nКожен ядерний реактор споживає §R12§! £resources_strip|7£.\nЯкщо у Вас немає £resources_strip|7£, нові ядерні бомби не будуть вироблятися."
+  nuclear_reactor_heavy_water_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї.\nЯдерні реактори на важкій воді дещо дешевше будувати, ніж графітові реактори, but produce less material that can be used to produce nuclear weapons.\n\nКожен ядерний реактор споживає §R10§! £resources_strip|7£.\nЯкщо у Вас немає £resources_strip|7£, нові ядерні бомби не будуть вироблятися."
+  commercial_nuclear_reactor_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї та електроенергію для цивільної економіки.\n\nКожен ядерний реактор споживає §R14§! £resources_strip|7£.\nЯкщо у Вас немає £resources_strip|7£, нові ядерні бомби не будуть вироблятися."
 
  #bop
   BOP_TOOLTIP_STABLE: "Баланс сил наразі стабільний."
@@ -84,7 +86,7 @@
   MENU_BAR_IRONMAN_PLAIN: "Ironpony"
   TRIGGER_IS_IRONMAN: "Гра запущена в режимі Ironpony"
   TRIGGER_IS_NOT_IRONMAN: "Гра не запущена в режимі Ironpony"
-  NUCLEAR_PRODUCTION_ETA: "Наступна ядерна бомба зроблена на $PROGRESS|1G%$ і буде готова десь через $DAYS|G$ дн.\n\nЯкщо у Вас немає £resources_strip|7£, нові ядерні бомби не будуть вироблятися."
+  NUCLEAR_PRODUCTION_ETA: "Наступна $NUKE_TYPE|H$ зроблена на $PROGRESS|1G%$ і буде готова десь через $DAYS|G$ дн. У запасі: $NUM_COMPLETED|H$\n\nЯкщо у Вас немає £resources_strip|7£, нові ядерні бомби не будуть вироблятися."
   NUCLEAR_PRODUCTION_NONE: "Наразі ми не виробляємо ядерні бомби..\n\nЯкщо у Вас немає £resources_strip|7£, нові ядерні бомби не будуть вироблятися."
   ACHIEVEMENTS_VIEW_LOCKED: "§RДосягнення доступні тільки в Ironpony!§!"
   CONFIRMCONSOLIDATEUNITSAREENCIRCLED: "§RОбрані війська оточені; Ви втратите все їхнє оснащення та $VALUE|%0$ їхніх поні-ресурсів!§!"
@@ -452,6 +454,9 @@
   OCCUPIED_COUNTRY_MANPOWER_TOOLTIP: "У підконтрольних Вам реґіонах є $NUM_TOTAL_MANPOWER|*H$ населення і з Вашим поточним законом й іншими модифікаторами Ви можете отримати доступ до $RATIO|.1H%$ ($NUM_ACCESSED_MANPOWER|*H$) цих поні-ресурсів."
   GARRISON_ENTRY_MANPOWER_TOOLTIP: "Поні-ресурси за придушення: $MANPOWER|*H$\nПоні-ресурси за дивізію: $MANPOWERDIV|*H$"
   FOREIGN_SUPPORT_TOOLTIP: "Поні-ресурси, надані іншими державами."
+
+ #special_projects_l
+  sp_land_flamethrower_tank: "Удосконалений вогнеметний танк"
 
  #state_l
   STATE_POPULATION_DESC: "Кількість істот, що живуть у цій області. Ваші призовні закони дозволяють Вам використовувати певний відсоток населення як призовників у Ваших дивізіях, кораблях і літаках."

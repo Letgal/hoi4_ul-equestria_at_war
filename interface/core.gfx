@@ -1474,8 +1474,8 @@ bitmapfonts = {
 #		path = "gfx/fonts/hoi_30header"
 		fontfiles = {
 			"gfx/fonts/hoi_30header"
-#			"gfx/fonts/hoi_20bs"
-#			"gfx/fonts/hoi_20bs_cryllic"
+#			"gfx/fonts/hoi_26mbs"
+#			"gfx/fonts/hoi_26mbs_cryllic"
 		}
 		color = 0xffffffff
 
@@ -1491,8 +1491,8 @@ bitmapfonts = {
 	bitmapfont_override = {
 		name = "hoi_30header"
 		fontfiles = {
-			"gfx/fonts/hoi_20bs"
-			"gfx/fonts/hoi_20bs_cryllic"
+			"gfx/fonts/hoi_26mbs"
+			"gfx/fonts/hoi_26mbs_cryllic"
 		}
 		languages = { "l_polish" }
 	}
@@ -1575,7 +1575,7 @@ bitmapfonts = {
 	}
 
 	bitmapfont_override = {
-		name = "hoi_36header"
+		name = "nsb_hoi_36header"
 		fontfiles = {
 			"gfx/fonts/hoi_26mbs"
 			"gfx/fonts/hoi_26mbs_cryllic"
@@ -1584,7 +1584,7 @@ bitmapfonts = {
 	}
 
 	bitmapfont_override = {
-		name = "hoi_36header"
+		name = "nsb_hoi_36header"
 		fontfiles = {
 			"gfx/fonts/hoi_36header"
 			"gfx/fonts/eaw_36header_cryllic"
