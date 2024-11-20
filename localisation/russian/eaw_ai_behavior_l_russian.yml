@@ -70,7 +70,7 @@
   RULE_OPTION_FASCIST_OLE_AI_DESC: "Провидці скинуть Югана та спробують відновити Оленію в усій її давній, войовничій славі. Вони можуть оголосити священну війну чейнджлінґам."
 
  YAK_AI_BEHAVIOR: "@YAK Як'якистан"
-  RULE_OPTION_YAK_DEMOCRATIC_HISTORICAL: "Гармонія: принц Радерфорд"
+  RULE_OPTION_YAK_DEMOCRATIC_HISTORICAL: "Гармонія: принц Резерфорд"
   RULE_OPTION_YAK_DEMOCRATIC_HISTORICAL_AI_DESC:0 "Принц Резерфорд сохранит трон, так что Якякистан останется гармонической монархией.\n(Исторический путь)"
   RULE_OPTION_YAK_DEMOCRATIC_ALTERNATE: "Гармонія: президент Йона"
   RULE_OPTION_YAK_DEMOCRATIC_ALTERNATE_AI_DESC:0 "Резерфорда вынудят отречься от престола, после будет образована республика. Йона будет избрана президентом, после чего создаст гармоническую федерацию." 
