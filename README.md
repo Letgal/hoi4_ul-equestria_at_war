@@ -31,7 +31,7 @@
 + `country_EYR`
 + `country_FAT` (переклав *StasJesus*)
 + `country_GFF` (умовно; переклав *Green Kitten*)
-+ `country_GRF` (умовно; старіший вміст переклав *StasJesus*)
++ ~~`country_GRF`~~ (переклав *StasJesus*; вирізано до повного оновлення)
 + `country_JEB`
 + `country_JFT`
 + `country_JRR`
@@ -45,7 +45,7 @@
 + `country_OLE`<!--  (переклав *Max*) -->
 + `country_POM`
 + `country_RCT` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
-+ `country_SCS` (переклав *Green Kitten*)
++ ~~`country_SCS`~~ (переклав *Green Kitten*; вирізано до повного оновлення)
 + `country_SOL`
 + `country_STG` (<!-- первісно  -->переклав *ціктакомба*<!-- , переписав *Max* -->)
 + `country_STL`<!--  (переклав *Max*) -->
@@ -107,8 +107,6 @@
 + `country_north_zebrican_war`
 + `country_NLR`
 + `country_NMS`
-+ `country_SCS`
-+ `country_STG`
 + `country_VAN`
 + `country_WAR`?
 
