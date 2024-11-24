@@ -55,6 +55,7 @@
 + `country_VIN`
 + `country_WAR` (переклав *StasJesus*)
 + `country_WAT`
++ `country_WNG` (переклав *Sanyok*)
 + ~~`country_YAK`~~ (попередню версію переклав *ціктакомба*)
 + `eaw_achievements`
 + `eaw_adjacency_rules`
