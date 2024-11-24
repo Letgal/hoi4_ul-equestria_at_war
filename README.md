@@ -50,6 +50,7 @@
 + `country_STG` (<!-- первісно  -->переклав *ціктакомба*<!-- , переписав *Max* -->)
 + `country_STL`<!--  (переклав *Max*) -->
 + `country_Storm` (переклав *Daybreaker*)
++ `country_TAL` (переклав *Sanyok*)
 + `country_VAN` (переклав *Green Kitten*)
 + `country_VIN`
 + `country_WAR` (переклав *StasJesus*)
