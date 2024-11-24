@@ -47,7 +47,7 @@
 + `country_RCT` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
 + `country_SCS` (переклав *Green Kitten*)
 + `country_SOL`
-+ `country_STG` (переклав *ціктакомба*)
++ `country_STG` (<!-- первісно  -->переклав *ціктакомба*<!-- , переписав *Max* -->)
 + `country_STL`<!--  (переклав *Max*) -->
 + `country_Storm` (переклав *Daybreaker*)
 + `country_VAN` (переклав *Green Kitten*)
