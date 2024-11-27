@@ -403,6 +403,12 @@
   temporary_state_resource_oil: "Нафта"
   temporary_state_resource_aluminium: "Алюміній"
   temporary_state_resource_rubber: "Гума"
+  country_resource_oil_tt: " $country_resource_oil$: $RIGHT|+=$"
+  country_resource_aluminium_tt: " $country_resource_aluminium$: $RIGHT|+=$"
+  country_resource_rubber_tt: " $country_resource_rubber$: $RIGHT|+=$"
+  country_resource_tungsten_tt: " $country_resource_tungsten$: $RIGHT|+=$"
+  country_resource_steel_tt: " $country_resource_steel$: $RIGHT|+=$"
+  country_resource_chromium_tt: " $country_resource_chromium$: $RIGHT|+=$"
 
  #nsb_ideas_l
   proper_heritage_spirit_desc:0 "A good General may be trained, but a great General must be bred." # (!)
@@ -440,6 +446,7 @@
   PROD_LINE_PLANE_DEST_RESERVES_DUE_TO_MANPOWER: "Переміщено в §Yрезерв§! через нестачу §Hпоні-ресурсів§! для надання §Yпідкріплень§!"
 
  #research_l
+  RESEARCH_TAB_FACILITIES: "Експериментальні комплекси"
   superior_firepower_desc: "Ця доктрина зосереджується на закидуванні ворога снарядами, а не солдатами. Наші воїни безцінні, снаряди ж — дешеві.\n\n"
   SUPERIOR_FIREPOWER_DOCTRINE_DESC: "Ця доктрина зосереджується на закидуванні ворога снарядами, а не солдатами. Наші воїни безцінні, снаряди ж — дешеві."
   suicide_craft: "Літак-самовбивця"
@@ -563,6 +570,7 @@
   modern_armor: "Основний бойовий танк"
   modern_armor_desc:0 "Main Battle Tanks have evolved to deal with most battlefield situations. Powerful guns and sloped armor have eliminated the need for specialized tanks." # (!)
   bicycle_battalion: "Велосипедна піхота"
+  marines_recon_desc:0 "Nothing prepares a creature for war, but our combat instructors assure us they can come close enough that only the most hardened recruits make it to where it counts."
 
  #waroverview_l
   CAN_SURRENDER_FACTION_MEMBERS: "Вони зараз вооють разом зі своїм альянсом і здадуться, лише якщо всі основні учасники війни капітулюють.\n§YЛідер§! §YРічкової коаліції§! не капітулює, якщо не здався кожен інший її член.\nДо капітуляції лишилось основних учасників:\n$MEMBER_LIST|Y$"
@@ -694,3 +702,6 @@
 
  #trade_l
   CONVOYS_USAGE_DELAYED: "Конвої використовуються для імпорту ресурсів морем від інших країн, а також доставки наших ресурсів у межах держави і припасів для наших військ за морем."
+
+ #Special Project
+  sp_naval_cruiser_submarine_unique_reward_a_desc:0 "The impotence of our various naval treaties have collectively rendered any real restrictions on submarine deck armament moot. The question remains however, whether we should prioritize prestige armaments over tactical range?"

@@ -112,6 +112,7 @@
  state_resource_crystals: "Кристали"
  temporary_state_resource_crystals: "Кристали"
  country_resource_crystals: "Кристали"
+ country_resource_crystals_tt: " $country_resource_crystals$: $RIGHT|+=$"
  state_resource_cost_crystals: "Споживання кристалів"
  country_resource_cost_crystals: "Споживання кристалів"
 
