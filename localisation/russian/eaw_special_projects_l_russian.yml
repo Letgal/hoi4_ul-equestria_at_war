@@ -332,7 +332,8 @@ form_department_tooltip: "Виконано поліпшення агентств
  sp_deep_rock_drill_aluminium: "Приоритет добычи: алюминий"
  sp_deep_rock_drill_crystals: "Приоритет добычи: кристаллы"
  sp_deep_rock_drill_oil: "Приоритет добычи: нефть"
-
+ sp_deep_rock_drill_hide: "Спрятать решения глубокоземельных буровых работ"
+ sp_deep_rock_drill_show: "Показать решения глубокоземельных буровых работ"
 
 ###############################
 ### MAGICAL PROJECT REWARDS ###

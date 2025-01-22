@@ -3,7 +3,7 @@
  EAW_MENU_DISCORD: "Сервер Equestria at War у Discord"
  EAW_MENU_STEAMWORKSHOP: "Equestria at War у Майстерні Steam"
  EAW_MENU_VK: "Equestria at War у VK"
- maintheme: "RedSpark & Wilzy — A SMASHing Adventure"
+ maintheme: "$Resonant_Tonality-Hearth's_Warming_War$"
  NOT_EXIST: "Для Вас буде вибрана випадкова країна."
 
  #air_l
@@ -28,9 +28,10 @@
   COLONIAL_FORCES_GENERAL_DESCRIPTION: "§GКлацніть, щоби переглянути шаблони суб'єктів і урядів у вигнанні.§!\n\nДивізії, створені за колоніальними шаблонами суб'єктів, можуть включати більше поні-ресурсів суб'єкта при нижчому рівні автономії."
 
  #buildings_l
-  nuclear_reactor_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї.\n\nКожен ядерний реактор споживає §R12§! £resources_strip|7£.\nЯкщо у Вас немає £resources_strip|7£, нові ядерні бомби не будуть вироблятися."
-  nuclear_reactor_heavy_water_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї.\nЯдерні реактори на важкій воді дещо дешевше будувати, ніж графітові реактори, but produce less material that can be used to produce nuclear weapons.\n\nКожен ядерний реактор споживає §R10§! £resources_strip|7£.\nЯкщо у Вас немає £resources_strip|7£, нові ядерні бомби не будуть вироблятися."
-  commercial_nuclear_reactor_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї та електроенергію для цивільної економіки.\n\nКожен ядерний реактор споживає §R14§! £resources_strip|7£.\nЯкщо у Вас немає £resources_strip|7£, нові ядерні бомби не будуть вироблятися."
+  nuclear_reactor_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї.\n\nКожен ядерний реактор споживає §R12§! £resources_strip|7£.\n$reactor_resource_shortage$"
+  nuclear_reactor_heavy_water_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї.\nЯдерні реактори на важкій воді дещо дешевше будувати, ніж графітові реактори, but produce less material that can be used to produce nuclear weapons.\n\nКожен ядерний реактор споживає §R10§! £resources_strip|7£.\n$reactor_resource_shortage$"
+  commercial_nuclear_reactor_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї та електроенергію для цивільної економіки.\n\nКожен ядерний реактор споживає §R14§! £resources_strip|7£.\n$reactor_resource_shortage$"
+  reactor_resource_shortage: "Якщо у Вас немає £resources_strip|7£, виробництво ядерних бомб уповільниться."
 
  #bop
   BOP_TOOLTIP_STABLE: "Баланс сил наразі стабільний."
@@ -86,8 +87,8 @@
   MENU_BAR_IRONMAN_PLAIN: "Ironpony"
   TRIGGER_IS_IRONMAN: "Гра запущена в режимі Ironpony"
   TRIGGER_IS_NOT_IRONMAN: "Гра не запущена в режимі Ironpony"
-  NUCLEAR_PRODUCTION_ETA: "Наступна $NUKE_TYPE|H$ зроблена на $PROGRESS|1G%$ і буде готова десь через $DAYS|G$ дн. У запасі: $NUM_COMPLETED|H$\n\nЯкщо у Вас немає £resources_strip|7£, нові ядерні бомби не будуть вироблятися."
-  NUCLEAR_PRODUCTION_NONE: "Наразі ми не виробляємо ядерні бомби..\n\nЯкщо у Вас немає £resources_strip|7£, нові ядерні бомби не будуть вироблятися."
+  NUCLEAR_PRODUCTION_ETA: "Наступна $NUKE_TYPE|H$ зроблена на $PROGRESS|1G%$ і буде готова десь через $DAYS|G$ дн. У запасі: $NUM_COMPLETED|H$\n\n$reactor_resource_shortage$"
+  NUCLEAR_PRODUCTION_NONE: "Наразі ми не виробляємо ядерні бомби..\n\n$reactor_resource_shortage$"
   ACHIEVEMENTS_VIEW_LOCKED: "§RДосягнення доступні тільки в Ironpony!§!"
   CONFIRMCONSOLIDATEUNITSAREENCIRCLED: "§RОбрані війська оточені; Ви втратите все їхнє оснащення та $VALUE|%0$ їхніх поні-ресурсів!§!"
   CONFIRMCONSOLIDATE_EQUIPMENT_GAIN_CONSOLIDATE_TITLE:0 "Ось це буде повернуто на §Hсклади§!/в §Hзапас поні-ресурсів§!:"
