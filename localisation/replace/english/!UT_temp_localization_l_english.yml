@@ -283,21 +283,6 @@
 
  panzerbar_tech: "Технології пансербйорнів"
 
-# eaw_research
- paperclip_tech_bonus: "Бонус від операції «Скріпка»"
- infantry_acclimatization: "Усепогодне спорядження"
- infantry_comms: "Розподілені розвідка та зв’язок"
- experimental_helicopter: "Експериментальний вертоліт"
- infantry_aa: "Піхотна зенітна зброя I"
-
- cat_racial_specforce_doctrine: "Доктрина расових ССО"
-
- motorized_equipment_2: "Удосконалена вантажівка"
- motorized_equipment_2_short: "Удоскон. вантажівка"
- motorized_equipment_3: "Сучасна вантажівка"
-
- RACIAL_SPECFORCE_DOCTRINE_LABEL: "Расові сили спеціальних операцій"
-
 # eaw_resistance
  integration_occupation: "Інтеграція"
  integration_occupation_desc: "§YЛише для певних країн.§!"
