@@ -2449,11 +2449,6 @@
  EQC_strengthen_eastern_ties: "Примирення"
  EQC_SILVER_CRESCENT: "Срібний Півмісяць"
  EQC_puppet: "Мейрлендська маріонетка"
- EQC_cant_surpress_democratic: "Не може придушувати демократичні партії"
- EQC_cant_surpress_fascism: "Не може придушувати зверхістські партії"
- EQC_cant_surpress_communism: "Не може придушувати комуністичні партії"
- EQC_cant_surpress_neutral: "Не може придушувати традиціоналістські партії"
- EQC_cant_censor_press: "Не може цензурувати пресу"
 
 ### СЛУЖБОВА ЛОКАЛІЗАЦІЯ ###
  EQC_equestrian_investment_tt: "§GВиконання§! цього §Cфокусу§! розблокує £decision_icon_small §Cрішення§! для укладення контрактів із §Yеквестрійськими інвесторами§!.\n\n"

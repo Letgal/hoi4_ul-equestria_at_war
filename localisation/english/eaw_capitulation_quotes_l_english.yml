@@ -70,6 +70,10 @@
  GetTNOMaintext_CFR_CRF: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! розчавила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в процесі §YКризи Багряної протоки§!."
  GetTNOMaintext_CFR_RRA: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! розчавила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в процесі §YПовстання Праведного володарства§!."
 
+ GetTNOMaintext_ABY_AF_kattail:0 "§Y[?winning_country^peace_gui_index.GetNameWithFlag]§! has taken over  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! as part of Kaiser Kattail's bid for world domination." # (!)
+ GetTNOMaintext_ABY_AF_early_kattail:0 "§Y[?winning_country^peace_gui_index.GetNameWithFlag]§! has conquered  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! as part of Kaiser Kattail's bid for Abyssinian greatness." # (!)
+ GetTNOMaintext_ABY_AF_beats_UFS:0 "§Y[?winning_country^peace_gui_index.GetNameWithFlag]§! has at last vanquished  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!, ultimately sealing the world's fate." # (!)
+
  GetTNOMaintext_unknown: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! захопила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! та випустила своїх чудовиськ на безпомічне населення."
  GetTNOMaintext_unknown_2: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! захопила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!.\nПодзвін лунає по всіх нас."
  GetTNOMaintext_default: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! перемогла державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! у збройному конфлікті."
@@ -243,5 +247,8 @@ GetTNOReference_NSA: "Квіт молоді Кірії розтоптали ко
 GetTNOReference_CFR: "Ракову пухлину вирізано."
 GetTNOReference_CRF: "Тризуб відкриває ще одну рану."
 GetTNOReference_RRA: "Моровиця шириться Кірією."
+
+GetTNOReference_UFS: "Вони віддали все, але цього було недостатньо.\nТож, божевільний кайзер поглядає на зорі..."
+GetTNOReference_ABY_AF: "Іще... один... цикл..."
 
 GetTNOReference_default: "Війна — це Тартар."
