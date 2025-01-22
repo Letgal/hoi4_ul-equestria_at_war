@@ -379,6 +379,9 @@
  #amphibious_modern_armor:0 "Main Battle Amphibious Tank Battalion"
  #amphibious_modern_armor_desc:0 "A battalion of main battle tanks, capable of amphibious operations."
 
+ intercontinental_maritime_patrol_plane: "Міжконтинентальний морський патрульний бомбардувальник"
+ intercontinental_maritime_patrol_plane_desc: ""
+
 # eaw_zebra_tech
  zebra_folder: "Технології зебр"
  zebra_folder_desc: "Промислові, соціальні та військові технології, притаманні расі зебр."
