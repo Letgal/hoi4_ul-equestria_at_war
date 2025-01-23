@@ -600,9 +600,9 @@
   BAR_leopold_schmeller: "Леопольд Шмеллер"
   BAR_governor_ondska: "Губернатор Ондска"
   BAR_punavuori_directorate: "Директорат Пунавуорі"
-  BAR_minotaur_regional_command: "Реґіональне командування мінотаврів"
+  BAR_minotaur_regional_command: "Регіональне командування мінотаврів"
   BAR_high_karthinian_chamber: "Вища карфінська палата"
-  BAR_aquila_regional_council: "Реґіональна рада Аквіли"
+  BAR_aquila_regional_council: "Регіональна рада Аквіли"
   BAR_viirad_keepers: "Хранителі Вііраду"
   BAR_far_northern_administration: "Адміністрація Далекої півночі"
 
@@ -1185,7 +1185,7 @@
   CTH_neutrality_party: "Конституціоналісти"
   CTH_neutrality_party_long: "Конституціоналісти"
   CTH_communism_party: "РККР"
-  CTH_communism_party_long: "Реґіональна конфедерація кольтфагенських робітників"
+  CTH_communism_party_long: "Регіональна конфедерація кольтфагенських робітників"
   CTH_democratic_party: "Гармоніти"
   CTH_democratic_party_long: "Гармоніти"
   CTH_fascism_party: "Заркіди"
@@ -1223,7 +1223,7 @@
   colthage_other.1.b: "Вони нас обдирають."
 
   colthage_other.2.t: "Вінґбардія схвалює"
-  colthage_other.2.desc: "Наші представники повертаються з Грифонії з чудовими новинами: вінґбардійці погодилися підписати Угоду Елерського моря. Запровадження цієї угоди пропаґуватиме економічний розвиток і індустріалізацію в Кольтфагені, а також відобразить наступний крок у довгій історії дипломатичних і торговельних контактів між нашими державами. Бізнес-спільнота проявила великий ентузіазм відносно особливої економічної зони в нашій столиці, а фінансування з боку грифонів-підприємців уже почало проникати в міста — і це тільки вершина айсберґа. Із цією інвестиційною угодою, кольтфагенці нарешті можуть сподіватися на економічне пожвавлення."
+  colthage_other.2.desc: "Наші представники повертаються з Грифонії з чудовими новинами: вінґбардійці погодилися підписати Угоду Елерського моря. Запровадження цієї угоди пропагуватиме економічний розвиток і індустріалізацію в Кольтфагені, а також відобразить наступний крок у довгій історії дипломатичних і торговельних контактів між нашими державами. Бізнес-спільнота проявила великий ентузіазм відносно особливої економічної зони в нашій столиці, а фінансування з боку грифонів-підприємців уже почало проникати в міста — і це тільки вершина айсберґа. Із цією інвестиційною угодою, кольтфагенці нарешті можуть сподіватися на економічне пожвавлення."
   colthage_other.2.a: "Воно було того варте!"
 
   colthage_other.3.t: "Вінґбардія відмовляє"
@@ -1294,8 +1294,8 @@
  BAT_CTH_MON_puppet_DEF: "Хіроптеррська зона відбудови"
  BAT_CTH_MON_puppet_ADJ: "Хіроптеррськ"
 
- CVA_CTH_MON_puppet: "Автономний реґіон Кар-Альпака"
- CVA_CTH_MON_puppet_DEF: "Автономний реґіон Кар-Альпака"
+ CVA_CTH_MON_puppet: "Автономний регіон Кар-Альпака"
+ CVA_CTH_MON_puppet_DEF: "Автономний регіон Кар-Альпака"
  CVA_CTH_MON_puppet_ADJ: "Кар-альпацьк"
 
 # country_CTL
@@ -1475,8 +1475,8 @@
  LMB_CVA_CTH_zoenician_puppet_neutrality: "Ламбет"
  LMB_CVA_CTH_zoenician_puppet_neutrality_DEF: "Ламбет"
  LMB_CVA_CTH_zoenician_puppet_neutrality_ADJ: "Ламбетськ"
- LMB_CVA_CTH_zoenician_puppet_communism: "Ламбетський автономний реґіон"
- LMB_CVA_CTH_zoenician_puppet_communism_DEF: "Ламбетський автономний реґіон"
+ LMB_CVA_CTH_zoenician_puppet_communism: "Ламбетський автономний регіон"
+ LMB_CVA_CTH_zoenician_puppet_communism_DEF: "Ламбетський автономний регіон"
  LMB_CVA_CTH_zoenician_puppet_communism_ADJ: "Ламбетськ"
 
  MCW_CVA_CTH_zoenician_puppet_fascism: "Макавія"
@@ -1693,7 +1693,7 @@
   DMT_neutrality_party: "ЛАПА"
   DMT_neutrality_party_long: "Лоялістська асоціація псів-аристократів"
   DMT_communism_party: "ЛАЮ"
-  DMT_communism_party_long: "Ліга аванґардистів-юнаків" # (&)
+  DMT_communism_party_long: "Ліга авангардистів-юнаків" # (&)
   DMT_democratic_party: "ГАВ"
   DMT_democratic_party_long: "Гармонійний альянс вірнопідданих"
   DMT_fascism_party: "ГРР"
@@ -4267,7 +4267,7 @@
   JER_kindly_enigma_lar: "$JER_kindly_enigma$"
   JER_uncouth: "Нестерпний геній"
   JER_thibault_trait: "Профспілковий організатор"
-  JER_allard_trait: "Палкий аванґардист"
+  JER_allard_trait: "Палкий авангардист"
   JER_captain_of_state_trait: "Капітан корабля"
   JER_trade_council_trait: "Голос народу"
   JER_empress_of_aquileia_trait: "Імператриця Аквілеї"
@@ -4579,9 +4579,9 @@
   NVA_KIR: "Домініон Лотоса"
   NVA_KIR_DEF: "Кіноварний домініон Лотоса"
   NVA_KIR_ADJ: "Лотосов"
-  ROA_KIR: "Протекторат західних реґіонів"
-  ROA_KIR_DEF: "Кіноварний протекторат західних реґіонів"
-  ROA_KIR_ADJ: "Західнореґіональн"
+  ROA_KIR: "Протекторат західних регіонів"
+  ROA_KIR_DEF: "Кіноварний протекторат західних регіонів"
+  ROA_KIR_ADJ: "Західнорегіональн"
   ZOO_KIR: "Протекторат Зонґо"
   ZOO_KIR_DEF: "Кіноварний протекторат Зонґо"
   ZOO_KIR_ADJ: "Зонґолезьк"
@@ -4944,8 +4944,8 @@
   LCT_communism_party_long: "Сполучені синдикати Єзераграда"
   LCT_democratic_party: "СДП"
   LCT_democratic_party_long: "Соціал-демократична партія"
-  LCT_fascism_party: "Аванґард"
-  LCT_fascism_party_long: "Республіканський аванґард"
+  LCT_fascism_party: "Авангард"
+  LCT_fascism_party_long: "Республіканський авангард"
 
   LCT_prince_faction: "Князівська фракція"
   LCT_prince_faction_long: "Князівська фракція за відновлення та відродження нації"
@@ -7125,8 +7125,8 @@
  ### ПАРТІЇ ###
   YAL_neutrality_party: "Рада"
   YAL_neutrality_party_long: "Вчена рада"
-  YAL_communism_party: "Аванґард"
-  YAL_communism_party_long: "Студентський аванґард"
+  YAL_communism_party: "Авангард"
+  YAL_communism_party_long: "Студентський авангард"
   YAL_democratic_party: "Нова іскра"
   YAL_fascism_party: "Меч і щит"
   YAL_grover_party: "Цісарева партія"

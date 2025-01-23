@@ -506,11 +506,11 @@
  SDF_fascism_party_long: "$SDL_fascism_party_long$"
 
  BAT_neutrality_party: "ЛРЇІВ-П"
- BAT_neutrality_party_long: "Леґіонерська рада Її Імператорської Величності — помірні"
+ BAT_neutrality_party_long: "Легіонерська рада Її Імператорської Величності — помірні"
  BAT_communism_party: "Зрадники"
  BAT_democratic_party: "Зрадники"
  BAT_fascism_party: "ЛРЇІВ-Р"
- BAT_fascism_party_long: "Леґіонерська рада Її Імператорської Величності — радикали"
+ BAT_fascism_party_long: "Легіонерська рада Її Імператорської Величності — радикали"
 
  MCW_neutrality_party: "ВРП"
  MCW_neutrality_party_long: "Висока республіканська партія" # Велика (з рос. лок.)
