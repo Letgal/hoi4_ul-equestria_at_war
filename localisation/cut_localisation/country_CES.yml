@@ -1,39 +1,5 @@
 ﻿# Вирізано, оскільки після 2.3 файл занадто змінився.
 
-### ПЕРСОНАЖІ ###
- # Лідери
-  CES_king_dust: "Король Даст"
-  CES_furher_seaterror: "Фюрер Сітеррор"
-  CES_daring_do: "Дерінґ Ду"
-  CES_addie_hoover: "Адді Гувер"
-  CES_mayor_quibble_pants: "Мер Квіббл Пентс"
-
- # Генерали
-  CES_quibble_pants: "Квіббл Пентс"
-  CES_di_caprio: "Ді Капріо"
-  CES_lauriel_craft: "Лоріел Крафт"
-  CES_dian_diamonds: "Діан Даймондс"
-  CES_henry_diamonds: "Генрі Даймондс"
-  CES_van_drake: "Ван Дрейк"
-  CES_knifepony: "Ґрейв Солс"
-
- # Радники
-  CES_whooves: "Містер Вгувз"
-  CES_tiger_eyes: "Тайґер Айз"
-  CES_swift_justice: "Свіфт Джастис"
-  CES_lesa_flare: "Леза Флейр" # Флер
-  CES_airchief_henry: "Генрі"
-  CES_permittivity: "Перміттівіті"
-  CES_itzcoatl: "Іцкоатль"
-  CES_celery: "Селері"
-
-### ПАРТІЇ ###
- CES_neutrality_party: "Лоялісти Кабальєрона"
- CES_communism_party: "Балтимейрські лоялісти"
- CES_democratic_party: "Селестійські лоялісти"
- CES_fascism_party: "Місячні лоялісти"
- CES_fascism_daybreaker_party: "Лоялісти Дейбрейкер"
-
 ### ФОКУСИ ###
  CES_fleet_spawn:0 "Створює §Yфлот§! у Стейблсайді."
  CES_planes_tlp:0 "Створює §Yескадрилью винищувачів§! у області [86.GetName]."
@@ -240,22 +206,3 @@
  daring.17.a:0 "Одне Сонце, що править усіма!"
 
  stableside_navy:0 "Завершено фокус §Y$CES_naval_production$§!"
-
-### РІШЕННЯ ###
- SE_build_railroad_1: "Сполучити базу в Комариному лісі з Теплими Водами"
- SE_build_railroad_1_desc: "Також створює центр постачання, якщо такого немає."
- SE_build_railroad_1_tt: "Ми мусимо контролювати оптимальний шлях між Теплими Водами та центром Комариного лісу."
- SE_build_railroad_2: "Сполучити базу в Комариному лісі з Аякачтлі"
- SE_build_railroad_2_desc: "Також створює центр постачання, якщо такого немає."
- SE_build_railroad_2_tt: "Ми мусимо контролювати оптимальний шлях між Аякачтлі та центром Комариного лісу."
- SE_build_railroad_3: "Сполучити Аякачтлі з Мейридіаном"
- SE_build_railroad_3_desc: ""
- SE_build_railroad_3_tt: "Ми мусимо контролювати оптимальний шлях між Аякачтлі та Мейридіаном."
- SE_build_railroad_4: "Сполучити Ґеллопфрей із Аякачтлі"
- SE_build_railroad_4_desc: ""
- SE_build_railroad_4_tt: "Ми мусимо контролювати оптимальний шлях між Аякачтлі та Ґеллопфреєм."
- SE_build_railroad_5: "Сполучити Тоналцінтлі з Солтлікінґемом"
- SE_build_railroad_5_desc: ""
- SE_build_railroad_5_tt: "Ми мусимо контролювати оптимальний шлях між Тоналцінтлі та Солтлікінґемом."
- SE_build_port_1: "Збудувати чінамітльський порт"
- SE_build_port_1_desc: ""
