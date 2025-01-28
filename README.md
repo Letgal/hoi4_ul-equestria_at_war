@@ -18,6 +18,7 @@
 + `country_CRY` (переклав *Green Kitten*)
 + `country_CRY_NLR` (переклав *Green Kitten*)
 + `country_CRY_SOL` (переклав *Green Kitten*)
++ `country_CTH` (умовно; переклав *StasJesus*)
 + `country_DEP` (умовно)
 + `country_DRG`
 + `country_EQC`<!--  (переклав *Max*) -->
