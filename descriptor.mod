@@ -10,6 +10,7 @@ dependencies = {
 	"Українська локалізація"
 	"Українська локалізація (GitHub)"
 	"Equestria at War"
+	"[EAW] Diarchy expanded"
 }
 supported_version = "1.15.*"
 path = "mod/hoi4_ul-equestria_at_war"
