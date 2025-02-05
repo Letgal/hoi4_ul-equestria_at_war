@@ -6872,6 +6872,34 @@
  WIN_colthaginian_influence_tp: "§gВплив Кольтфагену§!"
 
 # country_YAK
+ ### НАЗВИ КРАЇНИ ###
+  YAK_stratsoc_communism: "Якська Армія Червоного Сонця"
+  YAK_stratsoc_communism_DEF: "Якська Армія Червоного Сонця"
+  YAK_stratsoc_communism_ADJ: "Якськ"
+
+  YAK_council_communism: "Північна республіка рад"
+  YAK_council_communism_DEF: "Північна республіка рад"
+  YAK_council_communism_ADJ: "Північн"
+
+  YAK_republic_democratic: "Як'якистанська республіка"
+  YAK_republic_democratic_DEF: "Як'якистанська республіка"
+  YAK_republic_democratic_ADJ: "Якськ"
+
+  YAK_federation_democratic: "Як'якистанська федерація"
+  YAK_federation_democratic_DEF: "Як'якистанська федерація"
+  YAK_federation_democratic_ADJ: "Якськ"
+
+  YAK_federation_2_democratic: "Північна федерація"
+  YAK_federation_2_democratic_DEF: "Північна федерація"
+  YAK_federation_2_democratic_ADJ: "Північн"
+
+  YAK_empire_neutrality: "Якський каганат"
+  YAK_empire_neutrality_DEF: "Якський каганат"
+  YAK_empire_neutrality_ADJ: "Якськ"
+  YAK_empire_fascism: "Якський каганат"
+  YAK_empire_fascism_DEF: "Якський каганат"
+  YAK_empire_fascism_ADJ: "Якськ"
+
  ### ПЕРСОНАЖІ ###
   # Радники
   YAK_Yona: "Йона"
@@ -6908,6 +6936,71 @@
 
   # Описи
   POLITICS_PRINCERUTHERFORD_DESC: "§YДата народження§!: 3 січня 967 р. в Яктауні\n\n§YЖиттєпис§!: Поза Кристальними горами принц Резерфорд очолює горду націю яків. Принц Резерфорд — спірний правитель традиційно ізоляціоністської нації яків, яка лише нещодавно почав виходити на світову арену. Цей вихід призвів до майже катастрофічного дипломатичного казусу, який ледь не втягнув слаборозвинений Як'якистан у війну з Еквестрією. На щастя, Пінкі Пай — Елемент Сміху з Еквестрії — змогла втрутитися та запобігти цьому. Після того інциденту принц Резерфорд твердо вирішив вивести своє королівство з нинішніх темних часів у добу процвітання. Резерфорд готовий зробити для свого народу що завгодно, за умови, що це не зашкодить гордості яків.\n\n§YАвтор портрета§!: Scroup"
+
+ ### ЛОЯЛЬНІСТЬ КЛАНІВ ###
+  clan_opinion_icon_tt: "Лояльність кланів"
+  clan_opinion_icon_desc: "[GetYakClanLoyaltyDesc]"
+
+  # Джуїлхай
+  juyilkhai_icon_tt: "Клан Джуїлхай"
+  clan_yak_juyilkhai: "Контроль клану Джуїлхай"
+  YAK_juyilkhai_state_modifier: "Контроль клану Джуїлхай"
+
+  # Манґчіджід
+  mangchijid_icon_tt: "Клан Манґчіджід"
+  clan_yak_mangchijid: "Контроль клану Манґчіджід"
+  YAK_mangchijid_state_modifier: "Контроль клану Манґчіджід"
+
+  # Нояманан
+  noyamanan_icon_tt: "Клан Нояманан"
+  clan_yak_noyamanan: "Контроль клану Нояманан"
+  YAK_noyamanan_state_modifier: "Контроль клану Нояманан"
+
+  # Арушаріі
+  arusharii_icon_tt: "Клан Арушаріі"
+  clan_yak_arusharii: "Контроль клану Арушаріі"
+  YAK_arusharii_state_modifier: "Контроль клану Арушаріі"
+
+  # Кіятух
+  kiyatukh_icon_tt: "Клан Кіятух"
+  clan_yak_kiyatukh: "Контроль клану Кіятух"
+  YAK_kiyatukh_state_modifier: "Контроль клану Кіятух"
+
+  # Сулдінтжід
+  suldintjid_icon_tt: "Клан Сулдінтжід"
+  clan_yak_suldintjid: "Контроль клану Сулдінтжід"
+  YAK_suldintjid_state_modifier: "Контроль клану Сулдінтжід"
+
+  # Манхутаїд
+  mankhutayid_icon_tt: "Клан Манхутаїд"
+  clan_yak_mankhutayid: "Контроль клану Манхутаїд"
+  YAK_mankhutayid_state_modifier: "Контроль клану Манхутаїд"
+
+  # Геніхан
+  ghenikhan_icon_tt: "Клан Геніхан"
+  clan_yak_ghenikhan: "Контроль клану Геніхан"
+  YAK_ghenikhan_state_modifier: "Контроль клану Геніхан"
+
+  # Юркід
+  yurkid_icon_tt: "Клан Юркід"
+  clan_yak_yurkid: "Контроль клану Юркід"
+  YAK_yurkid_state_modifier: "Контроль клану Юркід"
+
+  # Якічіх
+  clan_yak_jakichikh: "Контроль клану Якічіх"
+  YAK_jakichikh_state_modifier: "Контроль клану Якічіх"
+
+  # Убхаїт
+  clan_yak_ubkhait: "Контроль клану Убхаїт"
+  YAK_ubkhait_state_modifier: "Контроль клану Убхаїт"
+
+  # Хорііхат
+  clan_yak_khoriikhat: "Контроль клану Хорііхат"
+  YAK_khoriikhat_state_modifier: "Контроль клану Хорііхат"
+
+  # Хата'ут
+  clan_yak_khataut: "Контроль клану Хата'ут"
+  YAK_khataut_state_modifier: "Контроль клану Хата'ут"
 
  ### ОСНАЩЕННЯ ###
   YAK_melee_equipment_0: "Нищівники"
