@@ -2778,6 +2778,7 @@
   EQC_puppet_leader: "Командир Бронзталон"
   NCH_puppet_leader: "Командир Ґолден Вінґ"
   MIT_puppet_leader: "Король Агамемнон IV"
+  RIV_puppet_leader: "Маркус Флюскаце" # Fallback if Konrada is dead
 
  ### ПОДІЇ ###
   imperial_news.3.t: "Імператор мертвий"

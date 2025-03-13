@@ -1,4 +1,4 @@
-﻿l_russian:
+l_russian:
  EAW_MENU_MODDB: "Equestria at War у MODDB"
  EAW_MENU_DISCORD: "Сервер Equestria at War у Discord"
  EAW_MENU_STEAMWORKSHOP: "Equestria at War у Майстерні Steam"
@@ -712,6 +712,9 @@
  #tank_modules
   super_heavy_tank_artillery_chassis: "Надважка САУ"
   super_heavy_tank_aa_chassis: "Надважка ЗСУ"
+
+ #frontend
+  FE_DIFFICULTY_CUSTOM_BTN: "Користувацькі правила" # із УЛ ванілли
 
  #trade_l
   CONVOYS_USAGE_DELAYED: "Конвої використовуються для імпорту ресурсів морем від інших країн, а також доставки наших ресурсів у межах держави і припасів для наших військ за морем."

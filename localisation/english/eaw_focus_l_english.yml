@@ -3,3 +3,5 @@
  remove_agrarian_society: "Аграрне суспільство"
  remove_pre_industrial_society: "Раннє промислове суспільство"
  remove_outdated_industry: "Сучасне суспільство"
+
+ is_controlled_by_ROOT_or_ally_NOT: "Контролюється державою §H[Root.GetNameDef]§! або одним із союзників"
