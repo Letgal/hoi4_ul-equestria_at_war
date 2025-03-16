@@ -326,7 +326,7 @@
  any_of_potential_and_current_enemies_justifying_or_has_wargoal_on_THIS: "$TRIGGER_ANY_OTHER_COUNTRY_STARTS$:\n      $TRIGGER_OR_STARTS$:\n         Має ціль війни проти держави §Y[This.GetNameWithFlag]§!\n         Виправдовує ціль війни проти держави §Y[This.GetNameWithFlag]§!"
  TRIGGER_ANY_COUNTRY_STARTS_NOT: "$TRIGGER_ANY_COUNTRY_STARTS$"
 
- nuked_griffonstone: "Скинуто ядерну бомбу на Ґриффонстоун"
+ nuked_griffonstone: "Скинуто ядерну бомбу на Грифонстоун"
  nuked_canterlot: "Скинуто ядерну бомбу на Кантерлот"
 
  keremeskai_dead: "Кемерскай мертвий"

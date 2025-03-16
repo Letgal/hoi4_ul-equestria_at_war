@@ -400,15 +400,15 @@
  BAN_BOI_fascism: "Бандитське королевство Блекрок"
  BAN_BOI_fascism_DEF: "Бандитське королевство Блекголлоу"
  BAN_BOI_fascism_ADJ: "Блекроцьк"
- BAN_BOI_democratic: "Королевство Ґриффонстоун"
- BAN_BOI_democratic_DEF: "Королевство Ґриффонстоун"
- BAN_BOI_democratic_ADJ: "Ґриффонстоунськ"
- BAN_BOI_neutrality: "Королевство Ґриффонстоун"
- BAN_BOI_neutrality_DEF: "Королевство Ґриффонстоун"
- BAN_BOI_neutrality_ADJ: "Ґриффонстоунськ"
- BAN_BOI_communism: "Наш Ґриффонстоун"
- BAN_BOI_communism_DEF: "Наш Ґриффонстоун"
- BAN_BOI_communism_ADJ: "Ґриффонстоунськ"
+ BAN_BOI_democratic: "Королевство Грифонстоун"
+ BAN_BOI_democratic_DEF: "Королевство Грифонстоун"
+ BAN_BOI_democratic_ADJ: "Грифонстоунськ"
+ BAN_BOI_neutrality: "Королевство Грифонстоун"
+ BAN_BOI_neutrality_DEF: "Королевство Грифонстоун"
+ BAN_BOI_neutrality_ADJ: "Грифонстоунськ"
+ BAN_BOI_communism: "Наш Грифонстоун"
+ BAN_BOI_communism_DEF: "Наш Грифонстоун"
+ BAN_BOI_communism_ADJ: "Грифонстоунськ"
 
  ### ПЕРСОНАЖІ ###
   # Лідери
@@ -3423,8 +3423,8 @@
  HIE_PUPPET_fash_hillpony: "Гарнізон Вознесіння"
  HIE_PUPPET_fash_hillpony_long: "Гарнізон Вознесіння"
 
- HIE_PUPPET_fash_central: "Ґриффонстоунське командування"
- HIE_PUPPET_fash_central_long: "Ґриффонстоунське командування"
+ HIE_PUPPET_fash_central: "Грифонстоунське командування"
+ HIE_PUPPET_fash_central_long: "Грифонстоунське командування"
 
  HIE_PUPPET_fash_lake: "ЄНР «Порядок»"
  HIE_PUPPET_fash_lake_long: "Єзераградський національний рух «Порядок»"
