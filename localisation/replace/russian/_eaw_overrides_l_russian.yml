@@ -596,7 +596,7 @@ l_russian:
   anti_fascist_raids_desc: "Ми мусимо розправитися зі зверхніми елементами в нашій нації заради довготривалої внутрішньої стабільності. Їхній вплив занадто великий, і вони потенційно можуть стати проблемою для уряду."
   war_propaganda_against_warmonger_desc: "Нація скликає всіх громадян. Війна, схожа на ту, яку переживає держава [From.GetName], може статись і тут."
   war_propaganda_against_tension_desc: "Ми мусимо стати проти загрози з боку держави [From.GetName]. Безпека нашої держави залежить від кожного громадянина, який виконує свою роль."
-  women_in_the_workforce:0 "Call Up Auxiliaries"
+  women_in_the_workforce: "Призвати допоміжні сили"
   women_in_the_workforce_desc:0 "As our economy is fully mobilized, we find ourselves in a shortage of frontline troops. Calling up auxiliary troops to supplement our forces may be controversial, but it is likely necessary."
   demobilization_desc:0 "Угроза войны не кажется достаточно актуальной, и народ больше не готов терпеть порядки военного времени. Нам нужно пересмотреть законы и подумать, не стоит ли пойти на уступки, прежде чем протесты станут громче." # (!)
   demobilization_economic_desc:0 "Угроза войны не кажется достаточно актуальной, и народ больше не готов терпеть тяготы военной экономики. Нам нужно пересмотреть экономические законы и подумать, не стоит ли пойти на уступки и повысить производство потребительских товаров." # (!)
