@@ -14,8 +14,8 @@
  NE_new_decisions_unlocked: "Рішення розблоковані"
  ZAI_designer_unlocked: "Виробники розблоковані"
 
- navy_chief_naval_aviation_4:0 "Отец монстров"
- navy_chief_naval_aviation_5:0 "Отец монстров"
+ navy_chief_naval_aviation_4: "Батько чудовиськ"
+ navy_chief_naval_aviation_5: "$navy_chief_naval_aviation_4$"
 
  ZAI_special_designer:0 "Рабские мастерские Тамбелона"
  ZAI_tt_1:0 "Снаряжение монстров в неделю: §G+25§!"

@@ -93,7 +93,7 @@ l_russian:
   NUCLEAR_PRODUCTION_NONE: "Наразі ми не виробляємо ядерні бомби..\n\n$reactor_resource_shortage$"
   ACHIEVEMENTS_VIEW_LOCKED: "§RДосягнення доступні тільки в Ironpony!§!"
   CONFIRMCONSOLIDATEUNITSAREENCIRCLED: "§RОбрані війська оточені; Ви втратите все їхнє оснащення та $VALUE|%0$ їхніх поні-ресурсів!§!"
-  CONFIRMCONSOLIDATE_EQUIPMENT_GAIN_CONSOLIDATE_TITLE:0 "В §Hзапасы§!/§Hпони ресурсы§! будет возвращено следующее:"
+  CONFIRMCONSOLIDATE_EQUIPMENT_GAIN_CONSOLIDATE_TITLE: "Це буде повернуто на §Hсклад§!/у §Hзапас поні-ресурсів§!:" # (&)
   CONSOLIDATE_TOOLTIP:0 "При объединении недоукомплектованных и поврежденных частей накопленный ими опыт сохраняется. Пони ресурсы и техника объединяются."
   FE_SELECT_SCENARIO: "Обрати континент"
   FE_CHANGE_SCENARIO: "Змінити континент"
