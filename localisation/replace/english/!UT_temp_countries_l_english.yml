@@ -272,9 +272,9 @@
  GRU_AVI_fascism_DEF: "Орденсштаат Ґрифус"
  GRU_AVI_fascism_ADJ: "Ґрифуськ"
 
- GRI_CITY_AVI_fascism: "Вільне місто Ґриффенгайм"
- GRI_CITY_AVI_fascism_DEF: "Вільне місто Ґриффенгайм"
- GRI_CITY_AVI_fascism_ADJ: "Ґриффенгаймськ"
+ GRI_CITY_AVI_fascism: "Вільне місто Грифенгайм"
+ GRI_CITY_AVI_fascism_DEF: "Вільне місто Грифенгайм"
+ GRI_CITY_AVI_fascism_ADJ: "Грифенгаймськ"
 
  BRF_AVI_fascism: "Князівство Бродфельд"
  BRF_AVI_fascism_DEF: "Князівство Бродфельд"
@@ -5028,9 +5028,9 @@
  LSM_ostgriffonia_communism_DEF: "Ост-Грифонська республіка"
  LSM_ostgriffonia_communism_ADJ: "Ост-грифонськ"
 
- HERZ_LSC_communism: "Ґриффенгаймська окупаційна адміністрація"
- HERZ_LSC_communism_DEF: "Ґриффенгаймська окупаційна адміністрація"
- HERZ_LSC_communism_ADJ: "Ґриффенгаймськ"
+ HERZ_LSC_communism: "Грифенгаймська окупаційна адміністрація"
+ HERZ_LSC_communism_DEF: "Грифенгаймська окупаційна адміністрація"
+ HERZ_LSC_communism_ADJ: "Грифенгаймськ"
 
  SHERZ_LSC_communism: "Адміністрація відбудови Південного Герцланду"
  SHERZ_LSC_communism_DEF: "Адміністрація відбудови Південного Герцланду"
@@ -5182,7 +5182,7 @@
   LSC_T_naval: "Цеус Пельтцер"
   LSC_T_air: "Гутс Гессель"
 
- LSC_state_razed_griffenheim: "Руїни Ґриффенгайма"
+ LSC_state_razed_griffenheim: "Руїни Грифенгайма"
 
  longsword_focus: "Дерево фокусів Лонґсуорду"
  longsword_focus_fascist_civil_war: "$longsword_focus$"
@@ -5932,9 +5932,9 @@
  PLB_AET_crusade_DEF: "Імперіум Усебатька"
  PLB_AET_crusade_ADJ: "Імперійн"
 
- HERZ_PLB_occupation: "Віровідступницька держава Ґриффенгайм"
- HERZ_PLB_occupation_DEF: "Віровідступницька держава Ґриффенгайм"
- HERZ_PLB_occupation_ADJ: "Ґриффенгаймськ"
+ HERZ_PLB_occupation: "Віровідступницька держава Грифенгайм"
+ HERZ_PLB_occupation_DEF: "Віровідступницька держава Грифенгайм"
+ HERZ_PLB_occupation_ADJ: "Грифенгаймськ"
 
  STW_PLB_occupation: "Поле Багатьох"
  STW_PLB_occupation_DEF: "Поле Багатьох"

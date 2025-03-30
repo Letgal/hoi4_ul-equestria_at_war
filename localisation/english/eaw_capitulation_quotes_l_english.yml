@@ -18,7 +18,7 @@
  GetTNOMaintext_GFF_loss: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! приборкала дику природу держави §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
  GetTNOMaintext_brothers_feud: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! тріумфувала над державою §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в §YСуперечці братів§!."
 
- GetTNOMaintext_griffonia_empire_fall: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! ввійшла в місто §YҐриффенгайм§! і повалила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
+ GetTNOMaintext_griffonia_empire_fall: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! ввійшла в місто §YГрифенгайм§! і повалила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
  GetTNOMaintext_griffonia_republic_loss: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! розбила грифонський республіканізм у державі §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
  GetTNOMaintext_longsword_civil_war: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! перемогла державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! у §Yгромадянській війні у Лонґсуорді§!."
  GetTNOMaintext_reformisten_loss: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! усунула загрозу з боку §Yреформістів§! держави §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
