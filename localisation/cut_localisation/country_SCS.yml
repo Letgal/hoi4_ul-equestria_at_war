@@ -1,48 +1,5 @@
 ﻿# Вирізано, поки файл не буде належним чином оновлено.
 
- vp_name_coltlumbia: "Кольтлумбія"
-
-### ПЕРСОНАЖІ ###
- # Лідери
-  SCS_silverstar: "Силверстар"
-  SCS_braeburn: "$EQS_braeburn$"
-  SCS_jd_neighvis: "Дж. Д. Нейвіс"
-  SCS_rockfeller: "Рокфеллер"
-  SCS_danaus_plexippus: "Данаус Плексіппус"
-  SCS_maud_pie: "$EQS_maudpie$"
-
- # Генерали
-  SCS_star_spur: "Стар Спер"
-  SCS_apple_ale: "Еппл Ейл"
-  SCS_mccree: "МакКрі"
-  SCS_moonshine_melody: "Муншайн Мелоді"
-  SCS_sorren_peak: "Соррен Пік"
-  SCS_burnside_fervor: "Бернсайд Фервор"
-  SCS_trotbert_e_neigh: "Тротберт Е. Ней"
-  SCS_stewed_apple: "Стюд Еппл"
-  SCS_stone_wall: "Стоун Уолл"
-
- # Радники
-  flim_SCS: "$EQS_flim_flam$"
-  fetter_keys: "Феттер Кіс"
-  fetter_keys_ac: "$fetter_keys$"
-  cherry_jubilee: "Черрі Джубилі"
-  venture_capital: "Венчер Кепітал"
-  yuma_spurs: "Юма Сперс"
-  royalist_pony: "Бернинґ Баннер"
-  SCS_royalist_trait: "Очільник роялістів"
-  SCS_naval_dude1: "Тенґл Келп"
-  SCS_naval_dude2: "Расті Сейл"
-  SCS_naval_dude3: "Манро Вілсон"
-  SCS_air_dude1: "Маркус Ґрінеппл"
-  SCS_air_dude2: "Скай Шуз"
-  apple_fritter: "Еппл Фриттер"
-  trouble_shoes: "Трабл Шуз"
-  caramel: "Карамель"
-  SCS_theorist_1: "Скай Дрімер"
-  SCS_theorist_2: "Уар Ґейм"
-  SCS_theorist_3: "Southern Star Aeronautics"
-
 ### КОНСТРУКТОРИ ###
  SCS_tank_1:0 "Trotsas Tractor Co."
  SCS_tank_2:0 "Appleloosan Heavy Armor"
@@ -56,21 +13,6 @@
  SCS_navy_man:0 "Rosemarein Shipping Co."
  SCS_navy_man_2:0 "South Seas Naval"
  SCS_navy_man_3:0 "Southern Cross Shiplines"
-
-### ПАРТІЇ ###
- SCS_neutrality_party: "Партія Кольтлумбії"
- SCS_neutrality_party_long: "Еппллузька партія Кольтлумбії"
- SCS_communism_party: "Південний робітничий фронт"
- SCS_democratic_party: "Партія гармонії та єдності"
- SCS_democratic_party_long: "Еппллузька партія гармонії та єдності"
- SCS_fascism_party: "Фракція Рокфеллера"
- SCS_fascism_party_long: "Фракція Рокфеллера в Партії Кольтлумбії"
- SCS_royalist_party: "Еквестрійське братство"
- SCS_royalist_party_long: "Еквестрійське братство"
- SCS_rockhoof_party: "Партія Кольтлумбії"
- SCS_rockhoof_party_long: "Еппллузька партія Кольтлумбії"
- SCS_moderate_party: "Фракція Нейвіса"
- SCS_moderate_party_long: "Фракція Нейвіса в Партії Кольтлумбії"
 
 ### НОВІ ФОКУСИ ###
  SCS_aint_that_a_kick_in_the_head:0 "Удар по голові"
