@@ -4,39 +4,39 @@
 # Put loc keys for NBS-compatible characters whose tags don't have locs in the main zebrica-work branch here #
 # Remove all characters from a tag as soon as the loc file is brought over from its branch #
 l_english:
-ANS_priestqueen_eanassir:0 "Priest-Queen Ea-Nassir"
+ANS_priestqueen_eanassir: "Королева-жриця Еа-Нассір"
 
-ASS_king_assbanipal:0 "King Assbanipal"
-ASS_dunkey:0 "Dunkey"
-ASS_donkey_kong:0 "Donkey Kong"
-ASS_eeyore:0 "Eeyore"
-ASS_estorell:0 "Estorell"
+ASS_king_assbanipal: "Король Ассбаніпал"
+ASS_dunkey: "Данкі"
+ASS_donkey_kong: "Донкі Конґ"
+ASS_eeyore: "Віслючок"
+ASS_estorell: "Есторелл"
 
 BRS_mikalla_i: "Мікалла I"
 
 CGI_khan_zaghu: "Хан Заґгу"
 
-DEL_high_priest_xuwicha:0 "High Priest Xuwicha"
+DEL_high_priest_xuwicha: "Верховний жрець Шувіча"
 
-EMR_emir_hafifah_awan:0 "Emir Hafifah Awan"
+EMR_emir_hafifah_awan: "Емір Гафіфа Аван" # (&)
 EMR_fakira_mansour:0 "Fakira Mansour"
 EMR_hasan_sattar:0 "Hasan Sattar"
 EMR_raziqa_pirani:0 "Raziqa Pirani"
 
 GAZ_trah_tibidoh: "Трах Тібідох"
 
-GFS_atlas_steyn:0 "Atlas Steyn"
-GFS_aristaeus_van_straaten:0 "Aristaeus van Straaten"
-GFS_eurus_gardiner:0 "Eurus Gardiner"
-GFS_nikolaus:0 "Nikolaus Janaris Stahlhertz"
+GFS_atlas_steyn: "Атлас Стейн"
+GFS_aristaeus_van_straaten: "Арістеус ван Страатен"
+GFS_eurus_gardiner: "Ерус Гардінер"
+GFS_nikolaus: "Ніколаус Янаріс Штальгерц" # Сталгерц?
 GFS_nikolaus_desc:0 "§YBorn§!: November 7th, 978 ALB\n\n§YRank§!: Lieutenant Colonel\n\n§YBiography§!: Nikolaus Janaris Stahlhertz was born to a middle class family during the midst of the Griffonian Revolution, being protective frequently by his parents at a young age Nik's isolation gave him a passion to eagerly travel the world, he would join the Griffonian Imperial Army and achieve the rank of Lieutenant and even receiving the Iron Cross, after his discharge, he would go on to fight as a soldier of fortune and even getting hired to train the Kompels in south Zebrica in guerrilla tactics. An Anti-Communist at heart, and a firm Groverist believer, Nik would ensure the safety of the South Zebrica Griffons and turn them into capable fighters from any outside threat by all means.\n\n§YPortrait By§!: NotoriousNostalgia"
-GFS_anesu_goldleaf:0 "Anesu Goldleaf"
+GFS_anesu_goldleaf: "Анесу Ґолдліф"
 GFS_anesu_goldleaf_desc:0 "A second-generation colonial born in the country, Anesu Goldleaf was torn between two worlds as a boy; his love for the native lands, coddled by his father on long safari's and hunts across the terrain, and the life of a colonial, ruling over a small estate in the countryside with a primarily native work-force while his father was away. He never knew his mother, with his father telling him she died in childbirth, but Anesu had always suspected he wasn't born solely of Colonial blood, even if he couldn't prove it. A somewhat mild supporter of colonial rule, with an equal love for the native peoples and an even-handed nature, Anesu joined the military to get out from underneath his father's shadow, despite his father paying for his commission, and intends to make it a career, not just a stepping stone.\n\nApplying his love of the terrain and logical mind, he first mastered the desert as a young officer, leading non-native scouts on patrol in the blistering heat of the desert grasslands of his homeland, then sought even greater things in the cavalry. Fortunately, despite his relative inexperience at the time, it needed officers with good understanding of the native terrain in order to avoid being caught out without water or fuel. Finally, with promotions under his belt, the time might have come for Anesu Goldleaf to prove to his father that his effort to become his own pony wasn't for nothing more than the admitted adoration he'd earned among his soldiers, a mixture of native and non-native ponies and zebra's, but to defend his own nation."
 
-GIF_high_king_retikula_ii:0 "High King Retikula II"
-GIF_king_dzinashi_name:0 "King Dzinashi III"
-GIF_queen_rungano_name:0 "Queen Rungano V"
-GIF_mhizha_name:0 "Mhizha"
+GIF_high_king_retikula_ii: "Верховний король Ретікула II"
+GIF_king_dzinashi_name: "Король Дзінаші III"
+GIF_queen_rungano_name: "Королева Рунґано V"
+GIF_mhizha_name: "Мгіжа"
 
 GYZ_gyz_windborn: "Ґіз Віндборн"
 
@@ -52,7 +52,7 @@ HYE_fahamka: "Фагамка «Гав»"
 HYE_masaska: "Масаска"
 HYE_furasho: "Фурашо"
 
-IDO_sauren_kopaha:0 "Mutya"
+IDO_sauren_kopaha: "Мутья"
 
 IDT_high_chief_excalibur:0 "High Chief Excalibur"
 IDT_arcin_the_defiler:0 "Arcin the Defiler"
@@ -61,17 +61,17 @@ IDT_toon_ugnip:0 "Toon Ugnip"
 IDT_frostfury:0 "Frostfury"
 IDT_snowy_sapphire:0 "Snowy Sapphire"
 
-IST_tekk_aulea:0 "Dimasupil"
+IST_tekk_aulea: "Дімасупіл"
 
-KAR_kurstanbek_khan:0 "Shahanshah Tahmasp"
+KAR_kurstanbek_khan: "Шахиншах Тагмасп"
 
-KHM_smoldering_coals:0 "Smoldering Coals"
+KHM_smoldering_coals: "Смолдеринґ Коалз"
 
-KXN_wildfire_flourish:0 "Wildfire Flourish"
-KXN_Tianhuo:0 "Tianhuo"
+KXN_wildfire_flourish: "Уайлдфайр Флориш"
+KXN_Tianhuo: "Тяньхо"
 
 LMB_sapa_llama: "Сапа Лама"
-LMB_paprika: "Паприка"
+LMB_paprika: "Папріка"
 LMB_idk: "Жрець-козел Ґор"
 LMB_idk_desc:0 "It is said Gore was found in the wilderness as a mere kid by an Alpaca priest who adopted him as her own child. She soon noticed how unusually intelligent and knowledgeable Gore was, and decided to train him as her successor. Soon enough, Gore had adopted the Llambetan religion which venerated the Sapa Llama as a god-king. Yet there was something odd about his preachings. He used terms such as "All-Father" which no one was familiar with, and practiced rituals which were seen as heretical. Nevertheless, thanks to her mother's patronage and protection, he was eventually ordained as a priest."
 
@@ -95,7 +95,7 @@ MCW_folk_hero:0 "Ornithian Musician"
 MDL_transitional_military_council: "Перехідна військова рада"
 MDL_velvet_qamar: "Вельвет Камар"
 
-MEL_ugwiyuhi_murena:0 "Ugwiyuhi Murena"
+MEL_ugwiyuhi_murena: "Уґвіюгі Мурена"
 
 MGY_king_khefer: "Король Хефер"
 MGY_far_hook: "Фар Гук"
@@ -115,24 +115,24 @@ MSS_moronaba_zoudraogo:0 "Moro-Naba Zoudraogo"
 MSS_zarkis:0 "Zarkis"
 MSS_nazi_boni:0 "Nabi Zoni"
 
-MTO_duke_kyrippos_ii:0 "Duke Kyrippos II"
+MTO_duke_kyrippos_ii: "Герцог Кіріпп II"
 
-NVA_ho_chi_mane:0 "Ho Chi Mane"
-NVA_cinder_tempest:0 "Cinder Tempest"
+NVA_ho_chi_mane: "Хо Ші Мейн"
+NVA_cinder_tempest: "Синдер Темпест"
 NVA_honeigh_xuan_lam:0 "Honeigh Xuan Lam"
 NVA_le_neighuyen_khang:0 "Le Neighuyen Khang"
 NVA_neigho_quang_trotuong:0 "Neigho Quang Trotuong"
 
-OSQ_warda_bint_sakhr:0 "Warda bint Sakhr"
+OSQ_warda_bint_sakhr: "Варда бінт Сахр" # (&)
 OSQ_zaid_ibn_hashem_bin_alraji:0 "Zaid ibn Hashem bin Al-Raji"
 OSQ_hatem_bin_idris_altariq:0 "Hatem bin Idris Al-Tariq"
 OSQ_ayham_ibn_waseem_bin_al_fadi:0 "Ayham ibn Waseem bin Al Fadi"
 
-REE_yonatan_suss:0 "Yonatan Suss"
-REE_zzeth_zeebtach:0 "Zzeth Zeebtach"
+REE_yonatan_suss: "Йонатан Сусс"
+REE_zzeth_zeebtach: "Ззет Зеебтах" # (&)
 
 ROA_servius_sindisiwe:0 "Servius Sindisiwe"
-ROA_kaiser_augustus_umqobi:0 "Kaiser Augustus Umqobi"
+ROA_kaiser_augustus_umqobi: "Кайзер Авґуст Умкобі"
 ROA_flavonius_sibakabaka:0 "Flavonius Sibakabaka"
 ROA_matshana:0 "Matshana"
 ROA_mbutu_valcostus:0 "Mbutu Valcostus"
@@ -165,30 +165,30 @@ SPL_mahaan_ghanusson: "Магаан Гануссон"
 
 STM_ikvus_hailstorm: "Іквус Гейлсторм"
 
-TAI_priestess_dara:0 "Priestess Dara"
+TAI_priestess_dara: "Жриця Дара"
 
 THU_tenzfur_thunderbringer: "Тензфур Тандербринґер"
 
 TSV_phaenon_vollenhoven:0 "Phaenon Vollenhoven"
-TSV_general_ceraon_hattingh:0 "General Ceraon Hattingh"
+TSV_general_ceraon_hattingh: "Генерал Кераон Гаттінг"
 TSV_auxesia_vorster:0 "Auxesia Vorster"
 TSV_chiron_langenhoven:0 "Chiron Langenhoven"
 
-WIN_Gilippo_Gappi:0 "Gilippo Gappi"
+WIN_Gilippo_Gappi: "Джіліппо Ґаппі"
 
-YMN_omar_bin_asim:0 "Omar bin Asim"
+YMN_omar_bin_asim: "Омар бін Асім" # (&)
 YMN_malik_bin_suleiman_alkindi:0 "Malik bin Suleiman Al-Kindi"
 YMN_saif_bin_salem_al_handala:0 "Saif bin Salem Al Handala"
 YMN_hamza_bin_yazan_alqais:0 "Hamza bin Yazan Al-Qais"
 
-ZAI_tin_zinan:0 "Tin Zinan"
-ZAI_gote:0 "Gote"
+ZAI_tin_zinan: "Тін Зінан" # (&)
+ZAI_gote: "Ґоте"
 ZAI_gote_desc:0 "Ali Muhammad bin Hasan bin Ladan bin Muhammad Farhan bin Aziz, better known as Gote, was born into a family of goat émigrés from old Tambelon. They had split with Grogar over issues of doctrine, and fearing his revenge, they had settled in the lands of Osqat, where Gote would be born in the town of Koltbylia. In the lands around it, the clan of goats had founded their own, unofficial community of "Goatistan", and his father was recognized by his fellow exiles as their leader.\n\nIn his youth, Gote's father had warned him about the mysteries of old Tambelon and told him the stories of Grogar's tyranny. His father gave him a rich education, in no doubt to have a worthy heir. However, as Gote grew up, he dismissed his father's teachings and wandered off towards the mystical lands of Azir, where legends had located the goat's homeland.\n\nAs fate would have it, Gote arrived just as Grogar regained his powers. Grogar saw an opportunity in having Gote serve him, and the young wanderer was easily fooled into his service. To this day, it is not entirely clear if Gote understands whom he is serving..."
-ZAI_pomni:0 "Pom"
-ZAI_gary:0 "Gary The Goated"
+ZAI_pomni: "Пом"
+ZAI_gary: "Ґері Козловський"
 ZAI_gary_desc:0 ""In the first age, in the first battle, when the shadows first lengthened, one stood.\n\nHe chose the path of perpetual torment.\n\nIn his ravenous hatred he found no peace, and with boiling blood he scoured the umbral plains, seeking vengeance against the twisted ponies who had robbed him of his glory.\n\nAnd those that tasted the bite of his axe named him...\n\nGary the Goated.""
 
-ZLU_shaka_khan:0 "Shaka Khan"
+ZLU_shaka_khan: "Шака Хан"
 ZLU_siphelele:0 "Siphelele"
 
-ZOO_akida_bomboko:0 "Akida Bomboko"
+ZOO_akida_bomboko: "Акіда Бомбоко"
