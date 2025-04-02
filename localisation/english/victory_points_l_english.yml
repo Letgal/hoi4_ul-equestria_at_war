@@ -604,6 +604,12 @@
  VICTORY_POINTS_19863: "Дромаґан"
  VICTORY_POINTS_17413: "Шікіто"
  VICTORY_POINTS_17864: "Гамагольм"
+ VICTORY_POINTS_18142: "Фраскал"
+ VICTORY_POINTS_17689: "Магорна"
+ VICTORY_POINTS_18115: "Гаарігус"
+ VICTORY_POINTS_18116: "Дітар"
+ VICTORY_POINTS_17832: "Деглер"
+ VICTORY_POINTS_17844: "Канелімпра"
  VICTORY_POINTS_17799: "Віірсті"
  VICTORY_POINTS_17802: "Валделанд"
  VICTORY_POINTS_18093: "Ентлершедпур"
@@ -801,6 +807,7 @@
  VICTORY_POINTS_4336: "Арагно"
  VICTORY_POINTS_19276: "Акрас"
  VICTORY_POINTS_849: "Боулдертон"
+ VICTORY_POINTS_15785: "Хіскерека" # (&)
  VICTORY_POINTS_4804: "Аламейн"
  VICTORY_POINTS_3653: "Перистополіс"
  VICTORY_POINTS_2333: "Фрустеберг"
@@ -819,3 +826,5 @@
  VICTORY_POINTS_13642: "Сабт-Шамейран"
  VICTORY_POINTS_6970: "Гаґґінґтон"
  VICTORY_POINTS_3574: "Іштапан"
+ VICTORY_POINTS_16377: "Узунбурун" # (&)
+ VICTORY_POINTS_6974: "Пентатома" # (&)
