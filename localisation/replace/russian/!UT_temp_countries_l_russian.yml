@@ -1163,6 +1163,10 @@
  great_nobody: "Великий імперський ніхто"
  great_nobody_lar: "$great_nobody$"
 
+ KARTHIN_CHN_fascism: "Римський протекторат" # К-н
+ KARTHIN_CHN_fascism_DEF: "Римський протекторат" # К-н
+ KARTHIN_CHN_fascism_ADJ: "Римськ"
+
 # country_CME
  CME_reunited_fascism: "Кемелкандська держава"
  CME_reunited_fascism_DEF: "Кемелкандська держава"
@@ -4152,18 +4156,18 @@
  JGF_communism_DEF: "Конфедерація озера Румер"
  JGF_communism_ADJ: "Румерськ"
 
- JKR_fascism: "Карфінська федерація"
- JKR_fascism_DEF: "Карфінська федерація"
- JKR_fascism_ADJ: "Карфінськ"
- JKR_democratic: "Карфінська федерація"
- JKR_democratic_DEF: "Карфінська федерація"
- JKR_democratic_ADJ: "Карфінськ"
- JKR_neutrality: "Карфінська федерація"
- JKR_neutrality_DEF: "Карфінська федерація"
- JKR_neutrality_ADJ: "Карфінськ"
- JKR_communism: "Карфінська федерація"
- JKR_communism_DEF: "Карфінська федерація"
- JKR_communism_ADJ: "Карфінськ"
+ JKR_fascism: "Римська федерація"
+ JKR_fascism_DEF: "Римська федерація"
+ JKR_fascism_ADJ: "Римськ"
+ JKR_democratic: "Римська федерація"
+ JKR_democratic_DEF: "Римська федерація"
+ JKR_democratic_ADJ: "Римськ"
+ JKR_neutrality: "Римська федерація"
+ JKR_neutrality_DEF: "Римська федерація"
+ JKR_neutrality_ADJ: "Римськ"
+ JKR_communism: "Римська федерація"
+ JKR_communism_DEF: "Римська федерація"
+ JKR_communism_ADJ: "Римськ"
 
  JOS_fascism: "Ост-Грифонська федеративна республіка"
  JOS_fascism_DEF: "Ост-Грифонська федеративна республіка"
