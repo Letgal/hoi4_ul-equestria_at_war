@@ -11,6 +11,12 @@
  magical_quarry_plural: "Маготехнічні кар'єри"
  magical_quarry_desc: "Ця споруда множить число ресурсів в області, де збудовано, на §Gx 1.25§!."
 
+ modern_nuclear_reactor: "$nuclear_reactor$ II покоління"
+ modern_nuclear_reactor_desc:0 "Это продвинутое предприятие обеспечивает государство смесью из обогащённого урана и кристаллов для производства ядерного оружия.\n\nКаждый ядерный реактор потребляет §R16§! £resources_strip|7 \n$reactor_resource_shortage$"
+
+ modern_commercial_nuclear_reactor: "$commercial_nuclear_reactor$ II покоління"
+ modern_commercial_nuclear_reactor_desc:0 "Это продвинутое предприятие обеспечивает государство смесью из обогащённого урана и кристаллов для производства ядерного оружия и вырабатывает электроэнергию для гражданской экономики.\n\nКаждый ядерный реактор потребляет §R18§! £resources_strip|7 \n$reactor_resource_shortage$"
+
 ### ПАМ'ЯТКИ ###
  landmark_queens_tower: "Вежа Королеви"
  landmark_queens_tower_plural: "$landmark_queens_tower$"

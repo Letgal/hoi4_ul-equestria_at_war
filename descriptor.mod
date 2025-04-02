@@ -1,9 +1,9 @@
 name = "Equestria at War: Українська локалізація (GitHub)"
 picture = "thumbnail.png"
-version = "2.3.1.6"
+version = "14.4.4"
 tags = {
 	"Translation"
-	"1.15"
+	"1.16"
 	"Ukrainian"
 }
 dependencies = {
@@ -12,5 +12,5 @@ dependencies = {
 	"Equestria at War"
 	"[EAW] Diarchy expanded"
 }
-supported_version = "1.15.*"
+supported_version = "1.16.*"
 path = "mod/hoi4_ul-equestria_at_war"

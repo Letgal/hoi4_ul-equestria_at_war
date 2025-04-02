@@ -3,7 +3,7 @@
  EAW_MENU_DISCORD: "Сервер Equestria at War у Discord"
  EAW_MENU_STEAMWORKSHOP: "Equestria at War у Майстерні Steam"
  EAW_MENU_VK: "Equestria at War у VK"
- maintheme: "$RedSparkWilzy-A_SMASHing_Adventure$"
+ maintheme: "Utopia (головна тема Anbennar)"
  NOT_EXIST: "Для Вас буде вибрана випадкова країна."
 
  #air_l
@@ -91,7 +91,7 @@
   TRIGGER_IS_NOT_IRONMAN: "Гра не запущена в режимі Ironpony"
   NUCLEAR_PRODUCTION_ETA: "Наступна $NUKE_TYPE|H$ зроблена на $PROGRESS|1G%$ і буде готова десь через $DAYS|G$ дн. У запасі: $NUM_COMPLETED|H$\n\n$reactor_resource_shortage$"
   NUCLEAR_PRODUCTION_NONE: "Наразі ми не виробляємо ядерні бомби..\n\n$reactor_resource_shortage$"
-  ACHIEVEMENTS_VIEW_LOCKED: "§RДосягнення доступні тільки в Ironpony!§!"
+  ACHIEVEMENTS_VIEW_LOCKED: "§RДосягнення з базової гри не можна заробляти грою в £eaw_text£ Equestria at War!§!" # (&)
   CONFIRMCONSOLIDATEUNITSAREENCIRCLED: "§RОбрані війська оточені; Ви втратите все їхнє оснащення та $VALUE|%0$ їхніх поні-ресурсів!§!"
   CONFIRMCONSOLIDATE_EQUIPMENT_GAIN_CONSOLIDATE_TITLE: "Це буде повернуто на §Hсклад§!/у §Hзапас поні-ресурсів§!:" # (&)
   CONSOLIDATE_TOOLTIP:0 "Merge understrength and damaged units. Consolidated units' experience is kept. Ponypower and equipment is added together." # (!)
@@ -127,6 +127,27 @@
   UNIT_LEVEL_18: "Загартовані IV"
   UNIT_LEVEL_19: "Загартовані V"
   UNIT_LEVEL_20: "Ветерани"
+  AIR_WING_LEVEL_0: "Новобранці I"
+  AIR_WING_LEVEL_1: "Новобранці II"
+  AIR_WING_LEVEL_2: "Новобранці III"
+  AIR_WING_LEVEL_3: "Новобранці IV"
+  AIR_WING_LEVEL_4: "Новобранці V"
+  AIR_WING_LEVEL_5: "Треновані I"
+  AIR_WING_LEVEL_6: "Треновані II"
+  AIR_WING_LEVEL_7: "Треновані III"
+  AIR_WING_LEVEL_8: "Треновані IV"
+  AIR_WING_LEVEL_9: "Треновані V"
+  AIR_WING_LEVEL_10: "Регулярні I"
+  AIR_WING_LEVEL_11: "Регулярні II"
+  AIR_WING_LEVEL_12: "Регулярні III"
+  AIR_WING_LEVEL_13: "Регулярні IV"
+  AIR_WING_LEVEL_14: "Регулярні V"
+  AIR_WING_LEVEL_15: "Загартовані I"
+  AIR_WING_LEVEL_16: "Загартовані II"
+  AIR_WING_LEVEL_17: "Загартовані III"
+  AIR_WING_LEVEL_18: "Загартовані IV"
+  AIR_WING_LEVEL_19: "Загартовані V"
+  AIR_WING_LEVEL_20: "Ветерани"
   SHIP_LEVEL_0: "Ненавчені I"
   SHIP_LEVEL_1: "Ненавчені II"
   SHIP_LEVEL_2: "Ненавчені III"
@@ -298,7 +319,7 @@
   FOCUS_FILTER_MANPOWER: "Поні-ресурси"
 
  #focus_l
-  RAJ_revive_the_screw_guns_effect: "Відкриває: §H$mountain_gun$§!\n£unit_artillery_brigade_icon_small §HАртилерія\n    Пагорби§!: Рух: §G+10%§!\n    §HГори§!: Рух: §G+15%§!\n£unit_anti_tank_brigade_icon_small §HПТА\n    Пагорби§!: Рух: §G+10%§!\n    §HГори§!: Рух: §G+15%§!"
+  RAJ_revive_the_screw_guns_effect: "Відкриває: §H$mountain_gun$§!\n£unit_artillery_brigade_icon_small §HАртилерія§!\n    §HПагорби§!: Рух: §G+10%§!\n    §HГори§!: Рух: §G+15%§!, Атака: §G+8%§!\n£unit_anti_tank_brigade_icon_small §HПТА§!\n    §HПагорби§!: Рух: §G+10%§!\n    §HГори§!: Рух: §G+15%§!, Атака: §G+8%§!"
   RAJ_jungle_training_effect: "Відкриває: §H$RAJ_jungle_training$§!\nУсі §Hсили спеціальних операцій\n    Джунглі§!\n      Атака: §G+5%§!\n      Рух: §G+10%§!\n"
   liberty_ethos_desc: "У цей час ідеологічних фанатиків, які хочуть задушити універсальні цінності, ми захистимо індивідуальні права та свободи."
   doctrine_effort_desc: "Військові доктрини, що визначали наземний бій у давнину, застаріли. Ми мусимо поставити наших найкращих людей на формування військової думки завтрашнього дня."

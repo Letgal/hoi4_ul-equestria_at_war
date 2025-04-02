@@ -15,6 +15,7 @@
 #########################
 ### Scripted tooltips ###
 #########################
+ SP_BUILDING_MISSING_TECH: "Бракує необхідної технології $TECH|Y$"
  land_facility_construction_tt: "Якщо в області §Y$temp_facility_state_loc$§! нема інших §Yекспериментальних комплексів§!, ми отримаємо §Yінститут наземної війни§! в провінції §Y$temp_facility_province_loc$§!.\n\n"
  air_facility_construction_tt: "Якщо в області §Y$temp_facility_state_loc$§! нема інших §Yекспериментальних комплексів§!, ми отримаємо §Yінститут аеродинаміки й авіоніки§! в провінції §Y$temp_facility_province_loc$§!.\n\n"
  naval_facility_construction_tt: "Якщо в області §Y$temp_facility_state_loc$§! нема інших §Yекспериментальних комплексів§!, ми отримаємо §Yінститут морської інженерії§! в провінції §Y$temp_facility_province_loc$§!.\n\n"
@@ -64,6 +65,9 @@ sp_land_generic_reward_infantry_bonus_3: "Advanced Squad Equipment"
 ########################
 ### NUCLEAR PROJECTS ###
 ########################
+ sp_modern_commercial_nuclear_reactor: "$commercial_nuclear_reactor$ II покоління"
+ sp_modern_commercial_nuclear_reactor_desc:0 "The first civilian nuclear reactors were rather impractical, serving more as proofs of concept than true industrial powerhouses. A new generation of reactor will reshape the civilian economy and military strategic planning alike!"
+
  sp_nuclear_clean_nuclear_bomb: "Miniaturized Nuclear Bomb"
  sp_nuclear_clean_nuclear_bomb_desc: "A low-yield and relatively 'clean' bomb, still capable of vaporizing enemy tanks and airfields while not leaving excessive lingering radiation, has come to our attention. Ideal for tactical use, this would increase our versatility significantly."
  CLEAN_NUCLEAR_BOMB_TT: "When deploying an §YAtomic Bomb§!, §Gthe Nuclear Fallout will be shorter and less severe.§!\n\nAllows for deploying §YAtomic Bombs§! by Tactical Bomber!\n\n§GDoubles§! our production of §YAtomic Bombs§!!"
@@ -71,6 +75,11 @@ sp_land_generic_reward_infantry_bonus_3: "Advanced Squad Equipment"
  sp_nuclear_cobalt_bomb: "Salted Thermonuclear Bomb"
  sp_nuclear_cobalt_bomb_desc: "Even the thermonuclear bomb now may be outclassed, as a disturbing new proposal has come to us: the creation of a radiological weapon to deliberately create huge amounts of fallout. Such a weapon would expand its reach beyond the area targeted and irradiate a huge region. This weapon would grant tremendous clout to the one wielding it, though hopefully we'd never have to actually use it..."
  COBALT_BOMB_RADIATION_TT: "When deploying a §YThermonuclear Bomb§!, §Rall neighboring states will receive radiation as well.§!\n\n§YShould we irradiate a neutral country,§! §Rthey may retaliate.§!"
+
+ sp_nuclear_clean_nuclear_bomb_speed_factor:0 "Темпи дослідження Miniaturized Nuclear Bomb"
+ sp_nuclear_clean_nuclear_bomb_speed_factor_tt: " $sp_nuclear_clean_nuclear_bomb_speed_factor$: $RIGHT|+=%1$"
+ sp_nuclear_cobalt_bomb_speed_factor:0 "Темпи дослідження Salted Thermonuclear Bomb"
+ sp_nuclear_cobalt_bomb_speed_factor_tt: " $sp_nuclear_cobalt_bomb_speed_factor$: $RIGHT|+=%1$"
 
 ###############################
 ### NUCLEAR PROJECT REWARDS ###
@@ -89,6 +98,9 @@ sp_land_generic_reward_infantry_bonus_3: "Advanced Squad Equipment"
  sp_rockets_air_launched_cruise_missile_desc: "Bombers still have to fly over enemy territory to deliver their payload, and static anti-air defenses are becoming dangerous once more. Mounting cruise missiles under the wing would allow for some preemptive destruction!"
 
  SP_ROCKETS_ESCORT_EFFICIENCY: "$MODIFIER_AIR_ESCORT_EFFICIENCY$: §G+10%§!"
+
+ sp_rockets_advanced_guidance: "Удосконалене наведення"
+ sp_rockets_advanced_guidance_desc:0 "As rocketry continues to progress, a new era of missiles is emerging. Longer-range, more accurate, and more effective, these new weapons will dominate the battlefield."
 
 ##############################
 ### ROCKET PROJECT REWARDS ###
@@ -125,6 +137,12 @@ sp_land_generic_reward_infantry_bonus_3: "Advanced Squad Equipment"
  sp_air_gunship_desc: "Retrofitting high-capacity rotary machine guns and autocannons onto strategic airlifters would allow for incredible anti-infantry capabilities once air superiority is secured. While unlike to see widescale production, even a few would be extremely effective."
  sp_air_gunship_bba_custom_tt: "$MODIFIER_AIR_CAS_ORG_DAMAGE_FACTOR$ §G+5%§!"
  sp_air_gunship_custom_tt: "$MODIFIER_AIR_CAS_ORG_DAMAGE_FACTOR$ §G+5%§!\n$MODIFIER_TAC_BOMBING_FACTOR$ §G+20%§!"
+
+ sp_air_advanced_helicopter: "Удосконалений вертоліт"
+ sp_air_advanced_helicopter_desc:0 "The first helicopters were hesitant forays into the field. With centrifugal jet engines, improved armor, and heavier armament, the next generation of helicopters will revolutionarize warfare."
+ helicopter_equipment_2: "Удосконалений вертоліт"
+ helicopter_equipment_2_short: "Удоскон. вертоліт"
+ helicopter_equipment_2_desc:0 "A flying craft that relies on rapidly spinning rotors rather than wings and forward momentum. This means it can hover in place, and has more control over vertical changes in height."
 
 ###########################
 ### AIR PROJECT REWARDS ###
@@ -238,7 +256,7 @@ sp_land_generic_reward_infantry_bonus_3: "Advanced Squad Equipment"
 
   sp_universal_translator: "Універсальний перекладач"
   sp_universal_translator_desc:0 "Griffons are perhaps the most linguistically diverse species on the entire planet. It is no surprise - for this and for other reasons - that historically we have relied more on conflict than conversation to resolve our disputes. To make some headway in rectifying this, scientists have proposed that a correctly enchanted radio headset and microphone could allow our kind to properly communicate regardless of their native language. Future miniaturisations of the technology could also produce a more compact device, but for now we'll settle for putting magitech inside our existing military radio equipment."
-  sp_explain_universal_translator:0 "Adds the §YUniversal Translator§! dynamic modifier, which grants bonuses depending how many significant regional capitals in Griffonia you or your puppets own. The regional capitals are as follows:\n — Griffenheim, Herzland:\n  - Division Organisation: +5.00%\n\n — Aquila, Aquileia:\n  - Research Speed: +5.00%\n\n — Karthin, Southern Griffonia:\n  - Resource Gain Efficiency: +15.00%\n\n — Griffonstone, Central Griffonia:\n  - Daily Political Power: +0.10\n  - Stability: +10%\n\n — Sydia, Evi Valley:\n  - Monthly Population: +30.00%\n\n — Cloudbury, Northern Griffonia:\n  - Supply Consumption: -10.00%"
+  sp_explain_universal_translator:0 "Adds the §YUniversal Translator§! dynamic modifier, which grants bonuses depending how many significant regional capitals in Griffonia you or your puppets own. The regional capitals are as follows:\n — Griffenheim, Herzland:\n  - Division Organisation: +5.00%\n\n — Aquila, Aquileia:\n  - Research Speed: +5.00%\n\n — Rome, Southern Griffonia:\n  - Resource Gain Efficiency: +15.00%\n\n — Griffonstone, Central Griffonia:\n  - Daily Political Power: +0.10\n  - Stability: +10%\n\n — Sydia, Evi Valley:\n  - Monthly Population: +30.00%\n\n — Cloudbury, Northern Griffonia:\n  - Supply Consumption: -10.00%" # К-н
 
   griffon_universal_translator_modifier: "$sp_universal_translator$"
   griffon_universal_translator_modifier_desc: "$sp_universal_translator_desc$"

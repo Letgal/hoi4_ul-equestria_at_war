@@ -93,6 +93,8 @@
  ZAI_special_occupation:0 "Правление монстров"
  NE_crackdown_on_populace_tooltip:0 "Открывает новый §RОккупационный закон§!.\n"
 
+ DEL_undead_occupation:0 "Оккупация нежити"
+
  WIT_harvest_complete:0 "Биомасса в этом регионе была собрана"
  WIT_harvest_magic_complete:0 "Магическая энергия в этом регионе была собрана"
 

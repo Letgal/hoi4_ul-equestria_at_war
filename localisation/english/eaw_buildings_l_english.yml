@@ -11,6 +11,12 @@
  magical_quarry_plural: "Маготехнічні кар'єри"
  magical_quarry_desc: "Ця споруда множить число ресурсів в області, де збудовано, на §Gx 1.25§!."
 
+ modern_nuclear_reactor: "$nuclear_reactor$ II покоління"
+ modern_nuclear_reactor_desc:0 "This advanced building provides the state with enriched crystal-uranium for nuclear weapons.\n\nEach Nuclear Reactor consumes §R16§! £resources_strip|7 \n$reactor_resource_shortage$"
+
+ modern_commercial_nuclear_reactor: "$commercial_nuclear_reactor$ II покоління"
+ modern_commercial_nuclear_reactor_desc:0 "This advanced building provides the state with enriched crystal-uranium for nuclear weapons and produces electricity for the civilian economy.\n\nEach Nuclear Reactor consumes §R18§! £resources_strip|7 \n$reactor_resource_shortage$"
+
 ### ПАМ'ЯТКИ ###
  landmark_queens_tower: "Вежа Королеви"
  landmark_queens_tower_plural: "$landmark_queens_tower$"
@@ -82,7 +88,7 @@
 
  landmark_altar_of_fatherland: "Вівтар Батьківщини"
  landmark_altar_of_fatherland_plural: "$landmark_altar_of_fatherland$"
- landmark_altar_of_fatherland_desc:0 "Built on the site of an ancient Karthinian temple to Arcturius, the Altar of the Fatherland is a monolithic construction in central Karthin. The plans were first drawn up in 980 ALB but construction did not start in full until 990 ALB where the government approved the project after the victory in the Falcor War.\n\nThe Altar will be a large complex acting as a memorial, tomb, temple, and monument to all Wingbardians. The Falcor War memorial takes up a wing of the complex and there the Tomb of the Unknown Soldier resides. The central chamber is built from the ruins of the ancient temple of Arcturius and was planned to be reconsecrated as such, finally at the grand entrance a memorial to King Gumberto is planned to be placed after King Garibald Talonuel III gave the architects his blessing."
+ landmark_altar_of_fatherland_desc:0 "Built on the site of an ancient Roman temple to Arcturius, the Altar of the Fatherland is a monolithic construction in central Rome. The plans were first drawn up in 980 ALB but construction did not start in full until 990 ALB where the government approved the project after the victory in the Falcor War.\n\nThe Altar will be a large complex acting as a memorial, tomb, temple, and monument to all Italians. The Falcor War memorial takes up a wing of the complex and there the Tomb of the Unknown Soldier resides. The central chamber is built from the ruins of the ancient temple of Arcturius and was planned to be reconsecrated as such, finally at the grand entrance a memorial to King Umberto is planned to be placed after King Victor Emmanuel III gave the architects his blessing."
 
  landmark_temple_of_sphinx: "Піраміда Сфінкса"
  landmark_temple_of_sphinx_plural: "$landmark_temple_of_sphinx$"
