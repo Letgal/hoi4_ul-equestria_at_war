@@ -12,6 +12,12 @@
 
  ABY_taile_sehissie_clawomonid: "Тейле Сичассіє Клоомонід"
 
+# country_AES
+ AES_princess_zaida: "Зайда"
+
+# country_ALO
+ ALO_king_euzegoar: "Король Евзеґор"
+
 # country_ANG
  ANG_republic_fascism: "Енґріверське регентство"
  ANG_republic_fascism_DEF: "Енґріверське регентство"
@@ -846,6 +852,9 @@
  BAT_100PP_7FA: "§Y100§!£pol_power або §Y+7%§!£supremacy_texticon£"
  BAT_100PP_7FA_blocked: "§R100§!£pol_power або §Y+7%§!£supremacy_texticon£"
 
+# country_BLT
+ BLT_king_boltrus: "Король Болтрус"
+
 # country_BRF
  ### ПЕРСОНАЖІ ###
   #BRF_Kloseu_desc:0 "King Kloseu de Kissau is the first ruler of the Kingdom of Brodfeld. He became the Prince of Brodfeld in 963 ALB and was elected Domnitor (ruling prince) of Kivessin and Sydia in 965 ALB. In 973 ALB, when the Griffonian Empire was falling apart, Kloseu declared independence and claimed the title of King of Brodfeld. He was crowned in the Grand Temple of Eviliana in Kivessin by Prelate Denali.\n\nDuring his rule Brodfeld grew wealthier and became known as the ricebasket of Griffonia, yet blight caused the Great Famine in 995 ALB. After the economic crisis of the new millennium, Kloseu declared a state of emergency in 1001 ALB which granted him autocratic powers and cracked down on any disorder and dissent, restoring stability in Brodfeld.\n\nThe peace was brief, however, as in 1003 ALB an assassination attempt was made on him while he was spectating a military parade in Kivessin with his wife. He was merely wounded on his cheek, but his wife died in his embrace. Afterwards he blamed communists and banned all communist organizations, yet members of PCP resisted arrest, formed the PLA and rebelled. The civil war began."
@@ -1183,6 +1192,10 @@
  CME_reunited_communism: "Кемелкандська комуна"
  CME_reunited_communism_DEF: "Кемелкандська комуна"
  CME_reunited_communism_ADJ: "Кемелкандськ"
+
+ ### ПЕРСОНАЖІ ###
+  CME_high_chieftess_dromedar: "Верховна вождиця Дромедар"
+  CME_shavkat_qumtuyoq: "Шавкат Кумтуйок" # (&)
 
 # country_CNT
  CNT_centaur_race: "Раса кентаврів"
@@ -1539,6 +1552,9 @@
   CYA_state_schneespitzen: "Шнеешпіцен"
   CYA_state_greifland: "Ґрайфланд"
 
+# country_CZR
+ CZR_emperor_alokassa_i: "Імператор Алокасса I"
+
 # country_DED
  ### ПЕРСОНАЖІ ###
   # Лідери
@@ -1585,6 +1601,39 @@
 
  DED_VMP: "Королівство Опівночі"
  DED_VAM: "Королівство Вічності"
+
+# country_DEL_AF
+ ### ПЕРСОНАЖІ ###
+  DEL_AF_castan_ii_beastbane: "Кастан II Звіробій"
+  DEL_AF_castan_ii_beastbane_desc: "Так, це я — Кастан II Звіробій."
+  DEL_AF_undead_being: "Король-ліч"
+  DEL_AF_coco: "Коко Схоппенбур Потгітер"
+  DEL_AF_smooth_brain: "Гладкий мозок"
+  DEL_AF_mymy: "Маймай Схоппенбур"
+  DEL_AF_dr_zomboss: "Д-р Зомбосс"
+  DEL_AF_arthas_menethil: "Артас Менетил"
+  DEL_AF_lechuck: "ЛеЧак"
+  DEL_AF_purple_skelly: "Легіон"
+  DEL_AF_grim: "Ґрім"
+  DEL_AF_john_cena: "Джон Сіна"
+  DEL_AF_john_cena_desc: "You can't see him — his time is now."
+  DEL_AF_spy: "Мартін"
+  DEL_AF_silent_workhorse: "Мартіно"
+  DEL_AF_occultist: "Мартінес"
+  DEL_AF_prince_of_terror: "Бануа"
+  DEL_AF_plane_guy: "Повелитель грифонів"
+
+ ### МАПА ###
+  DEL_AF_castonath: "Кастонат"
+  DEL_AF_Castanor: "Кастанор"
+  DEL_AF_Castanor_DEF: "Кастанова імперія"
+  DEL_AF_Castanor_adj: "Кастанорськ"
+  DEL_AF_wasteland: "Некромантична пустка"
+  DEL_AF_wasteland_DEF: "Некромантична пустка"
+  DEL_AF_wasteland_adj: "Некромантичн"
+  DEL_AF_damesear: "Дамесеар"
+  DEL_AF_damenath: "Даменат"
+  DEL_AF_royvibobb: "Кін Стар"
 
 # country_DMT
  DMT_fascism: "Діамантова Гора"
@@ -4696,10 +4745,10 @@
   KLG_fascism_party: "Жорстока мафія"
   KLG_fascism_party_long: "Жорстокі члени мафії"
 
- KLG_verko:0 "Verko"
- KLG_capper:0 "Capper"
- KLG_hammer_steel:0 "Hammer Steel"
- KLG_grumm:0 "Grumm"
+ KLG_verko: "Верко"
+ KLG_capper: "Каппер"
+ KLG_hammer_steel: "Гаммер Стіл"
+ KLG_grumm: "Ґрумм"
 
 # country_LAK
  ### ПЕРСОНАЖІ ###
@@ -5396,6 +5445,17 @@
   MNC_guntbert_greyfeather: "Ґунтберт Ґрейфезер"
   MNC_einar_steelbeak: "Ейнар Стілбік"
   MNC_istvan_firebeak: "Іштван Файрбік"
+
+# country_MQA
+ ### ПЕРСОНАЖІ ###
+  # Фонетика неоднозначна
+  MQA_ceyda_vatosoa: "Джейда Ватосоа"
+  MQA_yuce_ranomasina: "Юдже Раномасіна"
+  MQA_rainilaiarivony: "Райнілаярівони" # (&)
+  MQA_celik_varatra: "Челік Варатра"
+  MQA_aziz_rakoto: "Азіз Ракото"
+  MQA_beyza_fasika: "Бейза Фасіка"
+  MQA_derya_orana: "Дер'я Орана"
 
 # country_NCH
  ### УРЯД ###
