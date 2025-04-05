@@ -121,11 +121,11 @@
  #(Unused?) transport_plane_equipment_short:0 "Early Transport"
  transport_plane_equipment_desc:0 "To landbound races, the ubiquity of air transport amongst flying races may seem odd. However, kitted out fliers cannot travel long distances without exhaustion. Modern fliers travel most of the distance by plane, jump out, and safely glide to the landing zone."
  transport_plane_equipment_1: "Базовий транспортний літак"
- transport_plane_equipment_1_short: "Базовий транспорт"
+ transport_plane_equipment_1_short: "Баз. транспорт"
  #(Unused?) transport_plane_equipment_1_desc:0 "To landbound races, the ubiquity of air transport amongst flying races may seem odd. However, kitted out fliers cannot travel long distances without exhaustion. Modern fliers travel most of the distance by plane, jump out, and safely glide to the landing zone."
  transport_plane_equipment_1_desc:0 "To landbound races, the ubiquity of air transport amongst flying races may seem odd. However, kitted out fliers cannot travel long distances without exhaustion. Modern fliers travel most of the distance by plane, jump out, and safely glide to the landing zone."
  transport_plane_equipment_2: "Поліпшений транспортний літак"
- transport_plane_equipment_2_short: "Поліпшений транспорт"
+ transport_plane_equipment_2_short: "Поліпш. транспорт"
  transport_plane_equipment_2_desc:0 "The inherent value of transport planes has made itself evident, and we can do much more to improve the speed, survivability, and operational range of this aircraft category. The strengthening of the fuselage and refinement of its aerodynamic form exponentially increases the aircraft's performance, allowing it to reach distances at a considerably higher speed than previous models."
  #(Unused?) transport_plane_equipment_2_desc:0 "This a test"
  transport_plane_equipment_3: "Сучасний транспортний літак"
@@ -133,11 +133,11 @@
  transport_plane_equipment_3_desc:0 "We can take further steps to enhance the long-distance characteristics of our transport planes. With an improved understanding of avionic designs and aircraft construction, the newest iteration of transport planes can reach even further distances at even greater speeds without incurring major costs. These flying workhorses will serve our paratrooper and airborne units well, no matter where they are needed!"
 
 #Misc. Planes#
- scout_plane_equipment_1: "Базовий розвідувальний літак"
- scout_plane_equipment_1_short: "Базовий розвідлітак"
+ scout_plane_equipment_1: "Базовий літак-розвідник"
+ scout_plane_equipment_1_short: "Баз. розвідник"
  scout_plane_equipment_1_desc:0 "Previously, most aerial reconnaissance was done personally by winged creatures such as griffons and pegasi flying high. This, however, required incredibly fit and well-trained scouts. Planes can fly considerably higher and mount specially designed high-quality cameras that can take detailed photos while being substantially more survivable."
- scout_plane_equipment_2: "Поліпшений розвідувальний літак"
- scout_plane_equipment_2_short: "Поліпшений розвідлітак"
+ scout_plane_equipment_2: "Поліпшений літак-розвідник"
+ scout_plane_equipment_2_short: "Поліпш. розвідник"
  scout_plane_equipment_2_desc:0 "Aerial reconnaissance has grown in importance, and the information a scout plane can obtain is vital to the enemy. This is why dedicated reconnaissance aircraft should strive for stealth to keep attention off just long enough to carry out their mission, be it by mounting a quieter engine, achieving a higher operational ceiling, or by something as simple as disguising the plane as a civilian aircraft."
 
 
