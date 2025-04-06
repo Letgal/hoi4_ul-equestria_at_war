@@ -412,7 +412,7 @@
  gryphianhost.100.d:0 "Наші правителі у Прайвені вимагають анексію. Ми можемо протистояти, але це може бути даремно."
  gryphianhost.100.a:0 "Ми сидітимо смирно"
  gryphianhost.100.b:0 "Ми скористуємося нашими можливостями"
- gryphianhost.102.t:0 "[.PRYRaidTitle]"
+ gryphianhost.102.t:0 "[Root.PRYRaidTitle]"
  gryphianhost.102.d:0 "[Root.PRYRaidDesc]"
  gryphianhost.102.a:0 "Набіг вдався!"
  gryphianhost.102.b:0 "Набіг провалився!"
