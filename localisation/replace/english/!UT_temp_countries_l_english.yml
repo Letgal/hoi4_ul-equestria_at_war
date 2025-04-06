@@ -1175,9 +1175,9 @@
  great_nobody: "Великий імперський ніхто"
  great_nobody_lar: "$great_nobody$"
 
- KARTHIN_CHN_fascism: "Римський протекторат" # К-н
- KARTHIN_CHN_fascism_DEF: "Римський протекторат" # К-н
- KARTHIN_CHN_fascism_ADJ: "Римськ"
+ KARTHIN_CHN_fascism: "Карфінський протекторат"
+ KARTHIN_CHN_fascism_DEF: "Карфінський протекторат"
+ KARTHIN_CHN_fascism_ADJ: "Карфінськ"
 
 # country_CME
  CME_reunited_fascism: "Кемелкандська держава"
@@ -1634,6 +1634,7 @@
   DEL_AF_damesear: "Дамесеар"
   DEL_AF_damenath: "Даменат"
   DEL_AF_royvibobb: "Кін Стар"
+  DEL_AF_japsterdam: "Япстердам" # 13371
 
 # country_DMT
  DMT_fascism: "Діамантова Гора"
@@ -4208,18 +4209,18 @@
  JGF_communism_DEF: "Конфедерація озера Румер"
  JGF_communism_ADJ: "Румерськ"
 
- JKR_fascism: "Римська федерація"
- JKR_fascism_DEF: "Римська федерація"
- JKR_fascism_ADJ: "Римськ"
- JKR_democratic: "Римська федерація"
- JKR_democratic_DEF: "Римська федерація"
- JKR_democratic_ADJ: "Римськ"
- JKR_neutrality: "Римська федерація"
- JKR_neutrality_DEF: "Римська федерація"
- JKR_neutrality_ADJ: "Римськ"
- JKR_communism: "Римська федерація"
- JKR_communism_DEF: "Римська федерація"
- JKR_communism_ADJ: "Римськ"
+ JKR_fascism: "Карфінська федерація"
+ JKR_fascism_DEF: "Карфінська федерація"
+ JKR_fascism_ADJ: "Карфінськ"
+ JKR_democratic: "Карфінська федерація"
+ JKR_democratic_DEF: "Карфінська федерація"
+ JKR_democratic_ADJ: "Карфінськ"
+ JKR_neutrality: "Карфінська федерація"
+ JKR_neutrality_DEF: "Карфінська федерація"
+ JKR_neutrality_ADJ: "Карфінськ"
+ JKR_communism: "Карфінська федерація"
+ JKR_communism_DEF: "Карфінська федерація"
+ JKR_communism_ADJ: "Карфінськ"
 
  JOS_fascism: "Ост-Грифонська федеративна республіка"
  JOS_fascism_DEF: "Ост-Грифонська федеративна республіка"
