@@ -1167,7 +1167,7 @@
 
  queen_helvia: "Королева Дітрісіума"
  queen_aurantia: "Королева Ліктіди"
- queen_yaria: "Королева Сорайта"
+ queen_yaria: "Королева Соріфа" # Ѳ
  queen_argynnis: "Королева Вракса"
  great_nobody: "Великий імперський ніхто"
  great_nobody_lar: "$great_nobody$"
@@ -5843,9 +5843,9 @@
  PLB_schizo_puppet_fascism_DEF: "Гіперберія"
  PLB_schizo_puppet_fascism_ADJ: "Гіперберійськ"
 
- PLB_soryth_fascism: "Великий Сорайт"
- PLB_soryth_fascism_DEF: "Великий Сорайт"
- PLB_soryth_fascism_ADJ: "Сорайтськ"
+ PLB_soryth_fascism: "Великий Соріф" # Ѳ
+ PLB_soryth_fascism_DEF: "Великий Соріф" # Ѳ
+ PLB_soryth_fascism_ADJ: "Соріфськ" # Ѳ
 
  PLB_northern_republic_fascism: "Північна Конфедерація"
  PLB_northern_republic_fascism_DEF: "Північна Федерація"
@@ -5891,9 +5891,9 @@
  GRF_PLB_puppet_neutrality_DEF: "Пташина Республіка"
  GRF_PLB_puppet_neutrality_ADJ: "Пташин"
 
- CCN_PLB_puppet_neutrality: "Сорайтська республіка"
- CCN_PLB_puppet_neutrality_DEF: "Чейнджлінзька республіка Сорайт"
- CCN_PLB_puppet_neutrality_ADJ: "Сорайтськ"
+ CCN_PLB_puppet_neutrality: "Соріфська республіка" # Ѳ
+ CCN_PLB_puppet_neutrality_DEF: "Чейнджлінзька республіка Соріф" # Ѳ
+ CCN_PLB_puppet_neutrality_ADJ: "Соріфськ" # Ѳ
 
  PLB_GRF_owlbears_fascism: "Володарство Совведмедів"
  PLB_GRF_owlbears_fascism_DEF: "Володарство Совведмедів"
