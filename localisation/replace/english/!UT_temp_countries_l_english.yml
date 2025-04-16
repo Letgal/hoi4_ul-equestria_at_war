@@ -1070,6 +1070,11 @@
   CCN_Thorax: "Кейсарій Торакс"
 
  changeling_spies: "Шпигуни-чейнджлінґи"
+ UPP:0 "UPC Congress"
+ CLF:0 "CLF Militia"
+ internal_disputes: "Внутрішні суперечки"
+ blackarmy: "Чорнармія"
+ covert_agents: "Шпигунська мережа"
 
 # country_CES
  ### РІШЕННЯ ###
