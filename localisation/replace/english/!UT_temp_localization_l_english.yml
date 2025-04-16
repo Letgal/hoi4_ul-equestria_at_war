@@ -39,6 +39,9 @@
  FOURTH_CONTENT_FLAG:0 "§LWhen the Lunar Empire proclaimed its dominance over Southeastern Equestria, the reality of its loose control became apparent when multiple resistance movements formed. One such movement is the Celestial Resistance, led by the worldwide famous storybook character Daring Do. The odds may be against them, but with such a legendary figure leading the charge, they might just earn their happy ending. After all, heroes never lose!\n\n§YNot available at game start - Play as Equestria and trigger the Lunar Civil War to unlock this country.§!"
  HIGHLIGHTS_FULL_PATCH_REMINDER: "Повний список змін можна знайти у грі на вітальному екрані держави."
 
+# eaw_cat_techs
+ cat_race: "Раса абіссинців"
+
 # eaw_deer_techs
  seer_tech: "Віщування"
  seer_tech_research: "Швидкість дослідження віщування"
@@ -255,8 +258,10 @@
   RULE_OPTION_EOG_APRIL_FOOL: "ЗА ІМПЕРАТОРА!"
  ABY_APRIL_FOOL_STATUS: "Каценрайх"
   RULE_OPTION_ABY_APRIL_FOOL: "Кіт із далекого космосу" # Кац
+  RULE_OPTION_ABY_APRIL_FOOL_HARD: "§RВажкий режим§!: Дика поїздочка кайзера"
 
 # eaw_kirin_techs
+ kirin_race: "Раса кірінів"
  kirin_folder: "Технології кірінів"
  kirin_folder_desc: "Промислові, соціальні та військові технології, притаманні расі §Yкірінів§!."
  kirin_tech: "Расові технології кірінів"
@@ -359,6 +364,9 @@
 
  intercontinental_maritime_patrol_plane: "Міжконтинентальний морський патрульний бомбардувальник"
  intercontinental_maritime_patrol_plane_desc: ""
+
+# eaw_yak_techs
+ yak_race: "Раса яків"
 
 # eaw_zebra_tech
  zebra_folder: "Технології зебр"

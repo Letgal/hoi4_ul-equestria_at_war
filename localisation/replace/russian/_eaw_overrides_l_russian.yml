@@ -3,7 +3,7 @@
  EAW_MENU_DISCORD: "Сервер Equestria at War у Discord"
  EAW_MENU_STEAMWORKSHOP: "Equestria at War у Майстерні Steam"
  EAW_MENU_VK: "Equestria at War у VK"
- maintheme: "$RedSpark_Wilzy-A_SMASHing_Adventure$"
+ maintheme: "$Resonant_Tonality-Quiet_Land$"
  NOT_EXIST: "Для Вас буде вибрана випадкова країна."
 
  #air_l
@@ -175,6 +175,14 @@
   FOCUS_SEARCH_TYPE_TEXT: "Пошук"
   CHOOSE_INSIGNIA: "Обрати емблему"
 
+  SCORCHED_EARTH_STATE_PREVENT_REPAIRS:0 "Ремонт приостановлен, т. к. в регионе действует тактика выжженной земли.."
+  SCORCHED_EARTH_STATE_DOES_NOT_CONTROL_STATE:1 "£trigger_no! Вы не контролируете этот регион.\n"
+  SCORCHED_EARTH_STATE_ALREADY_SCORCHED:1 "£trigger_no! В этом регионе уже действует тактика выжженной земли.\n"
+  SCORCHED_EARTH_STATE_CANT_AFFORD:1 "£trigger_no! Недостаточно политической власти.\n"
+  SCORCHED_EARTH_STATE_NO_SUPPLY_BUILDINGS:1 "trigger_no! В регионе нет зданий снабжения.\n"
+  SCORCHED_EARTH_STATE:2 "\n§HВыжженная земля§!\n\nИзбавиться от железнодорожного сообщения в этом регионе за £pol_power §H$COST$§!, повредив все железные дороги и лишив жителей возможности их чинить."
+  SCORCHED_EARTH_STATE_UNDO:0 "Поручить ремонт железных дорог в этом регионе."
+
  #country_l
   MANPOWER: "Поні-ресурси"
   SERVICE_MANPOWER: "£manpower_texticon£ Службові поні-ресурси:"
@@ -202,6 +210,8 @@
   MANPOWER_PROVINCE_TOOLTIP: "Поні-ресурси: $VAL|*Y$"
   NAVAL_SERVICE_MANPOWER_DESC: "Службові поні-ресурси, необхідні для підтримання працездатності нашого флоту."
   AIR_SERVICE_MANPOWER_DESC: "Службові поні-ресурси, необхідні для підтримання працездатності нашої авіації."
+  MANPOWER_RAILWAY_GUN:0 "Обслуживающий персонал железнодорожного орудия"
+  MANPOWER_RAILWAY_GUN_DESC:0 "§TЭтому §Hжелезнодорожному орудию§! необходимо $AMOUNT|G$ ед. обслуживающего персонала.§!"
 
  #deployment_l
   CONVEYOR_MANPOWER_NEED: "Необхідні поні-ресурси: $AMOUNT|H$"
@@ -567,7 +577,12 @@
   tsars_puppet:0 "Speaker at the Gate"
   SWI_soviet_spy: "Сталліонградський шпигун"
   the_director: "Директор"
-  operative_master_interrogator_desc:1 "Этот агент может разговорить кого угодно."
+  substance_addict_desc:1 "§LПристрастие к наркотикам явно изменило рассудок этой личности, причём не в лучшую сторону.§!"
+  stalin_father_of_nations: "Батько націй"
+  operative_skill_1: "Новобранець"
+  operative_master_interrogator_desc: "Цей агент може розговорити будь-кого."
+  marxist_priest: "Священик-марксист"
+  marxist_philosopher: "Філософ-марксист"
 
  #triggers_l
   TRIGGER_HAS_ARMY_MANPOWER_AT_LEAST: "Не менш ніж $AMOUNT|*2H$ поні-ресурсів у розгорнутих дивізіях"
@@ -705,7 +720,7 @@
   LOADING_HISTORY: "Підписуємо Кольтстрімський договір"
   LOAD_EVENTS: "Програємо Фалькорську війну"
   LOAD_INIT: "Стагнуємо гармонію"
-  LOAD_FLAGS: "НИЩИМО котопташок"
+  LOAD_FLAGS: "Миримо котів і собак"
   INIT_GAMESTATE: "Знімаємо прокляття з Кристальної Імперії"
   CREATING_CHKSUM: "Видаляємо Дискорда"
   GENERATING_GRADIENT_BORDERS: "Пишемо довідник Твінкл Спрінкл"

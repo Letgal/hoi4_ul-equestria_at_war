@@ -89,6 +89,11 @@ reclaim_the_everfree_forest_decision: "Повернути Вічнодикий �
  little_griff_mountain_steel: "Збільшити видобуток сталі в Малогрифських горах"
  windford_iron: "Залізні шахти Віндфорда"
 
+ oromeowia_oil_field_decision:0 "Oil Wells in Oromeowia"
+ katoum_aluminium_mines:0 "Prospect for Bauxite in Katoum"
+ perkele_oil_wells:0 "Drill for Oil in Purrk'ele"
+ meowuak_tungsten_mines:0 "Exploit Wolframite Deposits in Meowuak"
+
  develop_vermilion_basin_tungsten: "Вольфрамові шахти Кіноварних гір"
  develop_vermilion_basin_tungsten_desc:0 "Божественні гори, що оточують батьківщину всіх кірінів, багаті на такі корисні копалини, як вольфрам, шеєліт та інші вольфрамові руди. У сполуці з нашими методами збагачення, вилучення з них вольфраму, Кіноварні гори дадуть нам конкурентну перевагу на світовому ринку дорогоцінних металів."
  develop_vermilion_basin_crystals: "Кристальні шахти Кіноварних гір"
@@ -332,6 +337,10 @@ KAR_attack_west_cat: "Експансія на захід"
  decision_cost_pp_50_manpower_2000: "£manpower_icon£ §Y2000§! £pol_power£ §Y50§!"
  decision_cost_pp_50_manpower_2000_blocked: "£manpower_icon£ §R2000§! £pol_power£ §R50§!"
  decision_cost_pp_50_manpower_2000_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostPP50Manpower2000]"
+
+ decision_cost_pp_25_manpower_2500: "£manpower_icon£ §Y2500§! £pol_power£ §Y25§!"
+ decision_cost_pp_25_manpower_2500_blocked: "£manpower_icon£ §R2500§! £pol_power£ §R25§!"
+ decision_cost_pp_25_manpower_2500_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostPP25Manpower2500]"
 
  decision_cost_pp_70_manpower_500: "£manpower_icon£ §Y500§! £pol_power£ §Y70§!"
  decision_cost_pp_70_manpower_500_blocked: "£manpower_icon£ §R500§! £pol_power£ §R70§!"

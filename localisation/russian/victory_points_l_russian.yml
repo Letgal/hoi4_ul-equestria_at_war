@@ -364,7 +364,7 @@
  VICTORY_POINTS_12133: "Луле"
  VICTORY_POINTS_7331: "Ріапорту"
  VICTORY_POINTS_15702: "Фурара"
- VICTORY_POINTS_15696: "Дире-Нява"
+ VICTORY_POINTS_15696: "Дире-Лапва"
  VICTORY_POINTS_15878: "Котемте"
  VICTORY_POINTS_15769: "Асмурра"
  VICTORY_POINTS_7512: "Ґарнейта"
@@ -418,6 +418,7 @@
  VICTORY_POINTS_2345: "Пуерто-Кабальйо"
  VICTORY_POINTS_1935: "Луна-де-Компостела"
  VICTORY_POINTS_11373: "Уулсійн-Хооронд"
+ VICTORY_POINTS_9325: "Болор-Уул"
  VICTORY_POINTS_297: "Ґолійґ-Хуваах"
  VICTORY_POINTS_9682: "Аріун-Ордон"
  VICTORY_POINTS_2386: "Муррґади"
@@ -828,3 +829,5 @@
  VICTORY_POINTS_3574: "Іштапан"
  VICTORY_POINTS_16377: "Узунбурун" # (&)
  VICTORY_POINTS_6974: "Пентатома" # (&)
+ VICTORY_POINTS_774: "Ґерріди" # (&)
+ VICTORY_POINTS_17918: "Мейргана" # (&)

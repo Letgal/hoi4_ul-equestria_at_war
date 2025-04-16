@@ -70,9 +70,9 @@
  GetTNOMaintext_CFR_CRF: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! розчавила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в процесі §YКризи Багряної протоки§!."
  GetTNOMaintext_CFR_RRA: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! розчавила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в процесі §YПовстання Праведного володарства§!."
 
- GetTNOMaintext_ABY_AF_kattail:0 "§Y[?winning_country^peace_gui_index.GetNameWithFlag]§! has taken over  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! as part of Kaiser Kattail's bid for world domination." # (!)
- GetTNOMaintext_ABY_AF_early_kattail:0 "§Y[?winning_country^peace_gui_index.GetNameWithFlag]§! has conquered  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! as part of Kaiser Kattail's bid for Abyssinian greatness." # (!)
- GetTNOMaintext_ABY_AF_beats_UFS:0 "§Y[?winning_country^peace_gui_index.GetNameWithFlag]§! has at last vanquished  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!, ultimately sealing the world's fate." # (!)
+ GetTNOMaintext_KTZ_kattail:0 "§Y[?winning_country^peace_gui_index.GetNameWithFlag]§! has taken over  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! as part of Kaiser Kattail's bid for world domination." # (!)
+ GetTNOMaintext_KTZ_early_kattail:0 "§Y[?winning_country^peace_gui_index.GetNameWithFlag]§! has conquered  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! as part of Kaiser Kattail's bid for Abyssinian greatness." # (!)
+ GetTNOMaintext_KTZ_beats_UFS:0 "§Y[?winning_country^peace_gui_index.GetNameWithFlag]§! has at last vanquished  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!, ultimately sealing the world's fate." # (!)
 
  GetTNOMaintext_unknown: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! захопила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! та випустила своїх чудовиськ на безпомічне населення."
  GetTNOMaintext_unknown_2: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! захопила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!.\nПодзвін лунає по всіх нас."
@@ -217,6 +217,11 @@ GetTNOReference_TRO: "А виявлося, що він шахрай."
 GetTNOReference_MZN: "Вона була права, та не могла їх урятувати."
 GetTNOReference_WIN: "Помилка виправлена."
 GetTNOReference_CTL: "Загарбники чи визволителі — в усіх один кінець."
+GetTNOReference_ABY:0 "Your freedom will never be touched, as your mountains are defiant!" # and your natives do not fear any enemy
+GetTNOReference_ABY_patriots:0 "I will sacrifice all nine of my lives for Abyssinia!"
+GetTNOReference_ABY_slaves:0 "I'd rather die trying to take them down than giving them what they want."
+GetTNOReference_ABY_donkeystan:0 "Our hope is not yet lost, the hope of one thousand years."
+GetTNOReference_MDL:0 "Yesterday they were kings in their own homes, but today they are slaves." # in the land of disbelief
 GetTNOReference_ZAI: "Деякі секрети краще залишити в пісках."
 GetTNOReference_ZAI_2: "Менше лихо — більше не варіант."
 GetTNOReference_ZAI_3: "Смерть — це лише початок."
@@ -249,6 +254,6 @@ GetTNOReference_CRF: "Тризуб відкриває ще одну рану."
 GetTNOReference_RRA: "Моровиця шириться Кірією."
 
 GetTNOReference_UFS: "Вони віддали все, але цього було недостатньо.\nТож, божевільний кайзер поглядає на зорі..."
-GetTNOReference_ABY_AF: "Іще... один... цикл..."
+GetTNOReference_KTZ: "Іще... один... цикл..."
 
 GetTNOReference_default: "Війна — це Тартар."
