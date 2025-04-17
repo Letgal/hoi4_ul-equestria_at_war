@@ -43,7 +43,7 @@
 + `country_LSP` (переклав *Green Kitten*)
 + `country_MIT` (переклав *Green Kitten*)
 + `country_MTA` (умовно)
-+ `country_north_zebrican_war`
++ `country_north_zebrican_war`<!--  (переклав… хто?) -->
 + `country_NLR` (переклав *Green Kitten*)
 + `country_NMS` (переклав *Green Kitten*)
 + `country_NTR`
@@ -79,7 +79,9 @@
 + `eaw_hippogriff_techs` (умовно)
 + `eaw_horse_techs`
 + `eaw_leaders` (зокрема переклав *ціктакомба*)
++ `eaw_music`
 + `eaw_musictoggle`
++ `eaw_old_music`
 + `eaw_parties` (умовно)
 + `eaw_pony_techs`
 + `eaw_production`
@@ -110,6 +112,8 @@
 + `country_AET`
 + `country_BAL`
 + `country_BAL_protectorate`
++ `country_EWI`
++ `country_HIP`
 + `country_JUN`?
 + `country_LSP`
 + `country_north_zebrican_war`
@@ -117,12 +121,3 @@
 + `country_NMS`
 + `country_VAN`
 + `country_WAR`?
-
-## Файли без змін
-+ `eaw_intelligence_agency_blocker`
-+ `eaw_music`
-+ `eaw_newspaper_headers`
-+ `eaw_old_music`
-+ `eaw_unitnames`
-+ `supply_area_names_overrides`
-+ `replace/country_MAN&ELF_overrides`
