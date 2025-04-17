@@ -34,6 +34,7 @@
 + `country_FAT` (переклав *StasJesus*)
 + `country_GFF` (умовно; переклав *Green Kitten*)
 + `country_GRF` (переклав *StasJesus*)
++ `country_HIP` (умовно<!-- ; переклав… хто? -->)
 + `country_JEB`
 + `country_JFT`
 + `country_JRR`
