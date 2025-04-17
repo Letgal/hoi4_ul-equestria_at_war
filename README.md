@@ -29,6 +29,7 @@
 + `country_EQC_Reichsmandat`<!--  (переклав *Max*) -->
 + `country_EQC_SOL`<!--  (переклав *Max*) -->
 + `country_EQS`
++ `country_EWI`<!--  (переклав… хто?) -->
 + `country_ERI`
 + `country_EYR`
 + `country_FAT` (переклав *StasJesus*)
