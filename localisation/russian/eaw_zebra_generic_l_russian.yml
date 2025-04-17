@@ -212,7 +212,7 @@ generic_zebra_focus:0 "Стандартне дерево фокусів Зебр
  zebra_air_licenses:0 "Авіаційні ліцензії"
 
 ### ІНШЕ ###
- REE_ZZeth_desc:0 "Hey hey horses, Zzeth here."
+ REE_ZZeth_desc: "Hey hey horses, Zzeth here."
 
  ASS_unification_of_donkeykind:0 "Об'єднання ослиного роду"
 

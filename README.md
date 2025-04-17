@@ -86,6 +86,7 @@
 + `eaw_pony_techs`
 + `eaw_production`
 + `eaw_starting_warning_events`
++ `eaw_war`
 + `eaw_zebra_generic` (переклав *Daybreaker*)
 + `loading_tips`
 + `parties`<!--  (переклав *Max*) -->
@@ -118,6 +119,6 @@
 + `country_LSP`
 + `country_north_zebrican_war`
 + `country_NLR`
-+ `country_NMS`
++ `country_NMS`?
 + `country_VAN`
 + `country_WAR`?

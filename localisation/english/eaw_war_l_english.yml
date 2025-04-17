@@ -186,8 +186,8 @@
  WAR_NAME_KIR_DEL: "Втручання на далекий південь"
  WAR_NAME_DEL_KIR: "Війна опору"
 
- ### Tooltips ###
- EaW_wargoal_and_claims_tp:0 "§Y[This.GetNameDefCap]§! will gain §Gclaims§! and a §RWargoal§! for §Y[Prev.GetNameDef]'s§! core territories.\n"
- EaW_war_and_claims_tp:0 "§Y[This.GetNameDefCap]§! will gain §Gclaims§! and declare §RWar§! for §Y[Prev.GetNameDef]'s§! core territories.\n"
- EaW_wargoal_tp:0 "§Y[This.GetNameDefCap]§! will gain a §RWargoal§! to conquer all of §Y[Prev.GetNameDef]'s§! core territories.\n"
- EaW_war_tp:0 "§Y[This.GetNameDefCap]§! will declare §RWar§! for all of §Y[Prev.GetNameDef]'s§! core territories.\n"
+### СЛУЖБОВА ЛОКАЛІЗАЦІЯ ###
+ EaW_wargoal_and_claims_tp: "§Y[This.GetNameDefCap]§! здобуде §Gпретензії§! та §Rціль війни§! за всі осердні землі держави §Y[Prev.GetNameDef]§!.\n"
+ EaW_war_and_claims_tp: "§Y[This.GetNameDefCap]§! здобуде §Gпретензії§! й оголосить §Rвійну§! за всі осердні землі держави §Y[Prev.GetNameDef]§!.\n"
+ EaW_wargoal_tp: "§Y[This.GetNameDefCap]§! здобуде §Rціль війни§! для завоювання всіх осердних земель держави §Y[Prev.GetNameDef]§!.\n"
+ EaW_war_tp: "§Y[This.GetNameDefCap]§! оголосить §Rвійну§! за всі осердні землі держави §Y[Prev.GetNameDef]§!.\n"
