@@ -1,6 +1,6 @@
 name = "Equestria at War: Українська локалізація (GitHub)"
 picture = "thumbnail.png"
-version = "2.4"
+version = "2.4.0.1"
 tags = {
 	"Translation"
 	"1.16"
