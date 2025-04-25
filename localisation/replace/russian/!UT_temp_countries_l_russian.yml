@@ -3622,8 +3622,8 @@
  griffonian_democratic_faction: "Антанта"
 
  ### ПАРТІЇ ###
-  JER_neutrality_party: "Династія Дискрет"
-  JER_neutrality_party_long: "Династія Дискрет"
+  JER_neutrality_party: "Династія Діскрет"
+  JER_neutrality_party_long: "Династія Діскрет"
   JER_communism_party: "ПАР-П"
   JER_communism_party_long: "Партія аквілейських робітників — помірні"
   JER_democratic_party: "МФА"
@@ -3645,8 +3645,8 @@
   JER_pan_griffonian_fascism_party_name_long: "Грифонська націоналістична асоціація"
 
  ### ПЕРСОНАЖІ ###
-  JER_char_moriset: "Король Морісет Дискрет"
-  JER_char_vivienne: "Вів'єн Дискрет" # Вів'єнна
+  JER_char_moriset: "Король Морісет Діскрет"
+  JER_char_vivienne: "Вів'єнна Діскрет"
   JER_char_rodier: "Леонар Родьє"
   JER_char_verany: "Теодор Верані"
   JER_char_cru: "Ґран Крю"
@@ -3658,7 +3658,7 @@
   JER_char_berthelot: "Альбер Бертело"
   JER_char_greifenwaldstrawberry: "Шарль-Ґійом-Фердінан де Ґрайвальд-Полуниця"
   JER_char_simon: "Сімон Ґільбер"
-  JER_char_artigue: "Женев'єва Артіґ"
+  JER_char_artigue: "Женав'єва Артіґ"
   JER_char_foulque: "Фульк Катліно" # Катлено?
   JER_char_duval: "Ґабріель Дюваль"
   JER_char_dutertre: "Сесілія Дютертр"
@@ -3670,11 +3670,11 @@
   JER_char_cyril: "Сіріль Дюран"
   JER_char_remi: "Ремі Руссло"
   JER_char_morning: "Морнинґ Стар"
-  JER_char_felix: "Фелікс Мюра"
+  JER_char_felix: "Фелікс Мюрá"
   JER_char_moreau: "Віктор Моро"
   JER_char_lafitte: "Жан Лафітт"
   JER_char_voss: "Восс Корсер"
-  JER_char_claire: "Клер Лаколон"
+  JER_char_claire: "Клера Лаколон"
   JER_char_krayt: "Крайт де Беланже"
   JER_char_bargette: "Жан Шевальє Баржетт"
   JER_char_gilbert: "Ґлібер Ла Фоветт" # /ПП/: ім'я однакове в обох локалізаціях; чи помилка це, не зрозуміло (Жільбер?)
@@ -3703,12 +3703,12 @@
   JER_advisor_15: "Жанна Лебек"
   JER_advisor_16: "Ґі Лабаррікад"
   JER_advisor_17: "Рош Альфан д'Акілее"
-  JER_advisor_18: "Анн-Марі Беліншон" # Беленшон?
+  JER_advisor_18: "Анна-Марі Беленшон"
   JER_advisor_19: "Секре д'Ета"
   JER_advisor_20: "Арман Делаферр'єр"
   JER_advisor_21: "Монік Шаттеркло"
   JER_advisor_22: "Іпполіт де Німессан"
-  JER_advisor_23: "Шарль Падекуа"
+  JER_advisor_23: "Шарль Падкуа"
   JER_advisor_24: "П'єрретта Дебесе"
   JER_advisor_25: "Ку д'Ета"
   JER_advisor_26: "Жак Нівілль"
@@ -3736,7 +3736,7 @@
   cyril_l: "$JER_char_cyril$"
   lionel_l: "$JER_char_brochard$"
   renaud: "Рено Ардуен"
-  severine: "Северін Відаль"
+  severine: "Северіна Відаль"
   elric: "Ельрік Ґрімтейл"
   xavier: "Жан Ксав'є Акілейо"
   albert: "Альбер Руссло"
@@ -3753,7 +3753,7 @@
   axel: "Аксель Брюно"
   adrian: "Адріан Донквілл"
   nuke_boi: "Арно де Вілльєр"
-  rocket_boi: "Емілі Робіно" # Робено?
+  rocket_boi: "Емілі Робено"
 
   # Маріонеткові держави
   # Революціонери Ріли; отримані з aquileia.10
@@ -3773,13 +3773,13 @@
   VIN_jeanbaptiste_jules_gelinottedesbois: "Жан-Батіст Жюль Желінотт-де-Буа" # Желенотт?
   VIN_louismarc_de_la_caille: "Луї-Марк де да Кай"
   VIN_guillaume_boucarle: "Ґійом Букарль"
-  VIN_isabelle_de_piegrieche: "Ізабель де П'є-Ґріеш"
+  VIN_isabelle_de_piegrieche: "Ізабелла де П'є-Ґріеш"
   VIN_antoine_bouchard_de_puymoineau: "Антуан Бушар де Пюїмуано"
 
   # Революціонери Прідеї; отримані з aquileia.45
   JFT_guillaume_marronne: "Ґійом Марронн"
   JFT_pain_leve: "Пен Леве"
-  JFT_anne_dieuxleveulent: "Анн Дьє-де-Вьолан" # EU (Dieux, Veulent)
+  JFT_anne_dieuxleveulent: "Анна Дьє-де-Вьолан" # EU (Dieux, Veulent)
   JFT_berty_albatros: "Берті Альбатрос"
   JFT_vin_gai: "Він Ґай"
 
@@ -3932,8 +3932,8 @@
  JES_pan_aquileia_tag_communism_ADJ: "Панаквілейськ"
 
  ### ПАРТІЇ ###
-  JES_neutrality_party: "Династія Дискрет"
-  JES_neutrality_party_long: "Династія Дискрет"
+  JES_neutrality_party: "Династія Діскрет"
+  JES_neutrality_party_long: "Династія Діскрет"
   JES_communism_party: "ТСС"
   JES_communism_party_long: "Таррінський союз соціалістів"
   JES_democratic_party: "ТАЗ"
@@ -3945,7 +3945,7 @@
   JES_fascism_faction: "Ультранаціоналістична фракція"
 
  ### ПЕРСОНАЖІ ###
-  JES_count_guillaume_discret: "Граф Ґійом Дискрет"
+  JES_count_guillaume_discret: "Граф Ґійом Діскрет"
 
   JES_poet_advisor: "Рамбо Боскеґа"
   JES_industry_advisor: "Ольстер Дюпюй"
