@@ -3587,9 +3587,9 @@
  JER_JRR_REPUBLIC_PUPPET_fascism: "Район Уесткіп"
  JER_JRR_REPUBLIC_PUPPET_fascism_DEF: "Район Уесткіп"
  JER_JRR_REPUBLIC_PUPPET_fascism_ADJ: "Уесткіпськ"
- JER_VIN_REPUBLIC_PUPPET_communism: "Район Виновія"
- JER_VIN_REPUBLIC_PUPPET_communism_DEF: "Район Виновія"
- JER_VIN_REPUBLIC_PUPPET_communism_ADJ: "Виновіанськ"
+ JER_VIN_REPUBLIC_PUPPET_communism: "Район Віновія"
+ JER_VIN_REPUBLIC_PUPPET_communism_DEF: "Район Віновія"
+ JER_VIN_REPUBLIC_PUPPET_communism_ADJ: "Віновійськ"
  JER_JFT_REPUBLIC_PUPPET_communism: "Район Прідея"
  JER_JFT_REPUBLIC_PUPPET_communism_DEF: "Район Прідея"
  JER_JFT_REPUBLIC_PUPPET_communism_ADJ: "Прідейськ"
@@ -3772,7 +3772,7 @@
   JRR_hercules_loiseau: "Еркюль Луазо"
   JRR_yves_goeland: "Ів Ґолан" # Ґьолан?
 
-  # Революціонери Виновії; отримані з aquileia.14
+  # Революціонери Віновії; отримані з aquileia.14
   VIN_jeanbaptiste_jules_gelinottedesbois: "Жан-Батіст Жюль Желінотт-де-Буа" # Желенотт?
   VIN_louismarc_de_la_caille: "Луї-Марк де да Кай"
   VIN_guillaume_boucarle: "Ґійом Букарль"
