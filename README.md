@@ -37,6 +37,7 @@
 + `country_GRF` (переклав *StasJesus*)
 + `country_HIP` (умовно<!-- ; переклав… хто? -->)
 + `country_JEB`
++ `country_JER`<!--  (переклав… хто?) -->
 + `country_JFT`
 + `country_JRR`
 + `country_JUN` (переклав *Green Kitten*)
