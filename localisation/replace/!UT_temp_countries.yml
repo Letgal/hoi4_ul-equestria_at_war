@@ -1174,8 +1174,59 @@
   # Далі йде решта назв. Додати відразу перекладеними.
 
 # country_CHN
- CHN_queen_chrysalis: "Королева Кризаліс"
+ CHN_hivesmarschall_synovial: "Ріймаршал Синовіал"
+ CHN_hivesmarschall_trimmel: "Ріймаршал Тріммель"
+ CHN_queen_chrysalis: "Королева Кризаліс" # fem.
  CHN_thorax_name: "Торакс"
+ CHN_gold_muffin: "Ґолд Маффин"
+ CHN_hermis_thysbe: "Герміс Фісбе" # Ѳ
+ CHN_carolina_phymata: "Кароліна Фімата"
+ CHN_limacus_uptrich: "Лімакус Уптрих"
+ CHN_cimex: "Цімекс"
+ CHN_lascor_erebidae: "Ласкор Еребідей"
+ CHN_narcys_murx: "Нарціс Муркс"
+ CHN_vect: "Вект"
+ CHN_actia_pagala: "Актія Паґала"
+ CHN_thiefio_bit: "Фіфіо Біт" # Ѳ
+ CHN_osteitis: "Остеїтіс"
+ CHN_manti_ligiosa: "Манті Ліґіоса"
+ CHN_opteris: "Оптеріс"
+ CHN_epargy_clarus: "Епарґія Кларус" # fem.
+ CHN_protectress_epargy_clarus: "Протекторка Епарґія Кларус"
+ CHN_tetti_rhombi: "Тетті Ромбі"
+ CHN_oecan_fultoni: "Екан Фултоні"
+ CHN_latro_mactans: "Латро Мактанс"
+ CHN_pharynx: "Фаринкс"
+ CHN_azure_lore: "Азур Лор"
+ CHN_larynx: "Ларинкс"
+ CHN_protector_larynx: "Протектор Ларинкс"
+ CHN_cinctus_araxis: "Цінктус Араксіс"
+ CHN_sooty: "Суті"
+ CHN_dieter_heinrich: "Лацін Кардо"
+ CHN_venyx: "Веникс"
+ CHN_zellix: "Зелликс Фарракс"
+ CHN_lunason: "Лунасон"
+ CHN_elvir_roland: "Елвір Роланд"
+ CHN_glossus_sicarus: "Ґлоссус Сікарус"
+ CHN_arcus_venn: "Аркус Венн"
+ CHN_palpus: "Палпус"
+ CHN_maxilla: "Максілла" # fem.
+ CHN_clypeus: "Кліпеус" # fem.
+ CHN_labrum: "Лабрум"
+ CHN_recina: "Реціна"
+ CHN_qwiksis: "Квіксіс"
+ CHN_jachs_promo: "Якс"
+ CHN_alcippe_promo: "Алкіппа"
+ CHN_kitu: "Кіту Старша" # fem.
+ CHN_skytia: "Скітія" # fem.
+
+ chn_queen_helvia: "Королева Гелвія"
+ queen_helvia_admiral_tt: "Відмикає §Yрішення§!, яке відкликає §Gдосвідченого адмірала§!."
+ chn_queen_aurantia: "Королева Аурантія"
+ chn_queen_argynnis: "Королева Арґінніс"
+ CHN_midas_the_golden_lord: "Мідас, Золотий Владика"
+ chn_queen_yaria: "Королева Ярія"
+ chn_spymaster: "Васпіер Орн Кладісіум"
 
  queen_helvia: "Королева Дітрісіума"
  queen_aurantia: "Королева Ліктіди"
@@ -1184,8 +1235,45 @@
  great_nobody: "Великий імперський ніхто"
  great_nobody_lar: "$great_nobody$"
 
+ chnairmarshal1: "Апантесіс"
+ chnairmarshal2: "Церціоніс"
+ chnairmarshal3: "Мантіс"
+ chnhighcom2: "Лікосідей"
+ chnkommandant0: "Арґостросі"
+ chntho1: "Сліфа"
+ chntho2: "Ґлайве"
+ chntrimmel: "Тріммель"
+ chnwarindustrialist: "Коммораг"
+ mimic: "Мімік"
+ lysander: "Лісандер"
+ chnindustrialist: "Силвер Маркс"
+ chnterror: "Зеленоокий"
+
+ evil_guy: "Відданий генерал"
+
+ chn_fylifa: "Філіфа"
+ chn_legus: "Леґус"
+
+ US_WG_CHN_fascism: "Західногрифонський протекторат"
+ US_WG_CHN_fascism_DEF: "Протекторат Західної Грифонії"
+ US_WG_CHN_fascism_ADJ: "Західногрифонськ"
+ HERZ_FED_CHN_fascism: "Герцландський протекторат"
+ HERZ_FED_CHN_fascism_DEF: "Протекторат Герцланду"
+ HERZ_FED_CHN_fascism_ADJ: "Герцландськ"
+ VER_STAT_CHN_fascism: "Веренійський протекторат"
+ VER_STAT_CHN_fascism_DEF: "Протекторат Веренії"
+ VER_STAT_CHN_fascism_ADJ: "Веренійськ"
+ EVI_REP_CHN_fascism: "Евійський протекторат"
+ EVI_REP_CHN_fascism_DEF: "Протекторат долини Еві"
+ EVI_REP_CHN_fascism_ADJ: "Евійськ"
+ BOI_PRO_CHN_fascism: "Грифонстоунський протекторат"
+ BOI_PRO_CHN_fascism_DEF: "Протекторат Griffonstone"
+ BOI_PRO_CHN_fascism_ADJ: "Грифонстоунськ"
+ SOU_GRI_CHN_fascism: "Південнгрифонський протекторат"
+ SOU_GRI_CHN_fascism_DEF: "Протекторат Південної Грифонії"
+ SOU_GRI_CHN_fascism_ADJ: "Південнгрифонськ"
  KARTHIN_CHN_fascism: "Карфінський протекторат"
- KARTHIN_CHN_fascism_DEF: "Карфінський протекторат"
+ KARTHIN_CHN_fascism_DEF: "Протекторат Карфіна"
  KARTHIN_CHN_fascism_ADJ: "Карфінськ"
 
 # country_CME

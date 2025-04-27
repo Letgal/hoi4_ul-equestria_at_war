@@ -1170,21 +1170,6 @@
   CES_fascism_daybreaker_party: "Лоялісти Дейбрейкер"
   # Далі йде решта назв. Додати відразу перекладеними.
 
-# country_CHN
- CHN_queen_chrysalis: "Королева Кризаліс"
- CHN_thorax_name: "Торакс"
-
- queen_helvia: "Королева Дітрісіума"
- queen_aurantia: "Королева Ліктіди"
- queen_yaria: "Королева Соріфа" # Ѳ
- queen_argynnis: "Королева Вракса"
- great_nobody: "Великий імперський ніхто"
- great_nobody_lar: "$great_nobody$"
-
- KARTHIN_CHN_fascism: "Карфінський протекторат"
- KARTHIN_CHN_fascism_DEF: "Карфінський протекторат"
- KARTHIN_CHN_fascism_ADJ: "Карфінськ"
-
 # country_CME
  CME_reunited_fascism: "Кемелкандська держава"
  CME_reunited_fascism_DEF: "Кемелкандська держава"
