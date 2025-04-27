@@ -1,0 +1,246 @@
+﻿# Mod by Sig "GreatExperiment" Altre
+# == (*) ==
+ mot_rockets: "Моторизована ракетна артилерія"
+
+ # Сучасні танки
+ modern_tank_equipment_x: "Основний бойовий танк II"
+ modern_tank_equipment_x_short: "ОБТ II"
+ modern_tank_equipment_x_desc:0 "With the development of more powerful engines, lighter tanks can carry heavier armaments and thicker armor, all while keeping a respectable top speed. This main battle tank will form a key component of our armored forces."
+
+ modern_tank_equipment_x_2: "Основний бойовий танк III"
+ modern_tank_equipment_x_2_short: "ОБТ III"
+ modern_tank_equipment_x_2_desc:0 "Mechanical aids for our tank crews can facilitate loading and extraction of tank shells, reducing the tasks necessary to operate a tank in the middle of combat."
+
+ modern_tank_equipment_x_3: "Основний бойовий танк IV"
+ modern_tank_equipment_x_3_short: "ОБТ IV"
+ modern_tank_equipment_x_3_desc:0 "It has been demonstrated that a thin layer of enamel will improve the ballistic properties of steel. We should test this out and begin looking for ways to expand on this concept."
+
+ modern_tank_equipment_x_4: "Основний бойовий танк V"
+ modern_tank_equipment_x_4_short: "ОБТ V"
+ modern_tank_equipment_x_4_desc:0 "A High-Explosive Anti-Tank (HEAT) warhead relies on a shaped charge to punch through enemy armor and send a molten stream of it into the vehicle, causing catastrophic damage. It should be the primary anti-armor round used by our main battle tanks."
+
+ modern_tank_equipment_x_5: "Основний бойовий танк VI"
+ modern_tank_equipment_x_5_short: "ОБТ VI"
+ modern_tank_equipment_x_5_desc:0 "Putting a piece of fused silica glass between two rolled steel plates almost doubles the armor effectiveness of the steel plates. This will help our tanks shrug off enemy fire much easier."
+
+ # Сучасні САУ
+ modern_tank_artillery_equipment_2: "Сучасна САУ II"
+ modern_tank_artillery_equipment_3: "Сучасна САУ III"
+
+ modern_tank_artillery_equipment_x: "Сучасна САУ II"
+ modern_tank_artillery_equipment_x_short: "$modern_tank_artillery_equipment_x$"
+ modern_tank_artillery_equipment_x_desc:0 "Tank artillery has reached a turning point, switching from ever-increasing calibers to a higher rate of fire and better support roles with specialised smoke and incendiary shells."
+
+ modern_tank_artillery_equipment_x_2: "Сучасна САУ III"
+ modern_tank_artillery_equipment_x_2_short: "$modern_tank_artillery_equipment_x_2$"
+ modern_tank_artillery_equipment_x_2_desc:0 "Tank artillery has reached a turning point, switching from ever-increasing calibers to a higher rate of fire and better support roles with specialised smoke and incendiary shells."
+
+ modern_tank_artillery_equipment_x_3: "Сучасна САУ IV"
+ modern_tank_artillery_equipment_x_3_short: "$modern_tank_artillery_equipment_x_3$"
+ modern_tank_artillery_equipment_x_3_desc:0 "Tank artillery has reached a turning point, switching from ever-increasing calibers to a higher rate of fire and better support roles with specialised smoke and incendiary shells."
+
+ modern_tank_artillery_equipment_x_4: "Сучасна САУ V"
+ modern_tank_artillery_equipment_x_4_short: "$modern_tank_artillery_equipment_x_4$"
+ modern_tank_artillery_equipment_x_4_desc:0 "Tank artillery has reached a turning point, switching from ever-increasing calibers to a higher rate of fire and better support roles with specialised smoke and incendiary shells."
+
+ modern_tank_artillery_equipment_x_5: "Сучасна САУ VI"
+ modern_tank_artillery_equipment_x_5_short: "$modern_tank_artillery_equipment_x_5$"
+ modern_tank_artillery_equipment_x_5_desc:0 "Tank artillery has reached a turning point, switching from ever-increasing calibers to a higher rate of fire and better support roles with specialised smoke and incendiary shells."
+
+ # Сучасні ВТ
+ modern_tank_destroyer_equipment_2: "Сучасний ВТ II"
+ modern_tank_destroyer_equipment_3: "Сучасний ВТ III"
+
+ modern_tank_destroyer_equipment_x: "Сучасний ВТ II"
+ modern_tank_destroyer_equipment_x_short: "$modern_tank_destroyer_equipment_x$"
+ modern_tank_destroyer_equipment_x_desc:0 "These tanks boast advanced ammunition and superb stealth, making up for their low damage with exceptional penetration values.They are the super-tank killers."
+
+ modern_tank_destroyer_equipment_x_2: "Сучасний ВТ III"
+ modern_tank_destroyer_equipment_x_2_short: "$modern_tank_destroyer_equipment_x_2$"
+ modern_tank_destroyer_equipment_x_2_desc:0 "These tanks boast advanced ammunition and superb stealth, making up for their low damage with exceptional penetration values.They are the super-tank killers."
+
+ modern_tank_destroyer_equipment_x_3: "Сучасний ВТ IV"
+ modern_tank_destroyer_equipment_x_3_short: "$modern_tank_destroyer_equipment_x_3$"
+ modern_tank_destroyer_equipment_x_3_desc:0 "These tanks boast advanced ammunition and superb stealth, making up for their low damage with exceptional penetration values.They are the super-tank killers."
+
+ modern_tank_destroyer_equipment_x_4: "Сучасний ВТ V"
+ modern_tank_destroyer_equipment_x_4_short: "$modern_tank_destroyer_equipment_x_4$"
+ modern_tank_destroyer_equipment_x_4_desc:0 "These tanks boast advanced ammunition and superb stealth, making up for their low damage with exceptional penetration values.They are the super-tank killers."
+
+ modern_tank_destroyer_equipment_x_5: "Сучасний ВТ VI"
+ modern_tank_destroyer_equipment_x_5_short: "$modern_tank_destroyer_equipment_x_5$"
+ modern_tank_destroyer_equipment_x_5_desc:0 "These tanks boast advanced ammunition and superb stealth, making up for their low damage with exceptional penetration values.They are the super-tank killers."
+
+ # Сучасні ЗСУ
+ modern_tank_aa_equipment_2: "Сучасна ЗСУ II"
+ modern_tank_aa_equipment_3: "Сучасна ЗСУ III"
+
+ modern_tank_aa_equipment_x: "Сучасна ЗСУ II"
+ modern_tank_aa_equipment_x_short: "$modern_tank_aa_equipment_x$"
+ modern_tank_aa_equipment_x_desc:0 "High-caliber autocannons aimed with newly developed portable radar trackers turn these rebuilt obsolete medium tanks into anti-air fortresses."
+
+ modern_tank_aa_equipment_x_2: "Сучасна ЗСУ III"
+ modern_tank_aa_equipment_x_2_short: "$modern_tank_aa_equipment_x_2$"
+ modern_tank_aa_equipment_x_2_desc:0 "High-caliber autocannons aimed with newly developed portable radar trackers turn these rebuilt obsolete medium tanks into anti-air fortresses."
+
+ modern_tank_aa_equipment_x_3: "Сучасна ЗСУ IV"
+ modern_tank_aa_equipment_x_3_short: "$modern_tank_aa_equipment_x_3$"
+ modern_tank_aa_equipment_x_3_desc:0 "High-caliber autocannons aimed with newly developed portable radar trackers turn these rebuilt obsolete medium tanks into anti-air fortresses."
+
+ modern_tank_aa_equipment_x_4: "Сучасна ЗСУ V"
+ modern_tank_aa_equipment_x_4_short: "$modern_tank_aa_equipment_x_4$"
+ modern_tank_aa_equipment_x_4_desc:0 "High-caliber autocannons aimed with newly developed portable radar trackers turn these rebuilt obsolete medium tanks into anti-air fortresses."
+
+ modern_tank_aa_equipment_x_5: "Сучасна ЗСУ VI"
+ modern_tank_aa_equipment_x_5_short: "$modern_tank_aa_equipment_x_5$"
+ modern_tank_aa_equipment_x_5_desc:0 "High-caliber autocannons aimed with newly developed portable radar trackers turn these rebuilt obsolete medium tanks into anti-air fortresses."
+
+ # Надважкі танки
+ super_heavy_tank_equipment_x: "Надважкий танк II"
+ super_heavy_tank_equipment_x_short: "НВТ II"
+ super_heavy_tank_equipment_x_desc:0 "These tanks are rolling monstrosities, with high-caliber bunker smashing cannons and several layers of reinforced armor. But even with the most advanced engines and extra-wide double tracks, these tanks have trouble traversing marshes and have to ford rivers with a snorkel."
+ super_heavy_tank_equipment_x_2: "Надважкий танк III"
+ super_heavy_tank_equipment_x_2_short: "НВТ III"
+ super_heavy_tank_equipment_x_2_desc:0 "Faster treads allow these super heavy tanks to compete on the modern battlefield. High-caliber bunker smashing cannons and several layers of reinforced armor render them nearly unstoppable in a fair fight. While they will likely never reclaim dominance from the main battle tanks due to their reduced versatility, they nonetheless can provide devastating firepower when our troops need it most."
+
+ # Надважкі САУ
+ super_heavy_tank_artillery_equipment_2: "Надважка САУ II"
+ super_heavy_tank_artillery_equipment_2_short: "$super_heavy_tank_artillery_equipment_2$"
+ super_heavy_tank_artillery_equipment_3: "Надважка САУ III"
+ super_heavy_tank_artillery_equipment_3_short: "$super_heavy_tank_artillery_equipment_3$"
+
+ super_heavy_tank_artillery_equipment_x: "Надважка САУ II"
+ super_heavy_tank_artillery_equipment_x_short: "$super_heavy_tank_artillery_equipment_x$"
+ super_heavy_tank_artillery_equipment_x_desc:0 "Following the doctrine that bigger is always better, these artillery pieces stop any enemy in their tracks and start having problems with ammunition supply, reloading and gun barrels wearing out."
+ super_heavy_tank_artillery_equipment_x_2: "Надважка САУ III"
+ super_heavy_tank_artillery_equipment_x_2_short: "$super_heavy_tank_artillery_equipment_x_2$"
+ super_heavy_tank_artillery_equipment_x_2_desc:0 "Following the doctrine that bigger is always better, these artillery pieces stop any enemy in their tracks and start having problems with ammunition supply, reloading and gun barrels wearing out."
+
+ # Надважкі ВТ
+ super_heavy_tank_destroyer_equipment_2: "Надважкий ВТ II"
+ super_heavy_tank_destroyer_equipment_2_short: "$super_heavy_tank_destroyer_equipment_2$"
+ super_heavy_tank_destroyer_equipment_3: "Надважкий ВТ III"
+ super_heavy_tank_destroyer_equipment_3_short: "$super_heavy_tank_destroyer_equipment_3$"
+
+ super_heavy_tank_destroyer_equipment_x: "Надважкий ВТ II"
+ super_heavy_tank_destroyer_equipment_x_short: "$super_heavy_tank_destroyer_equipment_x$"
+ super_heavy_tank_destroyer_equipment_x_desc:0 "The ultimate answer to any kind of armor, these beasts do not need to be stealthy. Their armor is exceptional and their guns the deadliest. Their movement though..."
+ super_heavy_tank_destroyer_equipment_x_2: "Надважкий ВТ III"
+ super_heavy_tank_destroyer_equipment_x_2_short: "$super_heavy_tank_destroyer_equipment_x_2$"
+ super_heavy_tank_destroyer_equipment_x_2_desc:0 "The ultimate answer to any kind of armor, these beasts do not need to be stealthy. Their armor is exceptional and their guns the deadliest. Their movement though..."
+
+ # Надважкі ЗСУ
+ super_heavy_tank_aa_equipment_2: "Надважка ЗСУ II"
+ super_heavy_tank_aa_equipment_2_short: "$super_heavy_tank_aa_equipment_2$"
+ super_heavy_tank_aa_equipment_3: "Надважка ЗСУ III"
+ super_heavy_tank_aa_equipment_3_short: "$super_heavy_tank_aa_equipment_3$"
+
+ super_heavy_tank_aa_equipment_x: "Надважка ЗСУ II"
+ super_heavy_tank_aa_equipment_x_short: "$super_heavy_tank_aa_equipment_x$"
+ super_heavy_tank_aa_equipment_x_desc:0 "This uncommon design of a rocket battery submerged within an armored box shows its worth right behind the battlefield, allowing full sky control while also absorbing the occasional shot."
+ super_heavy_tank_aa_equipment_x_2: "Надважка ЗСУ III"
+ super_heavy_tank_aa_equipment_x_2_short: "$super_heavy_tank_aa_equipment_x_2$"
+ super_heavy_tank_aa_equipment_x_2_desc:0 "This uncommon design of a rocket battery submerged within an armored box shows its worth right behind the battlefield, allowing full sky control while also absorbing the occasional shot."
+
+ # Легкі танки
+ light_tank_equipment_x: "Легкий танк IV"
+ light_tank_equipment_x_short: "ЛТ IV"
+ light_tank_equipment_x_desc:0 "Mainly relegated to support roles, newer generations of light tanks still have a part to play in modern mechanised warfare, as their unparalleled mobility makes them an excellent supplementary reconnaissance and flanking force to the main army. These tanks will prove to be a challenge even to enemy MBTs."
+ light_tank_equipment_x_2: "Легкий танк V"
+ light_tank_equipment_x_2_short: "ЛТ V"
+ light_tank_equipment_x_2_desc:0 "Further development in light tanks has yielded some exciting propositions of creating tanks light enough for quick aerial transport or even paradrops! Though most designs are still too heavy for the latter, these modern tanks are more heavily armed and capable of knocking out even MBTs."
+ light_tank_equipment_x_3: "Легкий танк VI"
+ light_tank_equipment_x_3_short: "ЛТ VI"
+ light_tank_equipment_x_3_desc:0 "For some time, wheeled armoured reconnaissance was solely relegated to armoured cars. With increasing threats, however, some new designs are specially made to be both wheeled as well armed and armoured: a compromise between moderate protection, heavy armament, and speed."
+
+ # Легкі САУ
+ light_tank_artillery_equipment_x: "Легка САУ IV"
+ light_tank_artillery_equipment_x_short: "$light_tank_artillery_equipment_x$"
+ light_tank_artillery_equipment_x_desc:0 "A small artillery cannon mounted on a light chassis, a light SPG does not pack the firepower of its larger brethren, but they are more mobile."
+ light_tank_artillery_equipment_x_2: "Легка САУ V"
+ light_tank_artillery_equipment_x_2_short: "$light_tank_artillery_equipment_x_2$"
+ light_tank_artillery_equipment_x_2_desc:0 "A small artillery cannon mounted on a light chassis, a light SPG does not pack the firepower of its larger brethren, but they are more mobile."
+ light_tank_artillery_equipment_x_3: "Легка САУ VI"
+ light_tank_artillery_equipment_x_3_short: "$light_tank_artillery_equipment_x_3$"
+ light_tank_artillery_equipment_x_3_desc:0 "A small artillery cannon mounted on a light chassis, a light SPG does not pack the firepower of its larger brethren, but they are more mobile."
+
+ # Легкі ВТ
+ light_tank_destroyer_equipment_x: "Легкий ВТ IV"
+ light_tank_destroyer_equipment_x_short: "$light_tank_destroyer_equipment_x$"
+ light_tank_destroyer_equipment_x_desc:0 "Tank Destroyers are tanks with a larger than normal gun in a fixed mounting in place of a turret. Light Tank Destroyers are based on the chassis of Light Tanks, which means they are fairly mobile but do not carry particularly powerful guns compared to heavier TDs."
+ light_tank_destroyer_equipment_x_2: "Легкий ВТ V"
+ light_tank_destroyer_equipment_x_2_short: "$light_tank_destroyer_equipment_x_2$"
+ light_tank_destroyer_equipment_x_2_desc:0 "Tank Destroyers are tanks with a larger than normal gun in a fixed mounting in place of a turret. Light Tank Destroyers are based on the chassis of Light Tanks, which means they are fairly mobile but do not carry particularly powerful guns compared to heavier TDs."
+ light_tank_destroyer_equipment_x_3: "Легкий ВТ VI"
+ light_tank_destroyer_equipment_x_3_short: "$light_tank_destroyer_equipment_x_3$"
+ light_tank_destroyer_equipment_x_3_desc:0 "Tank Destroyers are tanks with a larger than normal gun in a fixed mounting in place of a turret. Light Tank Destroyers are based on the chassis of Light Tanks, which means they are fairly mobile but do not carry particularly powerful guns compared to heavier TDs."
+
+ # Легкі ЗСУ
+ light_tank_aa_equipment_x: "Легка ЗСУ IV"
+ light_tank_aa_equipment_x_short: "$light_tank_aa_equipment_x$"
+ light_tank_aa_equipment_x_desc:0 "Anti-air artillery is primarily designed to shoot down hostile planes, although the rapid fire cannons can also be effective against ground targets. This model is mounted on the chassis of a light tank."
+ light_tank_aa_equipment_x_2: "Легка ЗСУ V"
+ light_tank_aa_equipment_x_2_short: "$light_tank_aa_equipment_x_2$"
+ light_tank_aa_equipment_x_2_desc:0 "Anti-air artillery is primarily designed to shoot down hostile planes, although the rapid fire cannons can also be effective against ground targets. This model is mounted on the chassis of a light tank."
+ light_tank_aa_equipment_x_3: "Легка ЗСУ VI"
+ light_tank_aa_equipment_x_3_short: "$light_tank_aa_equipment_x_3$"
+ light_tank_aa_equipment_x_3_desc:0 "Anti-air artillery is primarily designed to shoot down hostile planes, although the rapid fire cannons can also be effective against ground targets. This model is mounted on the chassis of a light tank."
+
+ # Артилерія
+ artillery_equipment_x: "Напівсучасна артилерія"
+ artillery_equipment_x_short: "$artillery_equipment_x$"
+ artillery_equipment_x_desc:0 "New light-weight materials allowed for better designs to adapt to rapidly changing conditions and to effectively suppress and annihilate enemy forces."
+ artillery_equipment_x_2: "Сучасна артилерія"
+ artillery_equipment_x_2_short: "$artillery_equipment_x_2$"
+ artillery_equipment_x_2_desc:0 "Improvements in gyroscopes allowed for more robust, reliable cost-effectively accurate micro gyroscopes that provided ample new design ideas for artillery platforms that could determine elevation, azimuth, and trunnion tilt without use of external aiming points. This made for the most modern models of artillery guns that could provide the greatest area-of-effect performance."
+
+ anti_air_equipment_x: "Сучасна зенітна артилерія"
+ anti_air_equipment_x_short: "Сучасна зенітка"
+ anti_air_equipment_x_desc:0 "A further refinement in mobile flak gun designs, this model came with greatly improved reach and firing capacity compared to its predecessors, making it the most modern and deadliest iteration of anti-aircraft guns."
+ anti_air_equipment_x_2: "Зенітна керована ракетна установка"
+ anti_air_equipment_x_2_short: "Зенітна ракетна установка"
+ anti_air_equipment_x_2_desc:0 "Early attempts to replace conventional kinetic anti-aircraft weapons consisted mainly of wire-guided rockets that were costly, inefficient, and notoriously unreliable. Breakthroughs in micro-electronics had made medium-sized missiles capable of tracking via an integrated tracking radar and a radio receiver that was fed guidance information. This effectively supplanted conventional AA guns, as the era of the jetcraft had come and only SAMs were capable of countering them."
+
+ anti_tank_equipment_x: "Сучасна буксирувана ПТА"
+ anti_tank_equipment_x_short: "Сучасна ПТА"
+ anti_tank_equipment_x_desc:0 "Pushing the capabilities of towed anti-tank gun designs to their very limit, this model represented the best that conventional designs could achieve in defeating enemy armour. This modern gun, with initial use of electronic hardware, was king in tank-engagements."
+ anti_tank_equipment_x_2: "Протитанкова керована ракетна установка"
+ anti_tank_equipment_x_2_short: "Протитанкова ракетна установка"
+ anti_tank_equipment_x_2_desc:0 "A primitive anti-tank missile launcher that fired highly effective warheads made for an unconventional, if dangerous opponent to enemy armour. Early models used wires to roughly guide their missiles towards their target."
+
+ rocket_artillery_equipment_x: "Напівсучасна ракетна артилерія"
+ rocket_artillery_equipment_x_short: "Н-сучас. ракет. артилерія"
+ rocket_artillery_equipment_x_desc:0 "With further improvements in material and manufacturing, new designs following previous iterations of rocket artillery launchers made for devastating area-of-effect weapons."
+ rocket_artillery_equipment_x_2: "Сучасна ракетна артилерія"
+ rocket_artillery_equipment_x_2_short: "Сучас. ракет. артилерія"
+ rocket_artillery_equipment_x_2_desc:0 "Developments in the field of rocketry had yielded fast firing rockets that burned for shorter but flew considerably farther. With improved building materials, larger rockets carrying greater warheads necessitated new launch platforms that were still easy to transport and capable of even greater and more intense barrages. "
+
+ # Піхотне спорядження
+ infantry_equipment_x: "Штурмові гвинтівки"
+ infantry_equipment_x_short: "$infantry_equipment_x$"
+ infantry_equipment_x_desc:0 "A divergence from the development of battle rifles, the assault rifle mainly differentiates itself from the former by using intermediate rifle cartridges. The smaller calibre sacrifices overall range and stopping power for better weapon handling, making the assault rifle more useful in tighter combat situations. New tactics developed in tandem with this new rifle change the old infantry combat dynamics, rendering our soldiers far deadlier than those of yesteryear."
+ infantry_equipment_x_2: "Сучасні гвинтівки"
+ infantry_equipment_x_2_short: "$infantry_equipment_x_2$"
+ infantry_equipment_x_2_desc:0 "New materials, lighter weapon accessories, and better equipment layouts have significantly improved upon previous iterations of our assault and battle rifles to the point that they have supplanted older bolt-action rifles as the service weapon. Submachine guns and bolt-action rifles are now effectively specialist weapons. In contrast, the versatile high-capacity automatic rifle is used by the rank-and-file, permanently changing the nature of infantry combat."
+
+ ###------> Plane Name Tests <><> <><>
+  small_plane_cas_airframe_4_short:0 "Semi-Modern CAS"
+  small_plane_cas_airframe_5_short:0 "Modern CAS"
+  small_plane_naval_bomber_airframe_4_short:0 "Semi-Modern Naval Bomber"
+  small_plane_naval_bomber_airframe_5_short:0 "Modern Naval Bomber"
+  cv_small_plane_cas_airframe_4_short:0 "Semi-Modern CAS"
+  cv_small_plane_cas_airframe_5:0 "Modern Close Air Support"
+  cv_small_plane_cas_airframe_5_short:0 "Modern CAS"
+  cv_small_plane_naval_bomber_airframe_4_short:0 "Semi-Modern Naval Bomber"
+  cv_small_plane_naval_bomber_airframe_5:0 "Modern Naval Bomber"
+  cv_small_plane_naval_bomber_airframe_5_short:0 "Modern Naval Bomber"
+  intercontinental_maritime_patrol_plane_airframeuper_large_plane_airframe_1:0 "Super Heavy Maritime Patrol Airframe"
+  medium_plane_fighter_airframe_4_short:0 "Semi-Modern Heavy Fighter"
+  medium_plane_fighter_airframe_5:0 "Modern Heavy Fighter"
+  medium_plane_fighter_airframe_5_short:0 "Modern Heavy Fighter"
+  medium_plane_scout_plane_airframe_4_short:0 "Semi-Modern Scout Plane"
+  medium_plane_scout_plane_airframe_5:0 "Modern Scout Plane"
+  medium_plane_scout_plane_airframe_5_short:0 "Modern Scout Plane"
+  large_plane_maritime_patrol_plane_airframe_4_short:0 "Semi-Modern Maritime Patrol"
+  large_plane_maritime_patrol_plane_airframe_5:0 "Modern Maritime Patrol"
+  large_plane_maritime_patrol_plane_airframe_5_short:0 "Mod Maritime Patrol"

@@ -1,0 +1,37 @@
+﻿# == (*) ==
+ EAW_Classic_Radio_TITLE: "Класичне радіо £eaw_text£ Equestria at War"
+
+ # This file is for songs *NOT* composed by the Equestria at War team. This file tells the music player what each song should be called when you open the radio station in game.
+ Snowfall_in_Equestria: "Zykrath — Snowfall in Equestria"
+ Dashite_Song: "Dashite Song — The Balefire Symphony"
+ Zykrath_Inferior: "Zykrath — Inferior"
+ Zykrath_Princess_of_Dreams: "Zykrath — Princess of Dreams"
+ Zykrath_Blessing_From_The_Stars: "Zykrath — Blessing from the Stars"
+ The_Stars_will_aid_her_escape: "Not a Clever Pony — The Stars Will Aid Her Escape"
+ Art_of_the_Industry: "DrDissonance1 — Art of the Industry"
+ Radiarc_Kingdom_of_the_Griffons: "Radiarc — Kingdom of the Griffons"
+ Radiarc_The_Edge: "Radiarc — The Edge"
+ Radiarc_Starlight: "Radiarc — Starlight"
+ Radiarc_Canterlot_at_Night: "Radiarc — Canterlot at Night"
+ Neighsayer_Mastering_the_Art: "Neighsayer — Mastering the Art"
+ Neighsayer_Peacetime_Platonica: "Neighsayer — Peacetime Platonica"
+ Neighsayer_I_m_Proud_of_you: "Neighsayer — I'm proud of you"
+ glory_to_arstotzka: "Armesto — Glory to Arstotzka"
+ bandit_radio: "Armesto — Radio Stalliongrad (Cheeki Breeki Bandit Radio)"
+ Aida_Vedischeva_Forest_Deer: "Aida Vedischeva — Forest Deer"
+ Katyusha_Instrumental: "Katyusha Instrumental"
+ David_Larsen_Night_Sky: "David Larsen — Night Sky"
+ Carbon_Maestro_Sun: "Carbon Maestro — Sun"
+ Carbon_Maestro_Moon: "Carbon Maestro — Moon"
+ Winter_Solstice_Dawn_of_a_New_Season: "LoreRD — Winter Solstice/Dawn of a New Season"
+ Radiarc_Wander: "Radiarc — Wander"
+ Artem_Yegorov_The_Heart_Carol: "Artem Yegorov — The Heart Carol (Orchestral Cover)"
+ Neighsayer_Equestrias_Finest: "Neighsayer — Equestria's Finest"
+ Radiarc_Carry_On: "Radiarc — Carry On"
+ DST-Darkess_extended: "Deceased Superior Technician — Darkness"
+ Radiarc_Uncertainty: "Radiarc — Uncertainty"
+ Maxwell_the_Cat_Theme: "Weebl — Stockmarket"
+ WH40K-Chaos-Gate_Ultramarines-Chant: "WH40K Chaos Gate — О, ВЕЛИКИЙ СУП НАВАРИЛИ (Ultramarines Chant)" # April Fool's 2023 exclusive
+ Brad_Cypy-Battle_For_Supremacy: "Stellaris OST — Battle For Supremacy" # April Fool's 2024 exclusive
+ anbennar_AF_deioderan: "Astera (команда Anbennar) — 5 Deioderan" # April Fool's 2025 exclusive
+ darkwood_wedding: "§RНе варто було цього робити...§!" #please leave the colored text. this isn't used as a song in a traditional manner - it only occurs a single time when the player triggers the Pony of Shadows path

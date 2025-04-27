@@ -1,0 +1,44 @@
+﻿# == (*) ==
+### НАЗВИ КРАЇНи ###
+ STORM_KINGDOM_fascism: "Королівство Шторма"
+ STORM_KINGDOM_fascism_DEF: "Королівство Шторма"
+ STORM_KINGDOM_fascism_ADJ: "Єтійськ"
+ STORM_KINGDOM_democratic: "Королівство Шторма"
+ STORM_KINGDOM_democratic_DEF: "Королівство Шторма"
+ STORM_KINGDOM_democratic_ADJ: "Єтійськ"
+ STORM_KINGDOM_neutrality: "Королівство Шторма"
+ STORM_KINGDOM_neutrality_DEF: "Королівство Шторма"
+ STORM_KINGDOM_neutrality_ADJ: "Єтійськ"
+ STORM_KINGDOM_communism: "Соціалістична Республіка Єті"
+ STORM_KINGDOM_communism_DEF: "Соціалістична Республіка Єті"
+ STORM_KINGDOM_communism_ADJ: "Єтійськ"
+
+### ПОДІЇ ###
+ storm.1.t:0 "Спадкоємець Короля Шторма"
+ storm.1.d:0 "[This.GetNewspaperHeader]Жорстока громадянська війна, яка розірвала на шматки царство єті в Королівстві Шторма, нарешті закінчилася. Після загибелі Короля Шторма в битві при Айн-Тротґуре четверо його генералів претендували на Рогату корону і розпочали криваву війну за престол, щоби вирішити, хто стане новим Королем Штормом — або ж Королевою. Тепер один з них переміг і носить Рогату корону на голові. Решта Зебрики, м'яко кажучи, не в захваті від цієї новини."
+ storm.1.a:0 "Над Зебрикою збираються грозові хмари..."
+
+ storm.2.t:0 "Визвольна війна"
+ storm.2.d:0 "Замісник військової дії для нападу Кайлідів на Тандарію."
+ storm.2.a:0 "За волю і честь!"
+
+ storm.3.t:0 "Перемога!"
+ storm.3.d:0 "Замісник події білого миру для Кайлідів."
+ storm.3.a:0 "*щасливі собачі завивання*"
+
+form_storm_kingdom: "Спадкоємець Короля Шторма"
+form_storm_kingdom_desc: ""
+
+STM_storm_king_name: "Король Шторм"
+STM_storm_queen_name: "Королева Шторм"
+
+form_storm_kingdom_decision: "Висунути претензію на Рогату корону"
+form_storm_kingdom_decision_desc: ""
+
+SK_formed: "Королівство Шторма було возз'єднане"
+STM_threat_name: "Возз'єднано Королівство Шторма"
+STM_rightful_heir: "Законний спадкоємець"
+
+HYE_thunderbowl_name: "Ґурі-Дгурваа"
+HYE_thunderbowl_vp_name: "Калбі-Вейн"
+HYE_northvale_name: "Кайнта-Доохада"
