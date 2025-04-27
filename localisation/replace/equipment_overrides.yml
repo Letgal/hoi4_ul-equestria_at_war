@@ -70,7 +70,7 @@
  #TO BE ADDED armored_car_at_equipment_desc:0 "Our light mechanized units will come into contact with enemy tank forces at some point. Developing a special anti-tank variant would give them a fighting chance."
 
  REQUESTED_MANPOWER_DETAILS: "Наступні $NUM|Y$ поні-ресурсів прибудуть через $HR|Y$ год.\nБуде повністю поповнено десь через $D|Y$ дн."
- NOT_ENOUGH_MANPOWER_TO_REINFORCE: "Недостатньо людських ресурсів для надання підкріплень."
+ NOT_ENOUGH_MANPOWER_TO_REINFORCE: "Недостатньо поні-ресурсів для надання підкріплень."
  MANPOWER_REINFORCEMENT_NOT_POSSIBLE: "§RПідкріплення поні-ресурсами неможливе в поточній локації.§!"
 
  rocket_artillery_equipment_2: "Поліпшена ракетна артилерія"
