@@ -29,8 +29,8 @@
 + `country_EQC_Reichsmandat`<!--  (переклав *Max*) -->
 + `country_EQC_SOL`<!--  (переклав *Max*) -->
 + `country_EQS`
-+ `country_EWI`<!--  (переклав… хто?) -->
 + `country_ERI`
++ `country_EWI`<!--  (переклав… хто?) -->
 + `country_EYR`
 + `country_FAT` (переклав *StasJesus*)
 + `country_GFF` (умовно; переклав *Green Kitten*)
@@ -44,11 +44,12 @@
 + `country_LSP` (переклав *Green Kitten*)
 + `country_MIT` (переклав *Green Kitten*)
 + `country_MTA` (умовно)
-+ `country_north_zebrican_war`<!--  (переклав… хто?) -->
 + `country_NLR` (переклав *Green Kitten*)
 + `country_NMS` (переклав *Green Kitten*)
++ `country_north_zebrican_war`<!--  (переклав… хто?) -->
 + `country_NTR`
 + `country_OLE`<!--  (переклав *Max*) -->
++ `country_PNG`
 + `country_POM`
 + `country_RCT` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
 + ~~`country_SCS`~~ (переклав *Green Kitten*; вирізано до повного оновлення)
@@ -64,19 +65,19 @@
 + `country_WIT` (переклав *ціктакомба*)
 + `country_WNG` (переклав *Sanyok*)
 + ~~`country_YAK`~~ (попередню версію переклав *ціктакомба*)
-+ `eaw_achievements`
++ ~~`eaw_achievements`~~
 + `eaw_adjacency_rules`
 + `eaw_autonomy`
 + `eaw_bop`
-+ `eaw_capitulation_quotes`
-+ `eaw_decisions`
++ ~~`eaw_capitulation_quotes`~~
++ ~~`eaw_decisions`~~
 + `eaw_difficulty`
 + `eaw_diplo_popup`
 + `eaw_factions`
-+ `eaw_flags_and_opinion`
++ `eaw_flags_and_opinion` (умовно)
 + `eaw_focus`
 + `eaw_focus_filter_tag`
-+ `eaw_griffon_tech`
++ `eaw_griffon_tech` (умовно)
 + `eaw_hippogriff_techs` (умовно)
 + `eaw_horse_techs`
 + `eaw_leaders` (зокрема переклав *ціктакомба*)
@@ -106,7 +107,6 @@
 + `country_YAL_overrides`
 + `eaw_bookmarks_overrides`
 + `eaw_flags_and_opinion_overrides`
-+ `eaw_lar_operations_overrides`
 + `focus_filter_tag_overrides`
 + `province_names_overrides`
 

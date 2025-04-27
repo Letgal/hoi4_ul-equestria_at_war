@@ -38,7 +38,7 @@
  GetTNOMaintext_CTH_CTC_win: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! звільнила Кольтфаген від гнилі держави §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
  GetTNOMaintext_CTH_CTC_loss: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! зміцнила своє панування над Кольтфагеном, перемігши державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
  GetTNOMaintext_CTC_beats_CVA: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! перемогла революціонерів держави §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!, завершивши громадянську війну."
- GetTNOMaintext_CVA_beats_CTC: "§Y[?winning_country^peace_gui_index.GetFlag] Зарішат Зейрутид§! помстилася за смерть Зешмуназаша Зейрутида, перемігши державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
+ GetTNOMaintext_CVA_beats_CTC: "§Y[?winning_country^peace_gui_index.GetFlag] Зарішат Зейрутід§! помстилася за смерть Зешмуназаша Зейрутіда, перемігши державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
  GetTNOMaintext_CVA_third_civil_war_HIE_win: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! здолала державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! під час §rанархії у Кольтфагені§!."
  GetTNOMaintext_CVA_third_civil_war_HIE_loss: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! здолала державу §Y[?losing_country^peace_gui_index.GetFlag] [?losing_country^peace_gui_index.GetName]§! під час §rанархії у Кольтфагені§!."
  GetTNOMaintext_CVA_third_civil_war: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! здолала державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! під час §rанархії у Кольтфагені§!."
@@ -70,6 +70,7 @@
  GetTNOMaintext_CFR_CRF: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! розчавила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в процесі §YКризи Багряної протоки§!."
  GetTNOMaintext_CFR_RRA: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! розчавила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в процесі §YПовстання Праведного володарства§!."
 
+# ((!))
  GetTNOMaintext_KTZ_kattail:0 "§Y[?winning_country^peace_gui_index.GetNameWithFlag]§! has taken over  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! as part of Kaiser Kattail's bid for world domination." # (!)
  GetTNOMaintext_KTZ_early_kattail:0 "§Y[?winning_country^peace_gui_index.GetNameWithFlag]§! has conquered  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! as part of Kaiser Kattail's bid for Abyssinian greatness." # (!)
  GetTNOMaintext_KTZ_beats_UFS:0 "§Y[?winning_country^peace_gui_index.GetNameWithFlag]§! has at last vanquished  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!, ultimately sealing the world's fate." # (!)
@@ -212,11 +213,12 @@ GetTNOReference_ZAR: "Урешті-решт мрія аґвелліди лиши
 GetTNOReference_ZAR_worm: "Народ помер за наказом розлюченого бога."
 GetTNOReference_BAT: "Тисяча років по тому, і жахіття скінчилося."
 GetTNOReference_HIE: "Зорі все ж були неправі."
-GetTNOReference_CVA: "Мрія Зейрутида мертва."
+GetTNOReference_CVA: "Мрія Зейрутіда мертва."
 GetTNOReference_TRO: "А виявлося, що він шахрай."
 GetTNOReference_MZN: "Вона була права, та не могла їх урятувати."
 GetTNOReference_WIN: "Помилка виправлена."
 GetTNOReference_CTL: "Загарбники чи визволителі — в усіх один кінець."
+# ((!))
 GetTNOReference_ABY:0 "Your freedom will never be touched, as your mountains are defiant!" # and your natives do not fear any enemy
 GetTNOReference_ABY_patriots:0 "I will sacrifice all nine of my lives for Abyssinia!"
 GetTNOReference_ABY_slaves:0 "I'd rather die trying to take them down than giving them what they want."
