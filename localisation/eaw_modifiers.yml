@@ -162,6 +162,7 @@
  modifier_unit_magical_mechanized_design_cost_factor: "Вартість дизайну магічної мехапіхоти"
  modifier_unit_infiltrator_company_design_cost_factor: "Вартість дизайну рот інфільтраторів"
  modifier_unit_kirin_vanguards_design_cost_factor:0 "Вартість дизайну Kirin Vanguards"
+ modifier_unit_kirin_braves_design_cost_factor:0 "Вартість дизайну Valiants"
  modifier_unit_unicorn_company_design_cost_factor: "Вартість дизайну рот єдинорогів"
  modifier_unit_modern_flame_tank_design_cost_factor: "Вартість дизайну основного бойового вогнеметного танка"
  modifier_unit_ded_anti_infantry_monster_design_cost_factor: "Вартість дизайну мантикор"
