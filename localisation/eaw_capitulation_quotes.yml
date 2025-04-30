@@ -70,10 +70,9 @@
  GetTNOMaintext_CFR_CRF: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! розчавила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в процесі §YКризи Багряної протоки§!."
  GetTNOMaintext_CFR_RRA: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! розчавила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в процесі §YПовстання Праведного володарства§!."
 
-# ((!))
- GetTNOMaintext_KTZ_kattail:0 "§Y[?winning_country^peace_gui_index.GetNameWithFlag]§! has taken over  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! as part of Kaiser Kattail's bid for world domination." # (!)
- GetTNOMaintext_KTZ_early_kattail:0 "§Y[?winning_country^peace_gui_index.GetNameWithFlag]§! has conquered  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! as part of Kaiser Kattail's bid for Abyssinian greatness." # (!)
- GetTNOMaintext_KTZ_beats_UFS:0 "§Y[?winning_country^peace_gui_index.GetNameWithFlag]§! has at last vanquished  §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!, ultimately sealing the world's fate." # (!)
+ GetTNOMaintext_KTZ_kattail: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! захопила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!, відповідно до заяви кайзера Кеттейла про світове панування." # (&)
+ GetTNOMaintext_KTZ_early_kattail: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! завоювала державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!, відповідно до заяви кайзера Кеттейла про велич Абіссинії." # (&)
+ GetTNOMaintext_KTZ_beats_UFS: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! нарешті подолала державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!, у кінцевому підсумку вирішивши долю світу." # (&)
 
  GetTNOMaintext_unknown: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! захопила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! та випустила своїх чудовиськ на безпомічне населення."
  GetTNOMaintext_unknown_2: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! захопила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!.\nПодзвін лунає по всіх нас."

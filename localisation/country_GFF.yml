@@ -284,7 +284,7 @@
  # Концерни
   GFF_infantry_equipment_manufacturer:0 "Зброярня Фростгілла"
   GFF_agricultural_concern:0 "Tsasbaatar Water Co."
-  GFF_industrial_concern:0 "Фростгіллський промисловий союз"
+  GFF_industrial_concern:0 "Фростгілльський промисловий союз"
 
 ### ПОДІЇ ###
  frontier.1.t:0 "Принижуйся заради грошей"

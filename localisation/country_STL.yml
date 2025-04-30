@@ -170,7 +170,7 @@ STL_second_factory_desc:0 "Для деяких народів ми — жарт
  STL_garden_spirit:0 "Наш садок"
  STL_garden_spirit_desc:0 "Наше похмуре містечко перетворилося на барвистий, розслабляючий рай для відпочинку та ігор для всіх поні."
  STL_STG_advisory_military:0 "Сталліонградські військові радники"
- STL_STG_advisory_industry:0 "Сталліонградьска допомога індустріалізації"
+ STL_STG_advisory_industry:0 "Сталліонградська допомога індустріалізації"
 
  STL_new_army_spirit:0 "Армія Рівності"
  STL_new_army_spirit_desc:0 "Спільна робота над розбудовою армії була напрочуд успішною, оскільки еквалістська філософія добре підходить для життя солдата."
@@ -312,7 +312,7 @@ STL_second_factory_desc:0 "Для деяких народів ми — жарт
   STL_infantry_equipment_x_2_short:0 "AK-25"
   STL_infantry_equipment_x_2_desc:0 "Краще розташування обладнання та зменшення ваги призвели до значного прогресу в ефективності та потужності."
 
-  STL_magical_equipment_1:0 "Сталліонградьска Проста Мано-Рушниця"
+  STL_magical_equipment_1:0 "Сталліонградська Проста Мано-Рушниця"
   STL_magical_equipment_1_short:0 "СПМР"
   STL_magical_equipment_2:0 "Автоматичне Мано-Рушниця Сєрова, модель 12 року"
   STL_magical_equipment_2_short:0 "АМРС-12"

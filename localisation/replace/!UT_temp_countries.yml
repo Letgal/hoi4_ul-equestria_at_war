@@ -580,7 +580,7 @@
 
  POM_viira_fascism: "Лентінен Аарнікотка-Алуе"
  POM_viira_fascism_DEF: "Західна Орлина Держава"
- POM_viira_fascism_ADJ: "Western"
+ POM_viira_fascism_ADJ: "Західн"
 
  JGF_viira_fascism: "Бореальні Райони"
  JGF_viira_fascism_DEF: "Священні Бореальні Райони"
@@ -614,7 +614,7 @@
 
   # Ґенерали
   BAR_oleander: "Олеандр"
-  BAR_wigberht: "Віґбергт"
+  BAR_wigberht: "Віґберхт"
   BAR_gebleod: "Ґеблеод"
   BAR_jerzy_janosik: "Єжи Яношік"
   BAR_gasienica: "Ґонсєниця"
