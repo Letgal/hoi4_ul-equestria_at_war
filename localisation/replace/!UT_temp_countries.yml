@@ -5113,8 +5113,8 @@
 
 # country_PLB
  ### ПЕРСОНАЖІ ###
-  PLB_paw_wellington_loc: "По Уеллінґтон"
-  PLB_paw_wellington_overtyrant_paw: "Архітиран По Уеллінґтон"
+  PLB_paw_wellington_loc: "По Ўеллінґтон"
+  PLB_paw_wellington_overtyrant_paw: "Архітиран По Ўеллінґтон"
   PLB_paw_wellington_overtyrant_jorik: "Архітиран Йорік із клану Скюфлінґ"
   PLB_paw_wellington_overtyrant_captain: "Залізний капітан Йорік"
   PLB_paw_wellington_overtyrant_wastes: "Господар безмежних пусток Йорік"
@@ -5123,13 +5123,13 @@
   PLB_torben_overtyrant: "Архітиран Торбен"
   PLB_eira_of_clan_volsungr_loc: "Ейра з клану Вольсунґр"
   PLB_princess_eira: "Принцеса полярних ведмедів Ейра"
-  PLB_princess_maw: "Принцеса Мо Уеллінґтон"
+  PLB_princess_maw: "Принцеса Мо Ўеллінґтон"
   PLB_queen_eira: "Королева полярних ведмедів Ейра"
-  PLB_chairman_icebear_loc: "Председ Айсбер"
-  PLB_chairwoman_snowbear_loc: "Председ Сноубер"
+  PLB_chairman_icebear_loc: "Голова Айсбеар"
+  PLB_chairwoman_snowbear_loc: "Голова Сноубеар"
 
   PLB_bard_of_clan_svartpels_loc: "Бард із Пусток"
-  PLB_bergljot_of_clan_svartpels_loc: "Берйот із Ключ-озера" # G > Й
+  PLB_bergljot_of_clan_svartpels_loc: "Бергйот із Ключ-озера"
   PLB_stronk_boi_loc: "Стронк Бой"
   PLB_happy_drunkard_loc: "Геппі Дранкерд"
   PLB_riding_bear_loc: "Мишко"
@@ -5144,9 +5144,9 @@
   PLB_generic_army_leader_loc: "Елоф Білий"
   PLB_air_chief_guy_loc: "Ведіана Крилата"
   PLB_navy_person_loc: "Альмвейґ Мисливиця-на-Жуків"
-  PLB_high_command_1_loc: "Ґосестеґ Вигнанець"
+  PLB_high_command_1_loc: "Ґосестег Вигнанець"
   PLB_high_command_2_loc: "Сокер із клану Анкер"
-  PLB_high_command_3_loc: "Снеке з Гаукленду"
+  PLB_high_command_3_loc: "Снеуке з Гаукленду"
 
   # Радники
   PLB_silent_workbear: "Агті Ходак"
@@ -5154,7 +5154,7 @@
   PLB_mechanite_queen: "Øверсте Адміністратор-001"
   PLB_volsungr_environmentalist: "Сіф із клану Вольсунґр"
   PLB_volsungr_adviser_supremacy: "$PLB_volsungr_environmentalist$"
-  PLB_lord_of_thunder: "Володар грому Торбен"
+  PLB_lord_of_thunder: "Повелитель грому Торбен" # інак. Володар грому
   PLB_thunder_militarist: "Трьольс із клану Свартпельс"
   PLB_paw_wellington: "$PLB_paw_wellington_loc$"
   PLB_paw_wellington_supremacy: "$PLB_paw_wellington_loc$"
@@ -5173,15 +5173,15 @@
 
  PLB_city_fascism: "Славетне місто Магарь-Фярань"
  PLB_city_fascism_DEF: "Славетне місто Магарь-Фярань"
- PLB_city_fascism_ADJ: "Магарь-фяраньськ"
+ PLB_city_fascism_ADJ: "Магарь-Фяраньськ"
 
  PLB_wastes_fascism: "Нескінченна Пустка"
  PLB_wastes_fascism_DEF: "Нескінченна Пустка"
  PLB_wastes_fascism_ADJ: "Пустельн" # (&)
 
- PLB_kingdom_of_winter_neutrality: "Зимове Королівство"
+ PLB_kingdom_of_winter_neutrality: "Зимове Королівство" # інак. Королівство Зими
  PLB_kingdom_of_winter_neutrality_DEF: "Зимове Королівство Полярних Ведмедів"
- PLB_kingdom_of_winter_neutrality_ADJ: "Зимов"
+ PLB_kingdom_of_winter_neutrality_ADJ: "Зимов" # інак. Ведмеж
 
  PLB_confederation_fascism: "Конфедерація Полярних Ведмедів"
  PLB_confederation_fascism_DEF: "Конфедерація Полярних Ведмедів"
@@ -5198,13 +5198,13 @@
  PLB_confederation_2_neutrality_DEF: "Конфедерація Полярних Ведмедів"
 
  PLB_polaria_fascism: "Княгинство Полярія"
- PLB_polaria_fascism_ADJ: "Полярійськ"
+ PLB_polaria_fascism_ADJ: "Полярійськ" # інак. Полярн
  PLB_polaria_fascism_DEF: "Княгинство Полярія"
  PLB_polaria_democratic: "Княгинство Полярія"
- PLB_polaria_democratic_ADJ: "Полярійськ"
+ PLB_polaria_democratic_ADJ: "Полярійськ" # інак. Полярн
  PLB_polaria_democratic_DEF: "Княгинство Полярія"
 
- PLB_polar_queendom_democratic: "Неприборкана Земля"
+ PLB_polar_queendom_democratic: "Неприборкана Земля" # інак, Царство
  PLB_polar_queendom_democratic_DEF: "Неприборкана Земля"
  PLB_polar_queendom_democratic_ADJ: "Неприборкан"
 
@@ -5218,11 +5218,11 @@
 
  PLB_clan_coalition_fascism: "Володарство Замерзлого моря"
  PLB_clan_coalition_fascism_DEF: "Володарство Замерзлого моря"
- PLB_clan_coalition_fascism_ADJ: "Володарськ"
+ PLB_clan_coalition_fascism_ADJ: "Володарськ" # інак. Ведмеж
 
  PLB_ice_bear_communism: "ДМС Полярії"
  PLB_ice_bear_communism_DEF: "Демократичні ведмежі спільноти Полярії"
- PLB_ice_bear_communism_ADJ: "Полярійськ"
+ PLB_ice_bear_communism_ADJ: "Полярійськ" # інак. Ведмеж
 
  PLB_schizo_fascism: "Гіперберія"
  PLB_schizo_fascism_DEF: "Гіперберія"
@@ -5242,16 +5242,16 @@
  PLB_northern_republic_neutrality_DEF: "Північна Федерація"
  PLB_northern_republic_neutrality_ADJ: "Конфедеративн"
 
- PLB_dual_republic_fascism: "Ведмежо-Пінгвіняча Конфедерація"
- PLB_dual_republic_fascism_DEF: "Ведмежо-Пінгвіняча Конфедерація"
+ PLB_dual_republic_fascism: "Ведмежо-пінгвіняча конфедерація"
+ PLB_dual_republic_fascism_DEF: "Ведмежо-пінгвіняча конфедерація"
  PLB_dual_republic_fascism_ADJ: "Конфедеративн"
- PLB_dual_republic_neutrality: "Ведмежо-Пінгвіняча Конфедерація"
- PLB_dual_republic_neutrality_DEF: "Ведмежо-Пінгвіняча Конфедерація"
+ PLB_dual_republic_neutrality: "Ведмежо-пінгвіняча конфедерація"
+ PLB_dual_republic_neutrality_DEF: "Ведмежо-пінгвіняча конфедерація"
  PLB_dual_republic_neutrality_ADJ: "Конфедеративн"
 
- PLB_woodland: "Лісова Земля"
+ PLB_woodland: "Лісова Земля" # інак, Царство
  PLB_woodland_DEF: "Лісова Земля"
- PLB_woodland_ADJ: "Лісоземн"
+ PLB_woodland_ADJ: "Лісов"
 
  PLB_realm_of_beasts: "Княгинство Звірів"
  PLB_realm_of_beasts_DEF: "Княгинство Звірів"
@@ -5261,8 +5261,8 @@
  PLB_crusade_ADJ: "Усеполярний священний похід душ"
  PLB_crusade_DEF: "Усеполярн"
 
- PLB_exuvia_changelingia_fascism: "Споконвічне Королевство Чейнджлінґів-Ведмедів"
- PLB_exuvia_changelingia_fascism_DEF: "Споконвічне Королевство Чейнджлінґів-Ведмедів"
+ PLB_exuvia_changelingia_fascism: "Споконвічне королевство чейнджлінґів-ведмедів"
+ PLB_exuvia_changelingia_fascism_DEF: "Споконвічне королевство чейнджлінґів-ведмедів"
  PLB_exuvia_changelingia_fascism_ADJ: "Чейнджлінзько-ведмеж"
 
  PLB_exu_equus_fascism: "Титанічне володарство Еквусу"
@@ -5273,8 +5273,6 @@
  PLB_wild_hunt_ADJ: "Велике Володарство диких земель"
  PLB_wild_hunt_DEF: "Дик"
 
- PLB_juche_desc:0 "Selvstendighet, sometimes translated as Self-Reliance, is the belief that the masses cannot self-regulate, but rather must be guided by a 'Great Leader' who is the mastermind of the working class. The Great Leader is without flaw and never commits mistakes, is always benevolent and always rules for the masses. The army is the greatest of all institutions guided by the Great Leader."
-
  GRF_PLB_puppet_neutrality: "Пташина Республіка"
  GRF_PLB_puppet_neutrality_DEF: "Пташина Республіка"
  GRF_PLB_puppet_neutrality_ADJ: "Пташин"
@@ -5283,9 +5281,9 @@
  CCN_PLB_puppet_neutrality_DEF: "Чейнджлінзька республіка Соріф" # Ѳ
  CCN_PLB_puppet_neutrality_ADJ: "Соріфськ" # Ѳ
 
- PLB_GRF_owlbears_fascism: "Володарство Совведмедів"
- PLB_GRF_owlbears_fascism_DEF: "Володарство Совведмедів"
- PLB_GRF_owlbears_fascism_ADJ: "Совведмеж"
+ PLB_GRF_owlbears_fascism: "Володарство Сововедмедів"
+ PLB_GRF_owlbears_fascism_DEF: "Володарство Сововедмедів"
+ PLB_GRF_owlbears_fascism_ADJ: "Сововедмеж"
 
  PLB_CHN_occupation_authority_fascism: "Чейнджлінзька окупаційна адміністрація"
  PLB_CHN_occupation_authority_fascism_DEF: "Чейнджлінзька окупаційна адміністрація"
