@@ -387,6 +387,14 @@
  future_decryption_3_lar: "$future_decryption_3$"
  future_decryption_3_lar_desc: "$future_decryption_3_desc$"
 
+ semi_modern_rocket_engines: "Ранні МБР та кристальні ракетні двигуни"
+ guided_missile_equipment_4: "Ранні міжконтинентальні балістичні ракети"
+
+ modern_rocket_engines: "Істинні міжконтинентальні балістичні ракети"
+ modern_rocket_engines_short: "Істинні МБР"
+ guided_missile_equipment_5: "Істинні міжконтинентальні балістичні ракети"
+ guided_missile_equipment_5_short: "Істинні МБР"
+
  tech_engineers_a: "Рота інженерів V"
  tech_engineers_b: "Рота інженерів VI"
  tech_engineers_c: "Рота інженерів VII"
@@ -408,6 +416,12 @@
  tech_signal_company_a: "Рота зв'язку V"
  tech_signal_company_b: "Рота зв'язку VI"
  tech_signal_company_c: "Рота зв'язку VII"
+
+ jager: "Єгері"
+ jungletroop: "Спеціалісти джунглів"
+
+ elite_forces_02: "Елітні війська II"
+ elite_forces_03: "Елітні війська III"
 
 # events
  MINIMIZE_EVENT: "§GКлацніть§!, щоби згорнути. Подія буде переміщена в чергу подій у вкладці §HПодії та рішення§!."
