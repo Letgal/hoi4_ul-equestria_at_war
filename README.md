@@ -87,6 +87,7 @@
 + `eaw_parties` (умовно)
 + `eaw_pony_techs`
 + `eaw_production`
++ `eaw_scripted_triggers` (умовно)
 + `eaw_starting_warning_events`
 + `eaw_war`
 + `eaw_zebra_generic` (переклав *Daybreaker*)

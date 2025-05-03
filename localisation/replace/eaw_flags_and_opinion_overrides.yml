@@ -82,25 +82,25 @@
 
  NE_reign_of_terror_flag:0 "Fear factor unlocked"
 
- NE_wrathful_commander_stats_tt:0 "§RAttack Skill§!: §Y3§!\n§YDefense Skill§!: §Y1§!\n§GPlanning Skill§!: §Y2§!\n§CLogistics Skill§!: §Y1§!\n\n"
- NE_contemplative_commander_stats_tt:0 "§RAttack Skill§!: §Y1§!\n§YDefense Skill§!: §Y3§!\n§GPlanning Skill§!: §Y1§!\n§CLogistics Skill§!: §Y2§!\n\n"
- NE_cunning_commander_stats_tt:0 "§RAttack Skill§!: §Y2§!\n§YDefense Skill§!: §Y2§!\n§GPlanning Skill§!: §Y2§!\n§CLogistics Skill§!: §Y2§!\n\n"
+ NE_wrathful_commander_stats_tt: "§RНавичка атаки§!: §Y3§!\n§YНавичка захисту§!: §Y1§!\n§GНавичка планування§!: §Y2§!\n§CНавичка логістики§!: §Y1§!\n\n"
+ NE_contemplative_commander_stats_tt: "§RНавичка атаки§!: §Y1§!\n§YНавичка захисту§!: §Y3§!\n§GНавичка планування§!: §Y1§!\n§CНавичка логістики§!: §Y2§!\n\n"
+ NE_cunning_commander_stats_tt: "§RНавичка атаки§!: §Y2§!\n§YНавичка захисту§!: §Y2§!\n§GНавичка планування§!: §Y2§!\n§CНавичка логістики§!: §Y2§!\n\n"
 
  NE_unlock_new_decisions:0 "Unlocks §PBiomantic Spell§! decisions.\n"
  NE_harvesting_season_tooltip:0 "Unlocks §PBiomass Harvest§! decisions on annexed states.\n"
  NE_magic_generators_tooltip:0 "Unlocks §CMagical Draining§! decisions on annexed states.\n"
 
- ZAI_special_occupation:0 "Rule Of Monsters"
- NE_crackdown_on_populace_tooltip:0 "Unlocks a new §ROccupation Law§!.\n"
+ ZAI_special_occupation: "Правління чудовиськ"
+ NE_crackdown_on_populace_tooltip: "Відмикає новий §Rзакон окупації§!.\n"
 
- DEL_undead_occupation:0 "Undead Occupation"
+ DEL_undead_occupation: "Окупація мерцями"
 
  WIT_harvest_complete:0 "The biomass in this state has been harvested"
  WIT_harvest_magic_complete:0 "The magic in this state has been collected"
 
  TMB_focus: "Дерево фокусів Тамбелону"
 
- total_seapony_death:0 "[HIP.GetNameDefCap] will lose access to §YUnderwater Buildings & Conscription§!.\n"
+ total_seapony_death: "[HIP.GetNameDefCap] втратить доступ до §Yпідводних споруд і призовників§!.\n" # (&?)
 
  Terathopia_2_fascism:0 "The Eternal Doctrine"
  Terathopia_2_fascism_DEF:0 "The Eternal Doctrine"

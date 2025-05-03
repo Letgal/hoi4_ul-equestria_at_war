@@ -1,14 +1,14 @@
 ﻿# == (*) ==
 ### ЕЛЕКТРОНІКА ###
  electronic_mechanical_engineering: "Рання електромеханіка"
- #electronic_mechanical_engineering_desc:0 "Much interest and research into non-magical long-distance communication arose with the global increase in production due to the industrial revolution. As telegraphy and automated telephone exchanges enter public service, electromechanics promises a massive technological jump in communication and computing."
+ electronic_mechanical_engineering_desc: "Інтерес до немагічного зв'язку на далекі відстані та дослідження в цій галузі виникли з глобальним зростанням виробництва внаслідок промислової революції. З упровадженням телеграфії й автоматичних телефонних станцій електромеханіка обіцяє величезний технологічний стрибок у галузі зв'язку й обчислювальної техніки."
 
  radio: "Масове впровадження FM-радіо"
- #radio_desc:0 "Since the invention of frequency modulation, radio transceivers with clearer broadcasts have become commonplace among radio enthusiasts. The utility of these FM radios is evident, as unlike with previous AM radios, the broadcasts are relatively free of static caused by outside interference. This, of course, allows for precise and near-instant communication that is invaluable for our military forces."
+ radio_desc: "Від винайдення частотної модуляції радіоприймачі з більш чітким звучанням стали звичним явищем серед любителів радіо. Корисність цих FM-радіоприймачів очевидна, оскільки, на відміну від попередніх AM-радіоприймачів, вони відносно вільні від статичних шумів, спричинених зовнішніми перешкодами. Це, звісно, забезпечує точний і майже миттєвий зв'язок, що є безцінним для наших військових."
  improved_radio: "Спеціалізовані радіодіапазони"
- improved_radio_desc:0 "There is a fairly large frequency range within the radio spectrum, but there have already been instances of radio channels sharing similar frequency bands that lead to accidental interferences. Selecting certain radio bands for different uses will allow us to use the radio spectrum while preventing interference efficiently. Commercial radio stations will appreciate this, as will our military branches."
+ improved_radio_desc: "У радіочастотному спектрі є доволі великий діапазон частот, але вже траплялися випадки, коли радіоканали використовували схожі частотні смуги, що призводило до ненавмисних перешкод. Виділення певних радіодіапазонів для різних цілей дозволить нам ефективно використовувати радіочастотний спектр, запобігаючи при цьому виникненню перешкод. Комерційні радіостанції це оцінять, як і наші військові підрозділи."
  advanced_radio: "Мініатюризація радіо"
- advanced_radio_desc:0 "Initial forays in making two-way wireless radio sets portable were generally impractical due to the typically fragile nature of the electronic equipment. Early sets could be mounted in vehicles, but a refinement in battery and vacuum tube technology now makes it possible to reduce the size of the radio transceiver to a backpack or saddlebag. This is an invaluable tool for even an infantry squad and is a worthwhile investment."
+ advanced_radio_desc: "Початкові спроби зробити двосторонні бездротові радіостанції портативними були, як правило, непрактичними через звично крихкий характер електронного обладнання. Перші радіостанції можна було встановлювати у транспортних засобах, але вдосконалення технології акумуляторів і вакуумних ламп дозволило зменшити розмір радіопередавача до розміру рюкзака або сідлової сумки. Це неоціненний інструмент навіть для піхотного підрозділу, а також вартісне вкладення."
 
  mechanical_computing: "Сучасні аналітичні машини"
  #mechanical_computing_desc:0 "Differential engines and general-purpose computers have been in use for some time, though most have been relatively limited and straightforward in their function. Early machines were unprogrammable and not computationally universal. Using punch cards as instructions and rods that act as memory, subsequent engines are more versatile and faster than before."
@@ -29,7 +29,7 @@
  #basic_decryption_desc:0 "Intelligence gathering is increasingly becoming a mathematical problem, as radios and telegrams are encoded in increasingly hidden systems. Machine-assisted decryption is now a possibility with the introduction of cyclometers. With these devices, mathematicians use frequency analysis to 'count' the letters in cyphertexts and aid in exploiting flawed cyphers."
  improved_decryption: "Атаки з бічних каналів"
  #improved_decryption_desc:0 "Traditionally, decrypting hidden messages involves a concentrated effort in decoding the messages themselves. However, we've found that we can gain information from the implementation of computer systems used in cypher machines. We can exploit these additional sources of data to glean the nature of the cyphers. These 'side-channel' attacks require considerable technical knowledge, but decyphering enemy intelligence is crucial to our war efforts."
- advanced_decryption: "Автоматизована дедукція"
+ advanced_decryption: "Автоматизоване відрахування"
  #advanced_decryption_desc:0 "As enemy cyphers become more sophisticated, immediate analysis of codes becomes far more challenging. We can detect specific cypher routines with parallelised automated theorem proving run through high clock speed computers. From there, the deductions made by running logic engines offer various clues and traces of the otherwise impenetrable cypher structures."
 
  atomic_research: "Атомні дослідження"
@@ -200,16 +200,16 @@
  #antitank4:0 "Self-Discarding Sabot"
 
  ### ФЛОТ ###
- basic_naval_mines:0 "Contact Mine"
+ basic_naval_mines: "Контактні міни"
  basic_naval_mines_desc:0 "A simple floating bomb, anchored to the sea floor. The mine explodes when it comes into contact with a ship."
- improved_naval_mines:0 "Magnetic Mine"
+ improved_naval_mines: "Магнітні міни"
  improved_naval_mines_desc:0 "This sophisticated mine explodes when it detects changes in the magnetic field stemming from a passing ship."
- advanced_naval_mines:0 "Acoustic Mine"
+ advanced_naval_mines: "Акустичні міни"
  advanced_naval_mines_desc:0 "This type of naval mine detonates when its sensors detect the noise of a nearby ship."
- modern_naval_mines:0 "Pressure Mine"
+ modern_naval_mines: "Тискові міни"
  modern_naval_mines_desc:0 "This highly advanced mine detects small changes in water pressure caused by a ship moving nearby."
 
- degaussing:0 "Degaussing"
+ degaussing: "Розмагнічення"
  degaussing_desc:0 "By installing powerful electro-magnetic coils, a ship's magentic signature can be dramatically reduced, making it far less vulnerable to magnetic mines."
 
  submarine_mine_laying:0 "Minelaying Submarine"
@@ -223,12 +223,12 @@
  concentrated_industry_category:0 "Concentrated Industry Technologies"
  dispersed_industry_category:0 "Dispersed Industry Technologies"
 
- sonar:0 "Hydrophone"
+ sonar: "Гідрофон"
  sonar_desc:1 "A basic set of hydrophones allows tracking of underwater targets through detecting the sound they make.\n\nMounting this module in an §YElectronics Slot§! on §YLight Ships§! or §YCruisers§! will help them detect enemy §YSubmarines§!."
- improved_sonar:0 "Passive Sonar"
+ improved_sonar: "Пасивний сонар"
  improved_sonar_desc:1 "Using modulated sound waves, this system can accurately measure bearing and distance to a submerged target."
 
- smoke_generator:0 "Smoke Generators"
+ smoke_generator: "Димогенератори"
  smoke_generator_desc:0 "Some minor modifications to the engines and smokestacks of light and medium ships allow them to make a lot of smoke to avoid or break contact with the enemy."
  depth_charges_advice_tt:0 "\nMounting a §YDepth Charge§! module on §YLight Ships§! and §YCruisers§! will allow them to attack enemy §YSubmarines§!."
  sonar_advice_tt:0 "\nMounting a §YSonar§! module on §YLight Ships§! and §YCruisers§! will allow them to detect enemy §YSubmarines§!."
@@ -357,9 +357,6 @@
  mtg_tank_landing_craft_desc:0 "A better understanding of hydrodynamics makes new, shallower motorboats able to traverse extremely shallow waters and keep them as speedy as previous models. They achieve this by reducing overall contact with the water, making some high-speed designs seem like they're flying along the waterline when unloaded."
 
 ### МАШИННИЙ ПЕРЕКЛАД ###
- electronic_mechanical_engineering_desc: "§MІнтерес до немагічного зв'язку на далекі відстані та дослідження в цій галузі виникли з глобальним зростанням виробництва внаслідок промислової революції. З появою телеграфії та автоматичних телефонних станцій електромеханіка обіцяє величезний технологічний стрибок у сфері зв'язку та обчислювальної техніки.§!"
- radio_desc: "§MЗ моменту винайдення частотної модуляції радіоприймачі з більш чітким звучанням стали звичним явищем серед ентузіастів. Корисність цих FM-радіоприймачів очевидна, оскільки, на відміну від попередніх AM-радіоприймачів, вони відносно вільні від статичних перешкод, спричинених зовнішніми завадами. Це, звісно, забезпечує точний і майже миттєвий зв'язок, що є безцінним для наших військових.§!"
-
  mechanical_computing_desc: "§MДиференціальні двигуни та обчислювальні машини загального призначення використовувалися протягом певного часу, хоча більшість з них були відносно обмеженими та простими у своїх функціях. Ранні машини були непрограмованими і не універсальними в обчислювальному плані. Використовуючи перфокарти як інструкції та стрижні, що виконують роль пам'яті, наступні двигуни стали більш універсальними та швидшими, ніж раніше.§!"
  computing_machine_desc: "§MВикористовуючи електродвигуни для обертання штоків і осьових коліс, це нове покоління обчислювачів вперше використовує електромеханічний обчислювальний механізм і символьну систему числення замість десяткової системи числення. Ці особливості дозволяють обчислювальный машині обраховувати рівняння високого порядку або швидко обчислювати рівняння нижчих порядків. Це значно полегшить роботу наших дослідників.§!"
  improved_computing_machine_desc: "§MПерші програмовані автоматичні цифрові обчислювачі — це масивні машини, навіть у порівнянні з попередніми механічними лічильниками, але з багатьма сотнями реле. Це дозволило реалізувати більшу довжину бітових слів, які можуть працювати на більш високих тактових частотах. Швидкість і точність цих машин уможливлюють дуже складні обчислення, характерні для криптографії та аеродинаміки — галузей, що розвиваються в наш час.§!"
@@ -419,7 +416,7 @@
  excavation2_desc:0 "§MПошук і розвідка нових родовищ корисних копалин - це повільний і кропіткий процес. Якщо він буде виконаний погано, різні групи видобувних компаній можуть випадково натрапити на одну й ту ж саму жилу! Ось чому правильне геологічне картування має важливе значення, щоб допомогти розрізнити різні шари землі і звузити потенційні місця пошуку.§!"
  excavation3_desc:0 "§MНе всі шахти мають відповідне обладнання, таке як шахтні кліті, підйомники, скіпи та підйомні бурильні установки, які знижують ризик і підвищують продуктивність. Забезпечення національного стандарту обладнання та машин для автоматизації якомога більшої частини розвідки є розумним і етичним рішенням, що робить робоче місце безпечнішим.§!"
  excavation4_desc:0 "§MНа відміну від традиційних кар'єрів, кар'єрний видобуток - це переважно механізована форма видобутку корисних копалин на відкритій місцевості з використанням горизонтальних лафетів. Набагато більш придатні для поверхонь, які перешкоджають прокладанню тунелів, відкриті кар'єри дозволяють легко розширюватися, поки мінеральні ресурси не будуть вичерпані. Цей метод є відносно дорогим, оскільки вимагає великих екскаваторів і вантажівок для перевезення руди і відходів. Тим не менш, це швидкий і простий метод для великих гірничодобувних підприємств.§!"
- excavation5_desc:0 "§MЗупинки були створені від початку підземного видобутку корисних копалин. Однак ручні системи зупинки були витіснені усадочною зупинкою - видобуток ведеться знизу вгору горизонтальними шматками, а зруйнована руда залишається на місці, щоб шахтарі могли працювати над нею. Це набагато ефективніший і безпечніший метод зупинки, який підвищує загальну продуктивність шахти.§!"
+ excavation5_desc:0 "§MВиїмки були створені від початку підземного видобутку корисних копалин. Однак ручні системи виїмки були витіснені осадною виїмкою - видобуток ведеться знизу вгору горизонтальними шматками, а зруйнована руда залишається на місці, щоб шахтарі могли працювати над нею. Це набагато ефективніший і безпечніший метод виїмки, який підвищує загальну продуктивність шахти.§!"
 
  fuel_silos_desc:0 "§MУ міру того, як рідке паливо стає все більш поширеним, а обсяги його зберігання зростають, виникає потреба в об'єктах, призначених для зберігання цього ресурсу. Силоси та резервуари для зберігання палива, труби для легкого доступу та перекачування, а також клапани для його захисту. Ці сховища спроектовані з урахуванням потенційного розширення, якщо нам знадобиться збільшити наші запаси.§!"
 
