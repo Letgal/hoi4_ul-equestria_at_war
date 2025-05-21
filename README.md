@@ -10,8 +10,10 @@
 + `countries_griffonia`
 + `countries_zebrica`
 + `country_AET` (переклав [*StasJesus*](https://steamcommunity.com/profiles/76561198867405533))
++ `country_ANG` (переклав *StasJesus*) — перечитати
 + `country_BAL` (переклав [*Green Kitten*](https://steamcommunity.com/profiles/76561198235810742))
 + `country_BAL_protectorate` (переклав *Green Kitten*)
++ `country_BAR`<!--  (переклав *Max*) --> — перечитати
 + `country_BOI`
 + `country_BUF` (переклав *Kiparu*)
 + ~~`country_CES`~~ (попередню версію переклав [*Daybreaker*](https://steamcommunity.com/profiles/76561199084403733))
@@ -32,12 +34,14 @@
 + `country_ERI`
 + `country_EWI`<!--  (переклав… хто?) -->
 + `country_EYR`
-+ `country_FAT` (переклав *StasJesus*)
++ `country_FAL` (переклав *Green Kitten*)
++ `country_FAT` (переклав *StasJesus*) — перечитати
 + `country_GFF` (умовно; переклав *Green Kitten*)
 + `country_GRF` (переклав *StasJesus*)
++ `country_HAU` (переклав *Бовкун*) — перечитати
 + `country_HIP` (умовно<!-- ; переклав… хто? -->)
 + `country_JEB`
-+ `country_JER`<!--  (переклав… хто?) -->
++ `country_JER`<!--  (переклав… *Римур*?) -->
 + `country_JFT`
 + `country_JRR`
 + `country_JUN` (переклав *Green Kitten*)
