@@ -1,7 +1,7 @@
 # Українська локалізація *Equestria at War*
 Оновлено для *Equestria at War* версії ***2.4.0.4*** (версія гри&nbsp;— *1.16*)
 
-Мод замінює **англійську** та **російську** локалізації.
+Також включає в себе частковий переклад сабмоду *Diarchy Expanded*.
 
 Локалізація доступна до завантаження в [Майстерні *Steam*](https://steamcommunity.com/workshop/filedetails/?id=3176454246).
 
@@ -28,7 +28,7 @@
 + `country_EQC_NLR`<!--  (переклав *Max*) -->
 + `country_EQC_Reichsmandat`<!--  (переклав *Max*) -->
 + `country_EQC_SOL`<!--  (переклав *Max*) -->
-+ `country_EQS`
++ `country_EQS` (частина з *Diarchy Expanded* не є завершена)
 + `country_ERI`
 + `country_EWI`<!--  (переклав… хто?) -->
 + `country_EYR`
