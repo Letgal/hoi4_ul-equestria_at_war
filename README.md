@@ -40,7 +40,7 @@
 + `country_GRF` (переклав *StasJesus*)
 + `country_HAU` (переклав *Бовкун*) — перечитати
 + `country_HIP` (умовно<!-- ; переклав… хто? -->)
-+ `country_JAK` (переклав *Green Kitten*)
++ `country_JAK` (переклав *Green Kitten*) — перечитати, **оновити**
 + `country_JEB`
 + `country_JER`<!--  (переклав… *Римур*?) -->
 + `country_JFT`
@@ -71,7 +71,7 @@
 + `country_WNG` (переклав *Sanyok*)
 + `country_YAK`:
 	+ стару версію переклав *ціктакомба*
-	+ нову версію переклав *Green Kitten*
+	+ нову версію переклав *Green Kitten* — перечитати, **оновити**
 + ~~`eaw_achievements`~~
 + `eaw_adjacency_rules`
 + `eaw_autonomy`
