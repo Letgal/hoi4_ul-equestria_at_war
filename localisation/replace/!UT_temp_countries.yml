@@ -1399,6 +1399,8 @@
  FAT_APRILFOOLS_communism_ADJ: "Маарськ"
 
 # country_FBK
+ Hillfolk_League_Faction: "Ліга народів пагорбів"
+
  ### ПЕРСОНАЖІ ###
   # Лідери
   FBK_council_of_chieftains: "Рада вождів"
@@ -4416,7 +4418,7 @@
  ### ПЕРСОНАЖІ ###
   # Лідери
   NIM_pegicles: "Пегікл"
-  NIM_the_boule: "Буль"
+  NIM_the_boule: "Буле"
   NIM_pegalaios: "Пегалай"
   NIM_andreia: "Андрія" # Андрея?
   NIM_metakeros: "Метакерос"
