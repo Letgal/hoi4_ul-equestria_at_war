@@ -64,6 +64,7 @@
 + `country_Storm` (переклав *Daybreaker*)
 + `country_TAL` (переклав *Sanyok*)
 + `country_VAN` (переклав *Green Kitten*)
++ `country_VED` (переклав *107*)
 + `country_VIN`
 + `country_WAR` (переклав *StasJesus*)
 + `country_WAT`
