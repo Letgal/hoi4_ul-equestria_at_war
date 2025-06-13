@@ -1,0 +1,118 @@
+﻿# == (*) ==
+EQS_STATUS: "Еквестрія"
+ RULE_OPTION_DEFAULT_EQS_STATUS_DESC: "Еквестрія — мирна та гармонійна держава, об'єднана діархією двох сестер-алікорнів."
+ RULE_OPTION_EQS_STATUS_CIVIL_WAR: "Місячна громадянська війна"
+ RULE_OPTION_EQS_STATUS_CIVIL_WAR_DESC: "Еквестрія розірветься на шматки внаслідок жорстокої громадянської війни між лоялістами Селестії, лунаристами та численними державами-сепаратистами."
+
+RIVER_FED_STATUS: "Річкова Федерація"
+ RULE_OPTION_DEFAULT_RIVER_FED_DESC: "Річкова Федерація почне гру відповідно розділеною між її можливими державами-членами."
+ RULE_OPTION_RIVER_FED_UNITED: "Федерація"
+ RULE_OPTION_RIVER_FED_UNITED_DESC: "Річкова Федерація почне гру федеративною державою: всі її держави-члени будуть об'єднані під владою Річкової республіки. Це може поліпшити швидкодію гри."
+
+GRI_EMPIRE_STATUS: "Імперія Грифонів"
+ RULE_OPTION_DEFAULT_GRI_EMPIRE_DESC: "Імперія Грифонів після свого краху — лише слід своєї колишньої слави, і багато її васалів відокремилися."
+ RULE_OPTION_GRI_EMPIRE_UNITED: "Істинна імперія"
+ RULE_OPTION_GRI_EMPIRE_UNITED_DESC: "Імперія перебуває в зеніті свого розширення та своєї влади над континентом Грифонія.\n\nНе тестовано: може призвести до небажаних оказій. Не повідомляйте про помилки, граючи з цим правилом."
+
+HLR_AND_DED_STATUS: "Північна війна"
+ RULE_OPTION_DEFAULT_HLR_AND_DED_DESC: "Арктурійський орден і Ліга Жаху будуть звично протистояти один одному."
+ RULE_OPTION_EARLY_CRUSADE: "Ранній Великий чорний похід"
+ RULE_OPTION_EARLY_CRUSADE_DESC: "Ліга Жаху під керівництвом ШІ не буде обмежена та зможе розпочати Великий чорний похід до 1022 року."
+ RULE_OPTION_DED_ANNEXED: "Загрозу стримано"
+ RULE_OPTION_DED_ANNEXED_DESC: "Ліга Жаху не існує, а її землі охороняє Арктурійський орден. Це може поліпшити швидкодію гри."
+ RULE_OPTION_REAL_THREAT: "Апокаліпсис Жаху"
+ RULE_OPTION_REAL_THREAT_DESC: "Ліга Жаху отримає великі бонуси та піде обома гілками дерева фокусів водночас, що сильно зміцнить її. Великий чорний похід станеться після 1018 року.\n\nПеремога над Лігою Жаху буде важким випробуванням, а Арктурійському ордену буде майже неможливо перемогти. Не рекомендовано для початківців. Бонуси буде застосовано тільки для Ліги Жаху під керівництвом ШІ."
+
+EQS_PUPPET_STATUS: "Еквестрійські домініони"
+ RULE_OPTION_DEFAULT_EQS_DESC: "Материкова Еквестрія панує над своїми домініонами: Новим Мейрлендом і Кристальною Імперією. Сталліонград є незалежною комуністичною республікою."
+ RULE_OPTION_DIRECT_RULE: "Пряме управління з Кантерлоту"
+ RULE_OPTION_DIRECT_RULE_DESC: "Усі еквестрійські території напряму підпорядковуються Кантерлоту.\n\nНе тестовано: може призвести до небажаних оказій. Не повідомляйте про помилки, граючи з цим правилом."
+
+KIR_STATUS: "Кірія"
+ RULE_OPTION_DEFAULT_KIR_STATUS_DESC: "За велінням прем'єра Отем Блейз у Кірії розпочнеться Великий стрибок уперед.\n\n§uПримітка перекладача: вміст не перекладено.§!"
+ RULE_OPTION_KIR_CIVIL_WAR: "Громадянська війна в Кірії"
+ RULE_OPTION_KIR_CIVIL_WAR_DESC: "Кірія виявилася недостатньо сильною, щоби витримати тиск модернізації. Володарство впаде у згубну громадянську війну.\n\n§YТільки для гравця.§!\n\n§uПримітка перекладача: вміст не перекладено.§!"
+
+RULE_ALLOW_FACTION: "£eaw_text£ Створення та приєднання до альянсів"
+ RULE_ALLOW_FACTION_BLOCKED_DESC: "Альянси будуть створюватися та розширюватися лише за фокусами та подіями.\n\nПеребіг £eaw_text£ §YEquestria at War§! за замовчуванням. Рекомендовано."
+ RULE_ALLOW_FACTION_ALLOWED_DESC: "Суверенні держави можуть створювати альянси, приєднуватися та запрошувати до них інших, якщо тільки їм дозволяють відповідні правила.\n\n§RНе рекомендовано: призведе до багатьох небажаних і нетестованих оказій. Зауважте.§!"
+ RULE_ALLOW_KICK_FACTION_AI_ONLY_DESC: "Тільки гравець-лідер альянсу може виганяти держави з альянсу."
+ RULE_OPTION_HUMANS_ONLY: "Тільки гравці"
+ RULE_ALLOW_FACTION_HUMANS_ONLY_DESC: "Суверенні держави, очолювані гравцем (не ШІ), можуть створювати альянси, приєднуватися та запрошувати до них інших (у тому числі ШІ-альянси), якщо тільки їм дозволяють відповідні правила.\n\nРекомендовано для мережевих ігор."
+ RULE_FACTION_BLOCKED_TT: "Правило гри: §RКраїни не можуть створювати, приєднуватися до або запрошувати інших до альянсів.§!" # (&?)
+ RULE_FACTION_HUMANS_ONLY_TT: "Правило гри: §RТільки країни під керівництвом гравця можуть створювати, приєднуватися до або запрошувати інших до альянсів.§!" # (&?)
+
+ RULE_KICK_FROM_FACTION_AI_ONLY_TOOLTIP: "Правило гри: §RТільки гравець-лідер альянсу може виганяти держави з альянсу.§!"
+ RIVER_KICK_FROM_FACTION_BLOCKED_TOOLTIP: "Річкова коаліція не може виганяти своїх членів вручну.\n"
+ EQS_KICK_FROM_FACTION_BLOCKED_TOOLTIP: "Всееквестрійський фронт не можна розпустити вручну.\n"
+
+ RULE_ALLOW_RELEASE_NATIONS_NOT_OVINGO_TOOLTIP: "Мейргипту не дозволено звільняти Овінґоленд.\n"
+ RULE_ALLOW_RELEASE_NATIONS_NOT_ZUMIDIA_TOOLTIP: "Гіпогрифії не дозволено звільняти Зумідію.\n"
+ RULE_ALLOW_RELEASE_NATIONS_NOT_CHIROPTERRA_TOOLTIP: "Гіпогрифії не дозволено звільняти Хіроптерру.\n"
+
+RULE_AI_PRODUCTION_FIX: "£eaw_text£ Поправка до виробництва ШІ"
+ RULE_AI_PRODUCTION_FIX_ALLOWED_DESC: "§YПоправку до виробництва ШІ §Rввімкнено§!.§!\nЧерез той факт, що ШІ постійно видаляє свої виробничі лінії, він втрачає значну частину свого можливого спорядження, що не стається з гравцем. Це правило виправляє цю проблему, додаючи ШІ §Yбазову ефективність виробництва§!:\n  §G+20%§! для рівня складності §G$FE_DIFFICULTY_EASY$§!;\n  §G+40%§! для рівня складності §Y$FE_DIFFICULTY_NORMAL$§!;\n  §G+60%§! для рівня складності §R$FE_DIFFICULTY_HARD$§!;\n  §G+80%§! для рівня складності §R$FE_DIFFICULTY_VERY_HARD$§!.\n§YМежу ефективності виробництва§! також буде збільшено на:\n  §G+20%§! для рівня складності §R$FE_DIFFICULTY_HARD$§!;\n  §G+40%§! для рівня складності §R$FE_DIFFICULTY_VERY_HARD$§!.\n§YБазова ефективність виробництва§! буде завжди на §G+10%§! нижча від §Yмежі ефективності виробництва§!, в залежності від досліджених технологій.\n\n§YЦе зробить вашу боротьбу зі ШІ значно важчою. Рекомендовано вимкнути для гри за малі держави або недосвідченим гравцям.§!"
+ RULE_AI_PRODUCTION_FIX_BLOCKED_DESC: "§YПоправку до виробництва ШІ §Gвимкнено§!.§!\n§GРекомендовано для новачків та ігор за малі держави.§!\n\n"
+
+RULE_AI_DIVISION_LIMITER: "£eaw_text£ Обмеження дивізій ШІ"
+ RULE_AI_DIVISION_LIMITER_ALLOWED_DESC: "ШІ буде обмежувати кількість розгорнутих дивізій на основі кількості своїх заводів, станом війни/миру, статусом великої держави та світовою напруженістю. Це дозволяє грі йти швидше та допомагає зупинити ШІ від застосування недооснащених дивізій. Певні держави виключені з цього обмеження.\n\nПеребіг £eaw_text£ §YEquestria at War§! за замовчуванням. Рекомендовано.\n\nТакож доступно в якості окремого моду, «AI Division Limiter» (не запускайте з £eaw_text£ §YEquestria at War§!)." # (&?)
+ RULE_AI_DIVISION_LIMITER_BLOCKED_DESC: "Кількість дивізій, які ШІ може розгорнути, не буде обмежено.\n\nПеребіг §YHearts of Iron IV§! за замовчуванням."
+
+ DIPLOMACY_NOT_DETACHED_COUNTRY: "§RАбо ми, або вони є §HІзольованою країною§!.§!"
+ CHN_CANNOT_RELEASE_EQUESTRIA: "§R[ROOT.GetNameDef] не може звільнити державу [EQS.GetNameDef].§!"
+ KIR_CANNOT_RELEASE_RIVAL_FACTION: "§R[ROOT.GetNameDef] не може звільнити суперницькі фракції у громадянській війні.§!"
+ CHN_CANNOT_RELEASE_STALLIONGRAD: "§R[ROOT.GetNameDef] не може звільнити державу [STG.GetNameDef].§!"
+ DIPLOMACY_UNAVAILABLE_US_SUBJECT: "§RНе дозволено, тому що ми — суб'єкт.§!"
+ REQUEST_EXP_FORCE_BLOCKED_TT: "§RРівень їхньої автономії надто високий.§!"
+ DIPLOMACY_WT_ACCEPTANCE_LEND_LEASE:0 "§RWith their acceptance of our ideology, we need higher world tension to Lend-Lease them.§!"
+ DIPLOMACY_AVIANS_TO_STAR_FATHER:0 "§RThe §rStar Father§! is a madzebra in power preaching the destruction of our species. We shall do no such thing as to engage in diplomatic discussion with [HIE.GetName].§!"
+ MERCENARIES_NOT_VOLUNTEERS:0 "Can only send 'volunteers' under a §YPrivate Military Contract Decision§!."
+
+INFUNSTRUCTURE: "Початкова інфраструктура"
+ RULE_OPTION_DEFAULT_INFUNSTRUCTURE_DESC: "Області мають канонічну інфраструктуру різних рівнів."
+ RULE_OPTION_PSODY_MODE: "Видалити інфраструктуру"
+ RULE_OPTION_PSODY_MODE_DESC: "«ВІДСУТНІСТЬ ПОСТАЧАННЯ ПОЛІПШУЄ ГРУ».\n    - Psody, 2019"
+
+GREAT_WAR_AI_BUFFS: "£eaw_text£ Бонуси для ШІ під час Великої війни"
+ RULE_OPTION_BUFFS_REMOVED_DESC: "ШІ Еквестрії не отримує жодні бонуси, воюючи проти Земель Чейнджлінґів.\n\nПеребіг £eaw_text£ §YEquestria at War§! за замовчуванням. Рекомендовано."
+ RULE_OPTION_BUFFS_ADDED: "Бонуси для ШІ Еквестрії"
+ RULE_OPTION_DEFAULT_BUFFS_DESC: "Еквестрія отримає різні бонуси під час війни проти Земель Чейнджлінґів, якщо та перебуває під керівництвом ШІ."
+ RULE_OPTION_CHN_BUFFS_ADDED: "Бонуси для ШІ Земель Чейнджлінґів"
+ RULE_OPTION_DEFAULT_CHN_BUFFS_DESC: "Землі Чейнджлінґів отримають різні бонуси під час війни проти Еквестрії, якщо ті перебувають під керівництвом ШІ."
+
+NCR_EXISTS_STATUS: "Новокаліфорнійська експедиція"
+ RULE_OPTION_DEFAULT_NCR_DESC: "У цьому світі немає людей.\n\nПеребіг £eaw_text£ §YEquestria at War§! за замовчуванням. Рекомендовано."
+ RULE_OPTION_NCR_ACTIVE: "Відчинити портал"
+ RULE_OPTION_NCR_ACTIVE_DESC: "Новокаліфорнійська експедиція з'явиться на південному заході Еквестрії.\n\nЦей вміст є частиною спільного проєкту між командами £eaw_text£ §YEquestria at War§!, §4Old World Blues§! і §6Kaiserreich§!, віднесений на 1-е квітня 2020 року.\n\n§RНе сумісно з Теорією Твайлайт.§!\n\n§uПримітка перекладача: вміст не перекладено.§!\n"
+ RULE_OPTION_NCR_PLAY_AS: "Відчинити портал і грати за людей"
+ RULE_OPTION_NCR_PLAY_AS_DESC: "Новокаліфорнійська експедиція з'явиться на південному заході Еквестрії й ви будете грати за неї.\n\nЦей вміст є частиною спільного проєкту між командами £eaw_text£ §YEquestria at War§!, §4Old World Blues§! і §6Kaiserreich§!, віднесений на 1-е квітня 2020 року.\n\n§RНе сумісно з Теорією Твайлайт.§!\n\n§uПримітка перекладача: вміст не перекладено.§!\n"
+
+DED_APRIL_FOOL_STATUS: "Dread Flood: Північ пробуджується"
+ RULE_OPTION_DEFAULT_DED_DESC:0 "No books were found in the library of Magehold. The Dread Flood shall not overwhelm the World.\n\nПеребіг £eaw_text£ §YEquestria at War§! за замовчуванням. Рекомендовано."
+ RULE_OPTION_DED_APRIL_FOOL: "ШВИДШЕ, ШВИДШЕ, ШВИДШЕ"
+ RULE_OPTION_DED_APRIL_FOOL_DESC: "§RДійсність — це те, що ми з неї робимо.§!\n\nЦей вміст є частиною спільного проєкту між командами £eaw_text£ §YEquestria at War§! і §RRed Flood§!, віднесений на 1-е квітня 2021 року."
+
+TNO_APRIL_FOOL_STATUS: "Теорія Твайлайт"
+ RULE_OPTION_DEFAULT_TNO_DESC: "Принцеси нікуди не зникають, і крайній строк не було встановлено.\n\nПеребіг £eaw_text£ §YEquestria at War§! за замовчуванням. Рекомендовано."
+ RULE_OPTION_TNO_APRIL_FOOL: "Годинник цокає, Твайлайт..."
+ RULE_OPTION_TNO_APRIL_FOOL_DESC: "§RЗближається крайній строк, і принцеси скоро повернуться.§!\n\nЦей вміст є частиною спільного проєкту між командами £eaw_text£ §YEquestria at War§! і §CThe New Order§!, віднесений на 1-е квітня 2022 року.\n\n§uПримітка перекладача: вміст не перекладено.§!"
+
+EOG_APRIL_FOOL_STATUS: "Єресь Донкло"
+ RULE_OPTION_DEFAULT_EOG_DESC:0 "The inscrutable experiments of Yale do not happen, and Grover V passes in peace.\n\nПеребіг £eaw_text£ §YEquestria at War§! за замовчуванням. Рекомендовано."
+ RULE_OPTION_EOG_APRIL_FOOL: "ЗА ІМПЕРАТОРА!"
+ RULE_OPTION_EOG_APRIL_FOOL_DESC:0 "§YThe Emperor of Griffonkind will rise, and Griffonia shall bow to its rightful master.§!\n\nЦей вміст є частиною спільного проєкту між командами £eaw_text£ §YEquestria at War§! і §8Unification Wars§!, віднесений на 1-е квітня 2023 року.\n\n§uПримітка перекладача: вміст не перекладено.§!"
+
+ABY_APRIL_FOOL_STATUS: "Каценрайх"
+ RULE_OPTION_ABY_APRIL_FOOL: "Кіт із далекого космосу" # Кац
+ RULE_OPTION_ABY_APRIL_FOOL_DESC:0 "§YKaiser Kattail, the supreme ruler of the Katzenartig Imperium has once more begun the cycle, only to find himself not on his preferred world of Flusion...§!\n\nЦей вміст є частиною спільного проєкту між командами £eaw_text£ §YEquestria at War§! і §OGigastructural Engineering§!, віднесений на 1-е квітня 2024 року.\n\n§uПримітка перекладача: вміст не перекладено.§!"
+ RULE_OPTION_ABY_APRIL_FOOL_HARD: "§RВажко§!: Дика поїздочка кайзера"
+ RULE_OPTION_ABY_APRIL_FOOL_HARD_DESC:0 "§YKaiser Kattail, the supreme ruler of the Katzenartig Imperium has once more begun the cycle, only to find himself not on his preferred world of Flusion...§!§R and prepares for a showdown of cataclysmic proportions!§!\n\nThis is a §Rsignificantly more difficult§! version of the §YKaiser Kattail§! April fools, only for the best of Kaisers!\n\nIf playing as §YKattail§!, the Conquest Timer will give §Y3 days§! (§Y1.5 days§! during the Continental Conquests) per conquered state rather than §Y6 days§! (§Y3 days§! during the Continental Conquests), all of Kattail's enemies will progressively get stronger and stronger buffs as he conquers, and the §YUFS§! will form slightly earlier.\n\nIf playing §Yagainst Kattail§!, he will progressively get stronger and stronger buffs as he conquers more.\n\nIf both Kattail and another nation aren't AI, then the Kattail player will receive the penalties.\n\nЦей вміст є частиною спільного проєкту між командами £eaw_text£ §YEquestria at War§! і §OGigastructural Engineering§!, віднесений на 1-е квітня 2024 року.\n\n§uПримітка перекладача: вміст не перекладено.§!"
+ RULE_OPTION_DEFAULT_ABY_DESC:0 "Kaiser Kattail lands on his preferred planet, Flusion, and the world of Equestria at War is spared from his machinations.\n\nПеребіг £eaw_text£ §YEquestria at War§! за замовчуванням. Рекомендовано."
+
+TBK_APRIL_FOOL_STATUS: "Вісник і чудовисько"
+ RULE_OPTION_TBK_APRIL_FOOL: "Вісник Сураеля"
+ RULE_OPTION_TBK_APRIL_FOOL_DESC:0 "A mysterious elf known as §OJaddar Jexiszuir§! awakens to find himself in the desert near Tobuck. What sort of strange religion might this even stranger creature establish in Zebrica as he tries to find a way home?\n\nAdditionally, a legendary figure known as §1Beastbane§! will appear in Talarayi in 1010 and attempt to restore his glorious kingdom of Castanor.\n\nAs a minor unrelated joke, a few countries in southeast Zebrica will feature cameos from the animated short Ongezellig.\n\nЦей вміст є частиною спільного проєкту між командами £eaw_text£ §YEquestria at War§! і §7Anbennar§!, віднесений на 1-е квітня 2025 року.\n\n§uПримітка перекладача: вміст не перекладено.§!\n\n"
+ RULE_OPTION_DEFAULT_TBK_APRIL_FOOL_DESC:0 "Jaddar Jexiszuir's climactic showdown with Zokka Devourer-of-Suns is not interrupted, and the residents of Tobuck do not become his new flock.\n\nBeastbane remains lost to history.\n\nПеребіг £eaw_text£ §YEquestria at War§! за замовчуванням. Рекомендовано."
+
+ PLB_NORTHERN_FRONT_ALONE_CALL:0 "[FROM.GetNameDefCap] cannot be called due to Bjornling's adamant position that this struggle is for the souls of ice alone."
+ PLB_NORTHERN_FRONT_ALONE_JOIN:0 "You cannot join [FROM.GetNameDef] due to Bjornling's adamant position that this struggle is for the souls of ice alone."
