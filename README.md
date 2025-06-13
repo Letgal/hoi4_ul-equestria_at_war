@@ -13,7 +13,7 @@
 + `country_ANG` (переклав *StasJesus*) — перечитати
 + `country_BAL` (переклав [*Green Kitten*](https://steamcommunity.com/profiles/76561198235810742))
 + `country_BAL_protectorate` (переклав *Green Kitten*)
-+ `country_BAR`<!--  (переклав *Max*) --> — перечитати
++ `country_BAR` (переклав [*Max*](https://steamcommunity.com/profiles/76561198873048643)) — перечитати
 + `country_BOI`
 + `country_BUF` (переклав *Kiparu*)
 + ~~`country_CES`~~ (попередню версію переклав [*Daybreaker*](https://steamcommunity.com/profiles/76561199084403733))
@@ -24,12 +24,12 @@
 + `country_CYA` (переклав *Green Kitten*)
 + `country_DEP` (умовно)
 + `country_DRG`
-+ `country_EQC`<!--  (переклав *Max*) -->
-+ `country_EQC_equality`<!--  (переклав *Max*) -->
-+ `country_EQC_MARE`<!--  (переклав *Max*) -->
-+ `country_EQC_NLR`<!--  (переклав *Max*) -->
-+ `country_EQC_Reichsmandat`<!--  (переклав *Max*) -->
-+ `country_EQC_SOL`<!--  (переклав *Max*) -->
++ `country_EQC` (переклав *Max*)
++ `country_EQC_equality` (переклав *Max*)
++ `country_EQC_MARE` (переклав *Max*)
++ `country_EQC_NLR` (переклав *Max*)
++ `country_EQC_Reichsmandat` (переклав *Max*)
++ `country_EQC_SOL` (переклав *Max*)
 + `country_EQS` (частина з *Diarchy Expanded* не є завершена)
 + `country_ERI`
 + `country_EWI`<!--  (переклав… хто?) -->
@@ -38,9 +38,9 @@
 + `country_FAT` (переклав *StasJesus*) — перечитати
 + `country_GFF` (умовно; переклав *Green Kitten*)
 + `country_GRF` (переклав *StasJesus*)
-+ `country_HAU` (переклав *Бовкун*) — перечитати
-+ `country_HIP` (умовно<!-- ; переклав… хто? -->)
-+ `country_JAK` (переклав *Green Kitten*) — перечитати, **оновити**
++ `country_HAU` (переклав [*Bovcun*](https://github.com/Bovcun-A)) — перечитати
++ `country_HIP` (умовно<!-- ; переклав… *All-Ampirian*? -->)
++ `country_JAK` (переклав *Green Kitten*) — перечитати
 + `country_JEB`
 + `country_JER`<!--  (переклав… *Римур*?) -->
 + `country_JFT`
@@ -51,16 +51,16 @@
 + `country_MTA` (умовно)
 + `country_NLR` (переклав *Green Kitten*)
 + `country_NMS` (переклав *Green Kitten*)
-+ `country_north_zebrican_war`<!--  (переклав… хто?) -->
++ `country_north_zebrican_war`<!--  (переклав… *All-Ampirian*?) -->
 + `country_NTR`
-+ `country_OLE`<!--  (переклав *Max*) -->
++ `country_OLE` (переклав *Max*)
 + `country_PNG`
 + `country_POM`
 + `country_RCT` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
 + ~~`country_SCS`~~ (переклав *Green Kitten*; вирізано до повного оновлення)
 + `country_SOL`
-+ `country_STG` (<!-- первісно  -->переклав *ціктакомба*<!-- , переписав *Max* -->)
-+ `country_STL`<!--  (переклав *Max*) -->
++ `country_STG` (первісно переклав *ціктакомба*, переписав *Max*)
++ `country_STL` (переклав *Max*)
 + `country_Storm` (переклав *Daybreaker*)
 + `country_TAL` (переклав *Sanyok*)
 + `country_VAN` (переклав *Green Kitten*)
@@ -72,7 +72,7 @@
 + `country_WNG` (переклав *Sanyok*)
 + `country_YAK`:
 	+ стару версію переклав *ціктакомба*
-	+ нову версію переклав *Green Kitten* — перечитати, **оновити**
+	+ нову версію переклав *Green Kitten* — перечитати
 + ~~`eaw_achievements`~~
 + `eaw_adjacency_rules`
 + `eaw_autonomy`
@@ -100,7 +100,7 @@
 + `eaw_war`
 + `eaw_zebra_generic` (переклав *Daybreaker*)
 + `loading_tips`
-+ `parties`<!--  (переклав *Max*) -->
++ `parties` (переклав *Max*)
 + `recall_volunteers`
 + `renamed_states`
 + `southern_zebra_ideas`
