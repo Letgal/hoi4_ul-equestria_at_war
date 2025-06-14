@@ -99,7 +99,7 @@
  HIP_nuclear_naval_mines_tech:0 "Nuclear Naval Mines"
  HIP_nuclear_naval_mines_effect:0 "Naval Mines Damage: §G+20%§!"
  HIP_nuclear_torpedos_tech:0 "Nuclear Torpedos"
- HIP_nuclear_torpedos_effect:0 "Torpedo Screen Penetration: §G+25%§!"
+ HIP_nuclear_torpedos_effect: "$MODIFIER_NAVAL_TORPEDO_SCREEN_PENETRATION_FACTOR$: §G+25%§!"
  HIP_CAMB:0 "CAMB Mitigation Training"
  HIP_CAMB_effect:0 "\nArmy Attrition: §G-10%§!\n§HEngineers§!\n   Supply Consumption: §G-5%§!\n§HField Hospitals§!\n   Trickleback: §G+5%§!"
  HIP_CAMB_desc:0 "Methods for decontaminating soldiers afflicted with chemical, atomic, magical, or biological debilitating agents. Primarily of use with field hospitals and combat engineers."
