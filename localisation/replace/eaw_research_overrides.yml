@@ -349,12 +349,12 @@
  landing_craft_desc:0 "We have gained new insight into the developing field of amphibious operations; the speed of an invasion is essential and not its size. For what good are barges that can carry hundreds of soldiers if they are vulnerable to enemy fire before hitting the beaches? Though nowhere near as large as transport barges or as comfortable a ride, motorised landing craft are speedy, making these boats particularly suited to the task."
  tank_landing_craft:0 "Shallow-Draught Boats"
  tank_landing_craft_desc:0 "A better understanding of hydrodynamics makes new, shallower motorboats able to traverse extremely shallow waters and keep them as speedy as previous models. They achieve this by reducing overall contact with the water, making some high-speed designs seem like they're flying along the waterline when unloaded."
- mtg_transport:0 "Designated Landing Barges"
- mtg_transport_desc:0 "Amphibious operations are notoriously challenging undertakings that require the rapid transportation and deployment of sizeable invasion forces. Instead of relying on civilian or other unsuitable shipping vessels, we can bring our soldiers to enemy shores with large barges designed to handle smooth transfers between the transports and the beach. Their carrying capacity makes up for their sluggishness."
- mtg_landing_craft:0 "Motor Landing Craft"
- mtg_landing_craft_desc:0 "We have gained new insight into the developing field of amphibious operations; the speed of an invasion is essential and not its size. For what good are barges that can carry hundreds of soldiers if they are vulnerable to enemy fire before hitting the beaches? Though nowhere near as large as transport barges or as comfortable a ride, motorised landing craft are speedy, making these boats particularly suited to the task."
- mtg_tank_landing_craft:0 "Shallow-Draught Boats"
- mtg_tank_landing_craft_desc:0 "A better understanding of hydrodynamics makes new, shallower motorboats able to traverse extremely shallow waters and keep them as speedy as previous models. They achieve this by reducing overall contact with the water, making some high-speed designs seem like they're flying along the waterline when unloaded."
+ mtg_transport: "$transport$"
+ mtg_transport_desc: "$transport_desc$"
+ mtg_landing_craft: "$landing_craft$"
+ mtg_landing_craft_desc: "$landing_craft_desc$"
+ mtg_tank_landing_craft: "$tank_landing_craft$"
+ mtg_tank_landing_craft_desc: "$tank_landing_craft_desc$"
 
 ### МАШИННИЙ ПЕРЕКЛАД ###
  mechanical_computing_desc: "§MДиференціальні двигуни та обчислювальні машини загального призначення використовувалися протягом певного часу, хоча більшість з них були відносно обмеженими та простими у своїх функціях. Ранні машини були непрограмованими і не універсальними в обчислювальному плані. Використовуючи перфокарти як інструкції та стрижні, що виконують роль пам'яті, наступні двигуни стали більш універсальними та швидшими, ніж раніше.§!"

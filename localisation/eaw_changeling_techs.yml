@@ -46,7 +46,7 @@
 
 ### ІНФІЛЬТРАТОРИ ###
  tech_infiltrators: "Рота інфільтраторів"
- tech_infiltrators_desc: "Рота інфільтраторів — це мала група чейнджлінґів, тренована спеціально для проникнення як на позиції ворога, так і в його тил. Це потрібно для надання розвідданих про пересування ворога, але також підірвати його можливості." # (&): після останньої коми
+ tech_infiltrators_desc: "Рота інфільтраторів — це мала група чейнджлінґів, тренована спеціально для проникнення як на позиції ворога, так і в його тил. Це потрібно для надання розвідданих про пересування ворога, але також підриву його можливостей." # (&): після останньої коми
 
  tech_shock_drop_cocoons: "Десантні кокони"
  tech_shock_drop_cocoons_desc:0 "Changeling paratroopers will receive specialised training in tactical airborne insertion via shock-drop cocoons, which were first trialed during the attack on Canterlot in 1002. Shock-drop troopers will rain down from planes in hardened and magically-protective cocoons that will smash into enemy positions, a brutal barrage of steel and chitin."
