@@ -283,7 +283,7 @@
  CHN_develop_vesalipolis: "Весаліполіс"
  CHN_develop_vesalipolis_desc:0 "Як найбільше місто-вулик на землі, Весаліполіс мусить подавати приклад іншим. Оскільки населення й індустрія продовжують зростати та розширюватися як над землею, так і під землею; питання ефективного транспортування вуликів стає очевидним. Королева Кризаліс запропонувала прокласти під містом залізницю на зразок попередніх, пробних залізниць, які з'єднають усі райони вулика." # (++)
  CHN_develop_ditrysium: "Дітрісіум"
- CHN_develop_ditrysium_desc:0 "Королева Кризаліс наказує розвинути північний військово-морський порт-місто Дітрізіум. Вона наказала побудувати дві морські верфі та профінансувати виробництво морських припасів. Буде також побудовано нові залізниці та розширено рибні промисли. Королева Гелвія має бути вдячна за це, навіть якщо проєкт буде реалізовано без її схвалення."
+ CHN_develop_ditrysium_desc:0 "Королева Кризаліс наказує розвинути північний військово-морський порт-місто Дітрісіум. Вона наказала побудувати дві морські верфі та профінансувати виробництво морських припасів. Буде також побудовано нові залізниці та розширено рибні промисли. Королева Гелвія має бути вдячна за це, навіть якщо проєкт буде реалізовано без її схвалення."
  CHN_develop_vraks: "Вракс"
  CHN_develop_vraks_desc:0 "Нерішуче королева Кризаліс вимагає, щоби ми розвинули південний військовий центр, Вракс. Буде відкрито дві нові військові мануфактури, і вона вирішить, чи розпочинати подальші будівельні проєкти, чи підвищити ефективність уже існуючих заводів. Кризаліс вимагає, щоби ми завершили проєкт без перешкод, аби королева Арґінніс не отримала задоволення від нашої невдачі."
  air_research: "Еквестрійські літаки"
@@ -712,7 +712,7 @@
 
  chn_queen_helvia: "Королева Гелвія"
  chn_queen_helvia_desc:0 "The young queen of the thriving port hive of Ditrysium is interested in commercial expansion and increase of naval production. While Ditrysium was the first major hive to ally Vesalipolis, Helvia is not as fond of Chrysalis as her predecessor. The debacle of 1002 eventually led to communist sailors rioting in Ditrysium and Chrysalis crushed the resistance personally without asking Helvia. However, she is pragmatic and knows maintaining good relations with Vesalipolis is ultimately a positive thing."
- queen_helvia_admiral_tt: "Відмикає §Yрішення§!, яке відкликає §Gдосвідченого адмірала§!."
+ queen_helvia_admiral_tt: "Відмикає §Yрішення§!, котре відкликає §Gдосвідченого адмірала§!."
  chn_queen_aurantia: "Королева Аурантія"
  chn_queen_aurantia_desc:0 "The aging queen of the industrial hive-city of Lyctida is able to provide resources and lumber for our railroads and military equipment. Ever since Chrysalis lead her alliance to save Lyctida from marauding deer zealots, she has been her most loyal supporter. She always strives to earn Chrysalis' favour, but she in turn sees Aurantia as a useful and reliable pawn until she eventually dies from old age."
  chn_queen_argynnis: "Королева Арґінніс"
@@ -2991,7 +2991,7 @@
  CHN_evi_rep_decision_state_ownership_tt: "Область стане частиною §YЕвійського протекторату§!.\n"
 
  BOI_PRO_CHN_fascism: "Грифонстоунський протекторат"
- BOI_PRO_CHN_fascism_DEF: "Протекторат Griffonstone"
+ BOI_PRO_CHN_fascism_DEF: "Протекторат Грифонстоуна"
  BOI_PRO_CHN_fascism_ADJ: "Грифонстоунськ"
 
  CHN_boi_pro_decision: "Утворити Грифонстоунський протекторат"
