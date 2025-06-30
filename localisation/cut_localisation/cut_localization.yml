@@ -720,100 +720,6 @@
   BAR_dunburh: "Данбург"
   BAR_viirium: "Вііріум"
 
- # country_FAL
-  FAL_Falcoria_fascism: "Імперо ді Фалькорія"
-  FAL_Falcoria_fascism_DEF: "Іль Ґрандіозо Імперо ді Фалькорія"
-  FAL_Falcoria_fascism_ADJ: "Фалькорськ"
-  FAL_Falcoria_democratic: "Об'єднане королевство Фалькорії та Вінґбардії"
-  FAL_Falcoria_democratic_DEF: "Об'єднане королевство Фалькорії та Вінґбардії"
-  FAL_Falcoria_democratic_ADJ: "Фалькорсько-вінґбардійськ"
-  FAL_Falcoria_neutrality: "Об'єднане королевство Фалькорії"
-  FAL_Falcoria_neutrality_DEF: "Об'єднане королевство Фалькорії"
-  FAL_Falcoria_neutrality_ADJ: "Фалькорськ"
-  FAL_Falcoria_communism: "Об'єднані соціалістичні республіки Південної Грифонії"
-  FAL_Falcoria_communism_DEF: "Об'єднані соціалістичні республіки Південної Грифонії"
-  FAL_Falcoria_communism_ADJ: "Південногрифонськ"
-
-  EQC_FAL_protectorate_fascism: "Протетторато Нуова-Фалькорія"
-  EQC_FAL_protectorate_fascism_DEF: "Іль Протетторато Нуова-Фалькорія"
-  EQC_FAL_protectorate_fascism_ADJ: "Нуова-фалькорськ"
-  EQC_FAL_protectorate_democratic: "Республіка Новий Мейрленд"
-  EQC_FAL_protectorate_democratic_DEF: "Республіка Новий Мейрленд"
-  EQC_FAL_protectorate_democratic_ADJ: "Новомейрлендськ"
-  EQC_FAL_protectorate_neutrality: "Протекторат Новий Мейрленд"
-  EQC_FAL_protectorate_neutrality_DEF: "Протекторат Новий Мейрленд"
-  EQC_FAL_protectorate_neutrality_ADJ: "Новомейрлендськ"
-  EQC_FAL_protectorate_communism: "Соціалістична республіка Новий Мейрленд"
-  EQC_FAL_protectorate_communism_DEF: "Соціалістична республіка Новий Мейрленд"
-  EQC_FAL_protectorate_communism_ADJ: "Новомейрлендськ"
-
-  ### ПЕРСОНАЖІ ###
-  # Лідери
-  FAL_princess_maximilliana: "Принцеса Максімілліана"
-  FAL_queen_maximilliana: "Королева Максімілліана"
-  FAL_queen_maximilliana_ii: "Королева Максімілліана II"
-  FAL_gabriele_dartiglio: "Ґабріеле д'Артільйо"
-  FAL_andrea_ausiello: "Андреа Аузіелло"
-
-  # Ґенерали
-  FAL_princeconsort_alberto: "Принц-консорт Альберто"
-  FAL_aeliana_albia: "Армандо Альбія"
-  FAL_justus_lucius: "Юстус Луціус"
-  FAL_erika_von_feveros: "Еріка фон Феверос"
-  FAL_luigi_piediazzuri: "Луїджі П'єдіадзурі"
-  FAL_astore_diaz: "Асторе Діас"
-
-  # Адмірали
-  FAL_storno_toco: "Сторно Токо"
-  FAL_asiolo_dai_ciuffi: "Азіоло дай Чюффі"
-
-  # Радники
-  #Alberto_desc:0 "The Princess' beloved husband, Alberto is popular among the commonfolk for his charitable actions and humble nature. He is known for his baking skills, which he uses to provide food for the less fortunate griffons, doing his best to prevent starvation among the destitute. However, Alberto participates very rarely in the ongoings of the Falcorian politics, for he is not interested in them and wants nothing to do with the extremists."
-  Agrippa: "Аґапіто Дзітто"
-  Karkinos: "Карло ді Ала"
-  Kerykes: "Каракоза П'юма"
-  Pherae: "Ф'єро Бекко"
-  Ictinus_FAL: "Іґнаціо Артільйо"
-  Herostratus: "Ерое Неро"
-  Hesiod: "Ефізіо Пенна"
-  Gnathaena: "Ґаетана Креста"
-  Ampharos: "Одеро Терні Орландо"
-  Eunomus: "Еустакіо П'юмаджо"
-  Erinna: "Ермінія Пікк'ята"
-  Elpinice: "Ельпідіо Велоче"
-  Dorieus_FAL: "Доріано Волаторе"
-  Callia: "Каллісто Туффаторе"
-  Bion: "Б'яджо Пйоджа"
-  Alexias: "Александра Баньята"
-  Molossia: "Модесто Нуотаторе"
-  Albinus: "Альбіно Пресбіте"
-  Riven: "Рівен Шортфезер"
-  Agasicles: "Аґостіна ді Ферро"
-  Abronychus: "Абрамо Наскосто"
-  Zeus: "Дзено Уччелло"
-  Falea: "Фалеа Луміноза"
-  Falco: "Фалько Анатра"
-  Swellow: "Свелло Рондіне"
-
-  ### КОНСТРУКТОРИ ###
-  Nicocreon: "Гарматна майстерня Маттона"
-  Lycus: "Greybill Munizioni"
-  Lycurgus: "Atto Rapido"
-  maximillion: "Maximillion Refineries"
-  falx: "Falx Electronics"
-  malleus: "Malleus Manufacturing"
-  Hermes: "Falcor Aerospace"
-  Artemis: "Aeronautica Umbra"
-  Apollo: "Sudfolc Marittimo e Aereo"
-  Poseidon: "Верф Судфолка"
-  Fluctus: "Cantiere Navale Reale"
-  Cerberus: "Fabbrica Falcoriana Automobili"
-  Eupolis_FAL: "Eusebio Aquila"
-
-  ### НАЗВИ ОБЛАСТЕЙ ###
-  FAL_state_artiglio_islands: "Острови Артільйо"
-  FAL_state_maximilliana: "Максімілліана"
-
  # country_HAU
   HAU_hermann_meyer: "Герман Маєр"
   HAU_king_hermann_the_conqueror: "Король Герман Завойовник"
@@ -1164,3 +1070,12 @@
   YAK_tac_bomber_equipment_3: "Великий орел"
   YAK_tac_bomber_equipment_3_short: "Великий орел"
   # Далі йде решта назв. Додати відразу перекладеними.
+
+ # etat_technology (примітка: це справді не потрібні рядки, прибийте мене — L.H.)
+  #etat_folder: "РП&С"
+  #etat_folder_desc: "Розширені промисловість і спорядження"
+  #etax_folder: "ВОД"
+  #etax_folder_desc: "Відділ особливих досліджень"
+  ETAX_TITLE_DOCTRINE_X: "Відділ особливих досліджень"
+  etax_doctrine: "Відділ особливих досліджень"
+  jungletroop: "Спеціалісти джунглів"
