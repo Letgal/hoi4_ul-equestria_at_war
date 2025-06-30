@@ -693,7 +693,7 @@ FAL_andrea_ausiello: "Андреа Аузіелло"
 ##################################
 FAL_princeconsort_alberto: "Принц-консорт Альберто"
 FAL_aeliana_albia: "Армандо Альбія"
-FAL_justus_lucius: "Юстус Люціус"
+FAL_justus_lucius: "Юстус Люціус" # фонет. Луц-
 FAL_erika_von_feveros: "Еріка фон Феверос"
 FAL_luigi_piediazzuri: "Луїджі П'єдіаззурі" # фонет. -аддзурі
 FAL_astore_diaz: "Асторе Діас"
@@ -730,7 +730,7 @@ Riven: "Рівен Шортфезер"
 Agasicles: "Агостіна ді Ферро"
 Abronychus: "Абрамо Наскосто"
 Zeus: "Зено Уччелло" # фонет. Дзено
-Falea: "Фалеа Люміноза"
+Falea: "Фалеа Люміноза" # фонет. Лум-
 Falco: "Фалько Анатра"
 Swellow: "Свелло Рондіне"
 
