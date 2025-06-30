@@ -700,8 +700,8 @@
   CCN_Thorax: "Кейсарій Торакс"
 
  changeling_spies: "Шпигуни-чейнджлінґи"
- UPP:0 "UPC Congress"
- CLF:0 "CLF Militia"
+ UPP: "Конгрес СПЧ"
+ CLF: "Ополчення ЧВФ"
  internal_disputes: "Внутрішні суперечки"
  blackarmy: "Чорнармія"
  covert_agents: "Шпигунська мережа"
@@ -6009,6 +6009,27 @@
  ZES_confederation_2: "Конфедерація Каза-Рейтндіраланд"
  ZES_confederation_2_DEF: "Конфедерація Каза-Рейтндіраланд"
  ZES_confederation_2_ADJ: "Конфедеративн"
+
+ ### ІДЕЇ ###
+  ZES_xatisa: "Шатіза" # на потім — L.H.
+  ZES_xatisa_lua_1: "$ZES_xatisa$"
+  ZES_xatisa_lua_2: "$ZES_xatisa$"
+  ZES_xatisa_lua_3: "$ZES_xatisa$"
+  ZES_xatisa_lua_4: "$ZES_xatisa$"
+  ZES_xatisa_pasarinha_1: "$ZES_xatisa$"
+  ZES_xatisa_pasarinha_2: "$ZES_xatisa$"
+  ZES_xatisa_pasarinha_3: "$ZES_xatisa$"
+  ZES_xatisa_pasarinha_4: "$ZES_xatisa$"
+  ZES_xatisa_yrmthu_pockets: "$ZES_xatisa$"
+  ZES_xatisa_yrmthu_charity: "$ZES_xatisa$"
+  ZES_xatisa_yrmthu_pockets_charity: "$ZES_xatisa$"
+  ZES_xatisa_yrmthu_friendship: "$ZES_xatisa$"
+  ZES_xatisa_yrmthu_guild_1: "$ZES_xatisa$"
+  ZES_xatisa_altu_1: "$ZES_xatisa$"
+  ZES_xatisa_altu_fortress_1: "$ZES_xatisa$"
+  ZES_xatisa_altu_fortress_2: "$ZES_xatisa$"
+  ZES_xatisa_altu_militant_1: "$ZES_xatisa$"
+  ZES_xatisa_altu_militant_2: "$ZES_xatisa$"
 
  ### ПЕРСОНАЖІ ###
   # Лідери

@@ -78,13 +78,13 @@
  CHN_heavy_tank_equipment_3_desc:0 "Known under the informal name Königstiger but, often semi-literally translated as the King Tiger by Equestrian soldiers, the design followed the same concept as the Tiger I, but was intended to be even more formidable. The Tiger II combined the thick armour of the Tiger I with the sloped armour used on the Panther medium tank. The tank weighed almost seventy metric tons, was protected by 100 to 180mm of armour to the front and was armed with the long barrelled 8.8 cm Kampfwagenkanone 43 L/71 gun."
  CHN_light_tank_aa_equipment_1: "Flakpanzer I"
  CHN_light_tank_aa_equipment_1_short: "FlakPz I"
- CHN_light_tank_aa_equipment_1_desc:0 "An anti-air cannon mounted on the chassis of a Panzer I tank."
+ CHN_light_tank_aa_equipment_1_desc: "Зенітна гармата, встановлена на шасі танка Panzer I."
  CHN_light_tank_aa_equipment_2: "Flakpanzer Luchs"
  CHN_light_tank_aa_equipment_2_short: "FlakPz Luchs"
- CHN_light_tank_aa_equipment_2_desc:0 "An anti-air cannon mounted on the chassis of a Panzer II tank."
+ CHN_light_tank_aa_equipment_2_desc: "Зенітна гармата, встановлена на шасі танка Panzer II."
  CHN_light_tank_aa_equipment_3: "Flakpanzer 1602"
  CHN_light_tank_aa_equipment_3_short: "FlakPz 1602"
- CHN_light_tank_aa_equipment_3_desc:0 "An anti-air cannon mounted on the chassis of a VK1602 tank."
+ CHN_light_tank_aa_equipment_3_desc: "Зенітна гармата, встановлена на шасі танка VK1602."
  CHN_light_tank_artillery_equipment_1: "Sturmpanzer I Bison"
  CHN_light_tank_artillery_equipment_1_short: "Bison"
  CHN_light_tank_artillery_equipment_1_desc:0 "Towed guns which were assigned to the infantry gun companies of motorised infantry regiments had difficulties keeping up with tanks during combat. The easiest solution was to modify a spare tank chassis to carry it into battle. In the case of the Bison, it uses the chassis of the Panzer I."
@@ -364,9 +364,9 @@
  battleforthehives_chn_desc:0 "Enough is enough! The hives have spoken and it is time we take up rule of our own. And even if chaos and fire consumes our lands, our people shall rule themselves! Their will shall prevail. Down with the Queen!"
  assassinate_fieldmarshaltrimmel_CHN:0 "Assassinate Trimmel"
  assassinate_fieldmarshaltrimmel_CHN_desc:0 "We may have ousted Chrysalis, but so long as there are loyalists within our ranks, our reorganised country is not safe from her. Marshal Trimmel is the most vocal dissenter, and he must be dealt with, despite the service that he has rendered for our people."
- changeling_liberation_front_CHN:0 "The CLF seizes control"
+ changeling_liberation_front_CHN: "ЧВФ захоплює владу"
  changeling_liberation_front_CHN_desc:0 "It's been far too long. We shall no longer listen to the schizophrenic drivel of those liberal parasites! Every member of the so called 'progressives' shall be shot for treason against the state and the citizens!"
- union_of_progressive_changelings_CHN:0 "The UPC seizes control"
+ union_of_progressive_changelings_CHN: "СПЧ захоплює владу"
  union_of_progressive_changelings_CHN_desc:0 "We shall tolerate hatred and bigotry no longer! Every single one of those from the so called 'liberation' front shall be removed from the state post-haste! We can't let the repeat of a Queen happen!"
  union_factories:0 "Defence of the Union"
  union_factories_desc:0 "It is time to adopt a foreign policy! Those who come to us by the sword shall die by the sword, but let us not go into offensives and invasions against others - unless they're the enemies of the revolution."
@@ -378,7 +378,7 @@
  CLFRecruit_desc:0 "Your life is nothing compared to the collective might of the state! What is one life sacrificed but a good we all shall drink from? Your sacrifice alone is a victory for us - a defeat for the cowards that our enemies are. What do they have if not the selflessness of our people?!"
  CHNCOM_infrastructure_effort:0 "New Roads"
  CHNCOM_infrastructure_effort_desc:0 "Without the Queen, who will build the roads? The people will! We need roads to boost our economy through the gloomy clouds our aristocracy left over our heads. Our roads shall be the envy of the entire world."
- UPPCongress:0 "UPC Congress"
+ UPPCongress: "Конгрес СПЧ"
  UPPCongress_desc:0 "In our first official congress we have concluded that the enemies of the revolution can no longer draw breath. We shall not rest easy until these vermin have been purged from our lands... Let us bring war to them - before they bring it to us!"
  second_phaseCHNCOM:0 "Second Phase Completion"
  second_phaseCHNCOM_desc:0 "While our comrades wage heroic victories on the front lines, the workers shall be the heroes of the entire war. The eternal fires may not be extinguished now. We shall forever bring columns of smoke to signify that our war industry doesn't sleep. It was never asleep to begin with."
@@ -578,7 +578,7 @@
 ### РІШЕННЯ ###
  CHN_kriegsmarine: "Дії Кріґсмаріне"
  CHN_rehire_recina: "Повернути Реціну на активну службу"
- CHN_rehire_recina_desc:0 "The current state of the Kriegsmarine is unsatisfactory. Our Admiralität is lacking proper leadership, and its pool of admirals are not nearly as capable as we'd like them to be. Queen Helvia of Ditrysium has raised a possible solution, though it is not one that enthuses many in the naval command. Former Admiral Recina, Helvia's sister, is currently aiding in the administration of Ditrysium, but could perhaps be convinced to return to service as a Generaladmiral.\n\nRecina's reinstatement would upset the current Admiralität, and regaining Recina's service will likely prove costly. Ever since the Canterlot Failure of 1002, she has proven untrusting of Queen Chrysalis' leadership, and only proof of the navy's revival and the offer of a high position in the Kriegsmarine could convince her. The former admiral has proven herself in the past though, and this is perhaps one effort worth taking if we intend to reinvigorate the Kriegsmarine."
+ CHN_rehire_recina_desc: "Поточний стан Кріґсмаріне — незадовільний. Нашому адміралтейству бракує належного керівництва, і його набір адміралів далеко не такий умілий, як нам хотілося б. Гелвія, королева Дітрісіума, висунула можливе вирішення, однак воно не таке, що викликає захоплення у великої кількості флотського командування. Колишній адмірал Реціна, сестра Гелвії, наразі допомагає в керуванні Дітрісіумом, але, можливо, вдасться переконати повернутися на службу в якості генерал-адмірала.\n\nРецінине повернення обурить поточне адміралтейство, а відновлення Реціниної служби, ймовірно, обійдеться недешево. Від самої поразки при Кантерлоті 1002 року вона показала себе недовірливою до лідерства королеви Кризаліс, і тільки доказ про відродження флоту та пропозиція високої посади у Кріґсмаріне можуть її переконати. Однак колишній адмірал повністю себе показала в минулому, і це, можливо, один вартий захід, якщо ми маємо намір оживити Кріґсмаріне." # (&)
  CHN_Secret_Carrier: "Дарунок від Дітрісіума?"
  CHN_Secret_Carrier_desc:0 "Ever since we granted Ditrysium aid, the shipyards have been working on a secret project. They returned one of their old pre-Dreadnoughts to port and have been doing... something to it. Now, we have been advised to not look too closely. In fact, we've been given a pseudo-order to not look in the mouth of the river. Even now, as a herald has arrived with a cordial invitation to an unveiling ceremony for the gifting of their latest project, we have been asked to not look into the mouth of the cave where it will come from."
  CHN_get_panzerschiffe: "Розробити Panzerschiff"
@@ -784,8 +784,8 @@
  chnindustrialist: "Силвер Маркс"
  chnterror: "Зеленоокий"
  #changeling_spies: "Шпигуни-чейнджлінґи" # Identical duplicate from Eaw
- #UPP:0 "UPC Congress" # Identical duplicate from Eaw
- #CLF:0 "CLF Militia" # Identical duplicate from Eaw
+ #UPP: "Конгрес СПЧ" # Identical duplicate from Eaw
+ #CLF: "Ополчення ЧВФ" # Identical duplicate from Eaw
  #internal_disputes: "Внутрішні суперечки" # Identical duplicate from Eaw
  #blackarmy: "Чорнармія" # Identical duplicate from Eaw
  #covert_agents: "Шпигунська мережа" # Identical duplicate from Eaw
