@@ -1,5 +1,42 @@
 ﻿Тут розміщено вирізану локалізацію, яку або було шкода видаляти повністю, або яка з тієї чи іншої причини неправильно відображається, разом із супутнім текстом.
 
+# country_FRN
+ FRN_karthinia_aquileia_fascism: "Карфінсько-аквілейська імперія"
+ FRN_karthinia_aquileia_fascism_DEF: "Карфінсько-аквілейська імперія"
+ FRN_karthinia_aquileia_democratic: "Федерація Карфінії-Аквілеї"
+ FRN_karthinia_aquileia_democratic_DEF: "Федерація Карфінії-Аквілеї"
+ FRN_karthinia_aquileia_neutrality: "Карфінсько-аквілейська імперія"
+ FRN_karthinia_aquileia_neutrality_DEF: "Карфінсько-аквілейська імперія"
+ FRN_karthinia_aquileia_communism: "Соціалістична федерація Карфінії-Аквілеї"
+ FRN_karthinia_aquileia_communism_DEF: "Соціалістична федерація Карфінії-Аквілеї"
+
+ ### ПАРТІЇ ###
+  FRN_fascism_party: "ПЛФ"
+  FRN_fascism_party_long: "Патріотична ліга Францистрії"
+  FRN_democratic_party_1: "ВіТ"
+  FRN_democratic_party_1_long: "Вірність і традиція"
+  FRN_democratic_party_2: "РСП"
+  FRN_democratic_party_2_long: "Регілійна соціалістична партія"
+
+# country_JES
+ ### ПАРТІЇ ###
+  JES_neutrality_party: "Династія Діскрет"
+  JES_neutrality_party_long: "Династія Діскрет"
+  JES_communism_party: "ТСС"
+  JES_communism_party_long: "Таррінський союз соціалістів"
+  JES_democratic_party: "ТАЗ"
+  JES_democratic_party_long: "Таррінсько-аквілейські збори" # асамблея
+
+ ### ПЕРСОНАЖІ ###
+  JES_figurehead_advisor: "Фольтаж Деґей" # Деґюей?
+  JES_education_advisor: "Жюль Пейє"
+  JES_economist_advisor: "Люсьєн Бібело"
+  JES_land_theorist: "Валантен де Прекур"
+  JES_defence_theorist: "Ірен Ясент"
+  JES_leontina_chief: "Леонтіна Пандьйонн"
+  JES_air_reformer_chief: "План-Воль Левек"
+  JES_cavalry_commander: "Моніка Левавассьор" # EU
+
 # country_TBK
  ### ФОКУСИ ###
   # Початкове дерево
