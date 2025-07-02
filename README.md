@@ -36,6 +36,7 @@
 + `country_EYR`
 + `country_FAL` (переклав *Green Kitten*)
 + `country_FAT` (переклав *StasJesus*) — перечитати
++ `country_FRN` (переклав *Green Kitten*)
 + `country_GFF` (умовно; переклав *Green Kitten*)
 + `country_GRF` (переклав *StasJesus*)
 + `country_HAU` (переклав [*Bovcun*](https://github.com/Bovcun-A)) — перечитати
@@ -43,6 +44,7 @@
 + `country_JAK` (переклав *Green Kitten*) — перечитати
 + `country_JEB`
 + `country_JER`<!--  (переклав… *Римур*?) -->
++ `country_JES` (переклав… *Green Kitten*) — трохи вичитати
 + `country_JFT`
 + `country_JRR`
 + `country_JUN` (переклав *Green Kitten*)
@@ -57,7 +59,7 @@
 + `country_PNG`
 + `country_POM`
 + `country_RCT` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
-+ ~~`country_SCS`~~ (переклав *Green Kitten*; вирізано до повного оновлення)
++ `country_SCS` (переклав *Green Kitten*)
 + `country_SOL`
 + `country_STG` (первісно переклав *ціктакомба*, переписав *Max*)
 + `country_STL` (переклав *Max*)

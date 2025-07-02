@@ -37,6 +37,15 @@
   JES_air_reformer_chief: "План-Воль Левек"
   JES_cavalry_commander: "Моніка Левавассьор" # EU
 
+# country_SCS
+ ### ПАРТІЇ ###
+  SCS_neutrality_party: "Партія Кольтлумбії"
+  SCS_neutrality_party_long: "Еппллузька партія Кольтлумбії"
+  SCS_democratic_party: "Партія гармонії та єдності"
+  SCS_democratic_party_long: "Еппллузька партія гармонії та єдності"
+  SCS_rockhoof_party: "Партія Кольтлумбії"
+  SCS_rockhoof_party_long: "Еппллузька партія Кольтлумбії"
+
 # country_TBK
  ### ФОКУСИ ###
   # Початкове дерево
