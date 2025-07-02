@@ -1321,7 +1321,7 @@
   UESR_chungus: "Big Chungus"
   UESR_buckharin: "Ніколай Бакхарін"
   UESR_cheese_sandwich_name: "Чіз Сендвіч"
-  UESR_floppa: "Big Floppa" # спершу був переклав, але вийшла якась ганебна дурня. — L.H.
+  UESR_floppa: "Big Floppa" # спершу був переклав, але вийшла якась ганебна дурня. ~ L.H.
   UESR_ugandan_knuckles: "Zebrican Knuckles"
   UESR_sablin_name: "Валерій Саблін"
 
@@ -6123,7 +6123,7 @@
  ZES_confederation_2_ADJ: "Конфедеративн"
 
  ### ІДЕЇ ###
-  ZES_xatisa: "Шатіза" # на потім — L.H.
+  ZES_xatisa: "Шатіза" # на потім. ~ L.H.
   ZES_xatisa_lua_1: "$ZES_xatisa$"
   ZES_xatisa_lua_2: "$ZES_xatisa$"
   ZES_xatisa_lua_3: "$ZES_xatisa$"
