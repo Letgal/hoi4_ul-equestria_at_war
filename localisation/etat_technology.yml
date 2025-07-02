@@ -52,7 +52,6 @@
  antitank_e:0 "Nightvision Integration"
  antitank_e_desc:0 "Improvements in nightvision technologies have eased the integration of these devices on our weapon platforms, significantly improving the efficacy of our anti-tank guns in low-light conditions. In many circumstances, our gunners will be able to hit a fast moving vehicle in the dead of night!"
 
-
 ### ПІХОТА ###
  infantry_at_a: "Піхотна протитанкова зброя III"
  infantry_at_a_desc: "З усіх можливих засобів доставки снарядів проти броньованих цілей, ракетне озброєння виявилося найбільш ефективним. Озброївши наших солдатів протитанковими ракетами, ми зробимо їх смертельно небезпечними для ворожої бронетехніки."
@@ -196,16 +195,15 @@
  excavation_d:0 "Specialised LHD Machines"
  excavation_d_desc:0 "Load, haul, dump (LHD) loaders are similar to conventional front end loaders but developed explicitly for the toughest of hard rock mining applications, keeping overall production economy, safety, and reliability in consideration. They have powerful prime movers, making these massive modern loaders extremely rugged, highly manoeuvrable, and exceptionally productive."
 
-
 ### ДЕСАНТНА ТЕХНІКА ###
  semi_modern_landing_craft:0 "Dock Landing Ships"
  semi_modern_landing_craft_desc:0 "Once our forces establish a beachhead, we must keep them supplied to maintain amphibious operations. Previously, we either pressed smaller watercraft or slow barges to sustain the supply chain. However, new specialised dock landing ships with integrated bow doors solve this issue can launch smaller landing craft and vehicles and transport supplies directly onto a beach."
  modern_landing_craft:0 "Early Landing Platform Helicopters Ships"
  modern_landing_craft_desc:0 "Experiments in helicopters provide a whole new possibility in enhancing our amphibious operations. With specialised landing platform helicopter (LPH) ships, we can integrate airborne assaults with the landing efforts upon a coastline. This, of course, opens up a new front from which our forces can assault the enemy shoreline, enabling wholly new operations that specially trained commandos can carry out. "
- mtg_semi_modern_landing_craft:0 "Dock Landing Ships"
- mtg_semi_modern_landing_craft_desc:0 "Once our forces establish a beachhead, we must keep them supplied to maintain amphibious operations. Previously, we either pressed smaller watercraft or slow barges to sustain the supply chain. However, new specialised dock landing ships with integrated bow doors solve this issue can launch smaller landing craft and vehicles and transport supplies directly onto a beach."
- mtg_modern_landing_craft:0 "Early Landing Platform Helicopters Ships"
- mtg_modern_landing_craft_desc:0 "Experiments in helicopters provide a whole new possibility in enhancing our amphibious operations. With specialised landing platform helicopter (LPH) ships, we can integrate airborne assaults with the landing efforts upon a coastline. This, of course, opens up a new front from which our forces can assault the enemy shoreline, enabling wholly new operations that specially trained commandos can carry out. "
+ mtg_semi_modern_landing_craft: "$semi_modern_landing_craft$"
+ mtg_semi_modern_landing_craft_desc: "$semi_modern_landing_craft_desc$"
+ mtg_modern_landing_craft: "$modern_landing_craft$"
+ mtg_modern_landing_craft_desc: "$modern_landing_craft_desc$"
 
 ### ЯДЕРНІ ТЕХНОЛОГІЇ ###
  nuke_naval: "Морська ядерна енергетика"
@@ -228,7 +226,6 @@
  guided_missile_equipment_5: "Істинні міжконтинентальні балістичні ракети"
  guided_missile_equipment_5_short: "Істинні МБР"
  guided_missile_equipment_5_desc:0 "Further refinements and research of our crystal-powered engines have borne fruit for our interceptor and ICBM designs. Massive, expensive, and impressive, this new generation of missiles heralds the age of titanic missiles that can hit any target in minutes and bring devastation even with conventional warheads. With some designs reaching the limits of our atmosphere, some scientists believe we could go to outer space—beyond our world. Perhaps we can once the world is at peace..."
-
 
 ### РОТИ ПІДТРИМКИ ###
  tech_engineers_a: "Рота інженерів V"
@@ -279,7 +276,6 @@
  tech_signal_company_b_desc:0 "With the introduction of more reliable portable radios, we can issue them to individual sections. Paired with a more comprehensive company structure, fast and reliable communication between Division HQ and sections becomes a reality."
  tech_signal_company_c: "Рота зв'язку VII"
  tech_signal_company_c_desc:0 "New protocols and channels will allow better coordination between the different branches of the military. This in turn would streamline the requests for non-army support from individual NCOs and ensure higher instances of inter-branch cooperation and successful engagements."
-
 
 ### Р.П.І.С. І В.О.Д. ###
  #etat_folder:0 "E.T."
