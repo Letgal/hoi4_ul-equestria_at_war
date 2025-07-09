@@ -87,6 +87,7 @@
 + `eaw_flags_and_opinion` (умовно)
 + `eaw_focus`
 + `eaw_focus_filter_tag`
++ `eaw_formable_nations`
 + `eaw_griffon_tech` (умовно)
 + `eaw_hippogriff_techs` (умовно)
 + `eaw_horse_techs`

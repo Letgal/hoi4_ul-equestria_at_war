@@ -1,5 +1,5 @@
 ﻿# == (*) ==
-### Tooltips ###
+### СЛУЖБОВА ЛОК. ###
  form_country_aquileia_coring_states_tt: "Усі §Yаквілейські§! землі стануть осердними.\n" # CORE
  form_country_pridea_coring_states_tt: "Усі §Yпрідейські§! землі стануть осердними.\n" # CORE
  form_country_rila_coring_states_tt: "Усі §Yрільські§! землі стануть осердними.\n" # CORE
@@ -22,32 +22,32 @@
  form_country_KXN_coring_states_tt: "Усі осердні §Yланкірські§! землі стануть осердними.\n" # CORE
  form_country_KHM_coring_states_tt: "Усі осердні §Yкхамрінські§! землі стануть осердними.\n" # CORE
 
-## Flags
- EVI_formed: "Сформовано Співдружність Еві"
- Zaikiria_formed:0 "Zaikiria has been Unified"
+### МІТКИ ###
+ EVI_formed: "Утворено Співдружність Еві"
+ Zaikiria_formed: "Зайкірію було об'єднано"
 
-### Decisions ###
+### РІШЕННЯ ###
  form_aquileia_category: "Нова епоха для Аквілеї"
- form_aquileia_category_desc:0 "With both the Discret dynasty and the Republican revolutionaries crushed or driven into exile, the former lands of Aquileia lack a strong leading figure. [Root.GetLeader] has been the driving force in vanquishing them, and time will tell if they'll repeat the steps of Grover II or be a more benevolent overlord."
+ form_aquileia_category_desc: "Після розгрому династії Діскретів і вигнання республіканських революціонерів колишні землі Аквілеї залишилися без сильного лідера. [Root.GetLeader] бу[Root.GetLeader.GetVerbGendEndA_RU] рушійною силою в їхній перемозі, і час покаже, чи повторять вони кроки Ґровера II, або ж стануть більш доброзичливими володарями."
  form_aquileia: "Відновити Аквілею"
 
  form_hindia: "Об'єднана Гіндія"
- form_hindia_desc:0 "Finally, the dream of a united Hindia has been accomplished, as the deer of Eastern Zebrica have finally been united under a leader worthy of the title of ruler of all Hindia. Now that we have united the region under our control, it is imperative that our nation claim legitimacy over all free deer in Zebrica, so that we can be known as a true great power on the continent."
- form_hindia_decision: "Сформувати Гіндію"
+ form_hindia_desc: "Нарешті мрія про об'єднану Гіндію здійснилася, оскільки олені Східної Зебрики нарешті об'єдналися під проводом вождя, гідного титулу правителя всієї Гіндії. Тепер, коли ми об'єднали регіон під нашим контролем, украй важливо, щоби наша нація заявила про законність своєї влади над усіма вільними оленями в Зебриці, аби ми стали справжньою великою державою на континенті."
+ form_hindia_decision: "Утворити Гіндію"
 
  form_evi: "Об'єднання долини Еві"
- form_evi_desc:0 "Emperor Grover I was the first griffon to unite the lands of the Evi Valley under one banner, but he was a foreigner. With the Empire's collapse the valley was divided once more, but perhaps an ambitious native ruler can change this. Let a new nation now rise from the ashes of war, and may the disparate peoples of Evi stand together at last!"
- form_evi_decision: "Сформувати Евійську націю"
+ form_evi_desc: "Імператор Ґровер I був першим грифоном, котрий об'єднав землі долини Еві під одним знаменом, але він був чужинцем. Із розпадом Імперії долина знову розділилася, але, можливо, амбіційний тутешній правитель зможе це змінити. Нехай тепер із попелу війни повстане нова нація, і нехай розрізнені народи Еві нарешті стануть разом!"
+ form_evi_decision: "Утворити евійську державу"
  move_capital_to_kivessin: "Перемістити столицю в Ківессин"
- move_capital_to_kivessin_desc:0 "Kivessin is at the center of the newborn nation, in an ideal position for ruling the land. It also has a certain amount of prestige, being the old capital of the Kingdom of Brodfeld. Moving our capital there is therefore a good idea."
+ move_capital_to_kivessin_desc: "Ківессин знаходиться в середині новонародженої держави, ідеальному місці для правління її землями. Він також має певну кількість престижу, будучи старою столицею Королівства Бродфельд. Таким чином, переміщення нашох столиці туди — хороша думка." # (&+)
 
- form_zaikiria:0 "Zaikirian Unification"
- form_zaikiria_desc:0 "The region of Zaikiria was once united one banner, that of the Vermilion Dynasty. The Silence ended centuries of Kirian rule over Zaikiria, fracturing the southern kirin lands into separate nation-states. The reunification of Zaikiria under one ruler will fundamentally reshape the balance of power in the region, as the kirin of Zaikiria come together to seize their shared destiny."
- form_zaikiria_decision:0 "Unite Zaikiria Under One Banner"
- form_zaikiria_decision_req_tt:0 "Every [NVA.GetFlag] §Y[NVA.GetAdjective]§!, [KHM.GetFlag] §Y[KHM.GetAdjective]§!, and [KXN.GetFlag] §Y[KXN.GetAdjective]§! core state must be under full [Root.GetAdjective] control or that of a [Root.GetAdjective] §Ysubject§!."
+ form_zaikiria: "Об'єднання Зайкірії"
+ form_zaikiria_desc: "Колись регіон Зайкірія був об'єднаний одним знаменом — знаменом Кіноварної династії. Мовчання поклало край багатовіковому правлінню Кірії над Зайкірією, розділивши південні землі кірінів на окремі національні держави. Возз'єднання Зайкірії під владою одного правителя докорінно змінить баланс сил у регіоні, оскільки кіріни Зайкірії об'єднаються, щоби оволодіти своєю спільною долею."
+ form_zaikiria_decision: "Об'єднати Зайкірію від одним знаменом"
+ form_zaikiria_decision_req_tt: "Кожна [NVA.GetFlag] §Y[NVA.GetAdjective]а§!, [KHM.GetFlag] §Y[KHM.GetAdjective]а§! та [KXN.GetFlag] §Y[KXN.GetAdjective]а§! осердна область мусить перебувати під повним контролем держави [Root.GetNameDef] або її §Yпідлеглого§!."
 
  form_free_trade_zone_category: "Формування Зони вільної торгівлі"
- form_free_trade_zone_category_desc:0 "As Klugetown has toppled the old regimes of Maregypt and Abyssinia, we are in a comfortable position to create a new nation, that will truly represent both the cats and the ponies!\n\nOr at least, their crime lords."
+ form_free_trade_zone_category_desc: "Оскільки Клуджтаун повалив старі режими Мейргипту й Абіссинії, ми знаходимося в зручному положенні для створення нової держави, яка дійсно представлятиме і котів, і поні!\n\nАбо, принаймні, їхніх кримінальних авторитетів."
  form_free_trade_zone: "Об'єднати пустелю й узбережжя"
  form_country_abyssinia_required_states_tt: "Усі початкові землі §YАбіссинії§! контролюються безпосередньо або маріонеткою"
  form_country_maregypt_required_states_tt: "Усі початкові землі §YМейргипту§! контролюються безпосередньо або маріонеткою"
@@ -56,13 +56,13 @@
  form_country_manedalusia_coring_states_tt: "Усі осердні землі §YМейндалусії§! стануть осердними." # CORE
  form_country_ovingoland_coring_states_tt: "Усі осердні землі §YОвінґо§! стануть осердними." # CORE
 
- form_riseia_category: "Різейське об'єднання"
- form_riseia_category_desc:0 "The influence of Saddle Arabia wanes. After so long ruling themselves, the horses of the Riseian peninsula can finally try their hoof at being their own creatures - together, this time."
+ form_riseia_category: "Об'єднання Різеї"
+ form_riseia_category_desc: "Вплив Сідлової Арабії слабшає. Після такого тривалого правління коні Різейського півострова нарешті можуть спробувати себе у ролі самостійних істот, цього разу — разом."
  form_riseia: "Об'єднати Різейський півострів"
  form_country_maretania_required_states_tt: "Контролює всі початкові землі §YМейританії§!"
  form_country_osqat_required_states_tt: "Контролює всі початкові землі §YОскату§!"
  form_country_haymir_required_states_tt: "Контролює всі початкові землі §YГейміру§!"
 
- form_deerkind_category:0 "Unify Deerkind"
- form_deerkind_category_desc:0 "Deerkind has always been disunited, has always been fighting with themselves. For the first time in history, the possibility of a single ruling body over all cervids is achievable. No longer will we be on the backhoof, subject to foreign powers and marred by petty infighting. Deerkind stands together!"
- form_deerkind:0 "Unite All Deerkind"
+ form_deerkind_category: "Об'єднання оленячого роду"
+ form_deerkind_category_desc: "Оленячий рід завжди був роз'єднаний, завжди боровся сам із собою. Вперше в історії можливість єдиного керівного органу над усіма оленевими є досяжна. Ми більше не будемо сидіти в обороні, підвладні іноземним державам і затьмарені дрібними міжусобицями. Оленячий рід стоїть разом!"
+ form_deerkind: "Об'єднати весь оленячий рід"
