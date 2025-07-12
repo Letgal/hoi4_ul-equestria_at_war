@@ -59,6 +59,7 @@
 + `country_OLE` (переклав *Max*)
 + `country_PNG`
 + `country_POM`
++ `country_PYT` (переклав *StasJesus*)
 + `country_RCT` (переклав *ціктакомба*)
 + `country_SCS` (переклав *Green Kitten*)
 + `country_SOL`
