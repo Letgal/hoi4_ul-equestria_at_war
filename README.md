@@ -51,6 +51,7 @@
 + `country_LSP` (переклав *Green Kitten*)
 + `country_MIT` (переклав *Green Kitten*)
 + `country_MTA` (умовно)
++ `country_NIM` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
 + `country_NLR` (переклав *Green Kitten*)
 + `country_NMS` (переклав *Green Kitten*)
 + `country_north_zebrican_war`<!--  (переклав… *All-Ampirian*?) -->
@@ -58,7 +59,7 @@
 + `country_OLE` (переклав *Max*)
 + `country_PNG`
 + `country_POM`
-+ `country_RCT` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
++ `country_RCT` (переклав *ціктакомба*)
 + `country_SCS` (переклав *Green Kitten*)
 + `country_SOL`
 + `country_STG` (первісно переклав *ціктакомба*, переписав *Max*)
