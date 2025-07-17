@@ -391,7 +391,7 @@ CHN: "Чейнджлінґія"
  CHN_DEF: "Чейнджлінґія"
  CHN_ADJ: "Чейнджлінзьк"
  CHN_fascism: "Землі Чейнджлінґів"
- CHN_fascism_DEF: "Королевство Чейнджлінґів"
+ CHN_fascism_DEF: "Королівство Чейнджлінґів" # qnd.
  CHN_fascism_ADJ: "Чейнджлінзьк"
  CHN_democratic: "Вільні Вулики Чейнджлінґів"
  CHN_democratic_DEF: "Вільні Вулики Чейнджлінґів"
@@ -414,8 +414,8 @@ CHN: "Чейнджлінґія"
  CHN_YAK_communism_subject_ADJ: "Чейнджлінзьк"
  CHN_changelingia_fascism: "Чейнджлінґія"
  CHN_changelingia_fascism_DEF: "Велика Чейнджлінґія"
- CHN_changelingia_1_fascism: "Королевство Чейнджлінґів"
- CHN_changelingia_1_fascism_DEF: "Королевство земель чейнджлінґів"
+ CHN_changelingia_1_fascism: "Королівство Чейнджлінґів" # qnd.
+ CHN_changelingia_1_fascism_DEF: "Королівство земель чейнджлінґів" # qnd.
 
 YAK: "Як'якистан"
  YAK_DEF: "Як'якистан"
