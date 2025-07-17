@@ -167,7 +167,7 @@
  concentrated_industry_c_desc:0 "As we learn from new construction methods on building taller and more land-efficient skyscrapers, we can apply these lessons to our factories. Vertically integrated specific production lines reduce overall land use, making factory expansions more viable and overall less land-intensive. As such, our industries can grow further and increase production output."
  concentrated_industry_d:0 "Integration of Air Transports"
  concentrated_industry_d_desc:0 "The logistics chain that feeds our industry is essential, and must function regardless of circumstance. Transport planes and now helicopters are not perfect, but it has become clear that they are an excellent supplement to existing transportation methods. From moving materials to personnel, it has become evident that this particular aspect of transportation will only grow more efficient and more reliable. We should take steps to begin their integration."
- 
+
  dispersed_industry_a:0 "Integrated Worker Towns"
  dispersed_industry_a_desc:0 "One of the most significant causes of information leakage is loose lips from workers, even when sworn to secrecy. We can keep them away from possible enemy agents by bringing them to our isolated complexes and have them live there."
  dispersed_industry_b:0 "Reinforced Facilities"
@@ -219,7 +219,7 @@
  guided_missile_equipment_4: "Ранні міжконтинентальні балістичні ракети"
  guided_missile_equipment_4_short: "Ранні МБР" # УЛ
  guided_missile_equipment_4_desc:0 "Massive breakthroughs in crystal-rocket engines have resulted in a somewhat reliable interceptor. Combined with multi-phase rocket designs, we can now create truly awe-inspiring ballistic missiles. Launched high into the sky, well into the stratosphere, there is no hope of interception, and there are few places this class of missiles cannot reach."
- 
+
  modern_rocket_engines: "Істинні міжконтинентальні балістичні ракети"
  modern_rocket_engines_short: "Істинні МБР"
  modern_rocket_engines_desc:0 "Further refinements and research of our work with ICBMs and guidance technology have borne fruit. Massive, expensive, and impressive, this new generation of missiles heralds the age of titanic missiles that can hit any target in minutes and bring devastation even with conventional warheads. With some designs reaching the limits of our atmosphere, some scientists believe we could go to outer space—beyond our world. Perhaps we can once the world is at peace..."

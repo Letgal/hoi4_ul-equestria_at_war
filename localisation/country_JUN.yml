@@ -455,7 +455,7 @@
   fancy:0 "Фенсі Гувз"
   caramel1:0 "Карамель Кранч"
   JUN_darling_angel: "Дарлінґ Ейнджел"
- 
+
 ### РІШЕННЯ ###
  JUN_raise_militia_warband:0 "Набрати племена в області [FROM.GetName]"
  JUN_raise_militia_warband_desc: ""
