@@ -398,7 +398,7 @@
  operationariettesphasefour_desc:0 "Both the partitioning of Olenia and the settlement of changelings within the new partitions show that we can openly lead other people under the right circumstances. Both Olenians and Changelings prove that a greater syndicalist state is possible, but it will never exist if our old nemesis, Equestria, still stands."
  chncolonization: "Заснувати комісаріати"
  chncolonization_desc:0 "As legal as the new Olenian government is, the war has left the country in a state of disarray. In order to protect the interests of the common citizen, we must intervene directly. Hopefully, this will allow us to finally mingle with other races in the open. Perhaps this is the start of something greater..."
- chncomshowtrials: "Вейверфронтські суди"
+ chncomshowtrials: "Вейверфронтські судові процеси"
  chncomshowtrials_desc:0 "Now that the war is won, the rightful Olenian leadership has approached us to oversee their trials of what remains of the old order. If we accept their request, it will bring our countries closer together politically and socially."
  seize_production_desc:0 "The nation is in dire need of rapid industrialisation, and it stands to reason that the workforce itself knows best. By allowing the workers to control the centres of industry, we will see greater output and development from them."
  equality_for_all_CHN_desc:0 "While some point to the likes of Stalliongrad and claim that there is no such thing as a truly equal society, it may yet ring true for changelings. For untold centuries, we have shown a level of cooperation unparalleled by other races. If this great experiment can succeed anywhere, it is within our society."
@@ -783,14 +783,14 @@
  lysander: "Лісандер"
  chnindustrialist: "Силвер Маркс"
  chnterror: "Зеленоокий"
- #changeling_spies: "Шпигуни-чейнджлінґи" # Identical duplicate from Eaw
+ #changeling_spies: "Шпигуни чейнджлінґів" # Identical duplicate from Eaw
  #UPP: "Конгрес СПЧ" # Identical duplicate from Eaw
  #CLF: "Ополчення ЧВФ" # Identical duplicate from Eaw
  #internal_disputes: "Внутрішні суперечки" # Identical duplicate from Eaw
  #blackarmy: "Чорнармія" # Identical duplicate from Eaw
  #covert_agents: "Шпигунська мережа" # Identical duplicate from Eaw
  evil_guy: "Відданий генерал"
- #changeling_spies: "Шпигуни-чейнджлінґи" # Identical duplicate from Eaw
+ #changeling_spies: "Шпигуни чейнджлінґів" # Identical duplicate from Eaw
  chnairm1: "KLA Bureau"
  chnairm2: "Fagus Vraksis Aeronautics"
  chnairm3: "United Wing Association"

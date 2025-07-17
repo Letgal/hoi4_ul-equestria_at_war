@@ -1066,9 +1066,9 @@
   CCN_Velvet: "Кейсарінна Вельвет"
   CCN_Thorax: "Кейсарій Торакс"
 
- changeling_spies: "Шпигуни-чейнджлінґи"
- UPP:0 "Конгресс СПЧ"
- CLF:0 "Отряды ополчения"
+ changeling_spies: "Шпигуни чейнджлінґів"
+ UPP: "Конгрес СПЧ"
+ CLF: "Ополчення ЧВФ"
  internal_disputes: "Внутрішні суперечки"
  blackarmy: "Чорнармія"
  covert_agents: "Шпигунська мережа"

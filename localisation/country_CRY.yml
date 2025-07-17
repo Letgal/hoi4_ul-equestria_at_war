@@ -1132,8 +1132,8 @@
 
  CRY_protectorate_dem:0 "Гармонійний опір"
  CRY_protectorate_dem_long:0 "Гармонійний опір"
- CRY_protectorate_fas:0 "Чейнджлінзька адміністрація"
- CRY_protectorate_fas_long:0 "Чейнджлінзька адміністрація Кристальної Імперії"
+ CRY_protectorate_fas:0 "Адміністрація чейнджлінґів"
+ CRY_protectorate_fas_long:0 "Адміністрація чейнджлінґів у Кристальній Імперії"
 
  CRY_show_territories:0 "Показати старі території"
  CRY_show_territories_desc:0 "Ми мусимо володіти областями §Y$STATE_137$, $STATE_138$, $STATE_173$, $STATE_134$, $STATE_179$, $STATE_136$, $STATE_131$, $STATE_175$, $STATE_172$, $STATE_174$, $STATE_14$, $STATE_73$, $STATE_72$, $STATE_59$, $STATE_60$, $STATE_61$, $STATE_132$, $STATE_170$, $STATE_169$, $STATE_180$, $STATE_181$, $STATE_135$, $STATE_178$, $STATE_74$, $STATE_104$, $STATE_183$, $STATE_182$, $STATE_182$, $STATE_155$, $STATE_154$, $STATE_102$, $STATE_157$, $STATE_326$, $STATE_160$, $STATE_164$, $STATE_237$, $STATE_235$, $STATE_163$, $STATE_161$, $STATE_153$, $STATE_334$, $STATE_240$, $STATE_165$, $STATE_225$, $STATE_168$, $STATE_167$, $STATE_166$, $STATE_332$, $STATE_234$, $STATE_57$, $STATE_268$, $STATE_267$, $STATE_11$, $STATE_317$, $STATE_255$, $STATE_273$, $STATE_270$, $STATE_346$, $STATE_256$, $STATE_274$, $STATE_269$, $STATE_253$, $STATE_56$, $STATE_156$, $STATE_70$, $STATE_54$, $STATE_133$, $STATE_45$, $STATE_233$, $STATE_678$, $STATE_176$, $STATE_254$, $STATE_257$, $STATE_276$, $STATE_275$, $STATE_340$, $STATE_341$, $STATE_342$, $STATE_347$, $STATE_126$, $STATE_129$, $STATE_130$, $STATE_105$, $STATE_103$, $STATE_171$, $STATE_337$, $STATE_40$, $STATE_223$, $STATE_232$, $STATE_227$, $STATE_158$, $STATE_162$, $STATE_159$, $STATE_229$, $STATE_653$, $STATE_333$§! і §Y$STATE_67$§!."
