@@ -176,6 +176,33 @@
  kirin_tech: "Расові технології кірінів"
  kirin_tech_research: "Швидкість дослідження расових технологій кірінів"
 
+ TITLE_KIRIN_VANGUARD_SUBTITLE: "АВАНГАРДИ"
+ kirin_vanguard_tech: "Авангарди кірінів"
+ kirin_vanguard_tech_research: "Швидкість дослідження авангардів кірінів"
+ tech_kirin_vanguard: "Авангарди кірінів"
+ kirin_vanguards: "Авангарди"
+
+ TITLE_KIRIN_BRAVES_SUBTITLE: "ДОБЛЕСНІ" # (&)
+ kirin_brave_tech: "Доблесні кіріни"
+ kirin_brave_tech_research: "Швидкість дослідження доблесних кірінів"
+ tech_kirin_brave: "Доблесні кіріни"
+ kirin_braves: "Доблесні"
+
+ TITLE_KIRIN_MILITARY_SUBTITLE: "ВІЙНА" # повн. ВІЙСЬКОВА СПРАВА
+ kirin_military_tech: "Військова справа кірінів"
+ kirin_military_tech_research: "Швидкість дослідження військової справи кірінів"
+
+ TITLE_KIRIN_NUMEROLOGY_SUBTITLE: "НУМЕРОЛОГІЯ"
+ kirin_numerology_tech: "Нумерологія кірінів"
+ kirin_numerology_tech_research: "Швидкість дослідження нумерології кірінів"
+
+ TITLE_KIRIN_GEOMANCY_SUBTITLE: "ГЕОМАНТІЯ"
+
+ TITLE_KIRIN_ASTROLOGY_SUBTITLE: "АСТРОЛОГІЯ"
+
+ TITLE_KIRIN_NIRIK_SUBTITLE: "ДВОЇСТІСТЬ КІРІНІВ"
+ tech_kirin_nirik: "Особливість кірінів"
+
  KIR_militia_tech: "Ополчення"
  KIR_militia_tech_desc: "Ополчення."
  KIR_irregular_tech: "Нерегулярна піхота"
