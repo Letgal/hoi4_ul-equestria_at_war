@@ -67,8 +67,8 @@
  GetTNOMaintext_KIS_beats_NIRIK: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! придушила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в процесі §YДругої какофонії§!."
  GetTNOMaintext_NIRIK_beats_KIS: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! подолала державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в процесі §YДругої какофонії§!."
  GetTNOMaintext_KIR_CORW: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! вийшла переможницею над державою §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в процесі §YКорпоративної війни в Кірії§!."
- GetTNOMaintext_CFR_CRF: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! розчавила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в процесі §YКризи Багряної протоки§!."
- GetTNOMaintext_CFR_RRA: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! розчавила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в процесі §YПовстання Праведного володарства§!."
+ GetTNOMaintext_CFR_CRF: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! розчавила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в процесі §YКризи Каштанової протоки§!."
+ GetTNOMaintext_CFR_RRA: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! розчавила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в процесі §YПовстання Праведного Царства§!."
 
  GetTNOMaintext_KTZ_kattail: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! захопила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!, відповідно до заяви кайзера Кеттейла про світове панування." # (&)
  GetTNOMaintext_KTZ_early_kattail: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! завоювала державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!, відповідно до заяви кайзера Кеттейла про велич Абіссинії." # (&)
@@ -227,7 +227,7 @@ GetTNOReference_ZAI: "Деякі секрети краще залишити в �
 GetTNOReference_ZAI_2: "Менше лихо — більше не варіант."
 GetTNOReference_ZAI_3: "Смерть — це лише початок."
 
-GetTNOReference_KIR: "Печаль і полум'я огорнули володарство."
+GetTNOReference_KIR: "Печаль і полум'я охопили царство."
 GetTNOReference_KIR_1: "Закінчується осінь, приходить зима."
 GetTNOReference_KIR_2: "Сонце заходить, закінчується осінь, приходить зима."
 GetTNOReference_KIR_3: "Мовчання було порушено назавжди."

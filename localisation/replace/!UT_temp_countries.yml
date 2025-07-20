@@ -2334,7 +2334,7 @@
  GRY_GRU_puppet_neutrality_ADJ: "Козакенландськ"
 
  NIM_GRU_puppet_fascism: "Кюстенрайх"
- NIM_GRU_puppet_fascism_DEF: "Прибережне Священне Володарство"
+ NIM_GRU_puppet_fascism_DEF: "Прибережне Священне Царство"
  NIM_GRU_puppet_fascism_ADJ: "Кюстенрайхськ"
 
  RCT_GRU_puppet_fascism: "Флюсштадт"
@@ -2342,7 +2342,7 @@
  RCT_GRU_puppet_fascism_ADJ: "Флюсштадтськ"
 
  DMT_GRU_puppet_fascism: "Гундерайх"
- DMT_GRU_puppet_fascism_DEF: "Священне Володарство Хортів"
+ DMT_GRU_puppet_fascism_DEF: "Священне Царство Гончих"
  DMT_GRU_puppet_fascism_ADJ: "Гундерайхськ"
 
  LCT_GRU_puppet_fascism: "Орденсштаат Геллсуорд"
@@ -3326,7 +3326,7 @@
   YAN_KIC_ADJ: "Зебридськ"
 
   KIS_FRA_KIR: "Мерія Пахощів"
-  KIS_FRA_KIR_DEF: "Ясно-червона мерія Пахощів"
+  KIS_FRA_KIR_DEF: "Кіноварна мерія Пахощів"
   KIS_FRA_KIR_ADJ: "Пахуч"
   FRV_international: "Міжнародне місто Пахощі"
   FRV_international_DEF: "Міжнародне місто Пахощі та його територія"
@@ -3355,11 +3355,11 @@
   FRV_CHN: "Осиний корпус"
   FRV_CHN_DEF: "Операційна зона Осиного корпусу в Пахощах"
   FRV_CHN_ADJ: "Чейнджлінзьк"
-  KIR_RRA: "Армія Праведного Володарства"
-  KIR_RRA_DEF: "Праведна армія спокути Володарства"
+  KIR_RRA: "Армія Праведного Царства"
+  KIR_RRA_DEF: "Праведна армія спокути Царства"
   KIR_RRA_ADJ: "Кірійськ"
-  KIC_RRA: "Армія Праведного Володарства"
-  KIC_RRA_DEF: "Праведна армія спокути Володарства"
+  KIC_RRA: "Армія Праведного Царства"
+  KIC_RRA_DEF: "Праведна армія спокути Царства"
   KIC_RRA_ADJ: "Кірійськ"
 
   KIR_NDF: "Народний фронт оборони"
@@ -3394,8 +3394,8 @@
   KIR_DEL_Autonomy_DEF: "Таларайська автономна залежна територія"
   KIR_DEL_Autonomy_ADJ: "Таларайськ"
 
-  KIC_realm: "Велике Володарство Кірінів"
-  KIC_realm_DEF: "Велике Володарство Кірінів"
+  KIC_realm: "Велике Царство Кірінів"
+  KIC_realm_DEF: "Велике Царство Кірінів"
   KIC_realm_ADJ: "Кірінськ"
   FRV_revolt: "Революційні Пахощі"
   FRV_revolt_DEF: "Революційні Пахощі"
@@ -3465,10 +3465,10 @@
   #KIR_communism_party_X: "Зростаючий Вогонь"
   #KIR_communism_party_X_long:0 "All-Communion Path of the Rising Fire"
 
-  KIR_democratic_party_1: "ПВтГ"
-  KIR_democratic_party_1_long: "Партія володарства та гармонії"
-  KIR_democratic_party_2: "ПНВ"
-  KIR_democratic_party_2_long: "Партія нового володарства"
+  KIR_democratic_party_1: "ПЦтГ"
+  KIR_democratic_party_1_long: "Партія царства та гармонії"
+  KIR_democratic_party_2: "ПНЦ"
+  KIR_democratic_party_2_long: "Партія нового царства"
   KIR_democratic_party_3: "РзДК"
   KIR_democratic_party_3_long: "Рух за демократичну Кірію"
 
@@ -4623,17 +4623,17 @@
  PLB_polar_queendom_democratic_DEF: "Неприборкана Земля"
  PLB_polar_queendom_democratic_ADJ: "Неприборкан"
 
- PLB_high_kingdom_fascism: "Велике Володарство Полярних Ведмедів"
- PLB_high_kingdom_fascism_DEF: "Велике Володарство Полярних Ведмедів"
+ PLB_high_kingdom_fascism: "Велике Царство Полярних Ведмедів"
+ PLB_high_kingdom_fascism_DEF: "Велике Царство Полярних Ведмедів"
  PLB_high_kingdom_fascism_ADJ: "Полярн"
 
  PLB_clan_svartpels_fascism: "Клан Свартпельс"
  PLB_clan_svartpels_fascism_DEF: "Клан Свартпельс"
  PLB_clan_svartpels_fascism_ADJ: "Свартпельськ"
 
- PLB_clan_coalition_fascism: "Володарство Замерзлого моря"
- PLB_clan_coalition_fascism_DEF: "Володарство Замерзлого моря"
- PLB_clan_coalition_fascism_ADJ: "Володарськ" # інак. Ведмеж
+ PLB_clan_coalition_fascism: "Царство Замерзлого моря"
+ PLB_clan_coalition_fascism_DEF: "Царство Замерзлого моря"
+ PLB_clan_coalition_fascism_ADJ: "Замерзл" # інак. Ведмеж
 
  PLB_ice_bear_communism: "ДМС Полярії"
  PLB_ice_bear_communism_DEF: "Демократичні ведмежі спільноти Полярії"
@@ -4680,12 +4680,12 @@
  PLB_exuvia_changelingia_fascism_DEF: "Споконвічне королевство чейнджлінґів-ведмедів"
  PLB_exuvia_changelingia_fascism_ADJ: "Чейнджлінзько-ведмеж"
 
- PLB_exu_equus_fascism: "Титанічне володарство Еквусу"
- PLB_exu_equus_fascism_DEF: "Титанічне володарство Еквусу"
+ PLB_exu_equus_fascism: "Титанічне царство Еквусу"
+ PLB_exu_equus_fascism_DEF: "Титанічне царство Еквусу"
  PLB_exu_equus_fascism_ADJ: "Еквуськ"
 
- PLB_wild_hunt: "Велике Володарство диких земель"
- PLB_wild_hunt_ADJ: "Велике Володарство диких земель"
+ PLB_wild_hunt: "Велике Царство Диких Земель"
+ PLB_wild_hunt_ADJ: "Велике Царство Диких Земель"
  PLB_wild_hunt_DEF: "Дик"
 
  GRF_PLB_puppet_neutrality: "Пташина Республіка"
@@ -4696,8 +4696,8 @@
  CCN_PLB_puppet_neutrality_DEF: "Чейнджлінзька республіка Соріф" # Ѳ
  CCN_PLB_puppet_neutrality_ADJ: "Соріфськ" # Ѳ
 
- PLB_GRF_owlbears_fascism: "Володарство Сововедмедів"
- PLB_GRF_owlbears_fascism_DEF: "Володарство Сововедмедів"
+ PLB_GRF_owlbears_fascism: "Царство Сововедмедів"
+ PLB_GRF_owlbears_fascism_DEF: "Царство Сововедмедів"
  PLB_GRF_owlbears_fascism_ADJ: "Сововедмеж"
 
  PLB_CHN_occupation_authority_fascism: "Чейнджлінзька окупаційна адміністрація"
