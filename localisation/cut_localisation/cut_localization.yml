@@ -120,7 +120,7 @@
   TBK_amended_republic: "$TBK_fake_republic$"
   TBK_amended_republic_desc: "$TBK_fake_republic_desc$\n\nНещодавні вибори загалом знайшли підтримку громадськості, але певна злоба лишається; адже ще треба вирішити так помітну урядову корупцію. Васіле зробить усе на краще для держави, чи не так?" # (&)
 
-# eaw_parties
+# eaw_parties (трохи шкода видаляти)
  YAK_neutrality_party: "Снігова рада"
  YAK_communism_party: "Народна комуністична партія"
  YAK_democratic_party: "Якська монархія"
@@ -136,8 +136,7 @@
 
  EAW_WS_EQS_desc: "Земля §GЕквестрії§! — мирна гавань раси поні, хоча вона не завжди була такою.\n\nТисячі років тому, до міграції на південь, три племені поні — єдинороги, пегаси та земнопоні — це не були єдині, як сьогодні, а сварилися та ворогували між собою. Ситуація погіршувалася по мірі того, як клімат ставав усе холоднішим. Поні покинули свою батьківщину й багато переселилося на південь, на нову, незайману землю. Кожне плем'я поні вважало, що воно було кращим за інші два й хотіло забрати землю собі, але врешті-решт вони змогли вижити лише разом. Еквестрійський фолклор розповідає, що троє вождів племен були закриті в печері посеред снігової бурі, і вижили вони тільки завдяки співпраці та дружбі. Відтоді племена об'єдналися від одним знаменом і прапором: так народилась §GЕквестрія§!.\n\nНезабаром після свого заснування, поні запросили §Yпринцесу Селестію§! та її молодшу сестру §Cпринцесу Луну§! правити населенням §GЕквестрії§!. Ці дві принцеси — безсмертні алікорни, що поділяють здібності кожної з трьох рас і достатньо могутні, щоби підіймати й опускати сонце та місяць. Довго були вони вартовими §GЕквестрії§!, захищаючи її з допомогою §YЕлементів Гармонії§! та перемагаючи великих і небезпечних ворогів, як-от §RДискорда, Духа Хаосу§! та §Rкороля Сомбру§! з Кристальної Імперії. §CПринцеса Луна§!, однак, із часом піддалася ревнощам, адже поні не цінували її ніч, натомість радіючи дню її старшої сестри. Вона перетворилася на зловісну §RНайтмер Мун§!, затінивши Сонце своїм Місяцем, і напала на §YСелестію§!. У розпачі, Селестія не мала іншого вибору, крім як вигнати свою сестру на Місяць на §Yтисячу років§!. Розпочалася нова епоха, в якій §GЕквестрією§! правила єдина особа, що здіймала і Сонце, і Місяць.\n\nЦя епоха стала періодом миру, росту та розвитку. Із оленями §YОленії§! було підписано договір про дружбу, нарешті покінчивши з береговими рейдами останніх. Відома дослідниця Міандерлі Пул перетнула океан і досягла далекого сходу, де відкрила східних родичів — поні §CРічкових земель§!. Інший дослідник на ім'я Кольтлумб заснував §YНовий Мейрленд§! на півдні Грифонії. Згодом, Джем Ватт винайде паровий двигун, розпочавши процес індустріалізації Еквестрії. По мірі урбанізації й індустріалізації з'являтимуться й стрімко ростимуть нові міста. Але поки рівень процвітання зростав, його поширення було не таким рівним, як дехто сподівався. Після того, як поганий контроль пегасів над погодою призвів до нестачі їжі в §YСєвєряні§!, регіон повстав. Мир в Еквестрії скінчився з вибухом §RЗимової революції§!. Побоюючися повноцінної громадянської війни, Селестія не мала вибору крім як підписати мир, дозволивши комуністичній державі існувати вільно. Це повстання, мабуть, було знаком до майбутніх подій.\n\nСім років тому, на зорі нового тисячоліття й за тисячу років після її вигнання, Найтмер Мун повернулася. Але шість поні дізналися про свою долю як утілення §YЕлементів Гармонії§! й використали Магію Дружби, щоб обернути її знов на Луну, змусити залишити свою злу сторону в минулому й повернутися до правління разом зі своєю сестрою. Ці шість різних поні, що втілюють і володіють Елементами Гармонії, найвизначніша з яких — §YТвайлайт Спаркл§!, Елемент Магії та Принцеса Дружби, не раз стикалися й перемагали зло, захищаючи §GЕквестрію§! від тиранії та хаосу.\n\nОднак, цього разу §GЕквестрія§! стикається з новими ворогами: лиха §Rкоролева Кризаліс§! об'єднала роз'єднані §Gземлі чейнджлінґів§! під своїм повним контролем. Кілька років тому вона вже влаштувала провальне вторгнення в §YКантерлот§!, столицю §GЕквестрії§!, і §Yпринцеса Селестія§! занепокоєна, що вона вдарить знову й цього разу з повною силою.\n\nНебо все темнішає. На обрії збираються хмари, і багато хто розуміє, що дружба й мир можуть і не пережити майбутню бурю.\n\nНастає нова епоха, до якої §GЕквестрія§! та її миролюбні громадяни можуть бути не готові." # (&)
 
-# loading_tips
- # Старі цитати (шкода їх видаляти)
+# loading_tips (старі цитати – шкода їх видаляти)
  LOADING_TIP_78: "«Я звинувачуюсь у злочині — боротьбі за Еквестрію, в чому я винен. Я радо вмру за Еквестрію — за мрію, яку не знищить жодна Найтмер. Еквестрія буде вільною!»\n(Генерал Соарин)"
  LOADING_TIP_79: "«У війні — перемога. В мирі — пильність. У смерті — пожертва».\n(Девіз Арктурійського ордену)"
  LOADING_TIP_80: "«Надто довго продовжувався цей цикл дружби й горя. Час комусь розірвати його. Назавжди».\n(Роза Маледикта)"
@@ -541,183 +540,8 @@
   little_kemerskai: "Ґергард Блюм"
 
  # country_BAR
-  barrad_climate: "Баррадський клімат"
-  barrad_climate2: "$barrad_climate$"
-  barrad_climate3: "$barrad_climate$"
-
-  BAR_fascism: "Баррадська магократія"
-  BAR_fascism_DEF: "Баррадська магократія"
-  BAR_fascism_ADJ: "Баррадськ"
-  BAR_democratic: "Баррадська республіка"
-  BAR_democratic_DEF: "Баррадська республіка"
-  BAR_democratic_ADJ: "Баррадськ"
-  BAR_neutrality: "Графство Баррад"
-  BAR_neutrality_DEF: "Графство Баррад"
-  BAR_neutrality_ADJ: "Баррадськ"
-  BAR_communism: "Баррадська комуна"
-  BAR_communism_DEF: "Баррадська комуна"
-  BAR_communism_ADJ: "Баррадськ"
-
-  BAR_grand_county_fascism: "Велика Баррадська магократія"
-  BAR_grand_county_fascism_DEF: "Велика Баррадська магократія"
-  BAR_grand_county_fascism_ADJ: "Баррадськ"
-  BAR_grand_county_democratic: "Велика Баррадська республіка"
-  BAR_grand_county_democratic_DEF: "Велика Баррадська республіка"
-  BAR_grand_county_democratic_ADJ: "Баррадськ"
-  BAR_grand_county_neutrality: "Велике графство Баррад"
-  BAR_grand_county_neutrality_DEF: "Велике графство Баррад"
-  BAR_grand_county_neutrality_ADJ: "Баррадськ"
-  BAR_grand_county_communism: "Баррадська соціалістична республіка"
-  BAR_grand_county_communism_DEF: "Баррадська соціалістична республіка"
-  BAR_grand_county_communism_ADJ: "Баррадськ"
-
-  BAR_WIT_fascism: "Королівство Віттенленд"
-  BAR_WIT_fascism_DEF: "Королівство Віттенленд"
-  BAR_WIT_fascism_ADJ: "Віттенлендськ"
-  BAR_WIT_democratic: "Велика Віттенлендська республіка"
-  BAR_WIT_democratic_DEF: "Велика Віттенлендська республіка"
-  BAR_WIT_democratic_ADJ: "Віттенлендськ"
-  BAR_WIT_neutrality: "Королівство Віттенленд"
-  BAR_WIT_neutrality_DEF: "Королівство Віттенленд"
-  BAR_WIT_neutrality_ADJ: "Віттенлендськ"
-  BAR_WIT_communism: "Віттенлендська соціалістична республіка"
-  BAR_WIT_communism_DEF: "Віттенлендська соціалістична республіка"
-  BAR_WIT_communism_ADJ: "Віттенлендськ"
-
-  BAR_viira_fascism: "Віірад"
-  BAR_viira_fascism_DEF: "Віірад"
-  BAR_viira_fascism_ADJ: "Віірадськ"
-
-  BAR_leopold_fascism: "Баррадська директорія"
-  BAR_leopold_fascism_DEF: "Баррадська директорія"
-  BAR_leopold_fascism_ADJ: "Баррадськ"
-
-  GRU_BAR_puppet_fascism: "Ґрифус"
-  GRU_BAR_puppet_fascism_DEF: "Ґрифус"
-  GRU_BAR_puppet_fascism_ADJ: "Ґрифуськ"
-  GRU_BAR_puppet_democratic: "Ґрифус"
-  GRU_BAR_puppet_democratic_DEF: "Ґрифус"
-  GRU_BAR_puppet_democratic_ADJ: "Ґрифуськ"
-  GRU_BAR_puppet_neutrality: "Ґрифус"
-  GRU_BAR_puppet_neutrality_DEF: "Ґрифус"
-  GRU_BAR_puppet_neutrality_ADJ: "Ґрифуськ"
-  GRU_BAR_puppet_communism: "Ґрифус"
-  GRU_BAR_puppet_communism_DEF: "Ґрифус"
-  GRU_BAR_puppet_communism_ADJ: "Ґрифуськ"
-
-  ZES_BAR_puppet_fascism: "Каза"
-  ZES_BAR_puppet_fascism_DEF: "Каза"
-  ZES_BAR_puppet_fascism_ADJ: "Казинськ"
-  ZES_BAR_puppet_democratic: "Каза"
-  ZES_BAR_puppet_democratic_DEF: "Каза"
-  ZES_BAR_puppet_democratic_ADJ: "Казинськ"
-  ZES_BAR_puppet_neutrality: "Каза"
-  ZES_BAR_puppet_neutrality_DEF: "Каза"
-  ZES_BAR_puppet_neutrality_ADJ: "Казинськ"
-  ZES_BAR_puppet_communism: "Каза"
-  ZES_BAR_puppet_communism_DEF: "Каза"
-  ZES_BAR_puppet_communism_ADJ: "Казинськ"
-
-  GRY_BAR_puppet_fascism: "Зафія"
-  GRY_BAR_puppet_fascism_DEF: "Зафія"
-  GRY_BAR_puppet_fascism_ADJ: "Зафійськ"
-  GRY_BAR_puppet_democratic: "Зафія"
-  GRY_BAR_puppet_democratic_DEF: "Зафія"
-  GRY_BAR_puppet_democratic_ADJ: "Зафійськ"
-  GRY_BAR_puppet_neutrality: "Зафія"
-  GRY_BAR_puppet_neutrality_DEF: "Зафія"
-  GRY_BAR_puppet_neutrality_ADJ: "Зафійськ"
-  GRY_BAR_puppet_communism: "Зафія"
-  GRY_BAR_puppet_communism_DEF: "Зафія"
-  GRY_BAR_puppet_communism_ADJ: "Зафійськ"
-
-  WIT_BAR_puppet_fascism: "Північний Баррад"
-  WIT_BAR_puppet_fascism_DEF: "Північний Баррад"
-  WIT_BAR_puppet_fascism_ADJ: "Північнобаррадськ"
-  WIT_BAR_puppet_democratic: "Північний Баррад"
-  WIT_BAR_puppet_democratic_DEF: "Північний Баррад"
-  WIT_BAR_puppet_democratic_ADJ: "Північнобаррадськ"
-  WIT_BAR_puppet_neutrality: "Північний Баррад"
-  WIT_BAR_puppet_neutrality_DEF: "Північний Баррад"
-  WIT_BAR_puppet_neutrality_ADJ: "Північнобаррадськ"
-  WIT_BAR_puppet_communism: "Північний Баррад"
-  WIT_BAR_puppet_communism_DEF: "Північний Баррад"
-  WIT_BAR_puppet_communism_ADJ: "Північнобаррадськ"
-
-  JHZ_viira_fascism: "Віірадська держава Гартленд"
-
-  MNC_viira_fascism: "Пунавуорі"
-  MNC_viira_fascism_DEF: "Червона Гора"
-  MNC_viira_fascism_ADJ: "Пунавуорійськ"
-
-  JNG_viira_fascism: "Луотейнен Аарнікотка-Алуе"
-  JNG_viira_fascism_DEF: "Північно-Західна Орлина Держава"
-  JNG_viira_fascism_ADJ: "Північно-західн"
-
-  NTR_viira_fascism: "Крайня Північ"
-  NTR_viira_fascism_DEF: "Крайня Північ"
-  NTR_viira_fascism_ADJ: "Північн"
-
-  DED_viira_fascism: "Королівство Жаху"
-  DED_viira_fascism_DEF: "Королівство Жаху"
-  DED_viira_fascism_ADJ: "Жахлив"
-
-  JAS_viira_fascism: "Велика Держава Мінотаврів"
-  JAS_viira_fascism_DEF: "Велика Держава Мінотаврів"
-  JAS_viira_fascism_ADJ: "Мінотаврськ"
-
-  JKR_viira_fascism: "Карфінське Священне Володарство"
-  JKR_viira_fascism_DEF: "Карфінське Священне Володарство"
-  JKR_viira_fascism_ADJ: "Карфінськ"
-
-  POM_viira_fascism: "Лентінен Аарнікотка-Алуе"
-  POM_viira_fascism_DEF: "Західна Орлина Держава"
-  POM_viira_fascism_ADJ: "Західн"
-
-  JGF_viira_fascism: "Бореальні Райони"
-  JGF_viira_fascism_DEF: "Священні Бореальні Райони"
-  JGF_viira_fascism_ADJ: "Бореальн"
-
-  ### ПАРТІЇ ###
-  BAR_neutrality_party: "Віттенлендські лоялісти"
-  BAR_communism_party: "Шоста колона"
-  BAR_democratic_party: "Фронт об'єднання"
-  BAR_fascism_party: "Пентархія"
-
   ### ПЕРСОНАЖІ ###
-  # Лідери
-  BAR_count_ambrosius: "Граф Амброзій"
-  BAR_ambrosius: "Амброзій"
-  BAR_angry_mob: "Злий натовп"
-  BAR_angrier_mob: "Зліший натовп"
-  BAR_viira_lehtola: "Вііра Легтола"
-  BAR_no_one: "Ніхто"
-  BAR_silver_star: "Силвер Стар"
-  BAR_asinti: "Асінті"
-  BAR_ondska: "Губернатор Ондска"
-  BAR_leopold_schmeller: "Леопольд Шмеллер"
-  BAR_governor_ondska: "Губернатор Ондска"
-  BAR_punavuori_directorate: "Директорат Пунавуорі"
-  BAR_minotaur_regional_command: "Регіональне командування мінотаврів"
-  BAR_high_karthinian_chamber: "Вища карфінська палата"
-  BAR_aquila_regional_council: "Регіональна рада Аквіли"
-  BAR_viirad_keepers: "Хранителі Вііраду"
-  BAR_far_northern_administration: "Адміністрація Далекої півночі"
-
-  # Ґенерали
-  BAR_oleander: "Олеандр"
-  BAR_wigberht: "Віґберхт"
-  BAR_gebleod: "Ґеблеод"
-  BAR_jerzy_janosik: "Єжи Яношік"
-  BAR_gasienica: "Ґонсєниця"
-
-  # Адмірали
-  BAR_gasping_breath: "Ґаспинґ Бреф"
-
   # Радники
-  BAR_cpt_novak: "Капітан Ґонсєниця"
-  #BAR_cpt_novak_desc:0 "Despite his prominence, the origins of Count Ambrosius' most trusted advisor have always been shrouded in mystery. Rumour has it that Gąsienica grew up in a Gryphussian village located near the Barradian border before being abducted as a child by Ambrosius. He is then said to have been subjected to experiments which mutated him into an unstoppable killing machine.\n\nThe griffon's monstrous stature and reputation for brutality quickly earned him his position as the Count's Right Claw, acting as the Ambrosius' bodyguard as well as commanding his soldiers. But, as many who have underestimated Gąsienica have learned, brutality does not equal stupidity. Gąsienica has retained his intelligence and cleverness throughout his time in the Count's service, and is a well-liked and competent commander of troops. In fact, given the eccentricities of the Pentarchs, Gąsienica is often referred to as the last sane creature in Barrad."
-  BAR_cpt_novak_advisor: "Правий пазур графа"
   BAR_pen_scientist: "Леофрік & Ґодґіфу Ґледвіне"
   BAR_ded_scientist: "Ґодґіфу Ґледвіне"
   BAR_pen_pp_pol: "Етельфлед Сіґевеард"
@@ -725,7 +549,6 @@
   BAR_pen_industrialist: "Еадмунд Геастан"
   BAR_pen_occ: "Сабедорія"
   BAR_pen_war_prof: "Освіне Сіґеспере"
-  BAR_head_of_intel: "Містер Ліллі"
   BAR_pen_army_chief: "Беорхтсіґе Сіґеспере"
   BAR_pen_army_chief_1: "Кеадда Сіґевеальд"
   BAR_pen_army_chief_2: "Ґодрік Геревеальд"
@@ -757,14 +580,6 @@
   BAR_ded_cas: "$BAR_pen_cas$"
   BAR_ded_medium_planes: "$BAR_pen_medium_planes$"
   BAR_ded_shipyard: "$BAR_pen_shipyard$"
-
-  ### ПЕРЕМОЖНІ БАЛИ ###
-  BAR_grenbridge: "Ґренбридж"
-  BAR_axford: "Аксфорд"
-  BAR_beorgham: "Беорґгам"
-  BAR_elysium: "Елізіум"
-  BAR_dunburh: "Данбург"
-  BAR_viirium: "Вііріум"
 
  # country_HAU
   HAU_hermann_meyer: "Герман Маєр"
