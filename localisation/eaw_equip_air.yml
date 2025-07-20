@@ -15,7 +15,7 @@
  airships1: "Дирижаблі епохи Шторма"
  airships1_short: "Дирижаблі еп. Шторма" # УЛ
  airships1_desc:0 "Blimps and zeppelins capable of carrying out any role effectively, at the cost of slow speed, low maneuverability, and vulnerability to incendiary ammunition."
- airship_airframes: "Корпуси дирижаблів"
+ airship_airframes: "Планери дирижаблів"
  airship_airframes_desc: "$airships1_desc$"
  medium_airship: "Середній дирижабль"
  medium_airship_equipment: "Середній дирижабль"

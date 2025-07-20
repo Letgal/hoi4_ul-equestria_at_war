@@ -341,7 +341,7 @@
  SIC_AI_BEHAVIOR: "@SIC Сікамеон"
   RULE_OPTION_SIC_COMMUNIST: "Комунізм: підйом синдикатів"
   RULE_OPTION_SIC_COMMUNIST_AI_DESC:0 "The radicals will win the elections and pursue aggressive foreign policy."
-  RULE_OPTION_SIC_FASCIST: "Зверхнісьть: риба-меч" # (&?)
+  RULE_OPTION_SIC_FASCIST: "Зверхність: Риба-Меч"
   RULE_OPTION_SIC_FASCIST_AI_DESC:0 "The corsairs will rig the elections and turn Sicameon into a haven for scum and villainy."
   RULE_OPTION_SIC_HARMONIST_HISTORICAL: "Гармонія: статус-кво"
   RULE_OPTION_SIC_HARMONIST_HISTORICAL_AI_DESC:0 "The moderates will win the elections and keep Sicameon as a liberal federation of parishes.\n§g(Історичний шлях)§!"

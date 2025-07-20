@@ -2834,7 +2834,8 @@ BAR_melee_equipment_0:0 "Зачаровані мечі"
 
   BAR_ambrosius_party_name:0 "Влада графа"
 
- GRU_BAR_puppet_neutrality: "Ґрифус" ### НАЗВИ МАРІОНЕТОК ###
+### НАЗВИ МАРІОНЕТОК ###
+ GRU_BAR_puppet_neutrality: "Ґрифус"
  GRU_BAR_puppet_fascism: "Ґрифус"
  GRU_BAR_puppet_communism: "Ґрифус"
  GRU_BAR_puppet_democratic: "Ґрифус"

@@ -34,10 +34,10 @@
   NLR_luna_speech_aggro_tt: "§RЦе розпочне громадянську війну.§!"
   NLR_luna_try_for_peace_tt: "§YЦе може й не вдатися...§!"
 
- #nlr_workers_tlt:0 "Get support of Manehattan workers."
+ #nlr_workers_tlt: "Здобути підтримку робітників Мейнгеттена."
  eqs_refused_holding_games: "Відмовилися проводити Кристальний ярмарок"
- #nlr_army_tlt:0 "Get support of the army."
- #nlr_scientists_tlt:0 "Get support of the scientists."
+ #nlr_army_tlt: "Здобути підтримку армії."
+ #nlr_scientists_tlt: "Здобути підтримку науковців."
  common_threat: "Спільна загроза"
  stg_annexed_states: "Вкрадені землі"
  equestrian_civil_war: "Громадянська війна в Еквестрії почалася"
