@@ -1796,6 +1796,9 @@
   FLO_can_afford_to_give_loan: "Фловена може дозволити собі дати нам позичку\n"
 
 # country_FRE
+ FRE: "Понайан"
+ FRE_DEF: "Понайан"
+ FRE_ADJ: "Понайськ"
  FRE_fascism: "Понайан а 'Клайав"
  FRE_fascism_DEF: "Понайан а 'Клайав"
  FRE_fascism_ADJ: "Понайськ"
@@ -3667,6 +3670,9 @@
   5203_LAK_NAME: "Бринкопр"
 
 # country_LCT
+ LCT: "Єзераград"
+ LCT_DEF: "Єзераград"
+ LCT_ADJ: "Єзераградськ"
  LCT_fascism: "Єзераградська держава"
  LCT_fascism_DEF: "Єзераградська держава"
  LCT_fascism_ADJ: "Єзераградськ"

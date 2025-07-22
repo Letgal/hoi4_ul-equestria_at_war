@@ -29,6 +29,9 @@
  power_for_the_strongest:0 "Power for the strongest"
  industrial_exemptions_granted:0 "Industrial Exemptions Granted"
  modifier_repair_speed_dockyard_factor: "Множник темпів ремонту верфей"
+ modifier_state_production_speed_synthetic_crystal_refinery_factor: "Швидкість будівництва §Yзаводів зі створення синтетичних кристалів§!"
+ modifier_state_production_speed_nuclear_reactor_heavy_water_factor: "Швидкість будівництва §Yядерних реакторів на важкій воді§!"
+ modifier_state_production_speed_commercial_nuclear_reactor_factor: "Швидкість будівництва §Yцивільних ядерних реакторів§!"
 
  modifier_army_sub_unit_magical_infantry_attack_factor: "Атака магічної піхоти"
  modifier_army_sub_unit_magical_infantry_defence_factor: "Захист магічної піхоти"

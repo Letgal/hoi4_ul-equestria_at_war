@@ -1,5 +1,16 @@
 ﻿l_russian:
 ### ЕКВУС ###
+ EQS_SOL_AI_BEHAVIOR: "£GFX_EQS_SOL_flag_texticon£ Сонячна Імперія"
+  RULE_OPTION_SOLAR_EMPIRE_DEFAULT_AI_DESC: "$RULE_OPTION_DEFAULT_AI_DESC$\n\n$EQS_SOL_AI_BEHAVIOR_NOTE$"
+  RULE_OPTION_SOLAR_EMPIRE_PROTECTOR: "Імператриця-Захисниця"
+  RULE_SOLAR_EMPIRE_PROTECTOR_EQS_AI_DESC:0 "Если Селестия превратится в Дейбрейкер, она объявит себя императрицей-защитницей всего рода пони и безжалостно уничтожит любые угрозы для своих маленьких пони.\n\n$EQS_SOL_AI_BEHAVIOR_NOTE$"
+  RULE_OPTION_SOLAR_EMPIRE_MOTHER: "Імператриця-Мати"
+  RULE_SOLAR_EMPIRE_MOTHER_EQS_AI_DESC:0 "Если Селестия превратится в Дейбрейкер, она провозгласит себя императрицей-матерью своей Солнечной Империи. Все будут слушать и беспрекословно повиноваться, ведь только она знает, что лучше для её заблудших подданных.\n\n$EQS_SOL_AI_BEHAVIOR_NOTE$"
+  RULE_OPTION_SOLAR_EMPIRE_GODDESS: "Імператриця-Богиня"
+  RULE_SOLAR_EMPIRE_GODDESS_EQS_AI_DESC:0 "Если Селестия превратится в Дейбрейкер, она провозгласит себя богиней-императрицей всего рода пони, требуя фанатичного поклонения от своих подданных и безжалостно уничтожая тех, кто отрицает её божественность.\n\n$EQS_SOL_AI_BEHAVIOR_NOTE$"
+  RULE_OPTION_SOLAR_EMPIRE_RANDOM_AI_DESC: "$RULE_OPTION_RANDOM_AI_DESC$\n\n$EQS_SOL_AI_BEHAVIOR_NOTE$"
+  EQS_SOL_AI_BEHAVIOR_NOTE: "§YПримітка:§! Сонячна Імперія не є видима держава на початку гри. Це є шлях для Еквестрії та не виникне за замовчуванням.\n\nВибір варіанту з цього правила гри вплине на поведінку Сонячної Імперії, якщо вони виникне, але це станеться, якщо не вибрати правило «Сонячна Імперія» або «Війна двох сестер» для Еквестрії, або станеться випадковим чином, якщо вимкнено історичні фокуси ШІ." # (&+)
+
  YAK_AI_BEHAVIOR: "@YAK Як'якистан"
   RULE_OPTION_YAK_DEMOCRATIC_HISTORICAL: "Гармонія: принц Резерфорд"
   RULE_OPTION_YAK_DEMOCRATIC_HISTORICAL_AI_DESC:0 "Принц Резерфорд сохранит трон, так что Якякистан останется гармонической монархией.\n(Исторический путь)"

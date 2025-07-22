@@ -351,6 +351,9 @@ BAR_temple_construct_d_f_g:0 "План Храму"
 BAR_temple_construct_d_l_g:0 "План Храму"
 
 ### Назва країни ###
+ BAR: "Баррад"
+ BAR_DEF: "Баррад"
+ BAR_ADJ: "Баррадськ"
  BAR_neutrality: "Графство Баррад"
  BAR_fascism: "Баррадська магократія"
  BAR_communism: "Баррадська комуна"
