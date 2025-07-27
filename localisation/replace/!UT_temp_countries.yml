@@ -4754,6 +4754,9 @@
  BRZ_PLB_occupation_DEF: "Айсгілл"
  BRZ_PLB_occupation_ADJ: "Айсгілльськ"
 
+ VICTORY_POINTS_12418_NP: "Базовий табір східного Ключ-озера"
+ VICTORY_POINTS_12418_NP2: "Вулик-твердиня східного Ключ-озера"
+
 # country_RIV
  ### ІДЕЇ ###
   RIV_member_state: "Член Кольтстрімського договору"
