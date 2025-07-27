@@ -22,6 +22,7 @@
 + `country_CRY_SOL` (переклав *Green Kitten*)
 + `country_CTH` (умовно; переклав *StasJesus*)
 + `country_CYA` (переклав *Green Kitten*)
++ `country_DED` (переклав [*Bovcun*](https://github.com/Bovcun-A)) — перечитати
 + `country_DEP` (умовно)
 + `country_DRG`
 + `country_EQC` (переклав *Max*)
@@ -39,12 +40,13 @@
 + `country_FRN` (переклав *Green Kitten*)
 + `country_GFF` (умовно; переклав *Green Kitten*)
 + `country_GRF` (переклав *StasJesus*)
-+ `country_HAU` (переклав [*Bovcun*](https://github.com/Bovcun-A)) — перечитати
++ `country_HAU` (переклав *Bovcun*)
 + `country_HIP` (умовно<!-- ; переклав… *All-Ampirian*? -->)
++ `country_HLR` (переклав *Bovcun*)
 + `country_JAK` (переклав *Green Kitten*) — перечитати
 + `country_JEB`
 + `country_JER`<!--  (переклав… *Римур*?) -->
-+ `country_JES` (переклав… *Green Kitten*) — трохи вичитати
++ `country_JES` (переклав *Green Kitten*) — трохи вичитати
 + `country_JFT`
 + `country_JRR`
 + `country_JUN` (переклав *Green Kitten*)
