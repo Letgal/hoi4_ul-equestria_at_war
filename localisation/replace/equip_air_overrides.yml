@@ -121,7 +121,7 @@
  #(Unused?) transport_plane_equipment_short:0 "Early Transport"
  transport_plane_equipment_desc:0 "To landbound races, the ubiquity of air transport amongst flying races may seem odd. However, kitted out fliers cannot travel long distances without exhaustion. Modern fliers travel most of the distance by plane, jump out, and safely glide to the landing zone."
  transport_plane_equipment_1: "Базовий транспортний літак"
- transport_plane_equipment_1_short: "Баз. транспорт"
+ transport_plane_equipment_1_short: "Базовий транспорт"
  #(Unused?) transport_plane_equipment_1_desc:0 "To landbound races, the ubiquity of air transport amongst flying races may seem odd. However, kitted out fliers cannot travel long distances without exhaustion. Modern fliers travel most of the distance by plane, jump out, and safely glide to the landing zone."
  transport_plane_equipment_1_desc:0 "To landbound races, the ubiquity of air transport amongst flying races may seem odd. However, kitted out fliers cannot travel long distances without exhaustion. Modern fliers travel most of the distance by plane, jump out, and safely glide to the landing zone."
  transport_plane_equipment_2: "Поліпшений транспортний літак"
