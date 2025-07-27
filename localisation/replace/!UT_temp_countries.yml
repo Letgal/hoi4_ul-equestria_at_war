@@ -2606,7 +2606,7 @@
   HEL_jacques_trouillard: "Жак Труяр"
   HEL_jean_weineg: "Жан Вейнеґ"
   HEL_sister_selena: "Сестра Селена"
-  HEL_jaume_de_conard: "Жаўме де Конар"
+  HEL_jaume_de_conard: "Жауме де Конар"
   HEL_alexandra_descieux: "Александра Десьє" # EU
   HEL_federal_council: "Федеральна рада Аделарту"
   HEL_even_baseder_council: "Федеральна рада Аквілеї"
@@ -4534,8 +4534,8 @@
 
 # country_PLB
  ### ПЕРСОНАЖІ ###
-  PLB_paw_wellington_loc: "По Ўеллінґтон"
-  PLB_paw_wellington_overtyrant_paw: "Архітиран По Ўеллінґтон"
+  PLB_paw_wellington_loc: "По Уеллінґтон"
+  PLB_paw_wellington_overtyrant_paw: "Архітиран По Уеллінґтон"
   PLB_paw_wellington_overtyrant_jorik: "Архітиран Йорік із клану Скюфлінґ"
   PLB_paw_wellington_overtyrant_captain: "Залізний капітан Йорік"
   PLB_paw_wellington_overtyrant_wastes: "Господар безмежних пусток Йорік"
@@ -4544,7 +4544,7 @@
   PLB_torben_overtyrant: "Архітиран Торбен"
   PLB_eira_of_clan_volsungr_loc: "Ейра з клану Вольсунґр"
   PLB_princess_eira: "Принцеса полярних ведмедів Ейра"
-  PLB_princess_maw: "Принцеса Мо Ўеллінґтон"
+  PLB_princess_maw: "Принцеса Мо Уеллінґтон"
   PLB_queen_eira: "Королева полярних ведмедів Ейра"
   PLB_chairman_icebear_loc: "Голова Айсбеар"
   PLB_chairwoman_snowbear_loc: "Голова Сноубеар"
@@ -5915,7 +5915,7 @@
   ZES_alicja: "Аліція Шамінська"
 
   ZES_sf_guy: "Діріджі Сплузон"
-  ZES_gbp_guy: "Фирм Булўорк"
+  ZES_gbp_guy: "Фирм Булуорк"
   ZES_navy_guy: "Фарол Сфорсу"
 
   ZES_maneuver: "Пазу Ваґан"
@@ -5923,7 +5923,7 @@
   ZES_training: "Крош Джоґу"
 
   ZES_salama_bayinika: "Алампра"
-  ZES_maulidi_zakia: "Сайклоўн Аларм"
+  ZES_maulidi_zakia: "Сайклоун Аларм"
 
   ZES_mapenda_chitundo: "Барбатана Пеші"
   ZES_keambiroiro_chuind: "Рему Мадайра"
@@ -5933,7 +5933,7 @@
   ZES_special: "Акрівіс Сфера"
   ZES_logistics: "Жакета"
   ZES_concealment: "Фальдюр Стейтн"
-  ZES_bunker: "Таф Ўолл"
+  ZES_bunker: "Таф Уолл"
 
  ### ПОДІЇ ###
   kasa.40.t: "Бравий вояк" ##flavour event about Private Hasek

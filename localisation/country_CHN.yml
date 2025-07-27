@@ -2873,7 +2873,7 @@
  CHN_canterlot_commissariat_modifier: "Кантерлотський протекторат"
  CHN_canterlot_commissariat_modifier_alcippe: "Алкіппа"
  CHN_canterlot_commissariat_modifier_finicus: "Фінікус Весалі"
- CHN_canterlot_commissariat_modifier_second_wind: "Секонд Ўинд"
+ CHN_canterlot_commissariat_modifier_second_wind: "Секонд Уинд"
  CHN_canterlot_commissariat_modifier_gloriosa: "Ґлоріоса"
  CHN_canterlot_commissariat_modifier_marsilio: "Генерал-хірург Марсіліо"
  CHN_canterlot_commissariat_modifier_PPP:0 "MHI Pony Production Partnership Project"
@@ -2926,7 +2926,7 @@
  CHN_scripted_loc_Jachs: "\n\n£CHN_Jachs_icon_text\n  [CHN_GetJachsRank] Якс\n                  - Губернатор Кантерлота\n\n$MODIFIER_COMPLIANCE_GAIN_ADD$: §G+0.05%§!\n$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: §G+50%§!"
  CHN_scripted_loc_Marsilio: "\n\n\n£CHN_Marsilio_icon_text\n  Ґенералоберштабсарцт Марсіліо\n                  - Генерал-хірург\n\n$MODIFIER_RESEARCH_SPEED_FACTOR$: §G+3.00%§!" # mil.
  CHN_scripted_loc_Alcippe: "\n\n\n£CHN_Alcippe_icon_text\n  [CHN_GetAlcippeRank] Алкіппа\n                  - Заступниця командувача\n\n$MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS$: §G-25.00%§!\n$MODIFIER_RESISTANCE_GARRISON_PENETRATION_CHANCE$: §G-25.00%§!"
- CHN_scripted_loc_Second_Wind: "\n\n\n£CHN_Second_Wind_icon_text\n  Коммандант Секонд Ўинд\n                  - Captain of the Canterlot Guard\n\n$MODIFIER_LOCAL_NON_CORE_MANPOWER$: §G+20.00%§!"
+ CHN_scripted_loc_Second_Wind: "\n\n\n£CHN_Second_Wind_icon_text\n  Коммандант Секонд Уинд\n                  - Captain of the Canterlot Guard\n\n$MODIFIER_LOCAL_NON_CORE_MANPOWER$: §G+20.00%§!"
  CHN_scripted_loc_Finicus: "\n\n\n£CHN_Finicus_icon_text\n  Фінікус Весалі\n                  - Заможний промисловець\n\n$MODIFIER_LOCAL_FACTORIES$: §G+50%§!\n$MODIFIER_LOCAL_RESOURCES$: §G+50%§!"
  CHN_scripted_loc_Gloriosa: "\n\n\n£CHN_Gloriosa_icon_text\n  Ґлоріоса\n                  - Господиня спільноти «Ріг достатку»\n\n$MODIFIER_INTEL_NETWORK_GAIN$: §G+25%§!"
  CHN_scripted_loc_Octavia: "\n\n\n£CHN_Octavia_icon_text\n  Октавія Мелоді\n                  - Віолончелістка\n "
