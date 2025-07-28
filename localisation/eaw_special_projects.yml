@@ -200,7 +200,7 @@ form_department_tooltip: "Виконано поліпшення агентств
   magical_shock_company: "Магічна штурмова рота"
   magical_shock_company_desc:0 "The best of the best, these elite forces punch through anything with deadly spells and equipment."
 
-  sp_magical_synthetic_mineral_growth: "Штучне вирощування кристалів"
+  sp_magical_synthetic_mineral_growth: "Штучне вирощування мінералів"
   sp_magical_synthetic_mineral_growth_desc:0 "Synthetic crystal manufacturing has been a possibility since the 900s, but was never pursued on an industrial scale. In the past it was only done by small businesses - usually in an effort to pass off their products as real for quick profits - but now that we understand the true potential in crystals there are new reasons to pursue their mass manufacture. The trickiest part will be trying to induce the energies present in naturally occurring crystals, but with enough determination and several replaced blast shields we will find a way."
   sp_magical_synthetic_mineral_growth_tt: "§Y0§! £resources_strip|3£, §Y0§! £resources_strip|5£, §Y0§! £resources_strip|4£, §Y0§! £resources_strip|2£, §Y0§! £resources_strip|6£, §Y0§! £resources_strip|1£ і §Y+3§! £resources_strip|7£"
 
@@ -291,7 +291,7 @@ form_department_tooltip: "Виконано поліпшення агентств
   tech_magical_camo_cloak: "Камуфляжний плащ"
   camo_cloak: "Камуфляжний плащ"
   camo_cloak_0: "Камуфляжний плащ"
-  camo_cloak_desc:0 "This equipment allows its wearer or the objects that it covers to become nearly invisible. Nearly."
+  camo_cloak_desc: "Це спорядження дозволяє своєму носієві або об'єктам, які покриває, ставати майже невидимими. Майже."
 
   sp_temporary_chitin_structures: "Тимчасові хітинові споруди"
   sp_temporary_chitin_structures_desc:0 "Changeling hives are not alive, but have often been described as such due to how reactive they can be to changeling magic, with tunnels closing and opening at a drone's will. Much of this is due to the chitin and mucal material biologically produced and used by changelings to construct hives and maintain their function and integrity. A recent proposal suggested that we experiment on this material through thaumaturgical genetic modification, potentially allowing a few changelings to establish a small hive quickly. This structure can then be used as a temporary forward operating base until it begins to deteriorate after a few weeks. This could provide our soldiers with a home away from home and a local love repository that will improve their morale and fighting capabilities for a short time."

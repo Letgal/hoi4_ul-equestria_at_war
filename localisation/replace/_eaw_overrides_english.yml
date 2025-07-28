@@ -497,6 +497,7 @@
   FOREIGN_SUPPORT_TOOLTIP: "Поні-ресурси, надані іншими державами."
 
  #special_projects_l
+  FACILITY_OWNED_TITLE: "Комплексів у власності:" # УЛ
   sp_land_flamethrower_tank: "Удосконалений вогнеметний танк"
 
  #state_l

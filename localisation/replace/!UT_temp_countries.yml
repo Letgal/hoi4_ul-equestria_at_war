@@ -4683,8 +4683,8 @@
  PLB_AET_crusade_DEF: "Імперіум Усебатька"
  PLB_AET_crusade_ADJ: "Імперійн"
 
- HERZ_PLB_occupation: "Віровідступницька держава Грифенгайм"
- HERZ_PLB_occupation_DEF: "Віровідступницька держава Грифенгайм"
+ HERZ_PLB_occupation: "Відступницька держава Грифенгайм"
+ HERZ_PLB_occupation_DEF: "Відступницька держава Грифенгайм"
  HERZ_PLB_occupation_ADJ: "Грифенгаймськ"
 
  STW_PLB_occupation: "Поле Багатьох"
@@ -4695,16 +4695,16 @@
  ANG_PLB_occupation_DEF: "Залізний Ліс"
  ANG_PLB_occupation_ADJ: "Залізн"
 
- ROU_PLB_occupation: "Віровідступницька держава Ромау"
- ROU_PLB_occupation_DEF: "Віровідступницька держава Ромау"
+ ROU_PLB_occupation: "Відступницька держава Ромау"
+ ROU_PLB_occupation_DEF: "Відступницька держава Ромау"
  ROU_PLB_occupation_ADJ: "Ромауськ"
 
  BRZ_PLB_occupation: "Айсгілл"
  BRZ_PLB_occupation_DEF: "Айсгілл"
  BRZ_PLB_occupation_ADJ: "Айсгілльськ"
 
- VICTORY_POINTS_12418_NP: "Базовий табір східного Ключ-озера"
- VICTORY_POINTS_12418_NP2: "Вулик-твердиня східного Ключ-озера"
+ VICTORY_POINTS_12418_NP: "Базовий табір сходу Ключ-озера"
+ VICTORY_POINTS_12418_NP2: "Вулик-твердиня сходу Ключ-озера"
 
 # country_RIV
  ### ІДЕЇ ###
