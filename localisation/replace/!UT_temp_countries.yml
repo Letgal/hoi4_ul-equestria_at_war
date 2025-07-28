@@ -942,8 +942,32 @@
   CTL_benjen_v: "Бенджен V"
   CTL_council_of_three: "Рада трьох"
   CTL_dannya_shah: "Даннія-шах"
+  CTL_jakob_kudlinen: "Якоб Кудлінен"
+  CTL_jakob_ii: "Якоб II"
+  CTL_jeff: "Іеффрі Гуддарнен"
+  CTL_liem: "Ліем Весфельт"
+  CTL_vaalan: "Ваалан Лаукканен"
+  CTL_sven: "Свен Авендлен"
+  CTL_winter_glades: "Вінтер Ґлейдс"
+  CTL_bhushan: "Бгушан Ґурат"
+  CTL_bhushan_ii: "Бгушан II"
+  CTL_davirtannen: "Бенджен Давіртаннен"
+  CTL_ivar_hoversholm: "Івар Говерсгольм"
+  CTL_konnar: "Коннар"
+  CTL_dreia_lavborg: "Дрея з Лавборґа"
+  CTL_jarald_virannen: "Яральд Віраннен"
+  CTL_ana_srati: "Ана Шраті"
+  CTL_LMB_elik: "Елік Бароннен"
+  CTL_LMB_wasil: "Васіль Канлі"
+  CTL_LMB_pensha: "Пенша Рашантх"
+  CTL_LMB_jakob: "Якуб I"
+  CTL_ascended_hoversholm: "ВОЗНЕСЕНИЙ ІВАР ГОВЕРСГОЛЬМ"
+  CTL_raili_ninessen: "Райлі Нінессен"
+  CTL_eva_pillai: "Ева Піллаї"
 
  CTL_faction: "Осткранбійський альянс"
+ CTL_Olenian_Alliance: "Відновники Дірлаґа" # інак. Реставраціоністи
+ CTL_Hindian_Alliance: "Всегіндійський національний блок"
 
 # country_CVA
  CVA_CTH_fascism: "Кольтфагенська республіка"
@@ -2244,6 +2268,15 @@
   imperial_news.3.equestria_no_f_dem: "Наші співчуття."
   imperial_news.3.equestria_grf: "Правителі приходять і йдуть. [GRF.GetNameDefCap] досі стоїть."
   imperial_news.3.ded: "Нам слід розстаратися тіла. З нього вийде хороший раб."
+
+ ### ІНШЕ ###
+  magical_weapons: "Магічна зброя"
+  early_fighter: "Ранній винищувач"
+  fighter1: "Винищувач I"
+  CAS1: "Штурмовик I"
+  tactical_bomber1: "Тактичний бомбардувальник I"
+  strategic_bomber1: "Стратегічний бомбардувальник I"
+  heavy_fighter1: "Важкий винищувач I"
 
 # country_GRI_aprilfool
  GRI_APRILFOOLS_neutrality: "Імперіум Роду Грифонячого"
@@ -5753,6 +5786,27 @@
   YAL_digging_trenches_desc: "$YAL_gerhard_silverbeak_desc$"
   YAL_swarm_tactics: "Гайнц Фезергофф"
   #YAL_swarm_tactics_desc:0 "Heinz Featherhoff was born in 941 in the city of Appenage in Angriver. Born to a local merchant of the petite bourgeois, Featherhoff's father managed to secure his son a post to Löwburg Academy at the age of 18, where he studied as an infantry officer before joining the Imperial Army. During his 30 years of service, Featherhoff fought in the Republican Uprisings, gaining the rank of Lieutenant Colonel. After his tenure in the army, he rejoined his alma mater as a professor. Recently, he has shown an affinity towards the radical Red Guard, and is seen as the only senior staff who openly supports their views."
+
+ ### ІНШЕ ###
+  engineers_tech_research: "Темпи дослідження інженерів"
+  infantry_tech_research: "Темпи дослідження піхотних технологій"
+  cat_anti_tank_research: "Темпи дослідження ПТА"
+  cat_anti_air_research: "Темпи дослідження зенітної артилерії"
+  artillery_bonus: "Бонус до досліджень артилерії"
+  infantry_bonus: "Бонус до піхотних досліджень"
+  tank_research: "Бонус до досліджень танків"
+  mot_bonus: "Бонус до досліджень автотранспорту"
+  mech_bonus: "Бонус до досліджень бронетранспорту"
+  race_tech_bonus: "Бонус до расових досліджень"
+  #nuclear_bonus: "Бонус до ядерних досліджень" # moved to replace folder
+  radar_bonus: "Бонус до дослідження радарів"
+  computer_bonus: "Бонус до дослідження обчислювачів"
+  navdoctrine_bonus: "Бонус до дослідження морської доктрини"
+  navy_bonus: "Бонус до дослідження кораблів"
+  tactical_bombers: "Бонус до дослідження тактичних бомбардувальників"
+  paratrooper_bonus: "Бонус до дослідження повітряного десанту"
+  support_bonus: "Бонус до дослідження додаткового обладнання" # (&?)
+  naval_bonus: "Бонус до дослідження технологій флоту"
 
 # country_YAN
  #YAN_dirk_loterijen: "Дірк Лотерейен"
