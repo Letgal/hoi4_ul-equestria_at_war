@@ -166,10 +166,10 @@ form_department_tooltip: "Виконано поліпшення агентств
   plane_shield_module: "$ship_shield_module$"
   plane_shield_module_desc: "$ship_shield_module_desc$"
 
-  sp_magical_assisted_quarries:0 "Magic-Assisted Quarries"
+  sp_magical_assisted_quarries: "Кар'єри з допоміжним магічним обладнанням" # підглянуто а РЛ
   sp_magical_assisted_quarries_desc:0 "Mining is an awful business. Certainly there are some creatures who yearn for the dark and sooty pits that we call safe workplaces, but the vast majority are rightfully unwilling to delve into - let alone operate machinery inside - such an environment. It seems only sensible that these are some of the first places that we experiment with magical machinery on a mass scale, be it in augmented drills or some level of automation in bringing material to the surface."
 
-  tech_magical_quarry:0 "Magitech Quarry Installations"
+  tech_magical_quarry: "Маготехнічні кар'єрні установки" # підглянуто в РЛ
 
   sp_magical_supply_organisation: "Магічна організація припасів"
   sp_magical_supply_organisation_desc:0 "Any soldier who has worked in maintenance will gladly inform you of the value of a properly organised stockpile, but there's only so efficient the vast majority of soldiers - especially conscripts - can realistically be. Having some variety of magically-assisted sorting machinery that does the time consuming organisation of surplus materiel and directs it to the correct individual or towards the appropriate storage location will make our lives considerably easier."

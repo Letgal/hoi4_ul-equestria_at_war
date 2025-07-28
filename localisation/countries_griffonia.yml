@@ -695,11 +695,11 @@ FAL: "Фалькор"
  FAL_fascism: "Фалькорський військовий уряд"
  FAL_fascism_DEF: "Фалькорський військовий уряд"
  FAL_fascism_ADJ: "Фалькорськ"
- FAL_democratic: "Фалькорське королевство"
- FAL_democratic_DEF: "Фалькорське королевство"
+ FAL_democratic: "Фалькорське королівство" # qnd.
+ FAL_democratic_DEF: "Фалькорське королівство" # qnd.
  FAL_democratic_ADJ: "Фалькорськ"
- FAL_neutrality: "Фалькорське королевство"
- FAL_neutrality_DEF: "Фалькорське королевство"
+ FAL_neutrality: "Фалькорське королівство" # qnd.
+ FAL_neutrality_DEF: "Фалькорське королівство" # qnd.
  FAL_neutrality_ADJ: "Фалькорськ"
  FAL_communism: "Фалькорський робітничий союз"
  FAL_communism_DEF: "Фалькорський робітничий союз"
@@ -708,11 +708,11 @@ FAL: "Фалькор"
  FAL_empire_fascism: "Фалькорська імперія"
  FAL_empire_fascism_DEF: "Фалькорська імперія"
  FAL_empire_fascism_ADJ: "Фалькорськ"
- FAL_empire_democratic: "Велике Фалькорське королевство"
- FAL_empire_democratic_DEF: "Велике Фалькорське королевство"
+ FAL_empire_democratic: "Велике Фалькорське королівство" # qnd.
+ FAL_empire_democratic_DEF: "Велике Фалькорське королівство" # qnd.
  FAL_empire_democratic_ADJ: "Фалькорськ"
- FAL_empire_neutrality: "Велике Фалькорське королевство"
- FAL_empire_neutrality_DEF: "Велике Фалькорське королевство"
+ FAL_empire_neutrality: "Велике Фалькорське королівство" # qnd.
+ FAL_empire_neutrality_DEF: "Велике Фалькорське королівство" # qnd.
  FAL_empire_neutrality_ADJ: "Фалькорськ"
  FAL_empire_communism: "Фалькорський робітничий союз"
  FAL_empire_communism_DEF: "Фалькорський робітничий союз"

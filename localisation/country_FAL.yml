@@ -480,15 +480,15 @@ FAL_minitars_like_us:0 "Астеріон погодився."
 FAL_resistance_in_falcor:0 "Таємні партизанські осередки були сформовані."
 
 ## Karthenia
-FAL_Falcoria_neutrality: "Об'єднане королівство Фалькорії" # королевство
+FAL_Falcoria_neutrality: "Об'єднане королівство Фалькорії" # qnd.
 FAL_Falcoria_neutrality_ADJ: "Фалькорськ"
-FAL_Falcoria_neutrality_DEF: "Об'єднане королівство Фалькорії" # королевство
+FAL_Falcoria_neutrality_DEF: "Об'єднане королівство Фалькорії" # qnd.
 FAL_Falcoria_fascism: "Імперо ді Фалькорія"
 FAL_Falcoria_fascism_ADJ: "Фалькорськ"
 FAL_Falcoria_fascism_DEF: "Іль Грандіозо Імперо ді Фалькорія"
-FAL_Falcoria_democratic: "Об'єднане королівство Фалькорії та Вінґбардії" # королевство
+FAL_Falcoria_democratic: "Об'єднане королівство Фалькорії та Вінґбардії" # qnd.
 FAL_Falcoria_democratic_ADJ: "Фалькорсько-вінґбардійськ"
-FAL_Falcoria_democratic_DEF: "Об'єднане королівство Фалькорії та Вінґбардії" # королевство
+FAL_Falcoria_democratic_DEF: "Об'єднане королівство Фалькорії та Вінґбардії" # qnd.
 FAL_Falcoria_communism: "Об'єднані соціалістичні республіки Південної Грифонії"
 FAL_Falcoria_communism_ADJ: "Південногрифонськ"
 FAL_Falcoria_communism_DEF: "Об'єднані соціалістичні республіки Південної Грифонії"

@@ -566,7 +566,7 @@
   RULE_OPTION_LAK_NEUTRAL_ALTERNATE:0 "Non-Aligned - Alternate"
   RULE_OPTION_LAK_NEUTRAL_ALTERNATE_AI_DESC:0 "Rumare will focus on saving what they have remaining."
 
- FAL_AI_BEHAVIOR: "@FAL Фалькорське королевство"
+ FAL_AI_BEHAVIOR: "@FAL Фалькорське королівство" # qnd.
   RULE_OPTION_FAL_HARMONIST_HISTORICAL:0 "Non-Aligned - All Hail Her Majesty"
   RULE_OPTION_FAL_HARMONIST_HISTORICAL_AI_DESC:0 "The griffons will remain faithful to Princess Maximilliana and she will continue to lead the nation.\n§g(Історичний шлях)§!"
   RULE_OPTION_FAL_FASCIST_ALTERNATE:0 "Supremacist - Falcor Above All"

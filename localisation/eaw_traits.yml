@@ -323,8 +323,8 @@
  YAK_absent_leader:0 "Absentee Leader"
 
  JAK_rightful_king: "$YAK_rightful_king$"
- JAK_unmatched_brutalizer:0 "Unmatched Brutalizer"
- defier_of_the_sun_god_hc:0 "Defier of the Celestial Gods"
+ JAK_unmatched_brutalizer: "Незрівнянний бруталізатор" # (&+)
+ defier_of_the_sun_god_hc: "Заперечувач небесних богів" # (&)
  JAK_khatun_of_yakyakistan: "Хатун Як'якистану"
  JAK_tsaritsa_of_severyana: "Цариця Сєвєряни"
  JAK_princess_of_equestria: "Принцеса Еквестрії"
