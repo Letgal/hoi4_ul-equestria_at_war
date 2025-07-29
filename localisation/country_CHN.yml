@@ -52,30 +52,30 @@
 
  CHN_gw_tank_equipment: "Abteilung 7 Verkehrswesen"
  CHN_gw_tank_equipment_short: "A7V"
- CHN_gw_tank_equipment_desc:0 "The A7V was the first Changeling experimental tank. Until recently, changelings were restricted in military development by their lack of industrial potential, but with the recent focus of the Queen on the rapid industrialisation of the hives, the Changeling Heer undertook a secret program, from the initiative of General Vect himself. Blueprints for armoured vehicles were stolen from Stalliongrad which had pioneered their use during the Winter Revolution. These plans were then modified and improved upon before being used for constructing the very first experimental tanks of the Heer."
+ CHN_gw_tank_equipment_desc: "A7V був першим експериментальним танком чейнджлінґів. Донедавна чейнджлінґи були обмежені у військовому розвитку через брак промислового потенціалу, але з нещодавньою увагою королеви до швидкої індустріалізації вуликів, Армія чейнджлінґів взялася за таємну програму, з ініціативи самого генерала Векта. Зі Сталліонграду, який став піонером їх використання під час Зимової революції, було викрадено креслення бронетехніки. Тоді ці плани змінили та вдосконалили, перш ніж використати для створення найперших експериментальних танків Армії." # hrr. — (@)
  CHN_heavy_tank_artillery_equipment_2: "Sturmtiger"
  CHN_heavy_tank_artillery_equipment_2_short: "Sturmtiger"
  CHN_heavy_tank_artillery_equipment_3: "Geschützwagen Tiger"
  CHN_heavy_tank_artillery_equipment_3_short: "GW Tiger"
- CHN_heavy_tank_artillery_equipment_3_desc:0 "Based on the hull of a King Tiger, it was to be able to mount a 170mm K 72 L/50 gun."
+ CHN_heavy_tank_artillery_equipment_3_desc: "Заснований на корпусі Königstiger, він мусив могти понести 170-мм гармату K 72 L/50." # (@)
  CHN_heavy_tank_destroyer_equipment_1: "Selbstfahrlafette auf VK3001(A) Sturer Emil"
  CHN_heavy_tank_destroyer_equipment_1_short: "Sturer Emil"
- CHN_heavy_tank_destroyer_equipment_1_desc:0 "The Selbstfahrlafette auf VK3001(A) Sturer Emil was a Changeling self-propelled anti-tank gun based on the Aurelia Armoury VK3001 chassis."
+ CHN_heavy_tank_destroyer_equipment_1_desc: "The Selbstfahrlafette auf VK3001(A) Sturer Emil — самохідна протитанкова гармата чейнджлінґів, заснована на шасі Aurelia Armoury «VK3001»." # (@)
  CHN_heavy_tank_destroyer_equipment_2: "Panzerjäger Tiger (CM)"
  CHN_heavy_tank_destroyer_equipment_2_short: "Elefant"
- CHN_heavy_tank_destroyer_equipment_2_desc:0 "The Elefant (Elephant) was a heavy tank destroyer based on the chassis of the cancelled Carapace Motors Tiger Project and fitted with an 88 mm Panzerabwehrkanone 43/2 gun."
+ CHN_heavy_tank_destroyer_equipment_2_desc: "Elefant (Слон) — важкий винищувач танків, заснований на шасі скасованого проєкту Carapace Motors «Tiger» і оснащений 88-мм гарматою Panzerabwehrkanone 43/2." # (@)
  CHN_heavy_tank_destroyer_equipment_3: "Panzerjäger Tiger Ausf. B"
  CHN_heavy_tank_destroyer_equipment_3_short: "Jagdtiger"
- CHN_heavy_tank_destroyer_equipment_3_desc:0 "The Jagdtiger was the heaviest armoured fighting vehicle operationally used by Changeling Heer. The vehicle carried a 128 mm PaK 44 L/55 main gun, and carried heavy frontal armour."
+ CHN_heavy_tank_destroyer_equipment_3_desc: "Jagdtiger був найважчою бойовою броньованою машиною, яку використовувала Армія чейнджлінґів. Машина несла 128-мм головну гармату PaK 44 L/55 і мала важку лобову броню." # hrr. — (@)
  CHN_heavy_tank_equipment_1: "Grosstraktor"
  CHN_heavy_tank_equipment_1_short: "Grosstraktor"
- CHN_heavy_tank_equipment_1_desc:0 "The Grosstraktor was a series of prototypes to develop a heavier tank for the Changeling Heer. Until recently, changelings were restricted in military development by their lack of industrial potential, but the with recent focus of the Queen on the rapid industrialisation of the hives. The Changeling Heer undertook a secret program, from the initiative of General Vect himself. As such, under the codename 'Traktor' development of original armoured military vehicles and artillery was kickstarted."
+ CHN_heavy_tank_equipment_1_desc: "Grosstraktor був серією прототипів з розробки важчого танка для Армії чейнджлінґів. Донедавна чейнджлінґи були обмежені у військовому розвитку через брак промислового потенціалу, але з нещодавньою увагою королеви до швидкої індустріалізації вуликів, Армія чейнджлінґів взялася за таємну програму, з ініціативи самого генерала Векта. Так, під кодовою назвою «Traktor» було розпочато розробку оригінальної броньованої військової техніки та артилерії." # hrr. — (@)
  CHN_heavy_tank_equipment_2: "Panzerkampfwagen VI Tiger"
  CHN_heavy_tank_equipment_2_short: "Tiger"
- CHN_heavy_tank_equipment_2_desc:0 "The Tiger I was a Changeling heavy tank developed in 1012 as an answer to the unexpectedly impressive Stalliongradian armour encountered in the initial months of the Changeling invasion of the Equestria, particularly the T-34 and the KV-1."
+ CHN_heavy_tank_equipment_2_desc: "Tiger I — важкий танк чейнджлінґів, розроблений у 1012 році як відповідь на несподівано вражаючу бронетехніку Сталліонграду, з якою вони зіткнулися в перші місяці вторгнення чейнджлінґів в Еквестрію, зокрема, на Т-34 і КВ-1." # (@)
  CHN_heavy_tank_equipment_3: "Panzerkampfwagen VI Ausf. B Tiger II"
  CHN_heavy_tank_equipment_3_short: "Tiger II"
- CHN_heavy_tank_equipment_3_desc:0 "Known under the informal name Königstiger but, often semi-literally translated as the King Tiger by Equestrian soldiers, the design followed the same concept as the Tiger I, but was intended to be even more formidable. The Tiger II combined the thick armour of the Tiger I with the sloped armour used on the Panther medium tank. The tank weighed almost seventy metric tons, was protected by 100 to 180mm of armour to the front and was armed with the long barrelled 8.8 cm Kampfwagenkanone 43 L/71 gun."
+ CHN_heavy_tank_equipment_3_desc: "Відомий під неофіційною назвою «Königstiger», але часто напівдослівно еквестрійськими солдатами перекладений як «Королівський Тигр», він був розроблений за тією ж концепцією, що й Tiger I, але мав бути ще більш грізним. Tiger II поєднував товсту броню Tiger I з похилою бронею, використовуваною на середньому танку Panther. Танк важив майже сімдесят метричних тонн, був захищений бронею від 100 до 180 мм завтовшки спереду й озброєний довгоствольною 8.8-см гарматою Kampfwagenkanone 43 L/71." # (@)
  CHN_light_tank_aa_equipment_1: "Flakpanzer I"
  CHN_light_tank_aa_equipment_1_short: "FlakPz I"
  CHN_light_tank_aa_equipment_1_desc: "Зенітна гармата, встановлена на шасі танка Panzer I."
@@ -87,67 +87,67 @@
  CHN_light_tank_aa_equipment_3_desc: "Зенітна гармата, встановлена на шасі танка VK1602."
  CHN_light_tank_artillery_equipment_1: "Sturmpanzer I Bison"
  CHN_light_tank_artillery_equipment_1_short: "Bison"
- CHN_light_tank_artillery_equipment_1_desc:0 "Towed guns which were assigned to the infantry gun companies of motorised infantry regiments had difficulties keeping up with tanks during combat. The easiest solution was to modify a spare tank chassis to carry it into battle. In the case of the Bison, it uses the chassis of the Panzer I."
+ CHN_light_tank_artillery_equipment_1_desc: "Буксирувані гармати, які були приписані до піхотних гарматних рот мотопіхотних полків, мали труднощі зі встиганням за танками під час бою. Найпростішим рішенням було модифікувати запасне танкове шасі для перевезення її до бою. У випадку з Bison було використано шасі від Panzer I." # (@)
  CHN_light_tank_artillery_equipment_2: "Sd.Kfz. 124 Wespe"
  CHN_light_tank_artillery_equipment_2_short: "Wespe"
- CHN_light_tank_artillery_equipment_2_desc:0 "The Sd.Kfz. 124 Wespe was a Changeling self-propelled artillery vehicle based on a modified Panzer II chassis."
+ CHN_light_tank_artillery_equipment_2_desc: "Sd.Kfz. 124 Wespe був самохідною артилерійською установкою чейнджлінґів на основі модифікованого шасі Panzer II." # (@)
  CHN_light_tank_artillery_equipment_3: "Waffentrager Leopard"
  CHN_light_tank_artillery_equipment_3_short: "WT Leopard"
- CHN_light_tank_artillery_equipment_3_desc:0 "The Waffentrager Leopard was a planned self-propelled artillery vehicle based on the planned VK1602 Leopard chassis."
+ CHN_light_tank_artillery_equipment_3_desc: "Waffentrager Leopard був запланованою самохідною артилерійською машиною на основі запланованого шасі VK1602 Leopard." # (@)
  CHN_light_tank_destroyer_equipment_1: "Panzerjäger I"
  CHN_light_tank_destroyer_equipment_1_short: "Pzjäger I"
- CHN_light_tank_destroyer_equipment_1_desc:0 "The Panzerjäger I was the first of the Changeling tank destroyers to see service in the Changeling Heer. It mounted a 47mm PaK anti-tank gun on a converted Panzer I Ausf chassis."
+ CHN_light_tank_destroyer_equipment_1_desc: "Panzerjäger I був першим із винищувачів танків чейнджлінґів, який потрапив на службу в Армії чейнджлінґів. Він носив 47-мм протитанкову гармату «PaK» на переобладнаному шасі Panzer I Ausf." # hrr. — (@)
  CHN_light_tank_destroyer_equipment_2: "7.5 cm PaK 07 auf Fahrgestell Marder II"
  CHN_light_tank_destroyer_equipment_2_short: "Marder II"
- CHN_light_tank_destroyer_equipment_2_desc:0 "The Marder II was a tank destroyer based on the Panzer II chassis."
+ CHN_light_tank_destroyer_equipment_2_desc: "Marder II був винищувачем танків на основі шасі Panzer II." # (@)
  CHN_light_tank_destroyer_equipment_3: "Sturmgeschutz auf Leopard"
  CHN_light_tank_destroyer_equipment_3_short: "JagdLeopard"
- CHN_light_tank_destroyer_equipment_3_desc:0 "The JagdLeopard was a possible modification of the planned VK1602 Leopard light tank."
+ CHN_light_tank_destroyer_equipment_3_desc: "JagdLeopard був можливою модифікацією запланованого легкого танка «VK1602 Leopard»."
  CHN_light_tank_equipment_1: "Panzerkampfwagen I"
  CHN_light_tank_equipment_1_short: "Panzer I"
- CHN_light_tank_equipment_1_desc:0 "The Panzer I was a light tank produced in Changeling Lands in the 1000's. Design of the Panzer I began in 1005 and mass production began in 1006. Intended only as a training tank to introduce the concept of armoured warfare to the Changeling Heer, the PzKpfw I was used extensively in combat due to a lack of more modern tanks."
+ CHN_light_tank_equipment_1_desc: "Panzer I був легким танком, що вироблявся в Землях Чейнджлінґів у 1000-х роках. Розробка Panzer I почалася в 1005 році, а масове виробництво — в 1006. Задуманий лише як навчальний танк для ознайомлення з концепцією танкової війни в Армії чейнджлінґів, PzKpfw I was широко використовувався в боях через брак сучасніших танків." # hrr. — (@)
  CHN_light_tank_equipment_2: "Panzerkampfwagen II"
  CHN_light_tank_equipment_2_short: "Panzer II"
- CHN_light_tank_equipment_2_desc:0 "The Panzer II was originally designed as a stopgap while larger, more advanced tanks were developed, but it saw extensive use in combat due to a lack of more capable tanks."
+ CHN_light_tank_equipment_2_desc: "Panzer II первісно розроблявся як проміжний варіант, поки розроблялися більші й досконаліші танки, але широко використовувався в боях через брак потужніших танків." # (@)
  CHN_light_tank_equipment_3: "VK 1602 Leopard"
  CHN_light_tank_equipment_3_short: "VK 1602 Leopard"
- CHN_light_tank_equipment_3_desc:0 "The VK 1602 Leopard was a planned Changeling reconnaissance vehicle designed in 1012. It was planned to arm the vehicle with the 75mm Kwk 41, although that was changed to a smaller 50mm cannon. The VK 1602 had sloped frontal armour, influenced by the Panther medium tank. In order to increase cross-country performance, the VK 1602 was fitted with 350mm wide tracks."
+ CHN_light_tank_equipment_3_desc: "VK 1602 Leopard був запланованою розвідувальною машиною чейнджлінґів, розробленою в 1012 році. Планувалося, що машина буде озброєна 75-мм гарматою «Kwk 41», але її змінили на меншу 50-мм гармату. VK 1602 мав похилу лобову броню під впливом середнього танка «Panther». Задля поліпшення прохідності VK 1602 був оснащений гусеницями шириною в 350-мм." # (@)
  CHN_medium_tank_aa_equipment_1: "Flakpanzer III Möbelwagen"
  CHN_medium_tank_aa_equipment_1_short: "Möbelwagen"
- CHN_medium_tank_aa_equipment_1_desc:0 "Nicknamed Möbelwagen because of its boxy turret when closed, it was a self-propelled anti-aircraft gun built from the chassis of the Panzer III tank and armed with a 20mm quad-gun."
+ CHN_medium_tank_aa_equipment_1_desc: "Прозвана «Möbelwagen» через свою коробчасту башту в закритому стані, це була самохідна зенітна установка, побудована на шасі танка «Panzer III» й озброєна 20-мм чотириствольною гарматою." # (@)
  CHN_medium_tank_aa_equipment_2: "Flakpanzer IV Ostwind"
  CHN_medium_tank_aa_equipment_2_short: "Ostwind"
- CHN_medium_tank_aa_equipment_2_desc:0 "The Flakpanzer IV 'Ostwind' was a self-propelled anti-aircraft gun based on the Panzer IV tank. It was developed in 1012 as a successor to the earlier Flakpanzer IV. The Panzer IV's turret was removed and replaced with an open-top, hexagonal turret which housed a 3.7 cm FlaK 43. A closed-top design would have been preferable, but this was not possible due to the heavy smoke generated by the gun."
+ CHN_medium_tank_aa_equipment_2_desc: "Flakpanzer IV «Ostwind» — самохідна зенітна гармата на основі танка «Panzer IV». Її розробили в 1012 році як наступника ранішого Flakpanzer IV. Башта Panzer IV була знята й замінена на відкриту шестигранну башту, в якій розміщувалася 3.7-см гармата «FlaK 43». Дієвішим був би дизайн із закритою баштою, але це не було можливо через сильне задимлення гармати." # (@)
  CHN_medium_tank_aa_equipment_3: "Flakpanzer Coelian"
  CHN_medium_tank_aa_equipment_3_short: "Coelian"
- CHN_medium_tank_aa_equipment_3_desc:0 "Flakpanzer Coelian was a self-propelled anti-aircraft gun design by KLA Arsenal in 1014 for the Changeling armed forces. It was intended to be armed with two 3.7 cm FlaK 43 gun in a fully enclosed, rotating turret on the hull of a Panther medium tank."
+ CHN_medium_tank_aa_equipment_3_desc: "Flakpanzer Coelian — самохідна зенітна гармата, розроблена KLA Arsenal в 1014 році для збройних сил чейнджлінґів. Вона призначалася до озброєння двома 3.7-см гарматами «FlaK 43» в повністю закритій поворотній башті на корпусі середнього танка «Panther»." # (@)
  CHN_medium_tank_artillery_equipment_1: "Grille"
  CHN_medium_tank_artillery_equipment_1_short: "Grille"
- CHN_medium_tank_artillery_equipment_1_desc:0 "The Sd.Kfz. 138/1 Grille was a Self-Propelled Artillery Piece that was used by Changelings during Invasion of Equestria. They were popular in Panzer divisions fighting in rough terrain."
+ CHN_medium_tank_artillery_equipment_1_desc: "Sd.Kfz. 138/1 Grille був самохідною артилерійською установкою, яку використовували чейнджлінґи під час вторгнення в Еквестрію. Вони були популярні в танкових дивізіях, що воювали на пересіченій місцевості." # (@)
  CHN_medium_tank_artillery_equipment_2: "Hummel"
  CHN_medium_tank_artillery_equipment_2_short: "Hummel"
- CHN_medium_tank_artillery_equipment_2_desc:0 "Hummel was a self-propelled artillery gun based on the Geschützwagen III/IV chassis, armed with a 15 cm howitzer. It was used by the Changeling Heer during the invasion of Equestria."
+ CHN_medium_tank_artillery_equipment_2_desc: "Hummel був самохідною артилерійською установкою на основі шасі Geschützwagen III/IV, озброєною 15-см гаубицею. Використовувалася Армією чейнджлінґів під час вторгнення в Еквестрію." # hrr.
  CHN_medium_tank_artillery_equipment_3: "Grille 12"
  CHN_medium_tank_artillery_equipment_3_short: "Grille 12"
- CHN_medium_tank_artillery_equipment_3_desc:0 "A self-propelled artillery cannon concept proposed by KLA Arsenal in 1014 based on Panther components with a 12.8cm howitzer cannon."
+ CHN_medium_tank_artillery_equipment_3_desc: "Концепція самохідної артилерійської гармати, запропонована KLA Arsenal в 1014 році, заснована на компонентах Panther із 12.8-см гаубицею."
  CHN_medium_tank_destroyer_equipment_1: "Sturmgeschütz III"
  CHN_medium_tank_destroyer_equipment_1_short: "StuG III"
- CHN_medium_tank_destroyer_equipment_1_desc:0 "The Sturmgeschütz III assault gun was the Changeling's most produced armoured fighting vehicle during invasion of Equestria. It was built on the chassis of the proven Panzer III tank. Initially intended as a mobile, armoured light gun for infantry support, the StuG was continually modified and was widely employed as a tank destroyer."
+ CHN_medium_tank_destroyer_equipment_1_desc: "Штурмова установка «Sturmgeschütz III» була найбільш випущеною броньованою бойовою машиною чейнджлінґів під час вторгнення в Еквестрію. Її було збудовано на шасі перевіреного танка «Panzer III». Первісно задуманий як рухома броньована легка гармата для підтримки піхоти, StuG постійно модифікувався і широко застосовувався як винищувач танків." # (@)
  CHN_medium_tank_destroyer_equipment_2: "Jagdpanzer IV"
  CHN_medium_tank_destroyer_equipment_2_short: "Stug IV"
- CHN_medium_tank_destroyer_equipment_2_desc:0 "The Jagdpanzer IV served in the anti-tank sections of Panzer divisions. They were very successful tank destroyers but performed badly when used out of role as substitutes for tanks or assault guns."
+ CHN_medium_tank_destroyer_equipment_2_desc: "Jagdpanzer IV служили в протитанкових частинах танкових дивізій. Вони були дуже успішними винищувачами танків, але погано працювали, коли їх використовували не за призначенням як заміна для танків або штурмових гармат." # (@)
  CHN_medium_tank_destroyer_equipment_3: "Jagdpanther"
  CHN_medium_tank_destroyer_equipment_3_short: "Jagdpanther"
- CHN_medium_tank_destroyer_equipment_3_desc:0 "The Jagdpanther was a tank destroyer built on the chassis of the Panther tank. It entered service late in 1014. The Jagdpanther combined the very powerful 8.8 cm PaK 43 cannon of the Tiger II and the characteristically excellent armour and suspension of the Panther chassis."
+ CHN_medium_tank_destroyer_equipment_3_desc: "Jagdpanther був винищувачем танків, побудованим на шасі танка «Panther». Його прийняли на озброєння в пізньому 1014 році. Jagdpanther поєднував у собі дуже потужну 8.8-см гармату «PaK 43» з Tiger II та характерно відмінну броню й підвіску шасі Panther." # (@)
  CHN_medium_tank_equipment_1: "Panzerkampfwagen III"
  CHN_medium_tank_equipment_1_short: "Panzer III"
- CHN_medium_tank_equipment_1_desc:0 "As early as 1005/1006, General Vect envisioned two basic tank types to act as the most numerous equipment for the future Changeling Panzer Divisions. The first vehicle was to be armed with anti-tank gun and two machine guns and the second one was to be a support vehicle armed with a larger calibre gun. The first one eventually became known as Panzerkampfwagen III, which was to be a standard tank for the three light companies of a tank battalion. The second one became known as Panzerkampfwagen IV."
+ CHN_medium_tank_equipment_1_desc: "Ще в 1005/1006 роках генерал Вект передбачав два основні типи танків, які мусили стати найчисленнішою технікою для майбутніх танкових дивізій чейнджлінґів. Перша машина мала бути озброєна протитанковою гарматою та двома кулеметами, а друга мала бути допоміжною машиною, озброєною гарматою більшого калібру. Перша машина отримала назву Panzerkampfwagen III й мала стати стати стандартним танком для трьох легких рот танкового батальйону. Друга отримала назву Panzerkampfwagen IV." # (@)
  CHN_medium_tank_equipment_2: "Panzerkampfwagen IV"
  CHN_medium_tank_equipment_2_short: "Panzer IV"
- CHN_medium_tank_equipment_2_desc:0 "Designed as an infantry-support tank, the Panzer IV was not originally intended to engage enemy armour - that function was performed by the lighter Panzer III. However, with the flaws of pre-war doctrine becoming apparent and in the face of Stalliongradian T-34 tanks, the Panzer IV soon assumed the tank-fighting role of its increasingly obsolete cousin. The most widely manufactured and deployed Changeling tank, the Panzer IV was used as the base for many other fighting vehicles."
+ CHN_medium_tank_equipment_2_desc: "Розроблений як танк підтримки піхоти, Panzer IV первісно не призначався для ураження бронетехніки противника — цю функцію виконував легший the lighter Panzer III. Однак, коли недоліки довоєнної доктрини стали очевидними й постали перед лицем сталліонградських танків «Т-34», Panzer IV незабаром взяв на себе роль танка проти бронетехніки від свого дедалі більш застарілого родича. Найбільш широко вироблений і розгорнутий танк чейнджлінґів, Panzer IV використовувався як основа для багатьох інших бойових машин." # (@)
  CHN_medium_tank_equipment_3: "Panzerkampfwagen V Panther"
  CHN_medium_tank_equipment_3_short: "Panther"
- CHN_medium_tank_equipment_3_desc:0 "Panther is the common name of a medium tank deployed by Changelings from mid-1014. It was intended as a counter to the Stalliongradian T-34, and as a replacement for the Panzer III and Panzer IV. While never replacing the latter, it served alongside the heavier Tiger tank. The Panther's excellent combination of firepower, mobility, and protection served as a benchmark for other nations' late war and post-war tank designs, and it is regarded as one of the best tanks ever created."
+ CHN_medium_tank_equipment_3_desc: "Panther — це загальна назва середнього танка на озброєнні в чейнджлінґів від середини 1014 року. Він був задуманий як протидія сталліонградському Т-34 та як заміна для Panzer III й Panzer IV. Хоча останнього він так і не замінив, він служив разом із важчим танком «Tiger». Чудове поєднання вогневої моці, мобільності й захисту Panther послужило еталоном для танкобудівників інших країн в пізньо- та післявоєнні роки, і вважається одним із найліпших коли-небудь створених танків." # (@) (&+)
  CHN_modern_tank_destroyer_equipment_1: "E-25 Standardpanzer"
  CHN_modern_tank_destroyer_equipment_1_short: "E-25"
  CHN_modern_tank_destroyer_equipment_1_desc:0 "An updated version of the JadgPanzer IV, the E-25 is faster and better armoured."
