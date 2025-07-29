@@ -150,24 +150,24 @@
  CHN_medium_tank_equipment_3_desc: "Panther — це загальна назва середнього танка на озброєнні в чейнджлінґів від середини 1014 року. Він був задуманий як протидія сталліонградському Т-34 та як заміна для Panzer III й Panzer IV. Хоча останнього він так і не замінив, він служив разом із важчим танком «Tiger». Чудове поєднання вогневої моці, мобільності й захисту Panther послужило еталоном для танкобудівників інших країн в пізньо- та післявоєнні роки, і вважається одним із найліпших коли-небудь створених танків." # (@) (&+)
  CHN_modern_tank_destroyer_equipment_1: "E-25 Standardpanzer"
  CHN_modern_tank_destroyer_equipment_1_short: "E-25"
- CHN_modern_tank_destroyer_equipment_1_desc:0 "An updated version of the JadgPanzer IV, the E-25 is faster and better armoured."
+ CHN_modern_tank_destroyer_equipment_1_desc: "Будучи оновленою версією JadgPanzer IV, E-25 швидший і ліпше броньований."
  CHN_modern_tank_equipment_1: "E-50 Standardpanzer"
  CHN_modern_tank_equipment_1_short: "E-50"
- CHN_modern_tank_equipment_1_desc:0 "The Entwicklung series was an attempt by Changelings to produce a standardised modern series of tank designs, that has started in 1016. There were to be standard designs in six different weight classes. The E-50 Standardpanzer was intended as a standard medium tank, replacing the Panther and Tiger tank series and the conversions based on those tanks."
+ CHN_modern_tank_equipment_1_desc: "Серія «Entwicklung» була спробою чейнджлінґів витворити стандартизовану сучасну серію проєктів танків, яку розпочали 1016 року. Передбачалося створення стандартних дизайнів у шести різних вагових категоріях. E-50 Standardpanzer був задуманий як стандартний середній танк, що замінить серії танків «Panther» і «Tiger», а також переобладнаним варіантам цих танків."
  CHN_motorized_equipment_0: "ALZ 84"
  CHN_motorized_equipment_1: "Open Blitz"
  CHN_super_heavy_tank_aa_equipment_1: "Flakpanzer VIII Maus"
  CHN_super_heavy_tank_aa_equipment_1_short: "FlakMaus"
- CHN_super_heavy_tank_aa_equipment_1_desc:0 "The chassis of a Maus mounting twin 88mm anti-air guns."
+ CHN_super_heavy_tank_aa_equipment_1_desc: "Шасі танка «Maus» зі спареними 88-мм зенітними гарматами."
  CHN_super_heavy_tank_artillery_equipment_1: "Geschützwagen E-100 SPG"
  CHN_super_heavy_tank_artillery_equipment_1_short: "GW E-100"
- CHN_super_heavy_tank_artillery_equipment_1_desc:0 "A 210mm artillery gun mounted on a super heavy tank chassis, this SP gun rivals some railway guns in power."
+ CHN_super_heavy_tank_artillery_equipment_1_desc: "210-мм артилерійська гармата, встановлена на шасі надважкого танка. Ця самохідна гармата конкурує за міццю з деякими залізничними гарматами." # (@)
  CHN_super_heavy_tank_destroyer_equipment_1: "SturmGeschütz auf Fahrgestell Maus"
  CHN_super_heavy_tank_destroyer_equipment_1_short: "Jagdmaus"
- CHN_super_heavy_tank_destroyer_equipment_1_desc:0 "The chassis of a Maus with a 150mm gun in a fixed superstructure."
+ CHN_super_heavy_tank_destroyer_equipment_1_desc: "Шасі танка «Maus» зі 150-мм гарматою в нерухомій надбудові."
  CHN_super_heavy_tank_equipment_1: "Panzerkampfwagen VIII Maus"
  CHN_super_heavy_tank_equipment_1_short: "Maus"
- CHN_super_heavy_tank_equipment_1_desc:0 "Panzerkampfwagen VIII Maus was a Changeling super-heavy tank completed in late 1014. It is the heaviest fully enclosed armoured fighting vehicle ever built. The Maus's main armament was a 128 mm KwK 44 L/55 gun with an added coaxial 75 mm gun."
+ CHN_super_heavy_tank_equipment_1_desc: "Panzerkampfwagen VIII «Maus» — надважкий танк чейнджлінґів, завершений наприкінці 1014 року. Це найважча повністю закрита броньована бойова машина з коли-небудь побудованих. Основним озброєнням Maus була 128-мм гармата «KwK 44 L/55» з додатковою коаксіальною 75-мм гарматою." # (@)
 
  CHN_light_tank_equipment_x: "VK 28.01"
  CHN_light_tank_equipment_x_short: "VK 28.01"
@@ -350,19 +350,19 @@
  chn_navymimic: "Підвищити Мімік до рійадмірала"
  chn_navymimic_desc:0 "Після довгих роздумів королева Кризаліс вирішила призначити генерал-адмірала Мімік, чия нелюба стратегія застосування природної схильності чейнджлінґів до скритності та хитрощів у морській війні вже завоювала більшу частину Адміралтейства, на посаду рійадмірала, незважаючи на ультиматум про відставку від генерал-адмірала Лісандра та його прибічників."
  # ((+))
- chn_navylysander2:0 "Grand Fleet Improvements"
+ chn_navylysander2: "Поліпшення великого флоту" # (&+): поліпшити від ориґіналу
  chn_navylysander2_desc:0 "When we win we will win twice! Once when our enemies see us, and once again when their hulls are sunk to the bottom of the sea with the sheer firepower of our naval guns. Let no-one think our coasts are up for grabs!"
- chn_navymimic2:0 "Submarine Improvements"
+ chn_navymimic2: "Поліпшення підводних човнів" # (&+): поліпшити від ориґіналу
  chn_navymimic2_desc:0 "He who dares wins; but with the new submarines of ours no-one will dare take up arms against us! The waters below them belong to us now. Now he who dares is a fool."
- chndestroyereffort:0 "Improve our Destroyers"
+ chndestroyereffort: "Поліпшити наші есмінці" # (&+): поліпшити від ориґіналу
  chndestroyereffort_desc:0 "Speed and efficiency is how we will win battles. This is why we have taken action to improve our screening ships. Let them try to sneak under us or past us. Even when fleeing our destroyers will run them down like war hounds."
- chn_navybuildup:0 "Build Additional Dockyards"
+ chn_navybuildup: "Збудувати додаткові верфі" # (&+): поліпшити від ориґіналу
  chn_navybuildup_desc:0 "Steel and fire for ships! Our fleet must be reinvigorated with new swaths and swarms of hulking beasts which quietly float and defend our coasts."
- chncruisereffort:0 "Improve our Cruisers"
+ chncruisereffort: "Поліпшити наші крейсери" # (&+): поліпшити від ориґіналу
  chncruisereffort_desc:0 "The key to keeping our capital ships alive so that they may instil fear in the hearts of our enemies is to improve our on-sea defences. Focusing on our cruises shall ensure this."
- battleforthehives_chn:0 "Down with the Queen!"
+ battleforthehives_chn: "Геть королеву!"
  battleforthehives_chn_desc:0 "Enough is enough! The hives have spoken and it is time we take up rule of our own. And even if chaos and fire consumes our lands, our people shall rule themselves! Their will shall prevail. Down with the Queen!"
- assassinate_fieldmarshaltrimmel_CHN:0 "Assassinate Trimmel"
+ assassinate_fieldmarshaltrimmel_CHN: "Убити Тріммеля"
  assassinate_fieldmarshaltrimmel_CHN_desc:0 "We may have ousted Chrysalis, but so long as there are loyalists within our ranks, our reorganised country is not safe from her. Marshal Trimmel is the most vocal dissenter, and he must be dealt with, despite the service that he has rendered for our people."
  changeling_liberation_front_CHN: "ЧВФ захоплює владу"
  changeling_liberation_front_CHN_desc:0 "It's been far too long. We shall no longer listen to the schizophrenic drivel of those liberal parasites! Every member of the so called 'progressives' shall be shot for treason against the state and the citizens!"
@@ -370,13 +370,13 @@
  union_of_progressive_changelings_CHN_desc:0 "We shall tolerate hatred and bigotry no longer! Every single one of those from the so called 'liberation' front shall be removed from the state post-haste! We can't let the repeat of a Queen happen!"
  union_factories:0 "Defence of the Union"
  union_factories_desc:0 "It is time to adopt a foreign policy! Those who come to us by the sword shall die by the sword, but let us not go into offensives and invasions against others - unless they're the enemies of the revolution."
- blackarmy_CHN:0 "Form the Black-Army"
+ blackarmy_CHN: "Утворити Чорнармію"
  blackarmy_CHN_desc:0 "To arms my comrades! We shall clog up their guns with our numbers and selfless sacrifice! Not even winter will slow us down - for we are the eternal winter our enemies shall face unless they surrender!"
- CLF_Rebuilding_CHN:0 "Rebuild the Hives"
+ CLF_Rebuilding_CHN: "Відбудувати вулики"
  CLF_Rebuilding_CHN_desc:0 "The time has come! The might of the workers shall forge our weapons of war, our tools of destruction - tools we shall use to ruin the enemies of revolution and bring peace and equality to the world! Let the fires of our factories never die down, and let them live with the spirit of our people!"
  CLFRecruit:0 "Establish CLF Militia Districts"
  CLFRecruit_desc:0 "Your life is nothing compared to the collective might of the state! What is one life sacrificed but a good we all shall drink from? Your sacrifice alone is a victory for us - a defeat for the cowards that our enemies are. What do they have if not the selflessness of our people?!"
- CHNCOM_infrastructure_effort:0 "New Roads"
+ CHNCOM_infrastructure_effort: "Нові дороги"
  CHNCOM_infrastructure_effort_desc:0 "Without the Queen, who will build the roads? The people will! We need roads to boost our economy through the gloomy clouds our aristocracy left over our heads. Our roads shall be the envy of the entire world."
  UPPCongress: "Конгрес СПЧ"
  UPPCongress_desc:0 "In our first official congress we have concluded that the enemies of the revolution can no longer draw breath. We shall not rest easy until these vermin have been purged from our lands... Let us bring war to them - before they bring it to us!"
@@ -730,25 +730,25 @@
  great_nobody: "Великий імперський ніхто"
  great_nobody_lar: "$great_nobody$"
  CHN_army_reorganization: "Перебудова збройних сил"
- CHN_army_reorganization_desc:0 "The changeling military structure is undergoing significant reforms as it abandons the old style of warfare, based on mass swarm attacks, and adopts heavy mechanised and aerial support. Chief proponent of this modernisation is Hivesmarschall Trimmel, supported by Queen Chrysalis and aided by the Griffonian attaché."
+ CHN_army_reorganization_desc: "Військова структура чейнджлінґів зазнає значних реформ, відмовляючися від старого стилю ведення війни, заснованого на масових ройових атаках, і приймає важку механізовану та повітряну підтримку. Головним прихильником цього осучаснення є ріймаршал Тріммель, котрого підтримує королева Кризаліс і котрому допомагає аташе у Грифонії." # (@)
  CHN_army_reorganization_high_com: "Вище командування перебудовано"
  CHN_army_reorganization_officers: "Нові офіцери"
  CHN_army_reorganization_2: "Перебудовування армії"
  CHN_army_reorganization_3: "Перебудована армія"
  CHN_army_griffon_type: "Грифоняча школа війни"
- CHN_army_griffon_type_desc:0 "Although changelings are an inherently aggressive species, there is a certain wisdom in learning to temper this natural bloodlust. Following advice from our griffon allies, our warrior ethos has changed to reflect a more careful approach to warfare, instead of making risky breakthroughs."
+ CHN_army_griffon_type_desc: "Хоча чейнджлінґи за своєю природою агресивні, є певна мудрість у тому, щоби навчитися стримувати цю природну жагу крові. За порадою наших союзників-грифонів, наш воїнський етос змінився й відображає більш обережний підхід до ведення війни замість улаштування ризикованих проривів." # (@) (&)
  CHN_plan_east_prep: "План «Сутінки алікорнів»"
  CHN_steel_chitin_plan: "План «Крицевий хітин»"
  CHN_AI_stronger_plan_east_prep: "$CHN_plan_east_prep$"
  CHN_AI_steel_chitin_plan: "$CHN_steel_chitin_plan$"
  CHN_unity: "Нація об'єднана"
- CHN_unity_desc:0 "Changelings are only as powerful as the level of cooperation between them. The divided hives would be easy prey to our rivals, but when we stand as one, our freedom is secured and we can act on the power of our will. As such, the Changeling hives have given their full support to the rule of [Root.GetLeader]."
+ CHN_unity_desc: "Чейнджлінґи лише настільки сильні, наскільки високий є рівень співпраці між ними. Розділені вулики були б легкою здобиччю для наших суперників, але коли ми стоїмо як одне ціле, наша свобода забезпечена й ми можемо діяти, спираючися на силу нашої волі. Тому вулики чейнджлінґів повністю підтримують факт, що ними править [Root.GetLeader]." # (@) (&?)
  changeling_queen: "Королева чейнджлінґів"
  changeling_swarm: "Рій"
  political_divisions: "Політичні розбіжності"
- political_divisions_desc:0 "While the changelings share the same goals, there are disagreements as to how they should be achieved. This may lead to future conflicts within the nation."
+ political_divisions_desc: "Хоча чейнджлінґи мають однакові цілі, існують розбіжності щодо того, як їх слід досягати. Це може призвести до майбутніх конфліктів усередині держави." # (@)
  canterlot_defeat: "Поразка при Кантерлоті"
- canterlot_defeat_desc:0 "Despite ending in failure, Chrysalis came tantalisingly close to capturing Canterlot. 5 years later, the Canterlot Defeat still leaves its marks on the changeling society. Queen's government used it to cultivate hatred towards Equestria and ponies. It became a corner stone for unification of the changelings for the path of war."
+ canterlot_defeat_desc: "Попри те, що все закінчилося невдачею, Кризаліс підійшла впритул до захоплення Кантерлота. 5 років по тому, поразка при Кантерлоті все ще залишає свої сліди в суспільстві чейнджлінґів. Уряд королеви використав її для культивування ненависті до Еквестрії та поні. Ця поразка стала наріжним каменем для об'єднання чейнджлінґів на шлях війни." # (@) (&+)?
  CHN_carrier_focus: "Повітряний флот"
  CHN_carrier_focus_2: "$CHN_carrier_focus$"
  CHN_battleship_focus: "Надводний флот"
@@ -756,20 +756,20 @@
  CHN_submarine_focus: "Рейдерський флот"
  CHN_submarine_focus_2: "$CHN_submarine_focus$"
  canterlot_defeat_but_for_friends: "Поразка при Кантерлоті"
- canterlot_defeat_but_for_friends_desc:0 "Despite ending in failure, Chrysalis came tantalisingly close to capturing Canterlot. This alone has galvanised the Changelings to never accept any future deals with Equestria, and a shrewd leader can use this to their advantage..."
+ canterlot_defeat_but_for_friends_desc: "Попри те, що все закінчилося невдачею, Кризаліс підійшла впритул до захоплення Кантерлота. Лише це підштовхнуло чейнджлінґів до того, щоби в майбутньому ніколи не укладати жодні угоди з Еквестрією, і проникливий лідер може використати це на свою користь..." # (@)
  canterlot_defeat_1: "$canterlot_defeat$"
- canterlot_defeat_1_desc:0 "Despite ending in failure, Chrysalis came tantalisingly close to capturing Canterlot and control over Equestria. 5 years later, the Canterlot Defeat still leaves its marks on the changeling society. Queen's government used it to cultivate hatred towards Equestria and ponies. However there are still changelings that doubt the competence of the Queen and her government."
+ canterlot_defeat_1_desc: "Попри те, що все закінчилося невдачею, Кризаліс підійшла впритул до захоплення Кантерлота та контролю над Еквестрією. 5 років по тому, поразка при Кантерлоті все ще залишає свої сліди в суспільстві чейнджлінґів. Уряд королеви використав її для культивування ненависті до Еквестрії та поні. Однак і досі є чейнджлінґи, які сумніваються в компетентності королеви та її уряду." # (@) (&+)?
  canterlot_victory: "Перемога при Кантерлоті"
- canterlot_victory_desc:0 "The lost honour of the changelings has been regained and the puny ponies defeated. No longer do we need to feel shame. We can only be proud of what great triumph we have accomplished."
+ canterlot_victory_desc: "Втрачену честь чейнджлінґів відновлено, а нікчемні поні переможені. Нам більше не потрібно відчувати сором. Ми можемо лише пишатися тим, якого великого тріумфу досягли." # (@)
  CHN_military_government_in_OLE: "Оленійський комісаріат"
  newhives: "Нові вулики"
  newhives2: "Більші вулики"
  newhives3: "Міста чейнджлінґів"
- newhives3_desc:0 "Condensed housing, underground structures and highrises allow to place more buildings in one district. However it would be problematic to defend these structures, as one luckily dropped bomb may crush the awkward constructions."
+ newhives3_desc: "Ущільнена забудова, підземні споруди та висотки дозволяють розмістити більше будівель в одному районі. Однак захищати ці споруди буде проблематично, оскільки одна вдало скинута бомба може зруйнувати химерні конструкції." # (@)
  continous_war_plan_CHN: "План тривалої війни"
- continous_war_plan_CHN_desc:0 "In order to enact our revenge on Celestia and her lackeys, we must transition our country's efforts completely to war. The changelings won't be happy if it drags on for too long, but they can rest assured that victory is near. All it takes is a little sacrifice."
- changeling_school_of_war: "Чейнджлінґова офіцерська академія"
- changeling_school_of_war_desc:0 "In a classic adage of "don't fix what isn't broken", the changeling military ethos has evolved from its roots of mass swarm assaults towards utilisation of extensive mechanisation, rigourous training standards and above all, loyalty to the Queen and her goals."
+ continous_war_plan_CHN_desc: "Щоби здійснити нашу помсту Селестії та її підлабузникам, ми мусимо повністю перевести зусилля нашої країни на війну. Чейнджлінґи не зрадіють, якщо вона затягнеться надовго, але вони можуть бути впевнені, що перемога вже близька. Потрібно лише трохи пожертвувати." # (@)
+ changeling_school_of_war: "Офіцерська академія чейнджлінґів"
+ changeling_school_of_war_desc: "Як каже класичне прислів'я «не ламай те, що не зламано», військовий етос чейнджлінґів розвинувся від масових ройових атак до використання широкої механізації, суворих стандартів військової підготовки і, перш за все, вірності королеві та її цілям." # (@)
  chnairmarshal1: "Апантесіс"
  chnairmarshal2: "Церціоніс"
  chnairmarshal3: "Мантіс"
@@ -813,19 +813,19 @@
  CHN_vraks_military_effort_2: "$CHN_vraks_military_effort$"
  CHN_celestial_resistance: "Еквестрійський опір"
  CHN_offensive_in_polaria: "Наступ на Полярію"
- CHN_offensive_in_polaria_desc:0 "A single, massive push will put the bears in their place once and for all!"
+ CHN_offensive_in_polaria_desc: "Єдиний масований поштовх поставить ведмедів на місце раз і назавжди!" # (@)
  CHN_logistics_in_polaria: "Логістика Полярії"
- CHN_logistics_in_polaria_desc:0 "The northern terrain is treacherous and supply lines will be unreliable. Preparations will be made accordingly."
+ CHN_logistics_in_polaria_desc: "Північна місцевість підступна й лінії постачання будуть ненадійними. Підготовку буде проведено відповідним чином." # (@)
  CHN_army_disheartened_idea: "Армія зневірена"
  CHN_army_disheartened_idea_desc: "Як це могло статися?! Ми ще навіть не перемогли відсталих полярних ведмедів!"
  CHN_public_questions_war_effort_idea_fascism: "Громадськість оспорює воєнну економіку"
- CHN_public_questions_war_effort_idea_fascism_desc:0 "The people are wondering if this war is even worth it. We need either a quick victory or a ceasefire."
+ CHN_public_questions_war_effort_idea_fascism_desc: "Народ ставить собі питання, чи варто взагалі вести цю війну. Нам потрібна або швидка перемога, або припинення вогню." # (@)
  CHN_vops_audit: "Аудит УГБВ"
  CHN_vops_audit_desc: "Королевина варта проводить аудит УГБВ, щоби викорінити залишкових тораксіанців. Це вагомо вповільнило всякі розширення агентства."
  CHN_vops_audit_lar: "$CHN_vops_audit$"
  CHN_vops_audit_lar_desc: "$CHN_vops_audit_desc$"
  CHN_synthetic_armament: "Випереджувальні воєнні облігації"
- CHN_synthetic_armament_desc:0 "As we are gearing up for looming conquests, Queen Chrysalis has decided to sell war bonds before the war formally starts. This will let us rapidly industrialize and get an edge on our future enemies."
+ CHN_synthetic_armament_desc: "Оскільки ми готуємося до майбутніх завоювань, королева Кризаліс вирішила продати військові облігації до офіційного початку війни. Це дозволить нам швидко індустріалізуватися й отримати перевагу над нашими майбутніми ворогами." # (@)
  CHN_infiltrators_army: "Чейнджлінґова армія інфільтраторів"
  CHN_infiltrators_army_fund: "Постачання для армії інфільтраторів"
  CHN_PLB_resources: "Компанія з видобутку ресурсів Полярії"
@@ -854,13 +854,13 @@
 
  changelings.3.t: "Завоювання" # Порожня подія
 
- changelings.4.t:0 "States Ceded"
+ changelings.4.t: "Області віддано" # (&)
  changelings.4.d:0 ""[OLE.GetLeader] truly is spineless," Chrysalis said, reading the response from Olenia with contempt. "Here I was spoiling for a good fight. And the deer fold like a house of cards. Pathetic!"\n\n"It appears reason won out in the end," Hivesmarschall Trimmel stated, bowing his head as Chrysalis fumed that she wouldn't have her fight anymore. "Still, we can call this a victory. There will be further opportunities to subjugate the deer. I'm sure the right one will surface before long."\n\n"It better," Chrysalis said. "If I settle for only taking three states off of the deer, I'm just a bit player. But if I take all of Olenia..." she rubbed her hooves together and giggled. "The deer may have bought themselves some time, but they will be my first conquest, one way or another. Soon they will submit or they will die, and I don't particularly care which one they choose.""
- changelings.4.a:0 "This is good enough for now... but it won't satisfy us forever."
+ changelings.4.a: "Поки що вистачить... але це не задовольнить нас назавжди."
 
  changelings.5.t: "[From.GetName] відхиляє наші вимоги!"
  changelings.5.d: "Ріймаршал Тріммель прочитав відповідь, який надісла[OLE.Leader.GetVerbGendEndA_RU] [OLE.GetLeader], із задоволеною усмішкою на лиці.\n«Ваша вимога передати Бортбютінґ-Гоґланд, Солґуд-Берґшедью та Феер-Далар — зовсім безглузда. Якщо ви забули, ці землі були віддані оленям за умовами договору, укладеного королем Алдаром II. Ми не віддамо їх вам просто тому, що ви їх вимагаєте. Оленія не поступається кривдникам».\n\nТріммель відкинув набік відповідь і перевів увагу на королеву Кризаліс.\n— Отже, моя Королево? Як Ви гадаєте?\n— Гадаю, це привід, який ми хотіли, — сказала Кризаліс, потираючи копита. — Якщо олені вважають, що рішучі слова — все що треба, щоб урятуватися, вони розчаруються. Так чи інакше, вони падуть, і я не можу дочекатися на вигляд, якого набуде [OLE.GetLeader], коли це все посиплеться на їхню жалюгідну відмовку, що вони звуть державою." # (&)
- changelings.5.a: "Олені скоряться нам, хай захочуть вони вкриті власною кров'ю або ні." # (&)
+ changelings.5.a: "Олені скоряться нам, хай захочуть вкриті власною кров'ю або ні." # (&)
 
  changelings.6.t: "Оленія підкоряється нашій могуті"
  changelings.6.d:0 "Queen Chrysalis scoffed as she read the response from [OLE.GetLeader] to her demands that the entire country submit to the might of the Changeling Hives. "It was that easy? Pathetic," she said, rolling her eyes and passing the response back to an aide to file away safely. "I guess the deer really are frightened prey. I suppose it's a good thing for them we'll be set to look out for them... so long as they give us the love we deserve." She giggled to herself and sat upright on her throne. "Well, fortunately for the deer, the Heer won't get to try out our new toys on them. Those, we'll save for Equestria. The Olenians can rest assured that they have the might of our armies to protect them from Equestrian influence. We will truly be the kindest and most benevolent guardians of the deer we could be, because if any of them say otherwise, they won't be around long enough to say much else." She rubbed her hooves together. "The first domino has fallen...""
