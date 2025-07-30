@@ -84,7 +84,7 @@
 + `eaw_autonomy`
 + `eaw_bop`
 + `eaw_capitulation_quotes`
-+ ~~`eaw_decisions`~~
++ `eaw_decisions`
 + `eaw_difficulty`
 + `eaw_diplo_popup`
 + `eaw_factions`
