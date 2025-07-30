@@ -398,7 +398,7 @@
   democratic_acceptance: "Прийняття дипломатичних дій гармоністів"
   fascism_drift: "Щоденна підтримка зверхності"
   fascism_acceptance: "Прийняття дипломатичних дій верхістів"
-  MODIFIER_LOCAL_MANPOWER: "Регіональні поні-ресурси"
+  MODIFIER_LOCAL_MANPOWER: "Місцеві поні-ресурси"
   MODIFIER_CONSCRIPTION_FACTOR_DESC: "Модифікатор кількості доступних із регіонів поні-ресурсів."
   MODIFIER_CONSCRIPTION_TOTAL_FACTOR_DESC: "Модифікатор кількості доступних із регіонів поні-ресурсів."
   MODIFIER_AUTONOMY_MANPOWER_SHARE: "Вимога до поні-ресурсів суб'єкта"

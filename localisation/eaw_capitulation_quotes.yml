@@ -222,7 +222,7 @@ GetTNOReference_ABY:0 "Your freedom will never be touched, as your mountains are
 GetTNOReference_ABY_patriots:0 "I will sacrifice all nine of my lives for Abyssinia!"
 GetTNOReference_ABY_slaves:0 "I'd rather die trying to take them down than giving them what they want."
 GetTNOReference_ABY_donkeystan:0 "Our hope is not yet lost, the hope of one thousand years."
-GetTNOReference_MDL:0 "Yesterday they were kings in their own homes, but today they are slaves." # in the land of disbelief
+GetTNOReference_MDL: "Учора вони царювали в себе вдома, але сьогодні вони — раби." # in the land of disbelief
 GetTNOReference_ZAI: "Деякі секрети краще залишити в пісках."
 GetTNOReference_ZAI_2: "Менше лихо — більше не варіант."
 GetTNOReference_ZAI_3: "Смерть — це лише початок."
