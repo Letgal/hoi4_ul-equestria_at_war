@@ -246,15 +246,15 @@
  Chrysalis: "Хай живе Королева"
  Chrysalis_desc:0 "Радіопередавачі було надано майже кожному будинку в країні. Гучномовці встановлено на кожній площі. У кожному вулику висять портрети. Кожен чейнджлінґ у країні мусять знати обличчя та голос своєї доброзичливої Королеви. У ці непевні часи народ чейнджлінґів потребує сильного правителя. Лише під керівництвом королеви Кризаліс наша раса може пізнати єдність і процвітання."
  CHN_support_workers: "Допомога робітничим родинам"
- CHN_support_workers_desc:0 "Мільйони чейнджлінґів наполегливо працюють, щоби забезпечити майбутнє нації. Саме вони відповідають за забезпечення армії всім необхідним, і саме вони є основою нашої майбутньої перемоги. Уряд забезпечить додаткову турботу про простих чейнджлінґів. Нехай це стане доказом для всіх, що Кризаліс нещадна лише до своїх ворогів і щиро піклується про своїх вірних підданих!"
+ CHN_support_workers_desc:0 "Мільйони чейнджлінґів наполегливо працюють, щоби забезпечити майбутнє держави. Саме вони відповідають за забезпечення армії всім необхідним, і саме вони є основою нашої майбутньої перемоги. Уряд забезпечить додаткову турботу про простих чейнджлінґів. Нехай це стане доказом для всіх, що Кризаліс нещадна лише до своїх ворогів і щиро піклується про своїх вірних підданих!"
  CHN_state_propaganda: "Остання хвиля пропаганди"
  CHN_state_propaganda_desc:0 "Пропагандистська машина працює з 1002 року, після невдалого захоплення Кризаліс Еквестрії. Зараз ситуація заспокоїлася. Міністерство інформації розпочне нову кампанію пропаганди. Кожен, хто живе в країні, прийде до висновку, що верховенство чейнджлінґів має бути кінцевою метою кожного громадянина, і що під керівництвом королеви Кризаліс ця мета буде досягнута."
- unite_the_people: "Об'єднати націю"
+ unite_the_people: "Об'єднати державу"
  unite_the_people_desc:0 "Королева Кризаліс знову отримала величезну підтримку. Вона та її урядова комісія організують кілька тривалих поїздок вуликами країни. Будуть складені бізнес-плани, підписані нові угоди, виголошені промови. Таким чином Весаліполіс прагне зміцнити єдність і нагадати іншим вуликам, що він лише перший серед рівних. Ми переможемо, лише працюючи разом."
  hive_funding: "Широка підтримка менших вуликів"
- hive_funding_desc:0 "Коли великі та кипучі вулики Весаліполіса, Вракса, Дітрісіума, Соріфа та Ліктіди є могутніми промисловими центрами, безліч малих вуликів розкидана по нашій землі. Ми мусимо подбати, щоби про них не забували та їхні чейнджлінґи були вдячні своїй королеві, бо разом вони так само важливі, як і всякий великий вулик. Натомість ми чекаємо, що вони зроблять свій внесок у розвиток нації." # (*)
+ hive_funding_desc:0 "Коли великі та кипучі вулики Весаліполіса, Вракса, Дітрісіума, Соріфа та Ліктіди є могутніми промисловими центрами, безліч малих вуликів розкидана по нашій землі. Ми мусимо подбати, щоби про них не забували та їхні чейнджлінґи були вдячні своїй королеві, бо разом вони так само важливі, як і всякий великий вулик. Натомість ми чекаємо, що вони зроблять свій внесок у розвиток держави." # (*)
  Expansion_of_newhives: "Продовжити осучаснення вуликів"
- Expansion_of_newhives_desc:0 "Через нашу ізоляцію та санкції, накладені Еквестрією, багато вуликів відстали в економічному та суспільному розвитку. Більш просунуті вулики мусять допомагати слабшим, щоби зробити всю нашу націю сильною та сучасною. Державні проєкти та розумні інвестиції перетворять напівзруйновані та відсталі печери на блискучі, ефективні та сучасні вулики."
+ Expansion_of_newhives_desc:0 "Через нашу ізоляцію та санкції, накладені Еквестрією, багато вуликів відстали в економічному та суспільному розвитку. Більш просунуті вулики мусять допомагати слабшим, щоби зробити всю нашу державу сильною та сучасною. Державні проєкти та розумні інвестиції перетворять напівзруйновані та відсталі печери на блискучі, ефективні та сучасні вулики."
  steel_industry: "Металургійний завод Вракса"
  steel_industry_desc:0 "Північні гори багаті на залізну руду. Однак, щоб ефективно скористатися нею, потрібно побудувати транспортні шляхи по всій країні та переробні заводи. Військовий вулик Вракс є ідеальним місцем для останнього, оскільки враксівці зможуть швидко переробляти сталь на зброю. Коммораг буде наглядати за проєктом і гарантує королеві, що його буде завершено за графіком."
  army_research: "Армійські дослідження"
@@ -316,7 +316,7 @@
  prepare_for_war2: "Залізниці й авіабази"
  prepare_for_war2_desc:0 "І залізниці, і летовища важливі для абияких військових маневрів. Розбудова важливої інфраструктури забезпечить, що наша війна пройде гладко, і наші солдати будуть добре забезпечені свіжим м'ясом та іншими припасами, в той час як авіабази будуть потрібні нашим ВПС, щоби вони могли легше досягти повітряну перевагу над ворогом."
  prepare_for_war3: "Праця для фронту"
- prepare_for_war3_desc:0 "Забезпечення нашої армії засобами, необхідними для її постачання, є пріоритетом під час війни. Нарощування — наш єдиний вихід. Кожен чейнджлінґ мусить тимчасово працювати більше й довше та жертвувати собою у славу Королеви та її нації. Коли ми неминуче переможемо, робочий день знову буде скорочено."
+ prepare_for_war3_desc:0 "Забезпечення нашої армії засобами, необхідними для її постачання, є пріоритетом під час війни. Нарощування — наш єдиний вихід. Кожен чейнджлінґ мусить тимчасово працювати більше й довше та жертвувати собою у славу Королеви та її держави. Коли ми неминуче переможемо, робочий день знову буде скорочено."
  demand_equestria: "Очолити армії"
  demand_equestria_desc:0 "Настав час спокутувати свою поразку при Кантерлоті! Настав час знищити нашого головного суперника та зайняти своє законне місце господарів Еквусу. Наша армія готова завдати удару, а Королевина варта готова розправитися з усякими інакодумцями, щойно ми захопимо Еквестрію. Королева приведе нас до вічної слави та швидкої перемоги!"
  continuous_war_plan_CHN: "Упровадити План тривалої війни"
@@ -1818,15 +1818,15 @@
   CHN_event_967_variant_two_loc:0 "The shooting started just before dawn, waking Morning Frost from her sleep. A staccato cacophony rang out over the town, coupled with distant screams and the thump of heavy munitions. But it was over almost as soon as it started, and it wasn't long before she saw the changeling vehicles rolling down the road, all intact save for a few fresh bullet holes added to the sheet metal here and there.\n\nWhen she went into town, the news of a failed partisan action was on everypony's lips. As luck would have it, a changeling patrol stumbled across the resistance as they were wiring explosives to the bridge across the river, and a fierce firefight broke out between the two sides. The partisans had been slaughtered almost to the last, and the few prisoners the changelings took certainly didn't have anything to look forward to. But thanks to the actions of the garrison, the bridge had been saved from destruction, and that meant the town could still trade with the rest of Equestria and the Hegemony. Life could continue as normal.\n\nWhen Morning Frost came home that afternoon, she shut the door behind her and slumped down against the wall. If it hadn't been for Lily Lilac's cautioning words, she would have been amongst the ponies massacred at the bridge. She'd narrowly escaped a brush with death and didn't know it until after the fact, and now she was grateful for her neighbours.\n\nForget the resistance. It was a doomed cause. But at least now, she'd escaped with her life. And maybe should could make a difference in another way, just as Lily had recommended, and make her neighbourhood a peaceful and happy place in these troubling times."
 
   changelings_paxchrysalia.67.t:0 "It's a Beautiful Day In The Neighbourhood"
-  changelings_paxchrysalia.67.d:0 "[CHN_scripted_loc_event_67]"
-  changelings_paxchrysalia.67.a:0 "[CHN_scripted_loc_event_67_button]"
+  changelings_paxchrysalia.67.d: "[CHN_scripted_loc_event_67]"
+  changelings_paxchrysalia.67.a: "[CHN_scripted_loc_event_67_button]"
 
   changelings_paxchrysalia.867.t:0 "A Beautiful Day For A Neighbour"
-  changelings_paxchrysalia.867.d:0 "[CHN_scripted_loc_event_867]"
-  changelings_paxchrysalia.867.a:0 "[CHN_scripted_loc_event_867_button]"
+  changelings_paxchrysalia.867.d: "[CHN_scripted_loc_event_867]"
+  changelings_paxchrysalia.867.a: "[CHN_scripted_loc_event_867_button]"
 
   changelings_paxchrysalia.967.t:0 "Please Won't You Be My Neighbour?"
-  changelings_paxchrysalia.967.d:0 "[CHN_scripted_loc_event_967]"
+  changelings_paxchrysalia.967.d: "[CHN_scripted_loc_event_967]"
   changelings_paxchrysalia.967.a:0 "I've always wanted to live in a neighbourhood with you."
 
   changelings_paxchrysalia.68.t:0 "The Pony in the Changeling Hive"
@@ -2020,15 +2020,15 @@
   changelings_paxchrysalia.209.d:0 "[CHN_GetJachsRank] Jachs sifted through the latest reports coming in from across the Equestrian heartlands, looking for anything that needed his immediate attention. Most were just progress reports on various projects or updates from garrison commanders in their efforts to quell unrest throughout the Hives' new holdings — nothing serious that required action for him. He did, however, notice a letter addressed from the garrison commander in Ponyville, the memo marked 'URGENT' across the front and back.\n\nSighing, Jachs opened it up, already expecting something inane to come from that backwaters town that had caused him so much trouble in the past, only for his eye to twitch at what he'd read. Apparently, the concrete facade that had been erected around the Castle of Friendship to conceal the ridiculously indestructible building from sight had seemingly crumbled overnight, once again exposing the glittering castle to the residents of Ponyville. The commander supposed that it might have been the actions of rebels, though no such evidence had yet been uncovered, but Jachs wouldn't have been surprised if that was the doing of the tree itself at this point. Biting his lip, he ultimately decided against reporting anything to Vesalipolis to spare himself the headache of dealing with Queen Chrysalis' inevitable demands for something to be done, and instead wrote back a simple order to be delivered to the garrison commander: "Cover it up with a blanket or something. I don't care what you do, just make sure nobody talks about it."\n\nSatisfied, Jachs immediately tore up the memo from Ponyville, tossed the shreds into a dustbin, and then flicked a lit cigarette into the bin after them. Out of sight, out of mind."
   changelings_paxchrysalia.209.a:0 "Let's just pretend that problem doesn't exist anymore."
 
-  changelings_paxchrysalia.300.t:0 "" ## events 300-302 not used at the moment ##
-  changelings_paxchrysalia.300.d:0 ""
-  changelings_paxchrysalia.300.a:0 ""
-  changelings_paxchrysalia.301.t:0 ""
-  changelings_paxchrysalia.301.d:0 ""
-  changelings_paxchrysalia.301.a:0 ""
-  changelings_paxchrysalia.302.t:0 ""
-  changelings_paxchrysalia.302.d:0 ""
-  changelings_paxchrysalia.302.a:0 ""
+  changelings_paxchrysalia.300.t: "" ## events 300-302 not used at the moment ##
+  changelings_paxchrysalia.300.d: ""
+  changelings_paxchrysalia.300.a: ""
+  changelings_paxchrysalia.301.t: ""
+  changelings_paxchrysalia.301.d: ""
+  changelings_paxchrysalia.301.a: ""
+  changelings_paxchrysalia.302.t: ""
+  changelings_paxchrysalia.302.d: ""
+  changelings_paxchrysalia.302.a: ""
 
  # Вічнодикий ліс
   changelings_paxchrysalia.400.t:0 "The Everfree in Anarchy"
