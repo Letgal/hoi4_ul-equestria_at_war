@@ -50,6 +50,7 @@
 + `country_JFT`
 + `country_JRR`
 + `country_JUN` (переклав *Green Kitten*)
++ `country_LAK` (переклав *Bovcun*)
 + `country_LSP` (переклав *Green Kitten*)
 + `country_MIT` (переклав *Green Kitten*)
 + `country_MTA` (умовно)
