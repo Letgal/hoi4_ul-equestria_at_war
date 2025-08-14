@@ -261,6 +261,8 @@
  ABILITY_CHEMICAL_ATTACK: "Газова атака"
  ABILITY_CHEMICAL_ATTACK_DESC: ""
 
+ BAT_armoured_trains: "$CHN_armoured_trains$"
+ BAT_armoured_trains_desc: "$CHN_armoured_trains_desc$"
  anti_tank_rifles: "Протитанкова стрілецька рота"
  anti_tank_rifles_desc: ""
 
