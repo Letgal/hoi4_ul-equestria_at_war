@@ -52,6 +52,7 @@
 + `country_JUN` (переклав *Green Kitten*)
 + `country_LAK` (переклав *Bovcun*)
 + `country_LSP` (переклав *Green Kitten*)
++ `country_MAN&ELF` (переклав *Max*)
 + `country_MIT` (переклав *Green Kitten*)
 + `country_MTA` (умовно)
 + `country_NIM` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
