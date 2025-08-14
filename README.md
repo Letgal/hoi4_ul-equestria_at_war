@@ -11,10 +11,13 @@
 + `countries_zebrica`
 + `country_AET` (переклав [*StasJesus*](https://steamcommunity.com/profiles/76561198867405533))
 + `country_ANG` (переклав *StasJesus*) — перечитати
++ `country_AVI` (переклав [*Bovcun*](https://github.com/Bovcun-A)) — `(&)`
 + `country_BAL` (переклав [*Green Kitten*](https://steamcommunity.com/profiles/76561198235810742))
 + `country_BAL_protectorate` (переклав *Green Kitten*)
++ `country_BAN` (переклав *Bovcun*) — `(&)`
 + `country_BAR` (переклав [*Max*](https://steamcommunity.com/profiles/76561198873048643)) — перечитати
 + `country_BOI`
++ `country_BRF` (переклав *Bovcun*) — `(&)`
 + `country_BUF` (переклав *Kiparu*)
 + ~~`country_CES`~~ (попередню версію переклав [*Daybreaker*](https://steamcommunity.com/profiles/76561199084403733))
 + `country_CRY` (переклав *Green Kitten*)
@@ -22,7 +25,7 @@
 + `country_CRY_SOL` (переклав *Green Kitten*)
 + `country_CTH` (умовно; переклав *StasJesus*)
 + `country_CYA` (переклав *Green Kitten*)
-+ `country_DED` (переклав [*Bovcun*](https://github.com/Bovcun-A)) — перечитати
++ `country_DED` (переклав *Bovcun*) — `(&)`
 + `country_DEP` (умовно)
 + `country_DRG`
 + `country_EQC` (переклав *Max*)
@@ -40,6 +43,8 @@
 + `country_FRN` (переклав *Green Kitten*)
 + `country_GFF` (умовно; переклав *Green Kitten*)
 + `country_GRF` (переклав *StasJesus*)
++ `country_GRU` (переклав *Bovcun*) — `(&)`
++ `country_GRW` (переклав *Bovcun*) — `(&)`
 + `country_HAU` (переклав *Bovcun*)
 + `country_HIP` (умовно<!-- ; переклав… *All-Ampirian*? -->)
 + `country_HLR` (переклав *Bovcun*)
@@ -52,8 +57,10 @@
 + `country_JUN` (переклав *Green Kitten*)
 + `country_LAK` (переклав *Bovcun*)
 + `country_LSP` (переклав *Green Kitten*)
++ `country_LUS` (переклав *Bovcun*) — `(&)`
 + `country_MAN&ELF` (переклав *Max*)
 + `country_MIT` (переклав *Green Kitten*)
++ `country_MNC` (переклав *Bovcun*) — `(&)`
 + `country_MTA` (умовно)
 + `country_NIM` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
 + `country_NLR` (переклав *Green Kitten*)
@@ -61,6 +68,7 @@
 + `country_north_zebrican_war`<!--  (переклав… *All-Ampirian*?) -->
 + `country_NTR`
 + `country_OLE` (переклав *Max*)
++ `country_OLV` (переклав *Bovcun*) — `(&)`
 + `country_PNG`
 + `country_POM`
 + `country_PYT` (переклав *StasJesus*)
@@ -81,6 +89,7 @@
 + `country_YAK`:
 	+ стару версію переклав *ціктакомба*
 	+ нову версію переклав *Green Kitten* — перечитати
++ `country_ZES` (переклав *Bovcun*) — `(&)`
 + ~~`eaw_achievements`~~
 + `eaw_adjacency_rules`
 + `eaw_autonomy`

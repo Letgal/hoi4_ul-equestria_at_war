@@ -1,5 +1,200 @@
 ﻿Тут розміщено вирізану локалізацію, яку або було шкода видаляти повністю, або яка з тієї чи іншої причини неправильно відображається, разом із супутнім текстом.
 
+# country_AVI
+ FLO_AVI_fascism: "Ерцгерцогство Фловена"
+ FLO_AVI_fascism_DEF: "Ерцгерцогство Великої Фловени"
+ FLO_AVI_fascism_ADJ: "Фловенськ"
+
+ FEZ_AVI_fascism: "Князівство Фезера"
+ FEZ_AVI_fascism_DEF: "Князівство Фезера"
+ FEZ_AVI_fascism_ADJ: "Фезерськ"
+
+ JER_AVI_fascism: "Віконтство Аквіла"
+ JER_AVI_fascism_DEF: "Віконтство Аквіла"
+ JER_AVI_fascism_ADJ: "Аквільськ"
+
+ FAL_AVI_fascism: "Велике герцогство Фалькор"
+ FAL_AVI_fascism_DEF: "Велике герцогство Фалькор"
+ FAL_AVI_fascism_ADJ: "Фалькорськ"
+
+ TAL_AVI_fascism: "Герцогство Талуза"
+ TAL_AVI_fascism_DEF: "Герцогство Талуза"
+ TAL_AVI_fascism_ADJ: "Талузьк"
+
+ SIC_AVI_fascism: "Віконтство Скарлет"
+ SIC_AVI_fascism_DEF: "Віконтство Скарлет"
+ SIC_AVI_fascism_ADJ: "Скарлетськ"
+
+ TRD_AVI_fascism: "Вільне місто Скайфолл"
+ TRD_AVI_fascism_DEF: "Вільне місто Скайфолл"
+ TRD_AVI_fascism_ADJ: "Скайфолльськ"
+
+ HAU_AVI_fascism: "Герцогство Гаукленд"
+ HAU_AVI_fascism_DEF: "Герцогство Гаукленд"
+ HAU_AVI_fascism_ADJ: "Гауклендськ"
+
+ FAT_AVI_fascism: "Велике герцогство Клаудбері"
+ FAT_AVI_fascism_DEF: "Велике герцогство Клаудбері"
+ FAT_AVI_fascism_ADJ: "Клаудберіськ"
+
+ ROU_AVI_fascism: "Вільне місто Ромау"
+ ROU_AVI_fascism_DEF: "Вільне місто Ромау"
+ ROU_AVI_fascism_ADJ: "Ромауськ"
+
+ KAT_AVI_fascism: "Князівство Катеринбурґ"
+ KAT_AVI_fascism_DEF: "Князівство Катеринбурґ"
+ KAT_AVI_fascism_ADJ: "Катеринбурзьк"
+
+ STW_AVI_fascism: "Герцогство Рідуеттер"
+ STW_AVI_fascism_DEF: "Герцогство Рідуеттер"
+ STW_AVI_fascism_ADJ: "Рідуеттерськ"
+
+ GRY_AVI_fascism: "Ерцгерцогство Каїв"
+ GRY_AVI_fascism_DEF: "Ерцгерцогство Каїв"
+ GRY_AVI_fascism_ADJ: "Каївськ"
+
+ GRU_AVI_fascism: "Орденсштаат Ґрифус"
+ GRU_AVI_fascism_DEF: "Орденсштаат Ґрифус"
+ GRU_AVI_fascism_ADJ: "Ґрифуськ"
+
+ GRI_CITY_AVI_fascism: "Вільне місто Грифенгайм"
+ GRI_CITY_AVI_fascism_DEF: "Вільне місто Грифенгайм"
+ GRI_CITY_AVI_fascism_ADJ: "Грифенгаймськ"
+
+ BRF_AVI_fascism: "Князівство Бродфельд"
+ BRF_AVI_fascism_DEF: "Князівство Бродфельд"
+ BRF_AVI_fascism_ADJ: "Бродфельдськ"
+
+ HLR_AVI_fascism: "Лицарський орден Арктурія"
+ HLR_AVI_fascism_DEF: "Лицарський орден Арктурія"
+ HLR_AVI_fascism_ADJ: "Арктурійськ"
+
+ ### ПЕРСОНАЖІ ###
+  AVI_lady_katrina_avian: "Леді Катріна Авіан"
+  LKR_desc: ""
+  AVI_aaron_redtail: "Аарон Редтейл"
+  AVI_lady_kalra_blackclaw: "Леді Калра Блеккло"
+  AVI_trubach_von_zypressen: "Трубах фон Ципрессен"
+  AVI_kaiser_trubach_von_zypressen_i: "Кайзер Трубах фон Ципрессен I"
+  #TRU_desc:0
+
+  ANG_baron_cyrus_i: "Барон Сайрус I"
+  BOI_king_trubach: "Король Трубах"
+  BRF_prince_adagio_i: "Принц Адажіо I"
+  FAT_duke_featherus_i: "Герцог Фезерус I"
+  FEZ_prince_trubach: "Принц Трубах"
+  FLO_archduke_trubach: "Ерцгерцог Трубах"
+  HAU_graf_trubach: "Граф Трубах"
+  HLQ_grand_master_trubach: "Великий магістр Трубах"
+  JER_count_trubach: "Конт Трубах"
+  LAK_baron_trubach: "Барон Трубах"
+  MER_governor_trubach: "Губернатор Трубах"
+  SIC_viscount_trubach: "Віконт Трубах"
+  TRD_lord_protector_trubach: "Лорд-протектор Трубах"
+  VIN_duke_trubach: "Герцог Трубах"
+
+# country_BAN
+ BAN_QUEEN_fascism: "Бандитське королевство Блекрок"
+ BAN_QUEEN_fascism_DEF: "Бандитське королевство Блекголлоу"
+ BAN_QUEEN_fascism_ADJ: "Блекроцьк"
+ BAN_QUEEN_democratic: "Королевство Блекголлоу"
+ BAN_QUEEN_democratic_DEF: "Королевство Блекголлоу"
+ BAN_QUEEN_democratic_ADJ: "Блекголлоуськ"
+ BAN_QUEEN_neutrality: "Королевство Блекголлоу"
+ BAN_QUEEN_neutrality_DEF: "Королевство Блекголлоу"
+ BAN_QUEEN_neutrality_ADJ: "Блекголлоуськ"
+
+ BAN_BOI_fascism: "Бандитське королевство Блекрок"
+ BAN_BOI_fascism_DEF: "Бандитське королевство Блекголлоу"
+ BAN_BOI_fascism_ADJ: "Блекроцьк"
+ BAN_BOI_democratic: "Королевство Грифонстоун"
+ BAN_BOI_democratic_DEF: "Королевство Грифонстоун"
+ BAN_BOI_democratic_ADJ: "Грифонстоунськ"
+ BAN_BOI_neutrality: "Королевство Грифонстоун"
+ BAN_BOI_neutrality_DEF: "Королевство Грифонстоун"
+ BAN_BOI_neutrality_ADJ: "Грифонстоунськ"
+ BAN_BOI_communism: "Наш Грифонстоун"
+ BAN_BOI_communism_DEF: "Наш Грифонстоун"
+ BAN_BOI_communism_ADJ: "Грифонстоунськ"
+
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  BAN_cyrille_bluecrest: "Цирілла Блукрест"
+  BAN_blackrock: "Блекрок"
+  BAN_reeve_blyeddin: "Ріів Бледдин"
+
+  # Ґенерали
+  BAN_kajetan_bronsfeather: "Каєтан Бронзфезер"
+  BAN_dominik_pinfeather: "Домінік Пінфезер"
+  BAN_ulrich_hiperion: "Ульрих Гіперіон"
+
+  # Радники
+  BAN_vellare_hoenbrig: "Велларе Гоенбриґ"
+  BAN_ruqualash_bund: "Руквалаш Бунд"
+  BAN_chronus_roth: "Кронус Рот"
+  BAN_adlar_behrendt: "Адлар Берендт"
+  BAN_raintail_schutz: "Рейнтейл Шюц"
+  BAN_coeus_schutz: "Цеус Шюц"
+  BAN_elmar: "Ельмар"
+  BAN_bluein: "Блуїн"
+  BAN_gaewin: "Ґаевін"
+  BAN_jochen: "Йохен"
+  BAN_huen_bendel: "Гюен Бендель"
+  BAN_aouranos: "Ауранос"
+  BAN_zikoba_gruber: "Зикоба Ґрубер"
+  BAN_phantomcrest_friesinger: "Фантомкрест Фрізинґер"
+  BAN_flatfeathers_suber: "Флетфезерс Субер"
+  BAN_don_adv: "Дон Еспадарте"
+
+# country_BRF
+ ### ПЕРСОНАЖІ ###
+  #BRF_Kloseu_desc:0
+  #BRF_Kloseu_fasc_desc:0
+  BRF_our_king: "Король Клозеу де Кіссау"
+  #BRF_our_king_desc:0
+  BRF_Enrico: "Енріко Ківальдорі"
+  #BRF_Enrico_leader_desc:0
+  BRF_Prelate: "Прелат Деналі"
+  #BRF_Prelate_desc:0
+  benevolent_overlord_2: "Доброзичливий повелитель"
+  BRF_Mason_Of_Sydia: "Масон Сідійський"
+  BRF_Mason_Of_Kivessin: "Масон Ківессинський"
+  BRF_Tomado: "Принц Томадо де Кіссау"
+  BRF_King_Tomado: "Король Томадо де Кіссау"
+  #BRF_Tomado_desc:0
+  BRF_princess_mira: "Принцеса Міра де Кіссау"
+  BRF_Twinkle_Sprinkle: "Твінкл Спринкл"
+  #BRF_Twinkle_Sprinkle_desc:0
+  BRF_Ion_Soimescu: "Іон Соїмеску"
+  BRF_Ion_Soimescu2: "$BRF_Ion_Soimescu$"
+  BRF_Kihai_Vulturita: "Кіхай Вултуріта" # Вултуриця?
+  BRF_Lexandro_Leuescu: "Лександру Леуеску"
+  BRF_Constan_Pryzan: "Константі Прівезан"
+  BRF_king_kloseu_de_kissau: "Король Клозеу де Кіссау"
+  BRF_fasc_king_kloseu_de_kissau: "Король Клозеу «Кондукетор»"
+  BRF_catelin_toderoiu: "Кателін Тодерою"
+  BRF_sycle_coroanargint: "Сайкл Короанарґінт"
+  BRF_Mason_of_Twelt: "Масон Твельтський"
+  #BRF_Walrus_desc:0
+
+ ### КОМПАНІЇ ###
+  BRF_industry_manufacturer: "Металургійний комбінат Ківессина"
+  BRF_refinery: "PetroBrod"
+  BRF_arty_manufacturer: "Королівський арсенал"
+  BRF_medium_tank_manufacturer: "Atelierele Leonida"
+
+ BRF_nonaligned: "Бродфельдська відлига"
+ BRF_democ_welcome_democrats: "Помилувати демократів"
+ BRF_open_borders: "Відкрити кордони"
+
+ BRF_rename_redgladin: "Перейменувати Редґледин у Ківессин"
+
+ BRF_anti_communist_war: "Розпочати священний похід проти держави [From.GetNameDef]"
+ BRF_anti_communist_war_desc: ""
+
+ BRF_Main: "Дерево фокусів Бродфельду"
+ BRF_Mason_Tree: "Дерево фокусів масонів"
+
 # country_FRN
  FRN_karthinia_aquileia_fascism: "Карфінсько-аквілейська імперія"
  FRN_karthinia_aquileia_fascism_DEF: "Карфінсько-аквілейська імперія"
@@ -17,6 +212,219 @@
   FRN_democratic_party_1_long: "Вірність і традиція"
   FRN_democratic_party_2: "РСП"
   FRN_democratic_party_2_long: "Регілійна соціалістична партія"
+
+# country_GRU
+ GRU_kingdom_fascism: "Ґрифуське королівство"
+ GRU_kingdom_fascism_DEF: "Священне Ґрифуське королівство"
+ GRU_kingdom_fascism_ADJ: "Ґрифуськ"
+ GRU_kingdom_democratic: "Ґрифуське королівство"
+ GRU_kingdom_democratic_DEF: "Священне Ґрифуське королівство"
+ GRU_kingdom_democratic_ADJ: "Ґрифуськ"
+ GRU_kingdom_neutrality: "Ґрифуське королівство"
+ GRU_kingdom_neutrality_DEF: "Священне Ґрифуське королівство"
+ GRU_kingdom_neutrality_ADJ: "Ґрифуськ"
+
+ GRU_order_fascism: "Орденсштаат Опінік"
+ GRU_order_fascism_DEF: "Держава Військового ордену Опініка"
+ GRU_order_fascism_ADJ: "Опінікськ"
+ GRU_order_neutrality: "Орденсштаат Опінік"
+ GRU_order_neutrality_DEF: "Держава Військового ордену Опініка"
+ GRU_order_neutrality_ADJ: "Опінікськ"
+
+ GRU_company_fascism: "Ґрифуська компанія південного континенту"
+ GRU_company_fascism_DEF: "Ґрифуська компанія південного континенту"
+ GRU_company_fascism_ADJ: "Ґрифуськ"
+ GRU_company_neutrality: "Ґрифуська компанія південного континенту"
+ GRU_company_neutrality_DEF: "Ґрифуська компанія південного континенту"
+ GRU_company_neutrality_ADJ: "Ґрифуськ"
+
+ BAR_GRU_puppet_fascism: "Орденсмандат Ест" # Ö
+ BAR_GRU_puppet_fascism_ADJ: "Естськ" # Ö
+ BAR_GRU_puppet_fascism_DEF: "Східний мандат Військового ордену Опініка"
+ BAR_GRU_puppet_neutrality: "Орденсмандат Ест" # Ö
+ BAR_GRU_puppet_neutrality_ADJ: "Естськ" # Ö
+ BAR_GRU_puppet_neutrality_DEF: "Східний мандат Військового ордену Опініка"
+
+ WIT_GRU_puppet_fascism: "Орденсмандат Норден"
+ WIT_GRU_puppet_fascism_ADJ: "Норденськ"
+ WIT_GRU_puppet_fascism_DEF: "Північний мандат Військового ордену Опініка"
+ WIT_GRU_puppet_neutrality: "Орденсмандат Норден"
+ WIT_GRU_puppet_neutrality_ADJ: "Норденськ"
+ WIT_GRU_puppet_neutrality_DEF: "Північний мандат Військового ордену Опініка"
+
+ GRY_GRU_puppet_fascism: "Орденспротекторат Козакенланд"
+ GRY_GRU_puppet_fascism_DEF: "Козацький протекторат Військового ордену Опініка"
+ GRY_GRU_puppet_fascism_ADJ: "Козакенландськ"
+ GRY_GRU_puppet_neutrality: "Орденспротекторат Козакенланд"
+ GRY_GRU_puppet_neutrality_DEF: "Козацький протекторат Військового ордену Опініка"
+ GRY_GRU_puppet_neutrality_ADJ: "Козакенландськ"
+
+ NIM_GRU_puppet_fascism: "Кюстенрайх"
+ NIM_GRU_puppet_fascism_DEF: "Прибережне Священне Царство"
+ NIM_GRU_puppet_fascism_ADJ: "Кюстенрайхськ"
+
+ RCT_GRU_puppet_fascism: "Флюсштадт"
+ RCT_GRU_puppet_fascism_DEF: "Вільне місто Рієка"
+ RCT_GRU_puppet_fascism_ADJ: "Флюсштадтськ"
+
+ DMT_GRU_puppet_fascism: "Гундерайх"
+ DMT_GRU_puppet_fascism_DEF: "Священне Царство Гончих"
+ DMT_GRU_puppet_fascism_ADJ: "Гундерайхськ"
+
+ LCT_GRU_puppet_fascism: "Орденсштаат Геллсуорд"
+ LCT_GRU_puppet_fascism_DEF: "Лицарський орден Геллсуорда"
+ LCT_GRU_puppet_fascism_ADJ: "Геллсуордськ"
+
+ ZES_GRU_company_neutrality: "ТОВ «Каза Голдинґс»"
+ ZES_GRU_company_neutrality_DEF: "ТОВ «Каза Голдинґс»"
+ ZES_GRU_company_neutrality_ADJ: "Казинськ"
+
+ OLV_GRU_company_neutrality: "Особлива економічна область Ейстюрланд"
+ OLV_GRU_company_neutrality_DEF: "Особлива економічна область Ейстюрланд"
+ OLV_GRU_company_neutrality_ADJ: "Ейстюрландськ"
+
+ BAR_GRU_company_neutrality: "Баррадський кондомініум"
+ BAR_GRU_company_neutrality_DEF: "Ґрифуський кондомініум Баррад"
+ BAR_GRU_company_neutrality_ADJ: "Баррадськ"
+
+ BRF_GRU_company_neutrality: "Рільнича корпорація долини Еві"
+ BRF_GRU_company_neutrality_DEF: "Рільнича корпорація долини Еві"
+ BRF_GRU_company_neutrality_ADJ: "Евійськ"
+
+ GRW_GRU_company_neutrality: "Прайвенська агрохімічна фірма"
+ GRW_GRU_company_neutrality_DEF: "Прайвенська агрохімічна фірма"
+ GRW_GRU_company_neutrality_ADJ: "Прайвенськ"
+
+ GRY_GRU_company_neutrality: "Каївська корпоратократія"
+ GRY_GRU_company_neutrality_DEF: "Каївська корпоратократія"
+ GRY_GRU_company_neutrality_ADJ: "Каївськ"
+
+ WIT_GRU_company_neutrality: "Віттенлендська інвестиційна зона"
+ WIT_GRU_company_neutrality_DEF: "Віттенлендська інвестиційна зона"
+ WIT_GRU_company_neutrality_ADJ: "Віттенлендськ"
+
+ FRE_GRU_company_neutrality: "Територія Понайської компанії"
+ FRE_GRU_company_neutrality_DEF: "Територія Понайської компанії"
+ FRE_GRU_company_neutrality_ADJ: "Понайськ"
+
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  GRU_yeve_de_viartorre: "Єве де Віарторре"
+  GRU_provisional_council: "Тимчасова рада"
+  GRU_gerhardt_weissfisch: "Ґергардт Вайсфіш"
+  GRU_revolutionary_coalition: "Революційна коаліція"
+  GRU_edward_piorowski: "Едвард Пюровський"
+  GRU_aniela_gryfon: "Анєля Ґрифонь"
+
+  # Маріонеткові лідери
+  GRU_dog_leader_name: "Визволитель Юрґен Маунтеншілд"
+  GRU_coast_leader_name: "Адмірал Лукас Юнґинґен"
+  GRU_city_leader_name: "Леді Марія фон Рієка"
+
+  # Ґенерали
+  GRU_master_of_war_craft: "Майстер воєнного ремесла"
+  GRU_jurgen_von_grypsburg: "Юрґен фон Ґрипсбурґ"
+  GRU_albus_piscis: "Альбус Пісціс"
+  GRU_dobrawa_brzozowska: "Добрава Бжозовська"
+  GRU_jaspis_bialoryb: "Яспіс Бялориб"
+
+  # Адмірали
+  GRU_fernando_pescada: "Фернандо Пескада"
+  GRU_matthias_felchen: "Маттіас Фельхен"
+
+  # Радники
+  GRU_Prelate: "Прелат Йоган Кло"
+  GRU_advisor_1: "Енріке Плюмадорада"
+  GRU_advisor_2: "Елена Ґарратруено"
+  GRU_advisor_3: "Антоніо Алав'єнто"
+  GRU_advisor_4: "Міхаель Пфанкюхмайстер"
+  GRU_advisor_5: "Лютер фон Брауншнабель"
+  GRU_advisor_6: "Маріан Валєнтинович"
+  GRU_advisor_7: "Єжи Борейша"
+  GRU_advisor_8: "Анджей Вайха"
+  GRU_advisor_9: "Ванда Васілевська"
+  GRU_advisor_10: "Едвард Длуґий"
+
+  GRU_advisor_11: "Майстер Зибранд"
+  GRU_advisor_12: "Ґжеґож Бженчищикєвич"
+
+  GRU_advisor_13: "Крістобаль Аласьєло"
+  GRU_advisor_14: "Енґельгард Рабе фон Тіфбруннен"
+  GRU_advisor_15: "Зиґмунт Берлінґ"
+  GRU_advisor_16: "Едмунд Кнолль-Ковнацький"
+
+  GRU_advisor_17: "Хав'єр Унанегра"
+  GRU_advisor_18: "Ернст фон Ґрипсбурґ"
+  GRU_advisor_19: "Здзіслав Краснодембський"
+  GRU_advisor_20: "Станіслав Сосабовський"
+
+  GRU_advisor_21: "Людвиґ фон Аєрсгаузен"
+  GRU_advisor_22: "Ісабель Алафеліс"
+  GRU_advisor_23: "Юзеф Унруґ"
+  GRU_advisor_24: "Єжи Туманішвілі"
+
+  GRU_advisor_25: "Зіґфрід фон Фойхтфлюґель"
+  GRU_advisor_26: "Хосе Антоніо Пікоальто"
+  GRU_advisor_27: "Еміліо Ґарраокульта"
+  GRU_advisor_28: "Ґотфрід фон Гогенфоґель"
+  GRU_advisor_29: "Войцєх Карузельський"
+  GRU_advisor_30: "Антоні Шиллінґ"
+  GRU_advisor_31: "Мєчислав Чарний"
+  GRU_advisor_32: "Людвік Кмічич"
+
+ ### КОНЦЕРНИ ###
+  GRU_infantry_concern: "Зброярня Ордену Опініка"
+  GRU_artillery_concern: "Збройовий завод Балісмонта"
+  GRU_light_tank_concern: "Автофабрика Камафеу"
+  GRU_medium_tank_concern: "Машинобудівні заводи Тіфбруннена"
+  GRU_light_air_concern: "Авіакомпанія Колегіо"
+  GRU_heavy_air_concern: "Авіабаза Еріешлоса"
+  GRU_raiding_naval_concern: "Верф Віарторре"
+  GRU_defence_naval_concern: "Суднобудівні верфі Ріапорту"
+  GRU_industrial_concern: "Лісозаготівельна компанія Нічного лісу"
+  GRU_electronics_concern: "Університет Колегіо"
+
+ GRU_COMMIE_ALLIANCE: "Ріапортуський пакт"
+
+ GRU_vp_nova_aviaria: "Нова-Авіарія"
+ GRU_vp_schloss_edelweiss: "Шлос Едельвайс"
+ GRU_vp_schloss_feuerufer: "Шлос Фоєруфер"
+ GRU_vp_schloss_red_incel: "Шлос Рьотеінзель" # Ø
+ GRU_vp_gryfow: "Ґрифув"
+ GRU_state_tierra_purpura: "Тьєрра-Пурпура"
+ GRU_state_praia_seca: "Прая-Сека"
+ GRU_state_renani: "Ренані"
+
+# country_GRW
+ ### ПЕРСОНАЖІ ###
+  GRW_Mandarin: "Мандарин Фезерин"
+  GRW_Cynthia: "Цинтія"
+  GRW_Murkfeathers: "Меркфезерс"
+  GRW_Dakaran_Begone: "Дакаран Біґон"
+  GRW_Theresa: "Тереза"
+  GRW_Witia: "Вітія Грифон"
+  GRW_Phanes: "Фейнз"
+  GRW_Andor: "Андор"
+  GRW_Duskfluffian: "Даскфлаффіан"
+  GRW_Searaider: "Алікс Пайнз"
+  GRW_Theresa_2: "$GRW_Theresa$"
+  GRW_Brandon_Swift: "Брендон Свіфт"
+  GRW_Finbol: "Файнал Бол"
+  GRW_Bart_Herbs: "Барт Гербз"
+  GRW_Iegov: "Єґов"
+  GRW_Ludochka: "Людочка"
+  GRW_advisor18: "Ракетник"
+  GRW_dorian_of_brodfeld: "Доріан Бродфельдський"
+  GRW_princip_meyer_brantbeak: "Принцип Маєр Брентбік"
+  GRW_president_beam_bruno: "Бім Бруно"
+  GRW_comradegeneral_filip_redglad: "Філіп Редґлед"
+  GRW_richard_spear: "Ричард Спір"
+  GRW_rain_twister: "Рейн Твістер"
+  GRW_koldvin: "Колдвін"
+  GRW_gheara_ciocescu: "Ґяра Чоческу"
+  GRW_pirate_yellow_beak: "Пірат Єллоу Бік"
+
+ GRW_redgladin_state: "Редґледин"
 
 # country_JES
  ### ПАРТІЇ ###
@@ -36,6 +444,300 @@
   JES_leontina_chief: "Леонтіна Пандьйонн"
   JES_air_reformer_chief: "План-Воль Левек"
   JES_cavalry_commander: "Моніка Левавассьор" # EU
+
+# country_LUS
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  LUS_prince_elias_whitecrest: "Князь Еліас Уайткрест"
+  LUS_king_elias_i_whitecrest: "Король Еліас I Уайткрест"
+  LUS_prince_gerar_whitecrest: "Князь Жерар Уайткрест"
+  LUS_king_gerar_ii_whitecrest: "Король Жерар II Уайткрест"
+  LUS_toridan: "Торідан"
+  LUS_razech_oumont: "Разех Умонт"
+
+  # Ґенерали
+  LUS_hilbert_forsher: "Гільберт Форшер"
+  LUS_scar_screaming_eagle_blackkryl: "Скар «Screaming Eagle» Блеккрил"
+  LUS_bodier: "Бодьє"
+  LUS_perakeyi: "Перакей"
+  LUS_petya: "Петя"
+  LUS_punk: "Панк"
+  LUS_destroyer_of_every_world_possible: "Руйнівник усіх можливих світів"
+
+  # Радники
+  princess_mira: "Княгина Міра Уайткрест"
+  LUS_karkarich: "Кар Карич"
+  LUS_war_industrialist: "Река Омонт"
+  LUS_prince_of_terror: "Ференц Сарні"
+  LUS_Lord_Drak_Army_chief: "Марвен Драк"
+  LUS_Zsofia_Neel: "Жофія Ніл" # Ньїл
+  LUS_Horty_Makkorty: "Горті Маккорті"
+  LUS_Dormin_Ghalk: "Дормін Галк"
+  LUS_scar_blackkryl: "Ортур Чьорґеї" # Ø # Åртур
+  LUS_peter_brigand: "Пийтер Бріґанд"
+  LUS_barto_miroven: "Кором Борта" # Кåром Бåртå
+  LUS_crovin_laar: "Корвін Лоар" # Лåар
+  LUS_clover_weaponry: "Erus Acel"
+  LUS_arty_manufacture: "Артилерійська компанія «Nagy Fegyverek»"
+  LUS_afli_masters: "Ґільдія майстрів Афлі"
+  LUS_lushian_polytechnics: "Люшійський політех"
+  LUS_Nedhern: "КБ Йожефа Ґоломба" # Ґåлåмб
+  LUS_barman: "КБ «Ширяючі крила»"
+  LUS_bork: "Вітрильна компанія річки Прай"
+  LUS_prywhen_research_com: "Дослідження з Прайвеном"
+  LUS_GRW_lushi_research_com: "Дослідження з Люші"
+
+# country_MAN&ELF
+ ELF_prench_institute: "Пранцузький інститут"
+ ELF_manehattan_science_institute: "Мейнгеттенський політех"
+ ELF_armoury_of_detrot: "Зброярня Детрота"
+ ELF_fillydelphia_motors: "$fillydelphia_arms$"
+ ELF_stratusburg_air: "$EQS_stratus$"
+ ELF_seaward_shoals: "$seaward$"
+
+ ELF_mustang: "$mustang$"
+ ELF_shoof: "$shoof$"
+ ELF_sirius: "$sirius$"
+
+ autonomy_de_jure_puppet: "Де-юре маріонетка"
+
+ MAN_CHN_autonomous_fascism: "Мейнгеттенський автономний протекторат"
+ MAN_CHN_autonomous_fascism_DEF: "Автономний уряд чейнджлінзького протекторату Мейнгеттену та Східної Еквестрії"
+ MAN_CHN_autonomous_fascism_ADJ: "Мейнгеттенськ"
+ MAN_CHN_autonomous_democratic: "Мерство Східної Еквестрії"
+ MAN_CHN_autonomous_democratic_DEF: "Мерство Мейнгеттену та Східної Еквестрії"
+ MAN_CHN_autonomous_democratic_ADJ: "Східноеквестрійськ"
+ MAN_CHN_autonomous_neutrality: "Автономний уряд Східної Еквестрії"
+ MAN_CHN_autonomous_neutrality_DEF: "Автономний уряд Мейнгеттену та Східної Еквестрії"
+ MAN_CHN_autonomous_neutrality_ADJ: "Східноеквестрійськ"
+ MAN_CHN_autonomous_communism: "Народний уряд Східної Еквестрії"
+ MAN_CHN_autonomous_communism_DEF: "Народний уряд Мейнгеттену та Східної Еквестрії"
+ MAN_CHN_autonomous_communism_ADJ: "Східноеквестрійськ"
+
+ MAN_CHN_republic_fascism: "Домініон Східної Еквестрії"
+ MAN_CHN_republic_fascism_DEF: "Домініон Федерації Східної Еквестрії"
+ MAN_CHN_republic_fascism_ADJ: "Східноеквестрійськ"
+ MAN_CHN_republic_neutrality: "Республіка Східної Еквестрії"
+ MAN_CHN_republic_neutrality_DEF: "Конфедеративна республіка Східної Еквестрії"
+ MAN_CHN_republic_neutrality_ADJ: "Східноеквестрійськ"
+ MAN_CHN_republic_communism: "Соціалістичний союз Східної Еквестрії"
+ MAN_CHN_republic_communism_DEF: "Соціалістичний союз Східної Еквестрії"
+ MAN_CHN_republic_communism_ADJ: "Східноеквестрійськ"
+ MAN_CHN_republic_democratic: "Демократична федерація Східної Еквестрії"
+ MAN_CHN_republic_democratic_DEF: "Демократична федерація Східної Еквестрії"
+ MAN_CHN_republic_democratic_ADJ: "Східноеквестрійськ"
+
+ STG_MAN_CHN_mandate_fascism: "Сєвєрянська держава"
+ STG_MAN_CHN_mandate_fascism_DEF: "Захищена держава Сєвєряна"
+ STG_MAN_CHN_mandate_fascism_ADJ: "Сєвєрянськ"
+
+ EQC_MAN_CHN_mandate_fascism: "Мандат Нового Мейрленду"
+ EQC_MAN_CHN_mandate_fascism_DEF: "Чейнджлінзько-еквестрійський спільний мандат Нового Мейрленду"
+ EQC_MAN_CHN_mandate_fascism_ADJ: "Новомейрлендськ"
+
+ DRG_MAN_CHN_mandate_fascism: "Залежні драконячі землі"
+ DRG_MAN_CHN_mandate_fascism_DEF: "Залежна територія Драконячих земель"
+ DRG_MAN_CHN_mandate_fascism_ADJ: "Драконяч"
+
+ HAU_MAN_CHN_mandate_fascism: "Комісаріат Гаукленд"
+ HAU_MAN_CHN_mandate_fascism_DEF: "Чейнджлінзько-еквестрійська Гауклендська комісія"
+ HAU_MAN_CHN_mandate_fascism_ADJ: "Гауклендськ"
+
+ FEZ_MAN_CHN_mandate_fascism: "Фезерський тридомініум"
+ FEZ_MAN_CHN_mandate_fascism_DEF: "Чейнджлінзько-еквестрійсько-грифонський Фезерський тридомініум"
+ FEZ_MAN_CHN_mandate_fascism_ADJ: "Фезерськ"
+
+ PNG_MAN_CHN_mandate_fascism: "Бореальний протекторат"
+ PNG_MAN_CHN_mandate_fascism_DEF: "Чейнджлінзько-еквестрійський Протекторат Бореальних територій"
+ PNG_MAN_CHN_mandate_fascism_ADJ: "Бореальн"
+
+ VED_MAN_CHN_mandate_fascism: "Ведінське регентство"
+ VED_MAN_CHN_mandate_fascism_DEF: "Уряд Королівства Ведіна в період міжцарів'я"
+ VED_MAN_CHN_mandate_fascism_ADJ: "Ведінськ"
+
+ ELF_commonwealth_fascism: "Еквестрійська Співдружність"
+ ELF_commonwealth_fascism_DEF: "Співдружність еквестрійських монархічних автономій"
+ ELF_commonwealth_fascism_ADJ: "Еквестрійськ"
+ ELF_commonwealth_neutrality: "Еквестрійська Співдружність"
+ ELF_commonwealth_neutrality_DEF: "Співдружність еквестрійських монархічних автономій"
+ ELF_commonwealth_neutrality_ADJ: "Еквестрійськ"
+ ELF_commonwealth_communism: "Еквестрійська Співдружність"
+ ELF_commonwealth_communism_DEF: "Співдружність еквестрійських монархічних автономій"
+ ELF_commonwealth_communism_ADJ: "Еквестрійськ"
+ ELF_commonwealth_democratic: "Еквестрійська Співдружність"
+ ELF_commonwealth_democratic_DEF: "Співдружність еквестрійських монархічних автономій"
+ ELF_commonwealth_democratic_ADJ: "Еквестрійськ"
+
+ CHN_ELF_military_occupation_democratic: "Еквестрійсько-чейнджлінзькі окуповані території"
+ CHN_ELF_military_occupation_democratic_DEF: "Еквестрійська окупаційна територія Земель Чейнджлінґів"
+ CHN_ELF_military_occupation_democratic_ADJ: "Еквестрійсько-чейнджлінзьк"
+
+ ELF_ask_for_states_back: "Відновлення Еквестрії"
+ ELF_ask_for_states_back_desc: "Ми були не єдині в боротьбі проти загрози чейнджлінґів; багато інших держав світу допомогли нам у наших визвольних зусиллях. Однак деякі еквестрійські території, визволені з-під окупації чейнджлінґів, перебувають під контролем цих союзників, і вони мусять негайно повернутися до нас." # (&)
+ ELF_ask_for_states_back_decision: "Переговори про відновлення"
+ ELF_ask_for_states_back_decision_desc: "Ми об'єдналися супротив спільного ворога, але нашим союзникам слід дати відшкодувати втрати, пережиті в боротьбі за визволення Еквестрії та її поні від гніту чейнджлінґів. Борги перед ним стануть важким тягарем для нашої молодої свободи, але врешті-решт це прийнятна ціна." # (&)
+
+# country_MNC
+ MNC_b_kingdom_fascism: "Королівство Уайттейл"
+ MNC_b_kingdom_fascism_DEF: "Королівство Уайттейл"
+ MNC_b_kingdom_fascism_ADJ: "Уайттейльськ"
+ MNC_b_kingdom_democratic: "Уайттейльська республіка"
+ MNC_b_kingdom_democratic_DEF: "Уайттейльська республіка"
+ MNC_b_kingdom_democratic_ADJ: "Уайттейльськ"
+ MNC_b_kingdom_neutrality: "Королівство Уайттейл"
+ MNC_b_kingdom_neutrality_DEF: "Королівство Уайттейл"
+ MNC_b_kingdom_neutrality_ADJ: "Уайттейльськ"
+ MNC_b_kingdom_communism: "Уайттейльська соціалістична республіка"
+ MNC_b_kingdom_communism_DEF: "Уайттейльська соціалістична республіка"
+ MNC_b_kingdom_communism_ADJ: "Уайттейльськ"
+
+ ### ПАРТІЇ ###
+  MNC_neutrality_party: "Гірські клани"
+  MNC_communism_party: "БРП"
+  MNC_communism_party_long: "Брентбіцька робітнича партія"
+  MNC_democratic_party: "СДПБ"
+  MNC_democratic_party_long: "Соціал-демократична партія Брентбіку"
+  MNC_fascism_party: "Лоялісти Санстрайкера"
+
+  MNC_traitors: "Поклонники Маара"
+  MNC_traitors_long: "Поклонники Маара"
+  MNC_kingdom: "УКЛ"
+  MNC_kingdom_long: "Уайттейльська королівська ліга"
+  MNC_kingdom_m: "УКЛ"
+  MNC_kingdom_m_long: "Уайттейльська королівська ліга"
+  MNC_free_democratic: "УРП"
+  MNC_free_democratic_long: "Уайттейльська республіканська партія"
+  MNC_free_communism: "УТП"
+  MNC_free_communism_long: "Уайттейльська трудова партія" # (&?)
+  MNC_true_communism: "УКП"
+  MNC_true_communism_long: "Уайттейльська комуністична партія"
+
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  MNC_eriviar_sunstriker: "Ерівіар Санстрайкер"
+  MNC_runa_teafeather: "Руна Тіфезер"
+  MNC_guntbert_greyfeather: "Ґунтберт Ґрейфезер"
+  MNC_einar_steelbeak: "Ейнар Стілбік"
+  MNC_istvan_firebeak: "Іштван Файрбік"
+
+# country_OLV
+ OLV_kingdom_fascism: "Рейтндіраланд"
+ OLV_kingdom_fascism_DEF: "Рейтндіраланд"
+ OLV_kingdom_fascism_ADJ: "Рейтндіраландськ"
+ OLV_kingdom_democratic: "Рейтндіраланд"
+ OLV_kingdom_democratic_DEF: "Рейтндіраланд"
+ OLV_kingdom_democratic_ADJ: "Рейтндіраландськ"
+ OLV_kingdom_neutrality: "Рейтндіраланд"
+ OLV_kingdom_neutrality_DEF: "Рейтндіраланд"
+ OLV_kingdom_neutrality_ADJ: "Рейтндіраландськ"
+ OLV_kingdom_communism: "Рейтндіраланд"
+ OLV_kingdom_communism_DEF: "Рейтндіраланд"
+ OLV_kingdom_communism_ADJ: "Рейтндіраландськ"
+
+ OLV_rike_fascism: "Рейтндіраланд"
+ OLV_rike_fascism_DEF: "Рейтндіраланд"
+ OLV_rike_fascism_ADJ: "Рейтндіраландськ"
+ OLV_rike_democratic: "Рейтндіраланд"
+ OLV_rike_democratic_DEF: "Рейтндіраланд"
+ OLV_rike_democratic_ADJ: "Рейтндіраландськ"
+ OLV_rike_neutrality: "Рейтндіраланд"
+ OLV_rike_neutrality_DEF: "Рейтндіраланд"
+ OLV_rike_neutrality_ADJ: "Рейтндіраландськ"
+ OLV_rike_communism: "Рейтндіраланд"
+ OLV_rike_communism_DEF: "Рейтндіраланд"
+ OLV_rike_communism_ADJ: "Рейтндіраландськ"
+
+ OLV_commie_fascism: "Ейстюрланд"
+ OLV_commie_fascism_DEF: "Ейстюрланд"
+ OLV_commie_fascism_ADJ: "Ейстюрландськ"
+ OLV_commie_democratic: "Ейстюрланд"
+ OLV_commie_democratic_DEF: "Ейстюрланд"
+ OLV_commie_democratic_ADJ: "Ейстюрландськ"
+ OLV_commie_neutrality: "Ейстюрланд"
+ OLV_commie_neutrality_DEF: "Ейстюрланд"
+ OLV_commie_neutrality_ADJ: "Ейстюрландськ"
+ OLV_commie_communism: "РСР Ейстюрланд" # SOV
+ OLV_commie_communism_DEF: "Радянська соціалістична республіка Ейстюрланд"
+ OLV_commie_communism_ADJ: "Ейстюрландськ"
+
+ OLV_commie_2_fascism: "Ейстюрланд"
+ OLV_commie_2_fascism_DEF: "Ейстюрланд"
+ OLV_commie_2_fascism_ADJ: "Ейстюрландськ"
+ OLV_commie_2_democratic: "Ейстюрланд"
+ OLV_commie_2_democratic_DEF: "Ейстюрланд"
+ OLV_commie_2_democratic_ADJ: "Ейстюрландськ"
+ OLV_commie_2_neutrality: "Ейстюрланд"
+ OLV_commie_2_neutrality_DEF: "Ейстюрланд"
+ OLV_commie_2_neutrality_ADJ: "Ейстюрландськ"
+ OLV_commie_2_communism: "РСР Ленсімаа" # SOV
+ OLV_commie_2_communism_DEF: "Радянська соціалістична республіка Ленсімаа"
+ OLV_commie_2_communism_ADJ: "Ленсімааськ"
+
+ OLV_commie_3_fascism: "Ейстюрланд"
+ OLV_commie_3_fascism_DEF: "Ейстюрланд"
+ OLV_commie_3_fascism_ADJ: "Ейстюрландськ"
+ OLV_commie_3_democratic: "Ейстюрланд"
+ OLV_commie_3_democratic_DEF: "Ейстюрланд"
+ OLV_commie_3_democratic_ADJ: "Ейстюрландськ"
+ OLV_commie_3_neutrality: "Ейстюрланд"
+ OLV_commie_3_neutrality_DEF: "Ейстюрланд"
+ OLV_commie_3_neutrality_ADJ: "Ейстюрландськ"
+ OLV_commie_3_communism: "РСР Пеуроєнмаа" # SOV
+ OLV_commie_3_communism_DEF: "Радянська соціалістична республіка Пеуроєнмаа"
+ OLV_commie_3_communism_ADJ: "Пеуроєнмааськ"
+
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  OLV_jarl_ygritte_bylgjasdottir: "Ярл Іґрітт Бюлґ'ясдоуттір"
+  OLV_queen_ygritte_bylgjasdottir: "Королева Іґрітт Бюлґ'ясдоуттір"
+  OLV_ygritte_bylgjasdottir: "Іґрітт Бюлґ'ясдоуттір"
+  OLV_ulfdis_aresdottir: "Ульфдіс Аресдоуттір"
+  OLV_jorundur_reinhartsson: "Йорюндюр Рейнгартссон"
+  OLV_einvardur_blaivarsson: "Ейнвардюр Блайварссон"
+  OLV_gulrain_lisvaldr: "Ґюльрайн Лісвальдр"
+
+  # Ґенерали
+  OLV_thane_einir_solmarsson: "Тан Ейнір Солмарссон"
+  OLV_thane_herlaugur: "Тан Герльойґюр" # ŒY
+  OLV_thane_heikirsson: "Тан Гейкірссон"
+  OLV_hjarnar_ernstsson: "Гярнар Ернстссон"
+  OLV_svali_reinhartsson: "Свалі Рейнгартссон"
+  OLV_hansa_kristbergursdottir: "Ганса Крістберґюрсдоуттір"
+  OLV_freyvidur_jureksson: "Фрейвідюр Юрекссон"
+  OLV_valto_luoma: "Валто Луома"
+  OLV_ritva_rasanen: "Рітва Рясянен" # Æ
+
+  # Адмірали
+  OLV_sigri_kormaksson: "Сіґрі Кормаукссон"
+  OLV_gytta_jakopsdottir: "Ґітта Якопсдоуттір"
+
+  # Радники
+  OLV_seer_adv: "Фарґрім Гафссон"
+  OLV_priest_adv: "Аллсгер'ярґоді Скьольдюр" # Œ
+  OLV_neutrality_prime_minister: "Асбйорн Галльґілссон"
+  OLV_democratic_prime_minister: "Юрек Валґардюрссон"
+  OLV_secret_police_chief: "Ріікка Ерккіля" # Æ
+  OLV_advisor_1: "Стекк'ярстьойр Жердина-З-Кошари" # ŒY
+  OLV_advisor_2: "Ґільяґьойр Канавний-Йолоп" # ŒY
+  OLV_advisor_3: "Стувюр Обрубок"
+  OLV_advisor_4: "Гюрдаскетлір Гупальник-Дверима"
+  OLV_advisor_5: "Поттаскефітль Горшкошкряб"
+  OLV_advisor_6: "Аскаслейкір Мисколиз"
+  OLV_advisor_7: "Твьоруслейкір Ложколиз" # Œ
+  OLV_advisor_8: "Скірґаумюр Скірний-Ненажера"
+  OLV_advisor_9: "Б'юґнакрайкір Ковбасохоп"
+  OLV_advisor_10: "Ґлюґґаґайїр Підглядач-У-Вікна"
+  OLV_advisor_11: "Ґауттатевюр Дверний-Винюхувач"
+  OLV_advisor_12: "Кеткроукюр М'ясний-Гак"
+  OLV_advisor_13: "Кертаснікір Свічковий-Жебрак"
+  OLV_advisor_14: "Ґвюдрьодюр Гюніссон" # Œ
+  OLV_advisor_15: "Бальдюр Гінрікссон"
+  OLV_advisor_16: "Астґердюр Торґаутюрсдоуттір"
+  OLV_advisor_17: "Ноура Фрідлауґсдоуттір"
+  OLV_advisor_18: "Ісбйорн Беноуніссон"
+  OLV_advisor_19: "Сіґюрдоур Еллертссон"
+  OLV_advisor_20: "Аурвьок Ріккадоуттір" # Œ
+  OLV_advisor_21: "Байрінґ Г'єдінссон"
 
 # country_SCS
  ### ПАРТІЇ ###
@@ -119,6 +821,109 @@
   TBK_took_cuts: "Недофінансована держава"
   TBK_amended_republic: "$TBK_fake_republic$"
   TBK_amended_republic_desc: "$TBK_fake_republic_desc$\n\nНещодавні вибори загалом знайшли підтримку громадськості, але певна злоба лишається; адже ще треба вирішити так помітну урядову корупцію. Васіле зробить усе на краще для держави, чи не так?" # (&)
+
+# country_ZES
+ ZES_lua_republic: "Республіка Каза"
+ ZES_lua_republic_DEF: "Республіка Каза"
+ ZES_lua_republic_ADJ: "Казинськ"
+
+ ZES_confederation: "Вільна конфедерація Каза"
+ ZES_confederation_DEF: "Вільна конфедерація Каза"
+ ZES_confederation_ADJ: "Казинськ"
+
+ ZES_pasarinha_state: "Каза"
+ ZES_pasarinha_state_DEF: "Каза"
+ ZES_pasarinha_state_ADJ: "Казинськ"
+
+ ZES_confederation_2: "Конфедерація Каза-Рейтндіраланд"
+ ZES_confederation_2_DEF: "Конфедерація Каза-Рейтндіраланд"
+ ZES_confederation_2_ADJ: "Конфедеративн"
+
+ ### ІДЕЇ ###
+  ZES_xatisa: "Шатіза" # на потім. ~ L.H.
+  ZES_xatisa_lua_1: "$ZES_xatisa$"
+  ZES_xatisa_lua_2: "$ZES_xatisa$"
+  ZES_xatisa_lua_3: "$ZES_xatisa$"
+  ZES_xatisa_lua_4: "$ZES_xatisa$"
+  ZES_xatisa_pasarinha_1: "$ZES_xatisa$"
+  ZES_xatisa_pasarinha_2: "$ZES_xatisa$"
+  ZES_xatisa_pasarinha_3: "$ZES_xatisa$"
+  ZES_xatisa_pasarinha_4: "$ZES_xatisa$"
+  ZES_xatisa_yrmthu_pockets: "$ZES_xatisa$"
+  ZES_xatisa_yrmthu_charity: "$ZES_xatisa$"
+  ZES_xatisa_yrmthu_pockets_charity: "$ZES_xatisa$"
+  ZES_xatisa_yrmthu_friendship: "$ZES_xatisa$"
+  ZES_xatisa_yrmthu_guild_1: "$ZES_xatisa$"
+  ZES_xatisa_altu_1: "$ZES_xatisa$"
+  ZES_xatisa_altu_fortress_1: "$ZES_xatisa$"
+  ZES_xatisa_altu_fortress_2: "$ZES_xatisa$"
+  ZES_xatisa_altu_militant_1: "$ZES_xatisa$"
+  ZES_xatisa_altu_militant_2: "$ZES_xatisa$"
+
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  ZES_verde_pasto: "Верде Пашту"
+  ZES_rocha_salgada: "Роча Салгада"
+  ZES_nascente_brava: "Нашсенте Брава"
+  ZES_mansu_erba: "Мансу Ерба"
+  ZES_the_kasa_advisory_council: "Консультативна рада Кази"
+  ZES_lua_ramedi: "Люа Рамеді"
+  ZES_pasarinha: "Пазаріня"
+  ZES_yrmthu: "Ірмту"
+  ZES_altu_kexa: "Алту Кеша"
+
+  # Ґенерали
+  ZES_solano_lobu: "Сулану Лобу"
+  ZES_amaltia_vispo: "Амалтія Вішпу"
+  ZES_wojtek: "Войтек"
+  ZES_katia: "Катя"
+  ZES_alfred: "Альфред"
+  ZES_hasek: "Гашек"
+  ZES_jan_brazowy: "Ян Бронзовий"
+  ZES_tomasz_tauronowski: "Томаш Тауроновський"
+
+  # Адмірали
+  ZES_chane_haoniyao: "Чан Хаоніяо"
+
+  # Радники
+  ZES_bicoafi: "Бікоафі Болса"
+  ZES_eala: "Еала"
+
+  ZES_heart: "Чоузен Гарт"
+  #ZES_heart_desc:0 "Born in the Crystal Empire, Chosen Heart found herself in a world on the precipice of upheaval. A survivor of Sombra's reign, and student of psychology, she found herself enslaved by the Dark King until the intervention of the Equestrian Princesses. Yet even on the Empire's return, even once a new Crystal Princess sat upon the throne, not all was well. The year was 1000, and to the west an endless horde of changelings conspired, while a famine to the east led ponies to rebel against Equestria. All while her fellow crystal ponies refused to acknowledge the turmoil brewing around them. Survivors of tyranny, unwilling to prevent others from suffering as they had.\n\nTravelling first to Canterlot, she found the same willful ignorance despite the weekly crises that struck even small towns. Growing disillusioned with her fellow ponies, she chose to strike out on her own. She travelled east across the great Celestial Sea to New Mareland, finding a colony just as incapable of helping those outside their borders. Unwilling to stand by, and with no other options, she began to wander Griffonia. Facing discrimination for her hooves and dulled coat, she found safety alongside a griffoness by the name of Gerina. Together they worked to rescue and aid the downtrodden with words, food, and finally liberation. Their journey ended in a caravan with those they had liberated, travelling to a small nation known as Kása.\n\nThe year was 1002, and Chosen Heart found herself in a world on the precipice of upheaval. Discovering her friend Gerina was part of the Kásan Skapatoria Programa, she chose to become a full citizen of Kása. Joining the Skapatoria herself, and marrying Gerina along the way, she rose swiftly through the ranks thanks to her talent and creative application of her psychology studies. Finally having found a place she could make a difference, she dedicated herself entirely to the Skapatoria's purpose: liberation for all. By 1006 she would find herself standing at the shoulder of A avo di Kása, Mansu Erba. Whispering reports and findings from Operação Liberdade into the beloved Grandmother of Kása's ear, clad in the white robes of her station as head of the Skapatoria. As the Kásan Advisory Counsel of 1007 loomed, the Light of Kása burned bright once more, held in crystalline hooves."
+
+  ZES_busaro: "Бусару Сабіда"
+  ZES_salijah: "Саліжа Болса"
+  ZES_steina: "Карл Стейнар"
+  ZES_entono: "Ентоно Пневма"
+  ZES_obsidian: "Обсидіан Шайн"
+  ZES_alicja: "Аліція Шамінська"
+
+  ZES_sf_guy: "Діріджі Сплузон"
+  ZES_gbp_guy: "Фирм Булуорк"
+  ZES_navy_guy: "Фарол Сфорсу"
+
+  ZES_maneuver: "Пазу Ваґан"
+  ZES_macavia_guy: "Флору Салуман"
+  ZES_training: "Крош Джоґу"
+
+  ZES_salama_bayinika: "Алампра"
+  ZES_maulidi_zakia: "Сайклоун Аларм"
+
+  ZES_mapenda_chitundo: "Барбатана Пеші"
+  ZES_keambiroiro_chuind: "Рему Мадайра"
+  ZES_farijika: "Фаріжіка" # Unused
+
+  ZES_dig: "Шапа Фирамента"
+  ZES_special: "Акрівіс Сфера"
+  ZES_logistics: "Жакета"
+  ZES_concealment: "Фальдюр Стейтн"
+  ZES_bunker: "Таф Уолл"
+
+ ### ПОДІЇ ###
+  kasa.40.t: "Бравий вояк" ##flavour event about Private Hasek
+  kasa.40.d: "— Гашеееееек! — проревів сержант у цого лице. — Що ти накоїв, недоумку?! ЧОМУ КУЛЕМЕТИ П'ЯТОЇ РОТИ ВИЙШЛИ З ЛАДУ?!\n\n— Тому що якщо вороже обладнання не працює, його не використають проти тебе! — пояснив Гашек, салютуючи свому сержантові та широко всміхаючися, процитувавши генерала Лобу. — А п'ята пота мусить бути нашим супротивником у цих тренуаннях! — продовжив він, і сержант ледь не розлютився.\n\n— Ти повний кретин! Я змушу тебе натирати підлоги, поки ти не станеш просто строкатою ганчіркою! Падай на землю й починай віджиматися, і не зупиняйся, поки я тобі не накажу!\n\n— Так, сержанте! — підкорився Гашек, ураз упав на землю і почав віджиматися, не зупинаючися — однак він підняв погляд — і коли почув сержанта гукати: — Генерале!\nГлянувши вбік, він побачив, що підступив ніхто інший, як генерал Солану Лобу. Сержант твердо віддав йому честь.\n\n— То скажіть мені, сержанте, чи були кулемети п'ятої роти пошкоджені? — запитав генерал.\n\n— Сер, так, сер! — відказав сержант. — Рядовий Гашек був на технічному обслуговуванні, і він видалив ударники зі зброї!\n\n— Цікаво... тепер скажіть мені, чи було військових повідомлено, що це були навчання з бойовою стрільбою, що у всіх сенсах варто сприймати як війну?\n\n— Сер, так, сер!\n\n— Зрозуміло... — стиснув губи генерал і поглянув униз на Гашка, котрий відсалютував йому одним копитом, перш ніж повернувся до віджимання.\n— Ходімо зі мною, рядовий. У мене є запитання.\n\n— Сер, так, сер. Я буду у вас, щойно сержант скаже, що я закінчив! — із захопленням відповів Гашек, через що генерал Лобу здійняв брову й сержант мовчки вдарив себе по лиці позаду нього."
+  kasa.40.a: "— Зупинися вже й іди за генералом..."
 
 # eaw_parties (трохи шкода видаляти)
  YAK_neutrality_party: "Снігова рада"
