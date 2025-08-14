@@ -18,7 +18,7 @@
  #alert_l
   alert_few_manpower_instant: "§HМало поні-ресурсів!§!"
   alert_few_manpower_delayed: "У нас є мало поні-ресурсів. Це може призвести до того, що наші дивізії більше не зможуть отримувати підкріплення та воювати."
-  alert_not_enough_garrison_instant: "§HНедостатньо поні-ресурсів або оснащення для задовільнення потреб гарнізонів§!"
+  alert_not_enough_garrison_instant: "§HНедостатньо поні-ресурсів або оснащення для задоволення потреб гарнізонів§!"
   alert_not_enough_garrison_delayed: "Нам не вистачає $NUM|*H$ поні-ресурсів."
 
  #autonomy_l

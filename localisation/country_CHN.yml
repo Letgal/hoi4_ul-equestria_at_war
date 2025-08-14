@@ -666,7 +666,7 @@
  CHN_hivesmarschall_trimmel: "Ріймаршал Тріммель"
  CHN_queen_chrysalis: "Королева Кризаліс" # fem.
  CHN_thorax_name: "Торакс"
- CHN_gold_muffin: "Ґолд Маффин"
+ CHN_gold_muffin: "Ґолд Маффін"
  CHN_hermis_thysbe: "Герміс Фісбе" # Ѳ
  CHN_carolina_phymata: "Кароліна Фімата"
  CHN_limacus_uptrich: "Лімакус Уптрих"
@@ -2634,11 +2634,11 @@
  CHN_carrying_capacity_detailed_explainer_tt:0 "The Maximum Sustainable Amount of Frontline Battalions is determined by this formula:\n( 10 + (§YS§!) ) × 10 Battalions Per State.\n\n[CHN_billeting_system_bonus_loc_string](§YS§!) represents the total amount of §Ynon-core§! states controlled by [CHN.GetNameDef] (§Y[?CHN_directly_controlled_noncorestates_var]§!), in addition to §Y50%§! of the combined amount of states controlled by nations that are §Ysubject states§! of [CHN.GetNameDef] (§Y[?CHN_weekly_love_gain_state_PUPPETS_var]§! × §Y50%§!)."
  CHN_love_erot_cost_explainer_tt:0 "Amount of §CLove§! in §CErots§! §RDeducted Weekly§! from the number of §GFrontline Battalions§! exceeding the Maximum Sustainable Amount:"
  CHN_love_erot_cost_detailed_explainer_tt:0 "For every Frontline Battalion in excess of the Maximum Sustainable Amount, a weekly penalty of §R0.001§! Erots will be levied.\n\nCurrently, we have §R[?CHN_excess_battalions]§! Battalions in excess of the Maximum Sustainable Amount, incurring a weekly penalty of §R[?CHN_excess_battalions_cost]§! Erots (§Y[?CHN_excess_battalions]§! × §Y0.001§!)."
- CHN_love_variable_tt:0 "§C[?CHN_love_variable]§!"
- CHN_excess_battalions_cost_tt:0 "[?CHN_excess_battalions_cost|-]"
+ CHN_love_variable_tt: "§C[?CHN_love_variable]§!"
+ CHN_excess_battalions_cost_tt: "[?CHN_excess_battalions_cost|-]"
 
 ### СЛУЖБОВА ЛОКАЛІЗАЦІЯ/ПРАПОРЦІ ###
- CHN_post_war_5_unlocks_love_mechanic_tt: "\nВідмикає механіку §C$CHN_love_consumption_mechanic$§!, в якій §Cлюбов§! можна надобувати шлязом §Yрішень§!, §Yбезперервних фокусів§! і §Yподій§!, а споживати для отримання різних §Gбонусів§!:\n      Відмикає безперервний фокус: §Y$CHN_continuous_love_harvesting$§!.\n    Відмикає рішення: §Y$CHN_gain_love_decision$§!.\n    Відмикає рішення: §Y$CHN_factories_for_love_decision$§!.\n    Відмикає рішення: §Y$CHN_rations_as_growth_incentive$§!.\n    Відмикає рішення: §Y$CHN_rations_for_political_power$§!.\n    Відмикає рішення: §Y$CHN_rations_for_war_support$§!.\n    Відмикає рішення: §Y$CHN_rations_for_stability$§!.\n"
+ CHN_post_war_5_unlocks_love_mechanic_tt: "\nВідмикає механіку §C$CHN_love_consumption_mechanic$§!, в якій §Cлюбов§! можна надобувати шляхом §Yрішень§!, §Yбезперервних фокусів§! і §Yподій§!, а споживати для отримання різних §Gбонусів§!:\n      Відмикає безперервний фокус: §Y$CHN_continuous_love_harvesting$§!.\n    Відмикає рішення: §Y$CHN_gain_love_decision$§!.\n    Відмикає рішення: §Y$CHN_factories_for_love_decision$§!.\n    Відмикає рішення: §Y$CHN_rations_as_growth_incentive$§!.\n    Відмикає рішення: §Y$CHN_rations_for_political_power$§!.\n    Відмикає рішення: §Y$CHN_rations_for_war_support$§!.\n    Відмикає рішення: §Y$CHN_rations_for_stability$§!.\n"
  CHN_post_war_5_c_unlocks_love_decisions_tt: "\nВідмикає сукупність рішень §CСпоживання любові§!:\n    Відмикає рішення: §Y$CHN_rations_for_recruits$§!.\n    Відмикає рішення: §Y$CHN_rations_for_researchers$§!.\n    Відмикає рішення: §Y$CHN_rations_for_drones$§!.\n    Відмикає рішення: §Y$CHN_rations_for_settlers$§!."
  CHN_queens_tower_custom_tt: "\nЗі своєї §GВежі Великої Королеви§!, Її Величність править §CПакс Кризалією§!.\nЗдобуде модифікатор §YСерце Гегемонії§! у §YВесаліполісі§!, що даватиме:\n    $MODIFIER_LOCAL_INTEL_TO_ENEMIES$: §G-25%§!\n    $MODIFIER_LOCAL_SUPPLIES$: §G+25%§!\n    $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+25%§!\n    $MODIFIER_INTEL_NETWORK_GAIN$: §G+25%§!\n    $MODIFIER_MAX_DIG_IN_FACTOR$: §G+25.0%§!\n    $MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: §G+25.0%§!\n    $MODIFIER_STATIC_ANTI_AIR_HIT_CHANCE_FACTOR$: §G+25.00%§!\n    $MODIFIER_STATIC_ANTI_AIR_DAMAGE_FACTOR$: §G+25.00%§!\n    $MODIFIER_LOCAL_BUILDING_SLOTS$: §G+3§!\n" # (&+): перша частина
  CHN_vesalipolis_queens_tower_tt: "§CСерце Гегемонії§!\n\n$MODIFIER_LOCAL_INTEL_TO_ENEMIES$: §G-25%§!\n$MODIFIER_LOCAL_SUPPLIES$: §G+25%§!\n$MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+25%§!\n$MODIFIER_INTEL_NETWORK_GAIN$: §G+25%§!\n$MODIFIER_MAX_DIG_IN_FACTOR$: §G+25.0%§!\n$MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: §G+25.0%§!\n$MODIFIER_STATIC_ANTI_AIR_HIT_CHANCE_FACTOR$: §G+25.00%§!\n$MODIFIER_STATIC_ANTI_AIR_DAMAGE_FACTOR$: §G+25.00%§!\n$MODIFIER_LOCAL_BUILDING_SLOTS$: §G+3§!"
@@ -2661,7 +2661,7 @@
  CHN_continuous_love_harvesting_LOVE_var_selected_tt:0 "(§C[?CHN_continuous_love_harvesting_LOVE_var]§! Erots)"
  CHN_continuous_love_harvesting_LOVE_var_selected_negligible_tt:0 "(§Rthe quantity of Love to be gained is negligible§!)"
 
- CHN_resistance_75_trains: "$resistance_75$" # (&)
+ CHN_resistance_75_trains: "$resistance_75$"
 
  CHN_erots_3_00_tt:0 "§G+3.00§! Erots' worth of £lovetax_text£ §CLove§! will be transferred to [CHN.GetAdjective] stockpiles."
  CHN_erots_2_00_tt:0 "§G+2.00§! Erots' worth of £lovetax_text£ §CLove§! will be transferred to [CHN.GetAdjective] stockpiles."
