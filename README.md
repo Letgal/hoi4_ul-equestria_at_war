@@ -40,8 +40,10 @@
 + `country_EYR`
 + `country_FAL` (переклав *Green Kitten*)
 + `country_FAT` (переклав *StasJesus*) — перечитати
++ `country_FEA` (переклав *StasJesus*) — `(&)`
 + `country_FRN` (переклав *Green Kitten*)
 + `country_GFF` (умовно; переклав *Green Kitten*)
++ `country_GRI` (переклав *StasJesus*) — `(&)`
 + `country_GRF` (переклав *StasJesus*)
 + `country_GRU` (переклав *Bovcun*) — `(&)`
 + `country_GRW` (переклав *Bovcun*) — `(&)`
@@ -55,6 +57,7 @@
 + `country_JFT`
 + `country_JRR`
 + `country_JUN` (переклав *Green Kitten*)
++ `country_KAT` (переклав *StasJesus*) — `(&)`
 + `country_LAK` (переклав *Bovcun*)
 + `country_LSP` (переклав *Green Kitten*)
 + `country_LUS` (переклав *Bovcun*) — `(&)`
@@ -73,11 +76,13 @@
 + `country_POM`
 + `country_PYT` (переклав *StasJesus*)
 + `country_RCT` (переклав *ціктакомба*)
++ `country_ROU` (переклав *StasJesus*) — `(&)`
 + `country_SCS` (переклав *Green Kitten*)
 + `country_SOL`
 + `country_STG` (первісно переклав *ціктакомба*, переписав *Max*)
 + `country_STL` (переклав *Max*)
 + `country_Storm` (переклав *Daybreaker*)
++ `country_STW` (переклав *StasJesus*) — `(&)`
 + `country_TAL` (переклав *Sanyok*)
 + `country_VAN` (переклав *Green Kitten*)
 + `country_VED` (переклав *107*)
