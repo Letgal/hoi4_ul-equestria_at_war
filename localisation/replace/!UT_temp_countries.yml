@@ -3611,46 +3611,6 @@
  KLG_hammer_steel: "Гаммер Стіл"
  KLG_grumm: "Ґрумм"
 
-# country_LAK
- ### ПЕРСОНАЖІ ###
-  # Лідери
-  LAK_alaric_dawnbreaker: "Аларік Донбрейкер"
-  LAK_rumare_peoples_council: "Румерська народна рада"
-
-  # Ґенерали
-  LAK_plane_crasher: "Плейн Крешер"
-  LAK_graid_ap_sawdwr: "Ґрайд ап Саудур"
-  #welsh_sheepfucker_desc:0 "§YBorn§!: August 18th, 965 in Rumare\n\n§YRank§!: Cyffredinol\n\n§YBiography§!: Born in Rumare in 965 to an Imperial Officer and a local Rumarean fishergriff, Graid spent the first years of his chickhood in comfortable living, as the small island barony was mostly devoid of the conflict and troubles which plagued Griffonia even before the collapse of the Empire. He would spend these years either playing in the grassy fields of the island or in his education, which his father ensured was focused on the history of Griffonia and the Empire.\n\nThis changed in 978, when the Republican Revolution struck the Empire. As Imperial authority disappeared overnight, Rumare gained de-facto independence; however this didn't sit well with his father, who remained loyal to Griffenheim. As a result, twelve year old Graid would be uprooted from his home, as his father moved his family to the Heartlands and joined the Imperial loyalists against Kemerskai's revolutionaries. After Grover V was restored to the throne, Graid's father decided to stay in Griffenheim, as he was promoted due to his loyalty to the Imperials. His education on the Empire's history and glory was doubled down, and now included the teaching of Griffish language and literature, displacing his native Rumarean.\n\nAfter coming of age, Graid was enrolled in the Vinnin Military Academy, graduating four years latter in 987 as an infantry officer. The climate of social chaos and decay in the Empire following the Revolution made him feel unhappy, and he began to look at his chickhood in Rumare with a certain sense of nostalgia. As a result, he focused himself on his free time to learning of Rumare's history, culture and literature; increasing his fondness for his birthplace. He eventually resigned his officer commission from the Reichsarmee after eleven years of service and promptly moved back to Rumare. After writing a Rumarean language novel in 1001 - which wasn't very successful - he made a request to Baron Recimir to join as an officer of the small Rumare Defense Force, which was accepted.\n\n§YPortrait By§!: Riley"
-  LAK_dyfi_evans: "Диві Еванс"
-  LAK_iorath_uren: "Іораф Урен"
-
-  # Радники
-  LAK_captain_of_industry: "Ошан ап Карвин"
-  LAK_fortification_engineer: "Карвин Талоґ"
-  LAK_war_industrialist: "Еліс ап Трістан"
-  LAK_backroom_backstabber: "Рис Кофі"
-  LAK_army_chief_off: "Морґан ап Алан"
-  LAK_army_chief_def: "Трістан Дрісколл"
-  LAK_navy_chief_decisive_bat: "Гарі Мосс"
-  LAK_navy_chief_commerce_raiding: "Меґан ап Гивел"
-  LAK_air_close_air_sup: "Алан ап Рис"
-  LAK_air_chief_airborne: "Джак Мосс"
-  LAK_air_chief_all_weather: "Трістан Терфел"
-  LAK_army_inf: "Алед ап Алан"
-  LAK_army_art: "Ґвидіон Кофі"
-  LAK_commando: "Джак Морґан"
-  LAK_navy_fleet_log: "Брин ап Карвин"
-  LAK_air_air_combat_trainer: "Ніа Дрісколл"
-  LAK_military_theorist: "Дилан ап Гивел"
-  LAK_naval_theorist: "Дилан Морґан"
-  LAK_air_warfare_theorist: "Кай Ґріффітс"
-
- unlock_focuses: "Відкриває фокуси."
-
- ### НАЗВИ ОБЛАСТЕЙ/ПРОВІНЦІЙ ###
-  384_LAK_NAME: "Ейнкартрев"
-  5203_LAK_NAME: "Бринкопр"
-
 # country_LCT
  LCT: "Єзераград"
  LCT_DEF: "Єзераград"
