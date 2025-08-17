@@ -922,18 +922,16 @@
  changelings.22.a:0 "Sure, why not."
  changelings.22.b:0 "Those trees will mark their graves."
 
- changelings.23.t:0 "Jungle Nation Wishes to Establish a Protectorate"
- changelings.23.d:0 "The pathetic bandits of the jungle know they are no match for our mighty armies. Rather than fighting a sustained guerrilla war that would only end in their death, they have offered to surrender to us, in exchange for our protection. It is an arrangement that would benefit both of us, and we could avoid further bloodshed."
- changelings.23.a:0 "Sure, why not."
- changelings.23.b:0 "Those trees will mark their graves."
+ changelings.23.t: "$changelings.22.t$"
+ changelings.23.d: "$changelings.22.d$"
+ changelings.23.a: "$changelings.22.a$"
+ changelings.23.b: "$changelings.22.b$"
 
  #-Culled Events 24 to 31 -Psody
  changelings.32.t:0 "Operation: Furore Chrysalis!"
  changelings.32.d:0 "The radios were alive with covert transmissions from Vaspier's spies. УГБВ infiltrators, together with changeling Jaegers, had successfully managed to infiltrate the Equestrian lines. Now, after weeks of preparations and clandestine weapons drops behind the Equestrian army, the infiltrators were ready to strike. Just minutes ago, Vaspier read the confirmation that the saboteurs were ready to strike. And with the Heer already squaring off against the ponies, there was no time like the present. Folding up the report, Vaspier picked up the phone receiver on his desk and spun the dial. He waited until he heard the click of the phone being connected to its destination. "Zero hour is a go," he said into the receiver, and he set it back down. Within seconds, he knew the saboteurs would be moving out to their assignments. All he had to do now was sit back and wait for confirmation of their success."
  changelings.32.a:0 "Blind and oblivious, the ponies shall die to a dagger in the dark."
  CHN_furfore_tooltip:0 "Spawns §YFive Jaeger Saboteurs Divisions§! around §YVanhoover§!\n"
-
-
 
  changelings.35.t: "Зекорин спротив!" ## Old and Ded ##
  changelings.35.d: "Убийте їх, хутко!"
@@ -948,15 +946,15 @@
  changelings.902.t:0 "Nova Griffonia has fallen"
  changelings.902.d:0 "Nova Griffonia is no more as it was just a year ago. Unforeseen threat has come from the west. We have to retreat to our old homeland!"
  changelings.902.a:0 "Oh no!"
- changelings.903.t:0 "Our Town is not ours anymore :c"
- changelings.903.d:0 "Never trust changelings!"
- changelings.903.a:0 "Damn it!"
- changelings.905.t:0 "The Dragon Protectorate"
+ changelings.903.t: "Наме Місто більше не наше :C"
+ changelings.903.d: "Ніколи не довіряйте чейнджлінґам!"
+ changelings.903.a: "Трясця!"
+ changelings.905.t: "Драконячий протекторат"
  #changelings.905.t:0 "With our new Changeling overlords, we have been forced to change our name." # Different  duplicate from Eaw
- #changelings.905.t:0 "Damn." # Different duplicate from Eaw
- changelings.910.t:0 "Saved!"
- changelings.910.d:0 "Never again will we bear changeling rule over our lands!"
- changelings.910.a:0 "We are back!"
+ #changelings.905.t: "Трясця." # Different duplicate from Eaw
+ changelings.910.t: "Порятунок!"
+ changelings.910.d: "Більше ніколи ми не терпітимемо правління чейнджлінґів на наших землях!"
+ changelings.910.a: "Ми повернулися!"
 
  changelings.36.t:0 "Ditrysium Naval Effort"
  changelings.36.d:0 "Building ships is a costly and time-consuming endeavour. Unlike a rifle which can be assembled by a single drone, or a tank which is neatly fabricated and welded together by a few changelings in a factory, a ship is practically a town floating on the sea. It takes the efforts of countless dockyards and factories working together to assemble the ship, piece by piece, over weeks of hard work. Ditrysium is the largest of our dockyards and our greatest port, and even it is struggling to keep up with the demands of our navies. Queen Helvia has petitioned Queen Chrysalis for more funding and resources to expand the dockyards and supply the navy with the ships it desperately needs. Unfortunately, the resources we can set aside for Ditrysium cannot do both. We can either expand the dockyards to gain more ships in the long run, or dedicate the resources that could be used to construct those dockyards to instead bolster the construction of our ships, giving us more in the short term. What shall we tell Queen Helvia?"
@@ -1003,6 +1001,8 @@
  CHN_GRI_Queen_Swears_Vengance: "Королева поклялася помститися"
  CHN_GRI_Party: "Влаштувано прощальну вечірку"
 
+ # ЕМЧГ — Експедиційна місія чейнджлінґів до Грифонії
+ # CGEM — Changeling-Griffonian Expeditionary Mission
  changelingattache.1.t: "Кризаліс відкликає аташе"
  changelingattache.1.d:0 "'Because of internal matters within the Changeling Lands the scientists, soldiers, advisors, and all related personnel of the Changeling-Griffonian Expeditionary Mission are hereby ordered to return home at once by the decree of Queen Chrysalis.'\nThe message is simple, written in a taciturn dialect of the language the two distant nations share, yet profound in its meaning. For years the changelings assisting the Imperial Army and attached research divisions have become a staple of life for those in the upper echelons of the command hierarchy, and now it is time for them to leave. The mood is unsurprisingly somber when the message is read aloud, both for what leaving means and for what awaits the changelings in their homeland.\nSynovial, senior military commander of the mission, seems relieved at the news, as if a great weight had been lifted off his wings. His compatriot, Thranx, seems to have had the opposite reaction, falling into a depressive stupor that in turn lowers the mood of all those near him. The differing reactions have prompted one of the Imperial commanders who worked with the CGEM to voice the idea that they should throw a party for all the members of the mission to wish them fond farewells, for it would seem to be kind to let their last memories of the Griffonian Empire be happy ones."
  changelingattache.1.a:0 "Let's not make a fuss about this and send them off with stoicism."
@@ -2593,11 +2593,11 @@
  CHN_settlement_plan_cat:0 "Siedlungsplan Expansionism"
  CHN_settlement_plan_cat_desc:0 "The best way to control Equestria is to fill it with our own people. Colonization plans for the bordering states along the old border with Equestria will allow us to fill the land with loyal changelings, many of whom fought in the Great War, and tighten our grip over the surrounding land. With a firm grip, we can reduce §RResistance§! and increase §CCompliance§! in these territories, as well as get more resources out of them."
  CHN_acornage_colonisation_decision: "Колонізація Ейкорнеджа"
- CHN_acornage_colonisation_decision_desc:0 "\n§YFor [?days_mission_timeout@CHN_acornage_colonisation_decision] days:§!\n§W§YAcornage§!:\n      $MODIFIER_REQUIRED_GARRISON_FACTOR$: §R+50%§!\n      $MODIFIER_NO_COMPLIANCE_GAIN$: §RТак§!\n      $MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §R-50.00%§!\n      Weekly Population Movement to Neighbouring States: §R-5000§!§!"
+ CHN_acornage_colonisation_decision_desc: "\n§YПротягом [?days_mission_timeout@CHN_acornage_colonisation_decision] дн.:§!\n§W§Y$STATE_136$§!:\n      $MODIFIER_REQUIRED_GARRISON_FACTOR$: §R+50%§!\n      $MODIFIER_NO_COMPLIANCE_GAIN$: §RТак§!\n      $MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §R-50.00%§!\n      Рух населення до сусідніх областей щотижня: §R-5000§!§!"
  CHN_vanhoover_colonisation_decision: "Колонізація Вангувера"
- CHN_vanhoover_colonisation_decision_desc:0 "[CHN_vanhoover_colonisation_decision_modifiers_scripted_loc]"
- CHN_vanhoover_colonisation_decision_modifier_og:0 "\n§YFor [?days_mission_timeout@CHN_vanhoover_colonisation_decision] days:§!\n§W§YVanhoover§!:\n      $MODIFIER_REQUIRED_GARRISON_FACTOR$: §R+75%§!\n      $MODIFIER_NO_COMPLIANCE_GAIN$: §RТак§!\n      $MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §R-75.00%§!\n      Weekly Population Movement to Neighbouring States: §R-5000§!§!"
- CHN_vanhoover_colonisation_decision_modifier_updated:0 "\n§YFor [?days_mission_timeout@CHN_vanhoover_colonisation_decision] days:§!\n§W§YVanhoover§!:\n      $MODIFIER_REQUIRED_GARRISON_FACTOR$: §R+275%§!\n      $MODIFIER_NO_COMPLIANCE_GAIN$: §RТак§!\n      $MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §R-75.00%§!\n      Weekly Population Movement to Neighbouring States: §R-100§!§!"
+ CHN_vanhoover_colonisation_decision_desc: "[CHN_vanhoover_colonisation_decision_modifiers_scripted_loc]"
+ CHN_vanhoover_colonisation_decision_modifier_og: "\n§YПротягом [?days_mission_timeout@CHN_vanhoover_colonisation_decision] дн.:§!\n§W§Y$STATE_14$§!:\n      $MODIFIER_REQUIRED_GARRISON_FACTOR$: §R+75%§!\n      $MODIFIER_NO_COMPLIANCE_GAIN$: §RТак§!\n      $MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §R-75.00%§!\n      Рух населення до сусідніх областей щотижня: §R-5000§!§!"
+ CHN_vanhoover_colonisation_decision_modifier_updated: "\n§YПротягом [?days_mission_timeout@CHN_vanhoover_colonisation_decision] дн.:§!\n§W§Y$STATE_14$§!:\n      $MODIFIER_REQUIRED_GARRISON_FACTOR$: §R+275%§!\n      $MODIFIER_NO_COMPLIANCE_GAIN$: §RТак§!\n      $MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §R-75.00%§!\n      Рух населення до сусідніх областей щотижня: §R-100§!§!"
  CHN_colonisation_decision_dummy_tt:0 "Something has gone terribly wrong..."
  CHN_colonisation_decision_control_acornage_tt: "Ми більше не розпоряджаємося Ейкорнеджом."
  CHN_colonisation_decision_control_vanhoover_tt: "Ми більше не розпоряджаємося Вангувером."
@@ -2627,13 +2627,13 @@
  CHN_love_consumption_mechanic: "Витягнення та споживання любові"
  CHN_love_consumption_mechanic_desc:0 "§CLove§! — the lifeblood of the Changeling race, extracted from the subjects of the §GChangeling Hegemony§!. The methodology with which harvested Love is quantified remains a nebulous science, with an £lovetax_text£ §CErot§! signifying a quantity of Love large enough to significantly boost the capabilities of a small hive.\n\nThe §CRoyal Changeling Heer§! is the institution responsible for the highest levels of §CLove§! consumption in the world. The Heer's voracious appetite for Love means that the efficiency of the Changeling war machine is directly impacted by the amount of §CLove§! — or lack thereof — stockpiled by the Changeling state.\n"
  CHN_love_erot_explainer_tt:0 "Amount of §CLove§! in §CErots§! stockpiled:"
- CHN_love_erot_stored_explainer_tt:0 "Harvested and Stockpiled £lovetax_text£ §CLove§! can be obtained through §YDecisions§!, §YContinuous Foci§!, and §YEvents§!, and can be consumed to receive miscellaneous bonuses.\n\nIf a deficit arises in the amount of stockpiled Love, various penalties — the severity of which will be scaled to the deficit — will be incurred, determined by the formula (§RD§!) = (§CE§!) × 25%.\nThe penalties will be capped at §R-150%§!."
+ CHN_love_erot_stored_explainer_tt:0 "Harvested and Stockpiled £lovetax_text£ §CLove§! can be obtained through §YDecisions§!, §YContinuous Foci§!, and §YEvents§!, and can be consumed to receive miscellaneous bonuses.\n\nIf a deficit arises in the amount of stockpiled Love, various penalties — the severity of which will be scaled to the deficit — will be incurred, determined by the formula (§RD§!) = (§CE§!) × 25%.\nThe penalties will be capped at §R-150%§!."
  CHN_battalions_explainer_tt:0 "Amount of §GFrontline Battalions§! deployed:"
  CHN_battalions_detailed_explainer_tt:0 "This is the total amount of Frontline Battalions and Support Companies deployed in our Divisions. Battalions and Companies deployed in Garrisons are exempted from this calculation."
  CHN_carrying_capacity_explainer_tt:0 "Current Maximum Sustainable Amount of §GFrontline Battalions§! that can be deployed:"
- CHN_carrying_capacity_detailed_explainer_tt:0 "The Maximum Sustainable Amount of Frontline Battalions is determined by this formula:\n( 10 + (§YS§!) ) × 10 Battalions Per State.\n\n[CHN_billeting_system_bonus_loc_string](§YS§!) represents the total amount of §Ynon-core§! states controlled by [CHN.GetNameDef] (§Y[?CHN_directly_controlled_noncorestates_var]§!), in addition to §Y50%§! of the combined amount of states controlled by nations that are §Ysubject states§! of [CHN.GetNameDef] (§Y[?CHN_weekly_love_gain_state_PUPPETS_var]§! × §Y50%§!)."
+ CHN_carrying_capacity_detailed_explainer_tt:0 "The Maximum Sustainable Amount of Frontline Battalions is determined by this formula:\n( 10 + (§YS§!) ) × 10 Battalions Per State.\n\n[CHN_billeting_system_bonus_loc_string](§YS§!) represents the total amount of §Ynon-core§! states controlled by [CHN.GetNameDef] (§Y[?CHN_directly_controlled_noncorestates_var]§!), in addition to §Y50%§! of the combined amount of states controlled by nations that are §Ysubject states§! of [CHN.GetNameDef] (§Y[?CHN_weekly_love_gain_state_PUPPETS_var]§! × §Y50%§!)."
  CHN_love_erot_cost_explainer_tt:0 "Amount of §CLove§! in §CErots§! §RDeducted Weekly§! from the number of §GFrontline Battalions§! exceeding the Maximum Sustainable Amount:"
- CHN_love_erot_cost_detailed_explainer_tt:0 "For every Frontline Battalion in excess of the Maximum Sustainable Amount, a weekly penalty of §R0.001§! Erots will be levied.\n\nCurrently, we have §R[?CHN_excess_battalions]§! Battalions in excess of the Maximum Sustainable Amount, incurring a weekly penalty of §R[?CHN_excess_battalions_cost]§! Erots (§Y[?CHN_excess_battalions]§! × §Y0.001§!)."
+ CHN_love_erot_cost_detailed_explainer_tt:0 "For every Frontline Battalion in excess of the Maximum Sustainable Amount, a weekly penalty of §R0.001§! Erots will be levied.\n\nCurrently, we have §R[?CHN_excess_battalions]§! Battalions in excess of the Maximum Sustainable Amount, incurring a weekly penalty of §R[?CHN_excess_battalions_cost]§! Erots (§Y[?CHN_excess_battalions]§! × §Y0.001§!)."
  CHN_love_variable_tt: "§C[?CHN_love_variable]§!"
  CHN_excess_battalions_cost_tt: "[?CHN_excess_battalions_cost|-]"
 
@@ -2699,24 +2699,24 @@
  CHN_synthesis_syringes_focus_completion_tt:0 "Uncovers the secrets of §CPoison Joke§!."
  CHN_to_change_a_ling_focus_focus_completion_tt:0 "Uncovers the secrets of the §CSeeds of Truth§!."
 
- CHN_everfree_forest_broken_free_tt:0 "Lost control of the Everfree Forest."
- CHN_ZRS_uprising_NOT_tt:0 "§RZecora's Resistance§! has been defeated."
- CHN_ZRS_uprising_IN_PROGRESS_tt:0 "The Everfree Forest is in §RChaos§!."
- CHN_ZRS_uprising_trains:0 "Has completed decision §YOperation Durchbruch§!"
- CHN_ZRS_uprising_lurp:0 "Has completed decision §YOperation Fernauf§!" # Fernaufklärungspatrouille
+ CHN_everfree_forest_broken_free_tt: "Втрачено контроль над Вічнодиким лісом"
+ CHN_ZRS_uprising_NOT_tt: "§RЗекорин спротив§! було переможено"
+ CHN_ZRS_uprising_IN_PROGRESS_tt: "Вічнодикий ліс перебуває в §Rбезладі§!"
+ CHN_ZRS_uprising_trains: "Прийнято рішення §Y$CHN_operation_breakthrough$§!"
+ CHN_ZRS_uprising_lurp: "Прийнято рішення §Y$CHN_operation_longrangerecon$§!" # Fernaufklärungspatrouille
  CHN_ZRS_uprising_no_fuckups_ok:0 "No aspect of our strategy has been compromised."
 
  CHN_compliance_80_love:0 "Localised Love Production"
  CHN_compliance_80_love_focus_explainer_tt:0 "\nWhen an §Roccupied country§! reaches a §GCompliance§! threshold of §Y80%§!, the §YLocalised Love Production§! modifier will be enabled, which unlocks a decision to §CIncrease Love Quotas§! from that country."
- CHN_compliance_80_love_effect_tt:0 "£decision_icon_small Unlocks Decision: §YIncrease [From.GetAdjective] Love Quotas§!."
+ CHN_compliance_80_love_effect_tt: "£decision_icon_small Відмикає рішення: §Y$CHN_compliance_80_love_decision$§!."
  CHN_compliance_80_love_decision:0 "Increase [From.GetAdjective] Love Quotas"
- CHN_compliance_80_love_decision_desc:0 "In coordination with local collaborationist authorities, our occupation forces on [From.GetAdjective] territory will facilitate the intensified harvesting of Love from the immediate populace.\n\n§W£lovetax_text£ = ( (§YC§!) × 0.002 ) + 0.001\n\nThe formula above calculates the total amount of £lovetax_text£ §CLove§! to be gained from this operation [CHN_compliance_80_love_decision_love_gain_loc_string]:\n\n(§YC§!) represents the total number of [From.GetAdjective] core states directly controlled by [CHN.GetNameDef] [CHN_compliance_80_love_decision_states_loc_string].§!"
+ CHN_compliance_80_love_decision_desc:0 "In coordination with local collaborationist authorities, our occupation forces on [From.GetAdjective] territory will facilitate the intensified harvesting of Love from the immediate populace.\n\n§W£lovetax_text£ = ( (§YC§!) × 0.002 ) + 0.001\n\nThe formula above calculates the total amount of £lovetax_text£ §CLove§! to be gained from this operation [CHN_compliance_80_love_decision_love_gain_loc_string]:\n\n(§YC§!) represents the total number of [From.GetAdjective] core states directly controlled by [CHN.GetNameDef] [CHN_compliance_80_love_decision_states_loc_string].§!"
  CHN_compliance_80_love_decision_resistance_threshold:0 "The Average §RResistance§! of [From.GetAdjective] core states under our control is below §Y25.0%§!."
  CHN_compliance_80_love_decision_love_gain_tt:0 "(§G+[?CHN_compliance_80_love_decision_love_gain_var]§!) §YErots'§! worth of harvested £lovetax_text£ §CLove§! will be added to [CHN.GetAdjective] stockpiles.\n"
- CHN_compliance_80_love_decision_love_gain_unselected_tt:0 "(§Yto be calculated upon selection§!)"
- CHN_compliance_80_love_decision_love_gain_selected_tt:0 "(§C[?CHN.CHN_compliance_80_love_decision_love_gain_var]§!)"
- CHN_compliance_80_love_decision_states_unselected_tt:0 "(§Yto be calculated upon selection§!)"
- CHN_compliance_80_love_decision_states_selected_tt:0 "(§Y[?CHN.CHN_compliance_80_love_decision_states_for_tt_var]§!)"
+ CHN_compliance_80_love_decision_love_gain_unselected_tt: "(§Yбуде обчислено при виборі§!)"
+ CHN_compliance_80_love_decision_love_gain_selected_tt: "(§C[?CHN.CHN_compliance_80_love_decision_love_gain_var]§!)"
+ CHN_compliance_80_love_decision_states_unselected_tt: "(§Yбуде обчислено при виборі§!)"
+ CHN_compliance_80_love_decision_states_selected_tt: "(§Y[?CHN.CHN_compliance_80_love_decision_states_for_tt_var]§!)"
 
  CHN_event_10_unlock_manifesto_tt: "Відмикає фокус: §Y$CHN_post_war_5_g$§!."
  CHN_event_16_national_ideas_tt:0 "Certain §YNational Spirits§! can be viewed from §CThe Heart of the Hegemony§! icon in §YVesalipolis§!."
@@ -2724,7 +2724,7 @@
  CHN_event_19_research_seized_country_flag_tt:0 "Prioritised the seizure of Equestrian §Ymilitary and scientific research§!."
  CHN_event_20_intellectuals_arrested_tt:0 "We will prioritise the incarceration of Equestrian §Yscientists and intellectuals§!."
  CHN_event_20_intellectuals_arrested_country_flag_tt:0 "Prioritised the incarceration of Equestrian §Yscientists and intellectuals§!."
- CHN_event_26_tech_buff_tt:0 "§YEffect§!:\nGlobal Stats:\n      Construction Speed: §G+5.00%§!\n      Factory Output: §G+10.00%§!\n      Dockyard Output: §G+10.00%§!"
+ CHN_event_26_tech_buff_tt: "$FOCUS_REWARD_TOOLTIP$\n$STAT_GLOBAL_STATS$:\n      $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5.00%§!\n      $MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+10.00%§!\n      $MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: §G+10.00%§!"
  CHN_event_28_loyalty_affirmed_tt:0 "We must be mindful of the political climate..."
  CHN_event_29_science_cooperation_tt:0 "Science is politics, as are all things, but an individual's morality is their own."
  CHN_event_29_science_cooperation_country_flag_tt:0 "Laid the groundwork for §YChangeling-Equestrian scientific cooperation§!."
@@ -2801,7 +2801,7 @@
  CHN_recall_jagdkommandos_decision_effect_tt:0 "All §YSturmjäger Kommando§! currently deployed or prepared for deployment will be recalled into reserve.\n"
  CHN_has_recalled_jagdkommandos_tt:0 "§YRecalled§! the Sturmjägers."
 
- CHN_pony_slaves_dynamic_modifier_tt:0 "Gains Dynamic Modifier: §YEquestrian Indentured Servitude§!, which grants dynamic bonuses to §YFactory Output§!, §YDockyard Output§!, and §YDivision Recovery Rate§!.\n\nModifier values for the above bonuses are given by the equation §G%§! = ( §YC§! ÷ 10 ), where (§YC§!) represents the average level of §Ycompliance§! across all occupied Equestrian states (§Y[?CHN.core_compliance@EQS]§!/100).\n"
+ CHN_pony_slaves_dynamic_modifier_tt:0 "Gains Dynamic Modifier: §YEquestrian Indentured Servitude§!, which grants dynamic bonuses to §YFactory Output§!, §YDockyard Output§!, and §YDivision Recovery Rate§!.\n\nModifier values for the above bonuses are given by the equation §G%§! = ( §YC§! ÷ 10 ), where (§YC§!) represents the average level of §Ycompliance§! across all occupied Equestrian states (§Y[?CHN.core_compliance@EQS]§!/100).\n"
 
  CHN_opened_jachs_drawer: "Відкрито Яксову шухляду"
  CHN_everfree_thoroughly_defeated_flag: "Підкорено Вічнодикий ліс" # інак. Приборкано
@@ -2832,7 +2832,7 @@
  CHN_billeting_system_QUEENS_TOWER_explainer_tt: "\n£pol_idea $CHN_billeting_system$:\n    $CHN_billeting_system_custom_modifier_tt$\n"
  CHN_love_refineries: "Lieberaffinerie"
  CHN_love_refineries_custom_modifier_tt: "£lovetax_text£ §CЛюбов§!, здобута від фокусу £loveharvest_text£ $CHN_continuous_love_harvesting$: §G+25%§!"
- CHN_love_refineries_bonus_explainer_tt: "£pol_idea $CHN_love_refineries$: £lovetax_text£ × §G125%§!\n\n"
+ CHN_love_refineries_bonus_explainer_tt: "£pol_idea $CHN_love_refineries$: £lovetax_text£ × §G125%§!\n\n"
  CHN_love_refineries_QUEENS_TOWER_explainer_tt: "\n£pol_idea $CHN_love_refineries$:\n    $CHN_love_refineries_custom_modifier_tt$\n"
  CHN_PLB_keep_stability_high:0 "If §YStability§! or §YWar Support§! drops below §Y25%§!, §Rdrastic consequences§! may follow.\n\nDefeat the Changelings to remove this spirit."
  CHN_queens_equestrian_advisory_cabinet: "Еквестрійський дорадчий кабінет"
@@ -2912,15 +2912,15 @@
 ### ТЕХНОЛОГІЇ ###
  CHN_armoured_trains: "Бронепоїзд"
  CHN_armoured_trains_desc:0 "These locomotives, bristling with weaponry and armoured with heavy steel plate, traverse our railway networks to deliver our soldiers safely to the battlefield."
- CHN_armoured_trains_buff: "§YЕфект§!:\n$STAT_GLOBAL_STATS$:\n      $MODIFIER_ORG_LOSS_WHEN_MOVING$: §G-5%§!\n      $MODIFIER_LAND_REINFORCE_RATE$: §G+5%§!\n§YСтратегічну передислокацію§! більше не буде вимкнено в окупованих областях із модифікатором §R$resistance_75$§!.\n" # (&): останнє речення
+ CHN_armoured_trains_buff: "$FOCUS_REWARD_TOOLTIP$\n$STAT_GLOBAL_STATS$:\n      $MODIFIER_ORG_LOSS_WHEN_MOVING$: §G-5%§!\n      $MODIFIER_LAND_REINFORCE_RATE$: §G+5%§!\n§YСтратегічну передислокацію§! більше не буде вимкнено в окупованих областях із модифікатором §R$resistance_75$§!.\n" # (&): останнє речення
 
  CHN_antipartisan_warfare:0 "Counterinsurgency Warfare"
  CHN_antipartisan_warfare_desc:0 "Specialist units, trained in anti-guerrilla tactics and operating with a high degree of autonomy, to police our occupied territories."
- CHN_antipartisan_warfare_buff: "§YЕфект§!:\n$military_police$ & $infiltrator_company$:\n      Бонус до придушення: §G+5%§!\n      Розвідка: §G+50%§!\n      Вага: §G-50%§!"
+ CHN_antipartisan_warfare_buff: "$FOCUS_REWARD_TOOLTIP$\n$military_police$ & $infiltrator_company$:\n      Бонус до придушення: §G+5%§!\n      Розвідка: §G+50%§!\n      Вага: §G-50%§!"
 
  CHN_indefinite_undercover_ops:0 "Indefinite Undercover Operations"
  CHN_indefinite_undercover_ops_desc:0 "Changelings, assuming an original pony identity, inserted into local populations to live a semi-normal life, with no explicit counterinsurgency or intelligence-gathering assignment other than general surveillance. Akin to sleeper agents, with the authority to act on unforeseen opportunities whenever available."
- CHN_indefinite_undercover_ops_buff: "§YЕфект§!:\n$infiltrator_company$:\n      Бонус до придушення: §G+10%§!"
+ CHN_indefinite_undercover_ops_buff: "$FOCUS_REWARD_TOOLTIP$\n$infiltrator_company$:\n      Бонус до придушення: §G+10%§!"
 
 ### СКРИПТОВАНА ЛОКАЛІЗАЦІЯ ###
  CHN_scripted_loc_Jachs: "\n\n£CHN_Jachs_icon_text\n  [CHN_GetJachsRank] Якс\n                  - Губернатор Кантерлота\n\n$MODIFIER_COMPLIANCE_GAIN_ADD$: §G+0.05%§!\n$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: §G+50%§!"
