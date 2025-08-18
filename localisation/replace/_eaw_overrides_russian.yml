@@ -397,7 +397,7 @@
   democratic_drift: "Щоденна підтримка гармонії"
   democratic_acceptance: "Прийняття дипломатичних дій гармоністів"
   fascism_drift: "Щоденна підтримка зверхності"
-  fascism_acceptance: "Прийняття дипломатичних дій верхістів"
+  fascism_acceptance: "Прийняття дипломатичних дій прихильників зверхності" # (&+)
   MODIFIER_LOCAL_MANPOWER: "Місцеві поні-ресурси"
   MODIFIER_CONSCRIPTION_FACTOR_DESC: "Модифікатор кількості доступних із регіонів поні-ресурсів."
   MODIFIER_CONSCRIPTION_TOTAL_FACTOR_DESC: "Модифікатор кількості доступних із регіонів поні-ресурсів."

@@ -174,8 +174,8 @@
  trade_laws_blocked: "Торговельні закони заблоковані"
  cant_surpress_democratic: "Не можна придушувати демократичні партії"
  cant_surpress_democratic_NOT: "Можна придушувати демократичні партії"
- cant_surpress_fascism: "Не можна придушувати зверхістські партії"
- cant_surpress_fascism_NOT: "Можна придушувати зверхістські партії"
+ cant_surpress_fascism: "Не можна придушувати зверхні партії" # (&+)
+ cant_surpress_fascism_NOT: "Можна придушувати зверхні партії" # (&+)
  cant_surpress_communism: "Не можна придушувати комуністичні партії"
  cant_surpress_communism_NOT: "Можна придушувати комуністичні партії"
  cant_surpress_neutral: "Не можна придушувати нейтральні партії"
@@ -262,7 +262,7 @@
  controlls_any_foreign_core_tt: "Будь-яка підконтрольна область не є осердною землею держави §Y[Root.GetName]§!\n"
  controlls_all_cores_original_subject_tt: "Усі початкові осердні землі підконтрольні державі §Y[Root.GetName]§! або одному з її суб'єктів\n"
 
- CHN_Embargo: "Ембарґо"
+ CHN_Embargo: "Ембарго"
 
  trade_treaty_major: "Великий торговельний договір"
  nightmare_moon: "Луна готується стати Найтмер Мун"

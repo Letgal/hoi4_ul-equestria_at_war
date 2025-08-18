@@ -72,13 +72,13 @@ form_department_tooltip: "Виконано поліпшення агентств
  sp_nuclear_clean_nuclear_bomb_desc:0 "A low-yield and relatively 'clean' bomb, still capable of vaporizing enemy tanks and airfields while not leaving excessive lingering radiation, has come to our attention. Ideal for tactical use, this would increase our versatility significantly."
  CLEAN_NUCLEAR_BOMB_TT: "При застосуванні §Yядерної бомби§! §Gрадіоактивні опади будуть коротші та менш суворі.§!\n\nДозволяє застосовувати §Yатомні бомби§! тактичними бомбардувальниками!\n\n§GПодвоює§! наше виробництво §Yатомних бомб§!!" # (&)
 
- sp_nuclear_cobalt_bomb: "«Посолена» термоядерна бомба"
+ sp_nuclear_cobalt_bomb: "Сольова термоядерна бомба" # (&?)
  sp_nuclear_cobalt_bomb_desc:0 "Even the thermonuclear bomb now may be outclassed, as a disturbing new proposal has come to us: the creation of a radiological weapon to deliberately create huge amounts of fallout. Such a weapon would expand its reach beyond the area targeted and irradiate a huge region. This weapon would grant tremendous clout to the one wielding it, though hopefully we'd never have to actually use it..."
  COBALT_BOMB_RADIATION_TT: "При застосуванні §Yтермоядерної бомби§! §Rвсі сусідні області будуть також отримувати радіацію§!.\n\n§YЯкщо ми вразимо нейтральну країну, §Rвона може зробити дії у відповідь§!.§!" # (&)
 
  sp_nuclear_clean_nuclear_bomb_speed_factor: "Темпи дослідження зменшених ядерних бомб"
  sp_nuclear_clean_nuclear_bomb_speed_factor_tt: " $sp_nuclear_clean_nuclear_bomb_speed_factor$: $RIGHT|+=%1$"
- sp_nuclear_cobalt_bomb_speed_factor: "Темпи дослідження «посолених» термоядерних бомб"
+ sp_nuclear_cobalt_bomb_speed_factor: "Темпи дослідження сольових термоядерних бомб" # (&?)
  sp_nuclear_cobalt_bomb_speed_factor_tt: " $sp_nuclear_cobalt_bomb_speed_factor$: $RIGHT|+=%1$"
 
 ###############################
