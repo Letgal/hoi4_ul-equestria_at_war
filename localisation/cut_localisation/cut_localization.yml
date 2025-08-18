@@ -2178,6 +2178,26 @@
   BAR_ded_medium_planes: "$BAR_pen_medium_planes$"
   BAR_ded_shipyard: "$BAR_pen_shipyard$"
 
+ # country_FEZ
+  ### ПЕРСОНАЖІ ###
+  # Лідери
+  FEZ_gwenael_godard: "Ґвенаель Ґодар"
+  FEZ_koos_geldloos: "Коос Гелдлоос"
+  FEZ_andre_langrand_dumonclaw: "Андре Ланґран-Дюмонкло"
+  FEZ_willem_holveder: "Віллем Голведер"
+  FEZ_leopold_le_betbet_barbet: "Леополд «le Betbet» Барбет"
+  FEZ_wilfried_pasvogel: "Вільфрід Пасфоґель"
+  FEZ_gwilherm_girault: "Ґвільєрм Жіро"
+
+  # Генерали
+  FEZ_jan_peeters: "Ян Пеетерс"
+  FEZ_bob_de_kop: "Боб де Коп"
+  FEZ_cor_holveder: "Кор Голведер"
+
+  # Адмірали
+  FEZ_bertrand_bordelyon: "Бертран Бордліон"
+  FEZ_alphonsine_surfurtive: "Альфонсін Сюрфюртів"
+
  # country_HAU
   HAU_hermann_meyer: "Герман Маєр"
   HAU_king_hermann_the_conqueror: "Король Герман Завойовник"

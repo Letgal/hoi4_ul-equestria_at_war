@@ -41,6 +41,7 @@
 + `country_FAL` (переклав *Green Kitten*)
 + `country_FAT` (переклав *StasJesus*) — перечитати
 + `country_FEA` (переклав *StasJesus*) — `(&)`
++ `country_FEZ` (переклав *Bovcun*) — `(&)`
 + `country_FRN` (переклав *Green Kitten*)
 + `country_GFF` (умовно; переклав *Green Kitten*)
 + `country_GRI` (переклав *StasJesus*) — `(&)`
