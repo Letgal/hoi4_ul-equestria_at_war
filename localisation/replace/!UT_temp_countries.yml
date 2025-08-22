@@ -104,6 +104,9 @@
  DMT_BAK_puppet_tag_fascism_DEF: "Республіка Каза-ар-Гав"
  DMT_BAK_puppet_tag_fascism_ADJ: "Каза-ар-гавськ"
 
+ BAK_eastern_commie_faction: "Східний соціалістичний альянс"
+ BAK_eastern_fascist_faction: "Кольтстрімський Пакт"
+
  ### ПАРТІЇ ###
   BAK_admirality_party: "Адміралтейство"
   BAK_admirality_party_long: "Бакарське адміралтейство"
@@ -2301,6 +2304,20 @@
   RAD_DEF: "Комуна матросів, солдатів і робітників Сяйва"
   RAD_ADJ: "Сяйн"
 
+ ### АЛЬЯНСИ ###
+  KIR_KIS_UNITED_FRONT: "Кірійський об'єднаний фронт"
+  KIR_FAIL_FACTION: "Коаліція захисту царства"
+  KIS_FAIL_FACTION: "Патріотичний революційний альянс"
+  KIC_FAIL_FACTION: "Союз визволення кірінів"
+  FRV_SECOND_REPUBLIC: "Друга Кірійська республіка"
+  FRV_LEAGUE_FOR_A_SECOND_REPUBLIC: "Комітет другої республіки"
+  ZAI_KIR_TRI: "Зай-Кірська трійка"
+  ZEBRIKA_AEGIS: "Егіда Зебрики" # Zebrika-Aegis (може таки зберегти?)
+  KIS_EMPIRE_FACTION: "Велике кірінське сузір'я"
+  KIR_HUNDRED_BEACONS_ACCORD: "Угода ста маяків"
+  KIC_CONCORD_FACTION: "Домініон Конкордату"
+  KIR_VERMILION_FACTION: "Кінований домен"
+
  ### ПАРТІЇ ###
   KIR_neutrality_party: "Кліка Вінтер Фрост"
   KIR_neutrality_party_long: "Кліка Вінтер Фрост"
@@ -2477,6 +2494,9 @@
  KIR_milset_baobab: "Баобаб"
  KIR_milset_iroko: "Іроко"
  KIR_milset_redcedar: "Баньян"
+
+ KIR_TRAD_FRAGRANCE: "Благозвучність"
+ KIR_TRAD_CHRYSANTHEMUM: "Конкорд"
 
 # country_KLG
  ### КОСМЕТИЧНІ ТЕҐИ ###
@@ -3492,6 +3512,9 @@
  SRS_FAT_republic_of_cloudsbury_communism: "Соціалістична республіка Клаудбері"
  SRS_FAT_republic_of_cloudsbury_communism_DEF: "Соціалістична республіка Клаудбері"
  SRS_FAT_republic_of_cloudsbury_communism_ADJ: "Клаудберійськ"
+
+ SRS_vp_the_peoples_city: "Народне Місто"
+ Socialist_International: "Соціалістичний інтернаціонал"
 
 # country_TBK
  BAT_republic: "Нова Місячна Республіка"
