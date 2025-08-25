@@ -1221,7 +1221,7 @@
   FBK_grand_duke_hermane_i: "Великий герцоґ Гермейн I"
   FBK_cenhelm_of_farbrook: "Ценгельм Фарбруцький"
   FBK_a_squabbling_group_of_stallionists: "Сварлива група сталліоністів"
-  FBK_comrade_applethorn: "Товариш Епплторн"
+  FBK_comrade_applethorn: "Товаришка Епплторн"
   FBK_hempstrand_char: "Гемпстренд"
   FBK_interim_government: "Перехідний уряд"
 
@@ -2497,6 +2497,12 @@
 
  KIR_TRAD_FRAGRANCE: "Благозвучність"
  KIR_TRAD_CHRYSANTHEMUM: "Конкорд"
+
+ CFR_17844: "Гелвіаполіс" # інак. Гелвіяполіс
+ CFR_17873: "Аурантій"
+ CFR_17799: "Арґінніссія"
+ CFR_17864: "Яріана" # інак. Яріяна
+ CFR_17869: "Коконополіс"
 
 # country_KLG
  ### КОСМЕТИЧНІ ТЕҐИ ###
