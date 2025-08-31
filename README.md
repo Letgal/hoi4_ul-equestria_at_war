@@ -11,7 +11,8 @@
 + `countries_zebrica`
 + `country_AET` (переклав [*StasJesus*](https://steamcommunity.com/profiles/76561198867405533))
 + `country_ANG` (переклав *StasJesus*) — перечитати
-+ `country_AVI` (переклав [*Bovcun*](https://github.com/Bovcun-A)) — `(&)`
++ `country_ARA` (переклав [*Bovcun*](https://github.com/Bovcun-A)) — `(&)`
++ `country_AVI` (переклав *Bovcun*) — `(&)`
 + `country_BAL` (переклав [*Green Kitten*](https://steamcommunity.com/profiles/76561198235810742))
 + `country_BAL_protectorate` (переклав *Green Kitten*)
 + `country_BAN` (переклав *Bovcun*) — `(&)`

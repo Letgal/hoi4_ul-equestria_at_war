@@ -1,5 +1,62 @@
 ﻿Тут розміщено вирізану локалізацію, яку або було шкода видаляти повністю, або яка з тієї чи іншої причини неправильно відображається, разом із супутнім текстом.
 
+# country_ARA
+ ARA_sparleos_fascism: "Королівство Спарлеос"
+ ARA_sparleos_fascism_DEF: "Королівство Спарлеос"
+ ARA_sparleos_fascism_ADJ: "Спарлейськ"
+ ARA_sparleos_democratic: "Королівство Спарлеос"
+ ARA_sparleos_democratic_DEF: "Королівство Спарлеос"
+ ARA_sparleos_democratic_ADJ: "Спарлейськ"
+ ARA_sparleos_neutrality: "Королівство Спарлеос"
+ ARA_sparleos_neutrality_DEF: "Королівство Спарлеос"
+ ARA_sparleos_neutrality_ADJ: "Спарлейськ"
+ ARA_sparleos_communism: "Спарлейська народна республіка"
+ ARA_sparleos_communism_DEF: "Спарлейська народна республіка"
+ ARA_sparleos_communism_ADJ: "Спарлейськ"
+
+ ### ПЕРСОНАЖІ ###
+  # Лідери
+  ARA_margareth_featherin: "Марґарет Фезерін"
+  ARA_dorotheos_featherin: "Доротеос Фезерін"
+  ARA_arantigos_ii: "Арантіґос II"
+  ARA_antioco_moro: "Антіоко Моро"
+  ARA_ciriaco_mediate: "Чіріако Медіате"
+
+  # Генерали
+  ARA_soter: "Сотер"
+  ARA_cassander: "Кассандр"
+  ARA_lysimachus: "Лісімах"
+  ARA_nicator: "Нікатор"
+  ARA_worek_artork: "Ши Девр" # Worek Artork
+
+  # Радники
+  ARA_enrico_presbitero: "Енріко Пресбітеро"
+  ARA_ettore_mambretti: "Етторе Мамбретті"
+  ARA_fiorenzo_porro: "Фйоренцо Порро"
+  ARA_costanzo_cadorna: "Костанцо Кадорна"
+  ARA_giovanna_saletta: "Джованна Салетта"
+  ARA_massimo_fara: "Массімо Фара"
+  ARA_girolamo_filomarino: "Джіроламо Філомаріно"
+  ARA_gaetano_zupelli: "Ґаетано Цупеллі"
+  ARA_mario_orengo: "Маріо Оренґо"
+  ARA_griffberto_di_gavoia: "Ґріффберто ді Ґавоя"
+  ARA_giuseppe_emo: "Джузеппе Емо"
+  ARA_vincenzo_govone: "Вінченцо Ґовоне"
+  ARA_tancredi_badoglio: "Танкреді Бадольйо"
+  ARA_maria_menabrea: "Марія Менабреа"
+  ARA_guglielmo_canevaro: "Ґульєльмо Каневаро"
+  ARA_girolamo_ramorino: "Джіроламо Раморіно"
+  ARA_tancredi_dezza: "Танкреді Децца"
+  ARA_stella_solari: "Стелла Соларі"
+  ARA_mario_sanna: "Маріо Санна"
+  ARA_glessandro_pallavicino: "Ґлессандро Паллавічіно"
+
+ ARA_vp_sparleos: "Спарлеос"
+ ARA_vp_pontelena: "Понтелена"
+ ARA_vp_halbuviros: "Галбувірос"
+
+ arantigos_reborn: "Відроджений Арантіґос"
+
 # country_AVI
  FLO_AVI_fascism: "Ерцгерцогство Фловена"
  FLO_AVI_fascism_DEF: "Ерцгерцогство Великої Фловени"
