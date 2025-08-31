@@ -10,7 +10,7 @@ add_to_PREV_potential_cores_TT: "[Prev.GetName] може зробити земл
 
 news.99.t:0 "The Return Of Tambelon"
 news.99.d:0 "[This.GetNewspaperHeader]Strange news are coming out of the Zebhara desert. Word has spread about a grand city appearing out of thin air and caravan routes being cut off. Local zebra nomads are fleeing the area, rambling about an "ancient evil" returning. They are in a state of shock and keep repeating one word, over and over:\n\n§RTAMBELON.§!"
-news.99.a:0 "The bell tolls for all of us." 
+news.99.a:0 "The bell tolls for all of us."
 
 forced_labor_occupation_improved_EaW: "$forced_labor_occupation$"
 forced_labor_occupation_improved_EaW_tt: "\nОкупаційний закон §Y$forced_labor_occupation$§! буде змінено:\n $MODIFIER_RESISTANCE_DECAY$: §G+40%§!\n $MODIFIER_RESISTANCE_GROWTH$: §G-40%§!\n $MODIFIER_LOCAL_RESOURCES$: §G+10%§!\n $MODIFIER_LOCAL_FACTORIES$: §G+10%§!\n $MODIFIER_ATTRITION_FOR_CONTROLLER$: §G-25%§!\n Шанс саботажу ресурсів: §G-5%§!\n Тривалість саботажу ресурсів: §G-15%§!\n $MODIFIER_COMPLIANCE_GAIN_ADD$: §G+0.030%§!\n"

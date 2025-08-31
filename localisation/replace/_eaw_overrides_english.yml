@@ -647,7 +647,7 @@
 
  #nsb_decisions_l
   restructure_supply_system: "Реорганізувати систему постачання"
-  restructure_supply_system_desc:0 "By redirecting building materials and workers, we can quickly create a small number of make-shift supply dumps along some of our transport routes. This is, however, not a sustainable way of running the system.\n\n§RThis decision can only be taken once. The bonus will disappear if you construct more than 3 additional supply hubs.§!" # (!)
+  restructure_supply_system_desc: "Переспрямовуючи будівельні матеріали та робітників, ми можемо швидко створити невелику кількість тимчасових складів постачання вздовж деяких наших транспортних маршрутів. Однак це не є стійким способом управління системою.\n\n§RЦе рішення можна прийняти лише раз. Бонус зникне, якщо ви збудуєте понад 3 додаткові центри постачання.§!"
 
  #operatives_l
   COUNTERINTELLIGENCE_ACTIVITY_LEVEL_2: "§YВажливий§! — іноземні агенти мають підґрунтя в державі"
