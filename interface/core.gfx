@@ -1771,6 +1771,15 @@ bitmapfonts = {
 	bitmapfont_override = {
 		name = "Arial12"
 		fontfiles = {
+			"gfx/fonts/Arial12"
+			"gfx/fonts/Arial12_cyrillic"
+		}
+		languages = { "l_english" "l_russian" "l_polish" }
+	}
+
+	bitmapfont_override = {
+		name = "Arial12"
+		fontfiles = {
 			"gfx/fonts/japanese/Arial12"
 		}
 		languages = { "l_japanese" }
