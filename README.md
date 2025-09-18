@@ -1,5 +1,5 @@
 # Українська локалізація *Equestria at War*
-Оновлено для *Equestria at War* версії ***2.4.0.5*** (версія гри&nbsp;— *1.16*)
+Оновлено для *Equestria at War* версії ***2.4.1*** (версія гри&nbsp;— *1.16*)
 
 Також включає в себе частковий переклад сабмоду *Diarchy Expanded*.
 
@@ -70,7 +70,7 @@
 + `country_NIM` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
 + `country_NLR` (переклав *Green Kitten*)
 + `country_NMS` (переклав *Green Kitten*)
-+ `country_north_zebrican_war`<!--  (переклав… *All-Ampirian*?) -->
++ ~~`country_north_zebrican_war`~~<!--  (переклав… *All-Ampirian*?) -->
 + `country_NTR`
 + `country_OLE` (переклав *Max*)
 + `country_OLV` (переклав *Bovcun*) — `(&)`
@@ -102,7 +102,7 @@
 + `eaw_autonomy`
 + `eaw_bop`
 + `eaw_capitulation_quotes`
-+ `eaw_decisions`
++ ~~`eaw_decisions`~~
 + `eaw_difficulty`
 + `eaw_diplo_popup`
 + `eaw_factions`

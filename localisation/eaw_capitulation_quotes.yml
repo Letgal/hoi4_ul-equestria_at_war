@@ -217,6 +217,7 @@ GetTNOReference_TRO: "А виявлося, що він шахрай."
 GetTNOReference_MZN: "Вона була права, та не могла їх урятувати."
 GetTNOReference_WIN: "Помилка виправлена."
 GetTNOReference_CTL: "Загарбники чи визволителі — в усіх один кінець."
+GetTNOReference_KLG: "Їм зробили пропозицію, від якої вони не могли відмовитися."
 # ((!))
 GetTNOReference_ABY:0 "Your freedom will never be touched, as your mountains are defiant!" # and your natives do not fear any enemy
 GetTNOReference_ABY_patriots:0 "I will sacrifice all nine of my lives for Abyssinia!"

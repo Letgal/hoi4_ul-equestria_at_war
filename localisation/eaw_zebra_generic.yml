@@ -215,6 +215,12 @@ generic_zebra_focus:0 "Стандартне дерево фокусів Зебр
  REE_ZZeth_desc: "Hey hey horses, Zzeth here."
 
  ASS_unification_of_donkeykind:0 "Об'єднання ослиного роду"
+ ASS_unification_of_donkeykind_desc:0 "The donkeys have been disunited long enough. It is time to bring our race under one nation, so we may better resist foreign invaders." # (!)
+
+ HMR_subjugation_of_osqat: "Підкорення Оскату"
+ HMR_subjugation_of_osqat_desc:0 "The great Haymirite nation must subjugate the haughty rivals that surround it like vultures. We shall start with seizing the rich lands of Osqat to the west." # (!)
+ HMR_subjugation_of_maretania: "Підкорення Мейританії"
+ HMR_subjugation_of_maretania_desc:0 "The magocrats controlling southern Riseia have no right to rule. It is also rumoured they own many precious artifacts, which would make a fine addition to our treasure vaults." # (!)
 
  zebra_fascism_support_idea_trait:0 "Зібрання прихильників зверхності"
  zebra_fascism_support_idea_trait_desc:0 "Наші громадяни починають уважати, що країною має керувати сильний уряд."

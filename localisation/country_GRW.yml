@@ -77,6 +77,8 @@ war_of_liberation: "Війна визволення"
 war_of_liberation_desc: "Ми знищимо монархістську гниль і звільнимо наш народ від їхньої буржуазної експлуатації!"
 prywhen_civil_war: "Прайвенська громадянська війна"
 prywhen_civil_war_desc: "Прайвенська громадянська війна триває вже дуже довго, і майже кожен грифон втягнутий у неї. Але чим довше ми воюємо, тим гірше стає ситуація в країні..."
+prywhen_civil_war_brf: "Громадянська війна у Прайвені" # ((#))
+prywhen_civil_war_brf_desc:0 "The Prywhen Civil War has been raging for quite a while now, and it has taken a toll on every griffon involved. The longer the conflict carries on, the heavier the toll on our nation and people becomes." # (!)
 the_final_push_GRW: "Остаточний ривок"
 the_final_push_GRW_desc: "Залишився лише останній ривок, товариші! Вперед до перемоги та свободи!"
 
@@ -890,6 +892,7 @@ griffonwill.37.t: "[GRW.GetNameDef] чинить на нас тиск"
 griffonwill.37.d: "Лідер [GRW.GetNameDef] надіслав нам телеграму з вимогою скласти зброю. Вони планують окупувати нашу країну і інтегрувати її в грифонську супердержаву. Звісно, нас вигонятимуть на вулицю, але все ж..."
 griffonwill.37.a: "Так уж і бути."
 griffonwill.37.b: "Ніколи!"
+griffonwill.37.c:0 "We are willing to become a puppet state." # (!)
 griffonwill.38.t: "Відповідь з [From.GetNameDef]"
 griffonwill.38.d: "[From.GetAdjective] уряд відповів на нашу останню пропозицію. Вони погоджуються скласти зброю і здатися на милість переможця. [GRW.GetLeader] — приручений дипломат!"
 griffonwill.38.a: "Ідеально."

@@ -1,8 +1,12 @@
 ﻿# == (*) ==
 ### НАЗВИ КРАЇНИ ###
- PNG_EMP_fascism: "Арктична імперія"
- PNG_EMP_fascism_DEF: "Арктична імперія"
- PNG_EMP_fascism_ADJ: "Арктичн"
+ PNG_EMP: "Арктична імперія"
+ PNG_EMP_DEF: "Арктична імперія"
+ PNG_EMP_ADJ: "Арктичн"
+
+ PNG_EMP_communism: "Арктична демократична республіка"
+ PNG_EMP_communism_DEF: "Арктична демократична республіка"
+ PNG_EMP_communism_ADJ: "Арктичн"
 
  PNG_republic_democratic: "Республіка Пінгленд"
  PNG_republic_democratic_DEF: "Республіка Пінгленд"
@@ -12,10 +16,10 @@
  PNG_anti_griff_law:0 "Антигрифонські закони"
  PNG_aberg:0 "Вибрано Аберґа"
  PNG_njordin:0 "Вибрано Нйордіна"
- PNG_commie:0 "Комуніст"
+ PNG_commie:0 "Комуністична революція успішна"
  PNG_subideology_change:0 "§gСубідеологія§! зміниться на §YДемократичний монархізм§!."
-
- PNG_empire1:0 "Чорно-біла буря отримає назву §YАрктична імперія§!.\n"
+ PNG_arctic_unification_tt:0 "§YNorthern Equus will be unified under Arctic Empire. If for you have nova griffons, polar bears and yaks as subjects, they will be annexed.\nKing Njordin will be declared as Emperor!§!" # (!)
+ #PNG_empire1:0 "Чорно-біла буря отримає назву §YАрктична імперія§!.\n"
 
 ### ІДЕЇ ###
  PNG_military_support:0 "Підтримка військових"

@@ -553,6 +553,7 @@ imperial_news.3.b:0 "Sic semper tyrannis."
 imperial_news.3.c:0 "Нарешті! Я думав, він ніколи не здохне."
 imperial_news.3.e:0 "Ще один релікт минулого відійшов у небуття."
 imperial_news.3.f:0 "Передаймо наші співчуття."
+imperial_news.3.dogs_f: "Спочивай із миром, любий імператоре." # ((#))
 imperial_news.3.not_f:0 "Грифонія стала трохи чистішою."
 imperial_news.3.equestria_f:0 "Бідолашний грифон."
 imperial_news.3.equestria_no_f:0 "Попутного вітру йому до Тартару."

@@ -144,6 +144,9 @@ reclaim_the_everfree_forest_decision: "Повернути Вічнодикий �
  develop_eye_of_the_storm_crystals3: "Ще більше кристалів в Оці Бурі"
  develop_eye_of_the_storm_crystals4: "Засе більше кристалів в Оці Бурі"
  develop_thunder_cliffs_chromium: "Видобуток хрому у Громових пагорбах"
+ develop_zumbo_oil:0 "Wellspring Oil Wells" # (!)
+ develop_muromo_werwizi_rubber:0 "Muromo Werwizi Rubber Plantations" # (!)
+ develop_plissa_tungsten:0 "Plissa Mine Expansion" # (!)
 
 GRW_internal_affairs: "Внутрішні справи"
 GRW_move_capital_Sydia: "Перемістити столицію в Сідію"

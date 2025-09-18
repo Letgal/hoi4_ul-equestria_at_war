@@ -3,9 +3,12 @@
 # == (*) ==
 ### ПОДІЇ ###
  north_war.1.t:0 "Почесний мир"
- north_war.1.d:0 "Хіроптеррці та кольтфагенці відправили до нас дипломата з вимогою здачі наших територій на континенті в обмін на мир і звільнення наших військовополонених. Вони стверджують, що продовжувати війну безглуздо, оскільки наші збройні сили — ніщо в порівнянні з їхніми, проте в них немає бажання вторгатись на наші острови.\n\nАналітика майбутнього виглядає похмуро: ми не досягли значущого прогресу у військових діях за останні півроку, і наше населення починає стомлюватися від війни. Якщо ми відмовимося, нас чекає довга та виснажлива війна без гарантії, що супротивники не знищать наш флот, услід за подальшою загрозою десанту на наші острови."
+ north_war.1.d:0 "[north_war_peace_demands] Вони стверджують, що продовжувати війну безглуздо, оскільки наші збройні сили — ніщо в порівнянні з їхніми, проте в них немає бажання вторгатись на наші острови.\n\nАналітика майбутнього виглядає похмуро: ми не досягли значущого прогресу у військових діях за останні півроку, і наше населення починає стомлюватися від війни. Якщо ми відмовимося, нас чекає довга та виснажлива війна без гарантії, що супротивники не знищать наш флот, услід за подальшою загрозою десанту на наші острови."
  north_war.1.a:0 "У нас немає вибору, окрім як визнати поразку..."
  north_war.1.b:0 "Ми ніколи не здамося!"
+ north_war.1.peace_with_wingbardy_and_winggarten_demands:0 "Наші вороги відправили до нас дипломата з вимогою здачі територій на континенті, декількох зовнішніх островів і створення договірного порту в місті Вінґґарден в обмін на мир і звільнення наших військовополонених."
+ north_war.1.peace_with_wingbardy_demands:0 "Наші вороги відправили до нас дипломата з вимогою здачі територій на континенті та декількох зовнішніх островів в обмін на мир і звільнення наших військовополонених."
+ north_war.1.peace_demands:0 "Наші вороги відправили до нас дипломата з вимогою здачі наших територій на континенті в обмін на мир і звільнення наших військовополонених."
 
  north_war.2.t:0 "Перемога"
  north_war.2.d:0 "Чудові новини! [HIP.GetName] прийняла наші умови та підписала мир, офіційно закінчивши Війну в Північній Зебриці. Ця держава більше не буде домінувати в регіоні і, відповідно до наших розвідданих, у них уже починається національна криза, яка деякий час не дозволить їм втручатися в наші справи."
@@ -17,95 +20,25 @@
  north_war.4.a:0 "Цілком очікувано."
  north_war.4.b:0 "Отже, вони обрали смерть!"
 
- north_war.5.t:0 "Хіроптеррська делегація"
- north_war.5.d:0 "Хіроптеррці відправили до нас дипломата з вимогою здачі наших територій на континенті в обмін на мир і звільнення наших військовополонених. Вони стверджують, що продовжувати війну безглуздо, оскільки наші збройні сили — ніщо в порівнянні з їхніми, проте в них немає бажання вторгатись на наші острови.\n\nАналітика майбутнього виглядає похмуро: ми не досягли значущого прогресу у військових діях за останні півроку, і наше населення починає стомлюватися від війни. Якщо ми відмовимося, нас чекає довга та виснажлива війна без гарантії, що супротивники не знищать наш флот, услід за подальшою загрозою десанту на наші острови."
- north_war.5.a: "$north_war.1.a$"
- north_war.5.b: "$north_war.1.b$"
+ north_war.5.t:0 "Гіпогрифія благає про мир"
+ north_war.5.d:0 "Ми отримали завірений особистою печаткою лідера [HIP.GetLeader] лист із проханням про мир від держави [HIP.GetName]. У ньому вони обіцяють дотриматися умов раніше запропонованого договору, а також готові передати багатий на нафту острів Террасія та протоку, яка з'єднує його з материком, у якості додаткової поступки.\n\nГіпогрифи, схоже, перебувають у справжньому відчаї, якщо вони готові зробити нам такі поступки. Більшість наших радників пропонують нам прийняти цю пропозицію просто зараз. Але декотрі генерали запропонували відкрити зміст листа населенню Гіпогрифії. Незаперечний доказ того, що їхні власні лідери вважають війну програною, остаточно зламає волю гіпогрифів до боротьби та дозволить нам легко захопити власне Аріс."
+ north_war.5.a:0 "Ми згодні на цю пропозицію!"
+ north_war.5.b:0 "Ні. Нам це не підходить."
 
- north_war.6.t: "$north_war.2.t$"
- north_war.6.d: "$north_war.2.d$"
- north_war.6.a: "$north_war.2.a$"
+ north_war.6.t:0 "Посольське Місто"
+ north_war.6.d:0 "Згідно з меморандумом, підписаним о [GetDateText] р. послами держав [BAT.GetName], [WNG.GetName], [CTH.GetName] та [HIP.GetName], було створено Міжнародний Мандат на Концесії, Поселення та Представництва у Вінґґардені в якості частини умов Дванадцяти поступок. Місто буде керуватися спільною адміністрацією трьох держав, яка матиме назву Рада Посольського Міста. Де-юре місто залишиться частиною держави [HIP.GetNameDef], проте військові Гіпогрифії не матимуть права ввійти туди. Лінія навколо міста, близько до 30 кілометрів у ширину, буде повністю демілітаризована та перетворена на нейтральну зону, щоби гарантувати безпеку мандату, залишаючися при тому під контролем гори Аріс. У разі порушення мирного договору, що закінчив війну в Північній Зебриці, перші три учасники меморандуму втрутяться з застосуванням зброї, щоби гарантувати подальше існування мандату. Вінґґарден буде вільною від податків зоною, і економічні підприємства будуть вільно створюватися першими трьома підписантами. Четверта сторона не зможе додавати тарифи на імпорт й експорт, що проходить через Вінґґарден. Ця зобов'язаність буде передана адміністрації мандату. Постійні дипломатичні представництва будуть створені першими трьома підписантами. Усі підписанти бажають збереження міцного миру в Північній Зебриці."
+ north_war.6.a:0 "Це допоможе нам тримати гіпогрифів на ланцюгу."
+ north_war.6.b:0 "Пакуйте валізи, ми їдемо до Вінґґардена!"
 
- north_war.8.t: "$north_war.4.t$"
- north_war.8.d: "$north_war.4.d$"
- north_war.8.a: "$north_war.4.a$"
+ north_war.7.t:0 "Гіпогрифи капітулюють!"
+ north_war.7.d:0 "До нас дійшли новини, що гіпогрифи підписали договір про здачу своїх територій на континенті ворогам. Які б не були наші плани на цю землю, ми більше не зможемо їх досягти в битві проти гіпогрифів. Їхній уряд, схоже, зараз бореться з кризою, а залишки армії відстапують на острів. Гіпогрифи надіслали нам телеграму, в якій вони просять про мир, оскільки, згідно з їхнами словами, причин продовжувати війну більше немає."
+ north_war.7.a:0 "Ми згодні з цим."
+ north_war.7.b:0 "Це спрощує нашу роботу."
 
- north_war.9.t:0 "Кольтфагенська делегація"
- north_war.9.d:0 "Кольтфагенці відправили до нас дипломата з вимогою здачі наших територій на континенті в обмін на мир і звільнення наших військовополонених. Вони стверджують, що продовжувати війну безглуздо, оскільки наші збройні сили — ніщо в порівнянні з їхніми, проте в них немає бажання вторгатись на наші острови.\n\nАналітика майбутнього виглядає похмуро: ми не досягли значущого прогресу у військових діях за останні півроку, і наше населення починає стомлюватися від війни. Якщо ми відмовимося, нас чекає довга та виснажлива війна без гарантії, що супротивники не знищать наш флот, услід за подальшою загрозою десанту на наші острови."
- north_war.9.a: "$north_war.1.a$"
- north_war.9.b: "$north_war.1.b$"
-
- north_war.10.t: "$north_war.2.t$"
- north_war.10.d: "$north_war.2.d$"
- north_war.10.a: "$north_war.2.b$"
-
- north_war.12.t: "$north_war.4.t$"
- north_war.12.d: "$north_war.4.d$"
- north_war.12.a: "$north_war.4.b$"
-
- north_war.13.t: "$north_war.1.t$"
- north_war.13.d:0 "Наші вороги відправили до нас дипломата з вимогою здачі територій на континенті, декількох зовнішніх островів і створення «договірного порту» в місті Вінґґарден в обмін на мир і звільнення наших військовополонених. Вони стверджують, що продовжувати війну безглуздо, оскільки наші збройні сили — ніщо в порівнянні з їхніми, проте в них немає бажання вторгатись на наші острови.\n\nНаші генерали переконують нас прийняти цю пропозицію, адже за останні півроку ми не досягли будь-яких успіхів на континенті, а вінґбардійський флот може позмагатись з нашим, тому відмова може призвести до загрози реальної висадки на Аріс. Наше населення також стомилося від війни, і розповсюдження новини про відмову може викликати протести проти продовження війни, яку, згідно з думкою декого, ми не можемо виграти."
- north_war.13.a: "$north_war.1.a$"
- north_war.13.b: "$north_war.1.b$"
-
- north_war.14.t: "$north_war.2.t$"
- north_war.14.d: "$north_war.2.d$"
- north_war.14.a: "$north_war.2.a$"
- north_war.14.b: "$north_war.2.b$"
- north_war.14.c:0 "Вінґбардійська імперія зростає!"
-
- north_war.16.t: "$north_war.4.t$"
- north_war.16.d: "$north_war.4.d$"
- north_war.16.a: "$north_war.4.a$"
- north_war.16.b:0 "Тоді вони обрали смерть!"
- north_war.16.c:0 "Ми знищимо їх на їхньому острівці!"
-
- #north_war.17.t:0 "The Wingbardian Delegation"
- #north_war.17.d:0 "TODO I'm not sure this can even happen since it looks like this is for like, Wingbardy vs HIP solo which wouldn't happen much and wouldn't trigger the NZW?"
- #north_war.17.a: "$north_war.1.a$"
- #north_war.17.b: "$north_war.1.b$"
-
- north_war.19.t: "$north_war.2.t$"
- north_war.19.d: "$north_war.2.d$"
- north_war.19.a: "$north_war.2.a$"
-
- north_war.20.t: "$north_war.4.t$"
- north_war.20.d: "$north_war.4.d$"
- north_war.20.a: "$north_war.16.c$"
-
- north_war.21.t:0 "Посольське Місто"
- north_war.21.d:0 "Згідно з меморандумом, підписаним о [GetDateText] р. послами держав [BAT.GetName], [WNG.GetName], [CTH.GetName] та [HIP.GetName], було створено Міжнародний Мандат на Концесії, Поселення та Представництва у Вінґґардені в якості частини умов Дванадцяти поступок. Місто буде керуватися спільною адміністрацією трьох держав, яка матиме назву Рада Посольського Міста. Де-юре місто залишиться частиною держави [HIP.GetNameDef], проте військові Гіпогрифії не матимуть права ввійти туди. Лінія навколо міста, близько до 30 кілометрів у ширину, буде повністю демілітаризована та перетворена на нейтральну зону, щоби гарантувати безпеку мандату, залишаючися при тому під контролем гори Аріс. У разі порушення мирного договору, що закінчив війну в Північній Зебриці, перші три учасники меморандуму втрутяться з застосуванням зброї, щоби гарантувати подальше існування мандату. Вінґґарден буде вільною від податків зоною, і економічні підприємства будуть вільно створюватися першими трьома підписантами. Четверта сторона не зможе додавати тарифи на імпорт й експорт, що проходить через Вінґґарден. Ця зобов'язаність буде передана адміністрації мандату. Постійні дипломатичні представництва будуть створені першими трьома підписантами. Усі підписанти бажають збереження міцного миру в Північній Зебриці."
- north_war.21.a:0 "Це допоможе нам тримати гіпогрифів на ланцюгу."
- north_war.21.b:0 "Пакуйте валізи, ми їдемо до Вінґґардена!"
-
- # Нова Сєвєряна
-  north_war.22.t: "$north_war.1.t$"
-  north_war.22.d: "$north_war.1.d$"
-  north_war.22.a: "$north_war.1.a$"
-  north_war.22.b: "$north_war.1.b$"
-
-  north_war.23.t: "$north_war.2.t$"
-  north_war.23.d: "$north_war.2.d$"
-  north_war.23.a: "$north_war.2.a$"
-  north_war.23.b: "$north_war.2.b$"
-
-  north_war.24.t: "$north_war.4.t$"
-  north_war.24.d: "$north_war.4.d$"
-  north_war.24.a: "$north_war.4.a$"
-  north_war.24.b: "$north_war.16.b$"
-
-  north_war.25.t: "$north_war.5.t$"
-  north_war.25.d: "$north_war.5.d$"
-  north_war.25.a: "$north_war.1.a$"
-  north_war.25.b: "$north_war.1.b$"
-
-  north_war.26.t: "$north_war.2.t$"
-  north_war.26.d: "$north_war.2.d$"
-  north_war.26.a: "$north_war.2.a$"
-
-  north_war.27.t: "$north_war.4.t$"
-  north_war.27.d: "$north_war.4.d$"
-  north_war.27.a: "$north_war.4.a$"
+ north_war.8.t:0 "Формування уряду національної єдності"
+ north_war.8.d:0 "Сьогодні відомий бізнесгрифон та інвестор Плюмаж Мунфезер оголосив про створення «Уряду національної єдності» в Арісі. Він пообіцяв створити велику коаліцію, щоб об'єднати країну після катастрофічних післявоєнних втрат. Свою ненависть він зосередив насамперед на комуністах, не забувши про рух «Аріс передусім». Поки невідомо, що саме він хоче робити з Арісом, але переможці у війні вже раді бачити просто стабільний і функціонуючий уряд на острові."
+ north_war.8.a:0 "Так воно і є."
+ north_war.8.b:0 "Подивімося, що там коїться..."
 
  north_war.32.t:0 "Перемога над державою [WNG.GetNameDef]"
  north_war.32.d1:0 "When [WNG.GetLeader] joined the war against us many thought our days were numbered, but we have proven them all wrong. Our forces have decisively routed the [WNG.GetAdjective]s in every theater and crippled their capacity to wage war. Aris is secure, and the [WNG.GetAdjective] tyrant has been forced to surrender all his Zebrican territories to us!\n\nNow we must decide what to do with these territories. The island of Purrsia and the treaty port of Katren have historically been part of the Kingdom of Abyssinia. However, the island was sold to Wingbardy in 979 and the port was lost after the Storm King conquered Abyssinia. The Abyssinian government has repudiated these territorial losses and formally requested that we return what is rightfully theirs."
@@ -153,10 +86,54 @@
  north_war.101.f:0 "Звучить як чудова можливість..."
  north_war.101.g:0 "Нема спокію в Північній Зебриці..."
 
- north_war.102.t:0 "Формування уряду національної єдності"
- north_war.102.d:0 "Сьогодні відомий бізнесгрифон та інвестор Плюмаж Мунфезер оголосив про створення «Уряду національної єдності» в Арісі. Він пообіцяв створити велику коаліцію, щоб об'єднати країну після катастрофічних післявоєнних втрат. Свою ненависть він зосередив насамперед на комуністах, не забувши про рух «Аріс передусім». Поки невідомо, що саме він хоче робити з Арісом, але переможці у війні вже раді бачити просто стабільний і функціонуючий уряд на острові."
- north_war.102.a:0 "Так воно і є."
- north_war.102.b:0 "Подивімося, що там коїться..."
+ north_war_alliance.1.t:0 "Against The Hippogriffs" # (!)
+ north_war_alliance.1.d:0 "As we prepare for war with the Hippogriffs, there is no secret that another nation likewise gears for war with them: [?NZW_alliance_receiver.GetName]. Like us, they have set their eyes on the valuable land Hippogriffia still holds on the continent. It seems therefore natural to consult with their leadership about possible cooperation – to form an axis against Aris. The [ROOT.GetAdjective] military leadership has also come out in favour of such a deal, since, despite the strength of our armed forces, the Hippogriffs have remained the leading military power in North Zebrica ever since the Storm King was defeated – and some claim that we may not be ready yet to challenge them alone.\n\nIn case that we can reach an agreement, this would also open the question of how to split the lands the Hippogriffs currently control. Our diplomats have developed a plan to split the area, with all lands south of the Zuthul River going to [NZ2.GetName] and all lands north going to [NZ1.GetName]. [north_war_alliance_1_zinder_text]" # (!)
+ north_war_alliance.1.a:0 "A great idea." # (!)
+ north_war_alliance.1.b:0 "What a foolish idea." # (!)
+ north_war_alliance.1.zinder_demand:0 "In addition, our diplomats have added the demand to be given the state of Zinder to make the proposed borders fairer." # (!)
+ north_war_alliance.1.zinder_offer:0 "In addition, our diplomats have added the offer to cede the state of Zinder to make the proposed borders fairer." # (!)
+
+ north_war_alliance.2.t:0 "[FROM.GetName] Proposes An Alliance" # (!)
+ north_war_alliance.2.d:0 "[FROM.GetAdjective] relations with the Hippogriffs have greatly soured in recent years, and it is no secret that armed conflict between the two of them is lurking on the horizon. In light of this, [From.GetLeader] asks for our cooperation in the creation of an Anti-Hippogriff alliance: a formal pact to act together if either of us enters into a state of war with Hippogriffia. This is our chance to ensure that we have a strong nation on our side in the case of our own war, although some ponies question exactly how reliable of an ally [FROM.GetName] would be.\n\nThe proposal also includes a proposed split of the land the Hippogriffs currently occupy. According to this plan, all lands south of the Zuthul River would to [NZ2.GetName] and all lands north to [NZ1.GetName]. [north_war_alliance_2_zinder_text]" # (!)
+ north_war_alliance.2.a:0 "We must stand together!" # (!)
+ north_war_alliance.2.b:0 "We have no need for such an alliance." # (!)
+ north_war_alliance.2.zinder_demand:0 "In addition, their diplomats have added the demand to be given the state of Zinder to make the proposed borders fairer." # (!)
+ north_war_alliance.2.zinder_offer:0 "In addition, their diplomats have added the offer to cede the state of Zinder to make the proposed borders fairer." # (!)
+
+ north_war_alliance.3.t:0 "Alliance Signed" # (!)
+ north_war_alliance.3.d:0 "Our envoys return bearing good news: [FROM.GetName] has wisely decided to accept our offer of an alliance, and so the Anti-Aris Axis is born. Their cooperation will no doubt prove invaluable in our coming conflict against the Hippogriffs, meaning victory is now easily within our reach. [north_war_alliance_3_zinder_text]" # (!)
+ north_war_alliance.3.a:0 "Together against Aris." # (!)
+ north_war_alliance.3.zinder:0 "As part of this agreement, the Zarantian state of Zinder will be transferred for strategic reasons." # (!)
+
+ north_war_alliance.4.t:0 "Alliance Declined" # (!)
+ north_war_alliance.4.d:0 "Our envoys return bearing grim news: [FROM.GetName] has foolishly rejected our offer of an alliance, dealing a deathblow to the dream of an Anti-Aris Axis. Having failed to secure the cooperation of the bats, we are now forced to face down the Hippogriffian menace all by ourselves: a truly daunting prospect, but our only option remaining. It will require the total dedication of every citizen if we are to have any chance of victory in the conflict ahead, but we are left with no alternative." # (!)
+ north_war_alliance.4.a:0 "Dark days are ahead." # (!)
+
+ north_war_alliance.5.t:0 "The Future Of The $NZW_anti_aris_axis$" # El generico # (!)
+ north_war_alliance.5.t_CTH:0 "The Alliance or the Dream?" # Formerly colthage_others.211 # (!)
+ north_war_alliance.5.d:0 "The war with Hippogriffia is finally over. It has been described as the defining war for the future of North Zebrica, as a pivotal moment in history, and as a fight for the destiny of our nation. Upon the Hippogriff's surrender, celebrations broke out all over the countryside, for our nation was to finally enjoy its well-earned peace.\n\nBut among some members of our political leadership, the jubilations have been more restrained. Before the war, we signed an alliance with [?NZW_alliance_receiver.GetName], and so far, we have shared the price. But was this alliance ever more than an act of political and military convenience? Have our nations really the potential to work together in the future? Their ambitions are not any smaller than our own, and so some in the administration urge [ROOT.GetLeader] to dissolve this unstable pact and prepare to fight for the true, unchallenged hegemony in North Zebrica." # El generico # (!)
+ north_war_alliance.5.d_CTH:0 "Looking out across the rolling hills of Aurez at his new Zumidian citizens, some part of Zalathel felt he had reached the end of the road of conflict he'd walked for so many years. But he wasn't at the end: merely another crossroads.\n\n"I know what you're thinking, Zal," said Zago, lounging in the grass beside him, "Wouldn't it be better if we could have all of Zonicia? Why do we have to share? Well, if you look at these zebras below us, I think you'll see the answer. They've seen so much war, and if you let them enjoy peace, they'll love you for it."\n\nZalathel was about to turn to Zasdrubal, expecting his militaristic brother to offer a counterpoint, when a bitter laugh cut through the silence. Looking behind them, the brothers saw Zaphod had caught up with them.\n\n"These zebras had plenty of peace before we came to 'liberate' them. And now we've won. We've 'liberated' millions of them in Zirta and Warzena to toil under our good friends, the Chiropterrans."\n\nThe brothers were momentarily dumbstruck. Zago got to his hooves and glared at her.\n\n"We just won the toughest war since the Storm King. Do you have to ruin it, Zaphod?"\n\nZasdrubal spoke in a low voice: "I think our sister is suggesting we betray our allies. Is that it, Zaphod?"\n\nZaphod nodded. "I was against this alliance from the start. We've fought with the Chiropterrans. We know what they're like. We know what they're going to do now that they don't have external threats. Now that they can really get to work."\n\nZalathel remained silent. To betray his one ally, to subject his citizens to yet another terrible war... unthinkable. But to abandon his fellow Zonicians to the Lunarist yoke... also unthinkable.\n\nZalathel's eye rested on some of the Zumidian farmers below, finally getting a good enough look to see what they were doing. They were removing an unexploded landmine from their fields." # Formerly colthage_others.211 # (!)
+ north_war_alliance.5.a:0 "We will not betray our closest allies." # (!)
+ north_war_alliance.5.b:0 "We must claim full dominance in North Zebrica." # (!)
+ north_war_alliance.5.c:0 "The Zonician Dream is worth any sacrifice." # CTH special option # (!)
+
+ north_war_alliance.6.t:0 "Hidden" # (!)
+
+ north_war_alliance.7.t:0 "Peace In North Zebrica" # (!)
+ north_war_alliance.7.d:0 "Diplomats from [NZ1.GetName] and [NZ2.GetName] have met in Agzhat to discuss the future of the Anti-Aris Axis. After the Hippogriffs lay defeated, its future had become uncertain – as the common enemy was gone, tensions over future dominance in North Zebrica had flared up.\n\nBut now, cooler heads have prevailed. [NZ2.GetLeader] and [NZ1.GetLeader] both publicly stated their intention to prevent further war and build on the foundations of the Axis. The new treaty, quickly dubbed the "Agzhat Pact" after the town where it was negotiated, establishes a comprehensive framework of economic, diplomatic, and military cooperation. Media outlets from both nations have celebrated the news, and "Peace in North Zebrica" has become the credo of the hour." # (!)
+ north_war_alliance.7.a:0 "A toast towards cooperation." # (!)
+
+ north_war_alliance.8.t:0 "The End Of The $NZW_anti_aris_axis$" # (!)
+ north_war_alliance.8.d:0 "After the war, the future of the Anti-Aris Axis had become uncertain – but now it is dead. While [ROOT.GetLeader] was willing to preserve it, [?NZW_alliance_dissolver.GetLeader] seems to have chosen differently. They expressed their frustrations with the Treaty of Trotgourait – despite the fact that the borders had been previously agreed upon – and instead demanded further concessions. The tone and scope of the demands made it abundantly clear that there was little interest on their side in conducting serious negotiations.\n\nAnd so, the alliance was laid to rest, as the future of North Zebrica seems uncertain once more. [ROOT.GetLeader] has ordered the military high command to prepare for all eventualities, for the final struggle in North Zebrica might yet be to come." # (!)
+ north_war_alliance.8.a:0 "So they chose war." # (!)
+
+ north_war_alliance.9.t:0 "The End Of The $NZW_anti_aris_axis$" # (!)
+ north_war_alliance.9.d:0 "The Anti-Aris Axis is dead. Unsurprisingly, our demands for full dominance weren't taken too well by our erstwhile allies, and the pact was dissolved as quickly as it had been signed. Now, there is only one thing left to do: fulfil our destiny and bring all of North Zebrica under our control." # (!)
+ north_war_alliance.9.a:0 "The future belongs to [ROOT.GetNameDef]." # (!)
+
+ north_war_alliance.10.t:0 "The End Of The $NZW_anti_aris_axis$" # (!)
+ north_war_alliance.10.d:0 "After the war with Hippogriffia, tensions quickly flared between [NZ2.GetName] and [NZ1.GetName]. Some optimistic observers might have hoped that the two powers would be exhausted by the war and favour continued cooperation, but the actions by [NZ1.GetLeader] and [NZ2.GetLeader] quickly proved these dreams unfounded. Instead, it seems the axis really was never more than a temporary convenience, intended to be broken as soon as it lost its usefulness. Now, the only question remaining is how soon the tensions will boil over in full-blown war." # (!)
+ north_war_alliance.10.a:0 "North Zebrica isn't big enough for two superpowers." # (!)
 
 ### КАТЕГОРІЇ РІШЕНЬ ###
  north_zebrican_war:0 "Війна в Північній Зебриці"

@@ -431,6 +431,9 @@
   MODIFIER_DEFENSE_BONUS_AGAINST_A_COUNTRY: " Бонус до захисту проти держави"
   MODIFIER_BREAKTHROUGH_BONUS_AGAINST_A_COUNTRY: " Бонус до прориву проти держави"
   MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY_ON_ITS_CORES: " Атака на її осердній землі" # CORE
+  MODIFIER_RIVER_CROSSING_PENALTY_FACTOR: "Штраф до швидкості від форсування річки" # РЛ
+  MODIFIER_RIVER_CROSSING_PENALTY_FACTOR_DESC: "Штраф до швидкості від форсування річки: $VALUE|-=%2$" # РЛ
+  MODIFIER_RIVER_CROSSING_PENALTY_FACTOR_AGAINST_A_COUNTRY: "Штраф до швидкості від форсування річки проти держави" # РЛ
   state_resource_oil: "Нафта"
   state_resource_aluminium: "Алюміній"
   state_resource_rubber: "Гума"
@@ -566,7 +569,6 @@
   BALTIC_anti_bolshevik: "Ветеран-антикомуніст"
   veteran_anti_bolshevik: "Ветеран-антикомуніст"
   anti_bolshevik_leftist: "Лівак-антисталліоніст"
-  trait_GRE_stauch_monarchist_desc:0 "This leader respects and reveres the monarchy as an institution."
   JUNO_national_socialist_occultist:0 "Pan-Equusian Occultist"
   tsars_puppet:0 "Speaker at the Gate"
   SWI_soviet_spy: "Сталліонградський шпигун"

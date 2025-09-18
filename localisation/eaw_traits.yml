@@ -254,6 +254,9 @@
  determined_innovator_desc:0 "§LThis commander uses the most modern means of warfare. Improvise. Adapt. Overcome!§!"
  warrior_chief: "Вождь-воїн"
 
+ trait_staunch_monarchist:0 "Staunch Monarchist"
+ trait_staunch_monarchist_desc:0 "This leader respects and reveres the monarchy as an institution."
+
  agricultural_concern: "Рільничий концерн"
 
  artillery_officer: "Офіцер артилерії"
@@ -571,6 +574,8 @@ Yal_skeleton_king_army_leader_desc:0 "§LFighting for the great Grover II inspir
 
  aeronautical_engineer: "Авіаційний інженер"
 
+ IBZ_iron_breaker_trait:0 "Iron Breaker"
+
 ### THESE ARE NOT DUPLICATES, DO NOT REMOVE
  alt_red_army_organizer: "$red_army_organizer$"
  alt_army_chief_defensive_1: "$army_chief_defensive_1$"
@@ -674,6 +679,9 @@ Yal_skeleton_king_army_leader_desc:0 "§LFighting for the great Grover II inspir
  alt_air_airborne_1: "$air_airborne_1$"
  alt_air_airborne_2: "$air_airborne_2$"
  alt_air_airborne_3: "$air_airborne_3$"
+ alt_air_pilot_training_1: "$air_pilot_training_1$"
+ alt_air_pilot_training_2: "$air_pilot_training_2$"
+ alt_air_pilot_training_3: "$air_pilot_training_3$"
  alt_navy_chief_naval_aviation_1: "$navy_chief_naval_aviation_1$"
  alt_navy_chief_naval_aviation_2: "$navy_chief_naval_aviation_2$"
  alt_navy_chief_naval_aviation_3: "$navy_chief_naval_aviation_3$"
