@@ -268,7 +268,7 @@ form_department_tooltip: "Виконано поліпшення агентств
 
   sp_universal_translator: "Універсальний перекладач"
   sp_universal_translator_desc:0 "Грифоны – пожалуй, самый лингвистически разнообразный вид на всей планете. Неудивительно, что по этой – и ряду других – причине, исторически грифоны полагались на оружие, нежели на слова и дипломатию. Для того, чтобы решить эту проблему, учёные предложили разработать специальную зачарованную гарнитуру, позволят нашему виду общаться независимо от родного региона. Конечно, придётся разработать много прототипов, пока мы не сможем добиться по-настоящему незаметного переводчика, но даже текущий вариант – это огромный шаг вперёд."
-  sp_explain_universal_translator:0 "Добавляет динамический модификатор §YУниверсальный переводчик§!, дающий бонусы в зависимости от того, сколькими значимыми региональными столицами в Грифонии владеете вы или ваши марионетки. Региональные столицы, влияющие на эту идею:\n — Грифенхейм, Герцланд:\n  - Организация дивизии: +5.00%\n\n — Аквила, Аквелия:\n  - Темп исследований: +5.00%\n\n — Карфин, Южная Грифония:\n  - Эффективность добычи ресурсов: +5.00%\n\n — Грифонстоун, Центральная Грифония:\n  - Ежедневный прирост политической власти: +0.10\n  - Стабильность: +10%\n\n — Сидия, Долина Эви:\n  - Ежемесячный прирост населения: +30.00%\n\n — Клаудбьюри, Северная Грифония:\n  - Расход припасов: -10.0%"
+  sp_explain_universal_translator: "Додає динамічний модифікатор §Y$griffon_universal_translator_modifier$§!, що дає бонуси на основі того, скількома значними регіональними столицями у Грифонії володієте ви або ваші маріонетки. Регіональні столиці — ось такі:\n– Грифенгайм, Герцланд:\n  - $MODIFIER_ARMY_ORG_FACTOR$: +5.00%\n\n– Аквіла, Аквілея:\n  - $MODIFIER_RESEARCH_SPEED_FACTOR$: +5.00%\n\n– Карфін, південна Грифонія:\n  - $MODIFIER_LOCAL_RESOURCES_FACTOR$: +15.00%\n\n– Грифонстоун, середня Грифонія:\n  - Політична влада щодня: +0.10\n  - $MODIFIER_STABILITY_FACTOR$: +10%\n\n– Сідія, долина Еві:\n  - $MODIFIER_GLOBAL_MONTHLY_POPULATION$: +30.00%\n\n– Клаудбері, північна Грифонія:\n  - $MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: -10.00%"
 
   griffon_universal_translator_modifier: "$sp_universal_translator$"
   griffon_universal_translator_modifier_desc: "$sp_universal_translator_desc$"
@@ -359,11 +359,11 @@ form_department_tooltip: "Виконано поліпшення агентств
 ### MAGICAL PROJECT REWARDS ###
 ###############################
  # Generic
- sp_magical_generic_reward_scientist_xp_1: "Способности исследователя улучшатся"
- sp_magical_generic_reward_scientist_xp_2: "Учёный завершает обучение"
- sp_magical_generic_reward_scientist_xp_3: "Исследователь проводит семинар"
- sp_magical_generic_reward_major_progress_1: "Прорыв в магическом исследовании"
- sp_magical_generic_reward_major_progress_2: "Талантливый маг предоставляет [Country.GetHand] помощи"
+ sp_magical_generic_reward_scientist_xp_1: "Здібності дослідника поліпшуються"
+ sp_magical_generic_reward_scientist_xp_2: "Науковець завершує навчання"
+ sp_magical_generic_reward_scientist_xp_3: "Дослідник проводить семінар"
+ sp_magical_generic_reward_major_progress_1: "Прорив у магічних дослідженнях"
+ sp_magical_generic_reward_major_progress_2: "Талановитий маг простягає [Country.GetHand_VI]"
  sp_magical_generic_reward_major_progress_3: "Сделаны большие успехи"
  sp_magical_generic_reward_test_failure_1: "Провал магического испытания!"
  sp_magical_generic_reward_test_failure_2: "Непредвиденные затраты энергии"
@@ -371,11 +371,11 @@ form_department_tooltip: "Виконано поліпшення агентств
  sp_magical_generic_reward_magical_tech_1: "Прорыв в магическом исследовании"
  sp_magical_generic_reward_magical_tech_2: "Открытие в магических науках"
  sp_magical_generic_reward_magical_tech_3: "Разработаны новые заклинания"
- sp_magical_generic_reward_race_tech_1: "Прорыв в расовых науках"
- sp_magical_generic_reward_race_tech_2: "Открытие в раскрытии расового потенциала"
- sp_magical_generic_reward_race_tech_3: "Продвижение в понимании нашего дара"
- sp_magical_generic_reward_resource_scarcity: "Последствия нехватки ресурсов"
- sp_magical_generic_reward_critical_failure: "Катастрофический взрыв в лаборатории"
+ sp_magical_generic_reward_race_tech_1: "Расознавче досягнення"
+ sp_magical_generic_reward_race_tech_2: "Відкриття в розкритті расового потенціалу" # (&?)
+ sp_magical_generic_reward_race_tech_3: "Поглиблене розуміння нашого дару"
+ sp_magical_generic_reward_resource_scarcity: "Відчутний брак ресурсів"
+ sp_magical_generic_reward_critical_failure: "Катастрофічний вибух у лабораторії"
 
  # magical supply
  sp_magical_supply_organisation_choice_reward: "Офицеры требуют сделать выбор"
@@ -475,8 +475,8 @@ form_department_tooltip: "Виконано поліпшення агентств
 
  intercontinental_maritime_patrol_plane_airframe:0 "Корпус межконтинентального морского патрульного самолёта"
 
- sp_magical_generic_reward_option_magical_tech_bonus_name:0 "Бонус к магическим технологиям от спецпроекта"
- sp_magical_generic_reward_option_race_tech_bonus_name:0 "Бонус к расовым технологиям от спецпроекта"
+ sp_magical_generic_reward_option_magical_tech_bonus_name: "Бонус до магічних технологій від спеціального проєкту"
+ sp_magical_generic_reward_option_race_tech_bonus_name: "Бонус до расових технологій від спеціального проєкту"
 
 ##### TAG SPECIFIC #######
  sp_future_infantry_rifle:0 "Проект "ЗАЛП""

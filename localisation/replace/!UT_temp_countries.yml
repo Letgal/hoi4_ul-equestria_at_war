@@ -3290,12 +3290,40 @@
   RIV_rcsc_member: "Член РСВС" # Річкова спільнота вугілля та сталі
   RIV_rec_member: "Член РЕС" # Річкова економічна спільнота
   RIV_river_union_member: "Держава-член Річкового Союзу"
+  RIV_rdc: "Річкова розвиткова компанія" # (&?)
+  RIV_beings_rights_idea: "Річкова конвенція про расову терпимість"
+  RIV_development_grants_idea: "Річкові гранти на розвиток" # (&?)
+  RIV_centeral_bank_idea: "Річковий центральний банк"
+  RIV_rivbit_idea: "Рікбіт" # (&+)
+  RIV_river_army_idea: "Річкова армія"
+  RIV_LCT_bonus: "Промисловці Єзераграда"
+  RIV_RCT_bonus: "Купці Річкової республіки"
+  RIV_NIM_bonus: "Німбусійський генеральний штаб"
+  RIV_WIT_bonus: "Віттенлендські маги"
+  RIV_BAK_bonus: "Бакарські моряки"
+  RIV_DEP_bonus: "Депонські фермери"
+  RIV_FRE_bonus: "Понайські ремісники"
+  RIV_DMT_bonus: "Шахтарі діамантових псів"
+  RIV_leader_surrender_bonus: "Блокатор капітуляції для лідера Річкової коаліції"
 
  will_not_interfere_in_the_north: "Річкова коаліція §Yне буде втручатися в війни між північними селами§!"
  RIVERFED_OFFENSIVE_WARS_TT: "§RЧлени Річкової коаліції не можуть приєднуватися до наступальних війн, якщо війну веде не лідер альянсу.§!"
 
 # country_ROA
  ROA_kaiser_augustus: "Кайзер Август"
+
+ ROA_imperial_cosmetic_tag_neutrality: "Південно-східна Зебриканська імперія"
+ ROA_imperial_cosmetic_tag_neutrality_DEF: "Південно-східна Зебриканська імперія"
+ ROA_imperial_cosmetic_tag_neutrality_ADJ: "Роамськ"
+ ROA_imperial_cosmetic_tag_democratic: "Південно-східне Зебриканське королівство"
+ ROA_imperial_cosmetic_tag_democratic_DEF: "Південно-східне Зебриканське королівство"
+ ROA_imperial_cosmetic_tag_democratic_ADJ: "Роамськ"
+ ROA_imperial_cosmetic_tag_communism: "Південно-східна Зебриканська республіка"
+ ROA_imperial_cosmetic_tag_communism_DEF: "Південно-східна Зебриканська республіка"
+ ROA_imperial_cosmetic_tag_communism_ADJ: "Роамськ"
+ ROA_imperial_cosmetic_tag_fascism: "Південно-східна Зебриканська імперія"
+ ROA_imperial_cosmetic_tag_fascism_DEF: "Південно-східна Зебриканська імперія"
+ ROA_imperial_cosmetic_tag_fascism_ADJ: "Роамськ"
 
 # country_SIC
  ### ПЕРСОНАЖІ ###

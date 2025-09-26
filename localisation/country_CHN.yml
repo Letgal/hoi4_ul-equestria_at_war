@@ -2587,9 +2587,9 @@
  CHN_debuff_changeling_category_completed_tt: "Було виконано всі п'ять ступенів §Yзакріплення окупації§!"
  CHN_debuff_resistance_category_completed_tt: "Було виконано всі п'ять ступенів §Yпридушення опору§!"
  CHN_debuff_compliance_category_tt: "Було виконано всі п'ять ступенів §Yпросування покори§!"
- CHN_debuff_changeling_category_var_add_one_tt: "Виконає (§G1§!) ступінь §Yзакріплення окупації§!.\n"
- CHN_debuff_resistance_category_var_add_one_tt: "Виконає (§G1§!) ступінь §Yпридушення опору§!.\n"
- CHN_debuff_compliance_category_var_add_one_tt: "Виконає (§G1§!) ступінь §Yпросування покори§!.\n"
+ CHN_debuff_changeling_category_var_add_one_tt: "Виконує (§G1§!) ступінь §Yзакріплення окупації§!.\n"
+ CHN_debuff_resistance_category_var_add_one_tt: "Виконує (§G1§!) ступінь §Yпридушення опору§!.\n"
+ CHN_debuff_compliance_category_var_add_one_tt: "Виконує (§G1§!) ступінь §Yпросування покори§!.\n"
  CHN_remove_fobs:0 "Decommission Forward Operating Bases"
  CHN_remove_fobs_desc:0 "For whatever reason, the Heer has decided that its network of Forward Operating Bases across Equus have become redundant or otherwise unnecessary. The decommissioning of the bases will free up garrisoned personnel for service elsewhere, though some within the military are concerned with the long-term ramifications of such an act."
 
@@ -2628,10 +2628,10 @@
 
 ### МЕХАНІКА СПОЖИВАННЯ ЛЮБОВІ & ІНТЕРФЕЙС ###
  CHN_love_consumption_mechanic: "Витягнення та споживання любові"
- CHN_love_consumption_mechanic_desc:0 "§CLove§! — the lifeblood of the Changeling race, extracted from the subjects of the §GChangeling Hegemony§!. The methodology with which harvested Love is quantified remains a nebulous science, with an £lovetax_text£ §CErot§! signifying a quantity of Love large enough to significantly boost the capabilities of a small hive.\n\nThe §CRoyal Changeling Heer§! is the institution responsible for the highest levels of §CLove§! consumption in the world. The Heer's voracious appetite for Love means that the efficiency of the Changeling war machine is directly impacted by the amount of §CLove§! — or lack thereof — stockpiled by the Changeling state.\n"
- CHN_love_erot_explainer_tt:0 "Amount of §CLove§! in §CErots§! stockpiled:"
+ CHN_love_consumption_mechanic_desc: "§CЛюбов§! — живильна сила раси чейнджлінґів, витягувана з підданих §GГегемонії Чейнджлінґів§!. Методологія, якою обчислюється зібрана любов, залишається туманною наукою; £lovetax_text£ §Cерот§! позначає об'єм любові достатній, щоби значно посилити можливості малого вулика.\n\n§CКоролівська Армія Чейнджлінґів§! є установа, відповідальна за найвищі рівні споживання §Cлюбові§! у світі. Ненаситний апетит Армії до любові означає, що на ефективність воєнної машини чейнджлінґів безпосередньо впливає §Cлюбов§! — або її відсутність, — накопичена в запаси держави чейнджлінґів.\n" # (&+)
+ CHN_love_erot_explainer_tt: "Кількість накопиченої §Cлюбові§! в §Cеротах§!:"
  CHN_love_erot_stored_explainer_tt:0 "Harvested and Stockpiled £lovetax_text£ §CLove§! can be obtained through §YDecisions§!, §YContinuous Foci§!, and §YEvents§!, and can be consumed to receive miscellaneous bonuses.\n\nIf a deficit arises in the amount of stockpiled Love, various penalties — the severity of which will be scaled to the deficit — will be incurred, determined by the formula (§RD§!) = (§CE§!) × 25%.\nThe penalties will be capped at §R-150%§!."
- CHN_battalions_explainer_tt:0 "Amount of §GFrontline Battalions§! deployed:"
+ CHN_battalions_explainer_tt: "Кількість розгорнутих §Gфронтових батальйонів§!:"
  CHN_battalions_detailed_explainer_tt:0 "This is the total amount of Frontline Battalions and Support Companies deployed in our Divisions. Battalions and Companies deployed in Garrisons are exempted from this calculation."
  CHN_carrying_capacity_explainer_tt:0 "Current Maximum Sustainable Amount of §GFrontline Battalions§! that can be deployed:"
  CHN_carrying_capacity_detailed_explainer_tt:0 "The Maximum Sustainable Amount of Frontline Battalions is determined by this formula:\n( 10 + (§YS§!) ) × 10 Battalions Per State.\n\n[CHN_billeting_system_bonus_loc_string](§YS§!) represents the total amount of §Ynon-core§! states controlled by [CHN.GetNameDef] (§Y[?CHN_directly_controlled_noncorestates_var]§!), in addition to §Y50%§! of the combined amount of states controlled by nations that are §Ysubject states§! of [CHN.GetNameDef] (§Y[?CHN_weekly_love_gain_state_PUPPETS_var]§! × §Y50%§!)."
@@ -2666,14 +2666,14 @@
 
  CHN_resistance_75_trains: "$resistance_75$"
 
- CHN_erots_3_00_tt:0 "§G+3.00§! Erots' worth of £lovetax_text£ §CLove§! will be transferred to [CHN.GetAdjective] stockpiles."
- CHN_erots_2_00_tt:0 "§G+2.00§! Erots' worth of £lovetax_text£ §CLove§! will be transferred to [CHN.GetAdjective] stockpiles."
- CHN_erots_1_25_tt:0 "§G+1.25§! Erots' worth of £lovetax_text£ §CLove§! will be transferred to [CHN.GetAdjective] stockpiles."
- CHN_erots_0_75_tt:0 "§G+0.75§! Erots' worth of £lovetax_text£ §CLove§! will be transferred to [CHN.GetAdjective] stockpiles."
- CHN_erots_0_5_tt:0 "§G+0.50§! Erots' worth of £lovetax_text£ §CLove§! will be transferred to [CHN.GetAdjective] stockpiles."
- CHN_erots_0_5_deducc_tt:0 "§R0.50§! Erots' worth of £lovetax_text£ §CLove§! will be §Rdeducted§!."
- CHN_post_war_5_f_love_req_tt:0 "There is at least §Y0.50§! Erots' worth of £lovetax_text£ §CLove§! in [CHN.GetAdjective] stockpiles."
- CHN_halves_synthetic_love_costs_tt:0 "\nReduces the £pol_power Political Power cost of £decision_icon_small Supplementary Love Synthesization by §G50%§!.\n\n"
+ CHN_erots_3_00_tt: "§G+3.00§! ероти £lovetax_text£ §Cлюбові§! буде переміщено в [CHN.GetAdjective]і сховища."
+ CHN_erots_2_00_tt: "§G+2.00§! ероти £lovetax_text£ §Cлюбові§! буде переміщено в [CHN.GetAdjective]і сховища."
+ CHN_erots_1_25_tt: "§G+1.25§! еротів £lovetax_text£ §Cлюбові§! буде переміщено в [CHN.GetAdjective]і сховища."
+ CHN_erots_0_75_tt: "§G+0.75§! еротів £lovetax_text£ §Cлюбові§! буде переміщено в [CHN.GetAdjective]і сховища."
+ CHN_erots_0_5_tt: "§G+0.50§! еротів £lovetax_text£ §Cлюбові§! буде переміщено в [CHN.GetAdjective]і сховища."
+ CHN_erots_0_5_deducc_tt: "§R0.50§! еротів £lovetax_text£ §Cлюбові§! буде §Rвіднято§!."
+ CHN_post_war_5_f_love_req_tt: "У [CHN.GetAdjective]их сховищах є принаймні §Y0.50§! еротів £lovetax_text£ §Cлюбові§!."
+ CHN_halves_synthetic_love_costs_tt: "\nСкорочує вартість рішення £decision_icon_small $CHN_factories_for_love_decision$ в £pol_power політичній владі на §G50%§!.\n\n" # (&+)
 
  CHN_post_war_1_req_tt: "[EQS.GetName] та її союзники були переможені"
  CHN_post_war_1_b_req_tt: "Ми контролюємо всю §Yсередню Еквестрію§!"
@@ -2686,8 +2686,8 @@
  CHN_post_war_2_faction_research_tt:0 "Joins the §YHegemony Science and Industry Research Compact§!."
  CHN_post_war_2_j_jachs_convinced_tt:0 "§Y[CHN_GetJachsRank] Jachs§! has been convinced of the intrinsic value of equine life."
  CHN_post_war_4_c_tt:0 "\nFor the §OGlory§! of the §CHegemony§!, we shall erase the §YCastle of Friendship§! from existence — to destroy the symbol of §RFriendship§! alongside the fact."
- CHN_post_war_4_g_unlocks_decisions_tt:0 "\nUnlocks §CSiedlungsplan Expansionism§! decisions, which allows for §YSettler-Colonies§! to be established in §Ynorthwestern§! Equestrian states."
- CHN_post_war_4_n_effect_tt:0 "\nUnlocks Decision: §YDecommission Forward Operating Bases§!, which allows for the removal of the §YForward Operating Bases§! National Spirit."
+ CHN_post_war_4_g_unlocks_decisions_tt:0 "\nUnlocks §C$CHN_settlement_plan_cat$§! decisions, which allows for §YSettler-Colonies§! to be established in §Ynorthwestern§! Equestrian states."
+ CHN_post_war_4_n_effect_tt:0 "\nUnlocks Decision: §Y$CHN_remove_fobs$§!, which allows for the removal of the §YForward Operating Bases§! National Spirit."
  CHN_post_war_5_d_resistance_threshold:0 "The Average §RResistance§! of Equestrian core states under our control is below §Y30.0%§!."
  CHN_canterlot_1_occupation_law_req: "Поточний окупаційний закони у Кантерлоті — §Y$CHN_regional_commissariat$§!"
  CHN_canterlot_2_e_upgrade_faction_research_tt:0 "\nBase Technology Research Time Reduction from the §YHegemony Science and Industry Research Compact§! will be increased by §G+5.0%§!."
@@ -2739,7 +2739,7 @@
  CHN_event_45_general_tt:0 "We're not gambling with changeling lives."
  CHN_event_52_told_ya_tt:0 "I did say that this was a bad idea..."
  CHN_event_53_um_tt:0 "We can trust a Queen's Guard, can't we?"
- CHN_event_56_tt:0 "The sunset a glorious sight,\nA pity it preludes the night."
+ CHN_event_56_tt: "Захід сонця милує очі —\nЖаль, що передує він ночі." # The sunset a glorious sight,\nA pity it preludes the night.
  CHN_event_57_vanhoover_tt:0 "Vanhoover shall be the Hegemony's crown jewel!"
  CHN_event_57_acornage_tt:0 "Acornage is the sensible choice."
  CHN_event_60_consequences_tt:0 "The §YColonisation§! of §YVanhoover§! will be §Rdelayed§! by §Y70§! days, and the §YGarrison Requirement§! will be increased by §R+200%§!."
@@ -2776,35 +2776,35 @@
  CHN_form_jagdkommandos_tt:0 "\nUnlocks Ability to deploy §YSturmjägers§! anywhere in the §CHegemony§!."
  CHN_form_jagdkommandos_tt_extra:0 "\nTen §YDivisions§! of §YSturmjägers§! will be formed:\n  - Sturmjäger Kommando 01\n  - Sturmjäger Kommando 02\n  - Sturmjäger Kommando 03\n  - Sturmjäger Kommando 04\n  - Sturmjäger Kommando 05\n  - Sturmjäger Kommando 06\n  - Sturmjäger Kommando 07\n  - Sturmjäger Kommando 08\n  - Sturmjäger Kommando 09\n  - Sturmjäger Kommando 10\n"
 
- CHN_mobile_task_force_tt:0 "Deploy §YSturmjäger Kommando§! to §Y[This.GetName]§!"
- CHN_mobile_task_force_tt_delayed:0 "§LAn elite task force of jäger commandos will be dispatched to [This.GetName].§!\n\n[THIS.CHN_mtf_action_state_requirement_owned]\n[THIS.CHN_mtf_action_state_requirement_notdeployedyet]\n[CHN_mtf_action_not_recalling]\n[CHN_mtf_action_total_deployed]\n\n§YEffects when selected:§!\n(@CHN §Y[Root.GetName]§!): Unlocks Decision: Dispatch Sturmjägers to [This.GetName].\n\nIt costs [Root.GetDecisionCostCP15PP15] to take this action."
+ CHN_mobile_task_force_tt: "Розгорнути §YSturmjäger Kommando§! в області §Y[This.GetName]§!"
+ CHN_mobile_task_force_tt_delayed: "§LЕлітну оперативну групу єгерів-командос буде відправлено до області [This.GetName].§!\n\n[THIS.CHN_mtf_action_state_requirement_owned]\n[THIS.CHN_mtf_action_state_requirement_notdeployedyet]\n[CHN_mtf_action_not_recalling]\n[CHN_mtf_action_total_deployed]\n\n§YЕфекти від вибору:§!\n(@CHN §Y[Root.GetName]§!): Відмикає рішення: Розгорнути Sturmjäger-ів в області [This.GetName]\n\nЦя дія коштує [Root.GetDecisionCostCP15PP15]." # (&+)
 
- CHN_mtf_action_state_requirement_owned_met_tt:0 "£trigger_yes [This.GetName] is owned or controlled by [CHN.GetNameDef], a changeling §Ypuppet state§!, or a §Yfaction member§! of the §CHegemony§!."
- CHN_mtf_action_state_requirement_owned_unmet_tt:0 "£trigger_no [This.GetName] is owned or controlled by [CHN.GetNameDef], a changeling §Ypuppet state§!, or a §Yfaction member§! of the §CHegemony§!."
- CHN_mtf_action_state_requirement_notdeployedyet_met_tt:0 "£trigger_yes §YSturmjägers§! have not been deployed to [This.GetName]."
- CHN_mtf_action_state_requirement_notdeployedyet_unmet_tt:0 "£trigger_no §YSturmjägers§! have not been deployed to [This.GetName]."
- CHN_mtf_action_total_deployed_met_tt:0 "£trigger_yes There are still §YSturmjägers§! in reserve (§Y[?CHN.CHN_mobile_task_force_in_reserve_var]§!)."
- CHN_mtf_action_total_deployed_unmet_tt:0 "£trigger_no There are still §YSturmjägers§! in reserve (§R0§!)."
- CHN_mtf_action_not_recalling_met_tt:0 "£trigger_yes The §YSturmjägers§! are not currently being recalled."
- CHN_mtf_action_not_recalling_unmet_tt:0 "£trigger_no The §YSturmjägers§! are not currently being recalled."
+ CHN_mtf_action_state_requirement_owned_met_tt: "£trigger_yes [This.GetName] належить або керується державою [CHN.GetNameDef], §Yмаріонеткового державою§! чейнджлінґів або §Yчленом альянсу§! §CГегемонії§!" # (&+)
+ CHN_mtf_action_state_requirement_owned_unmet_tt: "£trigger_no [This.GetName] належить або керується державою [CHN.GetNameDef], §Yмаріонеткового державою§! чейнджлінґів або §Yчленом альянсу§! §CГегемонії§!" # (&+)
+ CHN_mtf_action_state_requirement_notdeployedyet_met_tt: "£trigger_yes §YSturmjäger-ів§! не було розгорнуто в області [This.GetName]" # (&+)
+ CHN_mtf_action_state_requirement_notdeployedyet_unmet_tt: "£trigger_no §YSturmjäger-ів§! не було розгорнуто в області [This.GetName]" # (&+)
+ CHN_mtf_action_total_deployed_met_tt: "£trigger_yes У резерві ще є §YSturmjäger-і§! (§Y[?CHN.CHN_mobile_task_force_in_reserve_var]§!)" # (&+)
+ CHN_mtf_action_total_deployed_unmet_tt: "£trigger_no У резерві ще є §YSturmjäger-і§! (§R0§!)" # (&+)
+ CHN_mtf_action_not_recalling_met_tt: "£trigger_yes §YSturmjäger-і§! наразі не відкликаються" # (&+)
+ CHN_mtf_action_not_recalling_unmet_tt: "£trigger_no §YSturmjäger-і§! наразі не відкликаються" # (&+)
 
- CHN_dispatch_jagdkommando_decision_1:0 "Dispatch Sturmjägers to [From.GetName]"
- CHN_dispatch_jagdkommando_decision_1_desc:0 "The number of days until the Sturmjägers arrive at [From.GetName] is determined by the distance from [From.GetName] to Vesalipolis."
- CHN_dispatch_jagdkommando_decision_2:0 "Dispatch Sturmjägers to [From.GetName]"
- CHN_dispatch_jagdkommando_decision_2_desc:0 "The number of days until the Sturmjägers arrive at [From.GetName] is determined by the distance from [From.GetName] to Vesalipolis."
- CHN_dispatch_jagdkommando_decision_3:0 "Dispatch Sturmjägers to [From.GetName]"
- CHN_dispatch_jagdkommando_decision_3_desc:0 "The number of days until the Sturmjägers arrive at [From.GetName] is determined by the distance from [From.GetName] to Vesalipolis."
- CHN_dispatch_jagdkommando_decision_4:0 "Dispatch Sturmjägers to [From.GetName]"
- CHN_dispatch_jagdkommando_decision_4_desc:0 "The number of days until the Sturmjägers arrive at [From.GetName] is determined by the distance from [From.GetName] to Vesalipolis."
- CHN_dispatch_jagdkommando_decision_5:0 "Dispatch Sturmjägers to [From.GetName]"
- CHN_dispatch_jagdkommando_decision_5_desc:0 "The number of days until the Sturmjägers arrive at [From.GetName] is determined by the distance from [From.GetName] to Vesalipolis."
- CHN_dispatch_jagdkommando_decision_spawn_units_tt:0"(@CHN §Y[Root.GetName]§!): Two brigades of §YSturmjäger Kommando§! will be deployed to [From.GetName].\n"
+ CHN_dispatch_jagdkommando_decision_1: "Розгорнути Sturmjäger-ів в області [From.GetName]" # (&+)
+ CHN_dispatch_jagdkommando_decision_1_desc: "Число днів до прибуття Sturmjäger-ів до області [From.GetName] визначається відстанню від області [From.GetName] до Весаліполіса." # (&+)
+ CHN_dispatch_jagdkommando_decision_2: "Розгорнути Sturmjäger-ів в області [From.GetName]" # (&+)
+ CHN_dispatch_jagdkommando_decision_2_desc: "Число днів до прибуття Sturmjäger-ів до області [From.GetName] визначається відстанню від області [From.GetName] до Весаліполіса." # (&+)
+ CHN_dispatch_jagdkommando_decision_3: "Розгорнути Sturmjäger-ів в області [From.GetName]" # (&+)
+ CHN_dispatch_jagdkommando_decision_3_desc: "Число днів до прибуття Sturmjäger-ів до області [From.GetName] визначається відстанню від області [From.GetName] до Весаліполіса." # (&+)
+ CHN_dispatch_jagdkommando_decision_4: "Розгорнути Sturmjäger-ів в області [From.GetName]" # (&+)
+ CHN_dispatch_jagdkommando_decision_4_desc: "Число днів до прибуття Sturmjäger-ів до області [From.GetName] визначається відстанню від області [From.GetName] до Весаліполіса." # (&+)
+ CHN_dispatch_jagdkommando_decision_5: "Розгорнути Sturmjäger-ів в області [From.GetName]" # (&+)
+ CHN_dispatch_jagdkommando_decision_5_desc: "Число днів до прибуття Sturmjäger-ів до області [From.GetName] визначається відстанню від області [From.GetName] до Весаліполіса." # (&+)
+ CHN_dispatch_jagdkommando_decision_spawn_units_tt: "(@CHN §Y[Root.GetName]§!): Дві бригади §YSturmjäger Kommando§! буде розгорнуто в області [From.GetName].\n" # (&+)
 
- CHN_recall_jagdkommandos_decision:0 "Recall Sturmjägers"
- CHN_recall_jagdkommandos_decision_effect_tt:0 "All §YSturmjäger Kommando§! currently deployed or prepared for deployment will be recalled into reserve.\n"
- CHN_has_recalled_jagdkommandos_tt:0 "§YRecalled§! the Sturmjägers."
+ CHN_recall_jagdkommandos_decision: "Відкликати Sturmjäger-ів"
+ CHN_recall_jagdkommandos_decision_effect_tt: "Усі частини §YSturmjäger Kommando§!, наразі розгорнуті або готові до розгортання, буде відкликано в резерв.\n" # (&+)
+ CHN_has_recalled_jagdkommandos_tt: "Sturmjäger-ів §Yвідкликано§!" # (&+)
 
- CHN_pony_slaves_dynamic_modifier_tt:0 "Gains Dynamic Modifier: §YEquestrian Indentured Servitude§!, which grants dynamic bonuses to §YFactory Output§!, §YDockyard Output§!, and §YDivision Recovery Rate§!.\n\nModifier values for the above bonuses are given by the equation §G%§! = ( §YC§! ÷ 10 ), where (§YC§!) represents the average level of §Ycompliance§! across all occupied Equestrian states (§Y[?CHN.core_compliance@EQS]§!/100).\n"
+ CHN_pony_slaves_dynamic_modifier_tt: "Здобуває динамічний модифікатор: §Y$CHN_veterans_slaves_dynamic_modifier$§!, що дає динамічні бонуси до §Yпродуктивності заводів§!, §Yпродуктивності верфей§! та §Yтемпу відновлення дивізій§!.\n\nВеличини модифікаторів для згаданих бонусів подаються за рівнянням §G%§! = ( §YC§! ÷ 10 ), де (§YC§!) представляє середній рівень §Yпідпорядкування§! по всіх окупованих областях Еквестрії (§Y[?CHN.core_compliance@EQS]§!/100).\n" # (&)
 
  CHN_opened_jachs_drawer: "Відкрито Яксову шухляду"
  CHN_everfree_thoroughly_defeated_flag: "Підкорено Вічнодикий ліс" # інак. Приборкано

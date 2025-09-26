@@ -268,7 +268,7 @@ form_department_tooltip: "Виконано поліпшення агентств
 
   sp_universal_translator: "Універсальний перекладач"
   sp_universal_translator_desc:0 "Griffons are perhaps the most linguistically diverse species on the entire planet. It is no surprise - for this and for other reasons - that historically we have relied more on conflict than conversation to resolve our disputes. To make some headway in rectifying this, scientists have proposed that a correctly enchanted radio headset and microphone could allow our kind to properly communicate regardless of their native language. Future miniaturisations of the technology could also produce a more compact device, but for now we'll settle for putting magitech inside our existing military radio equipment."
-  sp_explain_universal_translator:0 "Adds the §YUniversal Translator§! dynamic modifier, which grants bonuses depending how many significant regional capitals in Griffonia you or your puppets own. The regional capitals are as follows:\n — Griffenheim, Herzland:\n  - Division Organisation: +5.00%\n\n — Aquila, Aquileia:\n  - Research Speed: +5.00%\n\n — Karthin, Southern Griffonia:\n  - Resource Gain Efficiency: +15.00%\n\n — Griffonstone, Central Griffonia:\n  - Daily Political Power: +0.10\n  - Stability: +10%\n\n — Sydia, Evi Valley:\n  - Monthly Population: +30.00%\n\n — Cloudbury, Northern Griffonia:\n  - Supply Consumption: -10.00%"
+  sp_explain_universal_translator: "Додає динамічний модифікатор §Y$griffon_universal_translator_modifier$§!, що дає бонуси на основі того, скількома значними регіональними столицями у Грифонії володієте ви або ваші маріонетки. Регіональні столиці — ось такі:\n– Грифенгайм, Герцланд:\n  - $MODIFIER_ARMY_ORG_FACTOR$: +5.00%\n\n– Аквіла, Аквілея:\n  - $MODIFIER_RESEARCH_SPEED_FACTOR$: +5.00%\n\n– Карфін, південна Грифонія:\n  - $MODIFIER_LOCAL_RESOURCES_FACTOR$: +15.00%\n\n– Грифонстоун, середня Грифонія:\n  - Політична влада щодня: +0.10\n  - $MODIFIER_STABILITY_FACTOR$: +10%\n\n– Сідія, долина Еві:\n  - $MODIFIER_GLOBAL_MONTHLY_POPULATION$: +30.00%\n\n– Клаудбері, північна Грифонія:\n  - $MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: -10.00%"
 
   griffon_universal_translator_modifier: "$sp_universal_translator$"
   griffon_universal_translator_modifier_desc: "$sp_universal_translator_desc$"
@@ -359,11 +359,11 @@ form_department_tooltip: "Виконано поліпшення агентств
 ### MAGICAL PROJECT REWARDS ###
 ###############################
  # Generic
- sp_magical_generic_reward_scientist_xp_1: "Researcher's Capabilities Improve"
- sp_magical_generic_reward_scientist_xp_2: "Scientist Completes Classes"
- sp_magical_generic_reward_scientist_xp_3: "Researcher Hosts Seminar"
- sp_magical_generic_reward_major_progress_1: "Magical Research Breakthrough"
- sp_magical_generic_reward_major_progress_2: "Talented Mage Lends a [Country.GetHandCap]"
+ sp_magical_generic_reward_scientist_xp_1: "Здібності дослідника поліпшуються"
+ sp_magical_generic_reward_scientist_xp_2: "Науковець завершує навчання"
+ sp_magical_generic_reward_scientist_xp_3: "Дослідник проводить семінар"
+ sp_magical_generic_reward_major_progress_1: "Прорив у магічних дослідженнях"
+ sp_magical_generic_reward_major_progress_2: "Талановитий маг простягає [Country.GetHand_VI]"
  sp_magical_generic_reward_major_progress_3: "Great Strides Made"
  sp_magical_generic_reward_test_failure_1: "Magical Test Failure"
  sp_magical_generic_reward_test_failure_2: "Unforeseen Energy Requirements"
@@ -371,11 +371,11 @@ form_department_tooltip: "Виконано поліпшення агентств
  sp_magical_generic_reward_magical_tech_1: "Magical Research Achievement"
  sp_magical_generic_reward_magical_tech_2: "Discovery in Magical Studies"
  sp_magical_generic_reward_magical_tech_3: "New Spells Inscribed"
- sp_magical_generic_reward_race_tech_1: "Sapieological Achievement"
- sp_magical_generic_reward_race_tech_2: "Discovery in Unlocking Racial Potential"
- sp_magical_generic_reward_race_tech_3: "Improvements in Understanding Our Gifts"
- sp_magical_generic_reward_resource_scarcity: "Lack of Resources Felt"
- sp_magical_generic_reward_critical_failure: "Catastrophic Laboratory Explosion"
+ sp_magical_generic_reward_race_tech_1: "Расознавче досягнення"
+ sp_magical_generic_reward_race_tech_2: "Відкриття в розкритті расового потенціалу" # (&?)
+ sp_magical_generic_reward_race_tech_3: "Поглиблене розуміння нашого дару"
+ sp_magical_generic_reward_resource_scarcity: "Відчутний брак ресурсів"
+ sp_magical_generic_reward_critical_failure: "Катастрофічний вибух у лабораторії"
 
  # magical supply
  sp_magical_supply_organisation_choice_reward: "Officers Request Focus"
@@ -475,8 +475,8 @@ form_department_tooltip: "Виконано поліпшення агентств
 
  intercontinental_maritime_patrol_plane_airframe:0 "Intercontinental Maritime Patrol Plane Airframe"
 
- sp_magical_generic_reward_option_magical_tech_bonus_name:0 "Magic Tech Bonus From Special Project"
- sp_magical_generic_reward_option_race_tech_bonus_name:0 "Race Tech Bonus From Special Project"
+ sp_magical_generic_reward_option_magical_tech_bonus_name: "Бонус до магічних технологій від спеціального проєкту"
+ sp_magical_generic_reward_option_race_tech_bonus_name: "Бонус до расових технологій від спеціального проєкту"
 
 ##### TAG SPECIFIC #######
  sp_future_infantry_rifle:0 "Project SALVO"
