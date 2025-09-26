@@ -118,7 +118,7 @@
 + `eaw_music`
 + `eaw_musictoggle`
 + `eaw_old_music`
-+ `eaw_parties` (умовно)
++ `eaw_parties`
 + `eaw_pony_techs`
 + `eaw_production`
 + `eaw_resistance` (умовно)
@@ -127,7 +127,7 @@
 + `eaw_war`
 + `eaw_zebra_generic` (переклав *Daybreaker*)
 + `loading_tips`
-+ `parties` (переклав *Max*)
++ `parties` (описи переклав *Max*)
 + `recall_volunteers`
 + `renamed_states`
 + `southern_zebra_ideas`
