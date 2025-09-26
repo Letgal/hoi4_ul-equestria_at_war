@@ -579,6 +579,8 @@
 
  old_partnership_faction: "Стародавній Пакт"
 
+ CNT_queen_karuk: "Королева Карук"
+
 # country_CTH_Monzano
  CTH_MZN_CW: "Кольтфагенська федеральна армія"
  CTH_MZN_CW_DEF: "Сили Кольтфагенської федеральної армії"
@@ -1440,6 +1442,8 @@
 # country_GAR
  GAR_gargoyles_race: "Раса ґарґулій"
 
+ GAR_king_golian: "Король Ґоліан"
+
 # country_Great_lakes
  Generic_great_lakes_cosmetic_tag_placeholder_fascism: "Імперія Великих Озер"
  Generic_great_lakes_cosmetic_tag_placeholder_fascism_DEF: "Імперія Великих Озер"
@@ -1467,6 +1471,9 @@
  GRI_APRILFOOLS_democratic_ADJ: "Імперійн"
  GRI_APRILFOOLS_neutrality_ADJ: "Імперійн"
  GRI_APRILFOOLS_communism_ADJ: "Імперійн"
+
+# country_HAY
+ HAY_queen_bamina: "Королева Баміна"
 
 # country_HEL
  HEL_REPUBLIC_democratic: "Республіка Ґрайфвальд"
@@ -2886,6 +2893,9 @@
  LNS_state_vienybe: "Віенібє"
  LNS_state_sirdis: "Шірдіс"
 
+# country_MAZ
+ MAZ_manza_mahud: "Манза Махуд"
+
 # country_MER
  MER_genevieve_voliere: "Женев'єва Вольєр"
 
@@ -3394,6 +3404,9 @@
  SIC_looking_to_buy: "Сікамеон бажає придбати"
  SIC_MIT_bridge: "Еритсько-кеттський міст"
 
+# country_SON
+ SON_zonni_zolon: "Зонні Золон"
+
 # country_SRS
  ### ПАРТІЇ ###
   SRS_neutrality_party: "Скайнавська військова хунта"
@@ -3467,6 +3480,9 @@
 
  SRS_vp_the_peoples_city: "Народне Місто"
  Socialist_International: "Соціалістичний інтернаціонал"
+
+# country_TIM
+ TIM_agil_agamal: "Аґіл Аґамал"
 
 # country_TBK
  BAT_republic: "Нова Місячна Республіка"
@@ -4232,7 +4248,7 @@
   naval_bonus: "Бонус до дослідження технологій флоту"
 
 # country_YAN
- #YAN_dirk_loterijen: "Дірк Лотерейен"
+ YAN_dirk_loterijen: "Дірк Лотерейен"
 
 # country_ZAR
  ### ПЕРСОНАЖІ ###
@@ -4265,3 +4281,12 @@
  ZAR_worm_coring_name_18719: "Руїни Талонкантера"
  ZAR_worm_coring_name_18741: "Руїни Гаулінґтона"
  ZAR_worm_coring_name_18664: "Руїни Вінґґардена"
+
+# country_ZEL
+ ZEL_mai_gounama: "Май Ґунама"
+
+# country_ZUG
+ ZUG_mukisa: "Мукіса"
+
+# country_ZWA
+ ZWA_uwineza_mbonyu: "Увінеза Мбоню"

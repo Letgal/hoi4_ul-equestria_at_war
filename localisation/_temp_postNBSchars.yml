@@ -25,8 +25,8 @@ EMR_raziqa_pirani:0 "Raziqa Pirani" # (!)
 
 GAZ_trah_tibidoh: "Трах Тібідох"
 
-GFS_mukoza_taredna:0 "Mukoza Taredna"
-GFS_atlas_steyn: "Атлас Стейн"
+GFS_mukoza_taredna: "Мукоза Таредна"
+GFS_atlas_steyn: "Атлас Стеейн"
 GFS_aristaeus_van_straaten: "Арістеус ван Страатен"
 GFS_eurus_gardiner: "Ерус Гардінер"
 GFS_nikolaus: "Ніколаус Янаріс Штальгерц" # Сталгерц?
@@ -55,9 +55,9 @@ HYE_furasho: "Фурашо"
 
 IDO_sauren_kopaha: "Мутья"
 
-IDT_high_chief_excalibur:0 "High Chief Excalibur" # (!)
-IDT_arcin_the_defiler:0 "Arcin the Defiler" # (!)
-IDT_high_chieftess_smooy:0 "High Chieftess Smooy" # (!)
+IDT_high_chief_excalibur: "Верховний вождь Екскалібур"
+IDT_arcin_the_defiler: "Арцін Осквернителька"
+IDT_high_chieftess_smooy: "Верховна вождиця Смуї"
 IDT_toon_ugnip:0 "Toon Ugnip" # (!)
 IDT_frostfury:0 "Frostfury" # (!)
 IDT_snowy_sapphire:0 "Snowy Sapphire" # (!)
@@ -110,9 +110,9 @@ MGY_annu_desc: "§YАвтор портрета§!: Kleowolfy"
 MGY_violetta_locifer: "Віолетта Лоцифер"
 MGY_violetta_locifer_desc: "§YАвтор портрета§!: Stephen Sen"
 
-MSH_almami_zekuris:0 "Almami Zekuris" # (!)
+MSH_almami_zekuris: "Алмамі Зекуріс"
 
-MSS_moronaba_zoudraogo:0 "Moro-Naba Zoudraogo" # (!)
+MSS_moronaba_zoudraogo: "Моро-Наба Зудраоґо"
 MSS_zarkis:0 "Zarkis" # (!)
 MSS_nazi_boni:0 "Nabi Zoni" # (!)
 
@@ -164,10 +164,10 @@ TAI_priestess_dara: "Жриця Дара"
 
 THU_tenzfur_thunderbringer: "Тензфур Тандербринґер"
 
-TSV_plutocrat_council:0 "The Mavelas" # (!)
+TSV_plutocrat_council: "Мавели"
 TSV_general_ceraon_hattingh: "Генерал Кераон Гаттінг"
 
-IBZ_zumoya:0 "Zumoya" # (!)
+IBZ_zumoya: "Зумоя"
 
 WIN_Gilippo_Gappi: "Джіліппо Ґаппі"
 
