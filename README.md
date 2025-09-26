@@ -122,6 +122,7 @@
 + `eaw_pony_techs`
 + `eaw_production`
 + `eaw_resistance` (умовно)
++ `eaw_scripted_maps`
 + `eaw_scripted_triggers` (умовно)
 + `eaw_starting_warning_events`
 + `eaw_war`
