@@ -405,7 +405,7 @@
  VICTORY_POINTS_1224: "Імперата"
  VICTORY_POINTS_16614: "Каштан"
  VICTORY_POINTS_16979: "Арендторія"
- VICTORY_POINTS_20002:0 "Mphaleni"
+ VICTORY_POINTS_20002: "Мфалені" # (&)
  VICTORY_POINTS_16368: "Снейкрут"
  VICTORY_POINTS_16236: "Мадрепора"
  VICTORY_POINTS_16320: "Шовковиця"
@@ -470,17 +470,17 @@
  VICTORY_POINTS_18312: "Зоїа"
  VICTORY_POINTS_17008: "Гуфтва"
  ROA_VICTORY_POINTS_17008: "Бореассалі"
- VICTORY_POINTS_16991:0 "Nzvimbo-Yakafara"
- VICTORY_POINTS_16588:0 "Tsime"
- VICTORY_POINTS_16960:0 "Mokadzani"
- VICTORY_POINTS_17069:0 "Arksturi"
- VICTORY_POINTS_17031:0 "Aureliss"
- VICTORY_POINTS_17060:0 "Polista"
- VICTORY_POINTS_17070:0 "Leraxsta"
- VICTORY_POINTS_17086:0 "Eyrxali"
- VICTORY_POINTS_17115: "Маріксбур"
- VICTORY_POINTS_17129:0 "Nissali"
- VICTORY_POINTS_17109:0 "Talissa"
+ VICTORY_POINTS_16991: "Нзвімбо-Якафара" # (&)
+ VICTORY_POINTS_16588: "Ціме" # (&)
+ VICTORY_POINTS_16960: "Мокадзані" # (&)
+ VICTORY_POINTS_17069: "Аркстурі"
+ VICTORY_POINTS_17031: "Аурелісс" # (&)
+ VICTORY_POINTS_17060: "Поліста" # (&)
+ VICTORY_POINTS_17070: "Леракста" # (&)
+ VICTORY_POINTS_17086: "Ейрксалі" # (&)
+ VICTORY_POINTS_17115: "Маріксбур" # (&)
+ VICTORY_POINTS_17129: "Ніссалі" # (&)
+ VICTORY_POINTS_17109: "Талісса" # (&)
  VICTORY_POINTS_17170: "Цімейн"
  VICTORY_POINTS_18517: "Урсаград"
  VICTORY_POINTS_18595: "Заммар"
@@ -828,18 +828,18 @@
  VICTORY_POINTS_3574: "Іштапан"
  VICTORY_POINTS_16377: "Узунбурун" # (&)
  VICTORY_POINTS_6974: "Пентатома" # (&)
- VICTORY_POINTS_16968:0 "Gomo Utiziro"
- VICTORY_POINTS_16966:0 "Umkhubuto"
- ROA_VICTORY_POINTS_16966:0 "Paksali"
- VICTORY_POINTS_16908:0 "Mutikova" # tree port
- VICTORY_POINTS_16909:0 "Dhorochekipe"
- VICTORY_POINTS_16929:0 "Gulatenga"
- VICTORY_POINTS_16944:0 "Baniraka" # broad field
- VICTORY_POINTS_16953:0 "Kasigara"
- VICTORY_POINTS_16910:0 "Chiteshihara"
- VICTORY_POINTS_17005:0 "Twizakumba"
- VICTORY_POINTS_17019:0 "Tisha"
+ VICTORY_POINTS_16968: "Ґомо Утізіро" # (&)
+ VICTORY_POINTS_16966: "Умхубуто" # (&)
+ ROA_VICTORY_POINTS_16966: "Паскалі" # (&)
+ VICTORY_POINTS_16908: "Мутікова" # (&) # tree port
+ VICTORY_POINTS_16909: "Дгорочекіпе" # (&)
+ VICTORY_POINTS_16929: "Ґулатенґа" # (&)
+ VICTORY_POINTS_16944: "Банірака" # (&) # broad field
+ VICTORY_POINTS_16953: "Касіґара" # (&)
+ VICTORY_POINTS_16910: "Чітешігара" # (&)
+ VICTORY_POINTS_17005: "Твізкумба" # (&)
+ VICTORY_POINTS_17019: "Тіша" # (&)
  VICTORY_POINTS_774: "Ґерріди" # (&)
  VICTORY_POINTS_17918: "Мейргана" # (&)
- VICTORY_POINTS_14868:0 "Ait Bensaraj"
- VICTORY_POINTS_10725:0 "Sarvisuo"
+ VICTORY_POINTS_14868: "Айт Бенсарадж" # (&)
+ VICTORY_POINTS_10725: "Сарвісуо" # (&)

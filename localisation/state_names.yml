@@ -906,22 +906,22 @@
  STATE_904: "Зел-Обейд"
  STATE_905: "Задева"
  STATE_906: "Цімейн"
- STATE_907:0 "Zhlaha Zasha"
- STATE_908:0 "Lake Glissa Terrace"
+ STATE_907: "Жлага Заша" # (&)
+ STATE_908: "Тераса озера Ґлісса"
  STATE_909: "Роам"
- STATE_910: "Мейнткса"
- STATE_911:0 "Muromo Werwizi"
- STATE_912:0 "Girinhival"
- STATE_913:0 "Ibellen"
- STATE_914:0 "Dunhukumba" #eastern region
+ STATE_910: "Мейнткса" # (&)
+ STATE_911: "Муромо Вервізі" # (&)
+ STATE_912: "Ґірінгівал" # (&)
+ STATE_913: "Ібеллен" # (&)
+ STATE_914: "Дунгукумба" # (&) #eastern region
  STATE_915: "Зімпопо"
  STATE_916: "Матанда"
  STATE_917: "Мусанґано"
- STATE_918:0 "Baniremuka"
- STATE_919:0 "Imbayeku"
- STATE_920:0 "Wellspring"
+ STATE_918: "Баніремука" # (&)
+ STATE_919: "Імбаєку" # (&)
+ STATE_920: "Джерело" # (&+)
  STATE_921: "Мейрессапа"
- STATE_922:0 "Uwehlama"
+ STATE_922: "Увеглама" # (&)
  STATE_923: "Шануска"
  STATE_924: "Баґанта"
  STATE_925: "Сачінґ"
