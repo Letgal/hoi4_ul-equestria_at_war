@@ -252,6 +252,9 @@
  BRF_Main: "Дерево фокусів Бродфельду"
  BRF_Mason_Tree: "Дерево фокусів масонів"
 
+# country_CHN
+ CHN_acornage_colony_tt: "§C$CHN_acornage_colonisation_modifier_updated$§!\n\n$MODIFIER_LOCAL_FACTORIES$: §G+50%§!\n$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: §G+50%§!\n$MODIFIER_RESISTANCE_DECAY$: §G+50%§!\n$MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §G+50.00%§!\n$MODIFIER_GLOBAL_MONTHLY_POPULATION$: §G+75.00%§!\n$MODIFIER_LOCAL_NON_CORE_MANPOWER$: §G+75.00%§!"
+
 # country_FEA
  FEA_c_takeover_tag_fascism: "Фетізька національна республіка"
  FEA_c_takeover_tag_fascism_DEF: "Фетізька національна республіка"
