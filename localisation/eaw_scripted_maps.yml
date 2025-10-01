@@ -1,7 +1,7 @@
 ﻿# == (*) ==
  MAPMODE_EAW_SCIENCE_MAP_MODE: "Режим мапи: §HНауковий розвиток§!"
  MAPMODE_EAW_SCIENCE_MAP_MODE_NAME: "Науковий розв."
- MAPMODE_EAW_SCIENCE_MAP_MODE_DESCRIPTION:0 "Displays the levels of Scientific Development across the world."
+ MAPMODE_EAW_SCIENCE_MAP_MODE_DESCRIPTION: "Зображає рівні наукового розвитку по світі." # (&+)
 
  eaw_science_map_mode_tooltip: "§H[FROM.controller.Getname]§!"
  eaw_science_map_mode_tooltip_delayed: "§H[FROM.controller.Getname]§! має §H[FROM.controller.EAW_Get_science_base] базу знань§!."
@@ -13,7 +13,7 @@
 
  MAPMODE_EAW_SOCIETY_MAP_MODE: "Режим мапи: §HСуспільний розвиток§!"
  MAPMODE_EAW_SOCIETY_MAP_MODE_NAME: "Суспільний розв."
- MAPMODE_EAW_SOCIETY_MAP_MODE_DESCRIPTION:0 ""We live in a §Gsocieteeeeeee§!.""
+ MAPMODE_EAW_SOCIETY_MAP_MODE_DESCRIPTION: "Зображає рівні суспільного розвитку по світі." # (&+)
 
  eaw_society_map_mode_tooltip: "§H[FROM.controller.Getname]§!"
  eaw_society_map_mode_tooltip_delayed: "§H[FROM.controller.Getname]§! [FROM.controller.EAW_Get_society]."
@@ -25,11 +25,11 @@
  EAW_mm_tribal_society: "є §Hпримітивним суспільством§!"
  EAW_mm_communal_society: "є §Hкомунальним суспільством§!"
  EAW_mm_detached_country: "є §Hізольованою країною§!"
- EAW_mm_clockwerk_industry:0 "has a §HClockwork Industry§!"
+ EAW_mm_clockwerk_industry: "має §Hмеханічну індустрію§!"
 
  MAPMODE_EAW_LITERACY_MAP_MODE: "Режим мапи: §HНеграмотність§!"
  MAPMODE_EAW_LITERACY_MAP_MODE_NAME: "Неграмотність"
- MAPMODE_EAW_LITERACY_MAP_MODE_DESCRIPTION:0 "Displays the levels of national Illiteracy across the world."
+ MAPMODE_EAW_LITERACY_MAP_MODE_DESCRIPTION: "Зображає рівні неграмотності по світі." # (&+)
 
  eaw_literacy_map_mode_tooltip: "§H[FROM.controller.Getname]§!"
  eaw_literacy_map_mode_tooltip_delayed: "§H[FROM.controller.Getname]§! має §H[FROM.controller.EAW_Get_literacy] неграмотність§!."
@@ -43,7 +43,7 @@
 
  MAPMODE_EAW_POVERTY_MAP_MODE: "Режим мапи: §HБідність§!"
  MAPMODE_EAW_POVERTY_MAP_MODE_NAME: "Бідність"
- MAPMODE_EAW_POVERTY_MAP_MODE_DESCRIPTION:0 "Displays the amount of poverty a nation suffers from across the world."
+ MAPMODE_EAW_POVERTY_MAP_MODE_DESCRIPTION: "Зображає рівні бідності, від якої потерпають країни по світі." # (&+)
 
  eaw_poverty_map_mode_tooltip: "§H[FROM.controller.Getname]§!"
  eaw_poverty_map_mode_tooltip_delayed: "§H[FROM.controller.Getname]§! [FROM.controller.EAW_Get_poverty]."
@@ -60,7 +60,7 @@
 
  MAPMODE_EAW_SPECIES_MAP_MODE: "Режим мапи: §HРаса§!"
  MAPMODE_EAW_SPECIES_MAP_MODE_NAME: "Раса"
- MAPMODE_EAW_SPECIES_MAP_MODE_DESCRIPTION:0 "Shows the majority race of each country in the world map."
+ MAPMODE_EAW_SPECIES_MAP_MODE_DESCRIPTION: "Показує расу більшості кожної країни на мапі світу."
 
  eaw_species_map_mode_tooltip: "§H[FROM.controller.Getname]§!"
  eaw_species_map_mode_tooltip_delayed: "У державі §H[FROM.controller.Getname]§! переважає §H[FROM.controller.EAW_Get_species_map_tooltip]§!."
@@ -68,7 +68,7 @@
  # Culture mapmode
  MAPMODE_EAW_CULTURE_MAP_MODE: "Режим мапи: §HКультурні групи§!"
  MAPMODE_EAW_CULTURE_MAP_MODE_NAME: "Культурні групи"
- MAPMODE_EAW_CULTURE_MAP_MODE_DESCRIPTION: "Shows the predominant culture groups of states."
+ MAPMODE_EAW_CULTURE_MAP_MODE_DESCRIPTION: "Показує переважаючу культурну групу областей."
 
  eaw_culture_map_mode_tooltip: "§H[FROM.EaW_Get_culture]§!"
  eaw_culture_map_mode_tooltip_delayed: "(§H[FROM.controller.GetNameWithFlag]§!): В області §H[FROM.GetName]§! переважає [FROM.EaW_Get_culture]."
@@ -92,8 +92,7 @@
  eaw_culture_yak: "Якська культура"
  eaw_culture_undead: "Культура мерців"
  eaw_culture_zebra: "Казинська культура"
- eaw_culture_zebrides: "Зебридська культура"
- eaw_culture_zongo: "Культура зебр південної Зебрики"
+ eaw_culture_zebrides: "Культура зебр східної Зебрики"
  eaw_culture_north_zebrican_zebra: "Культура зебр Північної Зебрики"
  eaw_culture_north_zebrican_pony: "Культура поні Північної Зебрики"
  eaw_culture_hestrayan: "Гестрайська культура"
@@ -105,7 +104,7 @@
  eaw_culture_horse: "Культура коней"
  eaw_culture_hippogriff: "Культура гіпогрифів"
  eaw_culture_great_laker: "Культура Великих Озер"
- eaw_culture_giraffe: "Культура жирафів"
+ eaw_culture_eastern_hyena: "Культура східних гієн"
  eaw_culture_herzlander_colony: "Культура грифонів Зебрики"
  eaw_culture_nova_griffonian: "Культура Нова-Грифонії"
  eaw_culture_donkey: "Культура віслюків"

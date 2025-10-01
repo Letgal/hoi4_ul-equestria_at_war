@@ -110,9 +110,9 @@
 
 ### НАДВАЖКІ ВОГНЕМЕТНІ ТАНКИ ###
  super_heavy_tank_flame_equipment: "Надважкий вогнеметний танк"
- super_heavy_flame_tank_equipment_1: "Базовий надважкий вогнеметний танк"
- super_heavy_flame_tank_equipment_2: "Поліпшений надважкий вогнеметний танк"
- super_heavy_flame_tank_equipment_3: "Удосконалений надважкий вогнеметний танк"
+ super_heavy_tank_flame_equipment_1: "Базовий надважкий вогнеметний танк"
+ super_heavy_tank_flame_equipment_2: "Поліпшений надважкий вогнеметний танк"
+ super_heavy_tank_flame_equipment_3: "Удосконалений надважкий вогнеметний танк"
 
 ### АРТИЛЕРІЯ ###
  pre_gw_artillery: "Доіндустріальна артилерія"

@@ -48,6 +48,10 @@ form_department_tooltip: "Виконано поліпшення агентств
  sp_land_composite_armor_desc:0 "As HEAT shells become more and more common, a new defense is required for our tanks. The idea of inserting silica glass between rolled steel is appealing, though it will likely prove expensive."
  sp_land_advanced_modern_turret: "Удосконалена сучасна башта"
  sp_land_advanced_modern_turret_desc:0 "As tanks continue to engage at farther and farther ranges, a modernized version of the modern turret is appealing. It would be able to mount even guns once restricted to super-heavy tanks, as well as allowing higher visibility."
+ sp_land_hardened_missile_silo:0 "Hardened Missile Silos"
+ sp_land_hardened_missile_silo_desc:0 "Buried launch platforms in hardened bunkers, accompanied by a protected command and control, and maintenance facilities, will make the ultimate land-based ballistic missiles launch platform."
+ sp_land_infantry_mobility_vehicles:0 "Infantry Mobility Vehicles"
+ sp_land_infantry_mobility_vehicles_desc:0 "Recent advances in military doctrine have raised the question of a mine-protected ambush-resistant vehicle. Such a truck would be ideal for policing in low-intensity conflicts as well as carrying key supplies through dangerous territory. Dubbed an "infantry mobility vehicle", it may well be worth investigating."
 
  ANTI_AIR_INFANTRY_BOOST: "Уся звичайна та моторизована/механізована піхота здобуде малий приріст §Yпротиповітряної атаки§!."
 
@@ -72,13 +76,13 @@ form_department_tooltip: "Виконано поліпшення агентств
  sp_nuclear_clean_nuclear_bomb_desc:0 "A low-yield and relatively 'clean' bomb, still capable of vaporizing enemy tanks and airfields while not leaving excessive lingering radiation, has come to our attention. Ideal for tactical use, this would increase our versatility significantly."
  CLEAN_NUCLEAR_BOMB_TT: "При застосуванні §Yядерної бомби§! §Gрадіоактивні опади будуть коротші та менш суворі.§!\n\nДозволяє застосовувати §Yатомні бомби§! тактичними бомбардувальниками!\n\n§GПодвоює§! наше виробництво §Yатомних бомб§!!" # (&)
 
- sp_nuclear_cobalt_bomb: "«Посолена» термоядерна бомба"
+ sp_nuclear_cobalt_bomb: "Сольова термоядерна бомба" # (&?)
  sp_nuclear_cobalt_bomb_desc:0 "Even the thermonuclear bomb now may be outclassed, as a disturbing new proposal has come to us: the creation of a radiological weapon to deliberately create huge amounts of fallout. Such a weapon would expand its reach beyond the area targeted and irradiate a huge region. This weapon would grant tremendous clout to the one wielding it, though hopefully we'd never have to actually use it..."
  COBALT_BOMB_RADIATION_TT: "При застосуванні §Yтермоядерної бомби§! §Rвсі сусідні області будуть також отримувати радіацію§!.\n\n§YЯкщо ми вразимо нейтральну країну, §Rвона може зробити дії у відповідь§!.§!" # (&)
 
  sp_nuclear_clean_nuclear_bomb_speed_factor: "Темпи дослідження зменшених ядерних бомб"
  sp_nuclear_clean_nuclear_bomb_speed_factor_tt: " $sp_nuclear_clean_nuclear_bomb_speed_factor$: $RIGHT|+=%1$"
- sp_nuclear_cobalt_bomb_speed_factor: "Темпи дослідження «посолених» термоядерних бомб"
+ sp_nuclear_cobalt_bomb_speed_factor: "Темпи дослідження сольових термоядерних бомб" # (&?)
  sp_nuclear_cobalt_bomb_speed_factor_tt: " $sp_nuclear_cobalt_bomb_speed_factor$: $RIGHT|+=%1$"
 
 ###############################
@@ -90,6 +94,7 @@ form_department_tooltip: "Виконано поліпшення агентств
 #######################
  sp_rockets_anti_ballistic_missile: "Ракета ПРО"
  sp_rockets_anti_ballistic_missile_desc:0 "With the new, terrifying age of nuclear weapons and intercontinental ballistic missiles, a daunting proposal has reached us: mounting nuclear warheads on our largest surface-to-air missiles. Theoretically, this would be able to vaporize enemy ICBMs before impact."
+ abm_system_tech:0 "Anti-Ballistic Missile System"
  sp_rockets_air_to_air_missile: "Ракета класу «повітря–повітря»"
  sp_rockets_air_to_air_missile_desc:0 "As electronics become smaller, the once-absurd idea of a guided missile able to be carried by a fighter is in reach of becoming real. This would also open the door to other guided munitions."
  sp_rockets_anti_radiation_missile: "Anti-Radiation Missile"
@@ -113,6 +118,18 @@ form_department_tooltip: "Виконано поліпшення агентств
  sp_naval_supercarrier_desc:0 "The ultimate in naval power projection, a Supercarrier would be capable of holding many more planes than even the largest of our current carriers. Of course, it would also cost far more."
  sp_naval_hovercraft: "Судно на повітряній подушці"
  sp_naval_hovercraft_desc:0 "The hovercraft aims to 'fly' just above any level surface - be it land or sea - essentially by pushing away from it with an air cushion. Currently our prototypes are capable of transporting troops across the water far faster than traditional landing craft whilst maintaining a low profile. Additionally, a mounted machine gun or grenade launcher may make this vehicle relatively formidable in an infantry support role during landing operations."
+ sp_naval_ciws:0 "Close-In Weapon System"
+ sp_naval_ciws_desc:0 "A radar-controlled system of air defense will be capable of shooting down missiles and planes alike."
+ sp_naval_asroc:0 "Anti-Submarine Missile Torpedo"
+ sp_naval_asroc_desc:0 "A long-range missile to deploy a torpedo capable of tracking an enemy submarine with immense accuracy."
+
+ ship_ciws:0 "Close-In Weapon System"
+ ship_ciws_short:0 "CIWS"
+ ship_ciws_desc:0 "Radar-controlled autocannons and missiles to keep ships safe from enemy missiles and bombers."
+
+ ship_anti_submarine_missile:0 "Anti-Submarine Missile Torpedo"
+ ship_anti_submarine_missile_short:0 "Anti-Sub Missile"
+ ship_anti_submarine_missile_desc:0 "A guided missile can be directed to the submarine's exact location, and then deploy a torpedo to track it and detonate."
 
 ###############################
 ### NAVAL PROTOTYPE REWARDS ###
@@ -143,6 +160,8 @@ form_department_tooltip: "Виконано поліпшення агентств
  helicopter_equipment_2: "Удосконалений вертоліт"
  helicopter_equipment_2_short: "Удоскон. вертоліт"
  helicopter_equipment_2_desc:0 "A flying craft that relies on rapidly spinning rotors rather than wings and forward momentum. This means it can hover in place, and has more control over vertical changes in height."
+
+ sp_air_earthshaker_bomb_completion_2_tt:0 "\nUnlocks §Y$raid_type_hardened_missile_silo_strike$§! raids"
 
 ###########################
 ### AIR PROJECT REWARDS ###
@@ -249,7 +268,7 @@ form_department_tooltip: "Виконано поліпшення агентств
 
   sp_universal_translator: "Універсальний перекладач"
   sp_universal_translator_desc:0 "Griffons are perhaps the most linguistically diverse species on the entire planet. It is no surprise - for this and for other reasons - that historically we have relied more on conflict than conversation to resolve our disputes. To make some headway in rectifying this, scientists have proposed that a correctly enchanted radio headset and microphone could allow our kind to properly communicate regardless of their native language. Future miniaturisations of the technology could also produce a more compact device, but for now we'll settle for putting magitech inside our existing military radio equipment."
-  sp_explain_universal_translator:0 "Adds the §YUniversal Translator§! dynamic modifier, which grants bonuses depending how many significant regional capitals in Griffonia you or your puppets own. The regional capitals are as follows:\n — Griffenheim, Herzland:\n  - Division Organisation: +5.00%\n\n — Aquila, Aquileia:\n  - Research Speed: +5.00%\n\n — Karthin, Southern Griffonia:\n  - Resource Gain Efficiency: +15.00%\n\n — Griffonstone, Central Griffonia:\n  - Daily Political Power: +0.10\n  - Stability: +10%\n\n — Sydia, Evi Valley:\n  - Monthly Population: +30.00%\n\n — Cloudbury, Northern Griffonia:\n  - Supply Consumption: -10.00%"
+  sp_explain_universal_translator: "Додає динамічний модифікатор §Y$griffon_universal_translator_modifier$§!, що дає бонуси на основі того, скількома значними регіональними столицями у Грифонії володієте ви або ваші маріонетки. Регіональні столиці — ось такі:\n– Грифенгайм, Герцланд:\n  - $MODIFIER_ARMY_ORG_FACTOR$: +5.00%\n\n– Аквіла, Аквілея:\n  - $MODIFIER_RESEARCH_SPEED_FACTOR$: +5.00%\n\n– Карфін, південна Грифонія:\n  - $MODIFIER_LOCAL_RESOURCES_FACTOR$: +15.00%\n\n– Грифонстоун, середня Грифонія:\n  - Політична влада щодня: +0.10\n  - $MODIFIER_STABILITY_FACTOR$: +10%\n\n– Сідія, долина Еві:\n  - $MODIFIER_GLOBAL_MONTHLY_POPULATION$: +30.00%\n\n– Клаудбері, північна Грифонія:\n  - $MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: -10.00%"
 
   griffon_universal_translator_modifier: "$sp_universal_translator$"
   griffon_universal_translator_modifier_desc: "$sp_universal_translator_desc$"
@@ -340,11 +359,11 @@ form_department_tooltip: "Виконано поліпшення агентств
 ### MAGICAL PROJECT REWARDS ###
 ###############################
  # Generic
- sp_magical_generic_reward_scientist_xp_1: "Researcher's Capabilities Improve"
- sp_magical_generic_reward_scientist_xp_2: "Scientist Completes Classes"
- sp_magical_generic_reward_scientist_xp_3: "Researcher Hosts Seminar"
- sp_magical_generic_reward_major_progress_1: "Magical Research Breakthrough"
- sp_magical_generic_reward_major_progress_2: "Talented Mage Lends a [Country.GetHandCap]"
+ sp_magical_generic_reward_scientist_xp_1: "Здібності дослідника поліпшуються"
+ sp_magical_generic_reward_scientist_xp_2: "Науковець завершує навчання"
+ sp_magical_generic_reward_scientist_xp_3: "Дослідник проводить семінар"
+ sp_magical_generic_reward_major_progress_1: "Прорив у магічних дослідженнях"
+ sp_magical_generic_reward_major_progress_2: "Талановитий маг простягає [Country.GetHand_VI]"
  sp_magical_generic_reward_major_progress_3: "Great Strides Made"
  sp_magical_generic_reward_test_failure_1: "Magical Test Failure"
  sp_magical_generic_reward_test_failure_2: "Unforeseen Energy Requirements"
@@ -352,11 +371,11 @@ form_department_tooltip: "Виконано поліпшення агентств
  sp_magical_generic_reward_magical_tech_1: "Magical Research Achievement"
  sp_magical_generic_reward_magical_tech_2: "Discovery in Magical Studies"
  sp_magical_generic_reward_magical_tech_3: "New Spells Inscribed"
- sp_magical_generic_reward_race_tech_1: "Sapieological Achievement"
- sp_magical_generic_reward_race_tech_2: "Discovery in Unlocking Racial Potential"
- sp_magical_generic_reward_race_tech_3: "Improvements in Understanding Our Gifts"
- sp_magical_generic_reward_resource_scarcity: "Lack of Resources Felt"
- sp_magical_generic_reward_critical_failure: "Catastrophic Laboratory Explosion"
+ sp_magical_generic_reward_race_tech_1: "Расознавче досягнення"
+ sp_magical_generic_reward_race_tech_2: "Відкриття в розкритті расового потенціалу" # (&?)
+ sp_magical_generic_reward_race_tech_3: "Поглиблене розуміння нашого дару"
+ sp_magical_generic_reward_resource_scarcity: "Відчутний брак ресурсів"
+ sp_magical_generic_reward_critical_failure: "Катастрофічний вибух у лабораторії"
 
  # magical supply
  sp_magical_supply_organisation_choice_reward: "Officers Request Focus"
@@ -456,8 +475,8 @@ form_department_tooltip: "Виконано поліпшення агентств
 
  intercontinental_maritime_patrol_plane_airframe:0 "Intercontinental Maritime Patrol Plane Airframe"
 
- sp_magical_generic_reward_option_magical_tech_bonus_name:0 "Magic Tech Bonus From Special Project"
- sp_magical_generic_reward_option_race_tech_bonus_name:0 "Race Tech Bonus From Special Project"
+ sp_magical_generic_reward_option_magical_tech_bonus_name: "Бонус до магічних технологій від спеціального проєкту"
+ sp_magical_generic_reward_option_race_tech_bonus_name: "Бонус до расових технологій від спеціального проєкту"
 
 ##### TAG SPECIFIC #######
  sp_future_infantry_rifle:0 "Project SALVO"

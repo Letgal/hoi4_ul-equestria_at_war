@@ -101,7 +101,7 @@
  reported_sombras: "Ви доповідаєте про клуб поліції.\n"
  not_reported_sombras: "Ви не робите нічого.\n"
  less_sombra_tlp: "Сомбра втрачає прибічників.\n"
- learned_about_the_crystals: "Дослідженння завершені.\n"
+ learned_about_the_crystals: "Дослідження завершені.\n"
  sakira_sick: "Хвора.\n"
  player_sick: "Ви хворі.\n"
  sick_together: "Ви з Сакірою хворі.\n"
@@ -174,8 +174,8 @@
  trade_laws_blocked: "Торговельні закони заблоковані"
  cant_surpress_democratic: "Не можна придушувати демократичні партії"
  cant_surpress_democratic_NOT: "Можна придушувати демократичні партії"
- cant_surpress_fascism: "Не можна придушувати зверхістські партії"
- cant_surpress_fascism_NOT: "Можна придушувати зверхістські партії"
+ cant_surpress_fascism: "Не можна придушувати зверхні партії" # (&+)
+ cant_surpress_fascism_NOT: "Можна придушувати зверхні партії" # (&+)
  cant_surpress_communism: "Не можна придушувати комуністичні партії"
  cant_surpress_communism_NOT: "Можна придушувати комуністичні партії"
  cant_surpress_neutral: "Не можна придушувати нейтральні партії"
@@ -225,8 +225,8 @@
  owns_major_griffon_city_tt: "Володіє однією з цих областей:\n     - §Y[382.GetName]§!\n     - §Y[381.GetName]§!\n     - §Y[665.GetName]§!\n     - §Y[371.GetName]§!\n     - §Y[377.GetName]§!\n     - §Y[380.GetName]§!\n     - §Y[356.GetName]§!\n     - §Y[390.GetName]§! (і не §Y[FEZ.GetNameWithFlag]§!)\n     - §Y[387.GetName]§! (і не §Y[LCT.GetNameWithFlag]§!)\n     - §Y[619.GetName]§! (і не §Y[RCT.GetNameWithFlag]§!)"
  owns_major_griffon_city_17_fact_tt: "Володіє однією з цих областей і має принаймні 17 §Yзаводів§! АБО ця область уважається осердною:\n     - §Y[382.GetName]§!\n     - §Y[381.GetName]§!\n     - §Y[665.GetName]§!\n     - §Y[371.GetName]§!\n     - §Y[377.GetName]§!\n     - §Y[380.GetName]§!\n     - §Y[356.GetName]§!\n     - §Y[390.GetName]§! (і не §Y[FEZ.GetNameWithFlag]§!)\n     - §Y[387.GetName]§! (і не §Y[LCT.GetNameWithFlag]§!)\n     - §Y[619.GetName]§! (і не §Y[RCT.GetNameWithFlag]§!)"
  owns_big_griffon_zebra_city_9_fact_tt: "Володіє однією з цих областей і має принаймні 9 §Yзаводів§! АБО ця область уважається осердною:\n     - §Y[429.GetName]§!\n     - §Y[485.GetName]§!\n     - §Y[445.GetName]§!\n     - §Y[384.GetName]§!\n     - §Y[389.GetName]§!\n     - §Y[674.GetName]§!\n     - §Y[617.GetName]§! (і не §Y[WIT.GetNameWithFlag]§!)\n     - §Y[645.GetName]§! (і не §Y[NIM.GetNameWithFlag]§!)\n     - §Y[637.GetName]§! (і не §Y[DMT.GetNameWithFlag]§!)\n     - §Y[733.GetName]§!\n     - §Y[843.GetName]§!\n     - §Y[790.GetName]§!\n     - §Y[982.GetName]§!\n     - §Y[1002.GetName]§!\n     - §Y[810.GetName]§!\n     - §Y[834.GetName]§!\n     - §Y[911.GetName]§!\n     - §Y[1047.GetName]§!\n     - §Y[1106.GetName]§!\n     - §Y[1204.GetName]§!\n     - §Y[937.GetName]§!\n     - §Y[734.GetName]§!\n     - §Y[775.GetName]§!\n     - §Y[956.GetName]§!\n     - §Y[986.GetName]§!\n     - §Y[999.GetName]§!\n     - §Y[811.GetName]§!\n     - §Y[726.GetName]§!\n     - §Y[728.GetName]§!"
- owns_major_griffon_zebra_city_tt: "Володіє однією з цих областей і вважає її осердною:\n     - §Y[382.GetName]§!\n     - §Y[381.GetName]§!\n     - §Y[665.GetName]§!\n     - §Y[371.GetName]§!\n     - §Y[377.GetName]§!\n     - §Y[380.GetName]§!\n     - §Y[356.GetName]§!\n     - §Y[390.GetName]§! (і не §Y[FEZ.GetNameWithFlag]§!)\n     - §Y[387.GetName]§! (і не §Y[LCT.GetNameWithFlag]§!)\n     - §Y[619.GetName]§! (і не §Y[RCT.GetNameWithFlag]§!)\n     - §Y[1165.GetName]§!\n     - §Y[868.GetName]§!\n     - §Y[712.GetName]§!\n     - §Y[725.GetName]§!"
- owns_major_griffon_zebra_city_17_fact_tt: "Володіє однією з цих областей і має принаймні 17 §Yзаводів§! АБО ця область уважається осердною:\n     - §Y[382.GetName]§!\n     - §Y[381.GetName]§!\n     - §Y[665.GetName]§!\n     - §Y[371.GetName]§!\n     - §Y[377.GetName]§!\n     - §Y[380.GetName]§!\n     - §Y[356.GetName]§!\n     - §Y[390.GetName]§! (і не §Y[FEZ.GetNameWithFlag]§!)\n     - §Y[387.GetName]§! (і не §Y[LCT.GetNameWithFlag]§!)\n     - §Y[619.GetName]§! (і не §Y[RCT.GetNameWithFlag]§!)\n     - §Y[1165.GetName]§!\n     - §Y[868.GetName]§!\n     - §Y[712.GetName]§!\n     - §Y[725.GetName]§!"
+ owns_major_griffon_zebra_city_tt: "Володіє однією з цих областей і вважає її осердною:\n     - §Y[382.GetName]§!\n     - §Y[381.GetName]§!\n     - §Y[665.GetName]§!\n     - §Y[371.GetName]§!\n     - §Y[377.GetName]§!\n     - §Y[380.GetName]§!\n     - §Y[356.GetName]§!\n     - §Y[390.GetName]§! (і не §Y[FEZ.GetNameWithFlag]§!)\n     - §Y[387.GetName]§! (і не §Y[LCT.GetNameWithFlag]§!)\n     - §Y[619.GetName]§! (і не §Y[RCT.GetNameWithFlag]§!)\n     - §Y[1165.GetName]§!\n     - §Y[734.GetName]§!\n     - §Y[1059.GetName]§! (і не §Y[KIR.GetNameWithFlag]§!)\n     - §Y[875.GetName]§!\n     - §Y[868.GetName]§!\n     - §Y[712.GetName]§!\n     - §Y[725.GetName]§!"
+ owns_major_griffon_zebra_city_17_fact_tt: "Володіє однією з цих областей і має принаймні 17 §Yзаводів§! АБО ця область уважається осердною:\n     - §Y[382.GetName]§!\n     - §Y[381.GetName]§!\n     - §Y[665.GetName]§!\n     - §Y[371.GetName]§!\n     - §Y[377.GetName]§!\n     - §Y[380.GetName]§!\n     - §Y[356.GetName]§!\n     - §Y[390.GetName]§! (і не §Y[FEZ.GetNameWithFlag]§!)\n     - §Y[387.GetName]§! (і не §Y[LCT.GetNameWithFlag]§!)\n     - §Y[619.GetName]§! (і не §Y[RCT.GetNameWithFlag]§!)\n     - §Y[1165.GetName]§!\n     - §Y[734.GetName]§!\n     - §Y[1059.GetName]§! (і не §Y[KIR.GetNameWithFlag]§!)\n     - §Y[875.GetName]§!\n     - §Y[868.GetName]§!\n     - §Y[712.GetName]§!\n     - §Y[725.GetName]§!"
  supported_somehow: "Підтримано"
  corporations_stolen: "Вкрадено корпорації"
  equestrian_kindness: "Еквестрійська доброта"
@@ -262,7 +262,7 @@
  controlls_any_foreign_core_tt: "Будь-яка підконтрольна область не є осердною землею держави §Y[Root.GetName]§!\n"
  controlls_all_cores_original_subject_tt: "Усі початкові осердні землі підконтрольні державі §Y[Root.GetName]§! або одному з її суб'єктів\n"
 
- CHN_Embargo: "Ембарґо"
+ CHN_Embargo: "Ембарго"
 
  trade_treaty_major: "Великий торговельний договір"
  nightmare_moon: "Луна готується стати Найтмер Мун"

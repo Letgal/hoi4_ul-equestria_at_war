@@ -201,6 +201,10 @@
  STG_T3485_tooltip:0 "\n§YШаблон танку Т-34-85§! буде створено за наявності наступних технологій:\n §YПоліпшене шасі середнього танка\n Поліпшена середня гармата§!\n"
  STG_KM85_tooltip:0 "\n§YШаблон танку КМ-85§! буде створено за наявності наступних технологій:\n §YПоліпшене шасі важкого танка\n Поліпшена середня гармата§!\n"
  STG_AM2_tooltip:0 "\n§YШаблон танку АМ-2§! буде створено за наявності наступних технологій:\n §YУдосконалене шасі важкого танка\n Удосконалена важка гармата§!\n"
+ STG_mio_trait_expanded_production_facilities:0 "Expanded production lines" # (!)
+ STG_mio_trait_simplified_design:0 "Simplified Design" # (!)
+ STG_mio_trait_heavy_high_explosive_shells:0 "Increased amount of explosives in shells" # (!)
+ STG_mio_trait_sveta_semiautomatic_rifles:0 "SVETA semi-automatic rifles" # (!)
 
 ### РІШЕННЯ ###
  construction_of_the_palace_began:0 "Розпочато будівництво Палацу Рад."
@@ -1286,3 +1290,6 @@
  STG_blossomforth: "Блоссомфорт"
  STG_sunshower_raindrops: "Саншауер Рейндропс"
  STG_apple_fritter: "Еппл Фриттер"
+ STG_grom: "Ґром Морозов"
+ STG_katkov: "Міша Катков"
+ STG_rybka: "Паша Рибка"

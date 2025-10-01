@@ -25,7 +25,8 @@ EMR_raziqa_pirani:0 "Разика Пирани"
 
 GAZ_trah_tibidoh: "Трах Тібідох"
 
-GFS_atlas_steyn: "Атлас Стейн"
+GFS_mukoza_taredna: "Мукоза Таредна"
+GFS_atlas_steyn: "Атлас Стеейн"
 GFS_aristaeus_van_straaten: "Арістеус ван Страатен"
 GFS_eurus_gardiner: "Ерус Гардінер"
 GFS_nikolaus: "Ніколаус Янаріс Штальгерц" # Сталгерц?
@@ -54,9 +55,9 @@ HYE_furasho: "Фурашо"
 
 IDO_sauren_kopaha: "Мутья"
 
-IDT_high_chief_excalibur:0 "Верховный вождь Экскалибур"
-IDT_arcin_the_defiler:0 "Аркин Осквернительница"
-IDT_high_chieftess_smooy:0 "Верховная предводительница Смоуи"
+IDT_high_chief_excalibur: "Верховний вождь Екскалібур"
+IDT_arcin_the_defiler: "Арцін Осквернителька"
+IDT_high_chieftess_smooy: "Верховна вождиця Смуї"
 IDT_toon_ugnip:0 "Тун Угнип"
 IDT_frostfury:0 "Фростфьюри"
 IDT_snowy_sapphire:0 "Сноуи Сапфирре"
@@ -109,9 +110,9 @@ MGY_annu_desc: "§YАвтор портрета§!: Kleowolfy"
 MGY_violetta_locifer: "Віолетта Лоцифер"
 MGY_violetta_locifer_desc: "§YАвтор портрета§!: Stephen Sen"
 
-MSH_almami_zekuris:0 "Альмами Зекурис"
+MSH_almami_zekuris: "Алмамі Зекуріс"
 
-MSS_moronaba_zoudraogo:0 "Моро-Наба Зудраого"
+MSS_moronaba_zoudraogo: "Моро-Наба Зудраоґо"
 MSS_zarkis:0 "Заркис"
 MSS_nazi_boni:0 "Наби Зони"
 
@@ -130,12 +131,6 @@ OSQ_ayham_ibn_waseem_bin_al_fadi:0 "Айхам ибн Васим бин аль-�
 
 REE_yonatan_suss: "Йонатан Сусс"
 REE_zzeth_zeebtach: "Ззет Зеебтах" # (&)
-
-ROA_servius_sindisiwe:0 "Ззет Зеебтах"
-ROA_kaiser_augustus_umqobi: "Кайзер Авґуст Умкобі"
-ROA_flavonius_sibakabaka:0 "Флавониус Сибакабака"
-ROA_matshana:0 "Матшана"
-ROA_mbutu_valcostus:0 "Мбуту Валькостус"
 
 SAM_herra_manfred_vanisto: "Герра Манфред Ваністьо" # Ø
 
@@ -169,10 +164,10 @@ TAI_priestess_dara: "Жриця Дара"
 
 THU_tenzfur_thunderbringer: "Тензфур Тандербринґер"
 
-TSV_phaenon_vollenhoven:0 "Фаэнон Воленховен"
+TSV_plutocrat_council: "Мавели"
 TSV_general_ceraon_hattingh: "Генерал Кераон Гаттінг"
-TSV_auxesia_vorster:0 "Ауксезия Ворстер"
-TSV_chiron_langenhoven:0 "Чирон Лангенховен"
+
+IBZ_zumoya: "Зумоя"
 
 WIN_Gilippo_Gappi: "Джіліппо Ґаппі"
 

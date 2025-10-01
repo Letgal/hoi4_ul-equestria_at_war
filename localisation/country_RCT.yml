@@ -60,10 +60,12 @@
   RCT_Logical_Thinking: "Айрон Гуф"
   RCT_Surreal_Grass: "Сюрреал Ґрасс"
   RCT_arclight: "Арклайт"
-  RCT_Nuclear_Water: "Нюклеар Уотер"
   RCT_Hoover_Balls: "Санні Сендс"
   RCT_Jolly_River: "Джоллі Ривер"
   RCT_Wet_Water: "Кольтовацька академія"
+
+ # Науковці
+  RCT_arwen_nut: "Арвен Нат" # OC of discord user 'Nut'
 
 ### ІДЕЇ ###
  RCT_eastern_eqs:0 "Еквестрія Сходу"

@@ -18,7 +18,7 @@
  #alert_l
   alert_few_manpower_instant: "§HМало поні-ресурсів!§!"
   alert_few_manpower_delayed: "У нас є мало поні-ресурсів. Це може призвести до того, що наші дивізії більше не зможуть отримувати підкріплення та воювати."
-  alert_not_enough_garrison_instant: "§HНедостатньо поні-ресурсів або оснащення для задовільнення потреб гарнізонів§!"
+  alert_not_enough_garrison_instant: "§HНедостатньо поні-ресурсів або оснащення для задоволення потреб гарнізонів§!"
   alert_not_enough_garrison_delayed: "Нам не вистачає $NUM|*H$ поні-ресурсів."
 
  #autonomy_l
@@ -90,7 +90,7 @@
   TRIGGER_IS_IRONMAN: "Гра запущена в режимі Ironpony"
   TRIGGER_IS_NOT_IRONMAN: "Гра не запущена в режимі Ironpony"
   NUCLEAR_PRODUCTION_ETA: "Наступна $NUKE_TYPE|H$ зроблена на $PROGRESS|1G%$ і буде готова десь через $DAYS|G$ дн. У запасі: $NUM_COMPLETED|H$\n\n$reactor_resource_shortage$"
-  NUCLEAR_PRODUCTION_NONE: "Наразі ми не виробляємо ядерні бомби..\n\n$reactor_resource_shortage$"
+  NUCLEAR_PRODUCTION_NONE: "Наразі ми не виробляємо ядерні бомби.\n\n$reactor_resource_shortage$"
   ACHIEVEMENTS_VIEW_LOCKED: "§RДосягнення з базової гри не можна заробляти грою в £eaw_text£ Equestria at War!§!" # (&)
   CONFIRMCONSOLIDATEUNITSAREENCIRCLED: "§RОбрані війська оточені; Ви втратите все їхнє оснащення та $VALUE|%0$ їхніх поні-ресурсів!§!"
   CONFIRMCONSOLIDATE_EQUIPMENT_GAIN_CONSOLIDATE_TITLE: "Це буде повернуто на §Hсклад§!/у §Hзапас поні-ресурсів§!:" # (&)
@@ -396,7 +396,7 @@
   democratic_drift: "Щоденна підтримка гармонії"
   democratic_acceptance: "Прийняття дипломатичних дій гармоністів"
   fascism_drift: "Щоденна підтримка зверхності"
-  fascism_acceptance: "Прийняття дипломатичних дій верхістів"
+  fascism_acceptance: "Прийняття дипломатичних дій прихильників зверхності" # (&+)
   MODIFIER_LOCAL_MANPOWER: "Місцеві поні-ресурси"
   MODIFIER_CONSCRIPTION_FACTOR_DESC: "Модифікатор кількості доступних із регіонів поні-ресурсів."
   MODIFIER_CONSCRIPTION_TOTAL_FACTOR_DESC: "Модифікатор кількості доступних із регіонів поні-ресурсів."
@@ -431,6 +431,9 @@
   MODIFIER_DEFENSE_BONUS_AGAINST_A_COUNTRY: " Бонус до захисту проти держави"
   MODIFIER_BREAKTHROUGH_BONUS_AGAINST_A_COUNTRY: " Бонус до прориву проти держави"
   MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY_ON_ITS_CORES: " Атака на її осердній землі" # CORE
+  MODIFIER_RIVER_CROSSING_PENALTY_FACTOR: "Штраф до швидкості від форсування річки" # РЛ
+  MODIFIER_RIVER_CROSSING_PENALTY_FACTOR_DESC: "Штраф до швидкості від форсування річки: $VALUE|-=%2$" # РЛ
+  MODIFIER_RIVER_CROSSING_PENALTY_FACTOR_AGAINST_A_COUNTRY: "Штраф до швидкості від форсування річки проти держави" # РЛ
   state_resource_oil: "Нафта"
   state_resource_aluminium: "Алюміній"
   state_resource_rubber: "Гума"
@@ -566,7 +569,6 @@
   BALTIC_anti_bolshevik: "Ветеран-антикомуніст"
   veteran_anti_bolshevik: "Ветеран-антикомуніст"
   anti_bolshevik_leftist: "Лівак-антисталліоніст"
-  trait_GRE_stauch_monarchist_desc:0 "This leader respects and reveres the monarchy as an institution."
   JUNO_national_socialist_occultist:0 "Pan-Equusian Occultist"
   tsars_puppet:0 "Speaker at the Gate"
   SWI_soviet_spy: "Сталліонградський шпигун"
@@ -647,7 +649,7 @@
 
  #nsb_decisions_l
   restructure_supply_system: "Реорганізувати систему постачання"
-  restructure_supply_system_desc:0 "By redirecting building materials and workers, we can quickly create a small number of make-shift supply dumps along some of our transport routes. This is, however, not a sustainable way of running the system.\n\n§RThis decision can only be taken once. The bonus will disappear if you construct more than 3 additional supply hubs.§!" # (!)
+  restructure_supply_system_desc: "Переспрямовуючи будівельні матеріали та робітників, ми можемо швидко створити невелику кількість тимчасових складів постачання вздовж деяких наших транспортних маршрутів. Однак це не є стійким способом управління системою.\n\n§RЦе рішення можна прийняти лише раз. Бонус зникне, якщо ви збудуєте понад 3 додаткові центри постачання.§!"
 
  #operatives_l
   COUNTERINTELLIGENCE_ACTIVITY_LEVEL_2: "§YВажливий§! — іноземні агенти мають підґрунтя в державі"
@@ -684,16 +686,16 @@
 
  #from loc file lar_operations
   caustic_personality: "Уїдливий характер"
-  capture_cyphers_bribe_desc:1 "We have an agent on the inside and will provide him with the necessary funds to steal a codebook and turn it over to our agent." # (!)
-  capture_cyphers_seduction_desc:0 "Наш агент вступит в контакт с тем, у которого есть доступ к шифру, и воспользуется своим обаянием — или иными средствами, — чтобы заполучить копию."
-  operation_infiltrate_armed_forces_navy_desc:0 "§LВнедриться в спаянные коллективы моряков на [From.GetAdjective]их кораблях будет трудно, а вот береговые службы — другое дело. Устроив туда своего агента, мы сможем выведать ценную информацию, а также получим возможность поддерживать потом более сложные операции.§!"
-  operation_infiltrate_armed_forces_airforce_desc:0 "§LThe [From.getAdjective] Air Force is the youngest of the [From.GetAdjective] armed forces. As such, it has in its ranks many people of unusual backgrounds. We could exploit some of them to get a agent on the inside.§!" # (!)
+  capture_cyphers_bribe_desc:1 "У нас є свій агент «усередині». Ми дамо йому достатньо грошей, щоби той викрав книгу шифрів і передав її нашому агенту."
+  capture_cyphers_seduction_desc:0 "Наш агент вступить у контакт із тим, хто має доступ до шифру, і скористається своєю чарівністю — або іншими засобами, — щоб отримати копію."
+  operation_infiltrate_armed_forces_navy_desc:0 "Впровадитися в спаяні колективи моряків на [From.GetAdjective]их кораблях буде важко, а ось берегові служби — інша справа. Влаштувавши туди свого агента, ми зможемо вивідати цінну інформацію, а також отримаємо можливість підтримувати потім більш складно.§!"
+  operation_infiltrate_armed_forces_airforce_desc:0 "§L[From.getAdjective]і ВВС — найновіший рід [From.GetAdjective]их військ, і тому в них служить багато народу незвичайної біографії. Можна скористатися цим фактом, щоби впровадити туди свого агента.§!"
 
-  infiltrate_military_bribe_desc:0 "Наш агент найдет кого-то, испытывающего финансовые затруднения, и предложит ему значительную сумму за поддержку. Деньги на взятку мы выделим из нашей казны."
-  infiltrate_military_seduction_desc:0 "Наш агент близко сойдется с кем-то изнутри, чтобы раздобыть информацию и получить рычаги влияния."
-  steal_blueprints_seduction_desc:0 "Наш агент близко сойдётся с учёным или инженером, задействованным в проекте, и воспользуется своим обаянием, чтобы получить дополнительную информацию. Мы, конечно, не ждём, что за хорошо проведённое время кто-то вручит полный комплект чертежей, и всё же в таких обстоятельствах индивидуумы бывают откровеннее обычного."
-  capture_cyphers_seduction_outcome:0 "Наш агент смог убедить индивидуума, располагающего шифрами, поделиться ими."
-  operation_infiltrate_armed_forces_army_desc:0 "§LВ [From.GetAdjective]ой армии есть индивидуумы, которых можно склонить к передаче нам дополнительной информации и поддержке в будущих операциях.§!"
+  infiltrate_military_bribe_desc:1 "Наш агент знайде особу, яка зазнає фінансових труднощів, і запропонує їй значну суму за підтримку. Гроші на хабар ми виділимо з нашої скарбниці."
+  infiltrate_military_seduction_desc:1 "Наш агент близько зійдеться з кимось ізсередини, щоб отримати інформацію і отримати важелі впливу."
+  steal_blueprints_seduction_desc:0 "Наш агент близько зійдеться з кимось задіяним в проєкті та скористається своєю чарівністю, щоб отримати додаткову інформацію. Ми, звичайно, не чекаємо, що за добре проведений час хтось вручить повний комплект креслень, і все ж у таких обставинах люди бувають відвертішими від звичайного."
+  capture_cyphers_seduction_outcome:0 "Наш агент зміг переконати особу, яка має шифри, поділитися ними."
+  operation_infiltrate_armed_forces_army_desc:0 "§LУ [From.GetAdjective]ій армії є особистості, яких можна схилити до передачі нам додаткової інформації та підтримки в майбутніх операціях.§!"
 
  #poland_dlc_decisions_l_english
   decision_cost_CP_25_pp_50: "£command_power£ §Y25§! £pol_power£ §Y50§!"

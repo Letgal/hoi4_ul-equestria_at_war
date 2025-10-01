@@ -1,5 +1,5 @@
 # Українська локалізація *Equestria at War*
-Оновлено для *Equestria at War* версії ***2.4.0.5*** (версія гри&nbsp;— *1.16*)
+Оновлено для *Equestria at War* версії ***2.4.1*** (версія гри&nbsp;— *1.16*)
 
 Також включає в себе частковий переклад сабмоду *Diarchy Expanded*.
 
@@ -10,11 +10,15 @@
 + `countries_griffonia`
 + `countries_zebrica`
 + `country_AET` (переклав [*StasJesus*](https://steamcommunity.com/profiles/76561198867405533))
-+ `country_ANG` (переклав *StasJesus*) — перечитати
++ `country_ANG` (переклав *StasJesus*) — `(&)`
++ `country_ARA` (переклав [*Bovcun*](https://github.com/Bovcun-A)) — `(&)`
++ `country_AVI` (переклав *Bovcun*) — `(&)`
 + `country_BAL` (переклав [*Green Kitten*](https://steamcommunity.com/profiles/76561198235810742))
 + `country_BAL_protectorate` (переклав *Green Kitten*)
-+ `country_BAR` (переклав [*Max*](https://steamcommunity.com/profiles/76561198873048643)) — перечитати
++ `country_BAN` (переклав *Bovcun*) — `(&)`
++ `country_BAR` (переклав [*Max*](https://steamcommunity.com/profiles/76561198873048643)) — `(&)`
 + `country_BOI`
++ `country_BRF` (переклав *Bovcun*) — `(&)`
 + `country_BUF` (переклав *Kiparu*)
 + ~~`country_CES`~~ (попередню версію переклав [*Daybreaker*](https://steamcommunity.com/profiles/76561199084403733))
 + `country_CRY` (переклав *Green Kitten*)
@@ -22,7 +26,7 @@
 + `country_CRY_SOL` (переклав *Green Kitten*)
 + `country_CTH` (умовно; переклав *StasJesus*)
 + `country_CYA` (переклав *Green Kitten*)
-+ `country_DED` (переклав [*Bovcun*](https://github.com/Bovcun-A)) — перечитати
++ `country_DED` (переклав *Bovcun*) — `(&)`
 + `country_DEP` (умовно)
 + `country_DRG`
 + `country_EQC` (переклав *Max*)
@@ -33,58 +37,72 @@
 + `country_EQC_SOL` (переклав *Max*)
 + `country_EQS` (частина з *Diarchy Expanded* не є завершена)
 + `country_ERI`
-+ `country_EWI`<!--  (переклав… хто?) -->
++ `country_EWI`<!--  (переклав *All-Ampirian*?) -->
 + `country_EYR`
 + `country_FAL` (переклав *Green Kitten*)
-+ `country_FAT` (переклав *StasJesus*) — перечитати
++ `country_FAT` (переклав *StasJesus*) — `(&)`
++ `country_FEA` (переклав *StasJesus*) — `(&)`
++ `country_FEZ` (переклав *Bovcun*) — `(&)`
 + `country_FRN` (переклав *Green Kitten*)
 + `country_GFF` (умовно; переклав *Green Kitten*)
++ `country_GRI` (переклав *StasJesus*) — `(&)`
 + `country_GRF` (переклав *StasJesus*)
++ `country_GRU` (переклав *Bovcun*) — `(&)`
++ `country_GRW` (переклав *Bovcun*) — `(&)`
 + `country_HAU` (переклав *Bovcun*)
-+ `country_HIP` (умовно<!-- ; переклав… *All-Ampirian*? -->)
++ `country_HIP` (умовно; переклав *All-Ampirian*)
 + `country_HLR` (переклав *Bovcun*)
-+ `country_JAK` (переклав *Green Kitten*) — перечитати
++ `country_JAK` (переклав *Green Kitten*) — `(&)`
 + `country_JEB`
-+ `country_JER`<!--  (переклав… *Римур*?) -->
-+ `country_JES` (переклав *Green Kitten*) — трохи вичитати
++ `country_JER`<!--  (переклав *Римур*?) -->
++ `country_JES` (переклав *Green Kitten*) — `(&+)`
 + `country_JFT`
 + `country_JRR`
 + `country_JUN` (переклав *Green Kitten*)
++ `country_KAT` (переклав *StasJesus*) — `(&)`
++ `country_LAK` (переклав *Bovcun*)
 + `country_LSP` (переклав *Green Kitten*)
++ `country_LUS` (переклав *Bovcun*) — `(&)`
++ `country_MAN&ELF` (переклав *Max*)
 + `country_MIT` (переклав *Green Kitten*)
++ `country_MNC` (переклав *Bovcun*) — `(&)`
 + `country_MTA` (умовно)
-+ `country_NIM` (переклав [*ціктакомба*](https://steamcommunity.com/profiles/76561199241366335))
++ `country_NIM` (переклав [*pani_justyna1733*](https://steamcommunity.com/profiles/76561199241366335))
 + `country_NLR` (переклав *Green Kitten*)
 + `country_NMS` (переклав *Green Kitten*)
-+ `country_north_zebrican_war`<!--  (переклав… *All-Ampirian*?) -->
++ ~~`country_north_zebrican_war`~~ (переклав *All-Ampirian*)
 + `country_NTR`
 + `country_OLE` (переклав *Max*)
++ `country_OLV` (переклав *Bovcun*) — `(&)`
 + `country_PNG`
 + `country_POM`
 + `country_PYT` (переклав *StasJesus*)
-+ `country_RCT` (переклав *ціктакомба*)
++ `country_RCT` (переклав *pani_justyna1733*)
++ `country_ROU` (переклав *StasJesus*) — `(&)`
 + `country_SCS` (переклав *Green Kitten*)
 + `country_SOL`
-+ `country_STG` (первісно переклав *ціктакомба*, переписав *Max*)
++ `country_STG` (первісно переклав *pani_justyna1733*, переписав *Max*)
 + `country_STL` (переклав *Max*)
 + `country_Storm` (переклав *Daybreaker*)
++ `country_STW` (переклав *StasJesus*) — `(&)`
 + `country_TAL` (переклав *Sanyok*)
 + `country_VAN` (переклав *Green Kitten*)
 + `country_VED` (переклав *107*)
 + `country_VIN`
 + `country_WAR` (переклав *StasJesus*)
 + `country_WAT`
-+ `country_WIT` (переклав *ціктакомба*)
++ `country_WIT` (переклав *pani_justyna1733*)
 + `country_WNG` (переклав *Sanyok*)
 + `country_YAK`:
-	+ стару версію переклав *ціктакомба*
-	+ нову версію переклав *Green Kitten* — перечитати
+	+ стару версію переклав *pani_justyna1733*
+	+ нову версію переклав *Green Kitten* — `(&)`
++ `country_ZES` (переклав *Bovcun*) — `(&)`
 + ~~`eaw_achievements`~~
 + `eaw_adjacency_rules`
 + `eaw_autonomy`
 + `eaw_bop`
 + `eaw_capitulation_quotes`
-+ `eaw_decisions`
++ ~~`eaw_decisions`~~
 + `eaw_difficulty`
 + `eaw_diplo_popup`
 + `eaw_factions`
@@ -96,26 +114,28 @@
 + `eaw_griffon_tech` (умовно)
 + `eaw_hippogriff_techs` (умовно)
 + `eaw_horse_techs`
-+ `eaw_leaders` (зокрема переклав *ціктакомба*)
++ `eaw_leaders` (зокрема переклав *pani_justyna1733*)
 + `eaw_music`
 + `eaw_musictoggle`
 + `eaw_old_music`
-+ `eaw_parties` (умовно)
++ `eaw_parties`
 + `eaw_pony_techs`
 + `eaw_production`
++ `eaw_resistance` (умовно)
++ `eaw_scripted_maps`
 + `eaw_scripted_triggers` (умовно)
 + `eaw_starting_warning_events`
 + `eaw_war`
 + `eaw_zebra_generic` (переклав *Daybreaker*)
 + `loading_tips`
-+ `parties` (переклав *Max*)
++ `parties` (описи переклав *Max*)
 + `recall_volunteers`
 + `renamed_states`
 + `southern_zebra_ideas`
-+ `state_names`
++ ~~`state_names`~~
 + `strategic_region_names`
 + `unit_leader_stat_tooltips`
-+ `victory_points`
++ ~~`victory_points`~~
 
 ### Папка `replace`
 + `country_CAN_overrides` (умовно)

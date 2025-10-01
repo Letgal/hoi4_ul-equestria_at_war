@@ -598,12 +598,6 @@
  MTA_fascism_party: "???"
  MTA_fascism_party_long: "???"
 
- # (&) :: переписати та локалізувати
- GIF_fascism_party:0 "Імба є Матанда"
- GIF_neutrality_party:0 "Імба є Твізанбве"
- GIF_democratic_party:0 "Імба є Мусаґано"
- GIF_communism_party:0 "Чіквата ЧеВаромбо"
-
  MQA_fascism_party: "КНБ"
  MQA_fascism_party_long: "Комітет національної безпеки"
  MQA_neutrality_party: "НКР"
@@ -630,3 +624,32 @@
  WIN_democratic_party_long: "Гіпогрифські лоялісти"
  WIN_fascism_party: "Гіпогрифські лоялісти"
  WIN_fascism_party_long: "Гіпогрифські лоялісти"
+
+ ROA_neutrality_party: "Тимчасовий уряд"
+ ROA_communism_party: "Заколот рабів"
+ ROA_communism_party_long: "Соціалістичний визвольний фронт східної Зебрики"
+ ROA_democratic_party: "Імперський сенат"
+ ROA_fascism_party: "Кайзерове правління"
+
+ GFS_neutrality_party: "Консультативна рада"
+ GFS_neutrality_party_long: "Королівська консультативна рада"
+ GFS_communism_party: "ЗГ" # (&)
+ GFS_communism_party_long: "Захисники громад" # (&)
+ GFS_democratic_party: "КМД"
+ GFS_democratic_party_long: "Кліка молодих дворян"
+ GFS_fascism_party: "ПВК"
+ GFS_fascism_party_long: "Почет великого князя"
+
+ TSV_neutrality_party: "Помірковані"
+ TSV_communism_party: "Раби-повстанці"
+ TSV_democratic_party: "Демократична коаліція"
+ TSV_fascism_party: "Мавели"
+
+ IBZ_neutrality_party: "Державники"
+ IBZ_neutrality_party_long: "Цімейнські державники"
+ IBZ_communism_party: "ВАЧ-К"
+ IBZ_communism_party_long: "Визволньа армія Чісімбі — колективісти"
+ IBZ_democratic_party: "ВАЧ-Ю"
+ IBZ_democratic_party_long: "Визволньа армія Чісімбі — юніоністи"
+ IBZ_fascism_party: "Рабовласники"
+ IBZ_fascism_party_long: "Рабовласники"

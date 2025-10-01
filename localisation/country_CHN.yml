@@ -17,38 +17,38 @@
  CHN_infantry_equipment_x_2: "Changeling Assault Rifle 1025"
  CHN_infantry_equipment_x_2_short: "CAR-25"
 
- CHN_anti_air_equipment_1: "Eiskaltenseen Artillerie 2 cm Flugabwehrkanone 07"
- CHN_anti_air_equipment_1_short: "2 cm FlaK 07"
- CHN_anti_air_equipment_2: "Eiskaltenseen Artillerie 3.7 cm Flugabwehrkanone 11"
- CHN_anti_air_equipment_2_short: "3.7 cm FlaK 11"
- CHN_anti_air_equipment_3: "Eiskaltenseen Artillerie 5 cm Flugabwehrkanone 14"
- CHN_anti_air_equipment_3_short: "5 cm FlaK 14"
+ CHN_anti_air_equipment_1: "Eiskaltenseen Artillerie 2-cm Flugabwehrkanone 07"
+ CHN_anti_air_equipment_1_short: "2-cm FlaK 07"
+ CHN_anti_air_equipment_2: "Eiskaltenseen Artillerie 3.7-cm Flugabwehrkanone 11"
+ CHN_anti_air_equipment_2_short: "3.7-cm FlaK 11"
+ CHN_anti_air_equipment_3: "Eiskaltenseen Artillerie 5-cm Flugabwehrkanone 14"
+ CHN_anti_air_equipment_3_short: "5-cm FlaK 14"
 
- CHN_anti_tank_equipment_1: "Ichormetall 3.7 cm Panzerabwehrkanone 07"
- CHN_anti_tank_equipment_1_short: "3.7 cm PaK 07"
- CHN_anti_tank_equipment_2: "Ichormetall 7.5 cm Panzerabwehrkanone 11"
- CHN_anti_tank_equipment_2_short: "7.5 cm PaK 11"
- CHN_anti_tank_equipment_3: "Ichormetall 8.8 cm Panzerabwehrkanone 14"
- CHN_anti_tank_equipment_3_short: "8.8 cm PaK 14"
+ CHN_anti_tank_equipment_1: "Ichormetall 3.7-cm Panzerabwehrkanone 07"
+ CHN_anti_tank_equipment_1_short: "3.7-cm PaK 07"
+ CHN_anti_tank_equipment_2: "Ichormetall 7.5-cm Panzerabwehrkanone 11"
+ CHN_anti_tank_equipment_2_short: "7.5-cm PaK 11"
+ CHN_anti_tank_equipment_3: "Ichormetall 8.8-cm Panzerabwehrkanone 14"
+ CHN_anti_tank_equipment_3_short: "8.8-cm PaK 14"
 
- CHN_artillery_equipment_1: "Ichormetall 10.5 cm Leichte Feldhaubitze 18"
- CHN_artillery_equipment_1_short: "10.5 cm LeFH 18"
- CHN_artillery_equipment_2: "Ichormetall 15 cm Schwere Feldhaubitze 18"
- CHN_artillery_equipment_2_short: "15 cm sFH 18"
- CHN_artillery_equipment_3: "Ichormetall 15 cm Kanone 18"
- CHN_artillery_equipment_3_short: "15 cm Kanone 18"
+ CHN_artillery_equipment_1: "Ichormetall 10.5-cm Leichte Feldhaubitze 18"
+ CHN_artillery_equipment_1_short: "10.5-cm LeFH 18"
+ CHN_artillery_equipment_2: "Ichormetall 15-cm Schwere Feldhaubitze 18"
+ CHN_artillery_equipment_2_short: "15-cm sFH 18"
+ CHN_artillery_equipment_3: "Ichormetall 15-cm Kanone 18"
+ CHN_artillery_equipment_3_short: "15-cm Kanone 18"
 
- CHN_rocket_artillery_equipment_1: "Ichormetall - Bronzekreuz Arsenal 15-cm Nebelwerfer 11"
+ CHN_rocket_artillery_equipment_1: "Ichormetall–Bronzekreuz Arsenal 15-cm Nebelwerfer 11"
  CHN_rocket_artillery_equipment_1_short: "15-cm Nebelwerfer 11"
- CHN_rocket_artillery_equipment_2: "Ichormetall - Bronzekreuz Arsenal 21-cm Nebelwerfer 14"
+ CHN_rocket_artillery_equipment_2: "Ichormetall–Bronzekreuz Arsenal 21-cm Nebelwerfer 14"
  CHN_rocket_artillery_equipment_2_short: "21-cm Nebelwerfer 14"
 
  CHN_infantry_at: "Panzerfaust 30"
  CHN_infantry_at2: "Panzerschreck"
  CHN_support_weapons: "MG 92 & Leichter Minenwerfer"
- CHN_support_weapons2: "MG 04 & 5 cm Granatenwerfer 06"
- CHN_support_weapons3: "MG 07 & 8 cm Granatenwerfer 09"
- CHN_support_weapons4: "MG 13 & 12 cm Granatenwerfer 12"
+ CHN_support_weapons2: "MG 04 & 5-cm Granatenwerfer 06"
+ CHN_support_weapons3: "MG 07 & 8-cm Granatenwerfer 09"
+ CHN_support_weapons4: "MG 13 & 12-cm Granatenwerfer 12"
 
  CHN_gw_tank_equipment: "Abteilung 7 Verkehrswesen"
  CHN_gw_tank_equipment_short: "A7V"
@@ -246,15 +246,15 @@
  Chrysalis: "Хай живе Королева"
  Chrysalis_desc:0 "Радіопередавачі було надано майже кожному будинку в країні. Гучномовці встановлено на кожній площі. У кожному вулику висять портрети. Кожен чейнджлінґ у країні мусять знати обличчя та голос своєї доброзичливої Королеви. У ці непевні часи народ чейнджлінґів потребує сильного правителя. Лише під керівництвом королеви Кризаліс наша раса може пізнати єдність і процвітання."
  CHN_support_workers: "Допомога робітничим родинам"
- CHN_support_workers_desc:0 "Мільйони чейнджлінґів наполегливо працюють, щоби забезпечити майбутнє нації. Саме вони відповідають за забезпечення армії всім необхідним, і саме вони є основою нашої майбутньої перемоги. Уряд забезпечить додаткову турботу про простих чейнджлінґів. Нехай це стане доказом для всіх, що Кризаліс нещадна лише до своїх ворогів і щиро піклується про своїх вірних підданих!"
+ CHN_support_workers_desc:0 "Мільйони чейнджлінґів наполегливо працюють, щоби забезпечити майбутнє держави. Саме вони відповідають за забезпечення армії всім необхідним, і саме вони є основою нашої майбутньої перемоги. Уряд забезпечить додаткову турботу про простих чейнджлінґів. Нехай це стане доказом для всіх, що Кризаліс нещадна лише до своїх ворогів і щиро піклується про своїх вірних підданих!"
  CHN_state_propaganda: "Остання хвиля пропаганди"
- CHN_state_propaganda_desc:0 "Пропагандистська машина працює з 1002 року, після невдалого захоплення Кризаліс Еквестрії. Зараз ситуація заспокоїлася. Міністерство інформації розпочне нову кампанію пропаганди. Кожен, хто живе в країні, прийде до висновку, що верховенство чейнджлінґів має бути кінцевою метою кожного громадянина, і що під керівництвом королеви Кризаліс ця мета буде досягнута."
+ CHN_state_propaganda_desc:0 "Машина пропаганди працює з 1002 року, після невдалого захоплення Кризаліс Еквестрії. Зараз ситуація заспокоїлася. Міністерство інформації розпочне нову кампанію пропаганди. Кожен, хто живе в країні, прийде до висновку, що верховенство чейнджлінґів має бути кінцевою метою кожного громадянина, і що під керівництвом королеви Кризаліс ця мета буде досягнута."
  unite_the_people: "Об'єднати націю"
  unite_the_people_desc:0 "Королева Кризаліс знову отримала величезну підтримку. Вона та її урядова комісія організують кілька тривалих поїздок вуликами країни. Будуть складені бізнес-плани, підписані нові угоди, виголошені промови. Таким чином Весаліполіс прагне зміцнити єдність і нагадати іншим вуликам, що він лише перший серед рівних. Ми переможемо, лише працюючи разом."
  hive_funding: "Широка підтримка менших вуликів"
- hive_funding_desc:0 "Коли великі та кипучі вулики Весаліполіса, Вракса, Дітрісіума, Соріфа та Ліктіди є могутніми промисловими центрами, безліч малих вуликів розкидана по нашій землі. Ми мусимо подбати, щоби про них не забували та їхні чейнджлінґи були вдячні своїй королеві, бо разом вони так само важливі, як і всякий великий вулик. Натомість ми чекаємо, що вони зроблять свій внесок у розвиток нації." # (*)
+ hive_funding_desc:0 "Коли великі та кипучі вулики Весаліполіса, Вракса, Дітрісіума, Соріфа та Ліктіди є могутніми промисловими центрами, безліч малих вуликів розкидана по нашій землі. Ми мусимо подбати, щоби про них не забували та їхні чейнджлінґи були вдячні своїй королеві, бо разом вони так само важливі, як і всякий великий вулик. Натомість ми чекаємо, що вони зроблять свій внесок у розвиток держави." # (*)
  Expansion_of_newhives: "Продовжити осучаснення вуликів"
- Expansion_of_newhives_desc:0 "Через нашу ізоляцію та санкції, накладені Еквестрією, багато вуликів відстали в економічному та суспільному розвитку. Більш просунуті вулики мусять допомагати слабшим, щоби зробити всю нашу націю сильною та сучасною. Державні проєкти та розумні інвестиції перетворять напівзруйновані та відсталі печери на блискучі, ефективні та сучасні вулики."
+ Expansion_of_newhives_desc:0 "Через нашу ізоляцію та санкції, накладені Еквестрією, багато вуликів відстали в економічному та суспільному розвитку. Більш просунуті вулики мусять допомагати слабшим, щоби зробити всю нашу державу сильною та сучасною. Державні проєкти та розумні інвестиції перетворять напівзруйновані та відсталі печери на блискучі, ефективні та сучасні вулики."
  steel_industry: "Металургійний завод Вракса"
  steel_industry_desc:0 "Північні гори багаті на залізну руду. Однак, щоб ефективно скористатися нею, потрібно побудувати транспортні шляхи по всій країні та переробні заводи. Військовий вулик Вракс є ідеальним місцем для останнього, оскільки враксівці зможуть швидко переробляти сталь на зброю. Коммораг буде наглядати за проєктом і гарантує королеві, що його буде завершено за графіком."
  army_research: "Армійські дослідження"
@@ -316,7 +316,7 @@
  prepare_for_war2: "Залізниці й авіабази"
  prepare_for_war2_desc:0 "І залізниці, і летовища важливі для абияких військових маневрів. Розбудова важливої інфраструктури забезпечить, що наша війна пройде гладко, і наші солдати будуть добре забезпечені свіжим м'ясом та іншими припасами, в той час як авіабази будуть потрібні нашим ВПС, щоби вони могли легше досягти повітряну перевагу над ворогом."
  prepare_for_war3: "Праця для фронту"
- prepare_for_war3_desc:0 "Забезпечення нашої армії засобами, необхідними для її постачання, є пріоритетом під час війни. Нарощування — наш єдиний вихід. Кожен чейнджлінґ мусить тимчасово працювати більше й довше та жертвувати собою у славу Королеви та її нації. Коли ми неминуче переможемо, робочий день знову буде скорочено."
+ prepare_for_war3_desc:0 "Забезпечення нашої армії засобами, необхідними для її постачання, є пріоритетом під час війни. Нарощування — наш єдиний вихід. Кожен чейнджлінґ мусить тимчасово працювати більше й довше та жертвувати собою у славу Королеви та її держави. Коли ми неминуче переможемо, робочий день знову буде скорочено."
  demand_equestria: "Очолити армії"
  demand_equestria_desc:0 "Настав час спокутувати свою поразку при Кантерлоті! Настав час знищити нашого головного суперника та зайняти своє законне місце господарів Еквусу. Наша армія готова завдати удару, а Королевина варта готова розправитися з усякими інакодумцями, щойно ми захопимо Еквестрію. Королева приведе нас до вічної слави та швидкої перемоги!"
  continuous_war_plan_CHN: "Упровадити План тривалої війни"
@@ -580,16 +580,18 @@
  CHN_rehire_recina: "Повернути Реціну на активну службу"
  CHN_rehire_recina_desc: "Поточний стан Кріґсмаріне — незадовільний. Нашому адміралтейству бракує належного керівництва, і його набір адміралів далеко не такий умілий, як нам хотілося б. Гелвія, королева Дітрісіума, висунула можливе вирішення, однак воно не таке, що викликає захоплення у великої кількості флотського командування. Колишній адмірал Реціна, сестра Гелвії, наразі допомагає в керуванні Дітрісіумом, але, можливо, вдасться переконати повернутися на службу в якості генерал-адмірала.\n\nРецінине повернення обурить поточне адміралтейство, а відновлення Реціниної служби, ймовірно, обійдеться недешево. Від самої поразки при Кантерлоті 1002 року вона показала себе недовірливою до лідерства королеви Кризаліс, і тільки доказ про відродження флоту та пропозиція високої посади у Кріґсмаріне можуть її переконати. Однак колишній адмірал повністю себе показала в минулому, і це, можливо, один вартий захід, якщо ми маємо намір оживити Кріґсмаріне." # (&)
  CHN_Secret_Carrier: "Дарунок від Дітрісіума?"
- CHN_Secret_Carrier_desc:0 "Ever since we granted Ditrysium aid, the shipyards have been working on a secret project. They returned one of their old pre-Dreadnoughts to port and have been doing... something to it. Now, we have been advised to not look too closely. In fact, we've been given a pseudo-order to not look in the mouth of the river. Even now, as a herald has arrived with a cordial invitation to an unveiling ceremony for the gifting of their latest project, we have been asked to not look into the mouth of the cave where it will come from."
+ CHN_Secret_Carrier_desc: "Відколи ми надалм допомогу Дітрісіуму, верфі працювали над таємним проєктом. Вони повернули до порту один із своїх старих додредноутів і почали робити з ним... щось. Тепер нам порадили не приглядатися надто близько. Узагалі, нам було псевдонаказано не дивитися на гирло річки. Навіть тепер, коли вісник прибув із дружнім запрошенням на церемонію відкриття з даруванням їхнього останнього проєкту, нас попросили не дивитися на вхід до печери, звідки він вийде." # (&)
  CHN_get_panzerschiffe: "Розробити Panzerschiff"
- CHN_get_panzerschiffe_desc:0 "As a gift to our highness from our newly promoted hivesadmiral, we have received an interesting design for a new battleship generation. We call this the pocket battleship. While having the calibre of larger vessels and being significantly smaller, we expect to reduce our building costs substantially and turn the tide to our advantage."
- CHN_WNG_Alliance:0 "Trade Docking Rights with [WNG.GetName]"
- CHN_WNG_Alliance_desc:0 "Access to [WNG.GetAdjective] ports will let us project power across Southern Griffonia. It will also let us turn our eye towards [EQC.GetName]..."
+ CHN_get_panzerschiffe_desc: "У якості дарунка Нашій Високості від нашого новопідвищеного рійадмірала, ми одержали цікавий проєкт нового покоління лінкорів. Ми наизваємо їх кишеньковими лінкорами. Маючи калібр більших суден і будучи значно меншим, ми сподіваємося суттєво скоротити витрати на будівництво та змінити ситуацію на нашу користь."
+ CHN_WNG_Alliance: "Придбати право на стоянку кораблів у держави [WNG.GetName]"
+ CHN_WNG_Alliance_desc: "Доступ до [WNG.GetAdjective]их портів дохволить нам проєктувати силу на південну Грифонію. Це також дозволить нам звернути погляд на державу [EQC.GetName]..." # (&?)
 
  CHN_war_time_actions: "Рішення воєнного часу"
  CHN_stop_war_plan: "Скасувати План тривалої війни"
  CHN_defence_plan: "Розпочати план оборони"
  CHN_defence_plan_desc: "Ми облажалися. Еквестрія виявилася стійкіша, ніж ми сподівалися. Нам треба перейти в захист і переглянути наші плани."
+ CHN_unlock_dronessturm_template_after_war: "Інтегрувати Дронесштурм в армію"
+ CHN_unlock_dronessturm_template_after_war_desc:0 "Their mission is over. We won. Those of them who have performed well can stay in the army and continue to serve for the glory of our Queen." # (!)
  CHN_Soryth_volkssturm: "Набрати дивізії Дронесштурма в Соріфі" # Ѳ # АЛ: Dronessturm — нім. Drohne
  CHN_soryth_volkssturm_tt: "У Соріфі буде утворено Дронесштурм.\n\nВони або §Yпереможуть§!, або §Rвмруть§! за нашу §GКоролеву§!!" # Ѳ
  CHN_Volistad_volkssturm: "Набрати дивізії Дронесштурма у Волістаді"
@@ -603,7 +605,7 @@
  CHN_Vesalipolis_volkssturm: "Набрати дивізії Дронесштурма в Весаліполісі"
  CHN_Vesalipolis_volkssturm_tt: "У Весаліполісі буде утворено Дронесштурм.\n\nВони або §Yпереможуть§!, або §Rвмруть§! за нашу §GКоролеву§!!"
  CHN_protectorates: "Ініціатива зі створення райхспротекторатів"
- CHN_protectorates_desc:0 "With the overall triumph over the ponies and deer across Equus, it is becoming necessary to consolidate our rule over the vast swathes of land we have conquered. It is unlikely that the ponies will ever cease their resistance against us; they hold no good will for a hated, foreign occupier intent on sapping their Love and exploiting their natural resources.\nAs such, it would be optimal to establish several autonomous §Yprotectorates§!, to replace the current ad-hoc military occupation. As the armed forces are overstretched, these nominally civilian governments shall restore the rule of law and order, this time under the changeling values. It would be best to make such arrangements before a troubling §Rdevelopment§! surfaces. [CHN.GetLeader] intends to maintain the hegemony and dominance of the changeling race for many centuries, and we cannot falter after we've achieved victory in the ultimate struggle for supremacy."
+ CHN_protectorates_desc: "Із загальним тріумфом над поні та оленів по всьому Еквусі, стає необхідно зміцнити наше правління над широкими ділянками землі, які ми завоювали. Малоймовірно, що поні коли-небудь припинять свій опір нам; вони не виявляють жодну добру волю ненависному іноземному загарбникові, чиїм наміром — відібрати їхню любов і скористатися їхніми природними ресурсами.\nТаким чином, було б оптимально заснувати декілька автономних §Yпротекторатів§! на заміну поточній особливій військовій окупації. Оскільки збройні сили перевантажені, ці номінально цивільні уряди відновлять верховенство права та порядку, цього разу з цінностям чейнджлінґів. Було б найліпше облаштувати це все до того, як на поверхню спливе тривожний §Rрозвиток подій§!. [CHN.GetLeader] має намір зберегти гегемонію та панування раси чейнджлінґів на багато століть, і ми не можемо вагатися тепер, коли досягли перемогу в останній боротьбі за верховенство." # (&)
  CHN_equus_protectorates_unlock_tt: "Відімкнено протекторати Еквусу. Наведіть на рішення, щоби підсвітити майбутні держави-суб'єкти з власною територією." # (&?)
  CHN_manehattan_protectorate: "Утворити Мейнгеттенський протекторат"
  CHN_baltimare_protectorate: "Утворити Австральний протекторат"
@@ -632,10 +634,10 @@
  CHN_puppet_changeling_administration: "Адміністрація чейнджлінґів"
 
  CHN_war_propaganda_decision: "Воєнна пропаганда проти держави [From.GetName]" # (&?)
- CHN_PLB_border_war:0 "Suppress the Bears"
- CHN_PLB_border_war_timeout:0 "Border Attack on [PLB.GetName]"
- CHN_PLB_border_war_2:0 "Strike the Key Lake Region"
- CHN_PLB_border_war_timeout_2:0 "Border Attack on [PLB.GetAdjective] Key Lake"
+ CHN_PLB_border_war: "Придушити ведмедів"
+ CHN_PLB_border_war_timeout: "Прикордонний напад на державу [PLB.GetName]"
+ CHN_PLB_border_war_2: "Ударити по регіоні Ключ-озера"
+ CHN_PLB_border_war_timeout_2: "Прикордонний напад на [PLB.GetAdjective]е Ключ-озеро"
 
  CHN_domestic_affairs: "Програма підтримки народу"
  CHN_domestic_affairs_desc: "Аби забезпечити процвітання нашої держави, урядове фінансування буде передане на субсидії військового виробництва, поліпшення умов проживання і праці та сімейних установ."
@@ -666,7 +668,7 @@
  CHN_hivesmarschall_trimmel: "Ріймаршал Тріммель"
  CHN_queen_chrysalis: "Королева Кризаліс" # fem.
  CHN_thorax_name: "Торакс"
- CHN_gold_muffin: "Ґолд Маффин"
+ CHN_gold_muffin: "Ґолд Маффін"
  CHN_hermis_thysbe: "Герміс Фісбе" # Ѳ
  CHN_carolina_phymata: "Кароліна Фімата"
  CHN_limacus_uptrich: "Лімакус Уптрих"
@@ -741,7 +743,7 @@
  CHN_steel_chitin_plan: "План «Крицевий хітин»"
  CHN_AI_stronger_plan_east_prep: "$CHN_plan_east_prep$"
  CHN_AI_steel_chitin_plan: "$CHN_steel_chitin_plan$"
- CHN_unity: "Нація об'єднана"
+ CHN_unity: "Об'єднана нація"
  CHN_unity_desc: "Чейнджлінґи лише настільки сильні, наскільки високий є рівень співпраці між ними. Розділені вулики були б легкою здобиччю для наших суперників, але коли ми стоїмо як одне ціле, наша свобода забезпечена й ми можемо діяти, спираючися на силу нашої волі. Тому вулики чейнджлінґів повністю підтримують факт, що ними править [Root.GetLeader]." # (@) (&?)
  changeling_queen: "Королева чейнджлінґів"
  changeling_swarm: "Рій"
@@ -855,7 +857,7 @@
  changelings.3.t: "Завоювання" # Порожня подія
 
  changelings.4.t: "Області віддано" # (&)
- changelings.4.d:0 ""[OLE.GetLeader] truly is spineless," Chrysalis said, reading the response from Olenia with contempt. "Here I was spoiling for a good fight. And the deer fold like a house of cards. Pathetic!"\n\n"It appears reason won out in the end," Hivesmarschall Trimmel stated, bowing his head as Chrysalis fumed that she wouldn't have her fight anymore. "Still, we can call this a victory. There will be further opportunities to subjugate the deer. I'm sure the right one will surface before long."\n\n"It better," Chrysalis said. "If I settle for only taking three states off of the deer, I'm just a bit player. But if I take all of Olenia..." she rubbed her hooves together and giggled. "The deer may have bought themselves some time, but they will be my first conquest, one way or another. Soon they will submit or they will die, and I don't particularly care which one they choose.""
+ changelings.4.d: "— [OLE.GetLeader] — справді безхребетько, — сказала Кризаліс, із презирою читаючи відповідь від Оленії. — Ось я чекала на добрий бій. А олені складаються як картковий будиночок. Жалюгідно!\n— Схоже, в кінцевому підсумку переміг здоровий глузд, — заявив ріймаршал Тріммель, схиляючи голову. Кризаліс сердилася, що більше не отримає бій. — Так чи інакше, ми моєемо назвати це перемогою. Для підкорення оленів будуть подальші можливості. Я певен, слушна спливе незабаром.\n— Ліпше б так, — сказала Кризаліс, — якщо я задовольнюся забранням лише трьох областей від оленів, це буде лише гра наполовину. Але якщо я візьму всю Оленію... — вона потрела копита та реготнула.\n— Олені може й купили собі якийсь час, але вони так чи інакше будуть моїм першим завоюванням. Скоро вони підкоряться або помруть, а мене мало хвилює, що вони виберуть." # (&+)
  changelings.4.a: "Поки що вистачить... але це не задовольнить нас назавжди."
 
  changelings.5.t: "[From.GetName] відхиляє наші вимоги!"
@@ -870,25 +872,25 @@
  changelings.7.d: "— Олені відхилили нашу люб'язну пропозицію капітулювати, моя Королево, — сказав капітан Королевиної варти Лацін Кардо, жбурнувши відповідь Оленії не землю поперед трон королеви Кризаліс, — і доволі грубо. Вони вжили мову, яку, боюся, було б негоже вживати у Вашій присутності. Але це саме те, що Ви чекали. Олені надто пихаті, щоби збагнути, коли смерть дивиться їм у лице.\n— Добре, — сказала Кризаліс, — я чекала на можливість випробувати нашу перебудовану Армію. Олені якраз дали мені виправдання надіслати танки та розчавити цих нікчемних створінь своїми гусеницями. Мобілізовуй війська. Вони впадуть перед нами за мить, розбиті нашою переважаючою міццю, і оленійці збагнуть, якою помилкою було ставати нам на заваді... не те щоб їх це бодай якось урятувало від того, на що вони заслуговують." # hrr.
  changelings.7.a: "Вони хочуть зробити це важким шляхом? Я також хочу зробити це важким шляхом!"
 
- changelings.8.t:0 "Olenia Surrenders"
- changelings.8.d:0 ""Cowards, the lot of them," Hivesmarschall Trimmel said, shaking his head. "I barely started my tanks before the Olenians folded. My Panzers still have half-full tanks of gasoline. The Olenians must be issued white flags with their soldiery kits, because I've never seen so many fly so quickly. I almost shot at them out of frustration. Almost."\n\nQueen Chrysalis frowned down at her Hivesmarschall, though her ire was not for him. "Were they trying to call a bluff? Did [OLE.GetLeader] really not think we would dare to invade Olenia if they refused? How laughable." She shook her head and waved her hoof to dismiss Trimmel. "Very well, if they won't put up a fight, then we have nothing to gain by slaughtering them save for another enemy. The equipment and bugpower we saved from the Olenians surrendering would be best used against Equestria. They will be the real tough nut to crack, and so we must throw everything we have against them. That's where the real fight lies.""
- changelings.8.a:0 "Olenia... all that chest pounding and for what? A few dozen dead deer?"
+ changelings.8.t: "Оленія капітулює"
+ changelings.8.d: "— Боягузи, всі вони, — сказав ріймаршал Тріммель, похитуючи головою, — я ледве завів свої танки, перш ніж оленійці прогнулися. Мої Панцери досі мають півповні баки пального. Оленійцям треба роздавати білі прапори з комплектами спорядження, бо я ніколи не бачив так багато втікати. Я майже стрелив по них із розчарування. Майже.\n\nКоролева Кризаліс насуплено дивилася на свого ріймаршала, хоча її гнів був спрямований не на нього.\n— Невже вони намагалися розкрити блеф? Невже [OLE.GetLeader] справді не подума[OLE.Leader.GetVerbGendEndA_RU], що ми посміємо вторгнутися в Оленію, якщо вони відмовлять? Як сміховинно.\nВона похитала головою та махнула копитом, відпускаючи Тріммеля.\nНу що ж, якщо вони не стануть битися, то ми ніщо не заробимо їхнім забоєм, крім як іще одного ворога. Спорядження та жуко-ресурси, які ми зберегли від здачі оленійців, ліпше буде застосувати супротив Еквестрії. Тих буде справді важко розкусити, тож ми мусимо звести все, що маємо, проти них. Там нас чекає справжній бій." # (&+)
+ changelings.8.a: "Оленія... все це биття себе у груди, і заради чого? Кількох дюжин мертвих оленів?" # (&+)
 
- changelings.10.t:0 "War With [VAN.GetName]."
- changelings.10.d:0 "A fractured Equestria is a weak Equestria, that much is certain. The current situation in the aftermath of the War of the Two Sisters is very favourable to us as we seek to end this Equestrian blight once and for all. While Equestria struggles to put back together the pieces from its catastrophic civil war, we will be sure to take advantage of the chaos and confusion. The city of Vanhoover is one of Equestria's most important naval ports, and not only that, a significant population of changelings lives in and around the city. It's time that we welcome our brothers and sisters back into the fold with open forelegs, and while we're at it, seize the all-important Equestria dockyards in Luna Bay. Not only will these dockyards be put to better use producing ships for our navy, but it will widen the border against Equestria, giving us an opportunity to outflank the Equestrian left and crush their army before the war has even truly begun. We will need every advantage fighting the Equestrian beast, and picking off one of its strongest city-states will benefit us greatly."
- changelings.10.a:0 "Vanhoover will fall, and that'll really give Equestria something to worry about."
+ changelings.10.t: "Війна з державою [VAN.GetName]"
+ changelings.10.d: "Розколота Еквестрія — слабка Еквестрія, це точно. Поточна ситуація після Війни двох сестер дуже прихильна до нас, адже ми бажаємо раз і назавжди покінчити з цією еквестрійською пошестю. Поки Еквестрія х труднощами складає назад частини зі своєї катастрофічної громадянської війни, ми напевне скористаємося хаосом і сум'яттям. Місто Вангувер — один із найважливіших морських портів Еквестрії та, між іншим, у місті та навколо живе помітна кількість чейнджлінґів. Настав час для нас запросити наших братів і сестер назад до своїх із розпростертими обіймами, і, поки про це йде мова, захопити всеважливі корабельні Еквестрії в Бухті Луни. Ці корабельні не тільки будуть застосовані ліпше з виробництвом кораблів для наших ВМС, але це й розширить границю з Еквестрією, що дасть нам можливість обійти еквестрійців зліва та розбити їхню армію, перш ніж війна справді почалася. Нам знадобиться всяка перевага в боротьбі з еквестрійським звіром, а зняттям одного з її найсильніших міст-держав дуже піде нам на користь." # (&+)
+ changelings.10.a: "Вангувер паде, і це справді дасть Еквестрії причину для тривоги."
 
- changelings.11.t:0 "War With [SCS.GetName]."
- changelings.11.d:0 ""A fractured Equestria is a weak Equestria, that much is certain. The current situation in the aftermath of the War of the Two Sisters is very favourable to us as we seek to end this Equestrian blight once and for all. While Equestria struggles to put back together the pieces from its catastrophic civil war, we will be sure to take advantage of the chaos and confusion. The foolish [SCS.GetName] have split off from Equestria. Their supplies of crude oil have made them powerful in their own right, but only a valuable prize for us. Seizing their oil supplies will allow us to run our Panzers for longer than we otherwise could have. We must take control of this oil and grant our army the freedom to drive as far as it can. Yet another piece of Equestria is ready to fall into our hooves!"
- changelings.11.a:0 "Their oil shall be ours!"
+ changelings.11.t: "Війна з державою [SCS.GetName]"
+ changelings.11.d: "Розколота Еквестрія — слабка Еквестрія, це точно. Поточна ситуація після Війни двох сестер дуже прихильна до нас, адже ми бажаємо раз і назавжди покінчити з цією еквестрійською пошестю. Поки Еквестрія х труднощами складає назад частини зі своєї катастрофічної громадянської війни, ми напевне скористаємося хаосом і сум'яттям. Дурні з держави [SCS.GetName] відкололися від Еквестрії. Їхні запаси сирої нафти зробили їх по-своєму могутніми, але для нас — лише цінним призом. Захоплення їхніх запасів нафти дозволить нам рузати наші танки довше, ніж ми б могли інакше. Ми мусимо взяти владу над цією нафтою та надати нашій армії якнайбільшу свободу переміщення. Черговий уламок Еквестрії готовий пасти нам до копит!" # (&+)
+ changelings.11.a: "Їхня нафта буде наша!"
 
- changelings.12.t:0 "War With [From.GetName]."
- changelings.12.d:0 ""A fractured Equestria is a weak Equestria, that much is certain. The current situation in the aftermath of the War of the Two Sisters is very favourable to us as we seek to end this Equestrian blight once and for all. While Equestria struggles to put back together the pieces from its catastrophic civil war, we will be sure to take advantage of the chaos and confusion. The foolish [From.GetName] have split off from Equestria. The fractured state of our greatest enemy shall make them all the easier to conquer. Piece by piece we shall devour Equestria until there is nothing left to conquer. Divided they shall fall to our might!"
- changelings.12.a:0 "To war!"
+ changelings.12.t: "Війна з державою [From.GetName]"
+ changelings.12.d: "Розколота Еквестрія — слабка Еквестрія, це точно. Поточна ситуація після Війни двох сестер дуже прихильна до нас, адже ми бажаємо раз і назавжди покінчити з цією еквестрійською пошестю. Поки Еквестрія х труднощами складає назад частини зі своєї катастрофічної громадянської війни, ми напевне скористаємося хаосом і сум'яттям. Дурні з держави [From.GetName] відкололися від Еквестрії. Розколота держава нашого найбільшого ворога зробить його завоювання легшим. Частина за частиною, ми поглинемо Еквестрію, аж поки не залишиться що завойовувати. Розділені, вони впадуть перед нашою міццю!" # (&+)
+ changelings.12.a: "До бою!"
 
- changelings.14.t:0 "War With [STG.GetName]."
- changelings.14.d:0 "[STG.GetName] stands in the way of the ambitions of our Glorious Queen. Not only are they ponies that we must conquer, but they are the home of that disgusting ideology called Communism, which stands in direct opposition to the natural hierarchy of the hives and the changeling species. Letting this state fester in continued existence could only be a disaster. They must be crushed immediately, and we shall make them submit by any means necessary!"
- changelings.14.a:0 "To war!"
+ changelings.14.t: "Війна з державою [STG.GetName]"
+ changelings.14.d: "[STG.GetName] стоїть на шляху амбіцій нашох славетної королеви. Вони не тільки поні, яких ми мусимо завоювати, але їхня земля ще й є домівкою цієї бридкої ідеології, званої комунізмом, яка стоїть прямо протилежно до природної ієрархії вуликів і виду чейнджлінґів. Дозволяти цій державі гноїтися у своєму існуванні може закінчитися лише лихом. Їх необхідно негайно розчавити, і ми змусимо їх підкоритися всіма можливими способами!" # (&+)
+ changelings.14.a: "До бою!"
 
  changelings.16.t:0 "Espionage in Equestria"
  changelings.16.d:0 "Vaspier Orn Kladisium paced around his desk, a lit cigarette hanging from his lips. Held in his magic before him were several plain folders, which he opened and looked through one after the other. Early feelers from the first wave of infiltrators sent into the country had identified several weaknesses within the Equestrian state, ranging from things as simple as factory overseers to levels all the way up to the highest order of government. Though the Equestrians were wary of changeling infiltration owing to the world situation and the failed attack on Canterlot in 1002, they had yet to close off any ways for УГБВ to get a hoof inside of the nation. That would be their undoing.\n\nVaspier set the folders aside and pulled up his roster of agents on standby. The greatest strength of the changeling race was their ability to shapeshift into almost any form, but the average changeling had limits to that ability. Without training, a form could only be assumed for so long, and the impersonation could be imperfect. Those familiar with the individual being impersonated would soon sniff out the falsehood standing before them. But the infiltrators of the УГБВ were the best of the best, each extensively trained to perfectly impersonate a target, relentlessly drilled for weeks on every detail and habit of their assumed likeness. These infiltrators, Vaspier would release en masse into Equestria. With perfectly placed spies throughout the Equestrian Army, the resulting chaos and confusion would soon make it impossible for them to resist the swarm.\n\nVaspier let his cigarette burn out, then squashed it in an ashtray. Soon, Equestria, just like that cigarette, would be snuffed out."
@@ -922,10 +924,10 @@
  changelings.22.a:0 "Sure, why not."
  changelings.22.b:0 "Those trees will mark their graves."
 
- changelings.23.t:0 "Jungle Nation Wishes to Establish a Protectorate"
- changelings.23.d:0 "The pathetic bandits of the jungle know they are no match for our mighty armies. Rather than fighting a sustained guerrilla war that would only end in their death, they have offered to surrender to us, in exchange for our protection. It is an arrangement that would benefit both of us, and we could avoid further bloodshed."
- changelings.23.a:0 "Sure, why not."
- changelings.23.b:0 "Those trees will mark their graves."
+ changelings.23.t: "$changelings.22.t$"
+ changelings.23.d: "$changelings.22.d$"
+ changelings.23.a: "$changelings.22.a$"
+ changelings.23.b: "$changelings.22.b$"
 
  #-Culled Events 24 to 31 -Psody
  changelings.32.t:0 "Operation: Furore Chrysalis!"
@@ -933,11 +935,9 @@
  changelings.32.a:0 "Blind and oblivious, the ponies shall die to a dagger in the dark."
  CHN_furfore_tooltip:0 "Spawns §YFive Jaeger Saboteurs Divisions§! around §YVanhoover§!\n"
 
-
-
- changelings.35.t:0 "Zecora's Resistance!" ## Old and Ded ##
- changelings.35.d:0 "Kill them fast!"
- changelings.35.a:0 "..."
+ changelings.35.t: "Зекорин спротив!" ## Old and Ded ##
+ changelings.35.d: "Убийте їх, хутко!"
+ changelings.35.a: "..."
 
  changelings.900.t:0 "We, the bears, have lost"
  changelings.900.d:0 "Unfortunately, we have been forced to accept a place as just another puppet state of the Changelings. Already, Changeling garrison units are deploying throughout our territory, and our former leader is being forced out of power in favor of another. Rumors are building that it's the traitor Bjornling, who has spent almost a decade polishing Chrysalis's hooves. If true, this could mark a dark new chapter in our history..."
@@ -948,15 +948,15 @@
  changelings.902.t:0 "Nova Griffonia has fallen"
  changelings.902.d:0 "Nova Griffonia is no more as it was just a year ago. Unforeseen threat has come from the west. We have to retreat to our old homeland!"
  changelings.902.a:0 "Oh no!"
- changelings.903.t:0 "Our Town is not ours anymore :c"
- changelings.903.d:0 "Never trust changelings!"
- changelings.903.a:0 "Damn it!"
- changelings.905.t:0 "The Dragon Protectorate"
+ changelings.903.t: "Наме Місто більше не наше :C"
+ changelings.903.d: "Ніколи не довіряйте чейнджлінґам!"
+ changelings.903.a: "Трясця!"
+ changelings.905.t: "Драконячий протекторат"
  #changelings.905.t:0 "With our new Changeling overlords, we have been forced to change our name." # Different  duplicate from Eaw
- #changelings.905.t:0 "Damn." # Different duplicate from Eaw
- changelings.910.t:0 "Saved!"
- changelings.910.d:0 "Never again will we bear changeling rule over our lands!"
- changelings.910.a:0 "We are back!"
+ #changelings.905.t: "Трясця." # Different duplicate from Eaw
+ changelings.910.t: "Порятунок!"
+ changelings.910.d: "Більше ніколи ми не терпітимемо правління чейнджлінґів на наших землях!"
+ changelings.910.a: "Ми повернулися!"
 
  changelings.36.t:0 "Ditrysium Naval Effort"
  changelings.36.d:0 "Building ships is a costly and time-consuming endeavour. Unlike a rifle which can be assembled by a single drone, or a tank which is neatly fabricated and welded together by a few changelings in a factory, a ship is practically a town floating on the sea. It takes the efforts of countless dockyards and factories working together to assemble the ship, piece by piece, over weeks of hard work. Ditrysium is the largest of our dockyards and our greatest port, and even it is struggling to keep up with the demands of our navies. Queen Helvia has petitioned Queen Chrysalis for more funding and resources to expand the dockyards and supply the navy with the ships it desperately needs. Unfortunately, the resources we can set aside for Ditrysium cannot do both. We can either expand the dockyards to gain more ships in the long run, or dedicate the resources that could be used to construct those dockyards to instead bolster the construction of our ships, giving us more in the short term. What shall we tell Queen Helvia?"
@@ -985,24 +985,26 @@
  changelings.42.d:0 "Thanks to our carefully worded message [From.Capital.GetName] has seen fit to approve our remilitarisation plan. Our forces can now be commanded by their own generals, and recruitment can begin in earnest now. Their first task will be just getting on their four hooves, but after that they must go and help the Equestrians in their war. We shall soon earn our freedom, and help save the world!"
  changelings.42.a:0 "A true true friend helps a friend in need."
 
- CHN_demand_remilitarization:0 "Propose Remilitarisation"
+ CHN_demand_remilitarization: "Висунути ідею ремілітаризації"
  CHN_demand_remilitarization_desc:0 "With Equestria currently engaged in war an opportunity arises for us to gain a measure of freedom ahead of schedule. We shall propose remilitarising [Root.GetNameDef] for the purpose of assisting them when at war in a carefully worded letter. Hopefully the Equestrian government will accept the proposal."
 
- CHN_call_GRF_to_arms_for_help:0 "Demand our Griffon Allies Join the War"
+ CHN_call_GRF_to_arms_for_help: "Вимогти від наших союзників-грифонів приєднатися до війни"
 
  #CHN-GRI Stuff
  CHN_GRI_Attache_For_GRI: "Аташе чейнджлінґів до Грифонії"
- CHN_GRI_Attache_For_GRI_desc: "Військова місія чейнджлінґів присутня в Імперії Грифонів. Їхні проєкти, як правило, поліпшують якість імперських танків. Завдяки цьому, проєкти отримують велике практичне застосування по всій Імперії, що дає чейнджлінґам відгук на їхні проєкти — угода практична для обох націй." # (&)
+ CHN_GRI_Attache_For_GRI_desc: "В Імперії Грифонів присутня військова місія чейнджлінґів. Їхні проєкти, як правило, поліпшують якість імперських танків. Завдяки цьому проєкти отримують широке практичне застосування по всій Імперії, що дає чейнджлінґам відгук на їхні проєкти — угода практична для обох держав." # (&)
  CHN_GRI_Attache_For_CHN: "$CHN_GRI_Attache_For_GRI$"
  CHN_GRI_Attache_For_CHN_desc: "$CHN_GRI_Attache_For_GRI_desc$"
 
  CHN_Attache: "Аташе чейнджлінґів до Грифонії"
  CHN_Cancel_Attache: "Відкликати нашого аташе"
 
- CHN_GRI_Hiding_The_Coward:0 "Sheltered our traitor"
- CHN_GRI_Queen_Swears_Vengance:0 "The Queen swore vengance"
- CHN_GRI_Party:0 "Threw a farewell party"
+ CHN_GRI_Hiding_The_Coward: "Дано прихисток нашому зрадникові"
+ CHN_GRI_Queen_Swears_Vengance: "Королева поклялася помститися"
+ CHN_GRI_Party: "Влаштувано прощальну вечірку"
 
+ # ЕМЧГ — Експедиційна місія чейнджлінґів до Грифонії
+ # CGEM — Changeling-Griffonian Expeditionary Mission
  changelingattache.1.t: "Кризаліс відкликає аташе"
  changelingattache.1.d:0 "'Because of internal matters within the Changeling Lands the scientists, soldiers, advisors, and all related personnel of the Changeling-Griffonian Expeditionary Mission are hereby ordered to return home at once by the decree of Queen Chrysalis.'\nThe message is simple, written in a taciturn dialect of the language the two distant nations share, yet profound in its meaning. For years the changelings assisting the Imperial Army and attached research divisions have become a staple of life for those in the upper echelons of the command hierarchy, and now it is time for them to leave. The mood is unsurprisingly somber when the message is read aloud, both for what leaving means and for what awaits the changelings in their homeland.\nSynovial, senior military commander of the mission, seems relieved at the news, as if a great weight had been lifted off his wings. His compatriot, Thranx, seems to have had the opposite reaction, falling into a depressive stupor that in turn lowers the mood of all those near him. The differing reactions have prompted one of the Imperial commanders who worked with the CGEM to voice the idea that they should throw a party for all the members of the mission to wish them fond farewells, for it would seem to be kind to let their last memories of the Griffonian Empire be happy ones."
  changelingattache.1.a:0 "Let's not make a fuss about this and send them off with stoicism."
@@ -1041,9 +1043,9 @@
  changelingattache.8.d:0 "To our great shock, the imperial nobility, including [GRI.GetLeader], have declined our demand to return General Thranx to us. This is unbelievable, and will not go unpunished!\nHowever, first we must let the Queen know of this..."
  changelingattache.8.a:0 "The queen will be most displeased..."
 
- changelingattache.9.t:0 "Chrysalis Swears Revenge"
- changelingattache.9.d:0 "The Queen gnarled aloud as she listened to the changeling in front of her who relayed the Griffonian response to her. With a swift stroke and blast from her crooked horn, the small and unimportant minion was obliterated, and only a black, dusty crater remained where he had stood.\n"Listen to me when I say this: the wicked and disgusting griffons within the Empire have today made the biggest mistake in their sorry, petty lives! Their 'empire' had already been torn apart by their own minions, and their decadence and incompetence even today does not cease to amaze me. If they so valiantly refuse my orders and demands, then they must be entirely unaware of who they've just made an enemy with. Their sorry little Empire will collapse like a house of cards, and I will tear it apart and burn it and its citizens to ashes myself if I have to! None shall stand in my way!"\nThe other changelings present applauded and cheered for their Queen."
- changelingattache.9.a:0 "We will strike them soon enough."
+ changelingattache.9.t: "Кризаліс клянеться помститися"
+ changelingattache.9.d: "Королева гаркнула вголос, слухаючи чейнджлінґа попереду неї, котрий переказував відповідь грифонів для неї. Швидким махом і вибухом із її кривого рогу малий і неважливий посіпака був стертий; на його місці зостався лише чорний порошний кратер.\n— Слухайте мене, коли я кажу це: сьогодні безчесні та мерзенні грифони Імперії зробили найбільшу помилку у своїх жалких, дріб'язкових життях! Їхню «імперію» вже розірвали на шмаття її власні слуги, а їхні занепадництво та неспроможність і понині не перестають мене вражати. Якщо вони так доблесно відхиляють мої накази та вимоги, то вони, певно, геть не знають, кого щойно зробили своїм ворогом. Їхня жалка маленька імперія розвалиться як картковий будиночок і я розірву її на частини та, якщо доведеться, особисто спалю її, а й її громадян! Ніхто не буде стояти в мене на шляху!\n\nІнші присутні чейнджлінґи зааплодували та заскандували в ім'я своєї королеви." # (&+): останнє речення
+ changelingattache.9.a: "Зовсім скоро ми вдаримо по них."
 
  changelingattache.10.t:0 "Revenge of the Queen"
  changelingattache.10.d:0 "It all appeared to be a perfectly normal day, today. For the most part.\nGeneral Thranx had used the time in Griffonia and away from other changelings to better incorporate himself into the life of a griffon. Often times he had used his shapeshifting abilities to 'fit in', but many griffons, especially those who had previously worked with him, respected and liked him either way, no matter the appearance.\nThranx has even gone so far as finding a lover that lived just outside of the capital. It was all too perfect, it seemed, and the lone Changeling appeared to be in good claws.\nThat was nothing but a ruse though, it seems. Earlier today, during a visit at a restaurant, Thranx began to cough heavily, and shortly after collapsed to the ground. Griffons nearby immediately rushed to his rescue, seeing him cough up blood, but it was no use. General Thranx... died.\nA funeral has already been organised for this brave changeling, and he has been issued griffonian citizenship post-mortem to thank him for the appreciation he shared for our nation and culture.\nShockingly though, police has found out that the cause of Thranx death was a deadly poison, one that has never been seen or used in all of Griffonia before. In addition, his fiancée is nowhere to be found following his death. Could this be the work of a fellow changeling, sent by Chrysalis? For now, we are unsure."
@@ -1299,136 +1301,136 @@
 ### ФОКУСИ ###
  CHN_post_war_1: "Pax Chrysalia"
  CHN_post_war_1_desc:0 "The Changeling Queendom reigns supreme across Equus. The Diarchy has fallen, and with it, the Equestrian nation-state, crushed under the panzer treads and jackboots of the Heer. From the ashes of the Great War, the incipient Pax Chrysalia extends its tendrils across the continent, to usher forth a new era of Changeling domination and prosperity."
- CHN_post_war_1_a:0 "Die Dekompression"
+ CHN_post_war_1_a: "Die Dekompression"
  CHN_post_war_1_a_desc:0 "Where the fires of rabid militarism had been avidly stoked, to guide the Changeling Hives into becoming a society geared towards the perpetuation of total war, the triumph of the Pax Chrysalia means that the immense burden of the war effort can now be relieved. The industry and socioeconomic system of the Queendom must be retooled, so to facilitate the business of peace as it did the butchery of war."
- CHN_post_war_1_b:0 "Harbingers of Peace"
+ CHN_post_war_1_b: "Провісники миру"
  CHN_post_war_1_b_desc:0 "Winning the Great War was but the first step in the realisation of the Pax Chrysalia. Whilst our victorious troops occupy the smouldering ruins of Equestria's cities, the arduous task of asserting Changeling rule over the vast continental interior must begin apace. Every town, village, and hamlet, however inconsequential, must know their place as loyal possessions of their new Queen."
- CHN_post_war_2:0 "Minions for the Queen"
+ CHN_post_war_2: "Посіпаки для королеви"
  CHN_post_war_2_desc:0 "It would take hundreds upon thousands of skilled, well-trained infiltrators to assume every single position of power on every level of Equestrian society. Thus: while the agents of the УГБВ focus on the impersonation of a select few ponies of significance, the day-to-day of ruling over our Queen's new Equestrian subjects must, regrettably, be delegated to pony collaborationists of dubious reliability."
- CHN_post_war_2_a:0 "Changeling Corpocracy"
+ CHN_post_war_2_a: "Корпоратократія чейнджлінґів"
  CHN_post_war_2_a_desc:0 "The insatiable, ravenous appetite of the military-industrial complex must be sated, if the Changeling war machine is to remain robust and virile. The virgin lands of Equestria, rich in natural resources and other treasures, lie ripe for the extraction of mineral wealth, though the plundering will necessitate increased vigilance on the part of our occupying troops."
- CHN_post_war_2_b:0 "With Bark AND Bite"
+ CHN_post_war_2_b: "Лаючи та кусаючи"
  CHN_post_war_2_b_desc:0 "Equestria was shattered in the Great War, but the ponies refuse to acknowledge defeat. Before the Heer lies the arduous and nigh-impossible task of enforcing the Pax Chrysalia upon a restive, resentful populace. Our approach to the occupation must be one that is flexible and pragmatic, capable of seizing every opportunity to chip away at the Equestrian spirit of defiance."
- CHN_post_war_2_c:0 "No Rest for the Wicked"
+ CHN_post_war_2_c: "Для безбожних спокóю немає" # (&+)
  CHN_post_war_2_c_desc:0 "Sizeable swathes of the Equestrian population languish in prison camps; POWs, dissidents, prominent pony leaders, and other undesirables. The amount of resources and personnel dedicated to their incarceration is quite extortionate. The formation of a penal service corps comprised of such criminals will allow them to work for their rehabilitation by contributing to the economy as unskilled labour."
- CHN_post_war_2_d:0 "Friendship is Conditional"
+ CHN_post_war_2_d: "Дружба — це умовність"
  CHN_post_war_2_d_desc:0 "Equestria is a broken and humiliated foe, having ceased to exist as a sovereign entity after the Great War. However, the trappings of diplomacy may prove useful in promoting compliance within the population; sham treaties of so-called "friendship" and "cooperation" will serve to codify the Equestrian defeat and legitimize Changeling governance over their lands — shackles cast in a mummery of legality."
- CHN_post_war_2_e:0 "Muzzle All Dissent"
+ CHN_post_war_2_e: "Примусити незгідних мовчати" # підглянуто в РЛ
  CHN_post_war_2_e_desc:0 "Dissident thought must be weeded out before it can become infectious. The УГБВ has a blacklist of outspoken Equestrians who are disproportionately influential. The Queen's Guard want to go further; any who speak out, changeling or pony alike, must be eliminated with maximum prejudice. After all, it only takes one voice to share an idea, and ideas, once shared, become the seeds for revolution..."
- CHN_post_war_2_f:0 "Aid the Reconstruction"
+ CHN_post_war_2_f: "Допомогти з відбудовою"
  CHN_post_war_2_f_desc:0 "While a self-sufficient Equestrian economy is not our goal, we can not be complacent in the impending socioeconomic collapse of our occupied territories. Offering conditional financial support to businesses will hopefully keep ponies employed and capital moving through the recovering economy of Equestria, which will, in the end, bring money back to the Hives."
- CHN_post_war_2_g:0 "Revive War Production"
+ CHN_post_war_2_g: "Відродити воєнне виробництво"
  CHN_post_war_2_g_desc:0 "Before the Heer rolled into Equestrian cities, the war economy of the pony nation had been churning out equipment at such a high rate of production that it might have been able to rival our own, given time. While this fact should be hidden from the general public, we can take advantage of the captured Equestrian war industry put to enlarge and enhance our own military production capabilities."
- CHN_vraks_looting_concern:0 "Das KuKC Erforschung- und Extraktion Konzern"
+ CHN_vraks_looting_concern: "Das KuKC Erforschung- und Extraktion Konzern"
  CHN_vraks_looting_concern_desc:0 "Having increased the demand for raw resources tenfold through the upscaling of military production, the Hives' capitalists now clamour for the creation of a central resource management agency administered jointly by the Changeling state and its corporations, to streamline the extraction of natural resources from territories across the Hegemony and their delivery to the factories of the Hives."
- CHN_post_war_2_h:0 "The Recovery's a Racket!"
+ CHN_post_war_2_h: "Відновлення — це рекет!" # (&+)
  CHN_post_war_2_h_desc:0 "The process of rebuilding the Equestrian economy is one rife with business opportunities for the Hives' industrial cartels. Under the aegis of the Equestrian Reconstruction Agency, assets from dismantled Equestrian corporations are sold to their erstwhile Changeling competitors on the cheap, in return for investments in the ERA's reconstruction budget. Peace begets profits."
- CHN_post_war_2_i:0 "Seize Equestrian Assets"
+ CHN_post_war_2_i: "Вилучити еквестрійські активи"
  CHN_post_war_2_i_desc:0 "The total dissolution of the Equestrian state meant that swathes of industry, previously having been nationalised to contribute to the pony war effort, can now be considered Bona Vacantia and thus up for grabs. The Hives' industrialists and capitalists will have to make some difficult choices, to prioritise what assets to seize and what to leave behind."
- CHN_post_war_2_j:0 "Pony Volunteer Corps"
+ CHN_post_war_2_j: "Добровольчі корпуси поні"
  CHN_post_war_2_j_desc:0 "The Pax Chrysalia dictates that Ponies must be subservient to Changelings, as is our birthright. Those compradors who elevate themselves above their race have been duly rewarded, though the Queen is disinterested in her equine subjects in general; she cares not for those who will not love her. Perhaps this can change, if, given a chance, the ponies can prove that they are worth something still."
- CHN_post_war_2_k:0 "Aktionsplan Bedeckt"
+ CHN_post_war_2_k: "Aktionsplan Bedeckt"
  CHN_post_war_2_k_desc:0 "Coming into possession of Equestrian territory means we have also gained access to many testing sites and vast quantities of valuable research and knowledge, as well as the know-how of Equestrian scientists themselves. The УГБВ will be tasked with the consolidation and conscription of all such assets, tangible and intangible, into the service of the Hives and the Heer."
- CHN_post_war_2_l:0 "The Queen's Own Thestral Jägers"
+ CHN_post_war_2_l: "Єгері-фестрали Її Величності"
  CHN_post_war_2_l_desc:0 "Queen Chrysalis was rather pleased by the formation of the RPVC; more specifically, with the imagery of pony soldiers serving in Changeling uniform. She has requested the creation of a new personal bodyguard unit comprised of thestral soldiers trained in jaeger tactics, as a symbol of her rulership over Equestria — after all, even Celestia herself could not command the loyalty of the thestrals."
- CHN_post_war_2_m:0 "The Seaddle Protocol"
+ CHN_post_war_2_m: "Сіеддльський протокол"
  CHN_post_war_2_m_desc:0 "The brainchild of Generaloberstabsarzt Marsilio, the Seaddle Protocol is a regulatory and doctrinal manual for the efficient and sustainable extraction of Love from the Equestrian populace. The Queen's Guard view the Protocol's constraints on Love harvesting with apprehension, but Marsilio's allies see it as the only way to achieve a stable working relationship between Changeling dependents and Pony providers."
- CHN_post_war_3:0 "Rule of the High Tower"
+ CHN_post_war_3: "Правління Високої Вежі"
  CHN_post_war_3_desc:0 "Atop the Great Queen's Tower that dominates the Vesalipolis skyline, the Queen holds court, presiding over her empire. Within the lavish offices in the topmost stories, all the way down to the Tower's hive-like subterranean levels, armies of bureaucrats tirelessly toil to carry out the functions of the Changeling state. As the Hegemony grows to engulf Equestria, so too does the Tower's reach."
- CHN_post_war_3_a:0 "УГБВ Proliferation"
+ CHN_post_war_3_a: "Поширення УГБВ"
  CHN_post_war_3_a_desc:0 "It would not be much of an exaggeration to call the УГБВ the most powerful intelligence agency in the world. Certainly, the services of the infiltrator corps have proved indispensable during the Great War. With the dawn of the Pax Chrysalia, the focus of the УГБВ now turns from espionage to counterinsurgency, to engage in the unenviable task of seeing that the fragile post-war peace endures across Equestria."
- CHN_post_war_3_b:0 "Victor's Justice"
+ CHN_post_war_3_b: "Переможцеве правосуддя"
  CHN_post_war_3_b_desc:0 "As we have won, it is our luxury to decide what to do with the Equestrian military high command, those monsters responsible for so many war crimes. So what if they haven't done exactly what we accuse them of? Their resistance cost the lives of millions of soldiers, and they will pay. A War Conduct Tribunal will be held, ensuring swift and severe justice."
- CHN_post_war_3_c:0 "The Lulamoon Lead"
- CHN_post_war_3_c_desc:0 "[CHN_scripted_loc_string_trixie_focus]"
- CHN_post_war_3_d:0 "Extinguish the Lodestar"
- CHN_post_war_3_d_desc:0 "[CHN_scripted_loc_string_starlight_focus]"
- CHN_post_war_3_e:0 "The Guard's Kampfhund"
- CHN_post_war_3_e_desc:0 "QUEENSGUARD COMMUNIQUÉ TO CANTERLOT\n—\nOFFICER REQUESTING PROMOTION\n—\n§RSHALL BE APPROVED.§!"
- CHN_post_war_3_f:0 "Sturmjäger-Abteilung"
+ CHN_post_war_3_c: "Зачіпка стосовно Луламун" # (&+)
+ CHN_post_war_3_c_desc: "[CHN_scripted_loc_string_trixie_focus]"
+ CHN_post_war_3_d: "Загасити провідну зорю"
+ CHN_post_war_3_d_desc: "[CHN_scripted_loc_string_starlight_focus]"
+ CHN_post_war_3_e: "Kampfhund Варти"
+ CHN_post_war_3_e_desc: "КОМЮНІКЕ КОРОЛЕВИНОЇ ВАРТИ ДО КАНТЕРЛОТА\n—\nОФІЦЕР ПОТРЕБУЄ ПІДВИЩЕННЯ\n—\n§RБУДЕ СХВАЛЕНО.§!"
+ CHN_post_war_3_f: "Sturmjäger-Abteilung"
  CHN_post_war_3_f_desc:0 "With our garrisons across Equestria in danger of being isolated and encircled by the Resistance forces that infest the countryside, it is crucial that we establish a versatile rapid-response task force, capable of deploying and operating in the middle of hostile territory to strike behind enemy lines."
- CHN_post_war_3_g:0 "Nip it in the Bud!"
+ CHN_post_war_3_g: "Присікти їх у зародку!"
  CHN_post_war_3_g_desc:0 "The resistance that covers much of Equestria is like a cancer, or like a strangling vine choking the life out of the glory of the Pax Chrysalia. Yet it is still small for the time being, and therein lies our chance to get ahead of the curve. We must destroy the resistance while it is still small, or suffer the consequences when it grows even larger!"
- CHN_post_war_3_h:0 "Peacekeeping Doctrine"
+ CHN_post_war_3_h: "Доктрина миротворчості" # інак. Миротворча доктрина
  CHN_post_war_3_h_desc:0 "From its roots in the elite hive-militias of Vesalipolis, to its baptism by fire during the unification of the Changeling Lands, to the conquest of Equestria, the Queen's military has always encouraged flexibility, innovation, and initiative — a culture that, hopefully, shall expedite the Heer's postbellum transition into a capable peacekeeping and counterinsurgency force. Improvisieren, anpassen, überwinden!"
- CHN_post_war_3_i:0 "Meritocratic Promotions"
+ CHN_post_war_3_i: "Мерітократичні підвищення"
  CHN_post_war_3_i_desc:0 "The Queen's Guard expanded hugely in the aftermath of the Great War, and their sycophants are more numerous than ever. The Royal Changeling Heer has not grown quite as fast; instead, we have had to downsize to better ration our Love reserves. With the limited amount of promotions we can give out, we must pick the best candidates not merely by their devotion to the Queen, but by their success in battle."
- CHN_post_war_3_j:0 "Learned Helplessness"
+ CHN_post_war_3_j: "Завчена безпомічність"
  CHN_post_war_3_j_desc:0 "The concept of learned helplessness states that the more a creature is exposed to a negative stimulus, the more accepting of the stimulus it becomes as it learns its situation is hopeless and will not change. Repeated punishment of the Equestrian population of a whole must therefore be executed until they realize their situation is hopeless and they cease their resistance."
- CHN_post_war_4:0 "Triumph of the Hives"
+ CHN_post_war_4: "Тріумф вуликів"
  CHN_post_war_4_desc:0 "With the utter and total defeat of Equestria in the Great War, the humiliation of the Canterlot Defeat in 1002 has been rightfully avenged. Future generations of changelings shall know of the glorious triumph of their forebears over the perfidious Equestrian nation, whose alicorn monarchs were ultimately no match for the masterful cunning and strategic brilliance of the Great Queen Chrysalis."
- CHN_post_war_4_a:0 "Military Modernisation"
+ CHN_post_war_4_a: "Осучаснення війська"
  CHN_post_war_4_a_desc:0 "Emerging battle-hardened from the Great War, the Heer is the sword and shield of the Pax Chrysalia. Where our technological superiority and doctrinal innovation had given us a clear advantage over the Equestrians, the neverending process of modernising the military must continue apace if the Heer is to maintain its edge in the imminent arms race with whatever power arises as hegemon in Griffonia."
- CHN_post_war_4_b:0 "Pacify Ponyville"
+ CHN_post_war_4_b: "Умиротворити Понівілль"
  CHN_post_war_4_b_desc:0 "With the Equestrian heartland under our rule, it is time to mark our territory and impress Changeling sovereignty upon the region. First and foremost of such acts will be the erasure of the Castle of Friendship not only from the physical realm, but in a metaphysical sense as well. We shall purge this symbol of Equestria from existence, and ensure that no pony may heed its call ever again."
- CHN_post_war_4_c:0 "Prep the Siedlungsplan"
+ CHN_post_war_4_c: "Підготувати Siedlungsplan"
  CHN_post_war_4_c_desc:0 "The colonization of the Equestrian northwest by Changeling settlers has always been an integral part of the expansionist plans of the Great Queen. With Equestria under our control, it is time to make good on our promises to the multitudinous masses of the Hives, and begin the task of reshaping the temperate pastures of Equestria to accommodate a new generation of Changeling pioneers."
- CHN_post_war_4_d:0 "A Sixth Great Hive?"
+ CHN_post_war_4_d: "Шостий великий вулик?"
  CHN_post_war_4_d_desc:0 "Without the Five Great Hives, there would be no Changeling Lands. Nothing embodies the Changeling spirit of industriousness more than these hive-metropolises, sprawling urban agglomerations where industry, capital, and labour-power are concentrated. What could be a more potent symbol of the Pax Chrysalia than a new great hive — the sixth — established upon Equestrian soil?"
- CHN_post_war_4_f:0 "Subjugate the Everfree"
- CHN_post_war_4_f_desc:0 "[CHN_scripted_loc_string_subjugate_everfree]"
- CHN_post_war_4_g:0 "Fall Grün"
- CHN_post_war_4_g_desc:0 "[CHN_scripted_loc_string_fall_grun]"
- CHN_post_war_4_h:0 "Fall Gelb"
- CHN_post_war_4_h_desc:0 "[CHN_scripted_loc_string_fall_gelb]"
- CHN_post_war_4_i:0 "Fall Rot"
- CHN_post_war_4_i_desc:0 "[CHN_scripted_loc_string_fall_rot]"
- CHN_post_war_4_i_req_tt:0 "We have at least §Y750§! aircraft based out of §Yair bases§! in the §YCentral Equestria§! strategic region."
- CHN_post_war_4_j:0 "Hunt for the Witch"
- CHN_post_war_4_j_desc:0 "[CHN_scripted_loc_string_witch_hunt]"
- CHN_post_war_4_k:0 "Deep Cover Initiatives"
+ CHN_post_war_4_f: "Підкорити Вічнодикий ліс"
+ CHN_post_war_4_f_desc: "[CHN_scripted_loc_string_subjugate_everfree]"
+ CHN_post_war_4_g: "Fall Grün"
+ CHN_post_war_4_g_desc: "[CHN_scripted_loc_string_fall_grun]"
+ CHN_post_war_4_h: "Fall Gelb"
+ CHN_post_war_4_h_desc: "[CHN_scripted_loc_string_fall_gelb]"
+ CHN_post_war_4_i: "Fall Rot"
+ CHN_post_war_4_i_desc: "[CHN_scripted_loc_string_fall_rot]"
+ CHN_post_war_4_i_req_tt: "Ми маємо принаймні §Y750§! літаків розміщеними на §Yавіабазах§! у стратегічному регіоні §Y$STRATEGICREGION_41$§!"
+ CHN_post_war_4_j: "Уполювати відьму"
+ CHN_post_war_4_j_desc: "[CHN_scripted_loc_string_witch_hunt]"
+ CHN_post_war_4_k: "Ініціативи з глибоким прикриттям"
  CHN_post_war_4_k_desc:0 "The Changeling Infiltrator is the most iconic embodiment of the unique military talents of our race — the capacity for devious and ingenious acts of espionage, misdirection, reconnaissance, and sabotage, rooted in our ability to shapeshift. Hundreds of infiltrators, living as otherwise unassuming ponies, will be inserted into the Equestrian populace to act as sleeper agents conducting passive surveillance."
- CHN_post_war_4_l:0 "Celebrate the Veterans"
+ CHN_post_war_4_l: "Ушанувати ветеранів"
  CHN_post_war_4_l_desc:0 "As a gesture of gratitude to all the brave and industrious 'lings of the Hives, the Queen's advisors have made plans for the assignation of pony indentured servants to soldiers — and, for the sake of inclusivity, government and business leaders as well — on the basis of their contribution to the war effort."
- CHN_post_war_4_m:0 "Glorify the Heer"
+ CHN_post_war_4_m: "Уславити Армію"
  CHN_post_war_4_m_desc:0 "While the Heer is already the single most powerful military institution in all of Equus, its stalwarts believe that the war machine still needs more patronage to achieve its full potential. A documentary film sponsored by Hivesmarschall Trimmel has been produced to show off all the greatest triumphs of the Heer throughout the Great War, and why the military deserves even more of the Queen's attention."
- CHN_post_war_4_n:0 "Establish Forward Operating Bases"
+ CHN_post_war_4_n: "Заснувати передові оперативні бази"
  CHN_post_war_4_n_desc:0 "The ongoing modernisation of Changeling military operational doctrine necessitates the construction of infrastructure to complement the Heer's new role as the peacekeepers of Equus. To this end, a series of self-sufficient garrison outposts, with their own airfields and logistics facilities, will be established across Equestria — the loci for the Heer's projection of power across the Hegemony and beyond."
- CHN_post_war_4_o:0 "Executors of Empire"
+ CHN_post_war_4_o: "Виконавці імперії"
  CHN_post_war_4_o_desc:0 "It has been a difficult journey, but we are finally beginning to establish a firm hold over Equestria. Conventional warfare has been discarded in favour of flexible anti-partisan counterinsurgency operations, and the grand battlefields of the past have been replaced with informants working out of the shadows directing shock troopers toward partisan strongholds. The future is now, and we are its custodians."
- CHN_post_war_4_p_var_1:0 "Executors of Empire?"
+ CHN_post_war_4_p_var_1: "Виконавці імперії?"
  CHN_post_war_4_p_var_1_desc:0 "It has been a difficult journey, and it has never gotten any easier. We have done everything we could to get the ponies of Equestria to kneel before us, but nothing is working. New approaches have failed, so it is time to go back to the only thing we know works: brutal, unrelenting force."
  CHN_post_war_4_p_var_2: "$CHN_post_war_4_p_var_1$"
  CHN_post_war_4_p_var_2_desc: "$CHN_post_war_4_p_var_1_desc$"
- CHN_post_war_A:0 "The Panzerzugkorps"
+ CHN_post_war_A: "Das Panzerzugkorps"
  CHN_post_war_A_desc:0 "With the industrial revolution, came railroads — the arteries of any modern nation through which trade and labour flow. Whilst much of Equestria's rail network was put out of commission during the Great War, their revitalisation offers up another avenue for the Heer to enforce its control over the restless countryside — with battalions of armoured locomotives, war-trains akin to fortresses on rails."
- CHN_post_war_B:0 "Regional Commissariats"
+ CHN_post_war_B: "Регіональні комісаріати"
  CHN_post_war_B_desc:0 "Assuming that the Heer is able to put down the worst of the unrest and establish functional and stable governance over occupied Equestrian territory, the next step would be the devolution of military rule to quasi-civilian administrations run by local collaborationists, backed up by downsized but permanent garrison units. Hopefully, such limited autonomy will be a sustainable model for regional stability."
- CHN_post_war_5:0 "The Liebessammeldienst"
+ CHN_post_war_5: "Der Liebessammeldienst"
  CHN_post_war_5_desc:0 "The Great War was prosecuted with the express aim of fulfiling the expansionist and militarist ambitions of Queen Chrysalis. With the Canterlot defeat of 1002 avenged and Equestria at the mercy of the Heer, the time has come for the institutionalised extraction and exploitation of the most important resource Equestria and its ponies have to offer the Changeling race — Love."
- CHN_post_war_5_b:0 "Drain Prisoners-of-War"
+ CHN_post_war_5_b: "Витягати любов із військовополонених" # (&)
  CHN_post_war_5_b_desc:0 "Following desperate last-ditch counteroffensives, the ensuing rout of the Equestrian army in the final months of the Great War had resulted in hundreds of thousands of soldiers surrendering en masse to the victorious Changeling divisions at war's end. Languishing in POW camps all over Equestria and the Changeling Lands, these inmates are a bountiful and readily-accessible, if controversial, source of Love."
- CHN_post_war_5_c:0 "Feeding the Hives"
+ CHN_post_war_5_c: "Годування вуликів"
  CHN_post_war_5_c_desc:0 "With the Love Extraction system up and running, and the Heer and its garrisons across Equestria well-fed, the copious supply of harvested Love then flows to the Changeling Lands, to be distributed for consumption by the civilian population. Everyling, from the wealthiest industrialist to the lowliest factory drone, shall share in the fruits of our labour, and the Hives shall be all the more better off for it."
- CHN_post_war_5_d:0 "Einquartierung-Schema"
+ CHN_post_war_5_d: "Einquartierung-Schema"
  CHN_post_war_5_d_desc:0 "Under the Royal Changeling Heer's Billeting Scheme, NCOs and officers serving in regional garrisons are billeted in the homes of the local populace. In addition to being in a position to perform surveillance on any potential resistance activities within the local community, the billeted changelings are also empowered to be able to draw upon their pony hosts for Love."
- CHN_post_war_5_e:0 "Train Kollektiontruppen"
+ CHN_post_war_5_e: "Вишколити Kollektiontruppen" # (&)
  CHN_post_war_5_e_desc:0 "We will deploy task forces of specialist soldiers, drawn from the ranks of the medical corps and military police, to go about the collection of Love from non-changeling subjects of the Hegemony. This will significantly increase the efficiency of our Love acquisition operations, and hasten the institutionalisation and professionalisation of the delicate art of Love extraction."
- CHN_post_war_5_f:0 "Refine Love-Processing Methodology"
+ CHN_post_war_5_f: "Удосконалити методи обробки любові" # (&)
  CHN_post_war_5_f_desc:0 "Looking to the future, the continued stability and prosperity of the Pax Chrysalia is contingent on a sustainable and dependable supply of Love for the Hives and the Heer. With our stockpiles of Love being robust and well-maintained, our scientists can be allowed to indulge in further experimentation to ensure that the machinery of the Love extraction-industrial complex remains optimal and state-of-the-art."
- CHN_post_war_5_g:0 "A Symbiotic Manifesto"
+ CHN_post_war_5_g: "Симбіотичний маніфест"
  CHN_post_war_5_g_desc:0 "What is Love? That is a question that is central to the changeling race. Since time immemorial, changelings have been reliant on love, driven to undertake a relentless pursuit of the substance like water to stave off dehydration. But what of the creatures we harvest this love from? Don't they deserve rights too?"
- CHN_canterlot_1:0 "Jewel in the Crown"
+ CHN_canterlot_1: "Перлина в короні"
  CHN_canterlot_1_desc:0 "The gleaming heart of the Equestrian nation, Canterlot has fallen to the armies of the Changeling Queendom. In this era of the new world order, Equestria's former capital shall be remade into a shining beacon of the Pax Chrysalia, a monument to Changeling domination over the continent. Generalmajor Jachs will be given the governorship of the city, to prepare it for the Queen's coronation in due time."
- CHN_canterlot_2_a:0 "Unicornia Blues"
+ CHN_canterlot_2_a: "Unicornia Blues"
  CHN_canterlot_2_a_desc:0 "Even while it was the seat of the Diarchy, Canterlot has always had a reputation for being a quintessentially unicorn city; indeed, it was, and still continues to be, to a limited extent, home to the unicorn-majority Equestrian nobility. The Changeling occupation has shaken up centuries of unicorn domination over the erstwhile pony capital. No doubt this will have a marked impact on resistance activity in the city."
- CHN_canterlot_2_b:0 "Putting Your Hoof Down"
- CHN_canterlot_2_b_desc:0 "[CHN_scripted_loc_string_hoof_down_focus]"
- CHN_canterlot_2_c:0 "Dabble in the Esoteric"
- CHN_canterlot_2_c_desc:0 "[CHN_scripted_loc_string_dabble_focus]"
- CHN_canterlot_2_d:0 "Das 96. 'Canterlonian'"
+ CHN_canterlot_2_b: "Копитами на землю" # (&+)
+ CHN_canterlot_2_b_desc: "[CHN_scripted_loc_string_hoof_down_focus]"
+ CHN_canterlot_2_c: "Загравання з езотерикою"
+ CHN_canterlot_2_c_desc: "[CHN_scripted_loc_string_dabble_focus]"
+ CHN_canterlot_2_d: "Das 96. «Canterlonian»"
  CHN_canterlot_2_d_desc:0 "Taking advantage of the not-insubstantial autonomy bestowed unto his Commissariat, Generalmajor Jachs has decided to bolster the Canterlot garrison with the reconstituted 96th Infantry Division, to be comprised of alumni who had served under him during the Great War as part of the 96th's first and original incarnation — the Generalmajor's personal wartime command."
- CHN_canterlot_2_e:0 "Custody of the Archives"
+ CHN_canterlot_2_e: "Догляд за архівами"
  CHN_canterlot_2_e_desc:0 "The Royal Canterlot Archives may well have been the most exhaustive and comprehensive source of information anywhere on Equus prior to the Great War, housing in its depths millions of books, tomes, scrolls, and other assorted documents of immense scholarly value. Now, the Archives' knowledge will be put at the disposal of the Heer and the Hives, in order to benefit the entirety of the Pax Chrysalia."
- CHN_canterlot_2_f:0 "Changing of the Guard"
+ CHN_canterlot_2_f: "Зміна варти"
  CHN_canterlot_2_f_desc:0 "Celestia's Royal Guard is to Equestria what the Queen's Guard is to Chrysalis' regime. It would be hard to find a better example of pony subjugation to Changeling domination than having members of the now-disbanded Royal Guard reenter military service under the command of the Heer, having denounced their old oaths of loyalty and swearing new ones to Queen Chrysalis."
- CHN_canterlot_2_g:0 "Hegemons of Canterlot"
+ CHN_canterlot_2_g: "Гегемони Кантерлота"
  CHN_canterlot_2_g_desc:0 "The assertion of Changeling dominance over Canterlot will continue with the closure of Celestia's School for Gifted Unicorns, which had produced much of Equestria's military talent and political leadership. The School is likely to house large quantities of invaluable historical records as well, now to be seized and made the property of the УГБВ, rendering a strategic dimension unto a largely symbolic act."
- CHN_canterlot_2_h:0 "Sweet and Elite"
+ CHN_canterlot_2_h: "Серед еліти суспільства" # підглянуто в РЛ
  CHN_canterlot_2_h_desc:0 "The impending coronation of Queen Chrysalis in Canterlot necessitates a lot of preparation, an important aspect of which is the procurement of musicians for the ceremony. To this end, the Equestrian cellist Octavia Melody will be called up to perform. It is not unlikely that she will voice some personal objections, but that she will perform is already a foregone conclusion."
- CHN_canterlot_2_i:0 "Where the Apple Lies"
+ CHN_canterlot_2_i: "Де яблуко лежить" # (&?)
  CHN_canterlot_2_i_desc:0 "Applejack, Element of Honesty and friend of Twilight Sparkle, is now a loyal servant of the Pax Chrysalia: the bountiful plantations of Sweet Apple Acres export, in the tens of thousands, bushels of its namesake fruit to the faraway Changeling homeland. Her unlikely collaboration has piqued the interest of [CHN_GetJachsRank] Jachs, Governor of Canterlot, whose demesne encompasses Ponyville. It's time for a visit."
- CHN_canterlot_3:0 "Tag der Krönung"
+ CHN_canterlot_3: "Tag der Krönung"
  CHN_canterlot_3_desc:0 "In a lavish ceremony to be officiated in Canterlot, Queen Chrysalis of the Changeling Lands will be crowned Empress Regnant of Canterlot and Equestria. The Queen will be fashioning herself off of the mighty Griffonian emperors, as only their nation has ever matched the glory the changelings have now achieved. Today will be the greatest day in changeling history!"
  CHN_whats_in_a_mark:0 "What's in a Mark?"
  CHN_whats_in_a_mark_desc:0 "Cutie marks are a poorly understood, almost mystical entity. Ponies have them, and they are vibrant and lively in their individuality and their talents. Changelings do not, and we are little more than cogs in the social machine that is the hive. Could cutie marks be the key to save our species from overbearing conformity?"
@@ -1452,7 +1454,7 @@
  CHN_continuous_love_harvesting:0 "The Love Harvest"
  CHN_continuous_love_harvesting_desc:0 "Changeling occupation forces will be tasked with the extraction of Love from local populations. These unscheduled and decentralised extractions will go a long way in boosting Love production, but can only be regarded as a temporary measure, ultimately limited in its usefulness by its inherent unsustainability."
 
- CHN_scripted_loc_focus_redacted:0 "— REDACTED —" ## NO SPOILERS ##
+ CHN_scripted_loc_focus_redacted: "– ВИДАЛЕНО –" ## NO SPOILERS ##
 
  CHN_scripted_loc_trixie_focus:0 "The best defence is a good offence, and to further entrench our control over Equestria, it is time we seize the initiative by striking at the Harmonic Resistance. One of their core leaders, identified by the УГБВ as the unicorn mare Trixie Lulamoon, is said to be in Whinnyapolis and directing operations from there. The neutralisation of such a threat is paramount to the ensured security of the Pax Chrysalia."
  CHN_scripted_loc_starlight_focus:0 "Our operation targeting Trixie Lulamoon revealed her links to Starlight Glimmer, notorious Equestrian resistance leader and former Equalist ideologue, with whom the Great Queen herself shares an especial enmity. An opportunity to eliminate this despised enemy of the Changeling nation has presented itself in Bales, where Starlight is rumoured to be currently based. It's time to take out the trash."
@@ -1818,15 +1820,15 @@
   CHN_event_967_variant_two_loc:0 "The shooting started just before dawn, waking Morning Frost from her sleep. A staccato cacophony rang out over the town, coupled with distant screams and the thump of heavy munitions. But it was over almost as soon as it started, and it wasn't long before she saw the changeling vehicles rolling down the road, all intact save for a few fresh bullet holes added to the sheet metal here and there.\n\nWhen she went into town, the news of a failed partisan action was on everypony's lips. As luck would have it, a changeling patrol stumbled across the resistance as they were wiring explosives to the bridge across the river, and a fierce firefight broke out between the two sides. The partisans had been slaughtered almost to the last, and the few prisoners the changelings took certainly didn't have anything to look forward to. But thanks to the actions of the garrison, the bridge had been saved from destruction, and that meant the town could still trade with the rest of Equestria and the Hegemony. Life could continue as normal.\n\nWhen Morning Frost came home that afternoon, she shut the door behind her and slumped down against the wall. If it hadn't been for Lily Lilac's cautioning words, she would have been amongst the ponies massacred at the bridge. She'd narrowly escaped a brush with death and didn't know it until after the fact, and now she was grateful for her neighbours.\n\nForget the resistance. It was a doomed cause. But at least now, she'd escaped with her life. And maybe should could make a difference in another way, just as Lily had recommended, and make her neighbourhood a peaceful and happy place in these troubling times."
 
   changelings_paxchrysalia.67.t:0 "It's a Beautiful Day In The Neighbourhood"
-  changelings_paxchrysalia.67.d:0 "[CHN_scripted_loc_event_67]"
-  changelings_paxchrysalia.67.a:0 "[CHN_scripted_loc_event_67_button]"
+  changelings_paxchrysalia.67.d: "[CHN_scripted_loc_event_67]"
+  changelings_paxchrysalia.67.a: "[CHN_scripted_loc_event_67_button]"
 
   changelings_paxchrysalia.867.t:0 "A Beautiful Day For A Neighbour"
-  changelings_paxchrysalia.867.d:0 "[CHN_scripted_loc_event_867]"
-  changelings_paxchrysalia.867.a:0 "[CHN_scripted_loc_event_867_button]"
+  changelings_paxchrysalia.867.d: "[CHN_scripted_loc_event_867]"
+  changelings_paxchrysalia.867.a: "[CHN_scripted_loc_event_867_button]"
 
   changelings_paxchrysalia.967.t:0 "Please Won't You Be My Neighbour?"
-  changelings_paxchrysalia.967.d:0 "[CHN_scripted_loc_event_967]"
+  changelings_paxchrysalia.967.d: "[CHN_scripted_loc_event_967]"
   changelings_paxchrysalia.967.a:0 "I've always wanted to live in a neighbourhood with you."
 
   changelings_paxchrysalia.68.t:0 "The Pony in the Changeling Hive"
@@ -2020,15 +2022,15 @@
   changelings_paxchrysalia.209.d:0 "[CHN_GetJachsRank] Jachs sifted through the latest reports coming in from across the Equestrian heartlands, looking for anything that needed his immediate attention. Most were just progress reports on various projects or updates from garrison commanders in their efforts to quell unrest throughout the Hives' new holdings — nothing serious that required action for him. He did, however, notice a letter addressed from the garrison commander in Ponyville, the memo marked 'URGENT' across the front and back.\n\nSighing, Jachs opened it up, already expecting something inane to come from that backwaters town that had caused him so much trouble in the past, only for his eye to twitch at what he'd read. Apparently, the concrete facade that had been erected around the Castle of Friendship to conceal the ridiculously indestructible building from sight had seemingly crumbled overnight, once again exposing the glittering castle to the residents of Ponyville. The commander supposed that it might have been the actions of rebels, though no such evidence had yet been uncovered, but Jachs wouldn't have been surprised if that was the doing of the tree itself at this point. Biting his lip, he ultimately decided against reporting anything to Vesalipolis to spare himself the headache of dealing with Queen Chrysalis' inevitable demands for something to be done, and instead wrote back a simple order to be delivered to the garrison commander: "Cover it up with a blanket or something. I don't care what you do, just make sure nobody talks about it."\n\nSatisfied, Jachs immediately tore up the memo from Ponyville, tossed the shreds into a dustbin, and then flicked a lit cigarette into the bin after them. Out of sight, out of mind."
   changelings_paxchrysalia.209.a:0 "Let's just pretend that problem doesn't exist anymore."
 
-  changelings_paxchrysalia.300.t:0 "" ## events 300-302 not used at the moment ##
-  changelings_paxchrysalia.300.d:0 ""
-  changelings_paxchrysalia.300.a:0 ""
-  changelings_paxchrysalia.301.t:0 ""
-  changelings_paxchrysalia.301.d:0 ""
-  changelings_paxchrysalia.301.a:0 ""
-  changelings_paxchrysalia.302.t:0 ""
-  changelings_paxchrysalia.302.d:0 ""
-  changelings_paxchrysalia.302.a:0 ""
+  changelings_paxchrysalia.300.t: "" ## events 300-302 not used at the moment ##
+  changelings_paxchrysalia.300.d: ""
+  changelings_paxchrysalia.300.a: ""
+  changelings_paxchrysalia.301.t: ""
+  changelings_paxchrysalia.301.d: ""
+  changelings_paxchrysalia.301.a: ""
+  changelings_paxchrysalia.302.t: ""
+  changelings_paxchrysalia.302.d: ""
+  changelings_paxchrysalia.302.a: ""
 
  # Вічнодикий ліс
   changelings_paxchrysalia.400.t:0 "The Everfree in Anarchy"
@@ -2578,34 +2580,34 @@
 
  CHN_equestrian_insurgency_category: "Повстанська діяльність проти чейнджлінґів"
  CHN_equestrian_insurgency_category_desc:0 "We may have prevailed in the §CGreat War§!, but our conquest of the continent is far from complete. The §RHarmonic Resistance§!, as well as a myriad of other insurgent movements, threaten our tenuous stranglehold over the defeated ponies and deer. Until such resistance is crushed, our rule over Equestria and Equus can never be truly secure."
- CHN_debuff_changeling_category:0 "Consolidate the Occupation: §Y[?CHN_debuff_changeling_category_var]§!/5"
- CHN_debuff_resistance_category:0 "Suppress the Resistance: §Y[?CHN_debuff_resistance_category_var]§!/5"
- CHN_debuff_compliance_category:0 "Promote Compliance & Collaboration: §Y[?CHN_debuff_compliance_category_var]§!/5"
- CHN_debuff_changeling_category_completed_tt:0 "All Five Stages of §YOccupation Consolidation§! have been completed."
- CHN_debuff_resistance_category_completed_tt:0 "All Five Stages of §YResistance Suppression§! have been completed."
- CHN_debuff_compliance_category_tt:0 "All Five Stages of §YCompliance Promotion§! have been completed."
- CHN_debuff_changeling_category_var_add_one_tt:0 "Completes (§G1§!) stage of §YOccupation Consolidation§!.\n"
- CHN_debuff_resistance_category_var_add_one_tt:0 "Completes (§G1§!) stage of §YResistance Suppression§!.\n"
- CHN_debuff_compliance_category_var_add_one_tt:0 "Completes (§G1§!) stage of §YCompliance Promotion§!.\n"
- CHN_remove_fobs:0 "Decommission Forward Operating Bases"
+ CHN_debuff_changeling_category: "Закріплення окупації: §Y[?CHN_debuff_changeling_category_var]§!/5"
+ CHN_debuff_resistance_category: "Придушення опору: §Y[?CHN_debuff_resistance_category_var]§!/5"
+ CHN_debuff_compliance_category: "Просування покори та колаборації: §Y[?CHN_debuff_compliance_category_var]§!/5"
+ CHN_debuff_changeling_category_completed_tt: "Було виконано всі п'ять ступенів §Yзакріплення окупації§!"
+ CHN_debuff_resistance_category_completed_tt: "Було виконано всі п'ять ступенів §Yпридушення опору§!"
+ CHN_debuff_compliance_category_tt: "Було виконано всі п'ять ступенів §Yпросування покори§!"
+ CHN_debuff_changeling_category_var_add_one_tt: "Виконує (§G1§!) ступінь §Yзакріплення окупації§!.\n"
+ CHN_debuff_resistance_category_var_add_one_tt: "Виконує (§G1§!) ступінь §Yпридушення опору§!.\n"
+ CHN_debuff_compliance_category_var_add_one_tt: "Виконує (§G1§!) ступінь §Yпросування покори§!.\n"
+ CHN_remove_fobs: "Вивести передові оперативні бази з експлуатації"
  CHN_remove_fobs_desc:0 "For whatever reason, the Heer has decided that its network of Forward Operating Bases across Equus have become redundant or otherwise unnecessary. The decommissioning of the bases will free up garrisoned personnel for service elsewhere, though some within the military are concerned with the long-term ramifications of such an act."
 
- CHN_settlement_plan_cat:0 "Siedlungsplan Expansionism"
+ CHN_settlement_plan_cat: "Siedlungsplan-експансіонізм" # інак. Експансіонізм Siedlungsplan-у
  CHN_settlement_plan_cat_desc:0 "The best way to control Equestria is to fill it with our own people. Colonization plans for the bordering states along the old border with Equestria will allow us to fill the land with loyal changelings, many of whom fought in the Great War, and tighten our grip over the surrounding land. With a firm grip, we can reduce §RResistance§! and increase §CCompliance§! in these territories, as well as get more resources out of them."
  CHN_acornage_colonisation_decision: "Колонізація Ейкорнеджа"
- CHN_acornage_colonisation_decision_desc:0 "\n§YFor [?days_mission_timeout@CHN_acornage_colonisation_decision] days:§!\n§W§YAcornage§!:\n      $MODIFIER_REQUIRED_GARRISON_FACTOR$: §R+50%§!\n      $MODIFIER_NO_COMPLIANCE_GAIN$: §RТак§!\n      $MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §R-50.00%§!\n      Weekly Population Movement to Neighbouring States: §R-5000§!§!"
+ CHN_acornage_colonisation_decision_desc: "\n§YПротягом [?days_mission_timeout@CHN_acornage_colonisation_decision] дн.:§!\n§W§Y$STATE_136$§!:\n      $MODIFIER_REQUIRED_GARRISON_FACTOR$: §R+50%§!\n      $MODIFIER_NO_COMPLIANCE_GAIN$: §RТак§!\n      $MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §R-50.00%§!\n      Рух населення до сусідніх областей щотижня: §R-5000§!§!"
  CHN_vanhoover_colonisation_decision: "Колонізація Вангувера"
- CHN_vanhoover_colonisation_decision_desc:0 "[CHN_vanhoover_colonisation_decision_modifiers_scripted_loc]"
- CHN_vanhoover_colonisation_decision_modifier_og:0 "\n§YFor [?days_mission_timeout@CHN_vanhoover_colonisation_decision] days:§!\n§W§YVanhoover§!:\n      $MODIFIER_REQUIRED_GARRISON_FACTOR$: §R+75%§!\n      $MODIFIER_NO_COMPLIANCE_GAIN$: §RТак§!\n      $MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §R-75.00%§!\n      Weekly Population Movement to Neighbouring States: §R-5000§!§!"
- CHN_vanhoover_colonisation_decision_modifier_updated:0 "\n§YFor [?days_mission_timeout@CHN_vanhoover_colonisation_decision] days:§!\n§W§YVanhoover§!:\n      $MODIFIER_REQUIRED_GARRISON_FACTOR$: §R+275%§!\n      $MODIFIER_NO_COMPLIANCE_GAIN$: §RТак§!\n      $MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §R-75.00%§!\n      Weekly Population Movement to Neighbouring States: §R-100§!§!"
- CHN_colonisation_decision_dummy_tt:0 "Something has gone terribly wrong..."
- CHN_colonisation_decision_control_acornage_tt: "Ми більше не розпоряджаємося Ейкорнеджом."
- CHN_colonisation_decision_control_vanhoover_tt: "Ми більше не розпоряджаємося Вангувером."
- CHN_decision_vanhoover_colonisation_tt:0 "Gets event '§YThe Royal Hive of Vanhoover§!'."
- CHN_settler_colony_instate_decision:0 "Establish Colony in [From.GetName]"
- CHN_settler_colony_instate_decision_occupation_law_tt:0 "Current Occupation Law is §YRegional Commissariat§! or §YLocal Police Force§!."
- CHN_settler_colony_instate_decision_compliance_req_tt:0 "Compliance more than or equal to §Y40%§!"
- CHN_settler_colony_instate_decision_remove_effect_tt:0 "Gains '§YSettler-Colony§!' in §Y[From.GetName]§!, which grants:\n      $MODIFIER_LOCAL_NON_CORE_MANPOWER$: §G+10.00%§!\n      $MODIFIER_GLOBAL_MONTHLY_POPULATION$: §G+50.0%§!\n      $MODIFIER_RESISTANCE_TARGET$: §G-50%§!\n      $MODIFIER_RESISTANCE_DECAY$: §G+50%§!\n      $MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS$: §G-50.00%§!\n      $MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §G+50.00%§!\n      $MODIFIER_COMPLIANCE_GAIN_ADD$: §G+0.05%§!\n"
+ CHN_vanhoover_colonisation_decision_desc: "[CHN_vanhoover_colonisation_decision_modifiers_scripted_loc]"
+ CHN_vanhoover_colonisation_decision_modifier_og: "\n§YПротягом [?days_mission_timeout@CHN_vanhoover_colonisation_decision] дн.:§!\n§W§Y$STATE_14$§!:\n      $MODIFIER_REQUIRED_GARRISON_FACTOR$: §R+75%§!\n      $MODIFIER_NO_COMPLIANCE_GAIN$: §RТак§!\n      $MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §R-75.00%§!\n      Рух населення до сусідніх областей щотижня: §R-5000§!§!"
+ CHN_vanhoover_colonisation_decision_modifier_updated: "\n§YПротягом [?days_mission_timeout@CHN_vanhoover_colonisation_decision] дн.:§!\n§W§Y$STATE_14$§!:\n      $MODIFIER_REQUIRED_GARRISON_FACTOR$: §R+275%§!\n      $MODIFIER_NO_COMPLIANCE_GAIN$: §RТак§!\n      $MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §R-75.00%§!\n      Рух населення до сусідніх областей щотижня: §R-100§!§!"
+ CHN_colonisation_decision_dummy_tt: "Щось пішло дуже не так..." # (&+)
+ CHN_colonisation_decision_control_acornage_tt: "Ми більше не розпоряджаємося Ейкорнеджом"
+ CHN_colonisation_decision_control_vanhoover_tt: "Ми більше не розпоряджаємося Вангувером"
+ CHN_decision_vanhoover_colonisation_tt:0 "Станеться подія §YThe Royal Hive of Vanhoover§!."
+ CHN_settler_colony_instate_decision: "Заснувати колонію в області [From.GetName]"
+ CHN_settler_colony_instate_decision_occupation_law_tt: "Поточний окупаційний закони — §Y$CHN_regional_commissariat$§! або §Y$local_police_force_garrison$§!"
+ CHN_settler_colony_instate_decision_compliance_req_tt: "Підпорядкування — більше або рівно §Y40%§!"
+ CHN_settler_colony_instate_decision_remove_effect_tt: "Здобуває модифікатор §Y$CHN_settler_colony_modifier$§! в області §Y[From.GetName]§!, що даватиме:\n      $MODIFIER_LOCAL_NON_CORE_MANPOWER$: §G+10.00%§!\n      $MODIFIER_GLOBAL_MONTHLY_POPULATION$: §G+50.0%§!\n      $MODIFIER_RESISTANCE_TARGET$: §G-50%§!\n      $MODIFIER_RESISTANCE_DECAY$: §G+50%§!\n      $MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS$: §G-50.00%§!\n      $MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §G+50.00%§!\n      $MODIFIER_COMPLIANCE_GAIN_ADD$: §G+0.05%§!\n"
 
  CHN_chaos_in_the_everfree:0 "Chaos in the Everfree"
  CHN_chaos_in_the_everfree_desc:0 "We conquered everything Equestria had to throw at us, but we have not conquered the land itself. The Everfree Forest, long a mystical bastion of amazing magical power, has now risen up against our war machine. Partisans flock to the forest where, under the leadership of the zebra Zecora, they make use of the magical growth of the forest to strike at us with devastating effectiveness. If we are to have any hope of defeating §RZecora§!, the §Rpartisans§!, and the §CEverfree§! itself, we must have an §Yeffective strategy§! that beats the forest down at every turn. The §Rcomplete and utter destruction§! of the forest's unique and exotic flora and fauna will be tragic to some, but not as tragic as §Ylosing our hold on central Equestria!§!"
@@ -2625,26 +2627,26 @@
 
 ### МЕХАНІКА СПОЖИВАННЯ ЛЮБОВІ & ІНТЕРФЕЙС ###
  CHN_love_consumption_mechanic: "Витягнення та споживання любові"
- CHN_love_consumption_mechanic_desc:0 "§CLove§! — the lifeblood of the Changeling race, extracted from the subjects of the §GChangeling Hegemony§!. The methodology with which harvested Love is quantified remains a nebulous science, with an £lovetax_text£ §CErot§! signifying a quantity of Love large enough to significantly boost the capabilities of a small hive.\n\nThe §CRoyal Changeling Heer§! is the institution responsible for the highest levels of §CLove§! consumption in the world. The Heer's voracious appetite for Love means that the efficiency of the Changeling war machine is directly impacted by the amount of §CLove§! — or lack thereof — stockpiled by the Changeling state.\n"
- CHN_love_erot_explainer_tt:0 "Amount of §CLove§! in §CErots§! stockpiled:"
- CHN_love_erot_stored_explainer_tt:0 "Harvested and Stockpiled £lovetax_text£ §CLove§! can be obtained through §YDecisions§!, §YContinuous Foci§!, and §YEvents§!, and can be consumed to receive miscellaneous bonuses.\n\nIf a deficit arises in the amount of stockpiled Love, various penalties — the severity of which will be scaled to the deficit — will be incurred, determined by the formula (§RD§!) = (§CE§!) × 25%.\nThe penalties will be capped at §R-150%§!."
- CHN_battalions_explainer_tt:0 "Amount of §GFrontline Battalions§! deployed:"
+ CHN_love_consumption_mechanic_desc: "§CЛюбов§! — живильна сила раси чейнджлінґів, витягувана з підданих §GГегемонії Чейнджлінґів§!. Методологія, якою обчислюється зібрана любов, залишається туманною наукою; £lovetax_text£ §Cерот§! позначає об'єм любові достатній, щоби значно посилити можливості малого вулика.\n\n§CКоролівська Армія Чейнджлінґів§! є установа, відповідальна за найвищі рівні споживання §Cлюбові§! у світі. Ненаситний апетит Армії до любові означає, що на ефективність воєнної машини чейнджлінґів безпосередньо впливає §Cлюбов§! — або її відсутність, — накопичена в запаси держави чейнджлінґів.\n" # (&+)
+ CHN_love_erot_explainer_tt: "Кількість накопиченої §Cлюбові§! в §Cеротах§!:"
+ CHN_love_erot_stored_explainer_tt:0 "Harvested and Stockpiled £lovetax_text£ §CLove§! can be obtained through §YDecisions§!, §YContinuous Foci§!, and §YEvents§!, and can be consumed to receive miscellaneous bonuses.\n\nIf a deficit arises in the amount of stockpiled Love, various penalties — the severity of which will be scaled to the deficit — will be incurred, determined by the formula (§RD§!) = (§CE§!) × 25%.\nThe penalties will be capped at §R-150%§!."
+ CHN_battalions_explainer_tt: "Кількість розгорнутих §Gфронтових батальйонів§!:"
  CHN_battalions_detailed_explainer_tt:0 "This is the total amount of Frontline Battalions and Support Companies deployed in our Divisions. Battalions and Companies deployed in Garrisons are exempted from this calculation."
- CHN_carrying_capacity_explainer_tt:0 "Current Maximum Sustainable Amount of §GFrontline Battalions§! that can be deployed:"
- CHN_carrying_capacity_detailed_explainer_tt:0 "The Maximum Sustainable Amount of Frontline Battalions is determined by this formula:\n( 10 + (§YS§!) ) × 10 Battalions Per State.\n\n[CHN_billeting_system_bonus_loc_string](§YS§!) represents the total amount of §Ynon-core§! states controlled by [CHN.GetNameDef] (§Y[?CHN_directly_controlled_noncorestates_var]§!), in addition to §Y50%§! of the combined amount of states controlled by nations that are §Ysubject states§! of [CHN.GetNameDef] (§Y[?CHN_weekly_love_gain_state_PUPPETS_var]§! × §Y50%§!)."
- CHN_love_erot_cost_explainer_tt:0 "Amount of §CLove§! in §CErots§! §RDeducted Weekly§! from the number of §GFrontline Battalions§! exceeding the Maximum Sustainable Amount:"
- CHN_love_erot_cost_detailed_explainer_tt:0 "For every Frontline Battalion in excess of the Maximum Sustainable Amount, a weekly penalty of §R0.001§! Erots will be levied.\n\nCurrently, we have §R[?CHN_excess_battalions]§! Battalions in excess of the Maximum Sustainable Amount, incurring a weekly penalty of §R[?CHN_excess_battalions_cost]§! Erots (§Y[?CHN_excess_battalions]§! × §Y0.001§!)."
- CHN_love_variable_tt:0 "§C[?CHN_love_variable]§!"
- CHN_excess_battalions_cost_tt:0 "[?CHN_excess_battalions_cost|-]"
+ CHN_carrying_capacity_explainer_tt: "Поточна найбільша підтримувана кількість §Gфронтових батальйонів§!, яку можна розгорнути:" # (&+)
+ CHN_carrying_capacity_detailed_explainer_tt:0 "The Maximum Sustainable Amount of Frontline Battalions is determined by this formula:\n( 10 + (§YS§!) ) × 10 Battalions Per State.\n\n[CHN_billeting_system_bonus_loc_string](§YS§!) represents the total amount of §Ynon-core§! states controlled by [CHN.GetNameDef] (§Y[?CHN_directly_controlled_noncorestates_var]§!), in addition to §Y50%§! of the combined amount of states controlled by nations that are §Ysubject states§! of [CHN.GetNameDef] (§Y[?CHN_weekly_love_gain_state_PUPPETS_var]§! × §Y50%§!)."
+ CHN_love_erot_cost_explainer_tt: "Об'єм §Cлюбові§! в §Cеротах§!, який §Rщотижня віднімається§! від числа §Gфронтових батальйонів§! у перевищенні підтримуваної кількості:" # (&+)
+ CHN_love_erot_cost_detailed_explainer_tt:0 "For every Frontline Battalion in excess of the Maximum Sustainable Amount, a weekly penalty of §R0.001§! Erots will be levied.\n\nCurrently, we have §R[?CHN_excess_battalions]§! Battalions in excess of the Maximum Sustainable Amount, incurring a weekly penalty of §R[?CHN_excess_battalions_cost]§! Erots (§Y[?CHN_excess_battalions]§! × §Y0.001§!)."
+ CHN_love_variable_tt: "§C[?CHN_love_variable]§!"
+ CHN_excess_battalions_cost_tt: "[?CHN_excess_battalions_cost|-]"
 
 ### СЛУЖБОВА ЛОКАЛІЗАЦІЯ/ПРАПОРЦІ ###
- CHN_post_war_5_unlocks_love_mechanic_tt: "\nВідмикає механіку §C$CHN_love_consumption_mechanic$§!, в якій §Cлюбов§! можна надобувати шлязом §Yрішень§!, §Yбезперервних фокусів§! і §Yподій§!, а споживати для отримання різних §Gбонусів§!:\n      Відмикає безперервний фокус: §Y$CHN_continuous_love_harvesting$§!.\n    Відмикає рішення: §Y$CHN_gain_love_decision$§!.\n    Відмикає рішення: §Y$CHN_factories_for_love_decision$§!.\n    Відмикає рішення: §Y$CHN_rations_as_growth_incentive$§!.\n    Відмикає рішення: §Y$CHN_rations_for_political_power$§!.\n    Відмикає рішення: §Y$CHN_rations_for_war_support$§!.\n    Відмикає рішення: §Y$CHN_rations_for_stability$§!.\n"
+ CHN_post_war_5_unlocks_love_mechanic_tt: "\nВідмикає механіку §C$CHN_love_consumption_mechanic$§!, в якій §Cлюбов§! можна надобувати шляхом §Yрішень§!, §Yбезперервних фокусів§! і §Yподій§!, а споживати для отримання різних §Gбонусів§!:\n      Відмикає безперервний фокус: §Y$CHN_continuous_love_harvesting$§!.\n    Відмикає рішення: §Y$CHN_gain_love_decision$§!.\n    Відмикає рішення: §Y$CHN_factories_for_love_decision$§!.\n    Відмикає рішення: §Y$CHN_rations_as_growth_incentive$§!.\n    Відмикає рішення: §Y$CHN_rations_for_political_power$§!.\n    Відмикає рішення: §Y$CHN_rations_for_war_support$§!.\n    Відмикає рішення: §Y$CHN_rations_for_stability$§!.\n"
  CHN_post_war_5_c_unlocks_love_decisions_tt: "\nВідмикає сукупність рішень §CСпоживання любові§!:\n    Відмикає рішення: §Y$CHN_rations_for_recruits$§!.\n    Відмикає рішення: §Y$CHN_rations_for_researchers$§!.\n    Відмикає рішення: §Y$CHN_rations_for_drones$§!.\n    Відмикає рішення: §Y$CHN_rations_for_settlers$§!."
  CHN_queens_tower_custom_tt: "\nЗі своєї §GВежі Великої Королеви§!, Її Величність править §CПакс Кризалією§!.\nЗдобуде модифікатор §YСерце Гегемонії§! у §YВесаліполісі§!, що даватиме:\n    $MODIFIER_LOCAL_INTEL_TO_ENEMIES$: §G-25%§!\n    $MODIFIER_LOCAL_SUPPLIES$: §G+25%§!\n    $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+25%§!\n    $MODIFIER_INTEL_NETWORK_GAIN$: §G+25%§!\n    $MODIFIER_MAX_DIG_IN_FACTOR$: §G+25.0%§!\n    $MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: §G+25.0%§!\n    $MODIFIER_STATIC_ANTI_AIR_HIT_CHANCE_FACTOR$: §G+25.00%§!\n    $MODIFIER_STATIC_ANTI_AIR_DAMAGE_FACTOR$: §G+25.00%§!\n    $MODIFIER_LOCAL_BUILDING_SLOTS$: §G+3§!\n" # (&+): перша частина
  CHN_vesalipolis_queens_tower_tt: "§CСерце Гегемонії§!\n\n$MODIFIER_LOCAL_INTEL_TO_ENEMIES$: §G-25%§!\n$MODIFIER_LOCAL_SUPPLIES$: §G+25%§!\n$MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+25%§!\n$MODIFIER_INTEL_NETWORK_GAIN$: §G+25%§!\n$MODIFIER_MAX_DIG_IN_FACTOR$: §G+25.0%§!\n$MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: §G+25.0%§!\n$MODIFIER_STATIC_ANTI_AIR_HIT_CHANCE_FACTOR$: §G+25.00%§!\n$MODIFIER_STATIC_ANTI_AIR_DAMAGE_FACTOR$: §G+25.00%§!\n$MODIFIER_LOCAL_BUILDING_SLOTS$: §G+3§!"
  CHN_vesalipolis_queens_tower_tt_delayed:0 "§LWith a grand total of 120 floors, a hundred and ten of them aboveground and the remainder below it, the Great Queen's Tower is the tallest structure in all of the Changeling Lands. Built around the former structure of the Vesalipolis Hive — of which the central spire still remains intact, ensconced within the Tower's largest atrium — this monolith of glass and steel dominates the Vesalipolis skyline, towering over the factories, offices, barracks, and apartment blocks of the Changeling capital. Near the very top of the Tower is the throne room of the Great Queen Chrysalis, where she holds court in a chamber able to accommodate hundreds of bodies. With the exception of the Queen's personal quarters located at the Tower's pinnacle, the rest of the Tower is dedicated to hosting the state and government functions of the Queendom and the Hegemony.\n\nThe fortress-like Tower is as much a military installation as it is a royal palace or government headquarters. Interspersed along its sloped sides are anti-aircraft batteries, radar stations, sniper nests, and artillery emplacements. The Turmwache is the dedicated battalion of Queen's Guard permanently stationed at the Tower, responsible for its security and defence. Finally, in addition to the offices of the Heer, Luftwaffe, and other constituent components of the Changeling military, the Tower also houses the headquarters of the Vesalipolis Office of Public Safety. While Director Vaspier Orn Kladisium masterminds the operations of the world's most robust and dangerous intelligence agency from his office only a few floors below the throne room, the interrogators and torturer-psychologists of the УГБВ work in the shadows, deep within the subterranean depths of the Tower's basement levels.§!"
- CHN_acornage_colonisation_custom_tt:0 "Gains '§YThe Alvarium Hive-Colony§!' in §YAcornage§!, which grants:\n      $MODIFIER_LOCAL_FACTORIES$: §G+50%§!\n      $MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: §G+50%§!\n      $MODIFIER_RESISTANCE_DECAY$: §G+50%§!\n      $MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §G+50.00%§!\n      $MODIFIER_GLOBAL_MONTHLY_POPULATION$: §G+75.00%§!\n      $MODIFIER_LOCAL_NON_CORE_MANPOWER$: §G+75.00%§!"
- CHN_acornage_colony_tt:0 "§CThe Alvarium Hive-Colony§!\n\n$MODIFIER_LOCAL_FACTORIES$: §G+50%§!\n$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: §G+50%§!\n$MODIFIER_RESISTANCE_DECAY$: §G+50%§!\n$MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §G+50.00%§!\n$MODIFIER_GLOBAL_MONTHLY_POPULATION$: §G+75.00%§!\n$MODIFIER_LOCAL_NON_CORE_MANPOWER$: §G+75.00%§!"
+ CHN_acornage_colonisation_custom_tt: "Здобуває модифікатор §Y$CHN_acornage_colonisation_modifier_updated$§! в §YЕйкорнеджі§!, що дає:\n      $MODIFIER_LOCAL_FACTORIES$: §G+50%§!\n      $MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: §G+50%§!\n      $MODIFIER_RESISTANCE_DECAY$: §G+50%§!\n      $MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §G+50.00%§!\n      $MODIFIER_GLOBAL_MONTHLY_POPULATION$: §G+75.00%§!\n      $MODIFIER_LOCAL_NON_CORE_MANPOWER$: §G+75.00%§!"
+ CHN_acornage_colony_tt: "§CРій-колонія Альваріум§!\n\nМісцеві заводи: §G+50%§!\n$Межа заводів у областях$: §G+50%§!\nШвидкість спадання спротиву: §G+50%§!\nВійськовозобов'язане населення: §G+50.00%§!\nЩомісячний приріст населення: §G+75.00%§!\nПоні-ресурси в неосердній області: §G+75.00%§!"
  CHN_acornage_colony_tt_delayed:0 "§LThe Alvarium Hive-Colony was established on the site of the Equestrian city of Acornage, on the border with the Changeling Lands, and as such, already possessed a robust Changeling population in the locality. One of the first Equestrian cities to fall before the advance of the Heer during the Great War, Acornage became the hub for Changeling military transportation and logistics, through which supplies, armaments, and soldiers were directed to whichever section of the front required them most.\n\nThe long-established Changeling presence in the city made it the prime candidate for large-scale settlement by Changeling colonisers after the war. Acornage's former Changeling Quarter soon grew to encompasses much of the entire city, and the pony population was relegated to the suburbs or inner-city ghettoes, where they still make up a majority of the city's total population. The Changeling immigrants now dwelling in the Hive-Colony mostly congregate in its downtown, where several city blocks have been demolished to make way for the construction of a massive Hive built in the style of those anchoring the Changeling metropolises of Vesalipolis, Vraks, and Ditrysium. Outside the city, Changeling settler-colonies proliferate in the countryside, some being wholly new settlements created from scratch, while others, like Alvarium, were established on the sites of Equestrian towns or villages. These peripheral colonies support the main Hive-Colony, providing food, water, resources, and workers. They are much more highly militarized as well, and while Alvarium remains in transition from military occupation into quasi-civilian colonial rule, the peripheral settler-colonies stand as the bastions of Changeling control over the region, ready to mobilize their populations of soldier-settlers to march on Alvarium should the ponies rise up in open dissent.§!"
 
  CHN_canterlot_palace_focus_effect_tt: "\nЗдобуває модифікатор §YКантерлотський комісаріат§! у §YКантерлоті§!, що даватиме:\n$CHN_scripted_loc_Jachs$$CHN_scripted_loc_Marsilio$$CHN_scripted_loc_Alcippe$$CHN_scripted_loc_Finicus$\n" # перевірити, чи працює
@@ -2661,35 +2663,35 @@
  CHN_continuous_love_harvesting_LOVE_var_selected_tt:0 "(§C[?CHN_continuous_love_harvesting_LOVE_var]§! Erots)"
  CHN_continuous_love_harvesting_LOVE_var_selected_negligible_tt:0 "(§Rthe quantity of Love to be gained is negligible§!)"
 
- CHN_resistance_75_trains: "$resistance_75$" # (&)
+ CHN_resistance_75_trains: "$resistance_75$"
 
- CHN_erots_3_00_tt:0 "§G+3.00§! Erots' worth of £lovetax_text£ §CLove§! will be transferred to [CHN.GetAdjective] stockpiles."
- CHN_erots_2_00_tt:0 "§G+2.00§! Erots' worth of £lovetax_text£ §CLove§! will be transferred to [CHN.GetAdjective] stockpiles."
- CHN_erots_1_25_tt:0 "§G+1.25§! Erots' worth of £lovetax_text£ §CLove§! will be transferred to [CHN.GetAdjective] stockpiles."
- CHN_erots_0_75_tt:0 "§G+0.75§! Erots' worth of £lovetax_text£ §CLove§! will be transferred to [CHN.GetAdjective] stockpiles."
- CHN_erots_0_5_tt:0 "§G+0.50§! Erots' worth of £lovetax_text£ §CLove§! will be transferred to [CHN.GetAdjective] stockpiles."
- CHN_erots_0_5_deducc_tt:0 "§R0.50§! Erots' worth of £lovetax_text£ §CLove§! will be §Rdeducted§!."
- CHN_post_war_5_f_love_req_tt:0 "There is at least §Y0.50§! Erots' worth of £lovetax_text£ §CLove§! in [CHN.GetAdjective] stockpiles."
- CHN_halves_synthetic_love_costs_tt:0 "\nReduces the £pol_power Political Power cost of £decision_icon_small Supplementary Love Synthesization by §G50%§!.\n\n"
+ CHN_erots_3_00_tt: "§G+3.00§! ероти £lovetax_text£ §Cлюбові§! буде переміщено в [CHN.GetAdjective]і сховища."
+ CHN_erots_2_00_tt: "§G+2.00§! ероти £lovetax_text£ §Cлюбові§! буде переміщено в [CHN.GetAdjective]і сховища."
+ CHN_erots_1_25_tt: "§G+1.25§! еротів £lovetax_text£ §Cлюбові§! буде переміщено в [CHN.GetAdjective]і сховища."
+ CHN_erots_0_75_tt: "§G+0.75§! еротів £lovetax_text£ §Cлюбові§! буде переміщено в [CHN.GetAdjective]і сховища."
+ CHN_erots_0_5_tt: "§G+0.50§! еротів £lovetax_text£ §Cлюбові§! буде переміщено в [CHN.GetAdjective]і сховища."
+ CHN_erots_0_5_deducc_tt: "§R0.50§! еротів £lovetax_text£ §Cлюбові§! буде §Rвіднято§!."
+ CHN_post_war_5_f_love_req_tt: "У [CHN.GetAdjective]их сховищах є принаймні §Y0.50§! еротів £lovetax_text£ §Cлюбові§!"
+ CHN_halves_synthetic_love_costs_tt: "\nСкорочує вартість рішення £decision_icon_small $CHN_factories_for_love_decision$ в £pol_power політичній владі на §G50%§!.\n\n" # (&+)
 
  CHN_post_war_1_req_tt: "[EQS.GetName] та її союзники були переможені"
  CHN_post_war_1_b_req_tt: "Ми контролюємо всю §Yсередню Еквестрію§!"
  CHN_post_war_1_a_effect: "Світову напруженість буде §Gзменшено§! на §G10.00%§!."
  CHN_post_war_2_i_effect_factories_tt: "\nДодає §Y3 цивільні заводи поза мапою§! на §Y300§! дн."
- CHN_post_war_2_i_effect_tt:0 "The §YCivilian Factories§! of §YWhinnyapolis§! will be seized, dismantled, and relocated to a [CHN.GetAdjective] core state."
- CHN_post_war_5_a_effect_tt:0 "\nThe §CRoyal Changeling Heer§! will adopt regulatory policies for the §Ysustainable§! collection of §CLove§! under peacetime conditions:"
- CHN_post_war_5_b_consequence_tt:0 "\nThe §CRoyal Changeling Heer§! will begin draining Equestrian prisoners-of-war for their §CLove§!. The severity of the §Rpublic backlash§! will be determined by the average §RResistance§! of all Equestrian core states under our control."
- CHN_post_war_2_create_faction_research_tt:0 "The §YHegemony Science and Industry Research Compact§! will be created."
- CHN_post_war_2_faction_research_tt:0 "Joins the §YHegemony Science and Industry Research Compact§!."
+ CHN_post_war_2_i_effect_tt: "§YЦивільні заводи§! §YВінніаполіса§! буде вилучено, розібрано та переміщено до [CHN.GetAdjective]ої осердної області." # (&+)
+ CHN_post_war_5_a_effect_tt: "\n§CКоролівська Армія Чейнджлінґів§! прийме регуляторну політику для §Yсталого§! збору §Cлюбові§! за цих умов мирного часу:" # (&+)
+ CHN_post_war_5_b_consequence_tt: "\n§CКоролівська Армія Чейнджлінґів§! почне витягати §Cлюбов§! із еквестрійських військовополонених. Сила §Rсуспільного спротиву§! буде визначена середнім рівнем §Rспротиву§! в усіх осердних областях Еквестрії під нашим контролем." # (&)
+ CHN_post_war_2_create_faction_research_tt: "Буде створено §YНауково-промислову дослідницьку угоду Гегемонії§!."
+ CHN_post_war_2_faction_research_tt: "Приєднується до §YНауково-промислової дослідницької угоди Гегемонії§!." # (&?)
  CHN_post_war_2_j_jachs_convinced_tt:0 "§Y[CHN_GetJachsRank] Jachs§! has been convinced of the intrinsic value of equine life."
  CHN_post_war_4_c_tt:0 "\nFor the §OGlory§! of the §CHegemony§!, we shall erase the §YCastle of Friendship§! from existence — to destroy the symbol of §RFriendship§! alongside the fact."
- CHN_post_war_4_g_unlocks_decisions_tt:0 "\nUnlocks §CSiedlungsplan Expansionism§! decisions, which allows for §YSettler-Colonies§! to be established in §Ynorthwestern§! Equestrian states."
- CHN_post_war_4_n_effect_tt:0 "\nUnlocks Decision: §YDecommission Forward Operating Bases§!, which allows for the removal of the §YForward Operating Bases§! National Spirit."
- CHN_post_war_5_d_resistance_threshold:0 "The Average §RResistance§! of Equestrian core states under our control is below §Y30.0%§!."
- CHN_canterlot_1_occupation_law_req:0 "Current Occupation Law in Canterlot is §YRegional Commissariat§!"
- CHN_canterlot_2_e_upgrade_faction_research_tt:0 "\nBase Technology Research Time Reduction from the §YHegemony Science and Industry Research Compact§! will be increased by §G+5.0%§!."
+ CHN_post_war_4_g_unlocks_decisions_tt: "\nВідмикає сукупність рішень §C$CHN_settlement_plan_cat$§!, котрі дозволяють засновувати §Yпоселенські колонії§! в §Yпівнічно-західних§! областях Еквестрії."
+ CHN_post_war_4_n_effect_tt: "\nВідмикає рішення: §Y$CHN_remove_fobs$§!, котре дозволяє видалити національний дух §Y$CHN_fob_idea$§!."
+ CHN_post_war_5_d_resistance_threshold: "Середній §Rспротив§! у еквестрійських осердних областях під нашим контролем становить менше §Y30.0%§!" # (&?)
+ CHN_canterlot_1_occupation_law_req: "Поточний окупаційний закони у Кантерлоті — §Y$CHN_regional_commissariat$§!"
+ CHN_canterlot_2_e_upgrade_faction_research_tt: "\nБазове скорочення часу на дослідження технологій від §YНауково-промислової дослідницької угоди Гегемонії§! буде збільшено на §G+5.0%§!."
  CHN_canterlot_3_tt:0 "\nThe §CGreat Queen Chrysalis§! shall be crowned §YEmpress Regnant§! of §YCanterlot§! and §YEquestria§!. May Her Reign be Long and Prosperous!"
- CHN_vraks_looting_concern_explainer_tt:0 "\nUnlocks §CKuKC Erforschung- und Extraktion Konzern§! decisions, which allows for the §Gexpropriation§! of natural resources in regions owned and controlled by changeling §Ypuppet states§!."
+ CHN_vraks_looting_concern_explainer_tt: "\nВідмикає сукупність рішень §C$CHN_resource_exploitation_cat$§!, котрі дозволяють §Gпривласнити§! природні ресурси в регіонах, які належать або контролюються §Yмаріонетковими державами§! чейнджлінґів." # (&+)
  CHN_has_chose_poison_joke_tt:0 "Chose Poison Joke."
  CHN_has_chose_seeds_of_truth_tt:0 "Chose the Seeds of Truth."
  CHN_poison_joke_focus_tt:0 "Sends an expedition into the §REverfree Forest§! to search for §CPoison Joke§!."
@@ -2699,51 +2701,51 @@
  CHN_synthesis_syringes_focus_completion_tt:0 "Uncovers the secrets of §CPoison Joke§!."
  CHN_to_change_a_ling_focus_focus_completion_tt:0 "Uncovers the secrets of the §CSeeds of Truth§!."
 
- CHN_everfree_forest_broken_free_tt:0 "Lost control of the Everfree Forest."
- CHN_ZRS_uprising_NOT_tt:0 "§RZecora's Resistance§! has been defeated."
- CHN_ZRS_uprising_IN_PROGRESS_tt:0 "The Everfree Forest is in §RChaos§!."
- CHN_ZRS_uprising_trains:0 "Has completed decision §YOperation Durchbruch§!"
- CHN_ZRS_uprising_lurp:0 "Has completed decision §YOperation Fernauf§!" # Fernaufklärungspatrouille
+ CHN_everfree_forest_broken_free_tt: "Втрачено контроль над Вічнодиким лісом"
+ CHN_ZRS_uprising_NOT_tt: "§RЗекорин спротив§! було переможено"
+ CHN_ZRS_uprising_IN_PROGRESS_tt: "Вічнодикий ліс перебуває в §Rбезладі§!"
+ CHN_ZRS_uprising_trains: "Прийнято рішення §Y$CHN_operation_breakthrough$§!"
+ CHN_ZRS_uprising_lurp: "Прийнято рішення §Y$CHN_operation_longrangerecon$§!" # Fernaufklärungspatrouille
  CHN_ZRS_uprising_no_fuckups_ok:0 "No aspect of our strategy has been compromised."
 
  CHN_compliance_80_love:0 "Localised Love Production"
  CHN_compliance_80_love_focus_explainer_tt:0 "\nWhen an §Roccupied country§! reaches a §GCompliance§! threshold of §Y80%§!, the §YLocalised Love Production§! modifier will be enabled, which unlocks a decision to §CIncrease Love Quotas§! from that country."
- CHN_compliance_80_love_effect_tt:0 "£decision_icon_small Unlocks Decision: §YIncrease [From.GetAdjective] Love Quotas§!."
+ CHN_compliance_80_love_effect_tt: "£decision_icon_small Відмикає рішення: §Y$CHN_compliance_80_love_decision$§!."
  CHN_compliance_80_love_decision:0 "Increase [From.GetAdjective] Love Quotas"
- CHN_compliance_80_love_decision_desc:0 "In coordination with local collaborationist authorities, our occupation forces on [From.GetAdjective] territory will facilitate the intensified harvesting of Love from the immediate populace.\n\n§W£lovetax_text£ = ( (§YC§!) × 0.002 ) + 0.001\n\nThe formula above calculates the total amount of £lovetax_text£ §CLove§! to be gained from this operation [CHN_compliance_80_love_decision_love_gain_loc_string]:\n\n(§YC§!) represents the total number of [From.GetAdjective] core states directly controlled by [CHN.GetNameDef] [CHN_compliance_80_love_decision_states_loc_string].§!"
- CHN_compliance_80_love_decision_resistance_threshold:0 "The Average §RResistance§! of [From.GetAdjective] core states under our control is below §Y25.0%§!."
- CHN_compliance_80_love_decision_love_gain_tt:0 "(§G+[?CHN_compliance_80_love_decision_love_gain_var]§!) §YErots'§! worth of harvested £lovetax_text£ §CLove§! will be added to [CHN.GetAdjective] stockpiles.\n"
- CHN_compliance_80_love_decision_love_gain_unselected_tt:0 "(§Yto be calculated upon selection§!)"
- CHN_compliance_80_love_decision_love_gain_selected_tt:0 "(§C[?CHN.CHN_compliance_80_love_decision_love_gain_var]§!)"
- CHN_compliance_80_love_decision_states_unselected_tt:0 "(§Yto be calculated upon selection§!)"
- CHN_compliance_80_love_decision_states_selected_tt:0 "(§Y[?CHN.CHN_compliance_80_love_decision_states_for_tt_var]§!)"
+ CHN_compliance_80_love_decision_desc:0 "In coordination with local collaborationist authorities, our occupation forces on [From.GetAdjective] territory will facilitate the intensified harvesting of Love from the immediate populace.\n\n§W£lovetax_text£ = ( (§YC§!) × 0.002 ) + 0.001\n\nThe formula above calculates the total amount of £lovetax_text£ §CLove§! to be gained from this operation [CHN_compliance_80_love_decision_love_gain_loc_string]:\n\n(§YC§!) represents the total number of [From.GetAdjective] core states directly controlled by [CHN.GetNameDef] [CHN_compliance_80_love_decision_states_loc_string].§!"
+ CHN_compliance_80_love_decision_resistance_threshold: "Середній §Rспротив§! у [From.GetAdjective]их осердних областях під нашим контролем становить менше §Y25.0%§!" # (&?)
+ CHN_compliance_80_love_decision_love_gain_tt: "(§G+[?CHN_compliance_80_love_decision_love_gain_var]§!) §Yерот.§! зібраної £lovetax_text£ §Cлюбові§! буде додано до [CHN.GetAdjective]их сховищ.\n" # (&)
+ CHN_compliance_80_love_decision_love_gain_unselected_tt: "(§Yбуде обчислено при виборі§!)"
+ CHN_compliance_80_love_decision_love_gain_selected_tt: "(§C[?CHN.CHN_compliance_80_love_decision_love_gain_var]§!)"
+ CHN_compliance_80_love_decision_states_unselected_tt: "(§Yбуде обчислено при виборі§!)"
+ CHN_compliance_80_love_decision_states_selected_tt: "(§Y[?CHN.CHN_compliance_80_love_decision_states_for_tt_var]§!)"
 
- CHN_event_10_unlock_manifesto_tt:0 "Unlocks Focus: §YA Symbiotic Manifesto§!."
- CHN_event_16_national_ideas_tt:0 "Certain §YNational Spirits§! can be viewed from §CThe Heart of the Hegemony§! icon in §YVesalipolis§!."
- CHN_event_19_research_seized_tt:0 "We will prioritise the seizure of Equestrian §Ymilitary and scientific research§!."
- CHN_event_19_research_seized_country_flag_tt:0 "Prioritised the seizure of Equestrian §Ymilitary and scientific research§!."
- CHN_event_20_intellectuals_arrested_tt:0 "We will prioritise the incarceration of Equestrian §Yscientists and intellectuals§!."
- CHN_event_20_intellectuals_arrested_country_flag_tt:0 "Prioritised the incarceration of Equestrian §Yscientists and intellectuals§!."
- CHN_event_26_tech_buff_tt:0 "§YEffect§!:\nGlobal Stats:\n      Construction Speed: §G+5.00%§!\n      Factory Output: §G+10.00%§!\n      Dockyard Output: §G+10.00%§!"
- CHN_event_28_loyalty_affirmed_tt:0 "We must be mindful of the political climate..."
+ CHN_event_10_unlock_manifesto_tt: "Відмикає фокус: §Y$CHN_post_war_5_g$§!."
+ CHN_event_16_national_ideas_tt: "Певні §Yнаціональні духи§! можна побачити з іконки §CСерця Гегемонії§! у §YВесаліполісі§!."
+ CHN_event_19_research_seized_tt: "Ми віддамо першість захопленню еквестрійських §Yвійськових і наукових досліджень§!."
+ CHN_event_19_research_seized_country_flag_tt: "Віддано першість захопленню еквестрійських §Yвійськових і наукових досліджень§!."
+ CHN_event_20_intellectuals_arrested_tt: "Ми віддамо першість ув'язненню еквестрійських §Yнауковців та інтелектуалів§!."
+ CHN_event_20_intellectuals_arrested_country_flag_tt: "Віддано першість ув'язненню еквестрійських §Yнауковців та інтелектуалів§!."
+ CHN_event_26_tech_buff_tt: "$FOCUS_REWARD_TOOLTIP$\n$STAT_GLOBAL_STATS$:\n      $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5.00%§!\n      $MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+10.00%§!\n      $MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: §G+10.00%§!"
+ CHN_event_28_loyalty_affirmed_tt: "Ми мусимо зважати на політичний клімат..." # (&?)
  CHN_event_29_science_cooperation_tt:0 "Science is politics, as are all things, but an individual's morality is their own."
  CHN_event_29_science_cooperation_country_flag_tt:0 "Laid the groundwork for §YChangeling-Equestrian scientific cooperation§!."
- CHN_event_31_overtures_to_friendship_tt:0 "Perhaps there is merit to this idea of "friendship"..."
- CHN_event_32_lets_be_kind_tt:0 "As victors, we must be gracious to the defeated, whom are now under our stewardship."
- CHN_event_33_unlock_thestrals_tt:0 "Unlocks Focus: §YThe Queen's Own Thestral Jägers§!."
- CHN_event_42_yikes_tt:0 "I'm going to have to watch my step..."
- CHN_event_45_personal_tt:0 "Go big or go home!"
- CHN_event_45_general_tt:0 "We're not gambling with changeling lives."
- CHN_event_52_told_ya_tt:0 "I did say that this was a bad idea..."
- CHN_event_53_um_tt:0 "We can trust a Queen's Guard, can't we?"
- CHN_event_56_tt:0 "The sunset a glorious sight,\nA pity it preludes the night."
- CHN_event_57_vanhoover_tt:0 "Vanhoover shall be the Hegemony's crown jewel!"
- CHN_event_57_acornage_tt:0 "Acornage is the sensible choice."
+ CHN_event_31_overtures_to_friendship_tt: "Можливо, в цій ідеї «дружби» є щось гідне..."
+ CHN_event_32_lets_be_kind_tt: "Як переможці, ми мусимо бути милостиві до переможених, котрі перебувають під нашим управлінням."
+ CHN_event_33_unlock_thestrals_tt: "Відмикає фокус: §Y$CHN_post_war_2_l$§!."
+ CHN_event_42_yikes_tt: "Мені доведеться стежити зо свїми кроками..." # (&+)
+ CHN_event_45_personal_tt: "Пан або пропав!"
+ CHN_event_45_general_tt: "Ми не граємо в ігри з життями чейнджлінґів."
+ CHN_event_52_told_ya_tt: "Я казав, що це погана ідея..."
+ CHN_event_53_um_tt: "Ми можемо довіритися Королевиній варті, чи ж ні?"
+ CHN_event_56_tt: "Захід сонця милує очі —\nЖаль, що передує він ночі." # The sunset a glorious sight,\nA pity it preludes the night.
+ CHN_event_57_vanhoover_tt: "Вангувер буде перлиною в короні Гегемонії!"
+ CHN_event_57_acornage_tt: "Ейкорнедж — це зважений вибір."
  CHN_event_60_consequences_tt:0 "The §YColonisation§! of §YVanhoover§! will be §Rdelayed§! by §Y70§! days, and the §YGarrison Requirement§! will be increased by §R+200%§!."
  CHN_event_vanhoover_colonisation_cancelled_tt:0 "The §YColonisation§! of §YVanhoover§! will be §Rsuspended§!."
  CHN_event_208_tt:0 "What the fire cannot burn,\nThe spring breeze shall resuscitate."
- CHN_event_51_postscript_tt:0 "A liberal interpretation of the Queen's communiqué diverts much-needed resources and personnel to the infiltrator corps:\n\n"
- CHN_event_52_unlock_bestpony_tt:0 "Unlocks Focus: §YLearned Helplessness§!."
+ CHN_event_51_postscript_tt: "Вільна інтерпретація королевиного комюніке відвертає так потрібні ресурси та персонал на корпус інфільтраторів:\n\n" # (&+)
+ CHN_event_52_unlock_bestpony_tt: "Відмикає фокус: §Y$CHN_post_war_3_j$§!."
  CHN_event_401_tt:0 "One Last Stand, for a Forlorn Hope."
  CHN_event_503_effect_tt:0 "Steals plans for Equestrian §YElectronics§! and/or §YIndustrial§! technology that we do not currently possess and for which we have researched the prerequisite technology/technologies."
  CHN_event_506_revelation_tt:0 "Jachs has gained an unexpected revelation..."
@@ -2751,64 +2753,64 @@
  CHN_event_519_tt:0 "The world may not be fair, but we can be."
  CHN_event_523_tt:0 "Things fall apart, but life goes on."
  CHN_event_8527_tt:0 "We will stand as proof that not all changelings were evil, in the legacy of the Pax Chrysalia."
- CHN_event_600_tt:0 "Unlocks a series of §Yspecial foci§!."
- CHN_event_701_unlock_looting_tt:0 "Unlocks Focus: §YDas KuKC Erforschung- und Extraktion Konzern§!."
- CHN_unlock_poison_joke_focus_tt:0 "Unlocks Focus: §YPoison Joke§!."
- CHN_unlock_seeds_of_truth_focus_tt:0 "Unlocks Focus: §YSeeds of Truth§!."
- CHN_event_608_tt:0 "Unlocks a series of §Yspecial decisions§!."
- CHN_unlocked_the_last_focus_tt:0 "Unlocks Focus: §YA Future in the Making§!."
- CHN_canterlot_state_lore_desc_revised_take_a_look_plz_tt:0 "\n§YCanterlot's§! entry in §YTwinkle Sprinkle's Abridged Guide to the Cities of the World§! has been §Gupdated§! to contain relevant information on recent developments in the city's history as of [GetYear]."
- CHN_event_702_unlock_focus_tt:0 "Unlocks Focus: §YSubjugate the Everfree§!."
+ CHN_event_600_tt: "Відмикає низку §Yособливих фокусів§!."
+ CHN_event_701_unlock_looting_tt: "Відмикає фокус: §Y$CHN_vraks_looting_concern$§!."
+ CHN_unlock_poison_joke_focus_tt: "Відмикає фокус: §Y$CHN_poison_joke_focus$§!."
+ CHN_unlock_seeds_of_truth_focus_tt: "Відмикає фокус: §Y$CHN_truth_seeds_focus$§!."
+ CHN_event_608_tt: "Відмикає низку §Yособливих рішень§!."
+ CHN_unlocked_the_last_focus_tt: "Відмикає фокус: §Y$CHN_the_future_is_ours$§!."
+ CHN_canterlot_state_lore_desc_revised_take_a_look_plz_tt: "\nЗапис про §YКантерлот§! у §YКороткий довідник Твінкл Спринкл по примітних місцях світу§! було §Gоновлено§! новими відомостями про нещодавні події в історії міста станом на [GetYear] рік."
+ CHN_event_702_unlock_focus_tt: "Відмикає фокус: §Y$CHN_post_war_4_f$§!."
 
- CHN_glossus_sicarus_tt:0 "\n§YGlossus Sicarus§! (with traits §YQueen's Guard§!, §YSupply Raider§!, §YReckless§!, §YRecently Promoted§!) becomes a General.\n"
- CHN_arcus_venn_tt:0 "\n§YArcus Venn§! (with traits §YCareer Officer§!, §YSkilled Staffer§!, §YAdaptable§!, §YRecently Promoted§!) becomes a General.\n"
+ CHN_glossus_sicarus_tt: "\n§Y$CHN_glossus_sicarus$§! (із рисами §Y$queens_guard$§!, §Y$supply_raider$§!, §Y$trait_reckless$§!, §Y$recently_promoted$§!) стає генералом.\n"
+ CHN_arcus_venn_tt: "\n§Y$CHN_arcus_venn$§! (із рисами §Y$career_officer$§!, §Y$skilled_staffer$§!, §Y$adaptable$§!, §Y$recently_promoted$§!) стає генералом.\n"
 
- CHN_hegemony_compact_science_tech_name:0 "Hegemony Science and Industry Research Compact"
- CHN_hegemony_compact_science_tech_desc:0 "Headquartered in Vraks, the HSIRC is the transnational polity responsible for the centralised coordination of scientific research amongst the member states of the Changeling Hegemony."
+ CHN_hegemony_compact_science_tech_name: "Науково-промислова дослідницька угода Гегемонії"
+ CHN_hegemony_compact_science_tech_desc: "НПДУГ, зі штаб-квартирою у Враксі, — це транснаціональне об'єднання, відповідальне за централізоване узгодження наукових досліджень між державами-членами Гегемонії Чейнджлінґів." # (&?)
 
- CHN_form_pony_volunteer_divisions_tt:0 "\nFour §YDivisions§! of §YEquestrian Conscripts§! will be formed and deployed:\n  - 301. Freiwilligen-Infanterie-Division 'Zügel'\n  - 302. Freiwilligen-Infanterie-Division 'Zäumen'\n  - 303. Freiwilligen-Infanterie-Division 'Halfter'\n  - 304. Freiwilligen-Infanterie-Division\n"
- CHN_form_griffon_merc_company_tt:0 "A §YCompany§! of §YGriffonian Mercenaries§! will be formed and deployed:\n  - Ritterkohorte-Garde-Division 'Königin Chrysalis'"
- CHN_form_thestral_jager_brigade_tt:0 "A §YBrigade§! of §YThestral Jägers§! will be formed and deployed:\n  - Garde-Jäger-Brigade 'Leibstandarte Königin Chrysalis'"
- CHN_disband_thestrals_tt:0 "The Garde-Jäger-Brigade 'Leibstandarte Königin Chrysalis' will be disbanded and dissolved in perpetuity."
- CHN_form_jagdkommandos_tt:0 "\nUnlocks Ability to deploy §YSturmjägers§! anywhere in the §CHegemony§!."
- CHN_form_jagdkommandos_tt_extra:0 "\nTen §YDivisions§! of §YSturmjägers§! will be formed:\n  - Sturmjäger Kommando 01\n  - Sturmjäger Kommando 02\n  - Sturmjäger Kommando 03\n  - Sturmjäger Kommando 04\n  - Sturmjäger Kommando 05\n  - Sturmjäger Kommando 06\n  - Sturmjäger Kommando 07\n  - Sturmjäger Kommando 08\n  - Sturmjäger Kommando 09\n  - Sturmjäger Kommando 10\n"
+ CHN_form_pony_volunteer_divisions_tt: "\nБуде утворено та розгорнуто чотири §Yдивізії§! §Yеквестрійських призовників§!:\n  - 301. Freiwilligen-Infanterie-Division «Zügel»\n  - 302. Freiwilligen-Infanterie-Division «Zäumen»\n  - 303. Freiwilligen-Infanterie-Division «Halfter»\n  - 304. Freiwilligen-Infanterie-Division\n"
+ CHN_form_griffon_merc_company_tt: "Буде утворено та розгорнуто §Yроту§! §Yгрифонів-найманців§!:\n  - Ritterkohorte-Garde-Division «Königin Chrysalis»"
+ CHN_form_thestral_jager_brigade_tt: "Буде утворено та розгорнуто §Yбригаду§! §Yфестралів-єгерів§!:\n  - Garde-Jäger-Brigade «Leibstandarte Königin Chrysalis»"
+ CHN_disband_thestrals_tt: "Garde-Jäger-Brigade «Leibstandarte Königin Chrysalis» буде на тривало розпущена."
+ CHN_form_jagdkommandos_tt: "\nВідмикає здатність розгортати §YSturmjäger-ів§! будь-де в §CГегемонії§!."
+ CHN_form_jagdkommandos_tt_extra: "\nБуде утворено десять §Yдивізій§! §YSturmjäger-ів§!:\n  - Sturmjäger Kommando 01\n  - Sturmjäger Kommando 02\n  - Sturmjäger Kommando 03\n  - Sturmjäger Kommando 04\n  - Sturmjäger Kommando 05\n  - Sturmjäger Kommando 06\n  - Sturmjäger Kommando 07\n  - Sturmjäger Kommando 08\n  - Sturmjäger Kommando 09\n  - Sturmjäger Kommando 10\n"
 
- CHN_mobile_task_force_tt:0 "Deploy §YSturmjäger Kommando§! to §Y[This.GetName]§!"
- CHN_mobile_task_force_tt_delayed:0 "§LAn elite task force of jäger commandos will be dispatched to [This.GetName].§!\n\n[THIS.CHN_mtf_action_state_requirement_owned]\n[THIS.CHN_mtf_action_state_requirement_notdeployedyet]\n[CHN_mtf_action_not_recalling]\n[CHN_mtf_action_total_deployed]\n\n§YEffects when selected:§!\n(@CHN §Y[Root.GetName]§!): Unlocks Decision: Dispatch Sturmjägers to [This.GetName].\n\nIt costs [Root.GetDecisionCostCP15PP15] to take this action."
+ CHN_mobile_task_force_tt: "Розгорнути §YSturmjäger Kommando§! в області §Y[This.GetName]§!"
+ CHN_mobile_task_force_tt_delayed: "§LЕлітну оперативну групу єгерів-командос буде відправлено до області [This.GetName].§!\n\n[THIS.CHN_mtf_action_state_requirement_owned]\n[THIS.CHN_mtf_action_state_requirement_notdeployedyet]\n[CHN_mtf_action_not_recalling]\n[CHN_mtf_action_total_deployed]\n\n§YЕфекти від вибору:§!\n(@CHN §Y[Root.GetName]§!): Відмикає рішення: Розгорнути Sturmjäger-ів в області [This.GetName]\n\nЦя дія коштує [Root.GetDecisionCostCP15PP15]." # (&+)
 
- CHN_mtf_action_state_requirement_owned_met_tt:0 "£trigger_yes [This.GetName] is owned or controlled by [CHN.GetNameDef], a changeling §Ypuppet state§!, or a §Yfaction member§! of the §CHegemony§!."
- CHN_mtf_action_state_requirement_owned_unmet_tt:0 "£trigger_no [This.GetName] is owned or controlled by [CHN.GetNameDef], a changeling §Ypuppet state§!, or a §Yfaction member§! of the §CHegemony§!."
- CHN_mtf_action_state_requirement_notdeployedyet_met_tt:0 "£trigger_yes §YSturmjägers§! have not been deployed to [This.GetName]."
- CHN_mtf_action_state_requirement_notdeployedyet_unmet_tt:0 "£trigger_no §YSturmjägers§! have not been deployed to [This.GetName]."
- CHN_mtf_action_total_deployed_met_tt:0 "£trigger_yes There are still §YSturmjägers§! in reserve (§Y[?CHN.CHN_mobile_task_force_in_reserve_var]§!)."
- CHN_mtf_action_total_deployed_unmet_tt:0 "£trigger_no There are still §YSturmjägers§! in reserve (§R0§!)."
- CHN_mtf_action_not_recalling_met_tt:0 "£trigger_yes The §YSturmjägers§! are not currently being recalled."
- CHN_mtf_action_not_recalling_unmet_tt:0 "£trigger_no The §YSturmjägers§! are not currently being recalled."
+ CHN_mtf_action_state_requirement_owned_met_tt: "£trigger_yes [This.GetName] належить або керується державою [CHN.GetNameDef], §Yмаріонетковою державою§! чейнджлінґів або §Yчленом альянсу§! §CГегемонії§!" # (&+)
+ CHN_mtf_action_state_requirement_owned_unmet_tt: "£trigger_no [This.GetName] належить або керується державою [CHN.GetNameDef], §Yмаріонетковою державою§! чейнджлінґів або §Yчленом альянсу§! §CГегемонії§!" # (&+)
+ CHN_mtf_action_state_requirement_notdeployedyet_met_tt: "£trigger_yes §YSturmjäger-ів§! не було розгорнуто в області [This.GetName]" # (&+)
+ CHN_mtf_action_state_requirement_notdeployedyet_unmet_tt: "£trigger_no §YSturmjäger-ів§! не було розгорнуто в області [This.GetName]" # (&+)
+ CHN_mtf_action_total_deployed_met_tt: "£trigger_yes У резерві ще є §YSturmjäger-і§! (§Y[?CHN.CHN_mobile_task_force_in_reserve_var]§!)" # (&+)
+ CHN_mtf_action_total_deployed_unmet_tt: "£trigger_no У резерві ще є §YSturmjäger-і§! (§R0§!)" # (&+)
+ CHN_mtf_action_not_recalling_met_tt: "£trigger_yes §YSturmjäger-і§! наразі не відкликаються" # (&+)
+ CHN_mtf_action_not_recalling_unmet_tt: "£trigger_no §YSturmjäger-і§! наразі не відкликаються" # (&+)
 
- CHN_dispatch_jagdkommando_decision_1:0 "Dispatch Sturmjägers to [From.GetName]"
- CHN_dispatch_jagdkommando_decision_1_desc:0 "The number of days until the Sturmjägers arrive at [From.GetName] is determined by the distance from [From.GetName] to Vesalipolis."
- CHN_dispatch_jagdkommando_decision_2:0 "Dispatch Sturmjägers to [From.GetName]"
- CHN_dispatch_jagdkommando_decision_2_desc:0 "The number of days until the Sturmjägers arrive at [From.GetName] is determined by the distance from [From.GetName] to Vesalipolis."
- CHN_dispatch_jagdkommando_decision_3:0 "Dispatch Sturmjägers to [From.GetName]"
- CHN_dispatch_jagdkommando_decision_3_desc:0 "The number of days until the Sturmjägers arrive at [From.GetName] is determined by the distance from [From.GetName] to Vesalipolis."
- CHN_dispatch_jagdkommando_decision_4:0 "Dispatch Sturmjägers to [From.GetName]"
- CHN_dispatch_jagdkommando_decision_4_desc:0 "The number of days until the Sturmjägers arrive at [From.GetName] is determined by the distance from [From.GetName] to Vesalipolis."
- CHN_dispatch_jagdkommando_decision_5:0 "Dispatch Sturmjägers to [From.GetName]"
- CHN_dispatch_jagdkommando_decision_5_desc:0 "The number of days until the Sturmjägers arrive at [From.GetName] is determined by the distance from [From.GetName] to Vesalipolis."
- CHN_dispatch_jagdkommando_decision_spawn_units_tt:0"(@CHN §Y[Root.GetName]§!): Two brigades of §YSturmjäger Kommando§! will be deployed to [From.GetName].\n"
+ CHN_dispatch_jagdkommando_decision_1: "Розгорнути Sturmjäger-ів в області [From.GetName]" # (&+)
+ CHN_dispatch_jagdkommando_decision_1_desc: "Число днів до прибуття Sturmjäger-ів до області [From.GetName] визначається відстанню від області [From.GetName] до Весаліполіса." # (&+)
+ CHN_dispatch_jagdkommando_decision_2: "Розгорнути Sturmjäger-ів в області [From.GetName]" # (&+)
+ CHN_dispatch_jagdkommando_decision_2_desc: "Число днів до прибуття Sturmjäger-ів до області [From.GetName] визначається відстанню від області [From.GetName] до Весаліполіса." # (&+)
+ CHN_dispatch_jagdkommando_decision_3: "Розгорнути Sturmjäger-ів в області [From.GetName]" # (&+)
+ CHN_dispatch_jagdkommando_decision_3_desc: "Число днів до прибуття Sturmjäger-ів до області [From.GetName] визначається відстанню від області [From.GetName] до Весаліполіса." # (&+)
+ CHN_dispatch_jagdkommando_decision_4: "Розгорнути Sturmjäger-ів в області [From.GetName]" # (&+)
+ CHN_dispatch_jagdkommando_decision_4_desc: "Число днів до прибуття Sturmjäger-ів до області [From.GetName] визначається відстанню від області [From.GetName] до Весаліполіса." # (&+)
+ CHN_dispatch_jagdkommando_decision_5: "Розгорнути Sturmjäger-ів в області [From.GetName]" # (&+)
+ CHN_dispatch_jagdkommando_decision_5_desc: "Число днів до прибуття Sturmjäger-ів до області [From.GetName] визначається відстанню від області [From.GetName] до Весаліполіса." # (&+)
+ CHN_dispatch_jagdkommando_decision_spawn_units_tt: "(@CHN §Y[Root.GetName]§!): Дві бригади §YSturmjäger Kommando§! буде розгорнуто в області [From.GetName].\n" # (&+)
 
- CHN_recall_jagdkommandos_decision:0 "Recall Sturmjägers"
- CHN_recall_jagdkommandos_decision_effect_tt:0 "All §YSturmjäger Kommando§! currently deployed or prepared for deployment will be recalled into reserve.\n"
- CHN_has_recalled_jagdkommandos_tt:0 "§YRecalled§! the Sturmjägers."
+ CHN_recall_jagdkommandos_decision: "Відкликати Sturmjäger-ів"
+ CHN_recall_jagdkommandos_decision_effect_tt: "Усі частини §YSturmjäger Kommando§!, наразі розгорнуті або готові до розгортання, буде відкликано в резерв.\n" # (&+)
+ CHN_has_recalled_jagdkommandos_tt: "Sturmjäger-ів §Yвідкликано§!" # (&+)
 
- CHN_pony_slaves_dynamic_modifier_tt:0 "Gains Dynamic Modifier: §YEquestrian Indentured Servitude§!, which grants dynamic bonuses to §YFactory Output§!, §YDockyard Output§!, and §YDivision Recovery Rate§!.\n\nModifier values for the above bonuses are given by the equation §G%§! = ( §YC§! ÷ 10 ), where (§YC§!) represents the average level of §Ycompliance§! across all occupied Equestrian states (§Y[?CHN.core_compliance@EQS]§!/100).\n"
+ CHN_pony_slaves_dynamic_modifier_tt: "Здобуває динамічний модифікатор: §Y$CHN_veterans_slaves_dynamic_modifier$§!, що дає динамічні бонуси до §Yпродуктивності заводів§!, §Yпродуктивності верфей§! та §Yтемпу відновлення дивізій§!.\n\nВеличини модифікаторів для згаданих бонусів подаються за рівнянням §G%§! = ( §YC§! ÷ 10 ), де (§YC§!) представляє середній рівень §Yпідпорядкування§! по всіх окупованих областях Еквестрії (§Y[?CHN.core_compliance@EQS]§!/100).\n" # (&)
 
- CHN_opened_jachs_drawer:0 "Opened Jachs' drawer"
- CHN_everfree_thoroughly_defeated_flag:0 "Subdued the Everfree Forest"
+ CHN_opened_jachs_drawer: "Відкрито Яксову шухляду"
+ CHN_everfree_thoroughly_defeated_flag: "Підкорено Вічнодикий ліс" # інак. Приборкано
 
  friends_in_high_places_tt_1: "Якс:\n   Є §Yфельдмаршалом§!"
  friends_in_high_places_tt_2: "Алкіппа:\n   Є §Yгенералом§!"
- friends_in_high_places_tt_3:0 "Jachs, Alcippe, Marsilio, Finicus Vesali, and Second Wind are in the §YCanterlot Commissariat§!."
+ friends_in_high_places_tt_3: "Якс, Алкіппа, Марсіліо, Фінікус Весалі та Секонд Уинд перебувають у §YКантерлотському комісаріаті§!"
 
  CHN_Jachs_Rank_Generalfeldmarschall: "Генерал-фельдмаршал"
  CHN_Jachs_Rank_Generaloberst: "Генерал-оберст"
@@ -2819,56 +2821,56 @@
  CHN_Alcippe_Rank_Oberstleutnant: "Оберст-лейтенант"
 
 ### ІДЕЇ/МОДИФІКАТОРИ ###
- CHN_love_deficit_dynamic_modifier:0 "§RLove Deficit§!"
- CHN_seaddle_reforms:0 "Seaddle Reforms"
- CHN_seaddle_reforms_desc:0 "Under the Seaddle Protocol, the Royal Changeling Heer has enforced regulations and oversight mechanisms for all Love harvesting activities. Our divisions will take some time getting adjusted to the constraints of the new system, but ultimately it will be for the better."
- CHN_collection_troops:0 "Liebeskollektion-Jagdkommando"
- CHN_collection_troops_custom_modifier_tt:0 "£lovetax_text£ §CLove§! gained from £decision_icon_small Supplementary Love Acquisition: §G+25%§!"
- CHN_collection_troops_bonus_explainer_tt:0 "£pol_idea Liebeskollektion-Jagdkommando: £lovetax_text£ × §G125%§!\n\n"
- CHN_collection_troops_QUEENS_TOWER_explainer_tt:0 "\n£pol_idea Liebeskollektion-Jagdkommando:\n      £lovetax_text£ §CLove§! gained from £decision_icon_small Supplementary Love Acquisition: §G+25%§!\n"
- CHN_billeting_system:0 "Heer Einquartierung-Schema"
- CHN_billeting_system_custom_modifier_tt:0 "Maximum Sustainable Amount of Frontline Battalions: §G+15%§!"
- CHN_billeting_system_bonus_explainer_tt:0 "£pol_idea Heer Einquartierung-Schema: £population_icon  × §G115%§!\n\n"
- CHN_billeting_system_QUEENS_TOWER_explainer_tt:0 "\n£pol_idea Heer Einquartierung-Schema:\n      Maximum Sustainable Amount of Frontline Battalions: §G+15%§!\n"
- CHN_love_refineries:0 "Lieberaffinerie"
- CHN_love_refineries_custom_modifier_tt:0 "£lovetax_text£ §CLove§! gained from £loveharvest_text  The Love Harvest: §G+25%§!"
- CHN_love_refineries_bonus_explainer_tt:0 "£pol_idea Lieberaffinerie: £lovetax_text£ × §G125%§!\n\n"
- CHN_love_refineries_QUEENS_TOWER_explainer_tt:0 "\n£pol_idea Lieberaffinerie:\n      £lovetax_text£ §CLove§! gained from £loveharvest_text  The Love Harvest: §G+25%§!\n"
- CHN_PLB_keep_stability_high:0 "If §YStability§! or §YWar Support§! drops below §Y25%§!, §Rdrastic consequences§! may follow.\n\nDefeat the Changelings to remove this spirit."
- CHN_queens_equestrian_advisory_cabinet:0 "Equestrian Advisory Cabinet"
+ CHN_love_deficit_dynamic_modifier: "§RНестача любові§!"
+ CHN_seaddle_reforms: "Сіеддльські реформи"
+ CHN_seaddle_reforms_desc: "Відповідно до Сіеддльського протоколу, Королівська Армія Чейнджлінґів упровадила положення про та механізми нагляду за всіма процесами збору любові. Нашим дивізіям знадобиться трохи часу, щоби підлаштуватися під обмеження нової системи, але в кінцевому підсумку це буде на ліпше." # (&)
+ CHN_collection_troops: "Liebeskollektion-Jagdkommando"
+ CHN_collection_troops_custom_modifier_tt: "£lovetax_text£ §CЛюбов§!, здобута від рішення £decision_icon_small $CHN_gain_love_decision$: §G+25%§!"
+ CHN_collection_troops_bonus_explainer_tt: "£pol_idea $CHN_collection_troops$: £lovetax_text£ × §G125%§!\n\n"
+ CHN_collection_troops_QUEENS_TOWER_explainer_tt: "\n£pol_idea $CHN_collection_troops$:\n      $CHN_collection_troops_custom_modifier_tt$\n"
+ CHN_billeting_system: "Heer Einquartierung-Schema"
+ CHN_billeting_system_custom_modifier_tt: "Найбільша допустима кількість фронтових батальйонів: §G+15%§!"
+ CHN_billeting_system_bonus_explainer_tt: "£pol_idea $CHN_billeting_system$: £population_icon£ × §G115%§!\n\n"
+ CHN_billeting_system_QUEENS_TOWER_explainer_tt: "\n£pol_idea $CHN_billeting_system$:\n    $CHN_billeting_system_custom_modifier_tt$\n"
+ CHN_love_refineries: "Lieberaffinerie"
+ CHN_love_refineries_custom_modifier_tt: "£lovetax_text£ §CЛюбов§!, здобута від фокусу £loveharvest_text£ $CHN_continuous_love_harvesting$: §G+25%§!"
+ CHN_love_refineries_bonus_explainer_tt: "£pol_idea $CHN_love_refineries$: £lovetax_text£ × §G125%§!\n\n"
+ CHN_love_refineries_QUEENS_TOWER_explainer_tt: "\n£pol_idea $CHN_love_refineries$:\n    $CHN_love_refineries_custom_modifier_tt$\n"
+ CHN_PLB_keep_stability_high: "Якщо §Yстабільність§! або §Yпідтримка війни§! впаде нижче §Y25%§!, можуть настати §Rрізкі наслідки§!.\n\nПереможіть чейнджлінґів, щоби видалити цей дух." # (&?): різкі наслідки
+ CHN_queens_equestrian_advisory_cabinet: "Еквестрійський дорадчий кабінет"
  CHN_queens_equestrian_advisory_cabinet_QUEENS_TOWER_explainer_tt: "\n£pol_idea $CHN_queens_equestrian_advisory_cabinet$:\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+5%§!\n      $MODIFIER_COMPLIANCE_GAIN_ADD$: §G+0.05%§!\n"
- CHN_equestrian_penal_service_corps:0 "Equestrian Penal Service"
- CHN_equestrian_penal_service_corps_better:0 "Equestrian Penal Service"
+ CHN_equestrian_penal_service_corps: "Еквестрійська пенітенціарна служба" # (&)
+ CHN_equestrian_penal_service_corps_better: "$CHN_equestrian_penal_service_corps$"
  CHN_local_factories_10percent: "\nУсі §Yокуповані§! області:\n      $MODIFIER_LOCAL_FACTORIES$: §G+10%§!"
  CHN_local_factories_10percent_modifier_effect_tt: "$MODIFIER_LOCAL_FACTORIES$: §G+10%§!"
- CHN_pony_volunteer_corps_idea:0 "Queen's Pony Volunteer Corps"
+ CHN_pony_volunteer_corps_idea: "Королевин добровольчий корпус поні"
  CHN_reconstruction_authority_idea: "\nУсі §Yокуповані§! області:\n      $MODIFIER_LOCAL_FACTORY_SABOTAGE$: §G-10%§!\n      $MODIFIER_LOCAL_RESOURCES_FACTOR$: §G+10.00%§!\n      $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+2%§!\n      $MODIFIER_LOCAL_FACTORIES$: §G+2%§!"
  CHN_reconstruction_authority_modifier_effect_tt: "$MODIFIER_LOCAL_FACTORY_SABOTAGE$: §G-10%§!\n   $MODIFIER_LOCAL_RESOURCES_FACTOR$: §G+10.00%§!\n   $MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+2%§!\n   $MODIFIER_LOCAL_FACTORIES$: §G+2%§!"
- CHN_milcomplex_stimulus:0 "Military-Industrial Complex Stimulus Package"
- CHN_decentralised_fear:0 "Decentralised Fear Policing"
- CHN_decentralised_fear_desc:0 "Sometimes the white lie presents a more serious danger than overt threats. In a characteristic display of changeling cunning, the УГБВ has launched a "campaign" of mass infiltrator recruitment. In reality, the influx of new lings working for the УГБВ directly has remained relatively the same compared to previous months, yet the ponies are nonetheless suspicious of anypony, believing them to be a changeling in disguise. This has considerably lessened the need for active policing."
- CHN_decentralised_fear_better:0 "Decentralised Fear Policing"
- CHN_decentralised_fear_better_desc:0 "Sometimes the white lie presents a more serious danger than overt threats. In a characteristic display of changeling cunning, the УГБВ has launched a "campaign" of mass infiltrator recruitment. In reality, the influx of new lings working for the УГБВ directly has remained relatively the same compared to previous months, yet the ponies are nonetheless suspicious of anypony, believing them to be a changeling in disguise. Further improvements to this strategy by [CHN_GetJachsRank] Jachs have considerably lessened the need for active policing."
- CHN_chrysalis_embarassed:0 "Chrysalis Humiliated"
- CHN_increased_garrisons:0 "Bolstered Garrisons"
+ CHN_milcomplex_stimulus: "Стимулюючий пакет для військово-промислового комплексу" # (&)
+ CHN_decentralised_fear: "Децентралізований контроль страхом" # (&)
+ CHN_decentralised_fear_desc: "Іноді невинна брехня представляє суворішу небезпеку, ніж відверті погрози. У характерному прояві хитрості чейнджлінґів, УГБВ запустило «кампанію» масового набору до лав інфільтраторів. У дійсності ж наплив нових осіб, котрі працюють на УГБВ безпосередньо, залишилося відносно таке ж у порівняння з попередніми місяцями, але поні тим не менш підозрюють всякого, вважаючи їх чейнджлінґами під прикриттям. Це значно зменшило потребу в активному нагляді." # (&)
+ CHN_decentralised_fear_better: "$CHN_decentralised_fear$"
+ CHN_decentralised_fear_better_desc: "Іноді невинна брехня представляє суворішу небезпеку, ніж відверті погрози. У характерному прояві хитрості чейнджлінґів, УГБВ запустило «кампанію» масового набору до лав інфільтраторів. У дійсності ж наплив нових осіб, котрі працюють на УГБВ безпосередньо, залишилося відносно таке ж у порівняння з попередніми місяцями, але поні тим не менш підозрюють всякого, вважаючи їх чейнджлінґами під прикриттям. Подальші вдосконалення цієї стратегії [CHN_GetJachsRank]ом Яксом суттєво зменшило потребу в активному нагляді." # (&)
+ CHN_chrysalis_embarassed: "Кризаліс принижена"
+ CHN_increased_garrisons: "Підсилені гарнізони" # (&?)
  CHN_exploit_equestrian_recovery: "Багатства Еквестрії"
  CHN_sword_and_shield: "Доктрина меча та щита"
  CHN_postwar_euphoria: "Післявоєнна ейфорія"
- CHN_postwar_euphoria_desc:0 "Triumph! Victory! All hail the victorious Queen! The hated ponies have been brought low and we as a nation are set to enjoy the spoils of war. Nothing shall disrupt our moment of glory!"
- CHN_regional_passports:0 "Regional Passports"
- CHN_fob_idea:0 "Forward Operating Bases"
- CHN_fob_idea_custom_modifier_tt:0 "Sturmjäger Kommando Deployment Delay: §G-20%§!"
- CHN_internal_surveillance_idea:0 "Increased Internal Surveillance"
+ CHN_postwar_euphoria_desc: "Тріумф! Перемога! Хай живе переможна королева! Ненависних поні було принижено, і ми як народ готові насолодитися здобиччю війни. Ніщо не порушить нашу мить славу!" # (&+)
+ CHN_regional_passports: "Регіональні паспорти"
+ CHN_fob_idea: "Передові оперативні бази"
+ CHN_fob_idea_custom_modifier_tt: "Затримка розгортання Sturmjäger Kommando: §G-20%§!"
+ CHN_internal_surveillance_idea: "Посилений внутрішній нагляд"
  CHN_puppet_economic_control: "Контроль чейнджлінґів над економікою"
 
  CHN_great_queens_tower: "Вежа Великої Королеви"
- CHN_local_factories_10percent_modifier:0 "Equestrian Penal Service"
- CHN_reconstruction_authority_modifier:0 "Equestrian Reconstruction Agency"
- CHN_vanhoover_colonisation_modifier:0 "Changeling Colonisation"
- CHN_vanhoover_colonisation_modifier_updated:0 "Changeling Colonisation"
- CHN_acornage_colonisation_modifier:0 "Changeling Colonisation"
- CHN_acornage_colonisation_modifier_updated:0 "Alvarium Hive-Colony"
- CHN_settler_colony_modifier:0 "Settler-Colony"
+ CHN_local_factories_10percent_modifier: "Еквестрійська пенітенціарна служба" # (&)
+ CHN_reconstruction_authority_modifier: "Агентство відбудови Еквестрії"
+ CHN_vanhoover_colonisation_modifier: "Колонізація чейнджлінґами"
+ CHN_vanhoover_colonisation_modifier_updated: "Колонізація чейнджлінґами"
+ CHN_acornage_colonisation_modifier: "Колонізація чейнджлінґами"
+ CHN_acornage_colonisation_modifier_updated: "Рій-колонія Альваріум"
+ CHN_settler_colony_modifier: "Поселенська колонія"
  CHN_96th_canterlonian_modifier: "Das 96. Infanterie-Division «Canterlonian»"
  CHN_canterlot_commissariat_modifier: "Кантерлотський протекторат"
  CHN_canterlot_commissariat_modifier_alcippe: "Алкіппа"
@@ -2876,13 +2878,13 @@
  CHN_canterlot_commissariat_modifier_second_wind: "Секонд Уинд"
  CHN_canterlot_commissariat_modifier_gloriosa: "Ґлоріоса"
  CHN_canterlot_commissariat_modifier_marsilio: "Генерал-хірург Марсіліо"
- CHN_canterlot_commissariat_modifier_PPP:0 "MHI Pony Production Partnership Project"
+ CHN_canterlot_commissariat_modifier_PPP: "Проєкт виробничого партнерства між поні та MHI"
 
- chn_oil_concern:0 "Hegemony Petrochemical Investment Trust"
- CHN_tank_sirius_mustang:0 "Sirius/Mustang Enterprises"
+ chn_oil_concern: "Нафтохімічний інвестиційний фонд Гегемонії"
+ CHN_tank_sirius_mustang: "Sirius/Mustang Enterprises"
  CHN_tank_sirius_mustang_desc:0 "The Sirius/Mustang Consolidated State-Owned Enterprise, formed out of a merger between the former Equestrian companies Sirius Metal Works and Mustang Developments under Changeling oversight and management, is the Changeling military-industrial complex's flagship effort to assimilate Equestrian business and industrial interests into the Hegemony's war machine."
 
- on_probation:0 "On Probation"
+ on_probation: "На випробувальному терміні"
  on_probation_desc:0 "§LThis commander has been put under supervisory review and oversight for a period of time.§!"
  empress_of_equestria:0 "Empress Regnant of Canterlot and Equestria"
 
@@ -2898,29 +2900,31 @@
  CHN_equestria_chaos2_compliance_cap_tt: "\nПідпорядкування в областях Еквестрії під окупацією чейнджлінґів буде обмежене до §Y60%§!."
  CHN_equestria_chaos1_compliance_cap_tt: "\nПідпорядкування в областях Еквестрії під окупацією чейнджлінґів буде обмежене до §Y80%§!."
 
- CHN_veterans_slaves_dynamic_modifier:0 "Equestrian Indentured Servitude"
+ CHN_veterans_slaves_dynamic_modifier: "Еквестрійське боргове рабство" # підглянуто в РЛ
 
  CHN_infiltrate_operations_tooltip: "Відімкне §Yнову шпигунську операцію§!.\n"
- CHN_lysander_palpus: "§Y$CHN_palpus$§! (із рисами §Y$ironside$§!, §Y$battleship_adherent$§!, §Y$navy_career_officer$§!) стане адміралом.\n"
- CHN_lysander_maxilla: "§Y$CHN_maxilla$§! (з рисами §Y$fleet_protector$§!, §Y$naval_lineage$§!, §Y$navy_career_officer$§!) стане адміралом.\n" # fem.
- CHN_mimic_clypeus: "§Y$CHN_clypeus$§! (із рисами §Y$fly_swatter$§!, §Y$gentlemanly$§!, §Y$navy_career_officer$§!) стане адміралом.\n" # fem.
- CHN_mimic_labrum: "§Y$CHN_labrum$§! (із рисами §Y$air_controller$§!, §Y$craven$§!, §Y$navy_career_officer$§!) стане адміралом.\n"
- everfree_resistance_modifier: "Вічнодикий ліс нестримний" # (&?)
+ CHN_lysander_palpus: "§Y$CHN_palpus$§! (із рисами §Y$ironside$§!, §Y$battleship_adherent$§!, §Y$navy_career_officer$§!) стає адміралом.\n"
+ CHN_lysander_maxilla: "§Y$CHN_maxilla$§! (з рисами §Y$fleet_protector$§!, §Y$naval_lineage$§!, §Y$navy_career_officer$§!) стає адміралом.\n" # fem.
+ CHN_mimic_clypeus: "§Y$CHN_clypeus$§! (із рисами §Y$fly_swatter$§!, §Y$gentlemanly$§!, §Y$navy_career_officer$§!) стає адміралом.\n" # fem.
+ CHN_mimic_labrum: "§Y$CHN_labrum$§! (із рисами §Y$air_controller$§!, §Y$craven$§!, §Y$navy_career_officer$§!) стає адміралом.\n"
+ everfree_resistance_modifier: "Вічнодикий ліс нестримний"
  old_dragon_gardens: "Вічнодикий ліс"
  CHN_zecoras_curse: "§bЗекорине прокляття§!"
 
+ CHN_mio_trait_universal_machinegun: "Універсальний кулемет"
+
 ### ТЕХНОЛОГІЇ ###
- CHN_armoured_trains:0 "Armoured Trains"
+ CHN_armoured_trains: "Бронепоїзд"
  CHN_armoured_trains_desc:0 "These locomotives, bristling with weaponry and armoured with heavy steel plate, traverse our railway networks to deliver our soldiers safely to the battlefield."
- CHN_armoured_trains_buff:0 "§YEffect§!:\nGlobal Stats:\n      Org. Loss when Moving: §G-5%§!\n      Reinforce Rate: §G+5%§!\n§YStrategic Redeployment§! will no longer be disabled in occupied states with the §RUprising§! modifier.\n"
+ CHN_armoured_trains_buff: "$FOCUS_REWARD_TOOLTIP$\n$STAT_GLOBAL_STATS$:\n      $MODIFIER_ORG_LOSS_WHEN_MOVING$: §G-5%§!\n      $MODIFIER_LAND_REINFORCE_RATE$: §G+5%§!\n§YСтратегічну передислокацію§! в окупованих областях із модифікатором §R$resistance_75$§! більше не буде вимкнено.\n"
 
- CHN_antipartisan_warfare:0 "Counterinsurgency Warfare"
+ CHN_antipartisan_warfare: "Боротьба з повстанцями"
  CHN_antipartisan_warfare_desc:0 "Specialist units, trained in anti-guerrilla tactics and operating with a high degree of autonomy, to police our occupied territories."
- CHN_antipartisan_warfare_buff:0 "§YEffect§!:\nMilitary Police & Infiltrator Company:\n      Suppression Bonus: §G+5%§!\n      Reconnaissance: §G+50%§!\n      Weight: §G-50%§!"
+ CHN_antipartisan_warfare_buff: "$FOCUS_REWARD_TOOLTIP$\n$military_police$ & $infiltrator_company$:\n      Бонус до придушення: §G+5%§!\n      Розвідка: §G+50%§!\n      Вага: §G-50%§!"
 
- CHN_indefinite_undercover_ops:0 "Indefinite Undercover Operations"
+ CHN_indefinite_undercover_ops: "Безстрокові таємні операції"
  CHN_indefinite_undercover_ops_desc:0 "Changelings, assuming an original pony identity, inserted into local populations to live a semi-normal life, with no explicit counterinsurgency or intelligence-gathering assignment other than general surveillance. Akin to sleeper agents, with the authority to act on unforeseen opportunities whenever available."
- CHN_indefinite_undercover_ops_buff:0 "§YEffect§!:\nInfiltrator Company:\n      Suppression Bonus: §G+10%§!"
+ CHN_indefinite_undercover_ops_buff: "$FOCUS_REWARD_TOOLTIP$\n$infiltrator_company$:\n      Бонус до придушення: §G+10%§!"
 
 ### СКРИПТОВАНА ЛОКАЛІЗАЦІЯ ###
  CHN_scripted_loc_Jachs: "\n\n£CHN_Jachs_icon_text\n  [CHN_GetJachsRank] Якс\n                  - Губернатор Кантерлота\n\n$MODIFIER_COMPLIANCE_GAIN_ADD$: §G+0.05%§!\n$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: §G+50%§!"
@@ -3014,7 +3018,7 @@
  CHN_karthin_decision_req_tt:0 "Every §Y[WNG.GetAdjective]§!, §Y[FAL.GetAdjective]§!, §Y[FRN.GetAdjective]§!, §Y[JES.GetAdjective]§!, §Y[TAL.GetAdjective]§! and §Y[ARA.GetAdjective]§! core state must be under full [Root.GetAdjective] control or that of a [Root.GetAdjective] puppet."
  CHN_karthin_decision_state_ownership_tt: "Область стане частиною §YКарфінського протекторату§!.\n"
 
-### ЯКСОВА ШУХЛЯДКА ###
+### ЯКСОВА ШУХЛЯДА ###
  CHN_open_jachs_drawer:0 "The [CHN_GetJachsRank]'s Desk Drawer"
  CHN_open_jachs_drawer_desc:0 "[CHN_GetJachsRank] Jachs, Governor of Canterlot, works out of a spacious office in one of the many elegant towers of Canterlot Castle. In a locked drawer at his desk, he has stored a few pieces of memorabilia near and dear to him."
  CHN_open_jachs_drawer_effect_tt:0 "Opens the desk drawer of [CHN_GetJachsRank] Jachs."
