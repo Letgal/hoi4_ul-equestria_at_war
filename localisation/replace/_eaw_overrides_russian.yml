@@ -89,7 +89,7 @@
   MENU_BAR_IRONMAN_PLAIN: "Ironpony"
   TRIGGER_IS_IRONMAN: "Гра запущена в режимі Ironpony"
   TRIGGER_IS_NOT_IRONMAN: "Гра не запущена в режимі Ironpony"
-  NUCLEAR_PRODUCTION_ETA: "Наступна $NUKE_TYPE|H$ зроблена на $PROGRESS|1G%$ і буде готова десь через $DAYS|G$ дн. У запасі: $NUM_COMPLETED|H$\n\n$reactor_resource_shortage$"
+  NUCLEAR_PRODUCTION_ETA: "Наступна $NUKE_TYPE|H$ завершена на $PROGRESS|1G%$ і буде готова десь через $DAYS|G$ дн. У запасі: $NUM_COMPLETED|H$\n\n$reactor_resource_shortage$"
   NUCLEAR_PRODUCTION_NONE: "Наразі ми не виробляємо ядерні бомби.\n\n$reactor_resource_shortage$"
   ACHIEVEMENTS_VIEW_LOCKED: "§RДосягнення з базової гри не можна заробляти грою в £eaw_text£ Equestria at War!§!" # (&)
   CONFIRMCONSOLIDATEUNITSAREENCIRCLED: "§RОбрані війська оточені; Ви втратите все їхнє оснащення та $VALUE|%0$ їхніх поні-ресурсів!§!"
