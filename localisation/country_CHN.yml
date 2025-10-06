@@ -2609,7 +2609,7 @@
  CHN_settler_colony_instate_decision_compliance_req_tt: "Підпорядкування — більше або рівно §Y40%§!"
  CHN_settler_colony_instate_decision_remove_effect_tt: "Здобуває модифікатор §Y$CHN_settler_colony_modifier$§! в області §Y[From.GetName]§!, що даватиме:\n      $MODIFIER_LOCAL_NON_CORE_MANPOWER$: §G+10.00%§!\n      $MODIFIER_GLOBAL_MONTHLY_POPULATION$: §G+50.0%§!\n      $MODIFIER_RESISTANCE_TARGET$: §G-50%§!\n      $MODIFIER_RESISTANCE_DECAY$: §G+50%§!\n      $MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS$: §G-50.00%§!\n      $MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §G+50.00%§!\n      $MODIFIER_COMPLIANCE_GAIN_ADD$: §G+0.05%§!\n"
 
- CHN_chaos_in_the_everfree:0 "Chaos in the Everfree"
+ CHN_chaos_in_the_everfree: "Безладдя у Вічнодикому лісі"
  CHN_chaos_in_the_everfree_desc:0 "We conquered everything Equestria had to throw at us, but we have not conquered the land itself. The Everfree Forest, long a mystical bastion of amazing magical power, has now risen up against our war machine. Partisans flock to the forest where, under the leadership of the zebra Zecora, they make use of the magical growth of the forest to strike at us with devastating effectiveness. If we are to have any hope of defeating §RZecora§!, the §Rpartisans§!, and the §CEverfree§! itself, we must have an §Yeffective strategy§! that beats the forest down at every turn. The §Rcomplete and utter destruction§! of the forest's unique and exotic flora and fauna will be tragic to some, but not as tragic as §Ylosing our hold on central Equestria!§!"
  CHN_chaos_in_the_everfree_ticking_mission:0 "Taming the Forest"
  CHN_chaos_in_the_everfree_ticking_mission_desc:0 "The growth of the Everfree Forest is out of control. The magic of the forest, exacerbated by the zebra witch doctor Zecora, causes trees and vines to push forward at a ceaseless rate. Wherever the forest takes root, the partisans and monsters are sure to follow. We must occupy a perimetre around the forest and push back if we are to ever have any hope to contain it. If we don't, all of central Equestria could be quickly overrun by the forest!\n\n§YFor [?days_mission_timeout@CHN_chaos_in_the_everfree_ticking_mission] days:§!\n§WEvery day, the §Runfettered growth§! of the §CEverfree Forest§! will overrun a §Yneighbouring province§!.§!"
@@ -2620,7 +2620,7 @@
  CHN_operation_longrangerecon:0 "Operation Fernauf"
  CHN_operation_longrangerecon_desc:0 "Just like in war, an effective attack requires knowing where the enemy is, and then crushing them with superior firepower or outmanoeuvring them with great speed. We shall dispatch elite regiments of Fernspäher into the Everfree to seek out partisan strongholds and fight the ponies hiding in the forest on their own turf. The bravest of the brave will be selected for these missions, which are nearly guaranteed to be suicidal. Their sacrifice for the Hegemony will be remembered."
 
- CHN_resource_exploitation_cat:0 "Das KuKC Erforschung- und Extraktion Konzern"
+ CHN_resource_exploitation_cat: "Das KuKC Erforschung- und Extraktion Konzern"
  CHN_resource_exploitation_cat_desc:0 "Das Königin und Kaiserin Chrysalis Erforschung- und Extraktion Konzern, or the Queen and Empress Chrysalis Exploration and Extraction Corporation, is the quasi-governmental authority responsible for the administration and utilisation of natural resources within the borders of the Changeling Hegemony."
  CHN_resource_exploitation_decision:0 "Expropriate Resources in [From.GetName]"
  CHN_resource_exploitation_decision_state_req_tt:0 "[From.GetName] is owned and controlled by a changeling §Ypuppet state§!."
@@ -2728,7 +2728,7 @@
  CHN_event_20_intellectuals_arrested_country_flag_tt: "Віддано першість ув'язненню еквестрійських §Yнауковців та інтелектуалів§!."
  CHN_event_26_tech_buff_tt: "$FOCUS_REWARD_TOOLTIP$\n$STAT_GLOBAL_STATS$:\n      $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5.00%§!\n      $MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+10.00%§!\n      $MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: §G+10.00%§!"
  CHN_event_28_loyalty_affirmed_tt: "Ми мусимо зважати на політичний клімат..." # (&?)
- CHN_event_29_science_cooperation_tt:0 "Science is politics, as are all things, but an individual's morality is their own."
+ CHN_event_29_science_cooperation_tt: "Наука — це політика, як і всі речі; але мораль особи є її власна." # (&+)
  CHN_event_29_science_cooperation_country_flag_tt:0 "Laid the groundwork for §YChangeling-Equestrian scientific cooperation§!."
  CHN_event_31_overtures_to_friendship_tt: "Можливо, в цій ідеї «дружби» є щось гідне..."
  CHN_event_32_lets_be_kind_tt: "Як переможці, ми мусимо бути милостиві до переможених, котрі перебувають під нашим управлінням."
