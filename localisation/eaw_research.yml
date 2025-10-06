@@ -95,7 +95,7 @@
  HIP_ground_effect_vehicle_tech:0 "Primitive Scouting Ground Effect Vehicles"
  HIP_ground_effect_vehicle_effect: "$MODIFIER_SPOTTING_CHANCE$: §G+10%§!\n$MODIFIER_NIGHT_SPOTTING_CHANCE$: §G+10%§!"
  HIP_personal_grenade_launcher_tech:0 "M79 Grenade Launcher"
- HIP_personal_grenade_launcher_effect:0 "\n§H$category_all_infantry$§!\n      $STAT_ARMY_DEFENSE$§G+5%§!\n      $STAT_ARMY_BREAKTHROUGH$§G+5%§!"
+ HIP_personal_grenade_launcher_effect: "\n§H$category_all_infantry$§!\n      $STAT_ARMY_DEFENSE$§G+5%§!\n      $STAT_ARMY_BREAKTHROUGH$§G+5%§!"
  HIP_nuclear_naval_mines_tech:0 "Nuclear Naval Mines"
  HIP_nuclear_naval_mines_effect: "$MODIFIER_NAVAL_MINES_DAMAGE_FACTOR$: §G+20%§!"
  HIP_nuclear_torpedos_tech:0 "Nuclear Torpedos"
