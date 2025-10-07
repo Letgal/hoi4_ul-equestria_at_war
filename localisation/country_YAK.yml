@@ -1008,6 +1008,9 @@
  newyaks.111.d:0 "It had been a long day of meetings for Yona. She was on the way back to her quarters, when she heard the familiar voice of Prince Rutherford behind her.\n\n"Yona? Yak wants to talk." She turned around. The prince raised a hoof, inviting her to join him on a walk. "Yona is smart yak. School of Friendship has taught her well. Pink pony has shown yaks harmony for the first time, but when Yona returned, everything got easier. She now famous yak. Defeated Cozy Glow. Yaks like Yona yak, and Yona yak supports Prince yak. Best for Yakyakistan, even if Bradford rebelled."\n\n"Yak fights for friendship. Rutherford also fights for friendship, so yak helps Rutherford. Yak believes that all yaks can be friends."\n\nRutherford didn't answer immediately, and so they trotted in silence for a while. Suddenly, Rutherford let out a snort. With a sudden stomp, he said: "Not everything easy. Thyra makes problem, inciting unrest. Holds rallies to make yaks angry. That is not friendship, not like ponies have it. Yona yak has many friends, despite being very young yak. Can Yona yak sway other yaks against Thyra?"\n\n"Yak likes Rutherford, but Thyra yak has right to speak freely. True friendship means everyyak can say what they want. Yak can speak for harmony, but if yaks listen to Thyra, nothing yak can do."\n\nThe big yak nodded. "Every yak in Yakyakistan can speak free. Yak will think about Thyra, so yak can convince yaks to not listen to Thyra. But yak likes Yona yak, very young yak, but very smart yak too.""
  newyaks.111.a:0 "Yona nodded, then they bumped horns."
 
+ newyaks.112.t:0 "Snilldar Fest" # (!)
+ newyaks.112.d:0 "Today, all Yaks celebrate the sacred holiday of Snilldar Fest. It happens yearly at the same time as the Blue Moon Festival and Hearth's Warming for Griffons and Ponies, with the eve of Snilldar Fest marked by a whole day of gathering and smashing, from morning to evening.\n\nUsually the day of Snilldar Fest is traditionally reserved for family gatherings instead of more general social ones. Families gather to sing songs and share the day by smashing. Smashing trees, smashing furniture, or even building snow forts together... and then smashing them! Snilldar Fest also serves as an awaited opportunity for family rituals, with the end of the day being marked with the building of moss piles to symbolize a familial rite of passage awaited by young Yaks all year, such as the braiding of one's hair for the first time or receiving their first accessories, such as earrings or hats." # (!)
+ newyaks.112.a:0 "Yak song! Not very long! Sing again!" # (!)
 
  yak_news.1.t:0 "Еквестрія підтримує старі претензії Якякистану!"
  yak_news.1.d1:0 "[This.GetNewspaperHeader]Як'якистан отримав офіційну підтримку Еквестрії в поверненні своїх земель на сході, нехай поні і вкрай наполегливо закликають до мирного вирішення питання. [243.Owner.GetNameDefCap] зажадала компенсації за віддані землі, і хоча напруженість залишається високою, [YAK.GetLeader] не став доводити ситуацію до неминучої війни. Жителі Північного Еквуса сподіваються на перемогу дипломатичного рішення, але на кордоні неспокійно, оскільки там відбувається значна передислокація військ на випадок невдачі переговорів."
@@ -1983,6 +1986,8 @@
 
  YAK_treaty_of_northern_democracies_faction:0 "Договір північних демократій"
  yak_bird_alliance:0 "Альянс яків-котоптиць"
+
+ RULE_ALLOW_RELEASE_NATIONS_NOT_JAKICLAN_TOOLTIP: "Звільняти державу [JAK.GetName] не дозволено.\n"
 
  ################################### Empire Stuff #########################
 

@@ -140,16 +140,12 @@
  north_zebrican_war_desc:0 "Довгі роки в Північній Зебриці між Гіпогрифією та її різними сусідами зростала напруга. І ось ситуація знаходиться в кульмінації: наразі палає повноцінна війна. Хай що би трапилось у ході війни, її наслідки змінять політику регіону на довгі покоління."
 
 ### РІШЕННЯ ###
- northern_war_BAT_CTH:0 "Договір Тротґуре"
- northern_war_BAT_CTH_desc:0 ""
- northern_war_WNG:0 "Договір Фезерпорта"
- northern_war_WNG_desc:0 ""
- northern_war_TBK_CTH:0 "Договір Урсаграда"
- northern_war_TBK_CTH_desc:0 ""
- set_stance_partial_war:0 "Оголосити про позицію: §YВійна стримування§!"
- set_stance_partial_war_desc:0 ""
+ northern_war_peace_timer:0 "Договір Тротґуре"
+ northern_war_peace_timer_desc:0 ""
  set_stance_total_war:0 "Оголосити про позицію: §RТотальна війна§!"
  set_stance_total_war_desc:0 ""
+ set_stance_partial_war:0 "Оголосити про позицію: §YВійна стримування§!"
+ set_stance_partial_war_desc:0 ""
  WNG_join_the_war:0 "Експедиція в Північну Зебрику"
  WNG_join_the_war_desc:0 "Нам представилася чудова можливість. Гіпогрифія втянута у війну проти Кольтфагену та Хіроптерри — двома державами, які переважають її на полі бою, але не можуть нічого зробити з флотом Арісу. Якщо ми приєднаємося до зебр і фестралів, то зможемо застосувати свій флот, щоби перемогти на морі й отримати поступки від колишнього гіганта Північної Зебрики."
  BAT_CTH_encircle_HIP:0 "Оточити Аріс"
@@ -161,26 +157,48 @@
  HIP_spawn_militias:0 "Розгорнути ополчення останньої надії"
 
 ### ПІДКАЗКИ ###
- northern_zebrica_cancel_tp:0 "Будь-яка §Yтериторія§! в континентальній §YПівнічній Зебриці§! знаходиться під контролем §Rгіпогрифів§! або їхніх §Rсоюзників§!\n"
- northern_zebrica_cancel_2_tp:0 "Будь-яка §gвінґбардійська§! осердна §Yобласть§! знаходиться під контролем §Rгіпогрифів§! або їхніх §Rсоюзників§!\n"
- northern_total_war_tp:0 "§RВибір цього варіанту призведе до тотальної війни!§!\n\n"
- nzw_white_peace_tt:0 "Інша країна вже забрала §YЗумідію§! в §PГіпогрифії§!"
- nzw_white_peace_2_tt:0 "§PГіпогрифія§! не контролює жодну §Yосердну область§! будь-якого з агресорів у §Yвійні в Північній Зебриці§!"
- northern_zebrica_180_days_tp:0 "§RМи змінили свою позицію у відношенні до війни за останні 180 днів!§!\n"
- northern_total_war_2_tp:0 "§RГіпогрифи віришили боротися до кінця!§!\n\n"
- peace_1_tp:0 "Якщо §gГіпогрифія§! прийме це мирне рішення, §gХіроптерра§! захопить контроль над усією §gВарзеною§! та стане володарем §YЗірти§!, §Yостровів Тротс і Кантерс§!, тим часом як §gКольтфаген§! отримає контроль над §YАурезькими пагорбами§!, §YАнназою§! й §YАйн-Тротґуре§!.\n\n"
- peace_2_tp:0 "Якщо §gГіпогрифія§! прийме це мирне рішення, §gХіроптерра§! захопить контроль над усією §gВарзеною§! та стане володарем §YЗірти§!, §Yостровів Тротс і Кантерс§!, §YАурезьких пагорбів§!, §YАннази§! та §YАйн-Тротґуре§!.\n\n"
- peace_3_tp:0 "Якщо §gГіпогрифія§! прийме це мирне рішення, §gКольтфаген§! захопить контроль над усією §gЗумідією§!.\n\n"
- peace_4_tp:0 "Якщо §gГіпогрифія§! прийме це мирне рішення, §gХіроптерра§! захопить контроль над усією §gВарзеною§! та стане володарем §YЗірти§!, §Yостровів Тротс і Кантерс§!, §gКольтфаген§! отримає контроль над §YАурезькими пагорбами§!, §YАнназою§! й §YАйн-Тротґуре§!, §gВінґбардія§! захопить §YПернаті острови§!, §YТалонзароте§! та §YТерраріфе§!, а §gПосольське Місто Вінґґарден§! буде створено під сумісним контролем §gВінґбардії§!, §gХіроптерри§! та §gКольтфагену§!.\n\n"
- peace_5_tp:0 "Якщо §gГіпогрифія§! прийме цю пропозицію миру, §gВінґбардія§! захопить §YПернаті острови§!, §YТалонзароте§! та §YТерраріфе§!.\n\n"
- TBK_alesia_peace_1_tp:0 "Якщо §gГіпогрифія§! прийме цю пропозицію миру, §CНова Сєвєряна§! захопить контроль над усією §gВарзеною§!, стане володарем §YЗірти§! й §Yостровів Тротс і Кантерс§!, тим часом як §gКольтфаген§! отримає контроль над §YАурезькими пагорбами§!, §YАнназою§! й §YАйн-Тротґуре§!.\n\n"
- TBK_alesia_peace_2_tp:0 "Якщо §gГіпогрифія§! прийме цю пропозицію миру, §gХіроптерра§! захопить контроль над усією §gВарзеною§! та стане володарем §YЗірти§!, §Yостровів Тротс і Кантерс§!, §YАурезьких пагорбів§!, §YАннази§! й §YАйн-Тротґуре§!.\n\n"
- switch_to_winggarden_tp:0 "§RЦей варіант дозволить Вам грати за Посольське Місто Вінґґарден§!\n\n"
- HIP_militias_tooltip:0 "Буде сформовано §g14 ненавчених дивізій§! §Yпіхоти з шириною фронту 12 одиниць§! по всьому Арісу."
+ northern_zebrica_cancel_tp:0 "No §Ystate§! on mainland §YNorthern Zebrica§! is under the control of the §RHippogriffs§! or their §Rallies§!\n" # (!)
+ northern_zebrica_cancel_tp_NOT:0 "Any §Ystate§! on mainland §YNorthern Zebrica§! is under the control of the §RHippogriffs§! or their §Rallies§!\n" # (!)
+ northern_zebrica_cancel_2_tp:0 "Any §gWingbardian§! core §Ystate§! is under the control of the §RHippogriffs§! or their §Rallies§!\n" # (!)
+ northern_total_war_tp:0 "§RPicking this option will result in a total war!§!\n\n" # (!)
+ nzw_white_peace_tt:0 "Another country has already taken §YZumidia§! from §PHippogriffia§!" # (!)
+ nzw_white_peace_2_tt:0 "§PHippogriffia§! controls no §Ycore states§! of any §YNorth Zebrican War§! attacker." # (!)
+ northern_zebrica_180_days_tp:0 "§RChanged our stance towards the war in the last 180 days!§!\n" # (!)
+ northern_total_war_2_tp:0 "§RThe Hippogriffs have chosen to fight until the bitter end!§!\n\n" # (!)
+ peace_split_and_with_wingbardy_and_winggarten_tp:0 "Should §gHippogriffia§! accept this peace offer §g[NZ2.GetName]§! shall seize control of all of §gWarzena§! and receive ownership of §YZirta§! and the §YTrots and Canters§!, §g[NZ1.GetName]§! shall be granted ownership of the §YAurez Hills§!, §YAnnaza§! and §YAin Trotgourait§!, §gWingbardy§! shall seize the §YFeathered Isles§!, §YTalonzarote§! and §YTerrarife§!, and the §gLegation City of Winggarden§! shall be established under the joint control of §gWingbardy§!, §gChiropterra§! and §gColthage§!.\n\n" # (!)
+ peace_split_and_with_wingbardy_tp:0 "Should §gHippogriffia§! accept this peace offer §g[NZ2.GetName]§! shall seize control of all of §gWarzena§! and receive ownership of §YZirta§! and the §YTrots and Canters§!, §g[NZ1.GetName]§! shall be granted ownership of the §YAurez Hills§!, §YAnnaza§! and §YAin Trotgourait§!, and §gWingbardy§! shall seize the §YFeathered Isles§!, §YTalonzarote§! and §YTerrarife§!.\n\n" # (!)
+ peace_split_tp:0 "Should §gHippogriffia§! accept this peace offer §g[NZ2.GetName]§! shall seize control of all of §gWarzena§! and receive ownership of §YZirta§! and the §YTrots and Canters§!, meanwhile §g[NZ1.GetName]§! shall be granted ownership of the §YAurez Hills§!, §YAnnaza§! and §YAin Trotgourait§!.\n\n" # (!)
+ peace_north:0 "Should §gHippogriffia§! accept this peace offer §g[NZ1.GetName]§! shall seize control of all of §gZumidia§!.\n\n" # (!)
+ peace_north_and_with_wingbardy:0 "Should §gHippogriffia§! accept this peace offer §g[NZ1.GetName]§! shall seize control of all of §gZumidia§!, and §gWingbardy§! shall seize the §YFeathered Isles§!, §YTalonzarote§! and §YTerrarife§!.\n\n" # (!)
+ peace_south:0 "Should §gHippogriffia§! accept this peace offer §g[NZ2.GetName]§! shall seize control of all of §gWarzena§! and receive ownership of §YZirta§!, the §YAurez Hills§!, §YAnnaza§!, §YAin Trotgourait§! and the §YTrots and Canters§!.\n\n" # (!)
+ peace_south_and_with_wingbardy:0 "Should §gHippogriffia§! accept this peace offer §g[NZ2.GetName]§! shall seize control of all of §gWarzena§! and receive ownership of §YZirta§!, the §YAurez Hills§!, §YAnnaza§!, §YAin Trotgourait§! and the §YTrots and Canters§!, and §gWingbardy§! shall seize the §YFeathered Isles§!, §YTalonzarote§! and §YTerrarife§!.\n\n" # (!)
+ switch_to_winggarden_tp:0 "§RPicking this event option will make you play as the Legation City of Winggarden§!\n\n" # (!)
+ HIP_militias_tooltip:0 "Will spawn §g14 green divisions§! of §Y12 width infantry§! across Aris" # (!)
+ NZW_error_tp: "Error (please report bug)"
+
+ NZW_starts_the_NZW:0 "This starts the §YNorth Zebrican War§!." # (!)
+ NZW_alliance_effect_tooltip_NZ1:0 "We will be given the option to §Gally§! with the other dominant power in North Zebrica, §Y[NZ1.GetName]§!." # (!)
+ NZW_alliance_effect_tooltip_NZ2:0 "We will be given the option to §Gally§! with the other dominant power in North Zebrica, §Y[NZ2.GetName]§!." # (!)
+ NZW_alliance_blocked_tooltip_NZ1:0 "We will §RNOT§! be able to ally with §Y[NZ1.GetName]§! for the §YNorth Zebrican War§!, either due to them not being ready or not interested." # (!)
+ NZW_alliance_blocked_tooltip_NZ2:0 "We will §RNOT§! be able to ally with §Y[NZ2.GetName]§! for the §YNorth Zebrican War§!, either due to them not being ready or not interested." # (!)
+ NZW_is_northern_party_ready_tooltip:0 "[NZ1.GetName] is §Gready§! for the §YNorth Zebrican War§!, meaning that they control §YColthage§!, §YColtva§!, §YColtdar§! and §YZumidia§! as long as the respective regions are not occupied by or allied with the Hippogriffs" # (!)
+ NZW_is_northern_party_ready_tooltip_NOT:0 "[NZ1.GetName] is NOT §Gready§! for the §YNorth Zebrican War§!, meaning that they control §YColthage§!, §YColtva§!, §YColtdar§! and §YZumidia§! as long as the respective regions are not occupied by or allied with the Hippogriffs" # (!)
+ NZW_is_southern_party_ready_tooltip:0 "[NZ2.GetName] is §Gready§! for the §YNorth Zebrican War§!, meaning that they control §YChiropterra§!, §YTobuck§!, §YZarantia§! and §YWarzena§! as long as the respective regions are not occupied by or allied with the Hippogriffs" # (!)
+ NZW_is_southern_party_ready_tooltip_NOT:0 "[NZ2.GetName] is NOT §Gready§! for the §YNorth Zebrican War§!, meaning that they control §YChiropterra§!, §YTobuck§!, §YZarantia§! and §YWarzena§! as long as the respective regions are not occupied by or allied with the Hippogriffs" # (!)
+ NZW_on_select:0 "\n§gUpon selecting this focus:§!" # (!)
+ NZW_wants_to_fight_HIP:0 "Is §Rhostile§! towards §Y[HIP.GetName]§!" # (!)
+ NZW_wants_to_fight_HIP_NOT:0 "Is NOT §Rhostile§! towards §Y[HIP.GetName]§!" # (!)
+ NZW_no_alliance:0 "Not interested in an alliance" # (!)
+ NZW_alliance_effect_done:0 "Already tried to form an alliance" # (!)
+ NZW_ended:0 "The §YNorth Zebrican War§! has ended." # (!)
+ NZW_in_progress:0 "The §YNorth Zebrican War§! is currently ongoing." # (!)
+ NZW_alliance_signed:0 "The §Y$NZW_anti_aris_axis$§! was formed." # (!)
+ NZW_is_unaligned_tt:0 "Is not allied with or occupied by either §Y[HIP.GetName]§!, §Y[NZ1.GetName]§! or §Y[NZ2.GetName]§!" # (!)
+ NZW_is_unaligned_tt_not:0 "Is allied with or occupied by either §Y[HIP.GetName]§!, §Y[NZ1.GetName]§! or §Y[NZ2.GetName]§!" # (!)
 
 ### «ПРАПОРЦІ» ###
- north_zebrican_war_participant:0 "Учасник війни в Північній Зебриці"
- partial_war:0 "Війна стримування"
- total_war:0 "Тотальна війна"
+ NZW_war_participant:0 "Учасник війни в Північній Зебриці"
+ NZW_war_status_partial:0 "Війна стримування"
+ NZW_war_status_total:0 "Тотальна війна"
  recently_changed_stance:0 "Нещодавно змінено позицію у їхньому відношенні до війни"
- permenant_total_war:0 "Назад шляху нема"
+ NZW_war_status_partial_blocked:0 "Назад шляху нема"

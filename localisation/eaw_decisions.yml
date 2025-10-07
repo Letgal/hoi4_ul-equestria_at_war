@@ -299,15 +299,12 @@ generic_core_country_original_cores_desc: "$generic_core_country_desc$"
  recruit_yak_operative: "Завербувати агента-яка"
  recruit_yeti_operative: "Завербувати агента-єті"
  recruit_zebra_operative: "Завербувати агента-казинця"
- recruit_zebridean_operative: "Завербувати агента-зебридця"
- recruit_zongolese_operative: "Завербувати агента-зебру з Південної Зебрики"
+ recruit_zebridean_operative: "Завербувати агента-зебру зі Східної Зебрики"
 
 HIN_sell_off_family_jewels: "Продати родинні коштовності"
 HIN_sell_off_family_jewels_desc: ""
-SDL_attack_EMR_cat: "Возз'єднання Сідлової Арабії"
-placeholder_SDL_vs_EMR_decision: "Атакувати державу [EMR.GetNameDef]"
-placeholder_KAR_war_decision: "Атакувати державу [FROM.GetNameDef]"
 KAR_attack_west_cat: "Експансія на захід"
+placeholder_KAR_war_decision: "Атакувати державу [FROM.GetNameDef]"
 
 ### ВАРТІСТЬ РІШЕНЬ ###
  decision_cost_CP_30: "£command_power£ §Y30§!"

@@ -1,0 +1,150 @@
+﻿# == (*) ==
+### НАЗВИ КРАЇН ###
+ SDL: "Арабія"
+ SDL_DEF: "Арабія"
+ SDL_ADJ: "Арабійськ"
+ SDL_fascism: "Арабійська національна держава"
+ SDL_fascism_DEF: "Арабійська національна держава"
+ SDL_fascism_ADJ: "Арабійськ"
+ SDL_democratic: "Арабійська республіка"
+ SDL_democratic_DEF: "Арабійська республіка"
+ SDL_democratic_ADJ: "Арабійськ"
+ SDL_neutrality: "Сідлова Арабія"
+ SDL_neutrality_DEF: "Сідлова Арабія"
+ SDL_neutrality_ADJ: "Арабійськ"
+ SDL_communism: "Соціалістична республіка Арабія"
+ SDL_communism_DEF: "Соціалістична республіка Арабія"
+ SDL_communism_ADJ: "Арабійськ"
+
+ SDC: "Арабія"
+ SDC_DEF: "Арабія"
+ SDC_ADJ: "Арабійськ"
+ SDC_fascism: "Арабійська національна держава"
+ SDC_fascism_DEF: "Арабійська національна держава"
+ SDC_fascism_ADJ: "Арабійськ"
+ SDC_democratic: "Арабійська республіка"
+ SDC_democratic_DEF: "Арабійська республіка"
+ SDC_democratic_ADJ: "Арабійськ"
+ SDC_neutrality: "Сідлова Арабія"
+ SDC_neutrality_DEF: "Сідлова Арабія"
+ SDC_neutrality_ADJ: "Арабійськ"
+ SDC_communism: "Соціалістична республіка Арабія"
+ SDC_communism_DEF: "Соціалістична республіка Арабія"
+ SDC_communism_ADJ: "Арабійськ"
+
+ SDF: "Арабія"
+ SDF_DEF: "Арабія"
+ SDF_ADJ: "Арабійськ"
+ SDF_fascism: "Арабійська національна держава"
+ SDF_fascism_DEF: "Арабійська національна держава"
+ SDF_fascism_ADJ: "Арабійськ"
+ SDF_democratic: "Арабійська республіка"
+ SDF_democratic_DEF: "Арабійська республіка"
+ SDF_democratic_ADJ: "Арабійськ"
+ SDF_neutrality: "Сідлова Арабія"
+ SDF_neutrality_DEF: "Сідлова Арабія"
+ SDF_neutrality_ADJ: "Арабійськ"
+ SDF_communism: "Соціалістична республіка Арабія"
+ SDF_communism_DEF: "Соціалістична республіка Арабія"
+ SDF_communism_ADJ: "Арабійськ"
+
+ SDS: "Арабія"
+ SDS_DEF: "Арабія"
+ SDS_ADJ: "Арабійськ"
+ SDS_fascism: "Арабійська національна держава"
+ SDS_fascism_DEF: "Арабійська національна держава"
+ SDS_fascism_ADJ: "Арабійськ"
+ SDS_democratic: "Арабійська республіка"
+ SDS_democratic_DEF: "Арабійська республіка"
+ SDS_democratic_ADJ: "Арабійськ"
+ SDS_neutrality: "Сідлова Арабія"
+ SDS_neutrality_DEF: "Сідлова Арабія"
+ SDS_neutrality_ADJ: "Арабійськ"
+ SDS_communism: "Соціалістична республіка Арабія"
+ SDS_communism_DEF: "Соціалістична республіка Арабія"
+ SDS_communism_ADJ: "Арабійськ"
+
+### ПАРТІЇ ###
+ # (&) :: переписати та локалізувати
+ SDL_neutrality_party:0 "Аль-Малакійн"
+ SDL_communism_party:0 "ГАЕ"
+ SDL_communism_party_long:0 "Гаракат Аіштіракіатан Еарабія"
+ SDL_democratic_party:0 "ХІ"
+ SDL_democratic_party_long:0 "Хізб аль-Іслаг"
+ SDL_fascism_party:0 "ХТВЕ"
+ SDL_fascism_party_long:0 "Хізб аль-Такадум аль-Ватанійй аль-Еарабійй"
+
+ SDS_neutrality_party: "$SDL_neutrality_party$"
+ SDS_communism_party: "$SDL_communism_party$"
+ SDS_communism_party_long: "$SDL_communism_party_long$"
+ SDS_democratic_party: "$SDL_democratic_party$"
+ SDS_democratic_party_long: "$SDL_democratic_party_long$"
+ SDS_fascism_party: "$SDL_fascism_party$"
+ SDS_fascism_party_long: "$SDL_fascism_party_long$"
+
+ SDC_neutrality_party: "$SDL_neutrality_party$"
+ SDC_communism_party: "$SDL_communism_party$"
+ SDC_communism_party_long: "$SDL_communism_party_long$"
+ SDC_democratic_party: "$SDL_democratic_party$"
+ SDC_democratic_party_long: "$SDL_democratic_party_long$"
+ SDC_fascism_party: "$SDL_fascism_party$"
+ SDC_fascism_party_long: "$SDL_fascism_party_long$"
+
+ SDF_neutrality_party: "$SDL_neutrality_party$"
+ SDF_communism_party: "$SDL_communism_party$"
+ SDF_communism_party_long: "$SDL_communism_party_long$"
+ SDF_democratic_party: "$SDL_democratic_party$"
+ SDF_democratic_party_long: "$SDL_democratic_party_long$"
+ SDF_fascism_party: "$SDL_fascism_party$"
+ SDF_fascism_party_long: "$SDL_fascism_party_long$"
+
+### ЛІДЕРИ ###
+ SDC_grand_prince_faisal_ibn_saddle: "Великий принц Фейсал ібн Сідл"
+ SDC_muhaimid_bin_hamza: "Мухаїмід бін Гамза"
+ SDC_zahra_al_malik: "Захра ель-Малік"
+ SDC_yazid_al_hudhail: "Єзід ель-Худгайль"
+
+ SDF_grand_prince_faisal_ibn_saddle: "Великий принц Фейсал ібн Сідл"
+ SDF_muhaimid_bin_hamza: "Мухаїмід бін Гамза"
+ SDF_zahra_al_malik: "Захра ель-Малік"
+ SDF_yazid_al_hudhail: "Єзід ель-Худгайль"
+
+ SDL_grand_prince_faisal_ibn_saddle: "Великий принц Фейсал ібн Сідл"
+ SDL_muhaimid_bin_hamza: "Мухаїмід бін Гамза"
+ SDL_zahra_al_malik: "Захра ель-Малік"
+ SDL_yazid_al_hudhail: "Єзід ель-Худгайль"
+
+ SDS_grand_prince_faisal_ibn_saddle: "Великий принц Фейсал ібн Сідл"
+ SDS_muhaimid_bin_hamza: "Мухаїмід бін Гамза"
+ SDS_zahra_al_malik: "Захра ель-Малік"
+ SDS_yazid_al_hudhail: "Єзід ель-Худгайль"
+
+### НОВИННІ ПОДІЇ ###
+ zebrica_news.1.t:0 "Royalists Win the Saddle Arabian Civil War" # (!)
+ zebrica_news.1.d:0 "[This.GetNewspaperHeader]The Saddle Arabian Civil War has concluded, and the monarchy stands triumphant. [SDL.GetLeader] gave a speech in the capital praising the hard work of the loyal officers and the people, and a swift return to the old status quo.\n\nAs the newly reborn Arabia gazes outward, its neighbors in the League of Four Emirs are already preparing for the worst." # (!)
+ zebrica_news.1.a:0 "For the Prince!" # (!)
+ zebrica_news.1.b:0 "The old order endures." # (!)
+
+ zebrica_news.2.t:0 "Democrats Win the Saddle Arabian Civil War" # (!)
+ zebrica_news.2.d:0 "[This.GetNewspaperHeader]The Saddle Arabian Civil War has concluded, and the Republic has prevailed. [SDS.GetLeader] spoke of the need for the citizens of the young democracy to be invested in its political scene, and of the coming liberation of those still under monarchist tyranny.\n\nAs the newly reborn Arabia gazes outward, its neighbors in the League of Four Emirs are already preparing for the worst." # (!)
+ zebrica_news.2.a:0 "For liberty!" # (!)
+ zebrica_news.2.b:0 "Freedom in the west." # (!)
+
+ zebrica_news.3.t:0 "Socialists Win the Saddle Arabian Civil War" # (!)
+ zebrica_news.3.d:0 "[This.GetNewspaperHeader]The Saddle Arabian Civil War has concluded, and the Socialist Republic has emerged victorious. [SDC.GetLeader] appealed to the cause of international communism, and of the proletariat's looming final showdown with capitalism.\n\nAs the newly reborn Arabia gazes outward, its neighbors in the League of Four Emirs are already preparing for the worst." # (!)
+ zebrica_news.3.a:0 "Workers of the world, unite!" # (!)
+ zebrica_news.3.b:0 "A red desert." # (!)
+
+ zebrica_news.4.t:0 "Nationalists Win the Saddle Arabian Civil War" # (!)
+ zebrica_news.4.d:0 "[This.GetNewspaperHeader]The Saddle Arabian Civil War has concluded, and the National State has destroyed all rivals. [SDF.GetLeader] slammed the other factions for having "torn our country's fabric asunder", and reiterated his firm belief that only a strong national bond could ensure the survival of the Arabian people.\n\nAs the newly reborn Arabia gazes outward, its neighbors in the League of Four Emirs are already preparing for the worst." # (!)
+ zebrica_news.4.a:0 "Nothing can stop us now!" # (!)
+ zebrica_news.4.b:0 "Nationality above all." # (!)
+
+### ПІДКАЗКИ ###
+ arabia_access_blocked: "[869.controller.GetNameDefCap] §Rзаборонить нам прохід§! крізь §YАрабійську протоку§!, якщо тільки ми не втримуємо область на березі §YАрабійського моря§!!"
+ arabia_access_granted: "[869.controller.GetNameDefCap] §Gдозволить нам прохід§! крізь §YАрабійську протоку§!, допоки ми втримуємо область на березі §YАрабійського моря§!!"
+
+### РІШЕННЯ ###
+ SDL_attack_EMR_cat: "Возз'єднання Сідлової Арабії"
+ placeholder_SDL_vs_EMR_decision: "Атакувати державу [EMR.GetNameDef]"
+ placeholder_SDL_unite_arabia_decision: "Об'єднати Арабію"

@@ -473,7 +473,7 @@
  VICTORY_POINTS_16991: "Нзвімбо-Якафара" # (&)
  VICTORY_POINTS_16588: "Ціме" # (&)
  VICTORY_POINTS_16960: "Мокадзані" # (&)
- VICTORY_POINTS_17069: "Аркстурі"
+ VICTORY_POINTS_17069: "Аркстурі" # (&)
  VICTORY_POINTS_17031: "Аурелісс" # (&)
  VICTORY_POINTS_17060: "Поліста" # (&)
  VICTORY_POINTS_17070: "Леракста" # (&)
@@ -483,6 +483,7 @@
  VICTORY_POINTS_17109: "Талісса" # (&)
  VICTORY_POINTS_17170: "Цімейн"
  VICTORY_POINTS_18517: "Урсаград"
+ VICTORY_POINTS_18546: "Старспайр"
  VICTORY_POINTS_18595: "Заммар"
  VICTORY_POINTS_18618: "Айн-Улмейн"
  VICTORY_POINTS_18454: "Кешайм"
@@ -739,6 +740,8 @@
  VICTORY_POINTS_8825: "Тандрокинибе" # (&?) Малаґасійська: перевірити фонетику
  VICTORY_POINTS_2905: "Мпітаріканидіми" # (&?) Малаґасійська: перевірити фонетику
  VICTORY_POINTS_16334: "Зовандо"
+ VICTORY_POINTS_16284: "Кананґа" # (&)
+ VICTORY_POINTS_1713: "Рутшуру" # (&)
  VICTORY_POINTS_3329: "Лошадськ"
  VICTORY_POINTS_11546: "Копитобойськ"
  VICTORY_POINTS_15338: "Зандома"
