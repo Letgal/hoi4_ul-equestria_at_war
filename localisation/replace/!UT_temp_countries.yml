@@ -1396,31 +1396,30 @@
 
  ### ПЕРСОНАЖІ ###
   # Лідери
-  FRE_crimson_cridhe_an_dragon_nic_heart: "Кримзон «Драконяче Серце» нік Гарт"
+  FRE_crimson_cridhe_an_dragon_nic_heart: "Кримзон нік Гарт"
   FRE_council_of_the_free: "Рада вільних"
   FRE_council_of_the_warriors: "Рада воїнів"
-  FRE_foam_mac_blossom: "Фоам мак Блоссом"
+  FRE_foam_mac_blossom: "Фоам уа Блоссом"
 
   # Генерали
-  FRE_raven_cridhe_teine_nic_call: "Рейвен «Вогняне Серце» нік Калл"
   FRE_lelei_la_lalena: "Лелей Ла Лалена"
 
   # Радники
   FRE_civ_industry_advisor: "Бітті Будівельник"
   FRE_mil_industry_advisor: "Мунстіл"
-  FRE_ideological_crusader_advisor: "Санні «Переговірниця» нік Віллоу"
-  FRE_silent_workhorse_advisor: "Татко «Старий Фермер» мак Корн"
-  FRE_smooth_talking_charmer_advisor: "Роуз «Жінка-На-Час» нік Лав"
-  FRE_military_theorist_advisor: "Болд «Волохатий» мак Айрон"
-  FRE_air_war_advisor: "Блу «Меткий» мак Віндзор"
-  FRE_entrenchment_adv: "Ред «Великий» мак Еппл"
-  FRE_navy_screen_adv: "Уотер «Бульбашка» нік Гарт"
-  FRE_chief_defensive: "Кристал «Серце» нік Шілд"
-  FRE_chief_morale: "Пренсі «Реготун» мак Сонґ"
-  FRE_air_reform: "Лайт «Клостар» мак Вінґ" # (&) :: псевдонім
+  FRE_ideological_crusader_advisor: "Санні нік Віллоу"
+  FRE_silent_workhorse_advisor: "Татко уа Корн"
+  FRE_smooth_talking_charmer_advisor: "Роуз нік Лав"
+  FRE_military_theorist_advisor: "Болд уа Айрон"
+  FRE_air_war_advisor: "Блу уа Віндзор"
+  FRE_entrenchment_adv: "Ред «Великий» уа Еппл"
+  FRE_navy_screen_adv: "Уотер нік Гарт"
+  FRE_chief_defensive: "Кристал нік Шілд"
+  FRE_chief_morale: "Пренсі уа Сонґ"
+  FRE_air_reform: "Лайт уа Вінґ"
   FRE_air_ground: "Флаттер «Соромливий» нік Сторм"
-  FRE_navy_decisive_chief: "Стронґ «Восьмивесловий» мак Ор"
-  FRE_fleet_logistics_chief: "Блу «Малий» мак Гувз"
+  FRE_navy_decisive_chief: "Стронґ уа Ор"
+  FRE_fleet_logistics_chief: "Блу уа Гувз"
 
  ### ІДЕЇ ###
   FRE_isolated_tribes: "Ізольовані племена"
