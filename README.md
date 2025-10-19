@@ -70,7 +70,7 @@
 + `country_NIM` (переклав [*pani_justyna1733*](https://steamcommunity.com/profiles/76561199241366335))
 + `country_NLR` (переклав *Green Kitten*)
 + `country_NMS` (переклав *Green Kitten*)
-+ ~~`country_north_zebrican_war`~~ (переклав *All-Ampirian*)
++ ~~`country_north_zebrican_war`~~ (старішу частину переклав *All-Ampirian*)
 + `country_NTR`
 + `country_OLE` (переклав *Max*)
 + `country_OLV` (переклав *Bovcun*) — `(&)`
@@ -85,14 +85,14 @@
 + `country_STL` (переклав *Max*)
 + `country_Storm` (переклав *Daybreaker*)
 + `country_STW` (переклав *StasJesus*) — `(&)`
-+ `country_TAL` (переклав *Sanyok*)
++ `country_TAL` (переклав [*DAACENT*](https://steamcommunity.com/id/DAACENTSASHA))
 + `country_VAN` (переклав *Green Kitten*)
-+ `country_VED` (переклав *107*)
++ `country_VED` (переклав *107* — нині вирізано)
 + `country_VIN`
 + `country_WAR` (переклав *StasJesus*)
 + `country_WAT`
 + `country_WIT` (переклав *pani_justyna1733*)
-+ `country_WNG` (переклав *Sanyok*)
++ `country_WNG` (переклав *DAACENT*)
 + `country_YAK`:
 	+ стару версію переклав *pani_justyna1733*
 	+ нову версію переклав *Green Kitten* — `(&)`
