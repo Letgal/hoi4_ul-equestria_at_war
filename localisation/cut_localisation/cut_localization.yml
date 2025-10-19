@@ -1,62 +1,5 @@
 ﻿Тут розміщено вирізану локалізацію, яку або було шкода видаляти повністю, або яка з тієї чи іншої причини неправильно відображається, разом із супутнім текстом.
 
-# country_ARA
- ARA_sparleos_fascism: "Королівство Спарлеос"
- ARA_sparleos_fascism_DEF: "Королівство Спарлеос"
- ARA_sparleos_fascism_ADJ: "Спарлейськ"
- ARA_sparleos_democratic: "Королівство Спарлеос"
- ARA_sparleos_democratic_DEF: "Королівство Спарлеос"
- ARA_sparleos_democratic_ADJ: "Спарлейськ"
- ARA_sparleos_neutrality: "Королівство Спарлеос"
- ARA_sparleos_neutrality_DEF: "Королівство Спарлеос"
- ARA_sparleos_neutrality_ADJ: "Спарлейськ"
- ARA_sparleos_communism: "Спарлейська народна республіка"
- ARA_sparleos_communism_DEF: "Спарлейська народна республіка"
- ARA_sparleos_communism_ADJ: "Спарлейськ"
-
- ### ПЕРСОНАЖІ ###
-  # Лідери
-  ARA_margareth_featherin: "Марґарет Фезерін"
-  ARA_dorotheos_featherin: "Доротеос Фезерін"
-  ARA_arantigos_ii: "Арантіґос II"
-  ARA_antioco_moro: "Антіоко Моро"
-  ARA_ciriaco_mediate: "Чіріако Медіате"
-
-  # Генерали
-  ARA_soter: "Сотер"
-  ARA_cassander: "Кассандр"
-  ARA_lysimachus: "Лісімах"
-  ARA_nicator: "Нікатор"
-  ARA_worek_artork: "Ши Девр" # Worek Artork
-
-  # Радники
-  ARA_enrico_presbitero: "Енріко Пресбітеро"
-  ARA_ettore_mambretti: "Етторе Мамбретті"
-  ARA_fiorenzo_porro: "Фйоренцо Порро"
-  ARA_costanzo_cadorna: "Костанцо Кадорна"
-  ARA_giovanna_saletta: "Джованна Салетта"
-  ARA_massimo_fara: "Массімо Фара"
-  ARA_girolamo_filomarino: "Джіроламо Філомаріно"
-  ARA_gaetano_zupelli: "Ґаетано Цупеллі"
-  ARA_mario_orengo: "Маріо Оренґо"
-  ARA_griffberto_di_gavoia: "Ґріффберто ді Ґавоя"
-  ARA_giuseppe_emo: "Джузеппе Емо"
-  ARA_vincenzo_govone: "Вінченцо Ґовоне"
-  ARA_tancredi_badoglio: "Танкреді Бадольйо"
-  ARA_maria_menabrea: "Марія Менабреа"
-  ARA_guglielmo_canevaro: "Ґульєльмо Каневаро"
-  ARA_girolamo_ramorino: "Джіроламо Раморіно"
-  ARA_tancredi_dezza: "Танкреді Децца"
-  ARA_stella_solari: "Стелла Соларі"
-  ARA_mario_sanna: "Маріо Санна"
-  ARA_glessandro_pallavicino: "Ґлессандро Паллавічіно"
-
- ARA_vp_sparleos: "Спарлеос"
- ARA_vp_pontelena: "Понтелена"
- ARA_vp_halbuviros: "Галбувірос"
-
- arantigos_reborn: "Відроджений Арантіґос"
-
 # country_AVI
  FLO_AVI_fascism: "Ерцгерцогство Фловена"
  FLO_AVI_fascism_DEF: "Ерцгерцогство Великої Фловени"
@@ -151,29 +94,6 @@
   VIN_duke_trubach: "Герцог Трубах"
 
 # country_BAN
- BAN_QUEEN_fascism: "Бандитське королевство Блекрок"
- BAN_QUEEN_fascism_DEF: "Бандитське королевство Блекголлоу"
- BAN_QUEEN_fascism_ADJ: "Блекроцьк"
- BAN_QUEEN_democratic: "Королевство Блекголлоу"
- BAN_QUEEN_democratic_DEF: "Королевство Блекголлоу"
- BAN_QUEEN_democratic_ADJ: "Блекголлоуськ"
- BAN_QUEEN_neutrality: "Королевство Блекголлоу"
- BAN_QUEEN_neutrality_DEF: "Королевство Блекголлоу"
- BAN_QUEEN_neutrality_ADJ: "Блекголлоуськ"
-
- BAN_BOI_fascism: "Бандитське королевство Блекрок"
- BAN_BOI_fascism_DEF: "Бандитське королевство Блекголлоу"
- BAN_BOI_fascism_ADJ: "Блекроцьк"
- BAN_BOI_democratic: "Королевство Грифонстоун"
- BAN_BOI_democratic_DEF: "Королевство Грифонстоун"
- BAN_BOI_democratic_ADJ: "Грифонстоунськ"
- BAN_BOI_neutrality: "Королевство Грифонстоун"
- BAN_BOI_neutrality_DEF: "Королевство Грифонстоун"
- BAN_BOI_neutrality_ADJ: "Грифонстоунськ"
- BAN_BOI_communism: "Наш Грифонстоун"
- BAN_BOI_communism_DEF: "Наш Грифонстоун"
- BAN_BOI_communism_ADJ: "Грифонстоунськ"
-
  ### ПЕРСОНАЖІ ###
   # Лідери
   BAN_cyrille_bluecrest: "Цирілла Блукрест"
@@ -239,18 +159,6 @@
   BRF_refinery: "PetroBrod"
   BRF_arty_manufacturer: "Королівський арсенал"
   BRF_medium_tank_manufacturer: "Atelierele Leonida"
-
- BRF_nonaligned: "Бродфельдська відлига"
- BRF_democ_welcome_democrats: "Помилувати демократів"
- BRF_open_borders: "Відкрити кордони"
-
- BRF_rename_redgladin: "Перейменувати Редґледин у Ківессин"
-
- BRF_anti_communist_war: "Розпочати священний похід проти держави [From.GetNameDef]"
- BRF_anti_communist_war_desc: ""
-
- BRF_Main: "Дерево фокусів Бродфельду"
- BRF_Mason_Tree: "Дерево фокусів масонів"
 
 # country_CHN
  CHN_acornage_colony_tt: "§C$CHN_acornage_colonisation_modifier_updated$§!\n\n$MODIFIER_LOCAL_FACTORIES$: §G+50%§!\n$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: §G+50%§!\n$MODIFIER_RESISTANCE_DECAY$: §G+50%§!\n$MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §G+50.00%§!\n$MODIFIER_GLOBAL_MONTHLY_POPULATION$: §G+75.00%§!\n$MODIFIER_LOCAL_NON_CORE_MANPOWER$: §G+75.00%§!"
@@ -1041,8 +949,6 @@
   GRW_gheara_ciocescu: "Ґяра Чоческу"
   GRW_pirate_yellow_beak: "Пірат Єллоу Бік"
 
- GRW_redgladin_state: "Редґледин"
-
 # country_JES
  ### ПАРТІЇ ###
   JES_neutrality_party: "Династія Діскрет"
@@ -1063,71 +969,6 @@
   JES_cavalry_commander: "Моніка Левавассьор" # EU
 
 # country_KAT
- KAT_herzland_religious_socialism_fascism: "Королівство Герцланд"
- KAT_herzland_religious_socialism_fascism_DEF: "Королівство Герцланд"
- KAT_herzland_religious_socialism_fascism_ADJ: "Герцландськ"
- KAT_herzland_religious_socialism_democratic: "Республіка Герцланд"
- KAT_herzland_religious_socialism_democratic_DEF: "Республіка Герцланд"
- KAT_herzland_religious_socialism_democratic_ADJ: "Герцландськ"
- KAT_herzland_religious_socialism_neutrality: "Королівство Катерин"
- KAT_herzland_religious_socialism_neutrality_DEF: "Королівство Катерин"
- KAT_herzland_religious_socialism_neutrality_ADJ: "Катеринськ"
- KAT_herzland_religious_socialism_communism: "Соціалістичний архонат Борея"
- KAT_herzland_religious_socialism_communism_DEF: "Соціалістичний архонат Борея"
- KAT_herzland_religious_socialism_communism_ADJ: "Борейськ"
-
- KAT_kingdom_fascism: "Королівство Герцланд"
- KAT_kingdom_fascism_DEF: "Королівство Герцланд"
- KAT_kingdom_fascism_ADJ: "Герцландськ"
- KAT_kingdom_democratic: "Республіка Герцланд"
- KAT_kingdom_democratic_DEF: "Республіка Герцланд"
- KAT_kingdom_democratic_ADJ: "Герцландськ"
- KAT_kingdom_neutrality: "Королівство Катерин"
- KAT_kingdom_neutrality_DEF: "Королівство Катерин"
- KAT_kingdom_neutrality_ADJ: "Катеринськ"
- KAT_kingdom_communism: "Соціалістичний архонат Борея"
- KAT_kingdom_communism_DEF: "Соціалістичний архонат Борея"
- KAT_kingdom_communism_ADJ: "Борейськ"
-
- KAT_herzland_republic_fascism: "Королівство Герцланд"
- KAT_herzland_republic_fascism_DEF: "Королівство Герцланд"
- KAT_herzland_republic_fascism_ADJ: "Герцландськ"
- KAT_herzland_republic_democratic: "Республіка Герцланд"
- KAT_herzland_republic_democratic_DEF: "Республіка Герцланд"
- KAT_herzland_republic_democratic_ADJ: "Герцландськ"
- KAT_herzland_republic_neutrality: "Королівство Катерин"
- KAT_herzland_republic_neutrality_DEF: "Королівство Катерин"
- KAT_herzland_republic_neutrality_ADJ: "Катеринськ"
- KAT_herzland_republic_communism: "Соціалістичний архонат Борея"
- KAT_herzland_republic_communism_DEF: "Соціалістичний архонат Борея"
- KAT_herzland_republic_communism_ADJ: "Борейськ"
-
- KAT_herzlandtreue_fascism: "Імперія Грифонів"
- KAT_herzlandtreue_fascism_DEF: "Імперія Грифонів"
- KAT_herzlandtreue_fascism_ADJ: "Грифонськ"
- KAT_herzlandtreue_neutrality: "Імперія Грифонів"
- KAT_herzlandtreue_neutrality_DEF: "Імперія Грифонів"
- KAT_herzlandtreue_neutrality_ADJ: "Грифонськ"
- KAT_herzlandtreue_democratic: "Імперія Грифонів"
- KAT_herzlandtreue_democratic_DEF: "Імперія Грифонів"
- KAT_herzlandtreue_democratic_ADJ: "Грифонськ"
- KAT_herzlandtreue_communism: "Грифонська Федерація Соціалістичних Держав"
- KAT_herzlandtreue_communism_DEF: "Грифонська Федерація Соціалістичних Держав"
- KAT_herzlandtreue_communism_ADJ: "Грифонськ"
-
- KAT_dread_empire_fascism: "Багряна імперія"
- KAT_dread_empire_fascism_DEF: "Багряна імперія"
- KAT_dread_empire_fascism_ADJ: "Багрян"
- KAT_dread_empire_democratic: "Багряна імперія"
- KAT_dread_empire_democratic_DEF: "Багряна імперія"
- KAT_dread_empire_democratic_ADJ: "Багрян"
- KAT_dread_empire_neutrality: "Багряна імперія"
- KAT_dread_empire_neutrality_DEF: "Багряна імперія"
- KAT_dread_empire_neutrality_ADJ: "Багрян"
- KAT_dread_empire_communism: "Багряна імперія"
- KAT_dread_empire_communism_DEF: "Багряна імперія"
- KAT_dread_empire_communism_ADJ: "Багрян"
-
  ### ПАРТІЇ ###
   KAT_neutrality_party: "Срібні сутінки"
   KAT_communism_party: "ТСП"
@@ -1677,42 +1518,8 @@
   TBK_amended_republic_desc: "$TBK_fake_republic_desc$\n\nНещодавні вибори загалом знайшли підтримку громадськості, але певна злоба лишається; адже ще треба вирішити так помітну урядову корупцію. Васіле зробить усе на краще для держави, чи не так?" # (&)
 
 # country_ZES
- ZES_lua_republic: "Республіка Каза"
- ZES_lua_republic_DEF: "Республіка Каза"
- ZES_lua_republic_ADJ: "Казинськ"
-
- ZES_confederation: "Вільна конфедерація Каза"
- ZES_confederation_DEF: "Вільна конфедерація Каза"
- ZES_confederation_ADJ: "Казинськ"
-
- ZES_pasarinha_state: "Каза"
- ZES_pasarinha_state_DEF: "Каза"
- ZES_pasarinha_state_ADJ: "Казинськ"
-
- ZES_confederation_2: "Конфедерація Каза-Рейтндіраланд"
- ZES_confederation_2_DEF: "Конфедерація Каза-Рейтндіраланд"
- ZES_confederation_2_ADJ: "Конфедеративн"
-
  ### ІДЕЇ ###
   ZES_xatisa: "Шатіза" # на потім. ~ L.H.
-  ZES_xatisa_lua_1: "$ZES_xatisa$"
-  ZES_xatisa_lua_2: "$ZES_xatisa$"
-  ZES_xatisa_lua_3: "$ZES_xatisa$"
-  ZES_xatisa_lua_4: "$ZES_xatisa$"
-  ZES_xatisa_pasarinha_1: "$ZES_xatisa$"
-  ZES_xatisa_pasarinha_2: "$ZES_xatisa$"
-  ZES_xatisa_pasarinha_3: "$ZES_xatisa$"
-  ZES_xatisa_pasarinha_4: "$ZES_xatisa$"
-  ZES_xatisa_yrmthu_pockets: "$ZES_xatisa$"
-  ZES_xatisa_yrmthu_charity: "$ZES_xatisa$"
-  ZES_xatisa_yrmthu_pockets_charity: "$ZES_xatisa$"
-  ZES_xatisa_yrmthu_friendship: "$ZES_xatisa$"
-  ZES_xatisa_yrmthu_guild_1: "$ZES_xatisa$"
-  ZES_xatisa_altu_1: "$ZES_xatisa$"
-  ZES_xatisa_altu_fortress_1: "$ZES_xatisa$"
-  ZES_xatisa_altu_fortress_2: "$ZES_xatisa$"
-  ZES_xatisa_altu_militant_1: "$ZES_xatisa$"
-  ZES_xatisa_altu_militant_2: "$ZES_xatisa$"
 
  ### ПЕРСОНАЖІ ###
   # Лідери
@@ -1789,9 +1596,7 @@
  YAK_fascism_party: "Державна влада хана"
 
  JAK_neutrality_party: "Біла рада"
- JAK_communism_party: "$YAK_communism_party$"
  JAK_democratic_party: "Йакська ліберальна партія" # Як'якська »»
- JAK_fascism_party: "$YAK_fascism_party$"
 
 # eaw_parties (винесено з файлу, хоч ориґінал зберіг собі там)
  zebrica_legacy_of_storm1_desc: "Коли Король Шторм вторгся до нас зі своєю армією, ми рішуче вирішили боротися до загину. Так ми і зробили. Ми мужньо опиралися місяцями, вповільнюючи його наступ і застосовуючи тактику випаленої землі, щоби позбавити його всяких здобутків. Коли нашу армію врешті-решт перемогли, Король Шторм спалив і розграбував кожне місто, яке досі стояло. Ми намагалися сховати наші скарби від нього, але він був не дурний і йому вдалося їх відшукати, тож він забрав усе цінне собі. Опісля його армія облишила нас, і ми взялися зализувати рани. Ми втратили все, окрім нашої честі."

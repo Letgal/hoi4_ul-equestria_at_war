@@ -2306,21 +2306,21 @@ kasam.8.d: "За вікном офісу Альту вирувала гроза.
 kasam.8.a: "Гаразд, підпишу я цей договір."
 
 ##Cosmetic Tags
-ZES_lua_republic: "Республіка Каза"
-ZES_lua_republic_DEF: "Республіка Каза"
-ZES_lua_republic_ADJ: "Казська"
+ ZES_lua_republic: "Республіка Каза"
+ ZES_lua_republic_DEF: "Республіка Каза"
+ ZES_lua_republic_ADJ: "Казинськ"
 
-ZES_confederation: "Вільна Конфедерація Каза"
-ZES_confederation_DEF: "Вільна Конфедерація Каза"
-ZES_confederation_ADJ: "Казська"
+ ZES_confederation: "Вільна конфедерація Каза"
+ ZES_confederation_DEF: "Вільна конфедерація Каза"
+ ZES_confederation_ADJ: "Казинськ"
 
-ZES_pasarinha_state: "Каза"
-ZES_pasarinha_state_DEF: "Каза"
-ZES_pasarinha_state_ADJ: "Казська"
+ ZES_pasarinha_state: "Каза"
+ ZES_pasarinha_state_DEF: "Каза"
+ ZES_pasarinha_state_ADJ: "Казинськ"
 
-ZES_confederation_2: "Конфедерація Каза-Хрейндираланд"
-ZES_confederation_2_DEF: "Конфедерація Каза-Хрейндираланд"
-ZES_confederation_2_ADJ: "Конфедератська"
+ ZES_confederation_2: "Конфедерація Каза-Рейтндіраланд"
+ ZES_confederation_2_DEF: "Конфедерація Каза-Рейтндіраланд"
+ ZES_confederation_2_ADJ: "Конфедеративн"
 
 ##Country Flags
 ZES_hide_history: "Рішення про історію приховані"

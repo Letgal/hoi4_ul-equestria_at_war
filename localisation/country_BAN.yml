@@ -543,7 +543,7 @@ BAN_TT_fix_economy:0 "Відкриває рішення, які дозволяю
 BAN_TT_tribute:0 "Відкриває рішення, які дозволяють примушувати інші держави платити вам данину.\n"
 
 BAN_TT_civil_war_cyril:0 "Приведе до §Rгромадянської війни§! де Сіріль Блюкрест і Блекрок боротимуться за контроль над державою.\n"
-BAN_TT_civil_war_commie:0 "Приведе до §Rгромадянської війни§! де Рів Блієддін і Блекрок боротимуться за контроль над державою.\n"
+BAN_TT_civil_war_commie:0 "Приведе до §Rгромадянської війни§! де Рів Бледдін і Блекрок боротимуться за контроль над державою.\n"
 
 BAN_TT_mountain_hold:0 "Відкриває рішення, які дозволяють шукати і відкривати різноманітні схованки з припасами, заховані в горах Блекголлоу.\n"
 
@@ -560,7 +560,7 @@ BAN_choosing_what_to_take:0 "Вибір того, що взяти\n"
 ### Leaders ###
 BAN_cyrille_bluecrest:0 "Сіріль Блюкрест"
 BAN_blackrock:0 "Блекрок"
-BAN_reeve_blyeddin:0 "Рів Блієддін"
+BAN_reeve_blyeddin:0 "Рів Бледдін"
 
 ### Generals ###
 BAN_kajetan_bronsfeather:0 "Каетан Бронсфезер"
@@ -652,29 +652,29 @@ gommie_boi_desc:0 "Рів Блайеддін народився в родині,
 ### Місце для думок ###
 BAN_imperial:0 "Дружба Вайткрест-Блюкрест"
 
-### Косметичний тег ###
-BAN_QUEEN_fascism:0 "Бандитське Королівство Блекрок"
-BAN_QUEEN_neutrality:0 "Королівство Блекгллоу"
-BAN_QUEEN_democratic:0 "Королівство Блекгллоу"
-BAN_QUEEN_fascism_DEF:0 "Бандитське Королівство Блекгллоу"
-BAN_QUEEN_neutrality_DEF:0 "Королівство Блекгллоу"
-BAN_QUEEN_democratic_DEF:0 "Королівство Блекгллоу"
-BAN_QUEEN_fascism_ADJ:0 "Блекроківське"
-BAN_QUEEN_neutrality_ADJ:0 "Блекгллоу"
-BAN_QUEEN_democratic_ADJ:0 "Блекгллоу"
+### КОСМЕТИЧНІ ТЕҐИ ###
+ BAN_QUEEN_fascism: "Бандитське королівство Блекрок" # qnd.
+ BAN_QUEEN_neutrality: "Королівство Блекголлоу" # qnd.
+ BAN_QUEEN_democratic: "Королівство Блекголлоу" # qnd.
+ BAN_QUEEN_fascism_DEF: "Бандитське королівство Блекголлоу" # qnd.
+ BAN_QUEEN_neutrality_DEF: "Королівство Блекголлоу" # qnd.
+ BAN_QUEEN_democratic_DEF: "Королівство Блекголлоу" # qnd.
+ BAN_QUEEN_fascism_ADJ: "Блекроцьк"
+ BAN_QUEEN_neutrality_ADJ: "Блекголлоуськ"
+ BAN_QUEEN_democratic_ADJ: "Блекголлоуськ"
 
-BAN_BOI_neutrality:0 "Королівство Грифонстоун"
-BAN_BOI_democratic:0 "Королівство Грифонстоун"
-BAN_BOI_fascism:0 "Бандитське Королівство Блекрок"
-BAN_BOI_communism:0 "Наш Грифонстоун"
-BAN_BOI_neutrality_DEF:0 "Королівство Грифонстоуну"
-BAN_BOI_democratic_DEF:0 "Королівство Грифонстоуну"
-BAN_BOI_fascism_DEF:0 "Бандитське Королівство Блекгллоу"
-BAN_BOI_communism_DEF:0 "Наш Грифонстоун"
-BAN_BOI_neutrality_ADJ:0 "Грифонстоунське"
-BAN_BOI_democratic_ADJ:0 "Грифонстоунське"
-BAN_BOI_fascism_ADJ:0 "Блекроківське"
-BAN_BOI_communism_ADJ:0 "Грифонстоунське"
+ BAN_BOI_neutrality: "Королівство Грифонстоун" # qnd.
+ BAN_BOI_democratic: "Королівство Грифонстоун" # qnd.
+ BAN_BOI_fascism: "Бандитське королівство Блекрок" # qnd.
+ BAN_BOI_communism: "Наш Грифонстоун"
+ BAN_BOI_neutrality_DEF: "Королівство Грифонстоун" # qnd.
+ BAN_BOI_democratic_DEF: "Королівство Грифонстоун" # qnd.
+ BAN_BOI_fascism_DEF: "Бандитське королівство Блекголлоу" # qnd.
+ BAN_BOI_communism_DEF: "Наш Грифонстоун"
+ BAN_BOI_neutrality_ADJ: "Грифонстоунськ"
+ BAN_BOI_democratic_ADJ: "Грифонстоунськ"
+ BAN_BOI_fascism_ADJ: "Блекроцьк"
+ BAN_BOI_communism_ADJ: "Грифонстоунськ"
 
-BAN_autocratic_fascism:0 "Графство Блекгллоу"
-BAN_autocratic_fascism_ADJ:0 "Блекгллоу"
+ BAN_autocratic_fascism: "Графство Блекголлоу"
+ BAN_autocratic_fascism_ADJ: "Блекголлоуськ"
