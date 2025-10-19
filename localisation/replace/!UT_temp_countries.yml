@@ -414,51 +414,6 @@
   # Належить переглянути
   BRZ_friedhelm_stormcrest: "Фрідгельм Стормкрест"
 
-# country_CCN
- OLC_fascism: "Імперія Оленів і Чейнджлінґів"
- OLC_fascism_DEF: "Імперія Оленів і Чейнджлінґів"
- OLC_fascism_ADJ: "Оленійсько-чейнджлінзьк"
- OLC_democratic: "Співдружність Оленів і Чейнджлінґів"
- OLC_democratic_DEF: "Співдружність Оленів і Чейнджлінґів"
- OLC_democratic_ADJ: "Співдружн"
- OLC_neutrality: "Співдружність Оленів і Чейнджлінґів"
- OLC_neutrality_DEF: "Співдружність Оленів і Чейнджлінґів"
- OLC_neutrality_ADJ: "Співдружн"
- OLC_communism: "Об'єднані Республіки Оленів і Чейнджлінґів"
- OLC_communism_DEF: "Об'єднані Республіки Оленів і Чейнджлінґів"
- OLC_communism_ADJ: "Оленійсько-чейнджлінзьк"
-
- CCN_fascism: "Землі Чейнджлінґів"
- CCN_fascism_DEF: "Королевство Чейнджлінґів"
- CCN_fascism_ADJ: "Чейнджлінзьк"
- CCN_democratic: "Землі Чейнджлінґів"
- CCN_democratic_DEF: "Вільне Королівство Чейнджлінґів"
- CCN_democratic_ADJ: "Чейнджлінзьк"
- CCN_neutrality: "Вулики Чейнджлінґів"
- CCN_neutrality_DEF: "Вулики Чейнджлінґів"
- CCN_neutrality_ADJ: "Чейнджлінзьк"
- CCN_communism: "Об'єднані Вулики Чейнджлінґів"
- CCN_communism_DEF: "Об'єднане Королівство Чейнджлінґів"
- CCN_communism_ADJ: "Чейнджлінзьк"
-
- ### ПЕРСОНАЖІ ###
-  # Лідери
-  CCN_changeling_king: "Король чейнджлінґів"
-  CCN_keisari_thorax_jelzek: "Кейсарій Торакс Єлзек"
-  CCN_keisarinna_velvet_jelzek: "Кейсарінна Вельвет Єлзек"
-  CCN_triune_council_of_queens: "Триєдина рада королев"
-
- ### ІДЕЇ ###
-  CCN_Velvet: "Кейсарінна Вельвет"
-  CCN_Thorax: "Кейсарій Торакс"
-
- changeling_spies: "Шпигуни чейнджлінґів"
- UPP: "Конгрес СПЧ"
- CLF: "Ополчення ЧВФ"
- internal_disputes: "Внутрішні суперечки"
- blackarmy: "Чорнармія"
- covert_agents: "Шпигунська мережа"
-
 # country_CES
  ### РІШЕННЯ ###
   SE_build_railroad_1: "Сполучити базу в Комариному лісі з Теплими Водами"
