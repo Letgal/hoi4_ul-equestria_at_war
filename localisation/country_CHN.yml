@@ -992,7 +992,7 @@
 
  CHN_call_GRF_to_arms_for_help: "Вимогти від наших союзників-грифонів приєднатися до війни"
 
- #CHN-GRI Stuff
+ ## Місія до Імперії Грифонів
  CHN_GRI_Attache_For_GRI: "Аташе чейнджлінґів до Грифонії"
  CHN_GRI_Attache_For_GRI_desc: "В Імперії Грифонів присутня військова місія чейнджлінґів. Їхні проєкти, як правило, поліпшують якість імперських танків. Завдяки цьому проєкти отримують широке практичне застосування по всій Імперії, що дає чейнджлінґам відгук на їхні проєкти — угода практична для обох держав." # (&)
  CHN_GRI_Attache_For_CHN: "$CHN_GRI_Attache_For_GRI$"
@@ -1003,25 +1003,25 @@
 
  CHN_GRI_Hiding_The_Coward: "Дано прихисток нашому зрадникові"
  CHN_GRI_Queen_Swears_Vengance: "Королева поклялася помститися"
- CHN_GRI_Party: "Влаштувано прощальну вечірку"
+ CHN_GRI_Party: "Влаштовано прощальну вечірку"
 
  # ЕМЧГ — Експедиційна місія чейнджлінґів до Грифонії
  # CGEM — Changeling-Griffonian Expeditionary Mission
  changelingattache.1.t: "Кризаліс відкликає аташе"
- changelingattache.1.d:0 "'Because of internal matters within the Changeling Lands the scientists, soldiers, advisors, and all related personnel of the Changeling-Griffonian Expeditionary Mission are hereby ordered to return home at once by the decree of Queen Chrysalis.'\nThe message is simple, written in a taciturn dialect of the language the two distant nations share, yet profound in its meaning. For years the changelings assisting the Imperial Army and attached research divisions have become a staple of life for those in the upper echelons of the command hierarchy, and now it is time for them to leave. The mood is unsurprisingly somber when the message is read aloud, both for what leaving means and for what awaits the changelings in their homeland.\nSynovial, senior military commander of the mission, seems relieved at the news, as if a great weight had been lifted off his wings. His compatriot, Thranx, seems to have had the opposite reaction, falling into a depressive stupor that in turn lowers the mood of all those near him. The differing reactions have prompted one of the Imperial commanders who worked with the CGEM to voice the idea that they should throw a party for all the members of the mission to wish them fond farewells, for it would seem to be kind to let their last memories of the Griffonian Empire be happy ones."
- changelingattache.1.a:0 "Let's not make a fuss about this and send them off with stoicism."
- changelingattache.1.b:0 "A farewell party sounds like just the thing!"
+ changelingattache.1.d: "«Через внутрішні справи з Землях Чейнджлінґів, науковцям, солдатам, радникам і всьому персоналу, близькому до експедиційної місії чейнджлінґів до Грифонії наказується негайно повернутися додому за указом королеви Кризаліс».\nПовідомлення просте, написане небагатослівним наріччям мови, яку дві далекі держави поділяють, але глибоке у своєму значенні. За роки, які чейнджлінґи надавали допомогу Імперській армії, призначені дослідницькі відділи стали основою життя для членів вищих ешелонів командної ієрархії, а тепер настав час їм піти. При зачитанні повідомлення настрій, що не дивно, панував похмурий, адже що значить відхід для одних і що чекає на чейнджлінґів на батьківщині для інших...\nСиновіал, старший військовий командувач місії, здається, піднесеним із новини, немовби важкий тягар спав із його крил. Його співвітчизник, Транкс, схоже, має геть протилежну реакцію, бо впав у депресивний ступор, який, у свою чергу, казить настрій усім навколо нього. Різність реакцій дало думку одному з імперських командирів, котрі працювали з ЕМЧГ, висловити ідею влаштувати вечірку для всіх членів місії й побажати їм усього найліпшого, але було б добрим учинком зробити їхні останні спогади про Імперію Грифонів щасиливими." # (&)
+ changelingattache.1.a: "Не робімо галас із цього та відправмо їх зі стоїцизмом." # (&+)?
+ changelingattache.1.b: "Прощальна вечірка звучить як саме те, що треба!"
 
- changelingattache.2.t:0 "A Farewell Party to Remember"
- changelingattache.2.d:0 "The night is young when the changeling members of the Changeling-Griffonian Expeditionary Mission arrive at the Imperial Palace in Griffenheim for their grand farewell party. There are hundreds of them, and hundreds more griffons that seek to attend the party as well. Luckily for all those involved, when the capital was first moved from Griffonstone to Griffenheim the designers of the new Imperial Palace's grand ballroom had capacity first in mind.\n\nThe party ends up lasting well into the early dawn hours, with many an event to be seen. Scientists exchanged last minute notes while reminiscing about strange discoveries. A noblegriff actually managed to impersonate a changeling colonel, and soldiers of both species broke out into song over large flaggons of beer. Fun was had by all, and somecreature was even able to get Thranx to smile again.\n\nDuring the party though it seems that [GRI.GetLeader] overheard Imperial Army soldiers wishing their Changeling friends that they could help them out or even fight alongside them in whatever struggle awaited them back home. This would lead to a review of supplies and troop strength in the morrow. Theoretically, the proposal could be done, but it also could just be written off as an alcohol-induced hallucination.\n\nIn any case, this night will long be remembered as the rowdiest party in memory, and a true bright spot on the record of Imperial affairs."
- changelingattache.2.a:0 "We wish our friends well in their journey home."
- changelingattache.2.b:0 "When they go back they should take a thousand or five tons of supplies."
+ changelingattache.2.t: "Прощальна вечірка на згадку"
+ changelingattache.2.d: "Ніч тільки почалася, коли чейнджлінґи-члени експедиційної місії чейнджлінґів до Грифонії прибули до Імператорського палацу у Грифенгаймі на свою велику прощальну вечірку. Їх є сотні, і ще сотні є грифонів, котрі також бажають відвідати вечірку. На щастя для всіх залучених, коли столицю було вперше переміщено з Грифонстоуна до Грифенгайма, проєктанти нової бальної зали в Імператорському палаці думали насамперед про місткість.\n\nВечірка протривала аж до світанку, і багатьом вдалося його застати. Науковці обмінялися останніми замітками, пригадуючи різні дивні відкриття. Якомусь шляхетному грифонові навіть вдалося вдати з себе полковника-чейнджлінґа, і солдати обох видів зайнялися співом за великими кухлями пива. Усім було весело, і комусь навіть вдалося змусити Транкса знов усміхнутися.\n\nОднак під час вечірки, схоже, [GRI.GetLeader] почу[GRI.Leader.GetVerbGendEndA_RU], як солдати Імперської армії бажають зі своїми друзями-чейнджлінґами, аби вони допомогли їм або навіть узяли участь пліч-о-пліч в абиякій боротьбі, яка чекала їх удома. Це викликало огляд припасів і боєздатності військ наступного дня. Теоретично, пропозицію можна втілити, але її також можна списати на галюцинацію, викликану алкоголем.\n\nУ всякому разі, ця ніч надовго запам'ятається як найгучніша вечірка на пам'яті, справжня яскрава подія в літописі справ Імперії." # (&+)
+ changelingattache.2.a: "Бажаємо нашим друзям щасливої дороги додому."
+ changelingattache.2.b: "Коли вони повернуться назад, їм слід узяти тисяч бійців або п'ять тон припасів."
 
- changelingattache.3.t:0 "A Farewell Party to Remember"
- changelingattache.3.d:0 "The night is young when the changeling members of the Changeling-Griffonian Expeditionary Mission arrive at the Imperial Palace in Griffenheim for their grand farewell party. There are hundreds of them, and hundreds more griffons that seek to attend the party as well. Luckily for all those involved, when the capital was first moved from Griffonstone to Griffenheim the designers of the new Imperial Palace's grand ballroom had capacity first in mind.\n\nThe party ends up lasting well into the early dawn hours, with many an event to be seen. Scientists exchanged last minute notes while reminiscing about strange discoveries, a noblegriff actually managed to impersonate a changeling colonel, and soldiers of both species broke out into song over large flaggons of beer. Fun was had by all, and somecreature was even able to get Thranx to smile again.\n\nDuring the party though it seems that [GRI.GetLeader] overheard Imperial Army soldiers wishing their Changeling friends that they could help them out or even fight alongside them in whatever struggle awaited them back home. This would lead to a review of supplies and troop strength in the morrow. Theoretically, the proposal could be done, but it also could just be written off as an alcohol-induced hallucination.\n\nIn any case, this night will long be remembered as the rowdiest party in memory, and a true bright spot on the record of Imperial affairs."
- changelingattache.3.a:0 "We wish our friends well in their journey home."
- changelingattache.3.b:0 "When they go back they should take a thousand or five tons of supplies."
- changelingattache.3.c:0 "Friends don't let friends fight alone! We'll send who we can back with them!"
+ changelingattache.3.t: "$changelingattache.2.t$"
+ changelingattache.3.d: "$changelingattache.2.d$"
+ changelingattache.3.a: "$changelingattache.2.a$"
+ changelingattache.3.b: "$changelingattache.2.b$"
+ changelingattache.3.c: "Друзі не дозволяють друзям воювати наодинці! Ми надішлемо з ними, кого зможемо!"
 
  changelingattache.4.t:0 "A Plea for Asylum"
  changelingattache.4.d:0 "Following the ordered return of the Changeling military mission back to Vesalipolis, General Thranx has now approached none other than [GRI.GetLeader], begging them to let him stay in the Empire.\nThey were immediately caught within the crossfire of other nobles and advisors. Some argued for, some against this plead for asylum. At the end, however, the choice was entirely up to the ruling griffon themselves.\nAs Thranx broke down in tears before them, a choice had to be made."
@@ -1063,7 +1063,7 @@
  changelingattache.12.a_tt:0 "Spawns §YTwo Imperial Volunteers Divisions§!\n"
 
  changelingattache.13.t: "Наказ від королеви"
- changelingattache.13.d:0 "The Queen has issued the return of the Changeling-Griffonian Expeditionary Mission, including the two commanders, General Thranx and Marshal Synovial. She believes there is no need for the mission anymore, seeing as how changeling efforts would best be off directed entirely on Equestria."
+ changelingattache.13.d: "Королева видала наказ про повернення експедиційної місії чейнджлінґів до Грифонії, включно з її двома командирами, генералом Транксом і маршалом Синовіалом. Вона вірить, що в місії більше нема потреби, вважаючи за ліпше спрямуати всі зусилля чейнджлінґів на Еквестрію."
  changelingattache.13.a: "Без зволікань, моя Королево!"
 
  changelingattache.14.t:0 "The Fatherland Calls"
@@ -1081,10 +1081,10 @@
  changelings.44.c: "Нам потрібна ваша нафта."
  changelings.44.e: "Нам потрібні ваші золото, сталь і нафта."
 
- changelings_demand_gold_tt:0 "§Y[CHN.GetNameDefCap]§! will ask §Y[PLB.GetNameDef]§! to provide their gold reserves and gold mines for the benefit of the Hives in exchange of Changeling protection, researchers and construction technologies."
- changelings_demand_resources_tt:0 "§Y[CHN.GetNameDefCap]§! will ask §Y[PLB.GetNameDef]§! to provide their natural resources, namely steel, for the benefit of the Hives in exchange of Changeling protection, researches and construction technologies."
- changelings_demand_land_and_gold_tt:0 "§Y[CHN.GetNameDefCap]§! will ask §Y[PLB.GetNameDef]§! to provide their oil reserves and oil derricks for the benefit of the Hives in exchange of Changeling protection, researchers, construction technologies and payment."
- changelings_demand_land_and_resources_tt:0 "§Y[CHN.GetNameDefCap]§! will ask §Y[PLB.GetNameDef]§! to provide their natural resources, namely steel and oil, as well as their gold reserves and gold mines, for the benefit of the Hives, in exchange of Changeling protection, researchers, construction technologies and payment."
+ changelings_demand_gold_tt: "§Y[CHN.GetNameDefCap]§! запитає в держави §Y[PLB.GetNameDef]§! надати свої запаси золота та золоті копальні на користь вуликів, в обмін на захист, дослідників і будівельні технології з боку чейнджлінґів."
+ changelings_demand_resources_tt: "§Y[CHN.GetNameDefCap]§! запитає в держави §Y[PLB.GetNameDef]§! надати свої природні ресурси, зокрема сталь, на користь вуликів, в обмін на захист, дослідників і будівельні технології з боку чейнджлінґів."
+ changelings_demand_land_and_gold_tt: "§Y[CHN.GetNameDefCap]§! запитає в держави §Y[PLB.GetNameDef]§! надати свої запаси нафти та нафтові вишки на користь вуликів, в обмін на захист, дослідників, будівельні технології й виплати з боку чейнджлінґів."
+ changelings_demand_land_and_resources_tt: "§Y[CHN.GetNameDefCap]§! запитає в держави §Y[PLB.GetNameDef]§! надати свої природні ресурси, зокрема сталь і нафту, а також свої запаси золота та золоті копальні, на користь вуликів, в обмін на захист, дослідників, будівельні технології й виплати з боку чейнджлінґів."
 
  changelings.45.t_gold:0 "Changelings Demand Gold"
  changelings.45.d_gold:0 "[Root.GetLeader] has been approached by an envoy from the Changelings, claiming to be dispatched by Chrysalis herself. A heavy military buildup is also underway, with troops massing at the border. We now face an uncomfortable situation. We likely cannot win an outright war, but nor do we want to give up our independence, or even our precious resources.\n\nThe drone laid out Chrysalis's demands: They want a large sum of our gold, and in exchange, they will offer protection to us, as well as technological and industrial aid."
@@ -1108,8 +1108,8 @@
  changelings.46.e:0 "Make another pretext for war!"
  changelings.46.f:0 "This is good enough... for now."
 
- threat_chn_attack_plb:0 "Warmonger actions against Polar Bear Communities"
- PLB_deal_CHN:0 "Polar Bears accept Changeling demands"
+ threat_chn_attack_plb: "Ворожі дії відносно Спільнот Полярних Ведмедів"
+ PLB_deal_CHN: "Полярні ведмеді погоджуються на вимоги чейнджлінґів"
 
  politics_thorax_puppet_desc:0 "An outcast among the Hives, Thorax is one of the first supporters of Harmony among the changelings. His belief that love can be obtained with friendship and peaceful trading with their neighbours has been slowly catching on among the despondent drones, who feel their lives are being thrown away in pursuit of militaristic expansion. Nonetheless, Thorax's ideas are a minority in the Hives and he is mostly despised by the Hive Queens, who see his vision as detrimental to the changelings as whole. That has changed after the Changelings' defeat in the Great War, and now Thorax leads the reformed nation into a bright future, hoping to show the world that they're not all monsters.\n\n§YАвтори портрета§!: AnaStaFury та BlakaSmoko"
 
