@@ -60,6 +60,7 @@
 + `country_JRR`
 + `country_JUN` (переклав *Green Kitten*)
 + `country_KAT` (переклав *StasJesus*) — `(&)`
++ `country_KIR_PSOL_alerts`
 + `country_LAK` (переклав *Bovcun*)
 + `country_LSP` (переклав *Green Kitten*)
 + `country_LUS` (переклав *Bovcun*) — `(&)`
