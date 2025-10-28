@@ -729,15 +729,6 @@
   imperial_news.3.equestria_grf: "Правителі приходять і йдуть. [GRF.GetNameDefCap] досі стоїть."
   imperial_news.3.ded: "Нам слід розстаратися тіла. З нього вийде хороший раб."
 
- ### ІНШЕ ###
-  magical_weapons: "Магічна зброя"
-  early_fighter: "Ранній винищувач"
-  fighter1: "Винищувач I"
-  CAS1: "Штурмовик I"
-  tactical_bomber1: "Тактичний бомбардувальник I"
-  strategic_bomber1: "Стратегічний бомбардувальник I"
-  heavy_fighter1: "Важкий винищувач I"
-
 # country_GRU
  GRU_kingdom_fascism: "Ґрифуське королівство"
  GRU_kingdom_fascism_DEF: "Священне Ґрифуське королівство"

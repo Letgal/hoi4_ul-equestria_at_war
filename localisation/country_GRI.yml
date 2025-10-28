@@ -2077,11 +2077,11 @@ ZES_mandate_fascism_ADJ:0 "Зюд-Остськ"
 ### Mandate Autonomy level ###
 autonomy_imperial_mandate:0 "Райхсмандат"
 
-### Debug Tech Stuff ###
-magical_weapons:0 "Magical Weapons"
-early_fighter:0 "Early Fighter"
-fighter1:0 "Fighter I"
-CAS1:0 "CAS I"
-tactical_bomber1:0 "Tactical Bomber I"
-strategic_bomber1:0 "Strategic Bomber I"
-heavy_fighter1:0 "Heavy Fighter I"
+### ТЕХИ З РЕЖИМУ НАЛАГОДЖЕННЯ ###
+ magical_weapons: "Магічна зброя"
+ early_fighter: "Ранній винищувач"
+ fighter1: "Винищувач I"
+ CAS1: "Штурмовик I"
+ tactical_bomber1: "Тактичний бомбардувальник I"
+ strategic_bomber1: "Стратегічний бомбардувальник I"
+ heavy_fighter1: "Важкий винищувач I"
