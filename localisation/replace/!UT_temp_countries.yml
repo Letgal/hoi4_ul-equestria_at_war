@@ -2,6 +2,127 @@
 # Тут вирізано: country_ANG, country_BAR, country_FAL, country_HAU
 
 # country_ABY
+ ABY_MDL_federation_fascism: "Абіссинсько-мейндалуська федерація"
+ ABY_MDL_federation_fascism_DEF: "Федерація Абіссинії та Мейндалусії"
+ ABY_MDL_federation_fascism_ADJ: "Абіссинсько-мейндалуськ"
+ ABY_MDL_federation_democratic: "Абіссинсько-мейндалуська федерація"
+ ABY_MDL_federation_democratic_DEF: "Федерація Абіссинії та Мейндалусії"
+ ABY_MDL_federation_democratic_ADJ: "Абіссинсько-мейндалуськ"
+ ABY_MDL_federation_neutrality: "Абіссинсько-мейндалуська федерація"
+ ABY_MDL_federation_neutrality_DEF: "Федерація Абіссинії та Мейндалусії"
+ ABY_MDL_federation_neutrality_ADJ: "Абіссинсько-мейндалуськ"
+ ABY_MDL_federation_communism: "Абіссинсько-мейндалуська федерація"
+ ABY_MDL_federation_communism_DEF: "Федерація Абіссинії та Мейндалусії"
+ ABY_MDL_federation_communism_ADJ: "Абіссинсько-мейндалуськ"
+
+ ABY_empire_fascism: "Імперія Абіссинія"
+ ABY_empire_fascism_DEF: "Імперія Абіссинія"
+ ABY_empire_fascism_ADJ: "Абіссинськ"
+ ABY_empire_democratic: "Імперія Абіссинія"
+ ABY_empire_democratic_DEF: "Імперія Абіссинія"
+ ABY_empire_democratic_ADJ: "Абіссинськ"
+ ABY_empire_neutrality: "Імперія Абіссинія"
+ ABY_empire_neutrality_DEF: "Імперія Абіссинія"
+ ABY_empire_neutrality_ADJ: "Абіссинськ"
+ ABY_empire_communism: "Вільна республіка Абіссинія"
+ ABY_empire_communism_DEF: "Вільна республіка Абіссинія"
+ ABY_empire_communism_ADJ: "Абіссинськ"
+
+ ABY_empire_2_fascism: "Абіссинська імперія"
+ ABY_empire_2_fascism_DEF: "Абіссинська імперія"
+ ABY_empire_2_fascism_ADJ: "Абіссинськ"
+ ABY_empire_2_democratic: "Абіссинська імперія"
+ ABY_empire_2_democratic_DEF: "Абіссинська імперія"
+ ABY_empire_2_democratic_ADJ: "Абіссинськ"
+ ABY_empire_2_neutrality: "Абіссинська імперія"
+ ABY_empire_2_neutrality_DEF: "Абіссинська імперія"
+ ABY_empire_2_neutrality_ADJ: "Абіссинськ"
+ ABY_empire_2_communism: "Абіссинська імперія"
+ ABY_empire_2_communism_DEF: "Абіссинська імперія"
+ ABY_empire_2_communism_ADJ: "Абіссинськ"
+
+ ABY_patriotic_revolt_fascism: "Держава Абіссинія"
+ ABY_patriotic_revolt_fascism_DEF: "Держава Абіссинія"
+ ABY_patriotic_revolt_fascism_ADJ: "Абіссинськ"
+ ABY_patriotic_revolt_democratic: "Республіка Абіссинія"
+ ABY_patriotic_revolt_democratic_DEF: "Республіка Абіссинія"
+ ABY_patriotic_revolt_democratic_ADJ: "Абіссинськ"
+ ABY_patriotic_revolt_neutrality: "Абіссинський патріотичний фронт"
+ ABY_patriotic_revolt_neutrality_DEF: "Абіссинський патріотичний фронт"
+ ABY_patriotic_revolt_neutrality_ADJ: "Абіссинськ"
+ ABY_patriotic_revolt_communism: "Вільна республіка Абіссинія"
+ ABY_patriotic_revolt_communism_DEF: "Вільна республіка Абіссинія"
+ ABY_patriotic_revolt_communism_ADJ: "Абіссинськ"
+
+ ABY_bitchdom_fascism: "Відьомство Абіссинія"
+ ABY_bitchdom_fascism_DEF: "Відьомство Абіссинія"
+ ABY_bitchdom_fascism_ADJ: "Абіссинськ"
+ ABY_bitchdom_democratic: "Королівство Абіссинія"
+ ABY_bitchdom_democratic_DEF: "Королівство Абіссинія"
+ ABY_bitchdom_democratic_ADJ: "Абіссинськ"
+ ABY_bitchdom_neutrality: "Королівство Абіссинія"
+ ABY_bitchdom_neutrality_DEF: "Королівство Абіссинія"
+ ABY_bitchdom_neutrality_ADJ: "Абіссинськ"
+ ABY_bitchdom_communism: "Вільна республіка Абіссинія"
+ ABY_bitchdom_communism_DEF: "Вільна республіка Абіссинія"
+ ABY_bitchdom_communism_ADJ: "Абіссинськ"
+
+ ABY_new_donkeystan_fascism: "Неоасстирійська держава"
+ ABY_new_donkeystan_fascism_DEF: "Неоасстирійська держава"
+ ABY_new_donkeystan_fascism_ADJ: "Неоасстирійськ"
+ ABY_new_donkeystan_democratic: "Республіка Північна Асстирія"
+ ABY_new_donkeystan_democratic_DEF: "Республіка Північна Асстирія"
+ ABY_new_donkeystan_democratic_ADJ: "Північноасстирійськ"
+ ABY_new_donkeystan_neutrality: "Неоасстирійська держава"
+ ABY_new_donkeystan_neutrality_DEF: "Неоасстирійська держава"
+ ABY_new_donkeystan_neutrality_ADJ: "Неоасстирійськ"
+ ABY_new_donkeystan_communism: "Вільна республіка Північна Асстирія"
+ ABY_new_donkeystan_communism_DEF: "Вільна республіка Північна Асстирія"
+ ABY_new_donkeystan_communism_ADJ: "Північноасстирійськ"
+
+ ABY_monsoc_cosmetic_fascism: "Королівство Абіссинія"
+ ABY_monsoc_cosmetic_fascism_DEF: "Королівство Абіссинія"
+ ABY_monsoc_cosmetic_fascism_ADJ: "Абіссинськ"
+ ABY_monsoc_cosmetic_democratic: "Королівство Абіссинія"
+ ABY_monsoc_cosmetic_democratic_DEF: "Королівство Абіссинія"
+ ABY_monsoc_cosmetic_democratic_ADJ: "Абіссинськ"
+ ABY_monsoc_cosmetic_neutrality: "Королівство Абіссинія"
+ ABY_monsoc_cosmetic_neutrality_DEF: "Королівство Абіссинія"
+ ABY_monsoc_cosmetic_neutrality_ADJ: "Абіссинськ"
+ ABY_monsoc_cosmetic_communism: "Вільне королівство Абіссинія"
+ ABY_monsoc_cosmetic_communism_DEF: "Вільне королівство Абіссинія"
+ ABY_monsoc_cosmetic_communism_ADJ: "Абіссинськ"
+
+ ABY_liberty_empire_fascism: "Імперія Абіссинія"
+ ABY_liberty_empire_fascism_DEF: "Імперія Абіссинія"
+ ABY_liberty_empire_fascism_ADJ: "Абіссинськ"
+ ABY_liberty_empire_democratic: "Імперія Абіссинія"
+ ABY_liberty_empire_democratic_DEF: "Імперія Абіссинія"
+ ABY_liberty_empire_democratic_ADJ: "Абіссинськ"
+ ABY_liberty_empire_neutrality: "Імперія Абіссинія"
+ ABY_liberty_empire_neutrality_DEF: "Імперія Абіссинія"
+ ABY_liberty_empire_neutrality_ADJ: "Абіссинськ"
+ ABY_liberty_empire_communism: "Імперія Свободи"
+ ABY_liberty_empire_communism_DEF: "Імперія Свободи"
+ ABY_liberty_empire_communism_ADJ: "Визвольн"
+
+ ABY_five_race_union_fascism: "Імперія Абіссинія"
+ ABY_five_race_union_fascism_DEF: "Імперія Абіссинія"
+ ABY_five_race_union_fascism_ADJ: "Абіссинськ"
+ ABY_five_race_union_democratic: "Імперія Абіссинія"
+ ABY_five_race_union_democratic_DEF: "Імперія Абіссинія"
+ ABY_five_race_union_democratic_ADJ: "Абіссинськ"
+ ABY_five_race_union_neutrality: "Імперія Абіссинія"
+ ABY_five_race_union_neutrality_DEF: "Імперія Абіссинія"
+ ABY_five_race_union_neutrality_ADJ: "Абіссинськ"
+ ABY_five_race_union_communism: "Союз П'яти Рас"
+ ABY_five_race_union_communism_DEF: "Союз П'яти Рас"
+ ABY_five_race_union_communism_ADJ: "П'ятирасов"
+
+ ### АЛЬЯНСИ ###
+  ABY_MGY_ALLIANCE: "Організація Північнозахіднозебриканського альянсу"
+  ABY_COM_ALLIANCE: "Визвольний альянс північно-західної Зебрики"
+
  ### ПАРТІЇ ###
   ABY_neutrality_party: "Клоомонова династія"
   ABY_neutrality_party_long: "Клоомонова династія"
@@ -11,8 +132,26 @@
   ABY_democratic_party_long: "Клоомонова династія"
   ABY_fascism_party: "Династія Кітве"
   ABY_fascism_party_long: "Династія Кітве"
+  ABY_communist_party_organized: "ОРФ"
+  ABY_communist_party_organized_long: "Об'єднаний республіканський фронт"
+  ABY_patriotic_front_party: "АПФ"
+  ABY_patriotic_front_party_long: "Абіссинський патріотичний фронт"
+  ABY_donkey_party: "РППА"
+  ABY_donkey_party_long: "Рух повернення Північної Асстирії"
+  ABY_sharp_party: "РВР"
+  ABY_sharp_party_long: "Революційний визвольний рух"
+  ABY_pla_party: "НЛ"
+  ABY_pla_party_long: "Народна ліга"
 
+ ### ПЕРСОНАЖІ ###
  ABY_taile_sehissie_clawomonid: "Ґомез Нявконнин"
+  ABY_slave_leader: "Шарп Спір"
+  ABY_catrina_catwe: "Катріна Таббі"
+  ABY_catra_meowmeow: "Катра Нявняв"
+  ABY_queen_morticia: "Мортіція Аддісу"
+  ABY_nathaniel_claw: "Натаніел Кло"
+
+  ABY_the_patriot: "Патріот"
 
 # country_AES
  AES_princess_zaida: "Зайда"
@@ -205,12 +344,10 @@
   BAT_comet_flash: "Комет Флеш"
 
  ABILITY_CHEMICAL_ATTACK: "Газова атака"
- ABILITY_CHEMICAL_ATTACK_DESC: ""
 
  BAT_armoured_trains: "$CHN_armoured_trains$"
  BAT_armoured_trains_desc: "$CHN_armoured_trains_desc$"
  anti_tank_rifles: "Протитанкова стрілецька рота"
- anti_tank_rifles_desc: ""
 
  BAT_aghzat_pact: "Агзатський пакт"
  BAT_lunar_hegemony: "Місячна гегемонія"
@@ -441,45 +578,28 @@
   CES_king_dust: "Король Даст"
   CES_furher_seaterror: "Мун Лун"
   CES_daring_do: "Дерінґ Ду"
-  #CES_daring_do_desc:0 "§YBorn§!: July 1, 968, Equestria\n\n§YBiography§!: Once believed to be merely fictional, Daring Do is the titular character and author of the internationally famous book series by the same name. As Daring did not expect tales of her adventures to sell very well if advertised as real, she opted to market them as fiction instead under the pen name of A.K. Yearling.\n\nA fearless adventurer at heart, Daring Do has spent many years keeping powerful magical artifacts away from those who would misuse them. From the devious creature known as Ahuizotl to the greedy Doctor Caballeron, she has thwarted many foes in her quest to protect ponies from potential catastrophes. Between her escapades, she often spent time relaxing at home and adapting her latest adventure to novels.\n\nUnfortunately for Daring, her adventuring came to a screeching halt when Equestria descended into civil war. The return of Nightmare Moon frightened many ponies, so Daring opted to do what she did best: protect them. However, this time she wasn't merely working from ambiguity; instead, she fully embraced the legendary image her readers had come to know her by and is now leading them to victory.\n\nAfter all, she's a hero, and everypony knows that heroes never lose.\n\n§YPortraits By§!: Bunnyshrubby"
   CES_addie_hoover: "Адді Гувер"
   CES_good_word: "Ґуд Уорд"
-  #CES_good_word_desc:0 "§YBorn§!: December 23, 980, Stableside, Equestria\n\n§YBiography§!: Ever since he was young, Good Word had a penchant for talking to others. Whether it was a friendly conversation or a strife-filled argument, his uncanny ability to get through to even the most distrusting ponies was as unnerving as his ever-pleasant personality. However, for most of his life, his outward happiness was merely a mask that hid his crippling anxiety. Furthermore, he had become somewhat distant from his father due to the elder stallion's preference for doing charity work rather than spending time with his son.\n\nGood Word's life began to change in 1002 after an attempt to rekindle the relationship with his father took a turn for the worse. During a relief mission alongside a small ponytarian group known as the Friendship Lodge, a damaged support beam caused the roof above Good Word's father to collapse, burying him underneath a heap of metal. The young stallion saw the speed and zeal of the Friendship Lodge firsthoof as they rescued his father, even going so far as to rush him to the hospital when they saw he was hurt.\n\nUnfortunately, the injuries Good Word's father received were terminal. As the elder stallion was dying, he apologized to his son for not being there for him, and said that the reason why he worked so hard to aid others was that "there are so many ponies who need help, and Celestia knows they need it more than we do. She would help too, but even she can't be everywhere at once."\n\nThis was the spark that altered the young stallion forever: He became filled with the same spirit of charity that his father held, and he sought to work alongside the Friendship Lodge in order to both work past his own anxiety while spreading kindness and the teachings of Celestia to all. In the years that followed, he rapidly rose through the Lodge's ranks, and it was only a few months after he became Head Lodger that Equestria descended into civil war.\n\nNow he stands ready to do what he believes Celestia would do, but some wonder if his desire to emulate the princess' actions borders on obsession, or perhaps even worship.\n\n§YPortrait By§!: PrincessRari" #Non-solarist Good Word
-  #CES_good_word_alternate_desc:0 "§YBorn§!: December 23, 980, Stableside, Equestria\n\n§YBiography§!: Ever since he was young, Good Word had a penchant for talking to others. Whether it was a friendly conversation or a strife-filled argument, his uncanny ability to get through to even the most distrusting ponies was as unnerving as his ever-pleasant personality. However, for most of his life, his outward happiness was merely a mask that hid his crippling anxiety.\n\nAs he progressed through young adulthood, Good Word found himself joining and eventually leading a ponytarian organization known as the Friendship Lodge. They helped him through his personal problems, and in turn, he channeled his passion back into the Lodge tenfold. At the dawn of the Equestrian Civil War, he sought to maintain the spirit of friendship and harmony wherever he went, but the reality of war between Equestria and the Lunarists slowly ate away at his desire to help those who now wanted to kill him.\n\nThings eventually came to a head when the once-peaceful ruler of Equestria transformed into Daybreaker. The government in Stableside had decided to throw their lot in with the empress, and as a part of that, they had invited Good Word to speak on the matter on behalf of the Friendship Lodge. That was the fateful day that Lunarist arsonists had barricaded and burnt down the capitol, killing everypony inside.\n\nBut Good Word was not just anypony. Just as Celestia was underwent a fiery rebirth, the inferno stripped away the last of his anxiety and doubts, leaving only the purity of his hope that Celestia would save him. His faith. And through that faith, he rose from the ashes of the secular government with a new, divine purpose in life: to spread that faith to all — and to convert the gentiles through any means necessary.\n\n§YPortraits By§!: Motley_ad, Bunnyshrubby, & Twotail813" #Solarist Good Word
   CES_crescent_glow: "Кресент Ґлоу"
-  #CES_crescent_glow_desc:0 "§YBorn§!: August 9, 978, Ayacachtli, Equestria\n\n§YBiography§!: Ever since she was young, Crescent Glow had always loved Princess Luna. Tales of her kindness and beauty enthralled the young mare, and so like many other thestrals, she sought to devote her life to the Princess of the Night. Unfortunately for her, the millennium since Nightmare Moon's banishment had polluted the vision of Luna held by many ponies, leading to Crescent's dismay when she learned that the Night Guard in Canterlot was merely a ceremonial role and a ridiculed one at that.\n\nStill, Crescent persevered. She sought education at Canterlot University, and then on the day of her graduation, something miraculous happened: Princess Celestia announced the return of her beloved sister, and Crescent got to see younger alicorn with her own eyes. The joy that Princess Luna's return had brought to Crescent was matched only by her desire to remedy the Night Guard's perceived appearance as a joke. She quickly enrolled in Equestria's military, and through sheer determination, she outpaced all of her peers in Officer School.\n\nAlas, in a cruel twist of fate, shortly after she finished training, Princess Luna transformed into Nightmare Moon once more. This devastated the young mare, as she privately did not wish to serve an evil alter ego of the pony she worshipped so dearly. And so, when she was placed in charge of a portion of the New Lunar Empire's military, she and many other like-minded Lunarists defected to fight for harmony. For that's what they believe Princess Luna would have wanted.\n\n§YPortraits By§!: Egil"
   CES_chief_maita: "Вождь Майта"
-  #CES_chief_maita_desc:0 "§YBorn§!: March 31, 959, Tenochtitlan, Equestria\n\n§YBiography§!: Once an adventerous young stallion, Maita of the Neighua has taken his role of Chief in stride, as the "Hidden Tribe of the Sun and Moon" he belonged to sought to become seperate from the Neighua as a whole. Maita spent a considerable amount of time trying to tone down the extreme and bloody traditions of the Hidden Tribe with mild success, though he knew that some of them still clung to the ancient ways in hopes that they might get to practice their beliefs openly once more. It did not help Maita's efforts, knowing that the mysterious creature known as Ahuizotl whispered promises of a "New Cycle" into their ears.\n\nStill, Maita's charismatic nature and easygoing personality worked wonders in deradicalizing the majority of his kin, so much so that he no longer worried daily about the possibility of bloody rituals being performed in secret. Unfortunately for him, the Equestrian Civil War caused numerous problems to flare up with both his tribe and the rest of the Neighua, and so he and many of his tribe turned to Daring Do for help.\n\nThanks to Daring and the rest of their mutual friends, Maita is now able to relax more often than not, as the local cultures of his homeland are no longer in danger of being wiped out or reverting to darker traditions.\n\nWhen not attending to government matters, he can be found reminiscing with aides on how he misses the peace and quiet of his hometown. Perhaps when true peace is achieved one day, he can return there for good.\n\nUntil then, he still has many jokes to tell, and equally many jovial tales to share."
-  #JUN_doctor_caballeron_for_CES_desc:0 "§YBiography§!: Doctor Caballeron is famous for being an antagonist in the Daring Do novels. What many did not know until recently was his humble beginnings as an archaeology student from Puerto Caballo. The world of Aztlan, with all its rich historical depth—from its endangered languages to its well-preserved temples—had been a source of wonder, and the only way for him to truly engage with it was a thorough search into their past, selling relics to fund his archaeological studies, which pitted him against Daring Do whenever they crossed paths.\n\nDespite that, he would graduate with flying colors, setting himself up for a career that balanced quiet paperwork with adventurous fieldwork. That all changed when Equestria descended into civil war. His ill-fated Aztlan Free State was propped up by the bits he'd earned, armed by the mercenaries he'd bought, and motivated by a desire to defend the Neighua, but it would ultimately fall to Daring Do's resistance where Caballeron now takes refuge in.\n\nWhile he says he harbors good intentions in helping make Equestria whole, his villainous reputation precedes him, though he has sworn up and down that he will not take advantage of his position in the new government. Still, every day that passes where he helps ponies from all walks of life is counted as a small victory. Perhaps in time, he shall be known for his helpful reforms rather than his former villainy.\n\n§YPortrait By§!: AnaStarFury" #Separate from any normal Doctor Caballeron description, this is specifically for CES #Comma
   CES_republic_congress: "Парламентські збори"
   CES_republic_congress_2: "Попіл Конґресу"
-  #CES_republic_congress_desc:0 "Following parliament's decision to recognize the Solar Empire as a continuation of Equestria, Daring Do resigned her post in anger. Effectively, this means that until elections are held, parliament is in charge."
-  #CES_republic_congress_desc_2:0 "Following the confirmation of the Southeast's acceptance into the Solar Empire, several large organizational changes were announced to bring the Southeast's laws more in line with those with its new parent. These laws were so drastic that it had caused the previous president to resign in protest. Normally, new elections would have been held immediately, but a malevolent magical phenomenon in the jungle has caused them to be postponed for now." #Ruler pending Pony of Shadows reveal
   CES_republic_congress_desc_3: "Усі мертві."
   CES_greater_shard: "Великий осколок"
   CES_pony_of_shadows: "Поні Тіней"
-  #CES_pony_of_shadows_desc:0 "§YDate of Creation§!: Unknown\n\n§YBiography§!: Brought into existence by the Umbrum, the Pony of Shadows was to be their greatest weapon against Ponykind. Its magical abilities were unparalleled, but like any tool, it needed someone to wield it. The Umbrum desired for King Sombra to use their superweapon to transform all of Equestria into a realm that they could inhabit. But before they could set their plan in motion, a young pony named Stygian took the reins of the Pony of Shadows and was subsequently banished by the Pillars of Equestria into Limbo, a place between worlds. The Umbrum considered their weapon lost, then moved onto other machinations.\n\nA thousand years later, the Elements of Harmony brought the Pony of Shadows back into reality, but tore away its host before banishing it back into Limbo. Now it has returned yet again, though the exact method to how it did so remains a mystery.\n\nThe Pony of Shadows is not truly sapient; it warps the desires of its host in order to complete both its original purpose and the goal of the pony that wields it. Its host may not even be fully aware of their actions as they pursue their goals. Unfortunately for most ponies, that goal involves the complete and utter annihilation of society as they know it.\n\n§YPortrait By§!: Bunnyshrubby"
   CES_nobody: "Ніхто" #Ruler after POS victory
   CES_nobody_desc: "Але ніхто не прийшов." #Ruler after granting Daring Do's wish
 
   # Генерали
   CES_knifepony: "Ґрейв Солс"
   CES_snap_shutter: "Снеп Шаттер"
-  #CES_snap_shutter_desc:0 "§YBorn§!: February 22, 967, Starfall, Commonwealth of New Mareland\n\n§YPortrait By§!: Egil"
   CES_mane_allgood: "Мейн Оллґуд"
-  #CES_mane_allgood_desc:0 "§YBorn§!: July 20, 969, Ponyville, Equestria\n\n§YPortrait By§!: Egil"
   CES_azure_bliss: "Азюр Блисс"
-  #CES_azure_bliss_desc:0 "§YBorn§!: March 23, 985, Las Pegasus, Equestria\n\n§YBiography§!: Frantic, dishevelled and frantically dishevelled, Azure tends to keep to herself. A small time repairmare on a trading vessel named Orion's Belt, transporting some kind of cargo for some shady stallions in Las Pegasus, she would have stayed in her position had the Equestrian Civil War not broken out.\n\nHer ship was given to the Celestial Resistance, and her employment transferred mostly without her knowledge. Azure only found out her new position when her ship was ordered to patrol the Starry Sea, which ended up with her captain ending up overboard.\n\nIn an uncharacteristic move of bravery she rose to the role and took command of the return journey, ensuring the remainder of her friends aboard survived.\n\nOn her return she was caught up in attempting scrappy repairs by Commander Daring Do, and in one final proof of her bucking luck, she ended up promoted to Chief of the Celestial Navy (What little there was) for lack of alternate choices.\n\nSurprisingly, she's not done the worst job.\n\n§YPortrait By§!: Kelkessel"
   CES_light_shine: "Лайт Шайн"
-  #CES_light_shine_desc:0 "Graduating from the naval college in Baltimare in 982 ALB, Light Shine spent 25 years of his career arduously working up the ranks of Equestria's navy, only to plateau at the rank of Commodore by 1008.\n\nA lifelong supporter and admirer of Celestia, he frequently defended her actions to various fellow officers who espoused opinions that could be seen as treasonous in light of recent events. Tired of dealing with the local socialist movements and the occasional Lunarist preacher, he took leave to spent time with family in Stableside, his hometown. While there, he happened upon a peculiar group of charitable ponies who possessed a zealous fascination with Celestia. Intrigued, Light collected some of their tracts and pamphlets for his own study. This 'Friendship Lodge' sounded appealing—after all, who wouldn't want to emulate the traits of Celestia? She is a good princess, after all.\n\nDays before returning to duty, the Equestrian Civil War broke out, trapping Light in Stableside. Seeing an opportunity to serve, Light pledged his efforts to the Lodge, offering his naval knowledge and experience. When Good Word was elected to office, Light was promoted to full Admiral and offered a position as a naval advisor in the new government.\n\nCome what may, Light Shine was aglow with devotion, no matter which direction it took him and the Lodge."
   CES_anneal: "Аннеал"
-  #CES_anneal_desc:0 "§YBorn§!: March 23, 982, Hollow Shades, Equestria\n\n§YBiography§!: The youngest daughter of a thestral and a pegasus, Anneal grew up in a middle-class family with older brother. With the return of the Princess of the Night, both found work in the newly reorganized Lunar Guard. Anneal worked as a blacksmith, primarily responsible for forging most of the ceremonial weapons and armor used by guardponies. She received high marks in officer school, but was a little frustrated in always being a few ranks behind her elder sibling.\n\nThen, in a cruel twist of fate, the Luna she once knew transformed into Nightmare Moon once more. While Anneal continued to serve under the Lunar Empire's ranks under Crescent Glow in the south, she already had questions over continuing to serve a dogmatic tyrant. So when Crescent defected, the young captain had little hesitation in joining her. Although far from home in an unfamiliar land, Anneal is determined to see the fight for harmony to the end.\n\n§YPortrait By§!: Moonatik"
 
   # Радники
   CES_quibble_pants: "Квіббл Пентс"
-  #CES_quibble_pants_desc:0 "Quite possibly the single most annoying pony in all of Equestria. At least, to Daring Do he is."
-  #CES_quibble_pants_desc_leader:0 "Still the single most annoying pony in all of Equestria."
-  #CES_quibble_pants_desc_leader_solarist:0 "Despite not being that devout of a Lodger, the Empress saw fit to instate Quibble Pants as the leader of the Friendship Lodge as it undergoes its radical restructuring under her close supervision. That doesn't make him any less annoying to listen to."
   CES_tiger_eyes: "Тайґер Айз"
   CES_swift_justice: "Свіфт Джастис"
   CES_lesa_flare: "Леза Флейр" # Флер
@@ -492,16 +612,10 @@
   CES_young_bridge: "Янґ Бридж"
   CES_solemn_vow: "Солем Вау"
   CES_sweet_bliss: "Світ Блисс"
-  #CES_sweet_bliss_desc_sol:0 "§YBorn§!: May 1, 989, Salt Lick City, Equestria\n\n§YBiography§!: For many ponies, the love of Celestia is as pure as the love one holds for their home. Those ponies see the princess of the sun as nothing more than a respected ruler, one who shows kindness to her subjects as much as she expects kindness from them. But this pony...\n\nThe pony known as Sweet Bliss is an enigmatic mare. If you asked her, she would weave a tale of a bullied filly, an abusive household, and stalwart pacifism in the face of adversity. On one day, she'd say she had suffered from addiction, and another, hedonism. But one thing she was always consistent about was that she looked up to Celestia.\n\nShe was a free spirit, one did not want to be tied down by the realities of finances and her health. She would roam from city to city, living off of the kindness of others, but inevitably, she would exhaust that kindness and move on, bitter that kindness could be exhausted at all. Eventually, she had found her way to Stableside, now heavily dependent upon illegal substances she had sampled throughout her life.\n\nUpon Celestia's transformation into Daybreaker, Sweet Bliss found salvation in the form of the Friendship Lodge. Their kindness was strange, but seemingly limitless. They would nurse her back to health. Some of them would adopt her as their sister. She would take their tenets to heart, but she viewed them through a different lens: While faith is the ultimate weapon, to truly defeat all obstacles, one must turn their eyes from all else. When faith is all they have, every other need melts away. When faith has consumed them and their reality is reshaped, they will do anything to hold onto it - for ignorance is bliss.\n\n§YPortrait By§!: OpalRadiance"
   CES_righteous_fervor: "Райчес Фервор"
-  #CES_righteous_fervor_desc_sol:0 "§YBorn§!: December 21, 977, Stableside, Equestria\n\n§YBiography§!: For many ponies, the love of Celestia is as pure as the love one holds for their home. Those ponies see the princess of the sun as nothing more than a respected ruler, one who shows kindness to her subjects as much as she expects kindness from them. But this pony...\n\nRighteous Fervor's birth on the winter solstice was seen as a bad omen by his superstitious parents. Every single mistake he made as a colt, real or imagined, was brutally punished until all he could do was confess to his sins. His only saving grace was the light of Celestia's sun, which comforted him even during the worst beatings. It gave him the strength to persevere, and despite the abuse he received, it helped him show kindness and love to his brothers.\n\nUpon Celestia's transformation into Daybreaker, Righteous Fervor felt strange. The sun's warmth seemed to now be selective in who it embraced. For the first time in his life, he felt just. He felt right. He felt like he had a purpose now: to share the light with all who were faithful. He would force everypony he met to confess their sins, for he would judge if they were worthy of the new Celestia's love.\n\nTo Righteous Fervor, the majority of ponies in the Solar Empire were no better than the Lunarists he extracted confessions from. He fervently wished that he could judge them... to accuse them of their unfaithful heresies... but most of all, he wanted to command them to repent and to hear them all say naught but one word: "Yes!"\n\n§YPortrait By§!: Bunnyshrubby"
   CES_ardent_struggle: "Ардент Страґґл"
-  #CES_ardent_struggle_desc:0 "§YBorn§!: October 10, 965, Stableside, Equestria\n\n§YBiography§!: For many ponies, the love of Celestia is as pure as the love one holds for their home. Those ponies see the princess of the sun as nothing more than a respected ruler, one who shows kindness to her subjects as much as she expects kindness from them. But this pony...\n\nArdent Struggle was no weakling. Ever since he was young, he fought against those he saw as unjust, from bullies to his parents, and even the local authorities on several occasions. He was seen as a protector by those close to him; a pony who would not stand to let the corrupt abuse their authority. And the only authority free from corruption was Celestia.\n\nHis sense of justice convinced him to volunteer to help the Colthaginian Republic defend itself from the Storm King. After a disastrous rout, he and one of his squadmates became stranded in the Zarantian desert with little supplies. He knew he would not survive with what they had left, so he committed the unthinkable on his friend in order to make it back home safely.\n\nUpon Celestia's transformation into Daybreaker, Ardent Struggle reawoke from his traumatized state. He saw the fiery alicorn's ascension as a new chance for himself - a chance to prove his strength and the strength of others for the one true judge of ponykind. There would be no room for the weak in this new world - only him, only the faithful, and if you did not die during his trials, only you.\n\n§YPortrait By§!: Bunnyshrubby"
   CES_fiery_brimstone: "Фаєрі Бримстоун"
-  #CES_fiery_brimstone_desc:0 "§YBorn§!: March 27, 967, Stableside, Equestria\n\n§YBiography§!: For many ponies, the love of Celestia is as pure as the love one holds for their home. Those ponies see the princess of the sun as nothing more than a respected ruler, one who shows kindness to her subjects as much as she expects kindness from them. But this pony...\n\nFiery Brimstone always saw Celestia as not just the ruler of Equestria, but the rightful ruler of all of Equus. After all, she had kept Equestria together for a thousand years by herself, why should she not have authority over the countless other unstable nations that rise and fall? Being a hooves-off ruler has shown that her kindness was a mistake, one that angered this stallion and his siblings as they watched Equestria fracture into pieces out of her inaction.\n\nUpon Celestia's transformation into Daybreaker, Fiery Brimstone felt like he had a purpose for the first time in his life. The Friendship Lodge offered him some comfort before, but now with their reawakening into a religion under the guidance of their new prophet, Fiery knew that this... this was right. This was the true faith. And he knew that he must ensure that all ponies under the sun know the love of this new Celestia... by peace if possible, though he knew many sinners would not accept Her.\n\nTo Fiery Brimstone, not even the misguided ponies in the Solar Empire understood Celestia as he and the Friendship Lodge did. Kindness and mercy only deserved to be given to Her faithful, while his namesake was to be dealt out to all others. For the only love that the unfaithful deserve is death.\n\n§YPortrait By§!: Twotail813"
-  #CES_fiery_brimstone_desc_leader:0 "§YBorn§!: March 27, 969, Stableside, Equestria\n\n§YBiography§!: For many ponies, the love of Celestia is as pure as the love one holds for their home. Those ponies see the princess of the sun as nothing more than a respected ruler, one who shows kindness to her subjects as much as she expects kindness from them. But this pony...\n\nFiery Brimstone always saw Celestia as not just the ruler of Equestria, but the rightful ruler of all of Equus. After all, she had kept Equestria together for a thousand years by herself, why should she not have authority over the countless other unstable nations that rise and fall? Being a hooves-off ruler has shown that her kindness was a mistake, one that angered this stallion and his siblings as they watched Equestria fracture into pieces out of her inaction.\n\nUpon Celestia's transformation into Daybreaker, Fiery Brimstone felt like he had a purpose for the first time in his life. The Friendship Lodge offered him some comfort before, but now with their reawakening into a religion under the guidance of their new prophet, Fiery knew that this... this was right. This was the true faith. And he knew that he must ensure that all ponies under the sun know the love of this new Celestia... by peace if possible, though he knew many sinners would not accept Her.\n\nTo Fiery Brimstone, not even the misguided ponies in the Solar Empire understood Celestia as he and the Friendship Lodge did. Kindness and mercy only deserved to be given to Her faithful, while his namesake was to be dealt out to all others. For the only love that the unfaithful deserve is death.\n\n§YPortrait By§!: Twotail813"
   CES_cirrus_cloud: "Циррус Клауд"
-  CES_cirrus_cloud_desc: "" #TODO Cofido please insert her bio here when she gets one in FLY
 
  ### ПАРТІЇ ###
   CES_neutrality_party: "Кабальєронові лоялісти"
@@ -509,6 +623,16 @@
   CES_democratic_party: "Селестійські лоялісти"
   CES_fascism_party: "Лунні лоялісти"
   CES_fascism_daybreaker_party: "Лоялісти Дейбрейкер"
+  CES_democratic_p_party: "Надзвичайний уряд"
+  CES_democratic_p_party_long: "Надзвичайний перехідний уряд Дерінґ Ду"
+  CES_neutrality_p_party: "АВФ"
+  CES_neutrality_p_party_long: "Астланський визвольний фронт"
+  CES_fascism_p_party: "Залишки лунаристів"
+  CES_fascism_p_party_long: "Залишки лунаристів"
+  CES_communism_p_party: "ФВПС"
+  CES_communism_p_party_long: "Фронт визволення південного сходу"
+  CES_fascism_2p_party: "АФПП"
+  CES_fascism_2p_party_long: "Астланська фестральна партія прав"
   # Далі йде решта назв. Додати відразу перекладеними.
 
 # country_CME
@@ -874,7 +998,7 @@
  DMT_communism_ADJ: "Діамантогірськ"
 
  ### ПАРТІЇ ###
-  # Назви взяті з російської, бо так легше.
+  # Назви взяті з російської, бо так легше. ~ L.H.
   DMT_neutrality_party: "ЛАПА"
   DMT_neutrality_party_long: "Лоялістська асоціація псів-аристократів"
   DMT_communism_party: "ЛАЮ"
@@ -1167,7 +1291,6 @@
 
 # country_FIR
  EAW_WS_FIR: "Ялини: Сховані в лісах"
- #EAW_WS_FIR_desc:0 "Firtrees is a small collection of villages in the North-East of the Griffonian Continent. Bonedrift, the largest village, typically dominates the affairs of the realm, but a council of each tribe's chieftain convenes once every three months to discuss matters and address problems that are too large for one village to handle.\n\nFirtrees is an isolated place, covered in deep forests. The ponies here ignore almost everything that happens outside their borders, and even the bandits of the Sunstriker Clan rarely bother to raid them, so little is there here. §RMagic is strictly regulated§!, and only members of the Sacred Order are allowed to cast spells. Any illegal spellcasting is strictly punished, by any means up to and including §Rexile§!. In the wild lands of the north, being made an exile and outlaw is tantamount to a death sentence, making this punishment doubly horrifying. While some ponies regard this as unfair, it is one of the reasons why our nation has been §Ystable§! and §Ypeaceful§! for so long.\n\nIn 1007, Firtrees still seems peaceful, but ominous rumblings can be heard. The Chieftain of the Coldmouth Clan has died with no living family members, and there is a major dispute over who will succeed him. Some mention that §YShinespark§!, his daughter, may still live, but she was §Rexiled§! years ago for advancing §Rdangerous theories§!. We were almost certain that she had died, but there have been rumblings that she may still live. If she does, then it is likely that she will §Yreturn§!, and then she will have to be §Ydealt with§!, whether peacefully or by force. Will life in Firtrees continue as normal, or change irrevocably? Only time will tell...\n\nAnd behind all of this, strange lights are seen in the Deep Woods, and strange dreams have been plaguing the seers. Is it possible that the §RForest Spirits§! have awoken?"
 
  ### ПЕРСОНАЖІ ###
   # Лідери
@@ -1347,8 +1470,6 @@
   FRE_neutrality_party: "Коаліція кланнів"
   FRE_fascism_party: "Лорди-тріаги"
 
-  #FRE_tribal_federation_desc:0 "The Prìomh Chomhairle is a council of 87 Triaths and Toisiches who meet to discuss matters related to all tribes. The Taoiseach is elected to represent all the tribes internationally and to guide the tribes in matters of state."
-
  ### ПЕРСОНАЖІ ###
   # Лідери
   FRE_crimson_cridhe_an_dragon_nic_heart: "Кримзон нік Гарт"
@@ -1378,7 +1499,6 @@
 
  ### ІДЕЇ ###
   FRE_isolated_tribes: "Ізольовані племена"
-  #FRE_isolated_tribes_desc:0 "There are many tribes high in the mountains that know little of the council. While we will protect them, they are best left alone."
   FRE_traditional_army: "Традиційна армія"
   FRE_slowed_industralisation: "Уповільнена індустріалізація"
   FRE_appeased_breezies: "Брізі заспокоєні"
@@ -2366,10 +2486,7 @@
   KIR_communism_party_2_long: "Шлях Зростаючого Вогню — помірне полум'я" # типу «крило»?
   KIR_communism_party_3: "Зростаючий Вогонь — факелоносці"
   KIR_communism_party_3_long: "Факелоносці Зростаючого Вогню"
-  #KIR_communism_party_4:0 "Cascading Sparks"
-  #KIR_communism_party_4_long:0 "Cascading Sparks of the Rising Fire"
-  #KIR_communism_party_5:0 "Incarnadine Soldiery"
-  #KIR_communism_party_5_long:0 "Incarnadine Soldiery of the Path of the Rising Fire"
+  #
   KIR_communism_party_A: "МСРПК"
   KIR_communism_party_A_long: "Марксистсько-сталліоністська робітнича партія Кірії"
   KIR_communism_party_A1: "МСРПК(А)"
@@ -2382,11 +2499,10 @@
   KIR_communism_party_A4_long: "Комуністичний трудівничий альянс Кірії"
   KIR_children_of_concord_party: "Робітничо-селянський союз"
   KIR_children_of_concord_party_long: "Всекірійський союз робітників і селян"
-  #KIR_children_of_concord_party_1:0 "Communion of Trinity"
-  #KIR_children_of_concord_party_1_long:0 "Communion of Her Radiant Trinity"
+  #
 
-  #KIR_communism_party_X: "Зростаючий Вогонь"
-  #KIR_communism_party_X_long:0 "All-Communion Path of the Rising Fire"
+  KIR_communism_party_X: "Зростаючий Вогонь"
+  #
 
   KIR_democratic_party_1: "ПЦтГ"
   KIR_democratic_party_1_long: "Партія царства та гармонії"
@@ -2408,30 +2524,13 @@
 
   KIR_EQS_party: "Червоні підкови"
   KIR_EQS_party_long: "Міжнародний комітет Червоних підков"
-  #KIR_neutrality_party_DEL_long:0 "Kirian Forces South"
-  #KIR_neutrality_party_DEL:0 "KIRFORS"
-  #KIR_neutrality_party_DEL_SET_long:0 "Shareholder Council of the South Sea Enterprise Territory"
-  #KIR_neutrality_party_DEL_SET:0 "SSET Shareholder Council"
-  #KIR_fascism_party_DEL_long:0 "Sworn Order for the Conquest of the Far South"
-  #KIR_fascism_party_DEL:0 "SOCFS"
-  #KIR_remnants_party:0 "Remnants"
+  #
   KIR_pirate_party: "Пірати Перламутра"
   KIRIN_VERMILION_PARTY_fascism: "Імперська рада"
   KIRIN_VERMILION_PARTY_fascism_LONG: "Віцекоролівська рада імперської Кіноварної династії"
   KIRIN_VERMILION_PARTY: "Кіноварна рада"
   KIRIN_VERMILION_PARTY_LONG: "Віцекоролівська рада Кіноварної династії"
-  #KIR_PRS:0 "Society to Pierce the Veil"
-  #FRV_communism_name:0 "CCC" ##big tent left-wing popular front
-  #FRV_communism_name_long:0 "Confederation of Citizen Committees"
-  #FRV_democratic_name:0 "Provisional Assembly" ##harmonist socdem liberal assembly
-  #FRV_democratic_name_long:0 "Provisional Assembly of Fragrance"
-  #FRV_democratic_name_A:0 "Popular Assembly"
-  #FRV_democratic_name_A_long:0 "Popular Assembly of Fragrance"
-  #FRV_fascism_name:0 "NCNU" ##nativist party, defacto NAKP rump
-  #FRV_fascism_name_long:0 "Northern Civic-National Union"
-  #FRV_neutrality_name:0 "UCF" ##anarchist federation. nonaligned for expediency's sake but encompasses anarcho-communist as well as other anarchist tendencies.
-  #FRV_neutrality_name_long:0 "Urban Contumacy Federation"
-  ##the MSWPK split over the Fragrance revolt. Some had already been purged by Rising Sun. Some sided with the Rising Fire. the syndicalist faction of the MSWPK with ties to the Fragrance labour movement and CCC sided with the revolt.
+  #
 
   CFR_neutrality_name_long: "Тимчасова військова адміністрація чейнджлінґів у Пахощах"
   CFR_neutrality_name: "Адміністрація чейнджлінґів"
@@ -2439,50 +2538,26 @@
   CFR_neutrality_name_A: "Громадська адміністрація"
   CFR_fascism_name_long: "Main Hive Industries — остзебриканська філія"
   CFR_fascism_name: "Виконавча рада MHI"
-  #CFR_fascism_name_A_long:0 "Hiveskolonialamt Neu Olenia"
-  #CFR_fascism_name_A:0 "Hiveskolonialamt"
-  #CFR_fascism_name_B_long:0 "Oberkommando der Ost-Zebrika"
-  #CFR_fascism_name_B:0 "Oberkommando OZ"
-
-  #KIR_neutrality_bloc_party:0 "NAForBeR"
-  #KIR_neutrality_bloc_party_long:0 "Non-Aligned Forum for the Betterment of the Realm"
-  #KIR_communism_bloc_party:0 "KA"
-  #KIR_communism_bloc_party_long:0 "Kiria Awoken"
-  #KIR_democratic_bloc_party:0 "UfH"
-  #KIR_democratic_bloc_party_long:0 "United for Harmony"
-  #KIR_fascism_bloc_party:0 "RA"
-  #KIR_fascism_bloc_party_long:0 "Right Alliance"
+  #
 
   harmonic_constitutionalism_KIR: "Демократичний матріархізм"
-  #KIR_harmonic_constitutionalism_desc:0 "Democratic Matriarchism refers to a type of harmony, unique to Kiria, that combines republican, monarchist and theocratic elements. The Matriarch Superior of the Vermilion Dynasty remains the moral, political and spiritual leader of Kiria and the kirin people. However, her direct involvement in the governance of the Realm has been delegated to the Kirian Premier and Kiria's democratically elected bicameral legislature, which comprises the Morning Secretariat and the National Plenum of the Provinces."
 
  ### ПЕРСОНАЖІ ###
   # Лідери
   KIR_rain_shine: "Рейн Шайн"
-  #KIR_rain_shine_desc:0 "§YBorn:§! 2 April 945 in Vermilion\n\n§YBiography:§! Matriarch Superior Rain Shine has lived her entire life upholding the imperial decrees that instituted the societal and cultural stagnation and decay of the Realm of Kiria, and never once did she imagine that she would be the kirin to undo them. The decrees had been issued by her mother, Matriarch Superior Noctilucent Charm, in 902, and when she passed in 971, Rain Shine swore upon her ascension pyre that she would maintain her mother's policies and devote her life to studying the Way of Fire and the teachings of the fire goddess, Concord, to protect Kiria.\n\nHowever, in 1006, an unexpected diplomatic mission from Equestria ventured into the isolated nation and reached Rain Shine's court in Vermilion. There, two bearers of the Elements of Harmony, Fluttershy and Applejack, argued that they had seen kirin living in poverty and squalor all throughout the realm as a result of The Silence, and while it was effective in preventing nirik transformations, it needed to end for the good of all kirinkind. They offered Equestrian aid in getting the nation back on its hooves, and Rain Shine, isolated from her subjects in the royal palace and oblivious to their plights, realized that continuing The Silence would only spell doom for her subjects in the long run. Though she had sworn to uphold her mother's policies, once Rain Shine learned of the terrible cost The Silence had on the people of Kiria, she agreed to repeal her mother's decrees and end it once and for all.\n\nNow, with The Silence ending in Kiria, Rain Shine has pledged to make up for her mother's mistakes and bring the kirin species into the modern age. But after 60 years of seclusion in Vermilion, Rain Shine may find that her authority is nowhere near as strong as her mother's was a century ago.\n\n§YPortrait by:§! Twotail813"
   KIR_winter_frost: "Вінтер Фрост"
-  #KIR_winter_frost_desc:0 "§YBorn§!: 29 December 966 in Agate\n\n§YBiography:§!: Born in the mountainous monastery-town of Agate, Winter Frost was surrounded with the religious and mystic fervor of The Way of Fire from the moment of her birth. As she grew older, the young kirin quickly found herself deeply infatuated with the love and divine guidance the Kirin fire goddess, Concord, had blessed her people with, and as such, Winter devoted her entire life to understanding Concord's teachings and sharing them with the rest of the kirin species. Regularly spending many dark winter mornings in mediation along the highest peaks of the holy mountain range that surrounded Vermilion, Winter Frost's devotion was soon rewarded when she was chosen to go to Vermilion and further her service to Concord by serving Matriarch Superior Rain Shine herself. As such, Winter became one of the few kirin who had personally met and interacted with the reclusive Matriarch before The Silence ended, and she became personally devoted and loyal to the Matriarch alongside her fierce devotion to The Way of Fire. Such devotion led to her becoming personally favored by the Kirin Matriarch, and by the time The Silence was officially repealed, Winter Frost was the most influential priestess in Vermilion.\n\nAs The Silence gave way to a new era of politics in Vermilion, Winter Frost became the loudest critic of reckless modernisation and provided a solid rock to anchor the concerns of the kirin religion to, regularly pushing against motions, bills, and decrees that she believed threatened the sanctity of Concord's divine teachings. When Kiria collapsed into civil war as a result of her protests being ignored, the priestess soon replaced the inept and naive Imperial Premier Autumn Blaze as Rain Shine's most important advisor. Now, Winter Frost works to bring Kiria back to its roots of firm faith and unyielding devotion to Concord and The Way of Fire, and find the answers to Kiria's modernization problem in Concord's teachings.\n\n§YPortrait by:§! Twotail813"
   KIR_fickle_current: "Фікл Каррент"
-  #KIR_fickle_current_desc:0 "§YBorn§!: 11 October 953 in Skyfall\n\n§YBiography:§!: Despite his rise to power in Kiria, Fickle Current was not born a son of the Realm. Rather, he was foaled in Skyfall, where his family had fled the crushing economic collapse that struck hold of Kiria as The Silence was imposed at the beginning of the 10th century. It was there in Skyfall that the Sycee Trading House, one of the Realm's strongest trading conglomerates before The Silence, had relocated, and Current's family enjoyed close ties to the Trading House that left them extremely wealthy. With the wealth that his family possessed, Current was able to afford a prestigious education in Yale, where he was personally tutored by Cypress Snow, another member of the Kirin diaspora and its foremost literati. Under Snow's guidance, Current learned to sharpen his business acumen and cunning insight that would serve him well as a successful businesskirin and, later, the natural fit for leader of the NAKP during the Grand Gallop Onward in Kiria.\n\nIt was only late in 1006 when Fickle Current stepped hoof in Fragrance, the city of his ancestors, for the first time as The Silence began to lift across the Realm. Remembering the tales of how ineptitude and superstition in Vermilion once forced his family into exile and nearly impoverished them, Current soon resolved to be a champion for the kirin who lost everything in Fragrance and do everything he could to truly modernize Kiria according to what he and the rest of the Kirin diaspora knew in Skyfall and throughout western Griffonia. Unfettered capitalism would be the order of the day, for the wheels of progress in such a backwards land could only be turned with the grease of tremendous investment into the Realm. If Kiria ever wanted to truly join the modern world as a functional nation, it would take an almost unimaginable level of investment, and so Current has resolved to do everything he can to make the nation an enticing opportunity for the wealthy.\n\n§YPortrait by:§! Twotail813"
   KIR_autumn_blaze: "Отем Блейз"
-  #KIR_autumn_blaze_desc:0 "§YBorn§!: 20 September 977 in Massicot\n\n§YBiography:§!: Autumn Blaze was never meant to rise as far as she has in her life, born the daughter to poor farmers in Massicot. Though originally destined for a life of the same hardships and meagre living as her parents, Autumn's family managed to get their daughter residence in a temple to Concord in Massicot at the age of seven, where she studied for five years before dropping out and returning to the family farm. In those five years, however, Autumn learned how to read and write, how to perform arithmetic, and perhaps most importantly of all, how to study and interpret the teachings of the fire goddess Concord in religious texts. Though she would never use that particular skill in service to The Way of Fire, Autumn made excellent use of her command over words as both a sword to attack with and a shield to defend against, allowing her to use it as a tool to carve her own path in life. Though she originally put it toward making musicals, plays, and even thought-provoking comedic dissections of the stagnation of kirin life under The Silence, it would serve her the best in 1006, when the Equestrian delegation to Kiria wandered into Massicot.\n\nBeing one of the only kirin in Massicot who knew Ponish because of her studies, Autumn was able to guide the Equestrians, two ponies named Fluttershy and Applejack, to Vermilion, where they sought to make contact with Kiria's Matriarch Superior, Rain Shine, and establish diplomatic ties. Because of her efforts, they were successful, and Autumn ultimately formed a close friendship with Rain Shine when all was said and done. That friendship led her to become Rain Shine's first premier, and guided her through the All-Kirin Plenum for National Revival as its steadfast and enthusiastic leader.\n\nNow, with her like-minded Harmonists in secure control over Kiria, Autumn can extend her influence once more, having learned many hard lessons from the Plenum. With the country in her hooves, she seeks to reconcile Kiria's traditionalist and theocratic past with a vision of a modern Harmonic nation like Equestria. Time will tell if she is successful.\n\n§YPortrait by:§! Twotail813"
   KIR_rising_sun: "Райзинґ Сан"
-  #KIR_rising_sun_desc:0 "§YBorn§!: 13 July 969 in Chrysanthemum\n\n§YBiography:§!: Not much is known about the mare who calls herself Rising Sun, and what is known paints only a vague picture at best. By her own admission, Rising Sun was born in Chrysanthemum and studied to become a priestess in the Way of Fire, as such a lifestyle was the only way to escape the utter stagnation of The Silence while it still held Kiria in its stranglehold. But even as a priestess of The Way of Fire, the mare was often regarded by her peers as too smart for her own good and twice as cunning as the most mischievous fox. She would regularly debate her senior priests about the merits and drawbacks of strictly adhering to the Matriarch Superior's decrees when all they brought about was suffering and ruin for the people of Kiria, and was regularly chastised for it. For the mare who was too smart by half for the lifestyle she had chosen, Rising Sun had reached a frustrating theological dead end to the problems surrounding Kiria.\n\nRealizing that she would never advance as a priestess in The Way of Fire, Rising Sun sailed down the Mellifluve where she ultimately ended up in Verdant at the age of 20. Once there, she quickly realized that Verdant was prospering where Chrysanthemum languished. The Silence was still in full swing over the city, but the many island communities of Verdant had formed their own cooperative communes that worked together to the benefit of all without breaking any of the Matriarch's decrees. Additionally, there was no rigid religious structure that dominate the everyday lives of the kirin in the city, only an individual communion between the average kirin and Concord, with spiritual leaders to aid their followers along toward their own revelations. Rising Sun quickly immersed herself in these beliefs, and in no time at all, had risen to the top of this new sect of The Way of Fire. Naming her sect the Rising Fire, Rising Sun would return to Chrysanthemum to spread her new teachings to the kirin of the west, and made many visits to towns and workshops around Kiria before ultimately ending up in Vermilion as the Grand Gallop Onward progressed to bring her teachings to a new level of national awareness.\n\nNow, Rising Sun finds herself on top of the Realm's food chain, in a position of almost unlimited authority and power. The Rising Fire has risen with her as well, and her beliefs are ready to be shared across the Realm. The Rising Fire is grappling with The Way of Fire, and Rising Sun will be the one to bring about a new era of theology and change to Kiria, one it never could have imagined before.\n\n§YPortrait by:§! Twotail813"
 
   # Радники
   KIR_pol_1: "$KIR_autumn_blaze$"
-  KIR_pol_1_desc:0 "Autumn Blaze was never meant to rise as far as she has in her life, born the daughter to poor farmers in Massicot. Though originally destined for a life of the same hardships and meagre living as her parents, Autumn's family managed to get their daughter residence in a temple to Concord in Massicot at the age of seven, where she studied for five years before dropping out and returning to the family farm. In those five years, however, Autumn learned how to read and write, how to perform arithmetic, and perhaps most importantly of all, how to study and interpret the teachings of the fire goddess Concord in religious texts. Though she would never use that particular skill in service to The Way of Fire, Autumn made excellent use of her command over words as both a sword to attack with and a shield to defend against, allowing her to use it as a tool to carve her own path in life. Though she originally put it toward making musicals, plays, and even thought-provoking comedic dissections of the stagnation of kirin life under The Silence, it would serve her the best in 1006, when the Equestrian delegation to Kiria wandered into Massicot.\n\nBeing one of the only kirin in Massicot who knew Ponish because of her studies, Autumn was able to guide the Equestrians, two ponies named Fluttershy and Applejack, to Vermilion, where they sought to make contact with Kiria's Matriarch Superior, Rain Shine, and establish diplomatic ties. Because of her efforts, they were successful, and Autumn ultimately formed a close friendship with Rain Shine when all was said and done. That friendship led her to become Rain Shine's first premier, and now she seeks to guide the All-Kirin Plenum for National Revival as its steadfast and enthusiastic leader. Time will tell if she is successful.\n\n§YPortrait by:§! Twotail813"
   KIR_pol_1_sick_tt: "$KIR_autumn_blaze$ захворіла"
   KIR_pol_2: "$KIR_fickle_current$"
-  KIR_pol_2_desc:0 "Despite his rise to prominence in Kiria, Fickle Current was not born a son of the Realm. Rather, he was foaled in Skyfall, where his family had fled the crushing economic collapse that struck hold of Kiria as The Silence was imposed at the beginning of the 10th century. It was there in Skyfall that the Sycee Trading House, one of the Realm's strongest trading conglomerates before The Silence, had relocated, and Current's family enjoyed close ties to the Trading House that left them extremely wealthy. With the wealth that his family possessed, Current was able to afford a prestigious education in Yale, where he was personally tutored by Cypress Snow, another member of the Kirin diaspora and its foremost literati. Under Snow's guidance, Current learned to sharpen his business acumen and cunning insight that would serve him well as a successful businesskirin and, later, the natural fit to represent the business interests of the returning kirin diaspora during the Grand Gallop Onward.\n\nIt was only late in 1006 when Fickle Current stepped hoof in Fragrance, the city of his ancestors, for the first time as The Silence began to lift across the Realm. Remembering the tales of how ineptitude and superstition in Vermilion once forced his family into exile and nearly impoverished them, Current soon resolved to be a champion for the kirin who lost everything in Fragrance and do everything he could to truly modernize Kiria according to what he and the rest of the Kirin diaspora knew in Skyfall and throughout western Griffonia. Unfettered capitalism would be the order of the day, for the wheels of progress in such a backwards land could only be turned with the grease of tremendous investment into the Realm. If Kiria ever wanted to truly join the modern world as a funcitonal nation, it would take an almost unimaginable level of investment, and so Current has resolved to do everything he can to make the nation an enticing opportunity for the wealthy.\n\n§YPortrait by:§! Twotail813"
   KIR_pol_3: "$KIR_winter_frost$"
-  KIR_pol_3_desc:0 "Born in the mountainous monastery-town of Agate, Winter Frost was surrounded with the religious and mystic fervor of The Way of Fire from the moment of her birth. As she grew older, the young kirin quickly found herself deeply infatuated with the love and divine guidance the Kirin fire goddess, Concord, had blessed her people with, and as such, Winter devoted her entire life to understanding Concord's teachings and sharing them with the rest of the kirin species. Regularly spending many dark winter mornings in mediation along the highest peaks of the holy mountain range that surrounded Vermilion, Winter Frost's devotion was soon rewarded when she was chosen to go to Vermilion and further her service to Concord by serving Matriarch Superior Rain Shine herself. As such, Winter became one of the few kirin who had personally met and interacted with the reclusive Matriarch before The Silence ended, and she became personally devoted and loyal to the Matriarch alongside her fierce devotion to The Way of Fire. Such devotion led to her becoming personally favored by the Kirin Matriarch, and by the time The Silence was officially repealed, Winter Frost was the most influential priestess in Vermilion.\n\nAs The Silence gives way to a new era of politics in Vermilion, Winter Frost has become the loudest critic of reckless modernisation and provides a solid rock to anchor the concerns of the kirin religion to, regularly pushing against motions, bills, and decrees that she believes threaten the sanctity of Concord's divine teachings. While the Plenum seeks to find new answers to the challenges of modernization, Winter Frost works to bring Kiria back to its roots of firm faith and unyielding devotion to Concord and The Way of Fire, and find the answers to Kiria's modernization problem in Concord's teachings.\n\n§YPortrait by:§! Twotail813"
   KIR_pol_4: "$KIR_rising_sun$"
-  KIR_pol_4_desc:0 "Not much is known about the mare who calls herself Rising Sun, and what is known paints only a vague picture at best. By her own admission, Rising Sun was born in Chrysanthemum and studied to become a priestess in the Way of Fire. But even as a priestess, the mare was often regarded by her peers as too smart for her own good and twice as cunning as the most mischievous fox. She would regularly debate her senior priests about the merits and drawbacks of strictly adhering to the Matriarch Superior's decrees when all they brought about was suffering and ruin for the people of Kiria, and was regularly chastised for it. For the mare who was too smart by half for the lifestyle she had chosen, Rising Sun had reached a frustrating theological dead end to the problems surrounding Kiria.\n\nRealizing that she would never advance as a priestess in The Way of Fire, Rising Sun sailed down the Mellifluve where she ultimately ended up in Verdant at the age of 20. Once there, she quickly realized that Verdant was prospering where Chrysanthemum languished. The Silence was still in full swing over the city, but the many island communities of Verdant had formed their own cooperative communes that worked together to the benefit of all without breaking any of the Matriarch's decrees. Additionally, there was no rigid religious structure that dominated the everyday lives of the kirin in the city, only an individual communion between the average kirin and Concord, with spiritual leaders to aid their followers along toward their own revelations. Rising Sun quickly immersed herself in these beliefs, and in no time at all, had risen to the top of this new sect of The Way of Fire. Naming her sect the Rising Fire, Rising Sun would return to Chrysanthemum to spread her new teachings to the kirin of the west, and made many visits to towns and workshops around Kiria before ultimately ending up in Vermilion as the Grand Gallop Onward progressed to bring her teachings to a new level of national awareness.\n\n§YPortrait by:§! Twotail813"
   KIR_cypress_snow: "Сайпрес Сноу"
-  KIR_cypress_snow_desc:0 "The foremost intellectual of the kirin diaspora and mentor to Fickle Current, Cypress Snow serves as the bridge between the struggles of a modern Kiria and the ideas of the diaspora born and raised in Griffonia. Cypress hails from the lineage of the All-Kiria Artificers' Guild, and was tutored from a young age with the best scholars that money could buy, both within Griffonia and from Equestria overseas. His sharp mind and great ambition led to him pursuing several doctorates at both Griffonian and Equestrian universities, and he would eventually move to Yale and serve as a professor and mentor for countless members of the kirin diaspora that sought the best education they could afford. In each of them, Cypress instilled a sense of pride and superiority that they were the lucky kirin to escape the wasteful devastation that The Silence had imposed on their ancestral homeland, and they were better for it. And furthermore, he assured them that one day, perhaps, they would return to Kiria and remodel it in their own image, that of the enlightened kirin who had shed the superstitions of the kirin theocracy to modernize like the rest of the world.\n\nNow Cypress Snow has returned to Kiria at the behest of his former protege, Fickle Current, to help recruit kirin from the diaspora and urge them to return to Kiria. Working closely with Current, Cypress makes sure that the whims and wishes of the diaspora are presented to its de facto leader for consideration, and aids in keeping them in line behind Current's policies. This has given him a great amount of influence in kirin politics, and puts him in a unique relationship with the wealthy and powerful returning diaspora that even Fickle Current himself lacks.\n\n§YPortrait by:§! Neither"
   KIR_pol_6: "Роаринґ Файр"
-  KIR_pol_6_desc:0 "The pirate queen known as Roaring Fire has become familiar with accomplishing the impossible. Born as a poor fishermare in Nacre on the pirate-controlled Auburn Isle, Roaring Fire joined her first pirating expedition at the age of 11 and never looked back. As she gained experience, so too did she gain respect from pirates all over the Isle for her fearless bravado and sharp mind. By the time she turned 19 she was captain of her own ship, and through clever diplomacy and cunning intrigue she began to amass a coalition of pirates and assembled a small flotilla. It was with this flotilla that, on one fateful night in 997, she lured the previous de facto pirate leader of the Auburn Isle and his ship out of his cove and beset upon him with a ferocity pirates still talk about in Nacre today. While cannonfire ripped through the wooden hulls of both junks, Roaring Fire swung off a rope and launched herself onto the enemy ship, where in a brutal display of blood and death, she cut through pirate after pirate until finally finding and besting the enemy captain. When she returned to Nacre the following morning with that pirate in chains, she cemented her legend and earned the loyalty of the brigands and buccaneers that called Auburn Isle home.\n\nThanks to her cunning, the pirates of the Auburn Isle have managed to survive into a new age. After successfully negotiating with Fickle Current to join his forces with her pirate armada serving as a mercenary navy, Roaring Fire spared her home from destruction by a resurgent Realm of Kiria and saved her pirates from the gallows. Now, standing at the forefront of a brave new world, the pirates of the Auburn Isle are firmly devoted to their pirate queen, and Roaring Fire is determined to not let them down.\n\n§YPortrait by:§! Twotail813"
 
  ### МІТКИ ###
   KIR_pol_1_available: "Розблоковано Отем Блейз"
@@ -2491,26 +2566,11 @@
   KIR_pol_4_available: "Розблоковано Райзинґ Сан"
   KIR_pol_5_available: "Розблоковано Сайпреса Сноу"
   KIR_pol_6_available: "Розблоковано Роаринґ Файр"
-  KIR_rhapsody_arsenal_available:0 "Unlocked Rhapsody Arsenal"
-  KIR_rhapsody_arsenal_rebranded_available:0 "Rhapsody Arsenal has been §Yrebranded§!."
-  KIR_sycee_trading_house_available:0 "Unlocked Sycee Trading House"
-  KIR_motor_bureau_available:0 "Unlocked Motor Bureau"
-  KIR_artificer_guild_available:0 "Unlocked All-Kiria Artificers' Guild"
-  KIR_military_directorate_available:0 "Unlocked Ordnance Bureau"
-  KIR_wingluck_consortium_available:0 "Unlocked Wingluck Consortium"
-  KIR_armour_bureau_available:0 "Unlocked Armor Bureau"
-  KIR_collegium_available:0 "Unlocked All-Kiria Collegium"
-  KIR_massicot_academy_available:0 "Unlocked Massicot War School"
-  KIR_cog_plow_bull_co_available:0 "Unlocked Taurus Concerns"
-  KIR_crane_heavy_industries_available:0 "Unlocked Crane Heavy Industries"
-  KIR_dreamboat_available:0 "Unlocked Dreamboat International"
-  KIR_scarlet_sails_shipyards_available:0 "Unlocked Scarlet Sails Shipping"
-  KIR_aureolin_monastery_available:0 "Unlocked Aureolin Monastery"
+  #
   KIR_can_have_banner_system: "Систему знамен впроваджено"
   KIR_great_leap_begun: "§Y3½-річний план§! виконується"
   KIR_bipartite_war_tt: "3½-річний план провалився"
-  KIR_bipartite_war_over_tt:0 "The War of Northern Secession is over"
-  KIC_fled_to_taungpau:0 "The Rising Fire has fled to Taungpau"
+  #
 
  KIR_milset_baobab: "Баобаб"
  KIR_milset_iroko: "Іроко"
@@ -3044,74 +3104,6 @@
  NCR_fascism_party: "Військова хунта"
  NCR_fascism_party_long: "Новокаліфорнійська військова хунта"
 
-# country_NIM
- NIM_fascism: "Німбусійська автократія"
- NIM_fascism_DEF: "Німбусійська автократія"
- NIM_fascism_ADJ: "Німбусійськ"
- NIM_democratic: "Республіка Німбусія"
- NIM_democratic_DEF: "Республіка Німбусія"
- NIM_democratic_ADJ: "Німбусійськ"
- NIM_neutrality: "Німбусія"
- NIM_neutrality_DEF: "Німбусія"
- NIM_neutrality_ADJ: "Німбусійськ"
- NIM_communism: "Німбусійська вільна республіка"
- NIM_communism_DEF: "Німбусійська вільна республіка"
- NIM_communism_ADJ: "Німбусійськ"
-
- ### ПАРТІЇ ###
-  NIM_neutrality_party: "Традиціоналісти"
-  NIM_democratic_party: "Реформісти"
-  NIM_fascism_party: "Пуристи"
-  NIM_communism_party: "Ілоти"
-
-  NIM_democratic_party_rep: "ПНД"
-  NIM_democratic_party_rep_long: "Партія нової демократії"
-  NIM_neutrality_party_rep: "ПНС"
-  NIM_neutrality_party_rep_long: "Партія німбусійської спадщини"
-  NIM_fascism_party_rep: "ПСН"
-  NIM_fascism_party_rep_long: "Партія сильної Німбусії"
-  NIM_communism_party_rep: "РЗЕ"
-  NIM_communism_party_rep_long: "Рух за емансипацію"
-
-  NIM_Traditionalist: "Традиціоналіст"
-  NIM_Purist: "Пурист"
-  NIM_Reformist: "Реформіст"
-
- #NIM_atrocities:0 "Caused terrible atrocities"
- NIM_vp_nesiasis: "Несіасіс"
-
- ### ПЕРСОНАЖІ ###
-  # Лідери
-  NIM_pegicles: "Пегікл"
-  NIM_the_boule: "Буле"
-  NIM_pegalaios: "Пегалай"
-  NIM_andreia: "Андрія" # Андрея?
-  NIM_metakeros: "Метакерос"
-  NIM_dialusides: "Діалісідіс" # Діалусідес?
-
-  # Ґенерали
-  NIM_gylhippos: "Гіліпп"
-  NIM_scleroanavates: "Склероанаватіс" # Склероанаватес?
-  NIM_synnefo_hionos: "Сіннефо Іонос"
-  NIM_anemoroe: "Анеморое"
-  NIM_sideropleon: "Сідероплеон"
-  NIM_keraunoptose: "Керавноптос"
-  NIM_iodis_avgi: "Іодіс Авгі"
-  NIM_shell_watch: "Паратірітіс Хелонас"
-  NIM_twenty_fifth_pegasus: "Тіфонас Категіда-Спафі"
-  NIM_javik: "Явік"
-
-  # Адмірали
-  NIM_kataigida_trieres: "Категіда Тріеріс" # Тріерес?
-
-  # Радники
-  NIM_harmony_advisor: "Понетагорас"
-  NIM_neutrality_advisor: "Демаркскіос"
-  NIM_fascism_advisor: "Спевсіппос"
-  NIM_advisor_3: "Силвер Морнинґ"
-  NIM_advisor_4: "Герекл"
-  NIM_high_command_3: "Паледонеус"
-
 # country_PCB
  PCB_ponse_cocktail: "Понсе Коктейл"
 
@@ -3401,11 +3393,8 @@
   # Лідери
   SIC_father_jose: "Отець Хосе"
   SIC_don_espadarte: "Дон Еспадарте"
-  #SIC_espadarte_desc:0 "How can a person like Don Espadarte be summarized in a few paragraphs? His personality is as colourful as it is diverse, and popular rumours about him muddle the truth. To some, he is a hero of the common folk, who steals from the rich and gives to the poor. To others, he is a criminal, a pirate, a true scoundrel. Griffons hate him or love him, and either interpretation can be the reason for such strong feelings.\n\nIn public, Don Espedarte is suave, a womanizer and a skilled negotiator, able to make difficult deals with others. Yet in private, he is a conflicted person, divided between being a true hero or taking advantage of others; common good against personal greed. His real name is known only to him, and his past is a well-kept secret. He is the son of a disgraced merchant, who was imprisoned for his acts of crime during the desperate times, when the Griffonian Empire collapsed and the continental economy was in tatters. As such, he was introduced to a life of crime at a young age, and has been arrested by Sicameonese authorities multiple times, yet has always managed to get released with only mild punishments. He became a big player in Sicameon's criminal underworld, forming many connections with mafia bosses and corsairs.\n\nNow, he is taking the gamble of his life, using questionable means to become the leader of Sicameon. Whether he simply seeks to exploit the populace or genuinely improve their lives remains to be seen, as his loyalty to his nation and his duty is faltering at best."
   SIC_alexis_de_sicameon: "Алексіс де Сікамеон"
-  #SIC_alexis_desc:0 "Alexis de Sicameon, whose name was Alexis Tórtola-Paloma before he became the Dux of Sicameon, comes from the nation's traditional political elite which consists of merchants and communal leaders of inland parishes. He rose to power in the customary manner, rising through the ranks and holding increasingly prestigious offices before finally reaching the top. This custom has its roots in the Karthinian period, having changed little over the centuries.\n\nAlexis is a pragmatist, caring less about ideals and more about what is practical and useful to his agenda. As such, he is flexible and willing to cooperate with his political enemies if necessary. Both his opponents and supporters would say he brought a feminine touch to his administration, preferring to resolve disputes in a delicate, empathic fashion. He is a humble and gentle person, popular across all strata of Sicameonese society, and simply wishes for peace and prosperity. Yet there are some who say he is too soft and too compromising, and that Sicameon needs radical solutions to its problems in these uncertain times."
   SIC_remige_plumar: "Реміхе Плюмар"
-  #SIC_remige_desc:0 "Growing up in the countryside, Remige Plumar experienced cultural shock as he moved to a coastal city, becoming exposed to a diverse influx of ideas brought to Sicameonese ports from abroad. He changed from a peasant to a lover of culture, but also realized that Sicameon was just one nation among many. Thus, he became a visionary, believing Sicameon should be strong to retain its independence, yet also take part in international affairs. He soon joined the main radical party of Sicameon, revitalizing it and shaking up the establishment with his unorthodox views.\n\nHis ideology, Sicameonese syndicalism, is a mix of both domestic and foreign ideas. He is a proponent of trade unions, strike actions and internationalism, yet also a devout member of Sycaecia's cult, a populist leader and an advocate of democracy. His ideas have spread widely among the working class of Sicameon, but have also made him an enemy of the merchants who have traditionally held much power in the country. Not only that, but he often finds himself in conflict with foreign socialists, making his aspirations of internationalism difficult to fulfill."
 
   # Ґенерали
   SIC_carlos_kartino_de_valle: "Карлос Картіно де Вальє"
@@ -3454,45 +3443,25 @@
 
  ### КОНСТРУКТОРИ ###
   arahno_vehiculos_especiales: "Arahno Vehiculos Especiales"
-  arahno_vehiculos_especiales_desc: ""
   construccion_agricola_tractores: "Compania de Tractores Agricolas"
-  construccion_agricola_tractores_desc: ""
   laboratoria_de_la_isla_escarlata: "Laboratorio de Isla Escarlata"
-  laboratoria_de_la_isla_escarlata_desc: ""
   nacional_de_electricidad_midoria: "Nacional de Electricidad Midoria"
-  nacional_de_electricidad_midoria_desc: ""
   nacional_de_electricidad_midoria_lvl2: "$nacional_de_electricidad_midoria$"
-  nacional_de_electricidad_midoria_lvl2_desc: ""
   nacional_de_electricidad_midoria_lvl3: "$nacional_de_electricidad_midoria$"
-  nacional_de_electricidad_midoria_lvl3_desc: ""
   fomento_de_obras_y_construcciones_sicameon_FOCS: "FOCS"
-  fomento_de_obras_y_construcciones_sicameon_FOCS_desc: ""
   arsenal_sycamore: "Arsenal Nacional Sycamore"
-  arsenal_sycamore_desc: ""
   estrella: "Estrella"
-  estrella_desc: ""
   estrella_lvl2: "$estrella$"
-  estrella_lvl2_desc: ""
   estrella_lvl3: "$estrella$"
-  estrella_lvl3_desc: ""
   motores_makomo: "Motores Makomo"
-  motores_makomo_desc: ""
   astilleros_y_talleres_de_queruscos: "Astilleros y Talleres de Queruscos"
-  astilleros_y_talleres_de_queruscos_desc: ""
   eritonaval: "Eritonaval"
-  eritonaval_desc: ""
   eritonaval_lvl2: "$eritonaval$"
-  eritonaval_lvl2_desc: ""
   eritonaval_lvl3: "$eritonaval$"
-  eritonaval_lvl3_desc: ""
   fast_battleship_committee_designer: "Comité de Acorazado Rápido"
-  fast_battleship_committee_designer_desc: ""
   construcciones_aeronauticas_escalara_CAEA: "CAEA"
-  construcciones_aeronauticas_escalara_CAEA_desc: ""
   ala_vuelo: "Ala-Vuelo"
-  ala-vuelo_desc: ""
   grupo_aviones_keowen: "Grupo Aviones Keowen"
-  grupo_aviones_keowen_desc: ""
 
  ### МОДИФІКАТОРИ ДУМКИ ###
  SIC_antimonarchism: "Антимонархізм"
@@ -3850,9 +3819,7 @@
 
  ### ІДЕЇ ###
   TRD_trading_with_skyfall_1: "Торгівля зі Скайфоллом"
-  #TRD_trading_with_skyfall_1_desc: ""
   TRD_trading_with_skyfall_2: "Торгівля зі Скайфоллом"
-  #TRD_trading_with_skyfall_2_desc: ""
 
  ### РІШЕННЯ ###
   TRD_trade_with_skyfall: "Торгувати зі Скайфоллом"
@@ -3926,7 +3893,6 @@
 
  ### ПЕРСОНАЖІ ###
   WAR_king_zarizel_ii: "Король Барекзамал VII"
-  #WAR_king_zarizel_ii_desc:0 "§YBorn§!: 24th of August, 984 in Zamivgazal\n\n§YBiography§!: The second son of Zamaliahon XV, Barekzamal had an idyllic childhood, free of struggle. While his brother, Zamaliahon, was subject to endless tutoring as the crown prince, Barekzamal spent his days playing with the foals of the nobility, and galloping gleefully through the streets of Zamivgazal. His favourite playmate was Ummazanit Nazlayn, the daughter of a prominent noble. Although she was intended as a future bride for his brother, they were never officially engaged, and she much preferred Barekzamal's company to that of his eccentric brother.\n\nWhen Zamaliahon was made king in 1001, he swiftly leapt into action. He formally renounced any intention of marrying in the near future, leaving Barekzamal and Ummazanit free to get married. The two soon sired their first foal, a colt named Hannizamal. However, since Barekzamal was technically his brother's successor, he did make an effort to educate himself on the basics of statecraft and governance. But there was no rush. After all, they were young, and had their whole lives ahead of them. His brother would eventually find a nice mare and Barekzamal could live the rest of his life in bliss. Unfortunately, the gods had other plans for the young prince, and in 1005, his precious world was turned upside down.\n\nAs the Storm King swept through the kingdom, Barekzamal and his family managed to escape, but his brother didn't, and was slain in the Palace by the invaders. When Barekzamal found out, he was overwhelmed by grief, weeping for hours on end. After the conqueror was slain, Barekzamal returned to Zamivgazal a changed person. He quickly set to work, trying to keep the nation afloat. Although he had some success, for the most part, his policies were ineffective as his inexperience betrayed him. Now, he sits uneasy on the throne as the threat of revolt grows. While not as unpopular as his father was, he definitely has his fair share of opposition. The fate of the nation rests on his haunches, and it will take monumental effort on his part to keep it, and his throne, from falling out of his grasp. But Barekzamal is determined to bring Warzena into a brighter future, where he can smile with his family once more."
   WAR_coalition_council: "Коаліційна рада"
   WAR_taniiaton: "Занійатон"
   WAR_benoam_zaadeh: "Бенноам Шімзел"
@@ -3949,39 +3915,22 @@
 
 # country_WIN
  WIN_gateway_to_zebrica_idea: "Ворота в Зебрику"
- WIN_gateway_to_zebrica_idea_desc: ""
  WIN_gateway_to_zebrica_idea_2: "$WIN_gateway_to_zebrica_idea$"
- WIN_gateway_to_zebrica_idea_2_desc: ""
  WIN_libertarian_economics_idea: "Справді вільний ринок"
- WIN_libertarian_economics_idea_desc: ""
  WIN_libertarian_economics_idea_2: "$WIN_libertarian_economics_idea$"
- WIN_libertarian_economics_idea_2_desc: ""
  WIN_libertarian_economics_idea_3: "$WIN_libertarian_economics_idea$"
- WIN_libertarian_economics_idea_3_desc: ""
  WIN_libertarian_economics_idea_4: "$WIN_libertarian_economics_idea$"
- WIN_libertarian_economics_idea_4_desc: ""
  WIN_libertarian_economics_idea_5: "$WIN_libertarian_economics_idea$"
- WIN_libertarian_economics_idea_5_desc: ""
  WIN_libertarian_society: "Вільне суспільство"
- WIN_libertarian_society_desc: ""
  WIN_libertarian_society_2: "$WIN_libertarian_society$"
- WIN_libertarian_society_2_desc: ""
  WIN_libertarian_society_3: "$WIN_libertarian_society$"
- WIN_libertarian_society_3_desc: ""
  WIN_libertarian_society_4: "$WIN_libertarian_society$"
- WIN_libertarian_society_4_desc: ""
  WIN_libertarian_society_5: "$WIN_libertarian_society$"
- WIN_libertarian_society_5_desc: ""
  WIN_libertarian_society_6: "$WIN_libertarian_society$"
- WIN_libertarian_society_6_desc: ""
  WIN_the_open_door_policy_idea: "Політика відчинених дверей"
- WIN_the_open_door_policy_idea_desc: ""
  WIN_the_open_door_policy_idea_2: "$WIN_the_open_door_policy_idea$"
- WIN_the_open_door_policy_idea_2_desc: ""
  WIN_the_open_door_policy_idea_3: "$WIN_the_open_door_policy_idea$"
- WIN_the_open_door_policy_idea_3_desc: ""
  WIN_the_open_door_policy_idea_4: "$WIN_the_open_door_policy_idea$"
- WIN_the_open_door_policy_idea_4_desc: ""
 
  WIN_free_city_fascism: "Вінґґарден"
  WIN_free_city_fascism_DEF: "Вільне місто Вінґґарден"
@@ -4036,14 +3985,10 @@
  WIN_occupation_authority_communism_ADJ: "Гіпогрифськ"
 
  libertarian_economy: "Лібертаріанська економіка"
- libertarian_economy_desc: ""
 
  WIN_super_free_economy: "Вільна торгівля"
- WIN_super_free_economy_desc: ""
  WIN_superest_free_economy: "Вільна торгівля"
- WIN_superest_free_economy_desc: ""
  WIN_chiropterran_economic_dominance: "Хіроптеррське економіне панування"
- WIN_chiropterran_economic_dominance_desc: ""
 
  WIN_wingbardian_influence_tp: "§rВплив Вінґбардії§!"
  WIN_chiropterran_influence_tp: "§2Вплив Хіроптерри§!"
@@ -4230,69 +4175,27 @@
  ### ПЕРСОНАЖІ ###
   # Лідери
   YAL_rector_magnificus_mikusian: "Ректор маґніфікус Мікусян"
-  #YAL_mikusian_desc:0 "§YBorn§!: 21st of October, 964 in Yale\n§YFunction§!: Rector Magnificus of Yale University and Praeses of the Academic Council\n§YBiography§!: Born into a middle class family in the old capital of the Yale Rectorate, Mikusian lived through the turbulent times of the Republican revolution as a teenager. Although many students of the Yalish universities fought for the various sides of the revolution, the country was spared the ravaging effects of war, with the Rectorate only choosing sides at the final moments of the conflict. The revolution left an impact on young Mikusian, who heard about the destruction war could cause via radio and newspaper.\nLike many young Yalish griffons, Mikusian grew up with tales of the country's enigmatic founder, Borean Wiedergreiff and the young griffon devoured all of the famed polymath's treatises during the revolution. By the time he enrolled for philosophy in Yale's university, Mikusian was a firm believer in Borean's rationalist philosophy of achieving peace through scientific advancement. Living and studying in the hallowed halls of Yale only strengthened the student's believes and by his second year, he decided he wanted to be a scientist and teach for himself.\nAnd so he did, finishing his studies without delay and writing his dissertation on the works of his idol. "Pax Scientiam: A dream worth pursuing?" was a smash hit across the academic community, securing Mikusian a teaching position. The scientist proved to be a popular lecturer and sometimes griffons had to sit on the lecture hall's stairs if they wanted to attend his vivid explanations of history, philosophy and discussions on the future of Griffonia. A final twist came in 1001, with the elections for the position of Rector. Urged by his students to stand, Mikusian won in a landslide, becoming the youngest Rector of Yale since Borean Wiedergreiff himself.\nNow the head of state and government of Yale, Mikusian has overseen the slow decay of the Rectorate alongside the rest of the Griffonian Empire. But the griffon has never stopped dreaming of a different future.\n§YPortrait By§!: Scroup"
   YAL_prelate_michael: "Прелат Міхаель"
-  #YAL_prelate_desc:0 "§YBorn§!: 15th of June, 961 in Crona Province\n§YFunction§!: Prelate of Yale and Member of the Academic Council\n§YBiography§!: Michael Eisenklau was born near the Imperial city of Crona as the seventh chick in a family of peasants. The family barely scraped by and things spiralled out of control after a failed harvest in 978 spiralled Michael's village into poverty. After it was clear the local authorities refused to help, the peasants, including Michael's parents and older siblings decided to go and take their due from Crona itself. Unbeknownst to them, they were part of a massive movement which would soon fracture the Griffonian continent. Michael would never see any of them again.\nLeft alone to care for his younger siblings, the peasant's son turned to the only place he knew could help; the Temple. There the young griffon, weaker in body than his sturdy older brothers, managed to impress the Arcturian priest by challenging him to a duel for a chance at earning a wage. Michael lost that duel but earned himself a job, to which he tenaciously devoted himself. As the fighting raged around the Empire, sometimes coming precariously close, Michael learned the values of the different aspects of Arcturius. A Smith who can burn away impure elements through war and forge together what is fractured. A Warrior loyal, honourable and unflinching in conflict. And a leader willing to sacrifice himself to a greater cause.\nMichael had taken these lessons to heart long before he had completed his formal education and as the Empire licked its wounds after the revolution, he began his career in the Hierarchy of Arcturius. First as a priest to one of the many towns in the Herzland who had lost their religious leader in the fighting. Later on, as a clerk for Archon Proteus III, where he got a great deal of respect for the Warrior-Priest. Although Proteus sometimes joked about the griffon's 'puny stature', the Archon was never mean to the former peasant. And when the position of Prelate of Yale opened up in 1005, Proteus nominated Michael himself, hoping that the commoner might be able to help heal the divides in Yalish society. Prelate Michael set to the task with great enthusiasm, reinvigorating the Triarchy in Yale with fiery speeches, charity and the help of the Sword and Shield movement, earning him a spot at the table, shifting the balance of Yalish politics in his favour.\n§YPortrait By§!: Vasily"
   YAL_georgina_fredrika_schuler: "Ґеорґіна Фредріка Шюлер"
-  #YAL_georgina_desc:0 "§YBorn§!: 12th of February, 985 in Greenback\n§YPosition§!: Leader of the New Sparkle Movement\n§YBiography§!: The bustling city of Greenback supports a burgeoning middle class. Georgina Fredrika Schüler was born into one such family. Her father a mechanic and her mother a clerk. Georgina's parents were gentle griffons, wary of violence after the failed revolution of which she only knew from stories. Like many in Yale, the Schüler family was looking for new answers outside. They found theirs in Equestria and harmony instead of some radical movement. Georgina was raised, unlike many griffons, to see the good in everybeing, to be optimistic and to strife for change from within. The day Georgina passed the entrance test for Yale University was the proudest day of her parents' lives, as she was the first in the family to achieve this. When she set off to the other side of the country, she promised she'd not lose her heart.\nYale university was fascinating to Georgina, but also in a way it felt stagnant. As if it was in a different world, out of touch with reality. The teachers were fine, especially Rector Mikusian, but the curriculum felt outdated and contradicted government. For all the talk about science and philosophy, Yale's government felt like it was impeding progress and disregarding the common Yalish griffon. There was no harmony.\nSo, Georgina, optimistically, began to agitate for change, for a New Spark. First with a small group of friends in private. Then in Yale's university, later around all of Yale in public. The Yalish government carried on with its grand scientific visions, unbothered by the growing movement in-and-outside the universities. Democracy, a constitution and self-determination were the demands which resonated louder and louder through the streets of the Rectorate. And after a war where many griffons had to make the ultimate sacrifice, these demands could no longer be ignored.\nRector Mikusian called his own student to his side and asked her to lead to preserve harmony. The New Sparkle had started a fire.\n§YPortrait By§!: Scroup"
   YAL_karl_legreif: "Карл Леґрайф"
-  #YAL_karl_legreif_desc:0 "§YBorn§!: 2nd of May, 959 in Zeltstadt, Longsword\n§YOccupation§!: Chairgriffon of the Heartland Trade Union Federation\n§YBiography§!: Born to immigrants from Longsword, a region whose fortunes would decay rapidly over the course of his life, Karl Legreif had a difficult childhood. He was bullied by the Yalish children for his background, but Karl would not be walked over easily. The griffon fought his bullies at every opportunity. The bullies of other griffons too. Sometimes he'd win his battles as well.\nKarl turned out to be quite capable as an artisan and learned the trade of wood turner. He had just joined the Trade Union when the Republican Revolution ravaged Griffonia. For a while, it seemed the biggest bullies of all the continent would finally be defeated and Legreif enthusiastically struck at every opportunity. It was not to be, however, and the revolutionaries fled north, leaving Karl and the Yalish trade union movement disillusioned.\nThe years went by and the immigrant from Longsword became ever more important in the union movement. Increasingly, the working class organised and fought for their rights. This trend did not go unnoticed by the professors and students of Cyrusval University, who soon provided the theory for the Union's practice. From them, Karl learned that no wage agreement with the capitalists could ever give the workers their due and that only a shift in power could forge unity and brotherhood.\nThe collapse of the Griffonian Empire showed the cracks in Yalish society and increased class consciousness in the Rectorate as divisions between the learned and capitalist class and the workers became ever more clear. If threatened, like in Longsword, the ruling class would not be above allying with racist maniacs to cling on to power. Instead of turning to supremacists, Rector Mikusian reached out to Cyrusval to bridge the gap between classes. But there they sensed a new age in the making - instead, the red university successfully allied with the Unions to bring revolution to Yale and beyond.\nWhen the leader of the students turned out to have gone mad, however, something had to be done. So, Karl Legreif, now leading all trade union federations in the Heartlands, took power into his own claws, determined to ensure that no being would be bullied again.\n§YPortrait By§!: anyazen"
   YAL_erich_muhschnabel: "Еріх Мюшнабель"
-  #YAL_erich_muhschnabel_desc:0 "§YBorn§!: 27th of November, 976 in Cyrusval\n§YTitle§!: We are all equal, comrade.\n§YBiography§!: Erich Mühschnabel never had to conquer his bread. As the second son of a wealthy industrialist, Erich could have spent the rest of his life in luxury. His childhood was spent in bliss, as Erich received the best tutors money could buy. He turned out to be bright and inquisitive, and would have been a worthy successor to the family business, were it not for his older sister. Irene Mühschnabel was just a tad bit more cunning than her brother, always managing to garner her parents' favour over Erich.\nWhen the time came, Irene enrolled in Middenheim University, while Erich went to his own Cyrusval. The difference could not be much greater. Middenheim's grand halls taught classical economics and statecraft in a tranquil environment, a walled garden away from the hustle and bustle of the world. Cyrusval was a rowdy place of loud students, of debating clubs and radical teachers. The home of Professor Willie Scherler, an inspiring socialist who would later lead the fight for a better world in the woods of Angriver. So, as Irene studies the intricacies of profit maximalisation, Erich was taught the inherent contradictions of the capitalist mode of production.\nBoth siblings graduated cum laude, with Irene being allowed a prominent position in the family business, while Erich was cast out of the family as a failure. Instead of business, Erich would get a teaching position in social science, where he contributed to the ever-radicalising faculty. A sense of urgency and an air of change filled the red halls of Cyrusval as the Empire faltered and to everygriffon's surprise, the students and teachers elected Mühschnabel, the most radical candidate, as rector in the 1007 elections. When the crisis in Griffenheim escalated, Erich managed to convince national government that he would be able to mend the rifts in Yalish society. Instead, he would use the new power to prepare for a revolution.\nThe Mühschnabel estate was one of the first buildings to be set aflame in the ensuing violence.\n§YPortrait By§!: anyazen"
   YAL_trade_union_congress: "Конґрес профспілок"
-  YAL_trade_union_congress_desc: ""
   YAL_gerhard_silverbeak: "Ґергард Силвербік"
-  #YAL_gerhard_silverbeak_desc:0 "Gerhard Silverbeak was born in 929 in the province of Osnabeak in the Strawberry Duchy. At the age of 18, he joined the prestigious Griffenheim Imperial Military Academy, completing an education as an engineer. For the next 45 years of his life, he would serve with distinction, proving especially resilient during the Republican uprisings where his defensive doctrines proved the undoing of many Republican offensives. In 992, he retired from the Imperial Army with the rank of major general. Since then, he has joined Löwburg Academy as a professor, being an adamant proponent of the importance of defensive doctrine within modern warfare."
-  #YAL_heinz_featherhoff_desc:0 "Heinz Featherhoff was born in 941 in the town of Asselt in Greifenmarschen. Born to a local merchant of the petite bourgeois class, Featherhoff's father managed to secure his son a post to Löwburg Academy at the age of 18, where he studied as an infantry officer before joining the Imperial Army. During his 30 years of service, Featherhoff fought in the Republican Uprising, gaining the rank of Lieutenant Colonel. After his tenure in the army, he rejoined his alma mater as a professor. Recently, he has shown an affinity towards the radical Red Guard, and is seen as the only senior staff who openly supports their views."
   YAL_emperor_grover_ii: "Імператор Ґровер II"
-  #YAL_grover_desc:0 "Grover II was the second ruler of the Griffonian Empire, ascending the throne in 785 ALB. By the time of his ascension Grover II was already an accomplished general and he commanded many of his father's forces when he unified the griffon states. The start of his reign was characterised by an Aquileian insurrection, which the Emperor's armies crushed before rebellion could spread throughout the empire. It is said that in his anger, Grover II killed the Discret King of Aquileia himself and ordered Aquila burned. To keep the Discrets from seeking revenge, he married Giselda Discret.\nThe Emperor decided to entrust the Idol of Boreas, the Empire's most sacred relic, to his Brother Guto, who he made King of Griffonstone, starting a period of early stability. In 799 the Emperor started his conquest south, adding Sicameon and Asterion to the Empire. Grover II was still not content with his domain, fearing his eastern frontier with the ponies of the Riverlands. Therefore he sanctioned the Knights of Hellquill to crusade against them. Internal squabbles and economic woes would delay any large scale efforts to attack the riverponies for 40 years. It is widely believed that Grover III and Giselda were the ones constantly fixing the bad domestic policies of their father and husband.\nIn 852 the ageing Emperor decided to finally press forward. He flew east at the head of a massive host of knights and soldiers, eager to finish his conquest of the Griffonian continent. Battle after battle was fought and Grover himself was almost invincible in his enchanted armour, the terror of his foes. That was, until the Nimbusians rallied to save what was left of River City. The Strategos of the pegasi force had lured the griffons into a chokepoint. There, the unthinkable happened. The towering griffon was in the thick of the battle, leading his most faithful knights to punch a hole in the unflinching Nimbusian battleline, when a startled young hoplite threw his spear at him instead of staying in formation. Grover was hit through the eyes and died instantly, which routed his forces.\nAnd now, he has returned to Griffonia to finish what he started."
   YAL_herald_of_boreas: "Вісник Борея"
-  #YAL_herald_desc:0 ""Who I was matters not. I am the Herald of Boreas now. I hear his commands and serve him. I spread his word to all griffons and love all his children like he does. I will do away with the lies and the false prophets who came before. I will defend his teachings and his honour against those who refuse to listen. I will bring low walls and build bridges. I will wear the sword and the shield. I will create and I will destroy. In the name of Boreas, to whom we owe worship.""
   YAL_peter_zuckergreif: "Петер Цукерґрайф"
-  #YAL_Peter_Zuckergreif_desc:0 "§YBorn§!: 21th of December, 978 in Greenback\n§YRank§!: Generaloberst in Training\n§YBiography§!: Peter Zuckergreif, born in 978 in the capital city of Greenback, had always a love of cars, and wished to have one for himself. Sadly for him he was born in a rather poor family, so the best he could do was make believe with his friend. Everything changed, however, when he saw a sight which would stay with him for the rest of his life: a Panzer. From that day on, his one goal was to one day drive one of these beast, so he begged his parents to be send to Klaumar, a Military Academy who was famous for having 'strange' method of warfare in their lectures.\nWith hard work, much studying and some financial help from a professor at Klaumar, Peter managed to become a student in 999, and quickly showed his teachers what knowledge he had. Even in his first year he managed to come up with impressive theories on how to deploy tanks, developing the many roles of armoured vehicles in warfare. Sadly for him, driving a tank was not possible for an officer, so Peter focused on revolutionizing the usage of tanks in the Imperial Army. In his last year at Klaumar in 1003 he met his pupil Apfel von Kuchen, which ended in a close friendship between the two, although a few griffons insist that there was more to it than they would let on.\nAfter Zuckergreif graduated, he enlisted directly into the Yalish Army, and too his surprise he became a staff officer of the major general Gerhard Silverbeak, who, while technically retired, was still in command of Yale's field army. Gerhard took it into his claws to train Peter to become his successor, and while they both have very different ideas of how modern warfare will look, resulting in hour-long debates, Silverbeak still decided to train Zuckergreif. The old Generalmajor even got Apfel von Kuchen a command position."
   YAL_sabine_bucher: "Сабіна Бухер"
-  #YAL_Sabine_Bucher_desc:0 "§YBorn§!: 1st of February, 945 in Appenage\n§YRank§!: Generalleutnant\n§YBiography§!: The live of Sabine Bucher as a young chick was a hard one, with her family being poor farmers in the region of Appengen. She watched most of her siblings die, either because of sickness or in one case, of starvation. At the young age of 14 she left her home quietly and went on a journey to the Imperial Crownlands, where she enlisted into the army under a false identity. After her training was done she was sent to Yale for training and she would end up studying in the Academy of Löwburg thanks to a recommendation from her superior. Sabine's great memory served her well, but the training was hard for the peasant griffon. In the end she graduated, but just barely, in 963.\nDuring the next 10 years, she quietly rose up the ladder in the Imperial Army. But then, as a shock for everygriff, the Republican Revolution broke out. While she herself could understand the struggle of the griffons, she could not betray her newfound friends, and so she whipped the Yalish military, which was on the verge of mutiny, back into shape, commanding many more troops then intended. The Rectorate in Yale rewarded her valorous action with nothing, wishing to remain neutral in the conflict. In spite of orders, Sabine still led her forces over the Yalish border to fight the Republicans, inspire nationalist fervour in Yale.\nWhen the Empire was re-established and the republicans driven out, the Rectors finally acknowledged Bucher. For her bravery she was recommended to be promoted to Generalfeldmarshall, but she declined, insisting she only did her duty. Sabine would spent the rest of her years in Yale, where she has become a famous Griffon for her action in the war and her humble refusal of a promotion."
   YAL_apfel_von_kuchen: "Апфель фон Кухен"
-  #YAL_Apfel_von_Kuchen_desc:0 "§YBorn§!: 12th of March, 981 in Yale\n§YRank§!: Fähnrich\n§YBiography§!: Apfel von Kuchen is a young lesser noble chick from the city of Yale, in accordance with her parents' wishes, enlisted in the University of Middenheim in 1001 to study economics. It did not take long for her to realise that this study was not for her and she decided on a radically different path. After convincing one of her professors to lie to her parents about her status, she enrolled in the Klaumar Academy in 1003, and quickly became a star student of the institution, stealing some fame from her senior on the Academy and prodigy himself, Peter Zuckergreif.\nDuring her time in Klaumar it became clear to her that she wanted to stay with the Yalish Army. Eventually she made friends with her senior and Academy rival Peter Zuckergreif, although the two still don't agree on the methods of warfare. After Peter graduated and left Klaumar there were few students who could keep up with Apfel.\nIn 1005, while being still a student at Klaumar, she got invited into the Imperial Army, to join as an Fähnrich, and while she has technically not finished her schooling yet a chronic shortage of staff officers and a few good words from Peter, got Von Kuchen her position. Thus, with her parents still in the dark about her choices in life, the newly minted officer knew her future."
   YAL_melinda_rotkreuz: "Мелінда Роткройц"
-  #YAL_Melinda_Rotkreuz_desc:0 "§YBorn§!: 30th of April, 980 in Asselt\n§YRank§!: Übersicht-Kamerad\n§YBiography§!: Even at a young age Melinda Rotkreuz struggled with day to day life, as she suffered anger management problems. Countless times she started fights with her teachers, who only put up with her antics because of her surprising calculated intellect and her merchant parents providing financial incentives.\nHoping that Yale's famous Universities would tame Melinda's anger somewhat, her parents sent her to study at Cyrusval on her 18th Birthday, oblivious to the university's radical professors. There, under the influence of Professors like Erich Mühschnabel, she began to direct her hatred on the capitalist system, even going so far as to despise her parents for abusing their wealth to buy Melinda favours. She was one of the first Griffons to join Erich in his plan for revolution, and she helped planning and even acquired weapons. Surprisingly, during the many battles over Yale, like the siege of Gamia and Bruma, she showed her talents of leadership, leading her comrades into battle and pushing them on with her rage.\nAs the flames consumed the symbols of the old order and the red and black banners of revolution fluttered high all over Yale, Melinda was still not satisfied. Even though the military hierarchy had no place in the future of Yale, there was still a need for those who could lead the griffons into battle. Heinz Featherhoff, now in charge of the defence of the Communes, invented a new role:  Übersicht-Kamerad. And the first Übersicht-Kamerad to be named was no one else then Melinda Rotkreuz, who took on the position with honour."
   YAL_Wurst_Cervelat: "Вурст Цервелат"
-  #YAL_Wurst_Cervelat_desc:0 "§YBorn§!: 4th of February, 967 in Greenback\n§YPosition§!: Party leader of NDPH\n§YBiography§!: Cervelat loves to eat."
   YAL_tommykay: "Томас Кесселькло"
-  #YAL_tommykay_desc:0 "§YBorn:§! 13th of September, 979 in Middenheim\n§YRank:§! Freshly promoted Wachtmeister\n§YBiography:§! Many generals of the Empire outside of Yales territories were shocked by the election of a mere Garrison Hauptmann such as Thomas was able to receive a title of a Wachtmeister without any military achievements whatsoever, that was, until they got invited for a professional wargame session against Thomas himself. The voices of discontent were much more silent after the remarkable feat that was Thomas victory in a wargame match against the Field Marshal Bronzetail himself, opening a way for this young griff to show his "superior tactics and maneuvers" onto a real battlefield, with a smirk of pride and overconfidence by his side, this firebrand newbie is ready to face the real life wargame. "
   YAL_yvette_frischtalon: "Іветта Фришталон"
-  #YAL_yvette_frischtalon_desc:0 "§YBorn:§! 982\n§YBiography:§! Yvette was born to a minor ultimately inconsequential noble family wealthy enough to live well but if no real note among high society.\nGrowing up her entire life in Yale she was well educated and raised in the city yet never found herself adjusting well to the expected role and activities of the nobility finding she much preferred to learn about history especially on topics of the wars and battles of the empire's past and playing sports with the other children over learning the intricacies of house politics and fancy dinner parties.\nEventually this led to Yvette choosing to join one of the knightly orders in Yale over continuing to indulge the tedium of high society finding she took to the role and lifestyle quite well and raising through the ranks thanks to both her notable size and strength and her keen mind for battlefield tactics and operations her forward thinking ideas on the role of knights in a modern battlefield and her honorable service record have risen her to the rank of general.\nA dedicated Griffonian patriot Yvette has full belief in the future of Griffonia under the Grovers is the only way forward for Griffonia no matter what and she harbors especially strong disdain for the communists and especially the republicans blaming them for ruining the Empire.\n§YPortrait By§!: NotusNostalgia"
-
-  #YAL_tank_development:0 "Tank Development Programs"
-  #YAL_tank_development_desc:0 "We must remain on the cutting-edge of armoured warfare if we are to survive. New development programs will allow our tanks to outperform all others."
-  #YAL_reinvigorated_artillery:0 "Artillery Schools"
-  #YAL_reinvigorated_artillery_desc:0 "Our artillery officers have been reinvigorated thanks to the unrivaled education they are provided."
-  #YAL_trained_support:0 "Trained Support"
-  #YAL_trained_support_desc:0 "Only the highest quality support personnel are allowed to supplement our soldiers, enabling superior efficiency on the battlefield."
 
   # Радники
   YAL_reformer: "Ґеорґіна Шюлер"
-  #YAL_reformer_desc:0 "Inspired by Equestrian harmony, Georgina Fredrika Schüler works tirelessly to improve the lives of commoners. Although unglamorous, she injects much-needed compassion into the machinery of government."
   YAL_figurehead: "Жюль Равіолі"
-  #YAL_figurehead_desc:0 "The former leader of Romau has been generous enough to act as our figurehead. With him as the technocracy's public face, the people are far more accepting of our rule."
   YAL_left_coalition_minister: "Ґербен Коґхель"
-  #YAL_left_coalition_minister_desc:0 "The Feathisian leader of the SHP, and the old leader of the Feathisian PvdA."
   YAL_right_coalition_minister: "Іґнацій Бронзтейл"
-  #YAL_right_coalition_minister_desc:0 "The old Count of Bronzehill, now leader of the Imperial Party in the Reichstag."
-  #YAL_super_dickgreif_dicke_panzer:0 "Super Dickgreifs Dicke Panzer"
-  #YAL_Panzerleichte_Wissenschaft:0 "Panzerleichte Wissenschaft"
-  #YAL_Himmelschlaumeier:0 "Himmelschlaumeier"
-  #YAL_Fliegender_Teppich_AG:0 "Fliegender Teppich AG"
-  #YAL_Kralle_und_Geist_werke:0 "Kralle & Geist Werke"
-  #YAL_Daraens_Traumschiffe:0 "Daraens Traumschiffe"
-  #YAL_Huberts_Fliegende_Fische:0 "Huberts Fliegende Fische GmbH"
-  #YAL_Studenten_schiffbau:0 "Studenten Schiffbauanlage"
-  #YAL_Johannes_Werkzeugkiste:0 "Johannes Werkzeugkiste"
-  #YAL_Yales_buechsenmacher_GmbH:0 "Yales Büchsenmacher GmbH"
-  #YAL_Studentenwagen:0 "Studentenwagen"
-  #YAL_Familie_Rohrleger_Rohre:0 "Familie Rohrlegers Rohre"
-  #YAL_YBB:0 "Yalish Bundesbahnen"
-  #YAL_YHAW:0 "Yales Hochschule für Angewandte Wissenschaften"
   YAL_Henri_Streit: "Анрі Стрейт" # Генрі Штрайт?
   YAL_Sven_reich: "Свен Райх"
   YAL_Garfield_Morgenthaler: "Ґарфілд Морґенталер"
@@ -4323,7 +4226,6 @@
   YAL_digging_trenches: "$YAL_gerhard_silverbeak$"
   YAL_digging_trenches_desc: "$YAL_gerhard_silverbeak_desc$"
   YAL_swarm_tactics: "Гайнц Фезергофф"
-  #YAL_swarm_tactics_desc:0 "Heinz Featherhoff was born in 941 in the city of Appenage in Angriver. Born to a local merchant of the petite bourgeois, Featherhoff's father managed to secure his son a post to Löwburg Academy at the age of 18, where he studied as an infantry officer before joining the Imperial Army. During his 30 years of service, Featherhoff fought in the Republican Uprisings, gaining the rank of Lieutenant Colonel. After his tenure in the army, he rejoined his alma mater as a professor. Recently, he has shown an affinity towards the radical Red Guard, and is seen as the only senior staff who openly supports their views."
 
  ### ІНШЕ ###
   engineers_tech_research: "Темпи дослідження інженерів"
