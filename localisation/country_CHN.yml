@@ -1021,29 +1021,29 @@
  changelingattache.3.d: "$changelingattache.2.d$"
  changelingattache.3.a: "$changelingattache.2.a$"
  changelingattache.3.b: "$changelingattache.2.b$"
- changelingattache.3.c: "Друзі не дозволяють друзям воювати наодинці! Ми надішлемо з ними, кого зможемо!"
+ changelingattache.3.c: "Друзі не дозволяють друзям воювати наодинці! Ми надішлемо з ними, кого зможемо!" # (&+)
 
- changelingattache.4.t:0 "A Plea for Asylum"
- changelingattache.4.d:0 "Following the ordered return of the Changeling military mission back to Vesalipolis, General Thranx has now approached none other than [GRI.GetLeader], begging them to let him stay in the Empire.\nThey were immediately caught within the crossfire of other nobles and advisors. Some argued for, some against this plead for asylum. At the end, however, the choice was entirely up to the ruling griffon themselves.\nAs Thranx broke down in tears before them, a choice had to be made."
- changelingattache.4.a:0 "We will not abandon our friends!"
- changelingattache.4.b:0 "He must do as his Queen commands."
+ changelingattache.4.t: "Прохання про притулок"
+ changelingattache.4.d: "Отримавши наказу про повернення військової місії чейнджлінґів назад до Весаліполіса, генерал Транкс звернувся ні до кого іншого, як лідера нашої країни. Він благає, аби [GRI.GetLeader] або [GRI.Leader.GetHerHis] уряд дозволили йому залишитися в Імперії.\nВони відразу опинилися між сторонами конфлікту з інших дворян і радників. Дехто висловився за, дехто — проти цього прохання про притулок. Однак урешті-решт рішення лежить за керуючим грифоном.\nКоли Транкс розплакався в [GRI.Leader.GetHerHis] присутності, довелося зробити вибір." # (&+)
+ changelingattache.4.a: "Ми не покинемо наших друзів!"
+ changelingattache.4.b: "Він мусить робити, як накаже його королева."
 
- changelingattache.5.t:0 "Traitor General"
- changelingattache.5.d:0 "Your majesty, we have bad news coming from the Griffonian Empire.\nIt appears that one of our military commanders who was part of the Expeditionary Mission, General Thranx, has refused to heed your wise and reasonable order to return home! Instead, he has broken down in tears like the weakling he is and asked [GRI.GetLeader] for political asylum. And they accepted!\nMy Queen, this is outrageous. We must see this traitor punished!"
- changelingattache.5.a:0 "I demand they return him to us at once!"
+ changelingattache.5.t: "Генерал-зрадник"
+ changelingattache.5.d: "Ваша Величносте, ми отримали погані новини з Імперії Грифонів.\nЗдається, один із наших військових командувачів, котрий був частиною експедиційної місії, генерал Транкс, відмовився підкорятися Вашому мудрому та слушному наказові повернутися додому! Натомість він розплакався, як справжній слабак, і попросив, аби [GRI.GetLeader] дав/дала йому політичний притулок. І вони погодилися!\nМоя королево, це неприпустимо. Ми мусимо забезпечити, що зрадник отримає покарання!" # (&+)
+ changelingattache.5.a: "Вимагаю повернуто його нам негайно!"
 
- changelingattache.6.t:0 "Chrysalis Demands Thranx to be Returned Home"
- changelingattache.6.d:0 "Queen Chrysalis of the changelings has issued a very vocal diplomatic protest on our decision to shelter General Thranx within the Empire. She now calls for us to return him home at once, so that she, as his rightful Queen, can deal with him and his treacherous dealings, accordingly.\nThranx has proven to be a good, valuable friend to us, and he appreciates our help and support. But... is he worth the trouble we risk in continuing to shelter him?"
- changelingattache.6.a:0 "Never! He will stay!"
- changelingattache.6.b:0 "We mustn't risk trouble with the Queen."
+ changelingattache.6.t: "Кризаліс вимагає повернути Транкса додому"
+ changelingattache.6.d: "Королева чейнджлінґів Кризаліс висловила дуже гучний дипломатичний протест відносно нашого рішення надати Транксові притулок в Імперії. Тепер вона закликає нас негайно повернути його додому, аби вона, як його законна королева, могла відповідним чином розібратися з ним і його зрадницькими діяннями.\nТранкс показа себе добрим, цінним другом для нас, і він вдячний за наші допомогу й підтримку. Але... чи вартий він ризику, який виникає з його перебуванням тут?"
+ changelingattache.6.a: "Ніколи! Він залишиться!"
+ changelingattache.6.b: "Ми не можемо ризикувати проблемами з королевою." # (&+)
 
- changelingattache.7.t:0 "The Firing Squad"
- changelingattache.7.d:0 "Today, just as the sun began to rise, General Thranx arrived at Vesalipolis. In chains, naturally. He was escorted through the grand hive, taunted and insulted by many of the other changelings along the way. When he was brought to the Queen, the disgust on her face sealed the fate of the young General. No less than 20 minutes after his arrival at Vesalipolis, he was blindfolded, and Field Marshal Trimmel himself commanded the firing squad. A loud bang echoed throughout the hive, and Thranx was no more."
- changelingattache.7.a:0 "Serves him right."
+ changelingattache.7.t: "Розстрільний загін"
+ changelingattache.7.d: "Сьогодні, щойно сонце почало вставати, генерал Транкс прибув до Весаліполіса. У кайданах, ясна річ. Його провели великим вуликом; по дорозі з нього глузували та лаяли багато інших чейнджлінґів. Коли його привели до королеви, відраза на її лиці запечатала долю молодого генерала. Не менш ніж за 20 хвилин після його прибуття до Весаліполіса, йому зав'язали очі, а розстрільним загоном командував сам фельдмаршал Тріммель. Гучний вистріл пролунав вуликом, і Транкса не стало." # (&+)
+ changelingattache.7.a: "Так йому й треба."
 
- changelingattache.8.t:0 "Griffonian Response"
- changelingattache.8.d:0 "To our great shock, the imperial nobility, including [GRI.GetLeader], have declined our demand to return General Thranx to us. This is unbelievable, and will not go unpunished!\nHowever, first we must let the Queen know of this..."
- changelingattache.8.a:0 "The queen will be most displeased..."
+ changelingattache.8.t: "Відповідь від грифонів"
+ changelingattache.8.d: "На наш великий подив, імперське дворянство, серед них і [GRI.GetLeader], відхилили нашу вимогу повернути генерала Транкса нам. Це неймовірно, і кара їх не омину!\nОднак спершу ми мусимо доповісти про це королеві..." # (&+)
+ changelingattache.8.a: "Королева буде вкрай невдоволена..."
 
  changelingattache.9.t: "Кризаліс клянеться помститися"
  changelingattache.9.d: "Королева гаркнула вголос, слухаючи чейнджлінґа попереду неї, котрий переказував відповідь грифонів для неї. Швидким махом і вибухом із її кривого рогу малий і неважливий посіпака був стертий; на його місці зостався лише чорний порошний кратер.\n— Слухайте мене, коли я кажу це: сьогодні безчесні та мерзенні грифони Імперії зробили найбільшу помилку у своїх жалких, дріб'язкових життях! Їхню «імперію» вже розірвали на шмаття її власні слуги, а їхні занепадництво та неспроможність і понині не перестають мене вражати. Якщо вони так доблесно відхиляють мої накази та вимоги, то вони, певно, геть не знають, кого щойно зробили своїм ворогом. Їхня жалка маленька імперія розвалиться як картковий будиночок і я розірву її на частини та, якщо доведеться, особисто спалю її, а й її громадян! Ніхто не буде стояти в мене на шляху!\n\nІнші присутні чейнджлінґи зааплодували та заскандували в ім'я своєї королеви." # (&+): останнє речення
