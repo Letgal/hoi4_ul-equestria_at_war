@@ -252,6 +252,7 @@
  claimed_EQS_territory_already:0 "Вже має претензії на осередні землі."
  STG_protection:0 "Захист Батьківщини"
  palace_project_abandoned:0 "Проєкт палацу відкинуто."
+ the_palace_constructed: "Проєкт палацу завершено."
  STG_abandon_construction_of_palace:0 "Відмовитися від будівництва"
  STG_abandon_construction_of_palace_desc:0 "Ми більше не можемо витрачати на це кошти."
  STG_abandon_construction_of_palace_war_time:0 "Відмовитися від будівництва"

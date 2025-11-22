@@ -1355,7 +1355,7 @@
  FRN_war_timer_and_alliance_warning:0 "Оскільки це не традиційна війна, а повстання, §Rми не можемо закликати на допомогу союзників, і нам потрібно перемогти ФНВТ за 90 днів!§!\n"
  FRN_FLNT_angery:0 "§OТепер ФНВТ може повстати в Тарріні.§!"
  FRN_this_will_take_a_while:0 "§RЦе займе 365 днів.§!"
- FRN_fuck_over_the_player:0 "Усі розблоковані доктрини будуть замінені на відповідні доктрини з гілки §Rмасованого штурму§!.\n"
+ FRN_fuck_over_the_player:0 "The §Hgrand doctrine§! will be replaced with the §R$mass_assault$§! grand doctrines.\nAll unlocked sub-doctrines will be replaced with §R$SUBDOCTRINE_LARGE_UNIT_TACTICS$§! for the §H$DOCTRINE_TRACK_INFANTRY$§! track, §R$SUBDOCTRINE_FIRE_CONCENTRATION$§! for the §H$DOCTRINE_TRACK_COMBAT_SUPPORT$§! track, §R$SUBDOCTRINE_STREAMLINED_DEPLOYMENT$§! for the §H$DOCTRINE_TRACK_ARMOR$§! track, and §R$SUBDOCTRINE_DEEP_BATTLE$§! for the §H$DOCTRINE_TRACK_OPERATIONS$§! track.\n" # (!)
  NE_unlock_advisors_tt:0 "Разблокує нових §Yполітичних радників.§!\n"
 
 ### Flags

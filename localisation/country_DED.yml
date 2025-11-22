@@ -569,7 +569,7 @@ deadempirenews.2.f:0 "Ця 'Роза Маледикта' — справді бо
 ### Рішення
 
 DED_necromancy:0 "Темні ритуали й закляття"
-DED_necromancy_desc:0 "Витрачено £resources_strip|7  ще потрібно: [?Root.DED_temp_used_crystals_limit|0Y]"
+DED_necromancy_desc:0 "Витрачено £resources_strip|8  ще потрібно: [?Root.DED_temp_used_crystals_limit|0Y]"
 
 DED_crystal_cost:0 "Магія"
 
@@ -603,14 +603,14 @@ DED_shield_crisis_cat:0 "Щит надії"
 DED_shield_crisis:0 "Повернення надії"
 DED_shield_crisis_desc:0 "Якщо Щит надії потрапить до пазурів Арктурійського ордену, це може спричинити катастрофу для наших сил. Ми мусимо усунути арктурійців до того, як вони вдадуться до рейду."
 
-AT_LEAST_2_CRYSTALS:0 "Має щонайменше §Y2§! £resources_strip|7"
-DED_LOSE_2_CRYSTALS:0 "Втратить §Y2§! £resources_strip|7"
-AT_LEAST_8_CRYSTALS:0 "Має щонайменше §Y8§! £resources_strip|7"
-DED_LOSE_8_CRYSTALS:0 "Втратить §Y8§! £resources_strip|7"
-AT_LEAST_10_CRYSTALS:0 "Має щонайменше §Y10§! £resources_strip|7"
-DED_LOSE_10_CRYSTALS:0 "Втратить §Y10§! £resources_strip|7"
-AT_LEAST_12_CRYSTALS:0 "Має щонайменше §Y12§! £resources_strip|7"
-DED_LOSE_12_CRYSTALS:0 "Втратить §Y12§! £resources_strip|7"
+AT_LEAST_2_CRYSTALS:0 "Має щонайменше §Y2§! £resources_strip|8"
+DED_LOSE_2_CRYSTALS:0 "Втратить §Y2§! £resources_strip|8"
+AT_LEAST_8_CRYSTALS:0 "Має щонайменше §Y8§! £resources_strip|8"
+DED_LOSE_8_CRYSTALS:0 "Втратить §Y8§! £resources_strip|8"
+AT_LEAST_10_CRYSTALS:0 "Має щонайменше §Y10§! £resources_strip|8"
+DED_LOSE_10_CRYSTALS:0 "Втратить §Y10§! £resources_strip|8"
+AT_LEAST_12_CRYSTALS:0 "Має щонайменше §Y12§! £resources_strip|8"
+DED_LOSE_12_CRYSTALS:0 "Втратить §Y12§! £resources_strip|8"
 
 DED_stop_raise_converted_dead_timeout:0 "Навернення триває вже §Y<30§! днів"
 

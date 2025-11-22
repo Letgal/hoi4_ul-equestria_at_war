@@ -6276,6 +6276,8 @@
  HIP_anarchist_society_6:0 "Змінить §Y$HIP_anarchist_society$§!\nФабрики, що виробляють товари народного споживання: §Y-5.00%§!"
  HIP_anarchist_society_7:0 "Змінить §Y$HIP_anarchist_society$§!\nПідтримка війни: §G+100.00%§!"
  HIP_thank_you_for_playing_posada:0 "Дякуємо за гру за §2Посаду§!"
+ HIP_seapony_breakaway:0 "The Seaponies have §Rseceded§!" # (!)
+ HIP_hippogriff_breakaway:0 "The Hippogriffs have §Rseceded§!" # (!)
 
  HIP_phalangist_rule_1:0 "Змінить §Y$HIP_phalangist_rule$§! ось так:\nВійськовозобов'язане населення: §Y+2.00%§!"
  HIP_phalangist_rule_2:0 "Змінить §Y$HIP_phalangist_rule$§! ось так:\nПочаткова навичка атаки генералів: §G+1§!\nПочаткова навичка атаки адмиралів: §G+1§!"
