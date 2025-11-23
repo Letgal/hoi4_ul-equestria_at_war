@@ -5,8 +5,8 @@ bitmapfonts = {
 #		path = "gfx/fonts/hoi_30header"
 		fontfiles = { 
 			"gfx/fonts/hoi_30header"
-#			"gfx/fonts/hoi_20bs"
-#			"gfx/fonts/hoi_20bs_cryllic"
+#			"gfx/fonts/hoi_26mbs"
+#			"gfx/fonts/hoi_26mbs_cryllic"
 		}		
 		color = 0xffffffff
 
@@ -22,8 +22,8 @@ bitmapfonts = {
 	bitmapfont_override = {
 		name = "loadscreen_header"
 		fontfiles = { 
-			"gfx/fonts/hoi_20bs"
-			"gfx/fonts/hoi_20bs_cryllic"
+			"gfx/fonts/hoi_26mbs"
+			"gfx/fonts/hoi_26mbs_cryllic"
 		}
 		languages = { "l_polish" } 
 	}
