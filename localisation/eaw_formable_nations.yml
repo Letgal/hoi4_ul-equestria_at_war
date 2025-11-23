@@ -1,5 +1,6 @@
 ﻿# == (*) ==
 ### СЛУЖБОВА ЛОК. ###
+ claim_all_de_jure_aquileia_tt: "Отримує претензії на всі землі в межах §Yде-юре§! кордонів §rАквілеї§!."
  form_country_aquileia_coring_states_tt: "Усі §Yаквілейські§! землі стануть осердними.\n" # CORE
  form_country_pridea_coring_states_tt: "Усі §Yпрідейські§! землі стануть осердними.\n" # CORE
  form_country_rila_coring_states_tt: "Усі §Yрільські§! землі стануть осердними.\n" # CORE
@@ -32,6 +33,14 @@
  form_aquileia: "[GetFormAquileiaName]"
  form_aquileia_normal: "Відновити Аквілею"
  form_aquileia_griffemp: "Зробити Аквілею осердною територією" # (&+)
+ unite_aquileia_proper: "Об'єднати Аквілею"
+ reclaim_northwest_peripherie: "Повернути Периферію"
+ reclaim_eastern_peripherie: "Повернути Луантено"
+ reclaim_eastern_peripherie_tt: "Це відімкне £decision_icon_small §Cрішення§!, котре вимагає §YТаррін§!.\n\n" # (&)
+ JER_vassal_preparing_to_attack_country: "§RГотується напасти на іншу країну§!\n"
+
+ aquileia_strikes_back: "La Der des Der"
+ aquileia_strikes_back_desc: "Ми розіб'ємо імперську загрозу раз і назавжди, або вмремо з намаганням." # (&+)
 
  form_hindia: "Об'єднана Гіндія"
  form_hindia_desc: "Нарешті мрія про об'єднану Гіндію здійснилася, оскільки олені Східної Зебрики нарешті об'єдналися під проводом вождя, гідного титулу правителя всієї Гіндії. Тепер, коли ми об'єднали регіон під нашим контролем, украй важливо, щоби наша нація заявила про законність своєї влади над усіма вільними оленями в Зебриці, аби ми стали справжньою великою державою на континенті."

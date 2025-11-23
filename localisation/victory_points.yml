@@ -54,7 +54,7 @@
  VICTORY_POINTS_9150: "Понітаун"
  VICTORY_POINTS_11043: "Цасбаатар"
  VICTORY_POINTS_9351: "Уайтбелл"
- VICTORY_POINTS_11272: "Йондергілл"
+ VICTORY_POINTS_2085: "Йондергілл"
  VICTORY_POINTS_6280: "Мейрпоза"
  VICTORY_POINTS_11686: "Мейрчестер"
  VICTORY_POINTS_11499: "Солтлікінґем"
@@ -837,7 +837,7 @@
  VICTORY_POINTS_16908: "Мутікова" # (&) # tree port
  VICTORY_POINTS_16909: "Дгорочекіпе" # (&)
  VICTORY_POINTS_16929: "Ґулатенґа" # (&)
- VICTORY_POINTS_16944: "Банірака" # (&) # broad field
+ VICTORY_POINTS_16944: "Банірака" # (&) # broad field #ZOMG BRODFELD REFERENCE????
  VICTORY_POINTS_16953: "Касіґара" # (&)
  VICTORY_POINTS_16910: "Чітешігара" # (&)
  VICTORY_POINTS_17005: "Твізкумба" # (&)
@@ -846,3 +846,16 @@
  VICTORY_POINTS_17918: "Мейргана" # (&)
  VICTORY_POINTS_14868: "Айт Бенсарадж" # (&)
  VICTORY_POINTS_10725: "Сарвісуо" # (&)
+ VICTORY_POINTS_19766:0 "Korts'rats Hogher"
+ VICTORY_POINTS_11376:0 "White Tail"
+ VICTORY_POINTS_6292:0 "Whitehorse" 
+ VICTORY_POINTS_646:0 "Fort Sunshine" 
+ VICTORY_POINTS_9347:0 "Pasturage" 
+ VICTORY_POINTS_11078:0 "Fort Macintosh" 
+ VICTORY_POINTS_11558:0 "Horson City" 
+ VICTORY_POINTS_11531:0 "Kululu" 
+ VICTORY_POINTS_9527:0 "Tequixquiac" 
+ VICTORY_POINTS_3985:0 "Chilchomolli" 
+ VICTORY_POINTS_6725:0 "Xacalmoyotl" 
+ VICTORY_POINTS_336:0 "Axomolli" 
+ VICTORY_POINTS_9728:0 "Ravenholm"

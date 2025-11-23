@@ -263,6 +263,8 @@
 # eaw_unit
  category_heavy_infantry: "Піхота"
  category_magical_infantry: "Магічна піхота"
+ category_modern_tanks: "Сучасні різновиди танків і бронетехніки"
+ category_super_heavy_tanks: "Надважкі танки"
  category_racial_special_forces: "Расові сили спеціальних операцій"
  tech_unicorn_company: "Рота єдинорогів"
  unicorn: "Рота єдинорогів"

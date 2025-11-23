@@ -1,5 +1,5 @@
 # Українська локалізація *Equestria at War*
-Оновлено для *Equestria at War* версії ***2.4.1.2*** (версія гри&nbsp;— *1.16*)
+Оновлено для *Equestria at War* версії ***2.4.2*** (версія гри&nbsp;— *1.16*)
 
 Також включає в себе частковий переклад сабмоду *Diarchy Expanded*.
 
@@ -106,7 +106,7 @@
 + ~~`eaw_decisions`~~
 + `eaw_difficulty`
 + `eaw_diplo_popup`
-+ `eaw_factions`
++ ~~`eaw_factions`~~
 + `eaw_flags_and_opinion` (умовно)
 + `eaw_focus`
 + `eaw_focus_filter_tag`

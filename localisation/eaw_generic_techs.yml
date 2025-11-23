@@ -269,6 +269,7 @@
  category_motmech: "Моторизована/механізована піхота"
  category_scout_plane: "Літаки-розвідники"
  category_magical: "Усі магічні батальйони"
+ category_magical_support: "Усі магічні роти підтримки"
  CHANGELING_RECON_SPEED_BOOST_TT: "\n£unit_recon_icon_small Макс. швидкість розвідроти: §G+30%§!"
  PONY_RECON_SPEED_BOOST_TT: "\n£unit_recon_icon_small Макс. швидкість розвідроти: §G+60%§!"
  percentage_increase_notice: "§YВеличезна величина необхідна для досягнення потрібних результатів (дуже мала величина множиться на дуже велику). Дійсні величини значно менші, ніж це може здатися.§!"

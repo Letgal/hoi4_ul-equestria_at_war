@@ -221,7 +221,7 @@ form_department_tooltip: "Виконано поліпшення агентств
 
   sp_magical_synthetic_mineral_growth: "Штучне вирощування кристалів"
   sp_magical_synthetic_mineral_growth_desc:0 "Хотя процесс выращивания кристаллов известен вот уже более ста лет, никто не рассматривал этот процесс в индустриальных масштабах. В прошлом подобным занимались отдельные предприниматели, как правило, с целью выдать их за настоящие, но с ростом полезности кристаллов появился смысл в их искусственном производстве. Самой сложной частью будет попытка накопить в них магический заряд, сопоставимый с настоящими, но всё, что нужно для решения этой проблемы – достаточная напористость и несколько сменных противоударных щитов."
-  sp_magical_synthetic_mineral_growth_tt: "§Y0§! £resources_strip|3£, §Y0§! £resources_strip|5£, §Y0§! £resources_strip|4£, §Y0§! £resources_strip|2£, §Y0§! £resources_strip|6£, §Y0§! £resources_strip|1£ і §Y+3§! £resources_strip|7£"
+  sp_magical_synthetic_mineral_growth_tt: "§Y0§! £resources_strip|3£, §Y0§! £resources_strip|5£, §Y0§! £resources_strip|4£, §Y0§! £resources_strip|2£, §Y0§! £resources_strip|6£, §Y0§! £resources_strip|1£ і §Y+3§! £resources_strip|8£"
 
   sp_magical_thaumaturgical_diagnoses: "Тауматургічна діагностика"
   sp_magical_thaumaturgical_diagnoses_desc:0 "Самодиагностика больных всегда была головной болью для врачей, не столько из-за ошибочности диагнозов, сколько из-за вызванных ими попыток самолечения, ухудшающими ситуацию. Заранее упакованные наборы для диагностики, имеющие вложенные подробные инструкции, помогут как солдатам и медикам на поле боя, так и простым гражданам в повседневной жизни – в тепле их домов, или в неудобных окопах."
@@ -352,6 +352,7 @@ form_department_tooltip: "Виконано поліпшення агентств
   sp_deep_rock_drill_aluminium: "Спрямування видобутку: алюміній"
   sp_deep_rock_drill_crystals: "Спрямування видобутку: кристали"
   sp_deep_rock_drill_oil: "Спрямування видобутку: нафта"
+  sp_deep_rock_drill_coal: "Спрямування видобутку: вугілля"
   sp_deep_rock_drill_hide: "Приховати рішення з глибокого буріння"
   sp_deep_rock_drill_show: "Показати рішення з глибокого буріння"
 

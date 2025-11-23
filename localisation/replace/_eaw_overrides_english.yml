@@ -30,10 +30,10 @@
  #buildings_l
   rail_way_plural: "Залізниці" # Із ванілли
 
-  nuclear_reactor_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї.\n\nКожен ядерний реактор споживає §R12§! £resources_strip|7£.\n$reactor_resource_shortage$"
-  nuclear_reactor_heavy_water_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї.\nЯдерні реактори на важкій воді дещо дешевше будувати, ніж графітові реактори, but produce less material that can be used to produce nuclear weapons.\n\nКожен ядерний реактор споживає §R10§! £resources_strip|7£.\n$reactor_resource_shortage$"
-  commercial_nuclear_reactor_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї та електроенергію для цивільної економіки.\n\nКожен ядерний реактор споживає §R14§! £resources_strip|7£.\n$reactor_resource_shortage$"
-  reactor_resource_shortage: "Якщо у Вас немає £resources_strip|7£, виробництво ядерних бомб уповільниться."
+  nuclear_reactor_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї.\n\nКожен ядерний реактор споживає §R12§! £resources_strip|8£.\n$reactor_resource_shortage$"
+  nuclear_reactor_heavy_water_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї.\nЯдерні реактори на важкій воді дещо дешевше будувати, ніж графітові реактори, but produce less material that can be used to produce nuclear weapons.\n\nКожен ядерний реактор споживає §R10§! £resources_strip|8£.\n$reactor_resource_shortage$"
+  commercial_nuclear_reactor_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї та електроенергію для цивільної економіки.\n\nКожен ядерний реактор споживає §R14§! £resources_strip|8£.\n$reactor_resource_shortage$"
+  reactor_resource_shortage: "Якщо у Вас немає £resources_strip|8£, виробництво ядерних бомб уповільниться."
 
  #bop
   BOP_TOOLTIP_STABLE: "Баланс сил наразі стабільний."
@@ -55,11 +55,43 @@
  #bba_ideas_l
   ETH_purge_ideology_boost_idea:0 "Purge Communist and Supremacist Exiles"
 
+ #bookmarks_l
+  COUNTRY_SELECTION_CHARACTER_DESC: "$NAME|Y$\n\n$TRAITS_DESC|$" #overwritten due to double descriptions in the tooltip
+
  #characters_l
   EFFECT_RETIRE_CHARACTER: "Усунути: $NAME|H$ в державі $COUNTRY|Y$."
   EFFECT_CONTEXT_LEADER: "($FLAG$$LEADER|H$)"
   CHARACTER_ADVISOR_ON_ADD_TOOLTIP:0 "When Hired:"
   CHARACTER_ADVISOR_ON_REMOVE_TOOLTIP:0 "When Fired:"
+
+ #collections_l
+  COLLECTION_STATES_IN_ASIA:0 "All states on Griffonia"
+  COLLECTION_FACTION_CONTROLLED_STATES_IN_ASIA:0 "States on Griffonia controlled by faction members"
+  COLLECTION_FACTION_STATES_IN_ASIA:0 "Faction-controlled states on Griffonia"
+  COLLECTION_STATES_AFRICA:0 "Zebrican States"
+  COLLECTION_NON_COLONIAL_CONTROLLED_AFRICAN_STATES:0 "Non-colonial controlled Zebrican states"
+  COLLECTION_STATES_IN_AFRICA:0 "All states on Zebrica"
+  COLLECTION_FACTION_CONTROLLED_STATES_IN_AFRICA:0 "States on Zebrica Controlled by Faction Members"
+  COLLECTION_STATES_IN_EUROPE:0 "All states on Equus"
+  COLLECTION_FACTION_CONTROLLED_STATES_IN_EUROPE:0 "States on Equus Controlled by Faction Members"
+  COLLECTION_COUNTRIES_EUROPE_NON_ALIGNED:0 "Non aligned Countries on Equus"
+  COLLECTION_FACTION_STATES_IN_EUROPE:0 "Faction-controlled states on Equus"
+  COLLECTION_FACTION_STATES_IN_ASIA:0 "Faction-controlled states on Griffonia"
+  COLLECTION_FACTION_STATES_IN_EUROPE_OR_ASIA:0 "Faction-controlled states on Equus or Griffonia"
+  COLLECTION_DEMOCRATIC_FACTION_MEMBERS:0 "Harmonic faction members"
+  COLLECTION_UNCAPITULATED_DEMOCRATIC_FACTION_MEMBERS:0 "Uncapitulated harmonic faction members"
+  COLLECTION_WORLD_DEMOCRATIC_COUNTRIES:0 "Harmonic Countries"
+  COLLECTION_UNCAPITULATED_DEMOCRATIC_COUNTRIES_AND_DOMINIONS:0 "Independent, uncapitulated harmonic countries or dominions"
+  COLLECTION_UNCAPITULATED_DEMOCRATIC_COUNTRIES:0 "Not capitulated harmonic countries"
+  COLLECTION_STATES_MY_CONTINENT_CONTROLLED_DEMOCRATIC_FASCIST:0 "States on the same Continent controlled by §YSupremacist§! or §YHarmonic§! Countries"
+  COLLECTION_STATES_MY_CONTINENT_CONTROLLED_DEMOCRATIC_COMMUNIST:0 "States on the same Continent controlled by §YCommunist§! or §YHarmonic§! Countries"
+  COLLECTION_AMOUNT_OF_FASCIST_CONTROLLED_STATES_SAME_CONTINENT:0 "States on the same Continent controlled by §YSupremacist§! Countries"
+  COLLECTION_STATES_MY_CONTINENT_CONTROLLED_DEMOCRATIC_FASCIST:0 "States on the same Continent controlled by §YSupremacist§! or §YHarmonic§! Countries"
+  COLLECTION_NON_FASCIST_STATES_MY_CONTINENT:0 "Non-supremacist controlled states in [ROOT.GetCountryContinentEAW]"
+  COLLECTION_NON_DEMOCRATIC_STATES_MY_CONTINENT:0 "Non-harmonic controlled states in [ROOT.GetCountryContinentEAW]"
+  COLLECTION_STATES_MY_CONTINENT:0 "States in [ROOT.GetCountryContinentEAW]"
+  COLLECTION_FACTION_STATES_MY_CONTINENT:0 "Faction controlled states in [ROOT.GetCountryContinentEAW]"
+  COLLECTION_NON_COMMUNIST_STATES_MY_CONTINENT:0 "Non-communist controlled states in [ROOT.GetCountryContinentEAW]"
 
  #combat_l
   COMBAT_LOG_BATTLE_LOST_MANPOWER: "Поні-ресурси: $MP|*R$"
@@ -299,6 +331,16 @@
   pact_against_us:0 "Anti-Chrysalis Pact Signatory"
   worse_pact_against_us:1 "Anti-Chrysalis Pact Signatory"
 
+ #doctrines_l
+  SUBDOCTRINE_COASTAL_AIR_PATROL_DESC:0 "Оборона побережья непосредственно у воды – неэффективный и затратный метод. Быстрые и подвижные самолеты способны лучше прикрывать берега от захватчиков."
+  SUBDOCTRINE_BROAD_NAVAL_SUPPORT_DESC:0 "Авианосцы – это разведка, господство в воздухе и возможность наносить авиаудары. Под началом умелых командиров соединений эти универсальные корабли становятся незаменимыми."
+  GRAND_DOCTRINE_MOBILE_WARFARE_DESC:0 "Нанесите удар там, где они не ждут. Доктрина маневренной войны направлена на преодоление окопного застоя Фалькорской войны и включает в себя стремительное передвижение с целью упреждения и дезорганизации действий противника."
+  GRAND_DOCTRINE_SUPERIOR_FIREPOWER_DESC:0 "Воюйте снарядами, а не солдатами. Используйте превосходящую огневую мощь, чтобы нанести сокрушительный удар по врагу и помочь маневренным подразделениям продвинуться вперед и захватить территорию противника."
+  SUBDOCTRINE_CARRIER_AIRFIELDS_DESC:0 "Самая дорогая собственность на планете — это палуба авианосца. На то, чтобы заполнить ее мощной авиацией, не следует жалеть никаких сил и средств."
+  SUBDOCTRINE_NIGHT_BOMBING_DESC:0 "Многие теоретики ошибались: бомбардировщик не всегда способен пробиться к цели. Ночные бомбардировки менее точны, зато самолеты и экипажи гораздо чаще возвращаются с заданий."
+
+  SUBDOCTRINE_GREAT_WAR_INFANTRY: "Піхота доби Фалькорської війни"
+
  #dod_focus_l
   ROM_license_german_equipment: "Ліцензії на німецьке оснащення"
   ROM_license_german_equipment_desc:0 "Foreign equipment is superior to our own, but perhaps we could obtain the licenses to produce these weapons, ourselves." # (!)
@@ -324,6 +366,49 @@
  #equipment_l
   motorized_equipment_0: "Рання вантажівка"
   motorized_equipment_0_desc:1 "Since the start of mass production of motor vehicles in Equestria and Skyfall, militaries started to use basic civilian trucks for transporting supplies and hauling equipment. These are becoming an integral part of most armies."
+
+ #factions_l
+  change_leader_rule_manpower:0 "Candidate Exceeds Leader's Ponypower"
+  TRIGGER_HAS_MANPOWER_TO_BECOME_LEADER:0 "$COUNTRY|H$ exceeds the current faction leader and its subjects in deployed ponypower. $MISSING_EXPL$"
+  TRIGGER_HAS_NOT_MANPOWER_TO_BECOME_LEADER:0 "$COUNTRY|H$ doesn't exceed the current faction leader and its subjects in deployed ponypower. $MISSING_EXPL$"
+  rule_group_manpower:0 "Ponypower"
+  manpower_contribution_rule:0 "Ponypower Contribution"
+  rule_group_leader_manpower:0 "Ponypower Requirements"
+  HAS_DEPLOYED_AT_LEAST_5M_MANPOWER:0 "§YEvery Faction Member§! with at least 5 million ponypower deployed"
+  FACTION_MANPOWER_CONTRIBUTION:0 "Ponypower Contribution"
+  FACTION_MANPOWER_CONTRIBUTION_DESC:0 "Contribute a portion of your monthly ponypower gain to your faction's §Hgarrison§! ponypower pool."
+  FACTION_MANPOWER_NO_CONTRIBUTION_DESC:0 "Contribute £manpower_texticon $VALUE|H0%$ of your monthly ponypower to your faction's §Hgarrison§! ponypower pool."
+  FACTION_MANPOWER_CONTRIBUTION_VALUE_DESC:0 "Contribute £manpower_texticon $VALUE|H0%$ of your monthly ponypower gain to your faction's §Hgarrison§! ponypower pool."
+  REQUEST_FACTION_MANPOWER_DESC:0 "Ponypower needed to maintain your occupation laws: $NEEDED|H*$ \nTotal ponypower in the pool that is not from your country: $FREE|H*$\n\nContribution score: $COST|.0+=$"
+  REQUEST_FACTION_MANPOWER_BUTTON_NO_MANPOWER:0 "There is no ponypower to make use of!"
+  REQUEST_FACTION_MANPOWER_BUTTON_NO_GARRISON_NEEDED:0 "You aren't in need any garrison support currently."
+  REQUEST_FACTION_MANPOWER_BUTTON_DESC:0 "Here we can request ponypower to fill any empty garrisons in territory we are currently occupying, leaving our own soldiers to fight in our armies."
+  FACTION_MANPOWER_DESC:0 "Total ponypower in pool: $ALL|H*$ \nManpower you contributed: $YOUR|H*$\nManpower you can take from: $FREE|H*$\n"
+  CONTRIBUTION_MANPOWER_EXPECTED_GAIN:0 "Ponypower contribution: $VAL|H$ §Hmonthly§!"
+  contribution_rule_filter_tooltip:0 "§GClick§! to toggle §HManpower Contribution§! filter"
+  FACTION_ARMY_TAB_TT:0 "§HFaction Military Operations§!\nRequest garrison ponypower, manage theater commanders and faction theaters, and set up doctrine sharing."
+  GARRISON_SUPPORT_SEND:0 "Requested ponypower will be delivered directly to our garrisons in territory we occupy."
+  preemptive_strike_on_fascism_goal_name:0 "Launch a Pre-emptive Strike on a Supremacist Country"
+  preemptive_strike_on_fascism_goal_desc:0 "We shouldn't wait for them to hit us. We need to ensure that we have the initiative."
+  war_on_democracy_goal_name:0 "Declare War on Harmony"
+  war_on_democracy_goal_desc:0 "We need to strike against our ideological enemies."
+  defeat_of_fascism_goal_name:0 "Defeat Supremacism"
+  defeat_of_fascism_goal_desc:0 "To stop the spread of supremacism once and for all, we need to start at home by eradicating supremacism in our part of the world."
+  defeat_of_anti_fascists_goal_name:0 "Spread Supremacism on the Continent"
+  defeat_of_anti_fascists_goal_desc:0 "We must aim to destroy the anti-supremacism governments on our continent."
+  joining_rule_non_fascist:0 "Non-Supremacist Countries Only"
+  joining_rule_non_democratic:0 "Non-Harmonists Only"
+  joining_rule_non_communist:0 "Non-Communists Only"
+  joining_rule_fascist_only:0 "Supremacists Only"
+  joining_rule_democratic_non_aligned:0 "Harmonic or Non-aligned Countries"
+
+  suppress_asian_communism_goal_name:0 "Suppress Griffonian Communism"
+  indifference_is_a_threat_goal_name:0 "Harmony is a Threat"
+  indifference_is_a_threat_goal_desc:0 "The harmonists have shown themselves to be unwilling to suport the measures necessary for the victory of the revolution. We can no longer abide their wavering."
+  joining_rule_democratic_non_aligned: "Гармонійні або нейтральні країни" # (&)
+  dismissal_rule_ideology_fascist: "Зверхні країни" # (&)
+  dismissal_rule_ideology_democratic: "Гармонійні країни"
+  dismissal_rule_ideology_not_democratic: "Негармонійні країни"
 
  #focus_filter_tag_l
   FOCUS_FILTER_MANPOWER: "Поні-ресурси"
@@ -516,6 +601,7 @@
 
  #tactics_l
   tactic_banzai_charge: "Відчайдушна атака"
+  tactic_grand_banzai_charge:0 "Grand Berserker Charge" # (!)
 
  #theater_l
   THEATRE_PRIORITY_DESC:0 "Theater priority decides which one will first get replacement resources and ponypower shipped." # (!)

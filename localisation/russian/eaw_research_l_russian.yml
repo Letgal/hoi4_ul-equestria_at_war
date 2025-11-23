@@ -86,8 +86,6 @@
  HIP_nuclear_depth_charges_aironly_effect: "Усі літаки:\n      $STAT_AIR_NAVAL_STRIKE_ATTACK$§G+10%§!"
  HIP_nuclear_depth_charges_full:0 "Ядерные глубинные заряды"
  HIP_nuclear_depth_charges_full_effect: "Усі літаки:\n      $STAT_AIR_NAVAL_STRIKE_ATTACK$§G+10%§!\nВідмикає модуль §HVariable-Yield Nuclear Depth Charges§!." # (!)
- HIP_nuclear_depth_charges_full_nomtg: "$HIP_nuclear_depth_charges_full$"
- HIP_nuclear_depth_charges_full_nomtg_effect: "Усі літаки:\n      $STAT_AIR_NAVAL_STRIKE_ATTACK$§G+10%§!\nЕсмінці:\n      $STAT_NAVY_SUB_ATTACK$§G+20§!\n      $STAT_COMMON_RELIABILITY$§R-10%§!"
  HIP_nuclear_land_mines_tech:0 "Подрывные ядерные боеприпасы"
  HIP_nuclear_land_mines_effect: "$MODIFIER_DIG_IN_SPEED$: §G+5%§!\n§HІнженери§!\n   $urban$:\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ARMY_DEFENSE$§G+10%§!\n§H$category_all_infantry$§!\n      $STAT_ARMY_DEFENSE$§G+5%§!\n      $STAT_ARMY_BREAKTHROUGH$§G+5%§!"
  HIP_air_launched_cruise_missiles_tech:0 "Современные планирующие бомбы"
