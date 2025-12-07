@@ -844,7 +844,7 @@
   our_war: "«Наша війна»"
 
  ## SEA_decisions_l
-  is_controlled_by_ROOT_or_ally_NOT: "Контролюється державою §H[Root.GetNameDef]§! або одним із союзників"
+  is_controlled_by_ROOT_or_ally_NOT: "Не контролюється державою §H[Root.GetNameDef]§! або одним із союзників"
 
  #tank_modules
   super_heavy_tank_artillery_chassis: "Надважка САУ"
