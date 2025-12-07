@@ -410,6 +410,10 @@
   dismissal_rule_ideology_fascist: "Зверхні країни" # (&)
   dismissal_rule_ideology_democratic: "Гармонійні країни"
   dismissal_rule_ideology_not_democratic: "Негармонійні країни"
+  suppress_regional_democracy_goal_desc:0 "Гармония совершенно несовместима с нашим мировоззрением. Мы положим конец оплотам этой идеологии на контенте [ROOT.GetCountryContinent]."
+  faction_manifest_victory_of_fascism_name:0 "Интернационал сторонников превосходства"
+  faction_manifest_victory_of_fascism_desc:0 "Чтобы превосходство победило, оно должно обрести успех в других странах. Пусть все существа мира обретут свободу под знаменем превосходства!"
+  suppress_regional_democracy_goal_name:0 "Подавить региональные очаги гармонии"
 
  #focus_filter_tag_l
   FOCUS_FILTER_MANPOWER: "Поні-ресурси"
@@ -577,6 +581,11 @@
   advanced_special_forces_desc:0 "Благодаря курсу интенсивной подготовки бойцы нашего спецназа будут сражаться гораздо лучше, чем обычные солдаты."
   cat_torpedoes:0 "Технологии торпед"
   synth_resources:0 "Синтетические ресурсы"
+  modern_sonar: "Напівсучасний сонар"
+  ship_sonar_3: "Поліпшений сонар"
+  ship_sonar_3_desc:0 "Усовершенствованный и мощный активный излучатель, способный обнаруживать погружённые под воду субмарины на очень больших расстояниях."
+  ship_sonar_4: "Удосконалений сонар"
+  ship_sonar_4_desc:0 "Буксируемый за кораблём дополнительный датчик позволяет гидролокатору триангулировать местоположение корабля на основе данных от нескольких излучателей."
   coastal_fort_tech_2:0 "Продвинутые береговые укрепления"
   land_fort_tech_2:0 "Продвинутые укрепления"
 
@@ -712,6 +721,7 @@
  #wtt_decisions_l
   ban_democratic_party: "Заборонити гармонійні та демократичні партії"
   ban_democratic_party_desc: "Гармонійні та демократичні партії надто довго перешкоджали нашому уряду. Їхнє наполягання на індивідуальних «правах» підривають наші зусилля по створенню кращої нації для всього нашого населення."
+  ban_democratic_party_tt: "Зміна популярності гармонії: §G-[?.ROOT.party_popularity@democratic|%0]§!.\n"
   anti_democratic_raids: "Рейди проти гармоністів"
   ban_fascist_party: "Заборонити зверхність"
   ban_fascist_party_desc: "З нашою поточною ситуацією, дозволяти зверхнім партіям надалі організовуватися скоро підірве нашу здатність ефективно правити. Доведеться вжити радикальних заходів."
@@ -833,6 +843,9 @@
   ACHIEVEMENTS_MOD_OK: "§HДосягнення доступні в модифікаціях!§!\n\nДосягнення EAW можна знайти за кнопкою «Профіль кар'єри» (або «Огляд проходження») в меню гри, у вкладці «Нагороди»."
   our_war: "«Наша війна»"
 
+ ## SEA_decisions_l
+  is_controlled_by_ROOT_or_ally_NOT: "Контролюється державою §H[Root.GetNameDef]§! або одним із союзників"
+
  #tank_modules
   super_heavy_tank_artillery_chassis: "Надважка САУ"
   super_heavy_tank_aa_chassis: "Надважка ЗСУ"
@@ -846,3 +859,13 @@
  #Special Projects
   sp_naval_cruiser_submarine_unique_reward_a_desc: "Условия всевозможных морских договоров сейчас практически никем не соблюдаются, поэтому в реальности ограничения на палубное вооружение подводных лодок не действуют. Однако при выборе вооружения возникает вопрос, следует ли нам отдавать приоритет соображениям престижа или же дальности действия?"
   sp_air_earthshaker_bomb_completion_tt:0 "Открывает §Y$raid_type_mega_gun_emplacement_strike$§!"
+
+ ## country_SIC_l
+  SIC_infantry_equipment_0: "Arsenal Ciudad Fusil Modelo 971"
+  SIC_infantry_equipment_0_short: "Fusil Md.71"
+  SIC_infantry_equipment_1: "Fusil-Escopete Modelo 999 de Estrella «El Jaguar»"
+  SIC_infantry_equipment_1_short: "Fusil Md.99 «El Jaguar»"
+  SIC_infantry_equipment_2: "Fusil-Escopete Modelo 1005 de Federal"
+  SIC_infantry_equipment_2_short: "Fusil Md.05"
+  SIC_infantry_equipment_3: "Subfusil Modelo Z-11 de Estrella"
+  SIC_infantry_equipment_3_short: "Subfusil Md.Z-11"

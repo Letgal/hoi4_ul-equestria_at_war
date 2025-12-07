@@ -2530,7 +2530,7 @@
 ### АЛЬЯНСИ ###
  griffonian_union: "Грифонський соціалістичний союз"
  aquileian_union: "Аквілейський соціалістичний альянс"
- griffonian_democratic_faction: "Антанта"
+ #griffonian_democratic_faction: "Антанта"
 
 ### РИСИ ###
  JER_cru_trait: "Великий хлопчина"

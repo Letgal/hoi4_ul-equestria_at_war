@@ -267,7 +267,6 @@
  cat_strategic_destruction: "$cat_strategic_destruction_research$"
  category_mechanical: "Усі механічні батальйони"
  category_motmech: "Моторизована/механізована піхота"
- category_scout_plane: "Літаки-розвідники"
  category_magical: "Усі магічні батальйони"
  category_magical_support: "Усі магічні роти підтримки"
  CHANGELING_RECON_SPEED_BOOST_TT: "\n£unit_recon_icon_small Макс. швидкість розвідроти: §G+30%§!"

@@ -2933,7 +2933,7 @@
  CTH_warlord_disloyalty_2_tt:0 "Воєначальники з §Rнебезпечно високою§! §Yвладою§! будуть поступово втрачати §Yлояльність§!.\n"
  CTH_lose_warlord_loyalty_tt:0 "Знижує §Yлояльність§! будь-якого воєначальника з §Rнебезпечно високою§! §Yвладою§!"\n"
  CTH_appease_warlords_tt:0 "§YЛояльність§! повинна бути нижчою за §Gвисоку§!.\n"
- CTH_gain_warlord_loyalty_tt:0 "Збільшує §Yлояльність§! воєначальника.\n"
+ CTH_gain_warlord_loyalty_tt:0 "Збільшує §Yлояльність§! воєначальників.\n"
  CTH_angry_about_PDX:0 "I wanted to add like a cool bonus for fighting naval battles near coast here but apparently its impossible to do anything like that. Can't even use an effect to add static modifiers on naval provinces smh my head. I'll keep this focus as is in case it becomes possible in the future."
  CTH_weaken_warlords_tt:0 "§YЛояльність§! повинна бути вищою за §Rнебезпечно низьку§! і §Yвлада§! повинна бути вищою за §Fнизьку§!.\n"
  CTH_remove_1_warlord_power_loyalty_tt:0 "Знижує §Yлояльність§! і §Yвлада§! воєначальника.\n"

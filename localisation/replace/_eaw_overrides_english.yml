@@ -333,7 +333,7 @@
 
  #doctrines_l
   SUBDOCTRINE_COASTAL_AIR_PATROL_DESC:0 "Traditional sea-level means of coastal defense are ponypower-intensive and inefficient. Aerial mobility means we can keep an eye on friendly shores and punish any would-be invader."
-  SUBDOCTRINE_BROAD_NAVAL_SUPPORT_DESC:0 "With reconnaissance, air superiority, and strike capability all in one package, carriers are an invaluable Jack-of-all-trades tool in the [ROOT.GetHands] of the task force commander."
+  SUBDOCTRINE_BROAD_NAVAL_SUPPORT_DESC:0 "With reconnaissance, air superiority, and strike capability all in one package, carriers are an invaluable Jack-of-all-trades tool in the toolbox of the task force commander."
   GRAND_DOCTRINE_MOBILE_WARFARE_DESC:0 "Hit them where they don't expect - mobile warfare doctrine seeks to break the trench deadlock of the Falcor War via aggressive maneuvers to pre-empt and disrupt the enemy."
   GRAND_DOCTRINE_SUPERIOR_FIREPOWER_DESC:0 "Send shells, not bodies - Superior Firepower emphasizes employing crushing masses of fire to pave the way for maneuver units to advance and capture territory."
   SUBDOCTRINE_CARRIER_AIRFIELDS_DESC:0 "A carrier deck is the most expensive piece of real estate on the world. No effort must be spared in eking out the maximum abount of possible air power from it."
@@ -410,6 +410,10 @@
   dismissal_rule_ideology_fascist: "Зверхні країни" # (&)
   dismissal_rule_ideology_democratic: "Гармонійні країни"
   dismissal_rule_ideology_not_democratic: "Негармонійні країни"
+  suppress_regional_democracy_goal_desc:0 "The so-called harmonic countries are the biggest threat to our ideals. We need to ensure that they are only in control of a minority of [ROOT.GetCountryContinent]"
+  faction_manifest_victory_of_fascism_name:0 "The Supremacist International"
+  faction_manifest_victory_of_fascism_desc:0 "For supremacy to triumph, it must prevail in the proving ground of nations. Let all creatures of the world be free under supremacy's glory!"
+  suppress_regional_democracy_goal_name:0 "Suppress Regional Harmony"
 
  #focus_filter_tag_l
   FOCUS_FILTER_MANPOWER: "Поні-ресурси"
@@ -576,6 +580,11 @@
   advanced_special_forces_desc:0 "With extensive training, we can ensure that our special forces will be able perform above and beyond that of normal creatures." # (!)
   cat_torpedoes:0 "Torpedo technologies"
   synth_resources: "Синтетичні ресурси"
+  modern_sonar: "Напівсучасний сонар"
+  ship_sonar_3: "Поліпшений сонар"
+  ship_sonar_3_desc:0 "An advanced, high-intensity active noise emitter able to detect submerged submarine hulls from very long distances."
+  ship_sonar_4: "Удосконалений сонар"
+  ship_sonar_4_desc:0 "Towing a sensor behind the ship allows for sonar from multiple emitters to triangulate ship location."
 
  #resistance_and_occupation_l
   COUNTRY_OCCUPATION_TITLE: "Окупація"
@@ -704,6 +713,7 @@
  #wtt_decisions_l
   ban_democratic_party: "Заборонити гармонійні та демократичні партії"
   ban_democratic_party_desc: "Гармонійні та демократичні партії надто довго перешкоджали нашому уряду. Їхнє наполягання на індивідуальних «правах» підривають наші зусилля по створенню кращої нації для всього нашого населення."
+  ban_democratic_party_tt: "Зміна популярності гармонії: §G-[?.ROOT.party_popularity@democratic|%0]§!.\n"
   anti_democratic_raids: "Рейди проти гармоністів"
   ban_fascist_party: "Заборонити зверхність"
   ban_fascist_party_desc: "З нашою поточною ситуацією, дозволяти зверхнім партіям надалі організовуватися скоро підірве нашу здатність ефективно правити. Доведеться вжити радикальних заходів."
@@ -825,8 +835,21 @@
   ACHIEVEMENTS_MOD_OK: "§HДосягнення доступні в модифікаціях!§!\n\nДосягнення EAW можна знайти за кнопкою «Профіль кар'єри» (або «Огляд проходження») в меню гри, у вкладці «Нагороди»."
   our_war: "«Наша війна»"
 
+ ## SEA_decisions_l
+  is_controlled_by_ROOT_or_ally_NOT: "Контролюється державою §H[Root.GetNameDef]§! або одним із союзників"
+
  #trade_l
   CONVOYS_USAGE_DELAYED: "Конвої використовуються для імпорту ресурсів морем від інших країн, а також доставки наших ресурсів у межах держави і припасів для наших військ за морем."
 
  #Special Project
   sp_naval_cruiser_submarine_unique_reward_a_desc:0 "The impotence of our various naval treaties have collectively rendered any real restrictions on submarine deck armament moot. The question remains however, whether we should prioritize prestige armaments over tactical range?"
+
+ ## country_SIC_l
+  SIC_infantry_equipment_0: "Arsenal Ciudad Fusil Modelo 971"
+  SIC_infantry_equipment_0_short: "Fusil Md.71"
+  SIC_infantry_equipment_1: "Fusil-Escopete Modelo 999 de Estrella «El Jaguar»"
+  SIC_infantry_equipment_1_short: "Fusil Md.99 «El Jaguar»"
+  SIC_infantry_equipment_2: "Fusil-Escopete Modelo 1005 de Federal"
+  SIC_infantry_equipment_2_short: "Fusil Md.05"
+  SIC_infantry_equipment_3: "Subfusil Modelo Z-11 de Estrella"
+  SIC_infantry_equipment_3_short: "Subfusil Md.Z-11"
