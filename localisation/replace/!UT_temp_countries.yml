@@ -553,7 +553,7 @@
 
  ### ІДЕЇ ###
   BRZ_grover_vi: "Ґровер VI Грифонстоунський" # “©” StasJesus
-  BRZ_grover_vi_desc: "Імператор Ґровер, шостий в роді Грифонстоунських, досі поділяв долю свого батька. Будучи сиротою, занадто молодим для імперської корони, він розділив владу з Регентською Радою, що перетворила його на безсилу маріонетку. Однак, на відміну від його батька, регенти Ґровера VI не є егоїстичними та корумпованими дурнями. Більше того, Ґровер VI не є хворобливим чи слабким. Навпаки, він має гострий і кмітливий розум, а також природний талант до керівництва. Він має великий потенціал, але тільки час покаже, чи буде він реалізований. Якщо його регент дозволить, Його Величність Ґровер VI буде коронований у Грифонстоуні в день свого вісімнадцятиріччя в 1021 році після В. Л." # “©” StasJesus
+  BRZ_grover_vi_desc: "Імператор Ґровер, шостий в роді Грифонстоунських, досі поділяв долю свого батька. Будучи сиротою, занадто молодим для імперської корони, він розділив владу з Регентською Радою, що перетворила його на безсилу маріонетку. Однак, на відміну від його батька, регенти Ґровера VI не є егоїстичними та корумпованими дурнями. Більше того, Ґровер VI не є хворобливим чи слабким. Навпаки, він має гострий і кмітливий розум, а також природний талант до керівництва. Він має великий потенціал, але тільки час покаже, чи буде він реалізований.\n\nЯкщо його регент дозволить, Його Величність Ґровер VI буде коронований у Грифонстоуні в день свого вісімнадцятиріччя в 1021 році після В. Л." # “©” StasJesus
 
 # country_CES
  ### РІШЕННЯ ###
@@ -638,6 +638,20 @@
   CES_fascism_2p_party: "АФПП"
   CES_fascism_2p_party_long: "Астланська фестральна партія прав"
   # Далі йде решта назв. Додати відразу перекладеними.
+
+# country_Chisimbi
+ Generic_chisimbi_cosmetic_tag_placeholder_neutrality: "Конфедеративні провінції Чісімбі"
+ Generic_chisimbi_cosmetic_tag_placeholder_neutrality_DEF: "Конфедеративні провінції Чісімбі"
+ Generic_chisimbi_cosmetic_tag_placeholder_neutrality_ADJ: "Чісімбійськ"
+ Generic_chisimbi_cosmetic_tag_placeholder_democratic: "Чісімбійська унітарна республіка"
+ Generic_chisimbi_cosmetic_tag_placeholder_democratic_DEF: "Унітарна республіка Чісімбі"
+ Generic_chisimbi_cosmetic_tag_placeholder_democratic_ADJ: "Чісімбійськ"
+ Generic_chisimbi_cosmetic_tag_placeholder_communism: "Об'єднані комуни Чісімбі"
+ Generic_chisimbi_cosmetic_tag_placeholder_communism_DEF: "Об'єднані комуни Чісімбі"
+ Generic_chisimbi_cosmetic_tag_placeholder_communism_ADJ: "Чісімбійськ"
+ Generic_chisimbi_cosmetic_tag_placeholder_fascism: "Імперське Чісімбі"
+ Generic_chisimbi_cosmetic_tag_placeholder_fascism_DEF: "Чісімбійська імперія"
+ Generic_chisimbi_cosmetic_tag_placeholder_fascism_ADJ: "Чісімбійськ"
 
 # country_CME
  CME_reunited_fascism: "Кемелкандська держава"
