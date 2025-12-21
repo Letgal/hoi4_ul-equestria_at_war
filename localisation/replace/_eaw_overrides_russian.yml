@@ -1,9 +1,9 @@
 ﻿# == (*) ==
- EAW_MENU_MODDB: "Equestria at War у MODDB"
+ EAW_MENU_MODDB: "Equestria at War у ModDB"
  EAW_MENU_DISCORD: "Сервер Equestria at War у Discord"
  EAW_MENU_STEAMWORKSHOP: "Equestria at War у Майстерні Steam"
  EAW_MENU_VK: "Equestria at War у VK"
- maintheme: "$Resonant_Tonality-Quiet_Land$"
+ maintheme: "$Resonant_Tonality-Hearth's_Warming_War$"
  NOT_EXIST: "Для Вас буде вибрана випадкова країна."
 
  #air_l
@@ -101,6 +101,7 @@
   COMBAT_SIDE_SUMMARY: "$MANPOWER|*1Y$ поні-ресурсів, $VEHICLES|Y$ од. техніки, $ARTILLERY|Y$ од. артилерії"
 
  #core_l
+  FE_MISC_STATS: "Інші параметри" # РЛ, vnl.
   CONFIRMDELETETEXT_RETURNDESC: "Використане озброєння буде повернене на склад, а §Yвійськові частини§! повернуться в §Yзапаси поні-ресурсів§!. Будь-які §Yекспедиційні війська§! будуть надіслані додому."
   CONFIRMDELETETEXT_NAVYDESC: "Кораблі будуть §RЗНИЩЕНІ§!, а §Yвійськові частини§! повернуться в §Yзапаси поні-ресурсів§!."
   CONFIRMDELETETEXT_RAILWAY_GUNS_TEXT: "Залізничні гармати будуть §RЗНИЩЕНІ§!, а §Yвійськові частини§! повернуться в §Yзапаси поні-ресурсів§!."
@@ -609,6 +610,8 @@
   STATE_OWNER_RESISTANCE_NON_CORE_INFO_WITH_MODIFIERS: "Держава $COUNTRY|H$ матиме доступ лише до $MANPOWER|-%.0$ поні-ресурсів області, а також отримає наступні модифікатори через установлений окупаційний статус:"
 
  #stats_l
+  STAT_NAVY_RANGE: "Дальність: " # РЛ
+  STAT_COMMON_FUEL_CONSUMPTION: "Витрати пального: " # РЛ, vnl.
   STAT_CASUALTY_TRICKLEBACK: "Відшкодування втрат і збереження підтримки війни: "
   STAT_CASUALTY_TRICKLEBACK_DESC:0 "Какой процент пони ресурсов сможет вернуться в резерв после ранений в бою."
   STAT_ARMY_CASUALTY_TRICKLEBACK: "Відшкодування втрат і збереження підтримки війни: "
@@ -699,6 +702,8 @@
   TRIGGER_ARMY_MANPOWER_IN_STATE: "поні-ресурсів, розгорнутих в області $STATE|H$"
   TRIGGER_ARMY_MANPOWER_IN_STATE_OF_TYPE: "поні-ресурсів, розгорнутих в області $STATE|H$ з дивізій $TYPE|H$"
   can_unlock_new_special_forces_tree_none:0 "£trigger_yes §HСпециализаций§! осталось: §H2§!"
+  TRIGGER_NUM_OF_CONTROLLED_STATES_MORE_THAN: "Більш ніж $NUMBER|H$ підконтрольних областей" # РЛ, vnl.
+  TRIGGER_NUM_OF_CONTROLLED_STATES_LESS_THAN: "Менш ніж $NUMBER|H$ підконтрольних областей" # РЛ, vnl.
 
  #unit_l
   CURRENT_MANPOWER: " - Поточні поні-ресурси: $VAL|*H1$ ($PER|%0H$)\n"
@@ -859,6 +864,12 @@
  #Special Projects
   sp_naval_cruiser_submarine_unique_reward_a_desc: "Условия всевозможных морских договоров сейчас практически никем не соблюдаются, поэтому в реальности ограничения на палубное вооружение подводных лодок не действуют. Однако при выборе вооружения возникает вопрос, следует ли нам отдавать приоритет соображениям престижа или же дальности действия?"
   sp_air_earthshaker_bomb_completion_tt:0 "Открывает §Y$raid_type_mega_gun_emplacement_strike$§!"
+
+ ## unit
+  SHIP_UNIT_STATS: "Подробиці про корабель" # РЛ, vnl.
+ 
+ ## army
+  THEATER_GROUP_NAME_PATTERN: "$NUMBER$ $ADJECTIVE$ий театр" # РЛ, vnl.
 
  ## country_SIC_l
   SIC_infantry_equipment_0: "Arsenal Ciudad Fusil Modelo 971"

@@ -575,6 +575,8 @@ Yal_skeleton_king_army_leader_desc:0 "§LFighting for the great Grover II inspir
 
  IBZ_iron_breaker_trait:0 "Iron Breaker"
 
+ MSS_king_of_the_world:0 "King of All the World"
+
 ### THESE ARE NOT DUPLICATES, DO NOT REMOVE
  alt_red_army_organizer: "$red_army_organizer$"
  alt_army_chief_defensive_1: "$army_chief_defensive_1$"
