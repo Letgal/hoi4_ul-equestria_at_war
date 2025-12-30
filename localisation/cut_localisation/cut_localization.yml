@@ -161,6 +161,47 @@
   BRF_medium_tank_manufacturer: "Atelierele Leonida"
 
 # country_CHN
+ # Уже переклав ці назви, а це са старі фокуси. Вирізав, аби легко впізнавати сучасні. У разі чого, поверну. ~ L.H.
+  army_research: "Армійські дослідження"
+  research_tanks: "Розробка танків"
+  research_air: "Сучасні військові літаки"
+  nuclear_effort_CHN: "Ядерні дослідження на півночі"
+  equality_for_all_CHN: "Рівність для всіх видів"
+  air_research: "Еквестрійські літаки"
+  support_research: "Еквестрійська роти підтримки"
+  expanded_industry: "Спільна промисловість"
+  military_minds: "Перебудувати вище командування"
+  victory: "Остаточна перемога"
+  militarism_CHN: "Мілітаризація вуликів"
+  extra_research_2_CHN: "Невпинний поступ" # інак. Нескутий
+  rocket_effort_CHN: "Розвиток ракет"
+  research_tanks2: "Продовження осучаснення танків"
+  research_tanks2: "Продовження осучаснення танків"
+  research_air2: "Сучасні бомбардувальники"
+  army_research2: "Продовження армійські дослідження"
+  army_research3: "Механізована піхота"
+  chn_navylysander2: "Поліпшення великого флоту"
+  chn_navymimic2: "Поліпшення підводних човнів"
+  chndestroyereffort: "Поліпшити наші есмінці"
+  chn_navybuildup: "Збудувати додаткові верфі"
+  chncruisereffort: "Поліпшити наші крейсери"
+  battleforthehives_chn: "Геть королеву!"
+  assassinate_fieldmarshaltrimmel_CHN: "Убити Тріммеля"
+  changeling_liberation_front_CHN: "ЧВФ захоплює владу"
+  union_of_progressive_changelings_CHN: "СПЧ захоплює владу"
+  blackarmy_CHN: "Утворити Чорнармію"
+  CLF_Rebuilding_CHN: "Відбудувати вулики"
+  CHNCOM_infrastructure_effort: "Нові дороги"
+  UPPCongress: "Конгрес СПЧ"
+  warplanwhite: "Воєнний план «Білий»"
+  warplanpurple: "Воєнний план «Фіолетовий»"
+  CHN_invasion_of_griffonia: "Вторгнення у Грифонію"
+  CHN_populate_olenian_coast: "Заселити узбережжя Оленії"
+  CHN_olenian_volunteers: "Олені-колаборатори"
+
+  CHN_Escort_Carriers: "Проєкти авіаносців супроводу"
+
+ ######
  CHN_acornage_colony_tt: "§C$CHN_acornage_colonisation_modifier_updated$§!\n\n$MODIFIER_LOCAL_FACTORIES$: §G+50%§!\n$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$: §G+50%§!\n$MODIFIER_RESISTANCE_DECAY$: §G+50%§!\n$MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §G+50.00%§!\n$MODIFIER_GLOBAL_MONTHLY_POPULATION$: §G+75.00%§!\n$MODIFIER_LOCAL_NON_CORE_MANPOWER$: §G+75.00%§!"
 
 # country_FEA
