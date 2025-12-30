@@ -1927,20 +1927,20 @@ bar_tank2:0 "Еадґар Стеркстан" #!
 BAR_pen_arty:0 "Ельфред Бельдбеорн" #!
 BAR_pen_guns:0 "Едвіґ Хвітстан" #!
 BAR_magic_guns:0 "Катаріна Вайсґриф"
-BAR_ded_arty:0 "Ельфред Бельдбеорн" #!
-BAR_ded_guns:0 "Eдвіґ Хвітстан" #!
-BAR_ded_magic_guns:0 "Катаріна Вайсґриф"
+BAR_ded_arty: "$BAR_pen_arty$"
+BAR_ded_guns: "$BAR_pen_guns$"
+BAR_ded_magic_guns: "$BAR_magic_guns$"
 BAR_pen_industry:0 "Леофвайн Хестан" #!
 BAR_pen_refinery:0 "Гільда Дуннстан"
-BAR_ded_industry:0 "Леофвайн Хестан" #!
-BAR_ded_refinery:0 "Гільда Дуннстан"
+BAR_ded_industry: "$BAR_pen_industry$"
+BAR_ded_refinery: "$BAR_pen_refinery$"
 BAR_pen_light_planes:0 "Осберн Ельфстан" #!
 BAR_pen_cas:0 "Еббе Едбурґ" #!
 BAR_pen_medium_planes:0 "Едґар Ельфстан" #!
-BAR_ded_light_planes:0 "Осберн Ельфстан" #!
-BAR_ded_cas:0 "Еббе Едбурґ" #
-BAR_ded_medium_planes:0 "Едґар Ельфстан" #!
-BAR_ded_shipyard:0 "Гільда Бетвирта" #!
+BAR_ded_light_planes: "$BAR_pen_light_planes$"
+BAR_ded_cas: "$BAR_pen_cas$"
+BAR_ded_medium_planes: "$BAR_pen_medium_planes$"
+BAR_ded_shipyard: "$BAR_pen_shipyard$"
 BAR_pen_shipyard:0 "Гільда Бетвирта" #!
 
 ##### переможні бали ######
