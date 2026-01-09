@@ -127,6 +127,7 @@
 + `eaw_scripted_maps`
 + `eaw_scripted_triggers` (умовно)
 + `eaw_starting_warning_events`
++ `eaw_strategic_locations`
 + `eaw_war`
 + `eaw_zebra_generic` (переклав *Daybreaker*)
 + `loading_tips`
