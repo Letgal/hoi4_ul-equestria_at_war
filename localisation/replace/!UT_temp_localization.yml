@@ -227,6 +227,8 @@
  RIV_13_neutrality_ADJ: "Федеративн"
  RIV_13_communism_ADJ: "Комунальн"
 
+ RIV_LSC_sympathy: "Кревність" # аби не забути
+
  river_coalition_faction: "Річкова коаліція"
  river_united_faction: "Організація Східногрифонського договору"
 

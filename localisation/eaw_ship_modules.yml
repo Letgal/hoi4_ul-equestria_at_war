@@ -75,6 +75,13 @@
  ship_anti_air_6_short: "Зенітна батарея VI"
  ship_anti_air_6_desc:0 "Radar beam guidance allows these missiles to be directed directly to enemy planes, helping to counterbalance the increased agility of recent bombers. Even on a near miss, the missile can be remotely detonated to inflict enough damage to force the pilot to retreat."
 
+ dp_light_battery_5: "127-мм довгоствольна скорострільна універсальна батарея"
+ dp_light_battery_5_short: "Універсальна головна батарея V"
+ dp_light_battery_5_desc:0 "A small but long, rapid-fire gun in a high angle powered turret, allowing it to engage airplanes as well as surface targets."
+ dp_light_battery_6: "127-мм легка довгоствольна скорострільна універсальна батарея"
+ dp_light_battery_6_short: "Універсальна головна батарея VI"
+ dp_light_battery_6_desc:0 "A small but long and lightweight, rapid-fire gun in a high angle powered turret, allowing it to engage airplanes as well as surface targets."
+
  ship_super_heavy_battery_2: "51-мм гармата"
  ship_super_heavy_battery_2_short: "Надважка батарея II"
  ship_super_heavy_battery_2_desc:0 "Mounting fewer but even more outlandishly large guns, this battery is specifically designed to pierce through the armor of any other ship in existence. It can penetrate even other super heavy battleships and packs horrific firepower."

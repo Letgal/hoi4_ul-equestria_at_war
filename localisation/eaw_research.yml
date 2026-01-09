@@ -241,6 +241,11 @@
  cruiser_submarines_nomtg: "Підводний крейсер"
  advanced_cruiser_submarines: "Підводний крейсер 1015 р."
 
+ semi_modern_dp_light_battery: "Напівсучасна універсальна батарея"
+ semi_modern_dp_light_battery_desc: "Довші гарматні дула дозволяють бомбардувати більшу відстань.\n\nУстановка цього модуля збільшує параметр §Y$EQUIPMENT_DESIGNER_LG_ATTACK_ICON_TOOLTIP$§!, що допомагає в сутичках із ворожими §Yкораблями прикриття§!. Також це збільшує параметр §Y$EQUIPMENT_DESIGNER_ANTI_AIR_ATTACK_ICON_TOOLTIP$§!.\nУстановка модуля §YДопоміжна батарея§! також дає кораблям §Y$ship_hull_cruiser$§!, §Y$ship_hull_carrier$§! і §Y$ship_hull_heavy$§! малу кількість параметру §Y$EQUIPMENT_DESIGNER_LG_ATTACK_ICON_TOOLTIP$§! й дозволяє їм обстрілювати другу ціль." # (&+)
+ modern_dp_light_battery: "Сучасна універсальна батарея"
+ modern_dp_light_battery_desc: "Здобутки в матеріалознавстві дозволяють створювати значно легші дула, що збільшує перевозиме число набоїв.\n\nУстановка цього модуля збільшує параметр §Y$EQUIPMENT_DESIGNER_LG_ATTACK_ICON_TOOLTIP$§!, що допомагає в сутичках із ворожими §Yкораблями прикриття§!. Також це збільшує параметр §Y$EQUIPMENT_DESIGNER_ANTI_AIR_ATTACK_ICON_TOOLTIP$§!.\nУстановка модуля §YДопоміжна батарея§! також дає кораблям §Y$ship_hull_cruiser$§!, §Y$ship_hull_carrier$§! і §Y$ship_hull_heavy$§! малу кількість параметру §Y$EQUIPMENT_DESIGNER_LG_ATTACK_ICON_TOOLTIP$§! й дозволяє їм обстрілювати другу ціль." # (&+)
+
  basic_light_missile: "Базові легкі ракети"
  basic_light_missile_desc:0 "Recent advances in guided missiles open up the possibly of arming our warships with them. These missiles will provide previously-inconceivable accuracy, being guided by radar directly to their target."
  basic_heavy_missile: "Базові важкі ракети"

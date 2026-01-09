@@ -446,6 +446,7 @@ form_department_tooltip: "Виконано поліпшення агентств
  sp_news.1.t: "Універсальний перекладач"
  sp_news.1.d:0 "[This.GetNewspaperHeader]With the advent of magitech in military and civilian life, it was only a matter of time before something truly groundbreaking was invented. The Universal Translator - as it has been named - is a complex arrangement of magitech and so-called 'enchanted strings' inside a radio headset that allows audio input to be translated near-instantaneously into the native tongue of the listener. Griffons from all over have already expressed interest in the system and the companies responsible for its creation have enjoyed a meteoric rise in stock prices."
  sp_news.1.a: "Тепер, на жаль, кожен може зрозуміти, що каже прайвенець."
+ sp_news.1.b: "Нарешті весь світ може почути, що нам є сказати!"
 
 ### ІНША ЛОКАЛІЗАЦІЯ, ЯКУ НЕ ЯСНО КУДИ ПОДІТИ ###
  self_propelled_super_heavy_anti_air: "Самохідна надважка ЗСУ"

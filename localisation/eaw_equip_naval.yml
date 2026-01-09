@@ -1598,15 +1598,15 @@
  ship_hull_light_5_short: "Сучасний стандартний есмінець"
  ship_hull_light_5_desc:0 "These destroyer hulls are the ultimate incarnation of what was once the torpedo boat destroyer: fast, well-armed, and excellent sub-hunters, the destroyer has become a mainstay of the fleet as a light escort and as the prime ASW naval vessel. Though some naval designers believe that we've hit the peak point for this kind of destroyer, these are still a significant threat to submersibles and capital ships."
  ship_hull_light_6: "Корпус есмінця з ранніми керованими ракетами"
- ship_hull_light_6_short: "Есмінець із ранніми керованими ракетами"
- ship_hull_light_6_desc:0 "Missile technology has advanced to the point where a single weapons system can perform multiple roles and the newest generation of destroyer hulls follows this development. These still act as the primary escort and submarine hunter. However, with the integration of new missile systems, these destroyers can now effectively engage enemy aircraft."
+ ship_hull_light_6_short: "Есмінець і фрегат із ранніми керованими ракетами"
+ ship_hull_light_6_desc:0 "Missile technology has advanced to the point where a single weapons system can perform multiple roles and the newest generation of destroyer hulls follows this development. These still act as the primary escort and submarine hunter. However, with the integration of new missile systems, these destroyers can now effectively engage larger ships."
 
  ship_hull_cruiser_5: "Корпуси сучасних багатогарматних і флотських крейсерів"
  ship_hull_cruiser_5_short: "Сучасні багатогарматні та флотські крейсери"
  ship_hull_cruiser_5_desc:0 "New thinking in naval warfare has drastically changed pre-existing roles that cruisers fulfilled, causing a paradigm shift in cruiser designs. As such, new cruiser hulls are generally of a lower displacement, making these ships more suitable to their new fleet auxiliary duties. Despite their diminishing value, these cruisers are at the cutting edge."
- ship_hull_cruiser_6: "Корпуси крейсерів із ранніми керованими ракетами" # (&)
- ship_hull_cruiser_6_short: "Крейсери з ранніми керованими ракетами" # (&)
- ship_hull_cruiser_6_desc:0 "In light of the adoption of missile weapons, cruisers are now in a strange position as military vessels. These new frigate and cruiser hulls pack a surprisingly large amount of firepower in small ships when mounted with the appropriate missile weapons system and advanced armour scheme."
+ ship_hull_cruiser_6: "Корпуси крейсерів та есмінців-лідерів із ранніми керованими ракетами" # (&)
+ ship_hull_cruiser_6_short: "Крейсери й есмінці-лідери з ранніми керованими ракетами" # (&)
+ ship_hull_cruiser_6_desc:0 "In light of the adoption of missile weapons, cruisers are now in a strange position as military vessels. These new destroyer leader and cruiser hulls pack a surprisingly large amount of firepower in small ships when mounted with the appropriate missile weapons system and advanced armour scheme."
 
  ship_hull_heavy_5: "Корпус сучасного багатогарматного лінкора"
  ship_hull_heavy_5_short: "Сучасний багатогарматний лінкор"

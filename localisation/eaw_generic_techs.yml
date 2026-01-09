@@ -324,6 +324,8 @@
  infantry_weapons_mountaineers: "Піхотна зброя для гірської піхоти (обхід, ігноруйте)"
  magical_weapons_paratrooper: "Магічна зброя для парашутистів (обхід, ігноруйте)"
  infantry_weapons_paratrooper: "Піхотна зброя для парашутистів (обхід, ігноруйте)"
+ magical_weapons_ranger: "Магічна зброя для рейнджерів (обхід, ігноруйте)"
+ infantry_weapons_ranger: "Піхотна зброя для рейнджерів (обхід, ігноруйте)"
  magical_weapons_jager: "Магічна зброя для єґерів (обхід, ігноруйте)"
  infantry_weapons_jager: "Піхотна зброя для єґерів (обхід, ігноруйте)"
  magical_weapons_pegasi: "Магічна зброя для пегасів (обхід, ігноруйте)"

@@ -45,6 +45,7 @@
  dismissal_rule_ideology_not_fascist: "Незверхні країни"
  dismissal_rule_ideology_extremist: "Зверхні або комуністичні країни"
  joining_rule_fascist_non_aligned: "Зверхні або нейтральні країни"
+ change_leader_rule_never_RIV: "Гонка за утворення Річкової федерації"
 
 ### МАНІФЕСТИ (?) ###
  faction_manifest_ruling_the_rivers_name: "Панування річками"

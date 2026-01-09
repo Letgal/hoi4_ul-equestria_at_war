@@ -3,7 +3,7 @@
  EAW_MENU_DISCORD: "Сервер Equestria at War у Discord"
  EAW_MENU_STEAMWORKSHOP: "Equestria at War у Майстерні Steam"
  EAW_MENU_VK: "Equestria at War у VK"
- maintheme: "$Resonant_Tonality-Hearth's_Warming_War$"
+ maintheme: "$Resonant_Tonality-Quiet_Land$"
  NOT_EXIST: "Для Вас буде вибрана випадкова країна."
 
  #air_l
@@ -14,6 +14,7 @@
   kamikaze_focus_tooltip: "Дозволяє завдання §Y$AIRWING_MISSION_TYPE_NAVAL_KAMIKAZE$§! проти ворожих кораблів.\n"
   suicide_craft_desc: "Літак-самовбивця з ракетними двигунами."
   QUICK_DEPLOY_WING_DISABLE_NO_MAN_DESC: "Додати авіакрило $PLANE_TYPE|H$.\nУ Вас недостатньо поні-ресурсів."
+  AIR_WING_STATS: "Авіакрило" # УЛ, спільно з РЛ
 
  #alert_l
   alert_few_manpower_instant: "§HМало поні-ресурсів!§!"
@@ -28,7 +29,7 @@
   COLONIAL_FORCES_GENERAL_DESCRIPTION: "§GКлацніть, щоби переглянути шаблони суб'єктів і урядів у вигнанні.§!\n\nДивізії, створені за колоніальними шаблонами суб'єктів, можуть включати більше поні-ресурсів суб'єкта при нижчому рівні автономії."
 
  #buildings_l
-  rail_way_plural: "Залізниці" # Із ванілли
+  rail_way_plural: "Залізниці" # vnl.
 
   nuclear_reactor_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї.\n\nКожен ядерний реактор споживає §R12§! £resources_strip|8£.\n$reactor_resource_shortage$"
   nuclear_reactor_heavy_water_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї.\nЯдерні реактори на важкій воді дещо дешевше будувати, ніж графітові реактори, but produce less material that can be used to produce nuclear weapons.\n\nКожен ядерний реактор споживає §R10§! £resources_strip|8£.\n$reactor_resource_shortage$"
@@ -341,6 +342,7 @@
   SUBDOCTRINE_GRAND_ASSAULT_DESC:0 "Building upon hard-earned lessons from Falcor War, we shall adopt a deliberate and methodical approach to pre-battle planning. Then, when every advantage has been leveraged, we fall upon the enemy like an avalanche."
 
   SUBDOCTRINE_GREAT_WAR_INFANTRY: "Піхота доби Фалькорської війни"
+  SUBDOCTRINE_ARMORED_CAVALRY: "Броньований авангард" # УЛ, спільно з РЛ
 
  #dod_focus_l
   ROM_license_german_equipment: "Ліцензії на німецьке оснащення"
