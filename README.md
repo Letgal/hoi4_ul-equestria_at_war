@@ -17,6 +17,7 @@
 + `country_BAL_protectorate` (переклав *Green Kitten*)
 + `country_BAN` (переклав *Bovcun*) — `(&)`
 + `country_BAR` (переклав [*Max*](https://steamcommunity.com/profiles/76561198873048643)) — `(&)`
++ `country_BAT` (переклав *Max*)
 + `country_BOI`
 + `country_BRF` (переклав *Bovcun*) — `(&)`
 + `country_BUF` (переклав *Kiparu*)
