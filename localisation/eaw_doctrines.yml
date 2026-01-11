@@ -9,8 +9,8 @@
  DOCTRINE_TRACK_FUTURE_SUBMARINES: "Новітні підводні човни"
  DOCTRINE_TRACK_FUTURE_FIGHTER_AIRCRAFT: "Новітні винищувачі"
  DOCTRINE_TRACK_FUTURE_STRIKE_AIRCRAFT: "Новітня ударна авіація"
- DOCTRINE_TRACK_FUTURE_MEDIUM_AIRCRAFT: "Новітні середня авіація"
- DOCTRINE_TRACK_FUTURE_HEAVY_AIRCRAFT: "Новітні важка авіація"
+ DOCTRINE_TRACK_FUTURE_MEDIUM_AIRCRAFT: "Новітня середня авіація"
+ DOCTRINE_TRACK_FUTURE_HEAVY_AIRCRAFT: "Новітня важка авіація"
 
  DOCTRINE_REDUCTION_COST: "Вартість модулів $MCAT$: §G-20.00%§!"
  tt_cat_missiles: "Ракети повітряного базування" # підглянуто в РЛ
