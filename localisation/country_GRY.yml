@@ -370,42 +370,42 @@
   has_a_modern_society:0 "Має §YСучасне суспільство§!"
 
  # Шлях маріонетки нацистів
-  GRY_lord_protector:0 "The New Order"
-  GRY_lord_protector_desc:0 "A new power has risen on the continent, free of the previous shackles of nobility. Having lost our independence to this power, Gryphia has been reformed as an Imperial Border March, under the rulership of a foreign governor."
-  GRY_the_imperial_march:0 "Reichskommissariat Kosakenland"
-  GRY_the_imperial_march_desc:0 "These savage griffons need to be tamed and taught their place. They should be happy we allowed them to exist as a protectorate. Now then, let's get to the business of administration."
-  GRY_convince_the_warriors:0 "Secure the Warriors' Allegiance"
-  GRY_convince_the_warriors_desc:0 "The fierce Zaphzan warriors are proud and independently minded. A troublesome combination, but we have methods of convincing them to fight for us and our interests."
-  GRY_convince_the_people:0 "Assure the People"
-  GRY_convince_the_people_desc:0 "Although the Zaphzan griffons are content to live in their traditional, isolated ways, they will certainly become a nuisance once we begin exploiting this land for its riches. Efforts must be placed into keeping the people relatively content."
-  GRY_focus_on_war:0 "The Business of War"
-  GRY_focus_on_war_desc:0 "To remind the populace we are in control, now and ever after, we need a dedicated force for keeping order. It will make administering these lands more smoother."
-  GRY_focus_on_resources:0 "Exploit the Land"
-  GRY_focus_on_resources_desc:0 "Gryphia is a land full of untapped resource deposits! The Lord Protector has set a monthly quota and excavation must commence immediately. Expand the existing mines, and hire surveyors to find additional riches!"
-  GRY_lower_recruitment_age:0 "Looser Soldier Standards"
-  GRY_lower_recruitment_age_desc:0 "Griffonpower is always in demand, and the endless wars of our overlord require it. Starting from here on, the criteria for joining the armed forces will be lowered."
-  GRY_guns_for_manpower:0 "Griffons for Firearms"
-  GRY_guns_for_manpower_desc:0 "In order to aspire towards greater things, and be true to our nature, we must collaborate. The fit, capable soldiers of this land will be sent off to the battlefronts, and in return, we shall receive what we require to cement our control of the region."
-  GRY_tech_for_manpower:0 "Griffons for Technology"
-  GRY_tech_for_manpower_desc:0 "We've ascertained that our overlord is willing to trade rifles for soldiers, making it only senseful that expand this makeshift trading to include scientists. The technological development of the region is staggeringly poor."
-  GRY_heritage_indoctrination:0 "The Old Glories"
-  GRY_heritage_indoctrination_desc:0 "There is much to be learned from the fighting style of the Zaphzan Cossacks. We'd be wise to study their tactics and combat abilities."
-  GRY_promise_of_land:0 "Attract Heartlander Immigrants"
-  GRY_promise_of_land_desc:0 "With the old nobility stripped of their rights and holds, we find ourselves in possession of vast lands that would be perfect for colonists to settle. Offer them for cheap to willing Heartlander citizens, we need to repopulate."
-  GRY_industry_for_manpower:0 "Griffons for Industry"
-  GRY_industry_for_manpower_desc:0 "In order to continue the development and exploitation of this region, we require heavy industry that simply isn't present in the area. Fortunately, we always have more willing griffons to trade away."
-  GRY_find_more_labor:0 "Forced Service"
-  GRY_find_more_labor_desc:0 "If he can hold a rifle and shoot, the griffon is a soldier! Press into service as many as you can find!"
-  GRY_griffonian_exploitation:0 "Connect the Mines"
-  GRY_griffonian_exploitation_desc:0 "In order to begin reaping the benefits of collaboration, all quarries, mines, pits and other resource deposits must be linked with appropriate infrastucture, so that every bit of valuable resources can be extracted."
-  GRY_tsumina_metals:0 "Expansion of Tsumina Mines"
-  GRY_tsumina_metals_desc:0 "The hills of Tsumina contain large deposits of bauxite and wolframite ore. The current mines are insufficient for our overlord's requirements, and they must be expanded, at once."
-  GRY_invite_krahstahl:0 "Invite Imperial Companies"
-  GRY_invite_krahstahl_desc:0 "The Gryphian attempts at modernisation have been crude and inefficient. This is most noticeable in their steel production, which is brittle and made in meagre quantities. Fortunately, there are plenty of Imperial conglomerates who'd love to step in and take over."
-  GRY_greatest_asset:0 "Fuel for the War Machines"
-  GRY_greatest_asset_desc:0 "Undoubtedly, the greatest Zaphzan asset are their vast quantities of oil. It even flows freely from the ground! The Lord Protector has specified oil as the most important resource and we must do everything to keep its production high."
-  GRY_we_made_it:0 "A Model Protectorate"
-  GRY_we_made_it_desc:0 "Our control over this region has been secured, and the Lord Protector is very satisfied with our progress here. Our eager collaboration has resulted in the benefits which we reap now."
+  GRY_lord_protector: "Новий порядок"
+  GRY_lord_protector_desc: "На континенті з'явилася нова сила, вільна від колишніх кайданів шляхти. Втративши незалежність від цієї сили, Грифію було реформовано в імперську прикордонну марку під владою іноземного губернатора." # (@)
+  GRY_the_imperial_march: "Райхскомісаріат Козакенланд"
+  GRY_the_imperial_march_desc: "Цих диких грифонів потрібно приборкати і навчити знати своє місце. Вони мусять бути раді, що ми дозволили їм існувати як протекторат. А тепер перейдімо до адміністративних питань." # (@)
+  GRY_convince_the_warriors: "Забезпечити вірність воїнів"
+  GRY_convince_the_warriors_desc: "Запеклі воїни Зафії — горді та волелюбні. Це проблемне поєднання, але ми маємо способи переконати їх боротися за нас і наші інтереси." # (@)
+  GRY_convince_the_people: "Запевнити народ"
+  GRY_convince_the_people_desc: "Хоча грифони Зафії задоволені своїм традиційним, ізольованим способом життя, вони неодмінно стануть перешкодою, коли ми почнемо експлуатувати багатства цієї землі. Необхідно докласти зусиль, щоби народ залишався відносно задоволеним." # (@)
+  GRY_focus_on_war: "Військова справа" # (&?)
+  GRY_focus_on_war_desc: "Щоби нагадати населенню, що ми контролюємо ситуацію зараз і назавжди, нам потрібні спеціальні сили для підтримання порядку. Це полегшить управління цими землями." # (@)
+  GRY_focus_on_resources: "Експлуатувати землю"
+  GRY_focus_on_resources_desc: "Грифія — земля, багата на невикористані родовища корисних копалин! Лорд-протектор установив щомісячну квоту, і видобуток мусить розпочатися негайно. Розширюйте існуючі шахти та наймайте геодезистів, щоби знайти додаткові багатства!" # (@)
+  GRY_lower_recruitment_age: "Полегшені стандарти солдата" # (&+)
+  GRY_lower_recruitment_age_desc: "Грифонячі ресурси завжди користуються попитом, і нескінченні війни нашого володаря вимагають їх. Починаючи з цього моменту, критерії вступу до збройних сил будуть знижені." # (@)
+  GRY_guns_for_manpower: "Грифони за зброю"
+  GRY_guns_for_manpower_desc: "Щоби прагнути до більших досягнень і залишатися вірними своїй природі, ми мусимо співпрацювати. Здорові, здібні солдати цієї землі будуть відправлені на фронт, а ми натомість отримаємо те, що потрібно для зміцнення нашого контролю над регіоном." # (@)
+  GRY_tech_for_manpower: "Грифони за технології"
+  GRY_tech_for_manpower_desc: "Ми з'ясували, що наш володар готовий обміняти гвинтівки на солдатів, тому логічно розширити цю імпровізовану торгівлю, включивши в неї вчених. Технологічний розвиток регіону — вражаюче низький." # (@)
+  GRY_heritage_indoctrination: "Стара слава"
+  GRY_heritage_indoctrination_desc: "З бойового стилю козаків Зафії можна багато чого навчитися. Було б розумно вивчити їхні тактику й бойові здібності." # (@)
+  GRY_promise_of_land: "Залучити іммігрантів із Герцланду"
+  GRY_promise_of_land_desc: "Позаяк стару шляхту позбавлено своїх прав і володінь, ми опинилися у володінні величезними землями, які ідеально підходять для поселення колоністів. Пропонуйте їх за низькою ціною охочим громадянам Герцланду: нам потрібно відновити населення." # (@)
+  GRY_industry_for_manpower: "Грифони за промисловість"
+  GRY_industry_for_manpower_desc: "Для продовження розвитку й експлуатації цього регіону нам потрібна важка промисловість, якої в цій місцевості просто немає. На щастя, у нас завжди є більше охочих грифонів, яких можна обміняти." # (@)
+  GRY_find_more_labor: "Примусова служба"
+  GRY_find_more_labor_desc: "Якщо він може тримати рушницю та стріляти, цей грифон — солдат! Призивайте на службу стільки, скільки зможете знайти!" # (@)
+  GRY_griffonian_exploitation: "Сполучити шахти"
+  GRY_griffonian_exploitation_desc: "Щоби почати отримувати вигоди від співпраці, всі кар'єри, шахти, копальні та інші родовища ресурсів мусять бути сполучені відповідною інфраструктурою, щоби можна було видобувати кожну частинку цінних ресурсів." # (@)
+  GRY_tsumina_metals: "Розширення цумінських шахт"
+  GRY_tsumina_metals_desc: "У пагорбах Цуміни знаходяться великі поклади бокситів і вольфрамітової руди. Нинішні шахти не задовольняють потреби нашого володаря, тому їх необхідно негайно розширити." # (@)
+  GRY_invite_krahstahl: "Запросити імперіські компанії"
+  GRY_invite_krahstahl_desc: "Спроби Грифії модернізуватися були незграбними й неефективними. Найбільш помітно це в їхньому виробництві сталі, яка є крихкою й виробляється в мізерних кількостях. На щастя, є багато імперських конгломератів, які з радістю втрутяться й візьмуть контроль над цим процесом." # (@)
+  GRY_greatest_asset: "Пальне для машин війни"
+  GRY_greatest_asset_desc: "Безсумнівно, найбільшим надбанням Зафії є її величезні запаси нафти. Вона навіть вільно витікає з-під землі! Лорд-протектор визначив нафту найважливішим ресурсом, і ми мусимо зробити все, щоби її видобуток залишався на високому рівні." # (@)
+  GRY_we_made_it: "Зразковий протекторат"
+  GRY_we_made_it_desc: "Наш контроль над цим регіоном забезпечено, і лорд-протектор дуже задоволений нашими досягненнями тут. Наша активна співпраця принесла плоди, які ми зараз пожинаємо." # (@)
 
 ### ПОДІЇ ###
  gryphianhost.100.t:0 "Нас Інтегрують"
@@ -419,43 +419,43 @@
  gryphianhost.103.t:0 "Проголошення Каївської Комуни"
  gryphianhost.103.d:0 "В свому першому Універсалі, Центральна Рада Грифійського Гетьмана офіційно заявили про розпущення старого уряду, та негайно проголосила, що віднині долю грифонів вершитиме Каївська Комуна — тепер в країні встановлена диктатура пролетаріата."
  gryphianhost.103.a:0 "З кожним днем все радісніше жити!"
- gryphianhost.104.t:0 "The Kaiv Commune reaches out in proletarian solidarity"
- gryphianhost.104.d:0 "The griffons of the Gryphian Host have overthrown their reactionary government, and wish to ally with us in a display of socialist brotherhood! How should we respond?"
- gryphianhost.104.a:0 "We warmly welcome our new comrades!"
- gryphianhost.104.b:0 "They are revisionists - we cannot risk our revolution by associating with them."
- gryphianhost.105.t:0 "A Shocking Proposal"
- gryphianhost.105.d:0 "[Root.GetLeader] has today received an astonishing proposal - so astonishing in fact that it was initially assumed to be a prank. However, we have been assured that, no, the Gryphian Host really does want to join the River Coalition. Their leader, Borad Grifnitsky, claims to be devoted to harmony, and that his people have turned over a new leaf. Most ponies are skeptical, but some are urging that it might be worth a try - after all, if they renege on their promise, we can always just kick them out again, right? Most Coalition members don't have a particularly strong opinion on this matter, except for three. Lake City and Wittenland are the Gryphians' traditional raid targets and have suffered greatly. The public in these places will be highly resistant to change on this issue. Nimbusia, on the other claw, is far from the Griffons, but regards itself as the protector of all Riverponies, and will not support any action that seems to threaten the safety of the Riverlands. We can expect the following reactions:\n[Root.NIMreaction] [Root.LCTreaction] [Root.WITreaction]."
- gryphianhost.105.a:0 "They've changed for the better, we can trust them."
- gryphianhost.105.c:0 "Do they really expect us to believe they can change so suddenly?"
+ gryphianhost.104.t: "Каївська комуна проявляє пролетарську солідарність"
+ gryphianhost.104.d: "Грифони Грифійської Січі повалили свій реакційний уряд і бажаєстати нашим союзником у прояві соціалістичного братерства! Як нам слід відповісти?" # (&+)
+ gryphianhost.104.a: "Ми тепло вітаємо наших нових товаришів!"
+ gryphianhost.104.b: "Вони ревізіоністи. Ми не можемо ставити нашу революцію під загрозу, зв'язуючися з ними." # (&+?): можна вирізати останню частину
+ gryphianhost.105.t: "Шокуюча пропозиція"
+ gryphianhost.105.d: "Сьогодні [Root.GetLeader] отрима[Root.Leader.GetVerbGendEndA_RU] дивовижну пропозицію — настільки дивовижну, що спочатку її сприйняли як жарт. Однак нас запевнили, що ні, Грифійська Січ дійсно хоче приєднатися до Річкової коаліції. Їхній лідер, Борад Грифницький, заявляє, що відданий ідеї гармонії і що його народ почав нове життя. Більшість поні ставиться до цього скептично, але дехто наполягає, що варто спробувати — зрештою, якщо вони порушать свою обіцянку, ми завжди зможемо їх знову вигнати, чи не так? Більшість членів Коаліції не мають особливо чіткої думки з цього приводу, за винятком трьох. Єзераград і Віттенленд є традиційними цілями набігів грифійців і дуже постраждали. Їхня громадськість буде сильно противитися змінам у цьому питанні. Німбусія, з іншого боку, знаходиться далеко від грифонів, але вважає себе захисником усіх річкових поні й не підтримає жодні дії, які можуть загрожувати безпеці Річкових земель. Ми можемо очікувати такі реакції:\n[Root.NIMreaction] [Root.LCTreaction] [Root.WITreaction]." # (@)
+ gryphianhost.105.a: "Вони змінилися на ліпше. Ми можемо їм довіряти."
+ gryphianhost.105.c: "Невже вони справді думають, що ми віримо, що вони можуть так раптово змінитися?" # (&+)
  gryphianhost.106.t:0 "Старі рани загоєні"
  gryphianhost.106.d:0 "На наш безмірний подив та щастя, річкові поні обдумали дії наших пращурів та визнали наше нове, гамонічне суспільство. Тепер ми — повноправний учасник Річної Коаліції! Можливо, ця подія стане відправною точкою у дружбі між поні й грифонами."
  gryphianhost.106.a:0 "Чудово!"
  gryphianhost.107.t:0 "Що було, не зміниш"
  gryphianhost.107.d:0 "Дуже шкода, хоч і очікувано, але річкові поні відхилили наше прохання. Ми не зможемо запросити в них підтримку, дружбу чи захист."
  gryphianhost.107.a:0 "Ми їх не винимо."
- gryphianhost.108.t:0 "A Great Change - If It's Real"
- gryphianhost.108.d:0 "In a shocking twist, our ancient enemies, the Gryphian Host, recently applied for membership in the River Coalition - and the [From.GetName] agreed! Though this has evoked protests from many of our citizens, the Gryphians really do seem to have changed, and [Root.GetLeader] assures the people that everything will be alright, and that the Gryphians will be booted back out at the first sign of trouble. While not everyone is happy with the situation, it seems as if they're putting up with it for the time being."
- gryphianhost.108.a:0 "I'm keeping my eye on them."
- gryphianhost.109.t:0 "Sanity Prevails"
- gryphianhost.109.d:0 "In a shocking twist, our ancient enemies, the Gryphian Host, recently applied for membership in the River Coalition! Thankfully, [From.GetLeader] had enough presence of mind to refuse their offer, not believing their ridiculous claim to have reformed totally."
- gryphianhost.109.a:0 "Good to know that [From.GetLeader] hasn't totally lost their marbles."
- gryphianhost.110.t:0 "An Outrage!"
- gryphianhost.110.d:0 "Scandal! Horror! The Gryphian Host recently made the shocking move to ask for membership in the River Coalition - and [From.GetLeader] LET THEM IN! [Root.GetLeader] has voiced fierce protests at this shocking betrayal of our people. These Griffons have raided, slaughtered, and plundered our people for centuries, and [From.GetLeader] actually believed their nonsensical claims to have reformed? In response, [Root.GetLeader] has formally left the River Coalition, seeing that it clearly does not have our best interests at heart."
- gryphianhost.110.a:0 "How could the [From.GetName] betray us like that?"
- gryphianhost.111.t:0 "[From.GetName] Seeks To Cooperate"
- gryphianhost.111.d:0 "A strange griffon from the east, [From.GetLeader], visited Rome today. He is the ruler of [From.GetName] and has expressed admiration for Mussolini's fascist ideology. If Italy would help him, he claimed, he would spread fascism far and wide in the Evi Valley, securing the eastern frontier from communism and ponies. While this proposal is intriguing, the truth remains that Gryphia is a remote country."
- gryphianhost.111.a:0 "Why would we turn aside potential allies?"
- gryphianhost.111.b:0 "We don't care about the griffons of the frontier."
+ gryphianhost.108.t: "Велика зміна, якщо таке можливо"
+ gryphianhost.108.d: "Стався шокуючий поворот: наш стародавній ворог, Грифійська Січ, нещодавно подав заявку на членство в Річковій коаліції — і [From.GetName] дає згоду! Хоча це викликало протести з боку багатьох наших громадян, грифійці, схоже, справді змінилися, і [Root.GetLeader] запевняє народ, що все буде гаразд і що грифійців виженуть за першої ознаки біди. І коли ж не всі задоволені ситуацією, поки що, як видно, вони готові це стерпіти." # (&+?)
+ gryphianhost.108.a: "Я буду стежити за ними."
+ gryphianhost.109.t: "Тріумф здорового глузду"
+ gryphianhost.109.d: "Стався шокуючий поворот: наш стародавній ворог, Грифійська Січ, нещодавно подав заявку на членство в Річковій коаліції! На щастя, [From.GetLeader] має достатньо глузду при собі, щоби відхилити їхню пропозицію, не вірячи їхнім сміховинним завяам, що вони повністю змінилися." # (&+?)
+ gryphianhost.109.a: "Добре знати, що [From.GetLeader] не зовсім з'їхав з глузду."
+ gryphianhost.110.t: "Наруга!"
+ gryphianhost.110.d: "Скандал! Жах! Безумство! Нещодавно Грифійська Січ зробила шокуючий хід, попросивши про членство в Річковій коаліції, і [From.GetLeader] ДАЄ ЇМ ЗГОДУ! [Root.GetLeader] виголошує гучний протест проти цієї шокуючої зради нашого народу. Ці грифони століттями грабували, вбивали та нищили наш народ, а [From.GetLeader] справді вірить їхнім безглуздим заявам про те, що вонм змінилися? У відповідь [Root.GetLeader] офіційно оголошує про вихід із Річкової коаліції, адже видно, що вона не має на думці наші найліпші інтереси." # (&+)
+ gryphianhost.110.a: "Як вони могли нас так зрадити?"
+ gryphianhost.111.t: "[From.GetName] бажає співпрацювати"
+ gryphianhost.111.d: "Сьогодні Карфін відвідав дивний грифон зі сходу, [From.GetLeader]. Він — правитель держави [From.GetName] і він висловив захоплення фашистською ідеологією Біколіні. Якщо Вінґбардія допоможе йому, то, як він стверджує, він поширить фашизм по всій долині Еві, захистивши фронтир від комунізму та поні. Хоча ця пропозиція інтригуюча, правдою залишається те, що Грифія — віддалена країна." # (&+?)
+ gryphianhost.111.a: "Нащо нам відмовляти можливим союзникам?"
+ gryphianhost.111.b: "Нам однаково на грифонів фронтиру."
  gryphianhost.112.t:0 "[From.GetName] згодні!"
  gryphianhost.112.d:0 "[From.GetLeader] офіційно приймає пропозицію [Root.GetLeader] про взаємну дружбу і співробітництво. Ми отримали зброю і військових радників від держави [From.GetName]."
  gryphianhost.112.a:0 "Гарні новини."
  gryphianhost.113.t:0 "[From.GetName] не згодні!"
  gryphianhost.113.d:0 "[From.GetLeader] відмовляється від союзу з нами, аргументуючи це проблемами в своїй країні. Нам доведеться шукати захист в іншому місці."
  gryphianhost.113.a:0 "Вбирайтесь."
- gryphianhost.114.t:0 "The Gryphians Offer A Union"
- gryphianhost.114.d:0 "Representatives from the [From.GetName] arrived at government buildings today, in a manner which we've never seen them before. Up until now, the Gryphians had been known as fierce raiders, and we didn't much like meeting them, despite our distant ancestral connection. However, in recent years they have reformed their government into a more peaceful one, and have proclaimed interest in forming a "brotherhood of Zaphzans", which will encompass every Griffon of Zaphzan ancestry, including us. Though we haven't called ourselves Zaphzans for over a thousand years, some within our country think the offer is tempting. How shall we respond?"
- gryphianhost.114.a:0 "We will gladly join this initiative."
- gryphianhost.114.b:0 "We'd rather not commit to something like that."
+ gryphianhost.114.t: "Грифійці пропонують союз"
+ gryphianhost.114.d: "Представники з держави [From.GetName] прибули сьогодні до урядових будівель у спосіб, який ми ще ніколи не бачили. Дотепер грифійці були відомі як жорстокі розбійники, і ми не дуже любили зустрічатися з ними, незважаючи на наше далеку родинну спорідненість. Однак останніми роками вони реформували свій уряд, зробивши його більш мирним, і заявили про зацікавленість у створенні «братства зафійців», яке об'єднає всіх грифонів зафійського походження, включно з нами. Хоча ми не називали себе зафійцями вже понад тисячу років, дехто в нашій країні вважає цю пропозицію привабливою. Як нам відповісти?" # (@)
+ gryphianhost.114.a: "Ми з радістю долучимося до цієї ініціативи."
+ gryphianhost.114.b: "Ми б радше не вчиняли щось таке."
  gryphianhost.115.t:0 "Питання корони"
  gryphianhost.115.d:0 "[Root.GetLeader] ретельно викорінив усіляку опозицію і затвердився правителем всіх зафійців. Влада його настільки масштабна, що, мабуть, він здатний заявити про права на давно зниклий титул Короля Зафії, що возродить згаслу славу нашого народу. Разом із тим, в нас є міцна традиція демократичних виборів, і, можливо, разумніше (та не настільки спірно) нашому лідеру було б взяти титул гетьмана (бо він, звичайно, не програє у виборах)."
  gryphianhost.115.a:0 "Слава Королю!"
@@ -468,14 +468,14 @@
  gryphianhost.117.d: "[Root.gryevent117loc]"
  gryphianhost.117.b:0 "Ми маємо об'єднатись з нашими старшими братами по соціалізму."
  gryphianhost.117.a:0 "Ми запалимо вогонь революції, з кимось чи самі!"
- gryphianhost.118.t:0 "Kaiv Commune proposes closer ties"
- gryphianhost.118.d:0 "The griffons of Kaiv have thrown off the chains of oppression and established a socialist state by the banks of the River. Seeing that we also have come to see the eminent glory of socialism, they have offered to forge closer ties with us, to ensure peaceful cooperation between socialists and defend the revolution from hostile foreign powers. However, there is some dispute among our most prominent officials about how far we ought to take this offer. Most are happy to accept Kaiv's offer of protection, but some wish to go further, and directly join with them against the forces of reaction."
- gryphianhost.118.a:0 "Mutual defense yes, but we each must build our own socialism."
- gryphianhost.118.b:0 "We are small and surrounded. Allies would be useful."
- gryphianhost.119.t:0 "The Kaiv Commune proposes a joint offensive"
- gryphianhost.119.d:0 "The Kaiv Commune has approached us with a drastic proposal, one that could significantly affect both of our futures. Militarism is growing within their nation, and their people are eager to spread the Revolution immediately, and by force. This would not be a problem, were it not for the fact that they wish to attack their neighbor, Wittenland. Ruled by a corrupt elite, Wittenland is certainly reactionary and worthy of being destroyed, but they are also protected by the entire River Coalition. A war against them would almost certainly call down the fury of the Riverponies upon our heads, a prospect we cannot take lightly. If we are going to discourage them from this attack, we had better do so now, and forcefully."
- gryphianhost.119.a:0 "Support the offensive! The riverponies must see the light of Communism also!"
- gryphianhost.119.b:0 "This is far too risky, it is insanity! Order them to back down!"
+ gryphianhost.118.t: "Каївська комуна пропонує тісніші зв'язки"
+ gryphianhost.118.d:0 "Грифони Каїва скинули кайдани гноблення та заснували соціалістичну державу на берегах річки Еві. Seeing that we also have come to see the eminent glory of socialism, they have offered to forge closer ties with us, to ensure peaceful cooperation between socialists and defend the revolution from hostile foreign powers. However, there is some dispute among our most prominent officials about how far we ought to take this offer. Most are happy to accept Kaiv's offer of protection, but some wish to go further, and directly join with them against the forces of reaction."
+ gryphianhost.118.a: "Взаємний захист — так, але кожен із нас мусить будувати свій соціалізм." # (&+?)
+ gryphianhost.118.b: "Ми малі й оточені. Союзники будуть корисні."
+ gryphianhost.119.t: "Каївська комуна пропонує спільний наступ"
+ gryphianhost.119.d: "Каївська комуна підступила до нас із серйозною пропозицію, такою, що може суттєво вплинути на майбутнє нас обох. У їхній державі зростає мілітаризм, і їхній народ з нетерпінням жадає негайно поширити революцію, і силою. Це би не було проблемою, якби не факт, що вони бажають напасти на свого сусіда, Віттенленд. Віттенлендом керують корумповані еліти, і держава їхня, безумовно, реакційна й гідна знищення, але їх також захищає вся Річкова коаліція. Війна проти нього майже напевне накличе на наші голови лють річкових поні, і цю перспективу не можна сприймати леговажно. Якщо ми хочемо відмовити їх від цієї атаки, нам слід зробити це зараз, і силоміць." # (&)
+ gryphianhost.119.a: "Підтримаймо наступ! Річкові поні теж мусять побачити світло комунізму!"
+ gryphianhost.119.b: "Це занадто ризиковано, це божевілля! Накажіть їм відступитися!"
  gryphianhost.120.t:0 "[From.GetName] захищає нас"
  gryphianhost.120.d:0 "Наше благання почули, союзник прийшов допомогти! [Root.GetName] погодились допомогти нам у боротьбі за визволення робітників Віттенленду"
  gryphianhost.120.a:0 "Що ж, до бою!"
@@ -483,12 +483,12 @@
  gryphianhost.121.d:0 "Наші союзники наспіх відповіли на благання. Вони заявили, що зараз напад на Віттенленд може стати катастрофою для обох націй, і тому вони категорично відмовляються допомогти нам у такому змаганні. Вони поставили жорсткий ультиматум — або ми відкликаємо претензії на Віттенленд, або наш союз буде офіційно розірваний."
  gryphianhost.121.a:0 "Покидьки! Нас не зупинити! До війни!"
  gryphianhost.121.b:0 "Ми не можемо жертовати нашими відносинами із друзями — відкликати претензії!"
- gryphianhost.122.t:0 "[From.GetLeader] severs ties"
- gryphianhost.122.d:0 "The Kaivans have not listened to us, scorning us for our "cowardice" and "revisionism". [From.GetLeader] has formally severed ties with [Root.GetName], and plans for the invasion of Wittenland are proceeding apace."
- gryphianhost.122.a:0 "Those stubborn fools!"
- gryphianhost.123.t:0 "[From.GetLeader] backs down"
- gryphianhost.123.d:0 "Under our threat, [From.GetLeader] has withdrawn their hostile rhetoric towards Wittenland, and quietly shelves their plans for an invasion. It seems that peace, for now, has prevailed."
- gryphianhost.123.a:0 "At least we won't be dragged into a stupid, unwinnable war."
+ gryphianhost.122.t: "[From.GetLeader] обриває зв'язки"
+ gryphianhost.122.d: "Каїв'яни не послухали нас, докоривши нам за «боягузтво» та «ревізіонізм». Надійшов лист, у якому [From.GetLeader] офіційно розриває зв'язки з державою [Root.GetName], і [From.Leader.GetHerHis] плани із вторгнення у Віттенленд просуваються без зупинок." # (&+?)
+ gryphianhost.122.a: "Ці вперті дурні!"
+ gryphianhost.123.t: "[From.GetLeader] відступається"
+ gryphianhost.123.d: "Під нашим тиском [From.GetLeader] відкликає свою ворожу риторику у відношенні Віттенленду та тихо відкладає свої плани із вторгнення. Схоже, цього разу переміг мир." # (&+?)
+ gryphianhost.123.a: "Принаймні ми не вліземо в дурну, невиграшну війну."
  gryphianhost.124.t:0 "Відновлення Контактів"
  gryphianhost.124.d:0 "Не зважаючи на те, що у війні ми стали відрізані від усього світу, тепер всім зрозуміло, що можемо перемогти річкових поні. Тепер грифони повернуться до звичайного життя."
  gryphianhost.124.a:0 "Нарешті!"
@@ -505,16 +505,16 @@
  gryphianhost.128.t:0 "[From.GetName] відкидає нас"
  gryphianhost.128.d:0 "Сьогодні, дипломати з [From.GetName] прибули до Центральної Ради з поганими новинами. Лідери їхньої країни відмовились приєднатись до нашого альянсу взаємного захисту та торгівлі."
  gryphianhost.128.a:0 "Ганьба!"
- gryphianhost.129.t:0 "The Gryphian Host betrays its Oath"
- gryphianhost.129.d:0 "To our dismay, the Gryphian Host has violated its oath of loyalty by invading a country that is officially part of our realm. Our guarantees of defense with them are now null and void, and Imperial subsidies to their lands have been frozen indefinitely."
- gryphianhost.129.a:0 "What a pack of traitors!"
+ gryphianhost.129.t: "Грифійська Січ порушує свою клятву"
+ gryphianhost.129.d: "На наше розчарування, Грифійська Січ порушила свою клятву вірності, вторгнувшися у країну, яка офіційно є частиною нашої держави. Наші гарантії їхнього захисту було анульовано, а імперські субсидії для їхніх земель було заморожено на невизначений строк." # (&)
+ gryphianhost.129.a: "Просто зграя зрадників!"
  gryphianhost.130.t:0 "Ми порушили нашу клятву"
  gryphianhost.130.d:0 "Наш нещодавній акт був очевидним порушенням договору з Його Величністю. Почавши цю війну, [Root.GetLeader] посадив нас у порохову діжку. Наші гарантії про захист тепер пусті та непотрібні, а імперські субсидії були заморожені на невизначений строк."
  gryphianhost.130.a:0 "Цього не варто було робити..."
- gryphianhost.131.t:0 "The Hetman Request The Restoration of the Border March"
- gryphianhost.131.d:0 "Long ago, Grover I, the august founder of the Empire, made a deal with the Cossacks of the far eastern Riverbank. He would protect them from the predations of the hostile riverponies, in exchange for their loyalty and a cut of the profits from their frequent raids on enemy territory. This agreement was followed for centuries, but in recent decades we have been too weak to enforce payment of the tribute or to prevent minor raids on our nominal subjects. Today, however, seeing our increased strength, the Hetman of the Host has sent an envoy to Griffenheim, asking for the restoration of his people's status as an Imperial March. They will defend the Empire's borders and attack our enemies, in exchange for funding and promises of protection should they be attacked by hostile forces."
- gryphianhost.131.a:0 "So the Cossacks have finally come home, have they? Reinstate the March!"
- gryphianhost.131.b:0 "We don't care about that land anymore."
+ gryphianhost.131.t: "Гетьман просить про відновлення прикордонної марки"
+ gryphianhost.131.d: "Давним-давно Ґровер I, великий засновник Імперії, уклав угоду з козаками з далекого східного берега річки Еві. Він обіцяв захищати їх від нападів ворожих річкових поні в обмін на їхню лояльність і частину прибутку від їхніх частих набігів на ворожу територію. Ця угода дотримувалася протягом століть, але в останні десятиліття ми були занадто слабкі, щоби вимагати сплату данини або запобігати дрібним набігам на наших номінальних підданих. Однак сьогодні, побачивши наше посилення, гетьман Січі відправив посланця до Грифенгайма з проханням про відновлення статусу його народу як імперської марки. Вони захищатимуть кордони Імперії й атакуватимуть наших ворогів в обмін на фінансування й обіцянки захисту в разі нападу ворожих сил." # (@)
+ gryphianhost.131.a: "Отже, козаки нарешті повернулися додому? Відновити марку!"
+ gryphianhost.131.b: "Нас більше не турбують справи тої землі." # (&+)
  gryphianhost.132.t:0 "Імператор відає і захищає."
  gryphianhost.132.d:0 "На превелике щастя, Імператор прийняв наше прохання про становлення імперскою маркою. До тих пір, допоки ми не посягатимемо на імперські домени (як і на землі під контролем бунтарських правителів), все буде добре. (При об'явленні війни з'явиться попередження, якщо ви захочете об'явити війну на ту державу, на яку вам не дозволено)."
  gryphianhost.132.a:0 "Слава Імператорові, Архонтам слава!"
@@ -535,9 +535,9 @@
  gryphianhost.137.d:0 "Тепер, із захватом земель Бродфельду, ми зрозуміли, що керувати напряму буде дорого і непросто. Шляхтичі запропонували відновити Королівство Бродфельд, оскільки народ зазвичай куди чутливіший до свого справжнього правителя, не зважаючи на його популярність. Звичайно ж, повноваження короля визначатимемо ми, на свій розсуд..."
  gryphianhost.137.a:0 "Поставте маріонетку на трон із роду Кіссау, якщо знайдете хоч когось з них."
  gryphianhost.137.b:0 "Козаки не знають рабства — вони будуть нашими союзниками"
- gryphianhost.139.t:0 "The Cossacks Attack"
+ gryphianhost.139.t: "Козаки нападають"
  gryphianhost.139.d: "[Root.raideventoutcome]"
- gryphianhost.139.a:0 "Damn the Cossacks!"
+ gryphianhost.139.a: "До Маара тих козаків!"
 
  # Події для колориту
   gryphianhost.140.t:0 "Чорна Рада"
@@ -788,8 +788,8 @@
  GRY_clans_accept_us_desc:0 "Найвпливовіші січі нас підтримують. Однак, меншості все ще хвилюються за можливої втрати своїх політичних прав."
  GRY_united_clans:0 "Січі єдині"
  GRY_united_clans_desc:0 "Ми повністю об'єднали роз'єднані січі у складі нашої державі, великі й малі."
- GRY_raided:0 "Raided By The Gryphian Host"
- GRY_raided_desc:0 "Vicious Cossack raiders are plundering us!"
+ GRY_raided: "Розграбування Грифійською Січчю"
+ GRY_raided_desc: "Жорстокі розбійники-козаки грабують нас!"
  GRY_consumer_bonus:0 "Багатства Бродфельду"
  GRY_research_bonus:0 "Потік зброї"
  GRY_research_bonus_desc:0 "З рясним запасом зброї, ми взнали кілька прийомів, що дозволять створити ще більше знарядження."
@@ -901,7 +901,7 @@
  GRY_YEVEN_DESC:0 "Хоч Євген Кравелець і внучатий племінник старого гетьмана Бульби, він втілює в собі лиш його тінь. Якщо Бульба був простим та чесним, то Євген схильний до запальних промов і образ. Там, де Бульба був доблесним — Євген жорстокий. Однак, він дуже амбіційний — та це м'яко сказано. Він плекає мрії про відродження минулої величі зафійського народу, та готовий піти на все, щоб створити "Велику Зафію". \n\n§YАвтор портрета§!: Motley"
  GRY_CORNBOI_DESC:0 "Корнило Хрущевич був довіреним другом Редґледа, напивався із ним у барах, коли раптово почалася революція у Прайвені. Після цього, Корнило покинув Прайвен, щоб очолити боротьбу на його батьківщині. Тепер, коли влада зосереджена в його кігтях, він, напевно, звернеться за допомогою до свого старого друга та заручиться його підтримкою. Він виступає за солідарність із Прайвеном та піклується про бідний селянський прошарок суспільства, щоб направити Зафію до кращого майбутнього."
  GRY_BORAD_DESC:0 "Борад Грифницький вкрай дивний козак — храбрості в битвах хоч греблями гати, але в душі він не схильний до насилля та завжди шукає мирне, міцне рішення проблеми в будь-якій ситуації. Військові товариства підвергли його критиці, але завдяки своїй доблесті, теплому відношенню й неймовірному ораторству він знайшов своїх прибічників. Бачачи Зафію в занепаді, він бажає реформувати Січ у демократичну республіку та дипломатично захистити свій народ проти виходок комунистів та річкових поні."
- GRY_OLEKSANDER_CLAWKIV_DESC:0 "§YBorn§!: 21st of January, 968 in Kaiv \n\n§YBiography§!: Oleksander, born to middle-class parents, had familial ties to the Griffonian Empire through his father. His family's connections and wealth allowed Oleksander more opportunities and to receive an advanced education. He was able to study mathematics, the sciences, and history. He was particularly interested in the history of the cossacks; the stories of their brave fight for freedom from the Lake Empire always fascinated him. Like many griffons he dreamed of becoming a cossack and going adventures like the cossacks of old, but his father had hopes for him to attend university in Yale and continue in the family business. \n\nThose dreams would end when the Empire began to burn in the fires of revolution. After the revolution the prospect of attending university in Yale would be only a dream. At the age of 17 he would join up with the Cossacks with hopes of using service to help his family. His knowledge of mathematics and literacy quickly singled him out and helped him rise to a junior officer of artillery and engineering. As he served he would watch as the nation he loved began to deteriorate.\n\nOver the years he became disillusioned by the nation's deteriorating state. His path changed when he encountered Borad Grifnitsky, a griffon advocating a vision of rebirth for Zaphzia and harmonic ideals. Inspired, Oleksander became a devoted supporter of Borad and the Viysko Griffonske."
+ GRY_OLEKSANDER_CLAWKIV_DESC: "§YНародження§!: 21 січня 968 року в Каїві\n\n§YЖиттєпис§!: Олександр, народжений батьками середнього класу, мав родинні зв'язки з Імперією Грифонів крізь свого батька. Зв'язки та багатство його родини відкрили Олександрові більше життєвих можливостей, у тому числі отримати якісну освіту. Він зміг вивчати математику, природничі науки й історію. Він був особливо зацікавлений історією козаків; його завжди захоплювали оповіді про їхню відважну боротьбу за свободу від Озерної імперії. Як і багато грифонів, він мріяв стати козаком і ходити в походи, як козаки давнини, але його батько сподівався, що він вступить до університету в Єлі та продовжить родинну справу.\n\nЦим мріям настав кінець, коли Імперія почала горіти полум'ям революції. Після революції перпектива відвідування університету в Єлі стала лише мрією. У віці 17 років він приєднався до козаків із надією використати службу для допомоги своїй родині. Його знання математикм та грамотність швидко виокремило його з-поміж інших і допомогло стати молодшим офіцером артилерії й інженерії. На своїй службі він побачив, як держава, яку він любив, почала занепадати.\n\nЗа роки він розчарувався з занепадаючого стану держави. Його шлях змінився, коли він зустрів Борада Грифницького, грифона, що виступав за бачення переродженої Зафії та гармонійних ідеалів. Надихнутий, Олександр став відданим прибічником Борада та Війська Грифонського." # (&+)
  GRY_raiding_GLA_tooltip:0 "Якщо набіг вдасться, ви отримаєте §Yзброю.§!"
  GRY_raiding_brodfeld_tooltip:0 "Якщо набіг вдасться, ви отримаєте §Yздобич.§!"
  GRY_raid_succeeded:0 "Набіг удався!"
