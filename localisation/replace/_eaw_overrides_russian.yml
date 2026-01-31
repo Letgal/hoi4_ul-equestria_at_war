@@ -632,7 +632,7 @@
   democratic_reformer: "Гармонійний реформатор"
   democratic_reformer_desc:0 "Этот политик является твёрдым сторонником права народа на самоопределение и считает, что надо усиливать власть народа и, в конце концов, позволить ему управлять своей страной."
   anti_democrat: "Антигармоніст"
-  fascist_demagogue: "Верхіст-демагог"
+  fascist_demagogue: "Супремасист-демагог"
   silent_workhorse: "Робоча конячка"
   political_dancer_desc: "Уміє рухатися, коли питання заходить за маневрування та політичній «танцювальній підлозі»." # (&+)
   dealbroker_desc: "Інші не хочуть бачити, як робляться сосиски та закони. Ця особа знає, чому." # (&)
@@ -657,8 +657,8 @@
   emperor_and_autocrat_of_all_the_russias: "Імператор й автократ Всія Грифонії"
   stalin_architect_of_communism: "Архітектори комунізму"
   compassionate_gentleman: "Співчутливий вельможа"
-  head_of_intelligence: "Примарна джентлістота"
-  fascist_sympathies: "Верхістські симпатії"
+  head_of_intelligence: "Примарна джентльістота"
+  fascist_sympathies: "Супремасистські симпатії"
   peasant_sympathiser_desc:0 "§LСимпатизирует крестьянам и рабочему классу.§!"
   marxist_priest: "Священик-марксист"
   red_suffragette: "Червоний суфражист"

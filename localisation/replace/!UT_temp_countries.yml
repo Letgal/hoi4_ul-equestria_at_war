@@ -3465,6 +3465,17 @@
  TEM_aztlan_communism_DEF: "Астланська комуна"
  TEM_aztlan_communism_ADJ: "Астланськ"
 
+ ### ЛІДЕРИ ###
+  TEM_ahuizotl: "Ауїзотль"
+
+ ### ГЕНЕРАЛИ ###
+  TEM_tenoch: "Теноч"
+  TEM_huitzilli: "Уїціллі"
+  TEM_erenpil: "Еренпіл"
+  TEM_silver_moon: "Силвер Мун"
+  TEM_night_dasher: "Найт Дешер"
+  TEM_tailcoatl: "Тейлкоатль"
+
 # country_TRD
  TRD_peoples_republic_neutrality: "Скайфолльська торгова федерація"
  TRD_peoples_republic_neutrality_DEF: "Скайфолльська торгова федерація"
