@@ -332,16 +332,16 @@
 
  LNS_neutrality_party: "Орден Палісандру"
  LNS_communism_party: "ЛВА"
- LNS_communism_party_long: "Лонґсуордська визвольна армія"
+ LNS_communism_party_long: "Лонґсордська визвольна армія"
  LNS_democratic_party: "ЛДП"
- LNS_democratic_party_long: "Лонґсуордська демократична партія"
+ LNS_democratic_party_long: "Лонґсордська демократична партія"
  LNS_fascism_party: "Реформісти"
 
- LSC_neutrality_party: "Лонґсуордські королі"
+ LSC_neutrality_party: "Лонґсордські королі"
  LSC_communism_party: "Червона фракція"
- LSC_communism_party_long: "Лонґсуордська визвольна армія — червоні"
+ LSC_communism_party_long: "Лонґсордська визвольна армія — червоні"
  LSC_democratic_party: "Біла фракція"
- LSC_democratic_party_long: "Лонґсуордська визвольна армія — білі"
+ LSC_democratic_party_long: "Лонґсордська визвольна армія — білі"
  LSC_fascism_party: "Нова Грифонія"
 
  LSM_neutrality_party: "Камарілья"

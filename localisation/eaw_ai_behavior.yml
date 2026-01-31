@@ -478,7 +478,7 @@
   RULE_OPTION_HLQ_NEUTRAL:0 "Non-Aligned - Alternate"
   RULE_OPTION_NEUTRAL_HLQ_AI_DESC:0 "Hellquill pursues their mission of defending against the ponies and serving the Empire."
 
- LSC_AI_BEHAVIOR: "@LSC Лонґсуорд (партизани)"
+ LSC_AI_BEHAVIOR: "@LSC Лонґсорд (партизани)"
   RULE_OPTION_LSC_STARRY:0 "Communist - The Agrarian Revolution"
   RULE_OPTION_LSC_STARRY_AI_DESC:0 "The war heroine Starry Night will remain in control of Longsword after its liberation. She will seek to establish a fair and just society to all under the ideal of the communal village, and liberate the ponies of Hellquill to the north.\n§g(Історичний шлях)§!"
   RULE_OPTION_LSC_HARMONY:0 "Harmonist - The National Restoration"
