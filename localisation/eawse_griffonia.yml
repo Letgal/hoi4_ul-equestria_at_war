@@ -30,7 +30,7 @@
  EAWSE_REPUBLIC_LOSE_D: "$SE_REPUBLIC_LOSE_D$"
 
  EAWSE_PAN_GRIFFONIA_DREAM_TITLE: "$EAWSE_PAN_GRIFFONIA_DREAM_T$"
- EAWSE_PAN_GRIFFONIA_DREAM_T: "Пангрифонська мрія"
+ EAWSE_PAN_GRIFFONIA_DREAM_T: "$SE_PAN_GRIFFONIA_DREAM_T$"
  EAWSE_PAN_GRIFFONIA_DREAM_A: "$SE_PAN_GRIFFONIA_DREAM_A$"
  EAWSE_PAN_GRIFFONIA_DREAM_D: "«Я маю мрію, що одного дня всі грифони повстануть втілять справжнє значення її кредо: “Ми вважаємо ці істини самоочевидними, що всі істоти створені рівними”».\n($FAT_alexander_kemerskai$)"
 
