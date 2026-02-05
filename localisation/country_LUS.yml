@@ -736,41 +736,41 @@ LUS_red_army_atc_train_youth: "Червона Армія Люші"
 
 ## LEADERS ###################################
 LUS_prince_elias_whitecrest: "Князь Еліас Уайткрест"
-LUS_king_elias_i_whitecrest: "Король Еліас I Уайткрест"
+LUS_king_elias_i_whitecrest: "Король Еліас I Уайткрест"
 LUS_prince_gerar_whitecrest: "Князь Жерар Уайткрест"
-LUS_king_gerar_ii_whitecrest: "Король Жерар II Уайткрест"
-LUS_toridan: "Торидан"
-LUS_razech_oumont: "Разех Оумонт"
+LUS_king_gerar_ii_whitecrest: "Король Жерар II Уайткрест"
+LUS_toridan: "Торідан"
+LUS_razech_oumont: "Разех Умонт"
 
 ## GENERALS ###################################
 LUS_hilbert_forsher: "Гільберт Форшер"
-LUS_scar_screaming_eagle_blackkryl: "Скар 'Кричущий орел' Блэккрыл"
+LUS_scar_screaming_eagle_blackkryl: "Скар «Screaming Eagle» Блеккрил"
 LUS_bodier: "Бодьє"
 LUS_perakeyi: "Перакей"
 LUS_petya: "Петя"
 LUS_punk: "Панк"
-LUS_destroyer_of_every_world_possible: "Руйнівник всіх можливих світів"
+LUS_destroyer_of_every_world_possible: "Руйнівник усіх можливих світів"
 
 ## ADVISORS ###################################
-LUS_karkarich: "КарКаричЪ"
-LUS_war_industrialist: "Ріка Амонт"
+LUS_karkarich: "Кар Карич"
+LUS_war_industrialist: "Река Омонт"
 LUS_prince_of_terror: "Ференц Сарні"
-LUS_Lord_Drak_Army_chief: "Марвин Драк"
-LUS_Zsofia_Neel: "Зофія Нііл"
-LUS_Horty_Makkorty: "Хорти Маккорти"
+LUS_Lord_Drak_Army_chief: "Марвен Драк"
+LUS_Zsofia_Neel: "Жофія Ніл" # Ньїл
+LUS_Horty_Makkorty: "Горті Маккорті"
 LUS_Dormin_Ghalk: "Дормін Галк"
-LUS_scar_blackkryl: "Артур Чьорге"
-LUS_peter_brigand: "Пітер Бріганд"
-LUS_barto_miroven: "Каром Барта"
-LUS_crovin_laar: "Ґровер Лаар"
-LUS_arty_manufacture: "Артилерійська Компанія Хлопушки Неджі"
-LUS_afli_masters: "Гільдія Оружейників Альфі"
-LUS_lushian_polytechnics: "Люшійські Політехи"
-LUS_Nedhern: "Бюро Джозеф Галамб"
-LUS_barman: "Компанія Парящие Крила"
-LUS_bork: "Компанія Матросів Ріки Прай"
-LUS_prywhen_research_com: "Робота з Прайвеном"
-LUS_GRW_lushi_research_com: "Робота з Люші"
+LUS_scar_blackkryl: "Ортур Чьорґеї" # Ø # Åртур
+LUS_peter_brigand: "Пийтер Бріґанд"
+LUS_barto_miroven: "Кором Борта" # Кåром Бåртå
+LUS_crovin_laar: "Корвін Лоар" # Лåар
+LUS_arty_manufacture: "Артилерійська компанія «Nagy Fegyverek»"
+LUS_afli_masters: "Ґільдія майстрів Афлі"
+LUS_lushian_polytechnics: "Люшійський політех"
+LUS_Nedhern: "КБ Йожефа Ґоломба" # Ґåлåмб
+LUS_barman: "КБ «Ширяючі крила»"
+LUS_bork: "Вітрильна компанія річки Прай"
+LUS_prywhen_research_com: "Дослідження з Прайвеном"
+LUS_GRW_lushi_research_com: "Дослідження з Люші"
 
 ##########################################################
 ### FLAGS AND TOOLTIPS ###################################
