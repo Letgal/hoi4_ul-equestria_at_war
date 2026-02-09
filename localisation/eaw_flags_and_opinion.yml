@@ -172,8 +172,8 @@
  economic_laws_blocked: "Економічні закони заблоковані"
  manpower_laws_blocked: "Призовні закони заблоковані"
  trade_laws_blocked: "Торговельні закони заблоковані"
- cant_surpress_democratic: "Не можна придушувати демократичні партії"
- cant_surpress_democratic_NOT: "Можна придушувати демократичні партії"
+ cant_surpress_democratic: "Не можна придушувати гармонійні партії"
+ cant_surpress_democratic_NOT: "Можна придушувати гармонійні партії"
  cant_surpress_fascism: "Не можна придушувати зверхні партії" # (&+)
  cant_surpress_fascism_NOT: "Можна придушувати зверхні партії" # (&+)
  cant_surpress_communism: "Не можна придушувати комуністичні партії"

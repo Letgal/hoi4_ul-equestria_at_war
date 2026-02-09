@@ -1,5 +1,6 @@
 ﻿# == (*) ==
 ### СЛУЖБОВА ЛОК. ###
+ claim_all_de_jure_aquileia_tt: "Отримує претензії на всі землі в межах §Yде-юре§! кордонів §rАквілеї§!."
  form_country_aquileia_coring_states_tt: "Усі §Yаквілейські§! землі стануть осердними.\n" # CORE
  form_country_pridea_coring_states_tt: "Усі §Yпрідейські§! землі стануть осердними.\n" # CORE
  form_country_rila_coring_states_tt: "Усі §Yрільські§! землі стануть осердними.\n" # CORE
@@ -25,6 +26,7 @@
 ### МІТКИ ###
  EVI_formed: "Утворено Співдружність Еві"
  Zaikiria_formed: "Зайкірію було об'єднано"
+ form_hillpony_kingdom_flag: "Беорґфордас було утворено"
 
 ### РІШЕННЯ ###
  form_aquileia_category: "Нова епоха для Аквілеї"
@@ -32,6 +34,14 @@
  form_aquileia: "[GetFormAquileiaName]"
  form_aquileia_normal: "Відновити Аквілею"
  form_aquileia_griffemp: "Зробити Аквілею осердною територією" # (&+)
+ unite_aquileia_proper: "Об'єднати Аквілею"
+ reclaim_northwest_peripherie: "Повернути Периферію"
+ reclaim_eastern_peripherie: "Повернути Луантено"
+ reclaim_eastern_peripherie_tt: "Це відімкне £decision_icon_small §Cрішення§!, котре вимагає §YТаррін§!.\n\n" # (&)
+ JER_vassal_preparing_to_attack_country: "§RГотується напасти на іншу країну§!\n"
+
+ aquileia_strikes_back: "La Der des Der"
+ aquileia_strikes_back_desc: "Ми розіб'ємо імперську загрозу раз і назавжди, або вмремо з намаганням." # (&+)
 
  form_hindia: "Об'єднана Гіндія"
  form_hindia_desc: "Нарешті мрія про об'єднану Гіндію здійснилася, оскільки олені Східної Зебрики нарешті об'єдналися під проводом вождя, гідного титулу правителя всієї Гіндії. Тепер, коли ми об'єднали регіон під нашим контролем, украй важливо, щоби наша нація заявила про законність своєї влади над усіма вільними оленями в Зебриці, аби ми стали справжньою великою державою на континенті."
@@ -40,7 +50,7 @@
  form_evi: "Об'єднання долини Еві"
  form_evi_desc: "Імператор Ґровер I був першим грифоном, котрий об'єднав землі долини Еві під одним знаменом, але він був чужинцем. Із розпадом Імперії долина знову розділилася, але, можливо, амбіційний тутешній правитель зможе це змінити. Нехай тепер із попелу війни повстане нова нація, і нехай розрізнені народи Еві нарешті стануть разом!"
  form_evi_decision: "[GetFormEviName]"
- form_evi_decision_normal: "Утворити евійську державу"
+ form_evi_normal: "Утворити евійську державу"
  form_evi_decision_griffemp: "Зробити Еві осердною територією" # (&+)
  move_capital_to_kivessin: "Перемістити столицю в Ківессин"
  move_capital_to_kivessin_desc: "Ківессин знаходиться в середині новонародженої держави, ідеальному місці для правління її землями. Він також має певну кількість престижу, будучи старою столицею Королівства Бродфельд. Таким чином, переміщення нашох столиці туди — хороша думка." # (&+)
@@ -74,3 +84,28 @@
  form_quaggatai_kingdom_category: "Утворення Королівства Кваґґатай"
  form_quaggatai_kingdom_category_desc:0 "With Colthage lying defeated at our hoofs, we have restored our hegemony over Zonicia. However, instead of just collecting tribute, this time, our rule will be more direct. Reason enough for our great Khan to crown himself king." # (!)
  form_quaggatai_kingdom: "Утворити Королівство Кваґґатай"
+
+ form_the_socialist_world_republic: "Соціалістична світова єдність"
+ form_the_socialist_world_republic_decision: "Об'єднати світ під знаменом соціалізму"
+
+ form_hillpony_kingdom_category: "Об'єднання поні пагорбів"
+ form_hillpony_kingdom_category_desc:0 "Despite their shared heritage, the hardy hillponies of the north have been divided for centuries. It is time to unite them all under one banner, the banner of Beorgfordas!" # (!)
+ form_hillpony_kingdom: "Утворити Беорґфордас"
+ form_hillpony_kingdom_desc:0 "We have finally united our homeland, Beorgfordas, and can now reshape our national identity." # (!)
+
+ ### Cosmetic tags ###
+ beorgfordas: "Беорґфордас"
+ beorgfordas_DEF: "Беорґфордас"
+ beorgfordas_ADJ: "Беорґфордас"
+ beorgfordas_neutrality: "Королівство Беорґфордас"
+ beorgfordas_fascism: "Королівство Беорґфордас"
+ beorgfordas_communism: "Союз Беорґфордасу"
+ beorgfordas_democratic: "Царство Беорґфордас"
+ beorgfordas_neutrality_DEF: "Королівство Беорґфордас"
+ beorgfordas_fascism_DEF: "Королівство Беорґфордас"
+ beorgfordas_communism_DEF: "Союз Беорґфордасу"
+ beorgfordas_democratic_DEF: "Царство Беорґфордас"
+ beorgfordas_fascism_ADJ: "Беорґфордаськ"
+ beorgfordas_democratic_ADJ: "Беорґфордаськ"
+ beorgfordas_neutrality_ADJ: "Беорґфордаськ"
+ beorgfordas_communism_ADJ: "Беорґфордаськ"

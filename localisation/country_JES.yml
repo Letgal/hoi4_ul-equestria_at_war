@@ -181,7 +181,7 @@
  JES_scavenging_idea:0 "Мародерство"
 
 ### Characters
- JES_count_guillaume_discret: "Граф Гійом Діскрет"
+ JES_count_guillaume_discret: "Гійом Діскрет"
 
  JES_poet_advisor: "Рамбо Боскега"
  JES_industry_advisor: "Ольстер Дюпюй"
@@ -507,6 +507,7 @@
  JES_transista_flooded:0 "Трансіста затоплена"
  JES_partisans_prepared:0 "Партизани підготовлені"
  JER_JES_successful:0 "Таррін відновив Республіку"
+ JES_government_formed: "Вибори було проведено"
 
 ### Cosmetic tag
  JES_pan_aquileia_tag_neutrality: "Королівство Аквілея"

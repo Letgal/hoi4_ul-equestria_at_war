@@ -1,0 +1,10 @@
+﻿# == (*) ==
+ eawse_TITLE: "£eaw_text£ §YEquestria at War§! Super Events"
+ EAWSE_SETTINGS_TITLE: "$eawse_TITLE$\nПанель налаштувань"
+ EAWSE_SETTINGS_TT: "Налаштування суперподій"
+ EAWSE_EVENT_DISABLE: "Вимкнути подію"
+ EAWSE_EVENT_ENABLE: "Увмікнути подію"
+ # Temporary warning
+ eaw_superevents.internal.42.t:0 "Equestria at War Super Events"
+ eaw_superevents.internal.42.desc:0 "Warning! In the latest submod update, the super event customization panel has been added. There is no longer a Decision to access the settings, you can access the panel through the music customization panel."
+ eaw_superevents.internal.42.a:0 "Ok."

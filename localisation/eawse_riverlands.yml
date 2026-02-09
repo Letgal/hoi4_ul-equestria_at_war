@@ -1,0 +1,183 @@
+﻿# == (*) ==
+ EAWSE_RIVERLANDS_TITLE: "Річкові землі та поближні землі"
+
+ # ---------------------------------------- #
+ EAWSE_RIV_RCT_TITLE: "RCT"
+
+ EAWSE_RIV_RCT_RS_TITLE: "$EAWSE_RIV_RCT_RS_T$: $RCT_river_swirl$ £ideology_harmony_texticon£"
+ EAWSE_RIV_RCT_RS_T: "$SE_RIV_RCT_RS_T$"
+ EAWSE_RIV_RCT_RS_A: "$SE_RIV_RCT_RS_A$"
+ EAWSE_RIV_RCT_RS_D: "$SE_RIV_RCT_RS_D$"
+
+ EAWSE_RIV_RCT_AL_TITLE: "$EAWSE_RIV_RCT_AL_T$: $RCT_arclight$ £ideology_neutrality_texticon£"
+ EAWSE_RIV_RCT_AL_T: "$SE_RIV_RCT_AL_T$"
+ EAWSE_RIV_RCT_AL_A: "$SE_RIV_RCT_AL_A$"
+ EAWSE_RIV_RCT_AL_D: "$SE_RIV_RCT_AL_D$"
+
+ EAWSE_RIV_RCT_NW_TITLE: "$EAWSE_RIV_RCT_NW_T$: $RCT_nova_whirl$ £ideology_communism_texticon£"
+ EAWSE_RIV_RCT_NW_T: "$SE_RIV_RCT_NW_T$"
+ EAWSE_RIV_RCT_NW_A: "$SE_RIV_RCT_NW_A$"
+ EAWSE_RIV_RCT_NW_D: "$SE_RIV_RCT_NW_D$"
+
+ EAWSE_RIV_RCT_CH_TITLE: "$EAWSE_RIV_RCT_CH_T$: $RCT_caramel_haze$ £ideology_communism_texticon£"
+ EAWSE_RIV_RCT_CH_T: "$SE_RIV_RCT_CH_T$"
+ EAWSE_RIV_RCT_CH_A: "$SE_RIV_RCT_CH_A$"
+ EAWSE_RIV_RCT_CH_D: "$SE_RIV_RCT_CH_D$"
+
+ # ---------------------------------------- #
+ EAWSE_RIV_LCT_TITLE: "LCT"
+
+ EAWSE_RIV_LCT_DS_TITLE: "$EAWSE_RIV_LCT_DS_T$: $LCT_deirdra_skye$ £ideology_harmony_texticon£"
+ EAWSE_RIV_LCT_DS_T: "$SE_RIV_LCT_DS_T$"
+ EAWSE_RIV_LCT_DS_A: "$SE_RIV_LCT_DS_A$"
+ EAWSE_RIV_LCT_DS_D: "$SE_RIV_LCT_DS_D$"
+
+ EAWSE_RIV_LCT_WL_TITLE: "$EAWSE_RIV_LCT_WL_T$: $LCT_westerly_leeward$ £ideology_supremacy_texticon£"
+ EAWSE_RIV_LCT_WL_T: "$SE_RIV_LCT_WL_T$"
+ EAWSE_RIV_LCT_WL_A: "$SE_RIV_LCT_WL_A$"
+ EAWSE_RIV_LCT_WL_D: "$SE_RIV_LCT_WL_D$"
+
+ EAWSE_RIV_LCT_WB_TITLE: "$EAWSE_RIV_LCT_WB_T$: $LCT_wavebreaker$ £ideology_neutrality_texticon£"
+ EAWSE_RIV_LCT_WB_T: "$SE_RIV_LCT_WB_T$"
+ EAWSE_RIV_LCT_WB_A: "$SE_RIV_LCT_WB_A$"
+ EAWSE_RIV_LCT_WB_D: "$SE_RIV_LCT_WB_D$"
+
+ # ---------------------------------------- #
+ EAWSE_RIV_BAK_TITLE: "BAK"
+
+ EAWSE_RIV_BAK_WL_TITLE: "$EAWSE_RIV_BAK_WL_T$: $BAK_water_lily$ £ideology_harmony_texticon£"
+ EAWSE_RIV_BAK_WL_T: "$SE_RIV_BAK_WL_T$"
+ EAWSE_RIV_BAK_WL_A: "$SE_RIV_BAK_WL_A$"
+ EAWSE_RIV_BAK_WL_D: "$SE_RIV_BAK_WL_D$"
+
+ EAWSE_RIV_BAK_TD_TITLE: "$EAWSE_RIV_BAK_TD_T$: $BAK_tea_dip$ £ideology_neutrality_texticon£"
+ EAWSE_RIV_BAK_TD_T: "$SE_RIV_BAK_TD_T$"
+ EAWSE_RIV_BAK_TD_A: "$SE_RIV_BAK_TD_A$"
+ EAWSE_RIV_BAK_TD_D: "$SE_RIV_BAK_TD_D$"
+
+ EAWSE_RIV_BAK_BF_TITLE: "$EAWSE_RIV_BAK_BF_T$: $BAK_bray_foam$ £ideology_communism_texticon£"
+ EAWSE_RIV_BAK_BF_T: "$SE_RIV_BAK_BF_T$"
+ EAWSE_RIV_BAK_BF_A: "$SE_RIV_BAK_BF_A$"
+ EAWSE_RIV_BAK_BF_D: "$SE_RIV_BAK_BF_D$"
+
+ EAWSE_RIV_BAK_FS_TITLE: "$EAWSE_RIV_BAK_FS_T$: $BAK_firm_scow$ £ideology_supremacy_texticon£"
+ EAWSE_RIV_BAK_FS_T: "$SE_RIV_BAK_FS_T$"
+ EAWSE_RIV_BAK_FS_A: "$SE_RIV_BAK_FS_A$"
+ EAWSE_RIV_BAK_FS_D: "$SE_RIV_BAK_FS_D$"
+
+ # ---------------------------------------- #
+ EAWSE_RIV_DMT_TITLE: "DMT"
+
+ EAWSE_RIV_DMT_MOLLY_TITLE: "$EAWSE_RIV_DMT_MOLLY_T$: принцеса Моллі £ideology_harmony_texticon£"
+ EAWSE_RIV_DMT_MOLLY_T: "$SE_RIV_DMT_MOLLY_T$"
+ EAWSE_RIV_DMT_MOLLY_A: "$SE_RIV_DMT_MOLLY_A$"
+ EAWSE_RIV_DMT_MOLLY_D: "$SE_RIV_DMT_MOLLY_D$"
+
+ EAWSE_RIV_DMT_ROVER_TITLE: "$EAWSE_RIV_DMT_ROVER_T$: король Ровер £ideology_supremacy_texticon£"
+ EAWSE_RIV_DMT_ROVER_T: "$SE_RIV_DMT_ROVER_T$"
+ EAWSE_RIV_DMT_ROVER_A: "$SE_RIV_DMT_ROVER_A$"
+ EAWSE_RIV_DMT_ROVER_D: "$SE_RIV_DMT_ROVER_D$"
+
+ EAWSE_RIV_DMT_COM_TITLE: "$EAWSE_RIV_DMT_COM_T$: $DMT_clifford_the_red$ £ideology_communism_texticon£"
+ EAWSE_RIV_DMT_COM_T: "$SE_RIV_DMT_COM_T$"
+ EAWSE_RIV_DMT_COM_A: "$SE_RIV_DMT_COM_A$"
+ EAWSE_RIV_DMT_COM_D: "$SE_RIV_DMT_COM_D$"
+
+ # ---------------------------------------- #
+ EAWSE_RIV_WIT_TITLE: "WIT"
+
+ EAWSE_RIV_WIT_WS_TITLE: "$EAWSE_RIV_WIT_WS_T$: $WIT_white_star$ £ideology_harmony_texticon£"
+ EAWSE_RIV_WIT_WS_T: "$SE_RIV_WIT_WS_T$"
+ EAWSE_RIV_WIT_WS_A: "$SE_RIV_WIT_WS_A$"
+ EAWSE_RIV_WIT_WS_D: "$SE_RIV_WIT_WS_D$"
+
+ EAWSE_RIV_WIT_V_TITLE: "$EAWSE_RIV_WIT_V_T$: $WIT_voliare_gingerbeard$ £ideology_communism_texticon£"
+ EAWSE_RIV_WIT_V_T: "$SE_RIV_WIT_V_T$"
+ EAWSE_RIV_WIT_V_A: "$SE_RIV_WIT_V_A$"
+ EAWSE_RIV_WIT_V_D: "$SE_RIV_WIT_V_D$"
+
+ EAWSE_RIV_WIT_HARMONY_TITLE: "$EAWSE_RIV_WIT_HARMONY_T$: гармонія £ideology_harmony_texticon£"
+ EAWSE_RIV_WIT_HARMONY_T: "$SE_RIV_WIT_HARMONY_T$"
+ EAWSE_RIV_WIT_HARMONY_A: "$SE_RIV_WIT_HARMONY_A$"
+ EAWSE_RIV_WIT_HARMONY_D: "$SE_RIV_WIT_HARMONY_D$"
+
+ EAWSE_RIV_WIT_NEUTRAL_TITLE: "$EAWSE_RIV_WIT_NEUTRAL_T$: нейтралітет £ideology_neutrality_texticon£"
+ EAWSE_RIV_WIT_NEUTRAL_T: "$SE_RIV_WIT_NEUTRAL_T$"
+ EAWSE_RIV_WIT_NEUTRAL_A: "$SE_RIV_WIT_NEUTRAL_A$"
+ EAWSE_RIV_WIT_NEUTRAL_D: "$SE_RIV_WIT_NEUTRAL_D$"
+
+ # ---------------------------------------- #
+ EAWSE_RIV_NIM: "NIM"
+
+ EAWSE_RIV_NIM_MK_TITLE: "$EAWSE_RIV_NIM_MK_T$: $NIM_metakeros$ £ideology_harmony_texticon£"
+ EAWSE_RIV_NIM_MK_T: "$SE_RIV_NIM_MK_T$"
+ EAWSE_RIV_NIM_MK_A: "$SE_RIV_NIM_MK_A$"
+ EAWSE_RIV_NIM_MK_D: "$SE_RIV_NIM_MK_D$"
+
+ # ---------------------------------------- #
+ EAWSE_RIV_DEP: "DEP"
+
+ EAWSE_RIV_DEP_KG_TITLE: "$EAWSE_RIV_DEP_KG_T$: король Ґримгуф £ideology_neutrality_texticon£"
+ EAWSE_RIV_DEP_KG_T: "$SE_RIV_DEP_KG_T$"
+ EAWSE_RIV_DEP_KG_A: "$SE_RIV_DEP_KG_A$"
+ EAWSE_RIV_DEP_KG_D: "$SE_RIV_DEP_KG_D$"
+
+ # ---------------------------------------- #
+ EAWSE_RIV_FRE: "FRE"
+
+ EAWSE_RIV_FRE_CR_TITLE: "$EAWSE_RIV_FRE_CR_T$: $FRE_crimson_cridhe_an_dragon_nic_heart$ £ideology_harmony_texticon£"
+ EAWSE_RIV_FRE_CR_T: "$SE_RIV_FRE_CR_T$"
+ EAWSE_RIV_FRE_CR_A: "$SE_RIV_FRE_CR_A$"
+ EAWSE_RIV_FRE_CR_D: "$SE_RIV_FRE_CR_D$"
+
+ # ---------------------------------------- #
+ EAWSE_RIVERLANDS_LCT: "LCT"
+
+ EAWSE_RIV_EMP_TITLE: "$EAWSE_RIV_EMP_T$"
+ EAWSE_RIV_EMP_T: "$SE_RIV_EMP_T$"
+ EAWSE_RIV_EMP_A: "$SE_RIV_EMP_A$"
+ EAWSE_RIV_EMP_D: "$SE_RIV_EMP_D$"
+
+ EAWSE_HOLY_PONY_EMPIRE_TITLE: "$EAWSE_HOLY_PONY_EMPIRE_T$"
+ EAWSE_HOLY_PONY_EMPIRE_T: "$SE_HOLY_PONY_EMPIRE_T$"
+ EAWSE_HOLY_PONY_EMPIRE_A: "$SE_HOLY_PONY_EMPIRE_A$"
+ EAWSE_HOLY_PONY_EMPIRE_D: "$SE_HOLY_PONY_EMPIRE_D$"
+
+ # ---------------------------------------- #
+ EAWSE_RIVERLANDS_JER: "JER"
+
+ EAWSE_OST_GRIFFONIA_TITLE: "$EAWSE_OST_GRIFFONIA_T$"
+ EAWSE_OST_GRIFFONIA_T: "$SE_OST_GRIFFONIA_T$"
+ EAWSE_OST_GRIFFONIA_A: "$SE_OST_GRIFFONIA_A$"
+ EAWSE_OST_GRIFFONIA_D: "$SE_OST_GRIFFONIA_D$"
+
+ # ---------------------------------------- #
+ EAWSE_RIVERLANDS_LNS: "LNS"
+
+ EAWSE_LNS_GM_TITLE: "$EAWSE_LNS_GM_T$"
+ EAWSE_LNS_GM_T: "$SE_LNS_GM_T$"
+ EAWSE_LNS_GM_A: "$SE_LNS_GM_A$"
+ EAWSE_LNS_GM_D: "$SE_LNS_GM_D$"
+
+ EAWSE_LNS_POWNER_TITLE: "$EAWSE_LNS_POWNER_T$"
+ EAWSE_LNS_POWNER_T: "$SE_LNS_POWNER_T$"
+ EAWSE_LNS_POWNER_A: "$SE_LNS_POWNER_A$"
+ EAWSE_LNS_POWNER_D: "$SE_LNS_POWNER_D$"
+
+ # ---------------------------------------- #
+ EAWSE_GRIFFONIA_GREAT_WAR_TITLE: "Велика війна"
+
+ EAWSE_GRI_RIV_WAR_GRI_TITLE: "$EAWSE_GRI_RIV_WAR_GRI_T$"
+ EAWSE_GRI_RIV_WAR_GRI_T: "$SE_GRI_RIV_WAR_GRI_T$"
+ EAWSE_GRI_RIV_WAR_GRI_A: "$SE_GRI_RIV_WAR_GRI_A$"
+ EAWSE_GRI_RIV_WAR_GRI_D: "$SE_GRI_RIV_WAR_GRI_D$"
+
+ EAWSE_GRI_RIV_WAR_RIV_V_TITLE: "$EAWSE_GRI_RIV_WAR_RIV_V_T$"
+ EAWSE_GRI_RIV_WAR_RIV_V_T: "$SE_GRI_RIV_WAR_RIV_V_T$"
+ EAWSE_GRI_RIV_WAR_RIV_V_A: "$SE_GRI_RIV_WAR_RIV_V_A$"
+ EAWSE_GRI_RIV_WAR_RIV_V_D: "$SE_GRI_RIV_WAR_RIV_V_D$"
+
+ EAWSE_GRI_RIV_WAR_GRI_V_TITLE: "$EAWSE_GRI_RIV_WAR_GRI_V_T$"
+ EAWSE_GRI_RIV_WAR_GRI_V_T: "$SE_GRI_RIV_WAR_GRI_V_T$"
+ EAWSE_GRI_RIV_WAR_GRI_V_A: "$SE_GRI_RIV_WAR_GRI_V_A$"
+ EAWSE_GRI_RIV_WAR_GRI_V_D: "$SE_GRI_RIV_WAR_GRI_V_D$"

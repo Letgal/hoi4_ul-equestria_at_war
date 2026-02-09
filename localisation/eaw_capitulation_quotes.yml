@@ -20,7 +20,7 @@
 
  GetTNOMaintext_griffonia_empire_fall: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! ввійшла в місто §YГрифенгайм§! і повалила державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
  GetTNOMaintext_griffonia_republic_loss: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! розбила грифонський республіканізм у державі §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
- GetTNOMaintext_longsword_civil_war: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! перемогла державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! у §Yгромадянській війні у Лонґсуорді§!."
+ GetTNOMaintext_longsword_civil_war: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! перемогла державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! у §Yгромадянській війні у Лонґсорді§!."
  GetTNOMaintext_reformisten_loss: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! усунула загрозу з боку §Yреформістів§! держави §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
  GetTNOMaintext_rivfed_loss: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! розбила §GРічкову коаліцію§!, перемігши державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
  GetTNOMaintext_rivfed_losing: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! відбила §GРічкову коаліцію§!, перемігши державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
@@ -144,6 +144,8 @@ GetTNOReference_AET: "Нейтралітет не гарантує вижива�
 GetTNOReference_AET_Anarkiddie: "Анархія-Мама їх продала."
 GetTNOReference_AET_Hail_Satan: "Здоровий глузд вертається до Периферії."
 GetTNOReference_HEL: "Вони не могли лишитися тим, ким були."
+GetTNOReference_HEL_Alexandra: "Її зміни стекли кров'ю й упали поруч із революціонерами." # (&+): зокрема по-руч
+GetTNOReference_HEL_Sheriff: "«Чого варті ще 20 років у лісі?»" # (&+)
 GetTNOReference_AVI: "Остання надія Веренії згасла."
 GetTNOReference_ERI: "Безтямна боротьба за спадок скінчилася."
 GetTNOReference_EYR: "Бездумна боротьба за спадок скінчилася."
@@ -254,6 +256,8 @@ GetTNOReference_NSA: "Квіт молоді Кірії розтоптали ко
 GetTNOReference_CFR: "Ракову пухлину вирізано."
 GetTNOReference_CRF: "Тризуб відкриває ще одну рану."
 GetTNOReference_RRA: "Моровиця шириться Кірією."
+GetTNOReference_KXN: "Вдвічі яскравіше, вдвічі коротше."
+GetTNOReference_KXN_Marching: "Нарешті їхні гріхи дійшли до них." # (&)
 
 GetTNOReference_UFS: "Вони віддали все, але цього було недостатньо.\nТож, божевільний кайзер поглядає на зорі..."
 GetTNOReference_KTZ: "Іще... один... цикл..."

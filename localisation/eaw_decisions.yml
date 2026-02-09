@@ -25,7 +25,10 @@ seize_some_trucks_woo_desc:0 "Компанії, що займаються ком
 reclaim_the_everfree_forest_decision: "Повернути Вічнодикий ліс"
 
 ### РОЗВІДКА РЕСУРСІВ (мабуть, доведеться переписати в майбутньому) ###
+ find_coal_in_the_mountain:0 "Find Coal In The Mountain" # (!)
  develop_baltimare_aluminium: "Алюмінієва плавильня Балтимейру"
+ tap_coal_fields_near_comet_cape:0 "Tap Coal Fields Near Comet Cape" # (!)
+ expand_las_pegasus_coal_mines:0 "Expand Las Pegasus Coal Mines" # (!)
  develop_apple_groove_mines: "Шахти у Квітневому гаї"
  apple_groove_mines_developed: "Шахти відкрито"
  apple_groove_mines_developed_tt: "Шахти у Квітневому гаї буде відкрито.\n"
@@ -33,6 +36,7 @@ reclaim_the_everfree_forest_decision: "Повернути Вічнодикий �
  develop_ghastly_gorge_crystals: "Родовища кристалів у Моторошній ущелині"
  develop_welcoming_hills_tungsten_deposits: "Вольфрам Привітних пагорбів"
  neighgara_falls_crystals_develop: "Кристальні шахти Нейаґарських гір"
+ increase_coal_mining_in_manty_creek:0 "Increase Coal Mining In Manty Creek" # (!)
  some_magical_plateu_oil: "Нафтові родовища на Магічному плато"
  deeper_into_crystal_mountains: "Углиб Кристальних гір"
  deeper_into_crystal_mountains_2: "Розробка Кристальних гір"
@@ -41,11 +45,15 @@ reclaim_the_everfree_forest_decision: "Повернути Вічнодикий �
  upper_unicorn_range_chromium: "Розробка хрому у Верхній Єдинорожій гряді"
  bogg_toxic_marsh_oil: "Нафта в Токсичній трясовині"
  bogg_toxic_marsh_rubber: "Продовжити дослідження Трясовини"
+ develop_coal_seams_in_gorak:0 "Develop Coal Seams In Gorak" # (!)
+ invest_in_the_zayatsk_coal_mines:0 "Invest In The Zayatsk Coal Mines" # (!)
  haysead_marsh_rubber: "Гумові плантації Насінних боліт"
  haysead_marsh_rubber_2: "Розширити гумові плантації Насінних боліт"
+ expand_coal_mines_in_weidadehudedaier:0 "Expand Coal Mines In Weidadehudedaier" # (!)
  albion_aluminium_aircraft: "Авіаційна промисловість Альбіону"
  falcontown_oil_well: "Шукати нафту у Фелконтауні"
  falcontown_oil_well_2: "Розширити нафтові родовища у Фелконтауні"
+ brown_coal_mining_in_twochanerwald:0 "Brown Coal Mining In Twöchanerwald" # (!)
  crystal_peaks: "Шахти в Кристальних піках"
  beak_mine_expansion: "Розширити шахти Біка"
  northern_steel_expansion: "Розробка глибин Нігану"
@@ -55,6 +63,7 @@ reclaim_the_everfree_forest_decision: "Повернути Вічнодикий �
  develop_northern_cross_tungsten_deposits_1: "Розробити вольфрамові шахти Північного Крос-Айленду"
  develop_northern_cross_tungsten_deposits_2: "Розширити вольфрамові шахти Північного Крос-Айленду"
  develop_karthin_oil_fields: "Розширити нафтові родовища в Карфіні"
+ expand_coal_mining_around_eaglers:0 "Expand Coal Mining Around Eaglers" # (!)
  develop_bloodtalon_rubber_plantations: "Розвинути гумові плантації в Бладталоні"
  develop_warthog_forest_rubber_plantations: "Розширити гумову промисловість Лісу Бородавочників"
  develop_griffinstone_crystal_mines: "Шукати кристали під Грифонстоуном"
@@ -64,8 +73,10 @@ reclaim_the_everfree_forest_decision: "Повернути Вічнодикий �
  develop_ochme_tungsten_deposits_1: "Розвинути вольфрамові шахти в Окме"
  develop_ochme_tungsten_deposits_2: "Розширити вольфрамові шахти в Окме"
  develop_bonedrift_steel_deposits: "Розвинути родовища залізної руди в Боундрифті"
+ develop_coal_deposits_in_rumare:0 "Develop Coal Deposits In Rumare" # (!)
  develop_stormwingia_chromium_deposits: "Розвинути родовища хрому в Штормвінґії"
  develop_desponia_oil_fields: "Розвинути нафтові родовища в Деспіні"
+ #prospect_for_coal_in_dimpeak:0 "Prospect For Coal In Dimpeak"
  crownspike_oil_fields: "Шукати нафту під Краунспайком"
  develop_aurez_hills_tungsten_deposits: "Розвинути родовища вольфраму в Аурезьких пагорбах"
  develop_dwarftail_chromium_deposits_1: "Розвинути хромові шахти в Дворфтейлі"
@@ -74,21 +85,27 @@ reclaim_the_everfree_forest_decision: "Повернути Вічнодикий �
  develop_dwarftail_chromium_deposits_2_desc: "Хромові шахти працюють на повну. Якщо нам потрібні більші об'єми, нам доведеться шукати нові родовища в горах."
  develop_dwarftail_chromium_deposits_3: "Збільшити видобуток хрому в шахтах Дворфтейлу"
  develop_dwarftail_chromium_deposits_3_desc: "З допомогою нових технологій і машинерії ми можемо видобути це більше хрому з шахи Дворфтейлу."
+ explore_coal_seams_in_dit_kazar:0 "Explore Coal Seams In Dit-Kazar" # (!)
+ explore_coal_seams_in_dit_kazar_2:0 "Further Explore Coal Seams In Dit-Kazar" # (!)
+ dig_up_coal_in_snalland:0 "Dig Up Coal In Snälland" # (!)
  canterlot_crystal_mines: "Відновити кристальні шахти Кантерлоту"
  canterlot_crystal_mines_2: "Продовжити розробку шахт під Кантерлотом"
  canterlot_crystal_mines_3: "Углиб шахт під Кантерлотом"
+ intensify_coal_mining_in_bugsmere:0 "Intensify Coal Mining In Bugsmere" # (!)
+ expand_coal_mines_in_highhill:0 "Expand Coal Mines In Highhill" # (!)
  furry_mountains_chromium_excavation: "Хром Пухнастих гір"
  further_coldmouth_tungsten: "Шукати вольфрам у Колдмуті"
  moonrise_crystal_dowsing: "Шукати кристали в Сході Місяця"
  mathair_oil_drilling: "Шукати нафту в Магарь-Фярані"
  dimpeak_tungsten_mines: "Вольфрамові шахти Дімпіку"
+ prospect_for_coal_in_dimpeak:0 "Prospect For Coal In Dimpeak" # (!)
  arrowpeaks_steel_excavation: "Видобуток сталі в Стріловидних піках"
  starclaw_steel_refining: "Розширити сталеливарний завод у Старкло"
  conjure_resources_from_the_springs: "Шукати ресурси в Священних струмках"
  expand_karthin_aluminum: "Збільшити видобуток алюмінію в Карфіні"
  little_griff_mountain_steel: "Збільшити видобуток сталі в Малогрифських горах"
  windford_iron: "Залізні шахти Віндфорда"
-
+ expand_the_neighretva_coal_mine:0 "Expand The Neighretva Coal Mine" # (!)
  oromeowia_oil_field_decision: "Нафтові свердловини в Оронявії"
  katoum_aluminium_mines: "Шукати боксити в Катумі"
  perkele_oil_wells: "Бурити нафту в Муррк'еле"
@@ -115,28 +132,36 @@ reclaim_the_everfree_forest_decision: "Повернути Вічнодикий �
  develop_chykchyryn_chromium: "Відкрити хромові копальні Чикчирина"
  develop_chykchyryn_aluminium: "Розвинути алюмінієвий завод Чикчирина"
  develop_east_rose_forest_tungsten: "Збільшити видобуток вольфраму у східному Лісі троянд"
+ expand_clawton_coal_mines:0 "Expand Clawton Coal Mines" # (!)
  develop_den_crystals: "Випробувальна ділянка видобутку кристалів у Дені" # (&)
  develop_hind_tungsten: "Розширити вольфрамову копальну Гінду"
+ prospect_for_coal_in_zalihli:0 "Prospect For Coal In Zalihli" # (!)
  develop_hsihoof_tungsten: "Заснувати завод зі спільного виробництва хрома та вольфраму"
  develop_antlerjab_steel: "Утворити сталеливарний завод Ентлерджаба"
  develop_huanchu_steel: "Відкрити сталеливарний цех у Хуаньчу"
  develop_ginje_steel: "Сталеві гірські копальні Ґіндже"
+ develop_coal_deposits_in_alpacamba:0 "Develop Coal Deposits In Alpacamba" # (!)
+ increase_coal_mining_near_krachiao:0 "Increase Coal Mining Near Krachiao" # (!)
  develop_dulla_aluminium: "Авіаційний завод Дулли"
  develop_koltshgar_aluminium: "Додаткове родовище Кольтшґара"
  develop_rio_de_jandaia_steel: "Виплавка сталі в Ріу-джі-Жандаї"
  develop_plissalto_steel: "Сталеплавильний завод Пліссалту"
  develop_serra_recondito_chromium: "Видобуток хрому в Серра-Реконджіту"
  develop_darnaigh_chromium: "Відкрита хромова копальна Дарнею"
+ tap_the_zesalampy_coal_deposits:0 "Tap The Zesalampy Coal Deposits" # (!)
  develop_qatrain_aluminium: "Алюмінієвий комбінат Катрейну"
  develop_calfkum_oil: "Бурові вишки Кафкума"
+ increase_ghazzmare_coal_mining_operations:0 "Increase Ghazzmare Coal Mining Operations" # (!)
  develop_furna_oil: "Гейзери Фурни"
  develop_shizra_oil: "Нафтові родовища Шізри"
  develop_zamfara_oil: "Чорне золото Замфари"
  develop_gelion_oil: "Нафтові насоси Геліона"
  develop_modnihendi_oil: "Свердловини Модніхенді"
- develop_karen_steel: "Сталева копальна Карена"
+ develop_karen_steel: "Залізна копальня Карена"
  develop_zwahile_steel: "Металургійний завод Зуагіле"
  develop_wetbanks_aluminium: "Авіаційний завод Уетбенкса"
+ expand_brown_coal_mining_in_the_orta_valley:0 "Expand Brown Coal Mining In The Orta Valley" # (!)
+ expand_the_rainguard_coal_mines:0 "Expand The Rainguard Coal Mines" # (!)
  develop_thunderpoint_aluminium: "Переробний завод Тандерпойнта"
  develop_eye_of_the_storm_tungsten: "Вольфрамова копальня Ока Бурі"
  develop_eye_of_the_storm_crystals1: "Кристали в Оці Бурі"
@@ -144,9 +169,52 @@ reclaim_the_everfree_forest_decision: "Повернути Вічнодикий �
  develop_eye_of_the_storm_crystals3: "Ще більше кристалів в Оці Бурі"
  develop_eye_of_the_storm_crystals4: "Засе більше кристалів в Оці Бурі"
  develop_thunder_cliffs_chromium: "Видобуток хрому у Громових пагорбах"
+ anega_mines_expansion:0 "Expand Anega Ridge Mines" # (!)
+ khaneigh_oil_fields:0 "Prospect Khaneigh Oil Deposits"
+ ijebi_tungsten_mines:0 "Expand Ijebi Tungsten Mines"
+ zanzibuck_aluminium_mines:0 "Expand Zanzibuck Bauxite Mines"
+ zwahile_chromium_mines:0 "Expand Zwahile Chromium Mines"
  develop_zumbo_oil:0 "Wellspring Oil Wells" # (!)
  develop_muromo_werwizi_rubber:0 "Muromo Werwizi Rubber Plantations" # (!)
  develop_plissa_tungsten:0 "Plissa Mine Expansion" # (!)
+ tap_the_sarygam_coal_reserves:0 "Tap The Sarygam Coal Reserves" # (!)
+ explore_coal_seams_near_zhlaha_zasha:0 "Explore Coal Seams Near Zhlaha Zasha" # (!)
+ open_the_memphis_coal_mines:0 "Open The Manephis Coal Mines" # (!)
+ increase_crystal_mining_in_bardzr_zhayrr:0 "Increase Crystal Mining In Bardzr Zhayrr"
+ prospect_for_iron_in_apastanats_trots:0 "Prospect For Iron In Apastanats Tsots"
+ upgrade_steel_mills_in_the_qerbi_tepelikler:0 "Upgrade Steel Mills In The Qerbi Tepelikler"
+ expand_rubber_plantations_in_kalaimandalam:0 "Expand Rubber Plantations In Kalaimandalam"
+ expand_tungsten_mines_in_zarmarej:0 "Expand Tungsten Mines In Zarmarej"
+ invest_in_the_owobad_oil_fields:0 "Invest In The Owobad Oil Fields"
+ exploit_chromium_deposits_in_fmares:0 "Exploit Chromium Deposits In Fmares"
+ expand_iron_smelters_in_hisanlab:0 "Expand Iron Smelters In Hisanlab"
+ intensify_chromium_mining_in_qazmanein:0 "Intensify Chromium Mining In Qazmanein"
+ increase_steel_production_in_jabal_tailiq:0 "Increase Steel Production In Jabal Tailiq"
+ expand_the_crystal_mines_of_mareib:0 "Expand The Crystal Mines Of Mareib"
+ bauxite_mining_in_maresta:0 "Bauxite Mining In Maresta"
+ build_new_aluminium_smelters_in_bambuck:0 "Build New Aluminium Smelters In Bambuck"
+ exploit_tungsten_deposits_in_sadlhara:0 "Exploit Tungsten Deposits In Sadlhara"
+ expand_oil_drilling_operations_in_zaudeni:0 "Expand Oil Drilling Operations In Zaudeni"
+ dig_for_more_iron_in_ziani:0 "Dig For More Iron In Ziani"
+ explore_crystal_deposits_in_bumane:0 "Explore Crystal Deposits In Bumane"
+ invest_in_the_zano_steel_foundries:0 "Invest In The Zano Steel Foundries"
+ build_up_the_horsemuz_oil_fields:0 "Build Up The Horsemuz Oil Fields"
+ expand_crystal_mining_in_maneknes:0 "Expand Crystal Mining In Maneknes"
+ invest_in_qunfudhah_oil_drilling_operations:0 "Invest In Qunfudhah Oil Drilling Operations"
+ prospect_for_chromium_in_awal:0 "Prospect For Chromium In Awal"
+ increase_oil_drilling_in_anseruk:0 "Increase Oil Drilling In Anseruk"
+ expand_the_hoofeida_chromium_mines:0 "Expand The Hoofeida Chromium Mines"
+ exploit_bauxite_deposits_in_karabaza:0 "Exploit Bauxite Deposits In Karabaza"
+ expand_rubber_plantations_in_zupinamba:0 "Expand Rubber Plantations In Zupinamba"
+ intensify_crystal_mining_in_glaan:0 "Intensify Crystal Mining In Glaan"
+ increase_rubber_production_in_wezuli:0 "Increase Rubber Production In Wezuli"
+ plant_additional_rubber_in_patay_na_bantayog:0 "Plant Additional Rubber In Patay-Na-Bantayog"
+ invest_in_additional_rubber_plantations_for_amalanhig_hinni:0 "Invest In Additional Rubber Plantations For Amalanhig-hinni"
+ expand_tungsten_mines_at_the_ziragongo:0 "Expand Tungsten Mines At The Ziragongo"
+
+build_1144_supply_hub: "Центр постачання області [1144.GetName]"
+build_1154_supply_hub: "Центр постачання області [1154.GetName]"
+build_1149_supply_hub: "Центр постачання області [1149.GetName]"
 
 GRW_internal_affairs: "Внутрішні справи"
 GRW_move_capital_Sydia: "Перемістити столицію в Сідію"
@@ -195,8 +263,6 @@ GRI_kill_blockers:0 "(AI ONLY) Kill Blockers"
 form_equestrian_socialist_union_category: "Еквестрійська соціалістична республіка"
 form_equestrian_socialist_republic: "Утворити Соціалістичну республіку Еквестрія"
 form_equestrian_socialist_union: "Утворити Соціалістичний союз Еквестрії"
-form_the_socialist_world_republic: "Світова Соціалістична Республіка"
-form_the_socialist_world_republic_decision: "Утворити Світову Соціалістичну Республіку"
 
 improve_society_development_decision: "Осучаснити суспільство"
 improve_society_development_nim_fas_decision: "Осучаснити суспільство"
@@ -307,10 +373,6 @@ KAR_attack_west_cat: "Експансія на захід"
 placeholder_KAR_war_decision: "Атакувати державу [FROM.GetNameDef]"
 
 ### ВАРТІСТЬ РІШЕНЬ ###
- decision_cost_CP_30: "£command_power£ §Y30§!"
- decision_cost_CP_30_blocked: "£command_power£ §R30§!"
- decision_cost_CP_30_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP30]"
-
  decision_cost_CP_100: "£command_power£ §Y100§!"
  decision_cost_CP_100_blocked: "£command_power£ §R100§!"
  decision_cost_CP_100_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP100]"
@@ -318,10 +380,6 @@ placeholder_KAR_war_decision: "Атакувати державу [FROM.GetNameDe
  decision_cost_CP_125: "£command_power£ §Y125§!"
  decision_cost_CP_125_blocked: "£command_power£ §R125§!"
  decision_cost_CP_125_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP125]"
-
- decision_cost_CP_15_pp_15: "£command_power£ §Y15§! £pol_power£ §Y15§!"
- decision_cost_CP_15_pp_15_blocked: "£command_power£ §R15§! £pol_power£ §R15§!"
- decision_cost_CP_15_pp_15_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP15PP15]"
 
  decision_cost_CP_30_pp_25: "£command_power£ §Y30§! £pol_power£ §Y25§!"
  decision_cost_CP_30_pp_25_blocked: "£command_power£ §R30§! £pol_power£ §R25§!"

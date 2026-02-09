@@ -66,6 +66,7 @@ RULE_AI_DIVISION_LIMITER: "£eaw_text£ Обмеження дивізій ШІ"
  DIPLOMACY_NOT_DETACHED_COUNTRY: "§RАбо ми, або вони є §HІзольованою країною§!.§!"
  CHN_CANNOT_RELEASE_EQUESTRIA: "§R[ROOT.GetNameDef] не може звільнити державу [EQS.GetNameDef].§!"
  KIR_CANNOT_RELEASE_RIVAL_FACTION: "§R[ROOT.GetNameDef] не може звільнити суперницькі фракції у громадянській війні.§!"
+ KXN_RELEASE_VIA_DECISION:0 "Form §YSatellite and Tributary States§! via £decision_icon_small Decisions." # (!)
  CHN_CANNOT_RELEASE_STALLIONGRAD: "§R[ROOT.GetNameDef] не може звільнити державу [STG.GetNameDef].§!"
  DIPLOMACY_UNAVAILABLE_US_SUBJECT: "§RНе дозволено, тому що ми — суб'єкт.§!"
  REQUEST_EXP_FORCE_BLOCKED_TT: "§RРівень їхньої автономії надто високий.§!"

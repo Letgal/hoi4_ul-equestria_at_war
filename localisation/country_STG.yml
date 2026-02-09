@@ -252,6 +252,7 @@
  claimed_EQS_territory_already:0 "Вже має претензії на осередні землі."
  STG_protection:0 "Захист Батьківщини"
  palace_project_abandoned:0 "Проєкт палацу відкинуто."
+ the_palace_constructed: "Проєкт палацу завершено."
  STG_abandon_construction_of_palace:0 "Відмовитися від будівництва"
  STG_abandon_construction_of_palace_desc:0 "Ми більше не можемо витрачати на це кошти."
  STG_abandon_construction_of_palace_war_time:0 "Відмовитися від будівництва"
@@ -942,6 +943,7 @@
  STG_gains_wargoal_against_us:0 "§R[STG.GetName] отримає ціль війни проти нас!\n§!"
 
  Advisors_gone_to_GRW:0 "Воєнна місія у ПВА"
+ STG_promote_young_blood_tt:0 "Three new promising commander will be promoted from academy into the army. §G$apple_fritter$§!, §g$STG_blossomforth$§! and §C$STG_sunshower_raindrops$§! will goin to military command!" # (!)
 
 ### ОСНАЩЕННЯ ###
  STG_EQUIPMENT_VERSION_10: "C-1"

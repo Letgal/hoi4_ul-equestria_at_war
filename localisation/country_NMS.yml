@@ -74,6 +74,8 @@
  NMS_night_fliers_idea_desc:0 "Жодні тренування та практика не можуть зрівнятися з нічним зором бетпоні, що дає нам перевагу у проведенні нічних операцій."
  NMS_expert_fliers_idea:0 "Діти Місяця"
  NMS_expert_fliers_idea_desc:0 "Фестрали народжені для польотів, і це відображається в їхній вправності в управлінні літаками."
+ NMS_bombing_capstone_idea:0 "Demons of the Night" # (!)
+ NMS_bombing_capstone_idea_desc:0 "Thestrals are the fiercest hunters of the night, and this is reflected in their destruction they bring from their bombers." # (!)
  NMS_native_resistance_4:0 "Опір нейуа"
  NMS_native_resistance_4_desc:0 "Незважаючи на розірвані зв'язки з Найтмер, деякі тубільці все ще відмовляються співпрацювати з фестралами. Найбільше плем'я — нейуа, які зневажають і бояться бетпоні. Потрібно буде докласти значних зусиль, щоби загладити свою провину."
  NMS_religious_dialouge_idea:0 "Великий конклав"
@@ -92,7 +94,7 @@
 ### ПЕРСОНАЖІ ###
  # Лідери
   NMS_nobody: "Ніхто"
-  NMS_moonspeaker_conclave: "Конклав Місяцемовних"
+  NMS_moonspeaker_conclave: "Конклав місяцесловів"
   NMS_tlatoani_acazotic_huehuetlatolli_i: "Тлатоані Акасотік Уеуетлатоллі I"
   NMS_stars_whirl: "Старс Вірл"
   NMS_starry_glory: "Старрі Ґлорі"
@@ -107,10 +109,10 @@
   NMS_night_dasher: "Найт Дешер"
   NMS_silver_moon: "Силвер Мун"
   NMS_slashing: "Слешинґ Прайсес"
-  NMS_slashing_desc:0 "Slashing Prices is a lunar guard commander who was stationed in Canterlot up until Nightmare Moon's return and subsequent civil war. Serving for many years in Princess Luna's royal guard, Slashing was a loyal pony and disciplined commander, ensuring his guards were always at peak performance in case Chrysalis attempted to assault Canterlot again.\n\nWith the rise of Nightmare Moon throwing Equestria into complete chaos, Slashing found himself stranded down in southern Equestria while on a training exercise. Unable to return to Canterlot and with no safe way to head to Manehattan, the unicorn decided to join the Disciples of the Night with a small retinue of his best soldiers, hoping to pacify the region and return to her side once the fighting stopped. Commander Prices quickly found himself in charge of a detachment of devout disciples, who, while inexperienced in combat, were completely loyal to the cause.\n\nThanks to his many years of training, Slashing picked up a particular aptitude for engaging enemy units in forested regions, utilizing the heavy foliage to ambush enemies and make daring assaults. He's also lauded by his soldiers as being a commander who leads from the front, more than willing to press the advance alongside his fellow ponies. Slashing is a daring leader and is not afraid to put it all on the line for his Princess, Nightmare or not." # (!)
+  NMS_slashing_desc:0 "Slashing Prices is a lunar guard commander who was stationed in Canterlot up until Nightmare Moon's return and subsequent civil war. Serving for many years in Princess Luna's royal guard, Slashing was a loyal pony and disciplined commander, ensuring his guards were always at peak performance in case Chrysalis attempted to assault Canterlot again.\n\nWith the rise of Nightmare Moon throwing Equestria into complete chaos, Slashing found himself stranded down in southern Equestria while on a training exercise. Unable to return to Canterlot and with no safe way to head to Manehattan, the unicorn decided to join the Lunar Military Administration with a small retinue of his best soldiers, hoping to pacify the region and return to her side once the fighting stopped. Commander Prices quickly found himself in charge of a detachment of devout disciples, who, while inexperienced in combat, were completely loyal to the cause.\n\nThanks to his many years of training, Slashing picked up a particular aptitude for engaging enemy units in forested regions, utilizing the heavy foliage to ambush enemies and make daring assaults. He's also lauded by his soldiers as being a commander who leads from the front, more than willing to press the advance alongside his fellow ponies. Slashing is a daring leader and is not afraid to put it all on the line for his Princess, Nightmare or not." # (!)
 
   NMS_word_bearer: "Уорд Берер"
-  NMS_word_bearer_desc:0 "§YBorn§!: 21 December 980, Ayacachtli\n\n§YBiography§!: Word Bearer, born to two thestrals who worked for Ayacachtli's local newspaper company, was not interested about his education outside of theodicy, the philosophy of religion. Despite being an overall good student, he lacked the desire to learn anything else other than religion. Unlike other assignments, when he wrote about Nightmare Moon, his words flowed like a river. When he decided to try to become a Moonspeaker, however, he was rejected. Dismissing worship of the moon as foolish in the face of the magical might of the alicorns, and further dismissing the Lunarists who viewed Luna and Nightmare Moon as one and the same, he found his calling with the most extreme of the extreme: the Nightmareists, who exclusively worshipped Nightmare Moon as the true goddess of the night. Yet, she was defeated not once, but twice.\n\nFor many, Word Bearer included, this was a crisis of faith, but he stood firm despite the suppression of his goddess and delivered sermons decrying this as evidence of the Nightmare's growing power. In the years following the Nightmare's regression into Luna, he would write psalms and prayers about Nightmare Moon, hoping to prepare the faithful for if- no, when she would return again. And return she did.\n\nWhen the Nightmare's armed forces organized themselves for war, Word Bearer was selected to be one of their commanders in the southeastern theater. As one of the region's natives, he knew their unique way of war, thus making him suitably qualified to teach those under his command with a vigor only matched by his sermons' passion for Nightmare Moon.\n\n§YPortrait By§!: Aquamuro" # (!)
+  NMS_word_bearer_desc:0 "§YBorn§!: 21 December 980, Ayacachtli\n\n§YBiography§!: From a young age, Word Bearer was interested in the theology of the Tenanyotl, but that curiosity has led him into strange beliefs amongst his kin. Usually reverent to only the Moon as a whole and separating Luna from their beliefs, Word Bearer never understood this belief: Luna was clearly as holy as the Moon itself, and so, so was Nightmare Moon! To ignore this was to ignore the Moon's will itself.\n\nHe dreamed becoming a Moonspeaker and convincing the other high members of the faith as a rite of passage for himself; hoping to lead his people to a new glorious future where they could all rejoice in the truth he had found. However, when he was rejected for his 'unorthodox' beliefs, Word Bearer was enraged. He venomously spoke out against what he saw as the corruption by the elites of Ayacachtli leading the largest tribe of thestrals to forever suffer under the domination of others. Feeling betrayed, he would continue travelling and spreading his word and sharing his theses to any who would listen... with little success.\n\nIn 1000, when Nightmare Moon returned, he thought it to be a chance for his beliefs to be proven correct once and for all. To the shock of many, she had not only been defeated, but Princess Luna had returned after the confrontation. For many nightmareists, this was a crisis of faith. But Word Bearer was no nightmareist, and he too rejoiced on the return of Princess Luna – after all, she was one and the same with the Nightmare; her return was a good omen that reinvigorated his belief. In the years since, he would write theses about the Moon, hoping to prepare his fellow batponies for when the Nightmare would return again. And return she did.\n\nWhen Nightmare Moon's armed forces organized themselves for war, Word Bearer was selected to be one of their commanders in the southeastern theater. As one of the region's natives, he knows their unique way of war, thus making him suitably qualified to lead those under his command with a vigor only matched by his sermons' passion for Nightmare Moon.\n\n§YPortrait By§!: Aquamuro" # (!)
   NMS_moon_sparks: "Мун Спаркс"
   NMS_moon_sparks_desc:0 "§YBorn§!: June 23, 983, Cloudsdale, Equestria\n\n§YBiography§!: Born to a career officer in the Equestrian Military, Moon Sparks was exposed to the elements of military life at a young age. This exposure instilled a sense of duty into the colt, who enrolled in officer school as soon as he was able. He spent considerable time learning how to lead others to the point that he could coordinate artillery fire in almost perfect synchronization with infantry support. In time, he commissioned as a lieutenant in the Equestrian Army.\n\nHaving served alongside numerous thestrals, Moon Sparks was very sympathetic to Princess Luna's attempted reforms, even going so far as to attend her rallies and speeches up to that fateful day in Manehattan. The princess's transformation signaled a new beginning, one that Moon was ready to fight for. With Empress Nightmare Moon sending various contingents of her new military across Equestria, Moon has found himself along with a sizable portion of the Empress' forces being sent to the Equestrian South-east to subdue any rebellions. Now he stands ready to put his years of training and experience to use in combat for the first time.\n\n§YPortrait By§!: Stephen Sen" # (!)
   NMS_astral_echo: "Астрал Ехо"
@@ -138,10 +140,10 @@
 
  # Описи лідерів
   spiderbat_desc:0 "Пишучи для численних газет, таких як Балтимейр Таймз, Еквестрія Дейлі, Мейнгеттен Трайбюнал і навіть Кантерлот Інкуаєр, Лайт Нерратив зробив собі ім'я в колах журналістів поні, публікуючи суперечливі, але засновані на фактах статті про фестралів. Незважаючи на його кращі наміри, його запальні статті означали, що він не залишився на роботі надовго.\n\nПісля чергового спаду після свого останнього звільнення, Лайт Нерратив вирушив на південний схід Еквестрії, щоби дослідити та написати репортаж про таємничі тубільні племена, які населяють його джунглі. Його дослідження було перервано громадянською війною, що жодним чином не завадило йому займатися видавничою діяльністю, і він став на бік повстання фестралів, щоби писати про успіхи Місячного гарнізону. Після втихомирення регіону Імператриця Найтмер Мун рекомендувала безстрашного журналіста на керівну роль, уважаючи, що його поміркований підхід забезпечить тривалий мир на розтерзаному війною південному сході."
-  spiderbatking_desc:0 "Пишучи для численних газет, таких як Балтимейр Таймз, Еквестрія Дейлі, Мейнгеттен Трайбюнал і навіть Кантерлот Інкуаєр, Лайт Нерратив зробив собі ім'я в колах журналістів поні, публікуючи суперечливі, але засновані на фактах статті про фестралів. Незважаючи на його кращі наміри, його запальні статті означали, що він не залишився на роботі надовго.\n\nПісля чергового спаду після свого останнього звільнення, Лайт Нерратив вирушив на південний схід Еквестрії, щоби дослідити та написати репортаж про таємничі тубільні племена, які населяють його джунглі. Його дослідження було перервано громадянською війною, що жодним чином не завадило йому займатися видавничою діяльністю, і він став на бік повстання фестралів, щоби писати про успіхи Місячного гарнізону.\n\nОднак, стався найнесподіваніший сплеск подій. Місцеві бетпоні повстали проти іноземних екстремістів на службі у Найтмер Мун і проголосили власну незалежну державу. Після першого Великого Конклаву місяцемовних, Лайт Нерратив був обраний тлатоані — духовним лідером і натхненником поні."
+  spiderbatking_desc:0 "Пишучи для численних газет, таких як Балтимейр Таймз, Еквестрія Дейлі, Мейнгеттен Трайбюнал і навіть Кантерлот Інкуаєр, Лайт Нерратив зробив собі ім'я в колах журналістів поні, публікуючи суперечливі, але засновані на фактах статті про фестралів. Незважаючи на його кращі наміри, його запальні статті означали, що він не залишився на роботі надовго.\n\nПісля чергового спаду після свого останнього звільнення, Лайт Нерратив вирушив на південний схід Еквестрії, щоби дослідити та написати репортаж про таємничі тубільні племена, які населяють його джунглі. Його дослідження було перервано громадянською війною, що жодним чином не завадило йому займатися видавничою діяльністю, і він став на бік повстання фестралів, щоби писати про успіхи Місячного гарнізону.\n\nОднак, стався найнесподіваніший сплеск подій. Місцеві бетпоні повстали проти іноземних екстремістів на службі у Найтмер Мун і проголосили власну незалежну державу. Після першого Великого Конклаву місяцесловів, Лайт Нерратив був обраний тлатоані — духовним лідером і натхненником поні."
   bat_pelley_desc:0 "Письменник і окультист, Старрі Ґлорі був сумнозвісний своїми підбурювальними промовами проти мирного еквестрійського порядку. Звичайний поні був би набагато більш співчутливим до долі фестрала, якби не його екстремістська риторика. Ані заборона писати, ані короткий термін ув'язнення не зупинили Старрі Ґлорі, хоча його вплив зменшився, коли він зазнав остракізму.\n\nДоля змінилася через громадянську війну, яка дала йому платформу для пропаганди своєї теорії вищості фестралів. Жорстока війна в південно-східних джунглях переконала вище керівництво Місячної адміністрації, що для стримування аборигенів потрібні радикальні заходи, і Старрі Ґлорі обрали очолити нову націю. Він має намір перетворити її на рай для бетпоні, який він особисто називає «Вільною Фестральською імперією», хоча ця назва ще не знайшла визнання серед широких верств населення."
   unicorn_for_some_reason_desc:0 "До громадянської війни Старс Вірл була молодшим офіцером, а коли почалися бойові дії, перебувала в Солтмейні. Попри те, що сама вона не була фестралом, вона стала на бік Найтмер Мун і стала найздібнішим лідером на південному сході. Швидкі та рішучі дії Старс Вірл гарантують, що перемога буде досягнута за будь-яку ціну. Її драйв забезпечив лояльність підлеглих бетпоні та особисту прихильність Імператриці."
-  bat_conclave_desc:0 "Конклав складається з кожного Місяцемовного, що представляє окреме плем'я Цінакатль на південному сході Еквестрії. Місяцемовні — духовні лідери племені, відповідальні за тлумачення волі Місяця. Одноосібний місяцемовний може запропонувати рішення, за яке голосує Конклав, і лише ті пропозиції, які набрали кваліфіковану більшість голосів, уважаються схваленими."
+  bat_conclave_desc:0 "Конклав складається з кожного місяцеслова, що представляє окреме плем'я Цінакатль на південному сході Еквестрії. Місяцеслови — духовні лідери племені, відповідальні за тлумачення волі Місяця. Одноосібний місяцеслів може запропонувати рішення, за яке голосує Конклав, і лише ті пропозиції, які набрали кваліфіковану більшість голосів, уважаються схваленими."
 
 ### ФОКУСИ ###
  NMS_stranded:0 "Наодинці в темряві"
@@ -219,7 +221,7 @@
  NMS_governor_light:0 "Губернатор Лайт Нерратив"
  NMS_governor_light_desc:0 "Першим губернатором південного сходу був обраний місцевий телеведучий і газетний репортер Лайт Нерратив. Він обіцяє більш обережний підхід до нестабільного регіону, заснований на діалозі та фактах."
  NMS_a_lighter_touch:0 "Оксамитова рукавиця"
- NMS_a_lighter_touch_desc:0 "Щоб підтримувати певний порядок на наших землях, ми повинні діяти як оксамитова рукавичка, тонко спрямовуючи політику тубільців на більш дружнє ставлення до нашого режиму."
+ NMS_a_lighter_touch_desc:0 "Щоб підтримувати певний порядок на наших землях, ми повинні діяти як оксамитова рукавиця, тонко спрямовуючи політику тубільців на більш дружнє ставлення до нашого режиму."
  NMS_arrest_the_leaders:0 "Розібратися з баламутами"
  NMS_arrest_the_leaders_desc:0 "Хоча ми можемо скільки завгодно намагатися переконати маси в нашій добрій волі, завжди знайдуться ті, хто буде проти нас. Для них потрібна сильніша відповідь."
  NMS_open_dialouge:0 "Відкритий діалог із сусідом"
@@ -314,10 +316,10 @@
  NMS_gather_the_tribes_desc:0 "У регіоні є багато фестральних племен, кожне з яких має власний порядок денний, а також різні діалекти, звичаї та культуру. Об'єднати таку різноманітну групу було б марною справою, але ми віримо, що зможемо успішно переконати їх у тому, що спільна робота буде на нашу користь у боротьбі з чужинцями."
  NMS_convince_the_remnants:0 "Переконати лоялістів"
  NMS_convince_the_remnants_desc:0 "Деякі поні все ще чіпляються за свою фальшиву вірність, вважаючи Найтмер своєю рятівницею та захисницею. Але Найтмер показала себе дріб'язковою, мстивою і не надто турботливою до своїх підданих. Переконайте цих відщепенців, що фестрали джунглів — їхня справжня сім'я."
- NMS_gather_the_moonspeakers:0 "Зібрати Місяцемовних"
- NMS_gather_the_moonspeakers_desc:0 "Кожне плем'я фестралів має свого Місяцемовного, релігійного лідера, відповідального за духовні питання. Він представляє культуру і віру племені та приймає багато рішень на благо своєї громади. Усі вони повинні бути зібрані, щоб ми могли вирішити майбутнє нашого об'єднаного суспільства, а також обрати загального лідера."
+ NMS_gather_the_moonspeakers:0 "Зібрати місяцесловів"
+ NMS_gather_the_moonspeakers_desc:0 "Кожне плем'я фестралів має свого місяцеслова, релігійного лідера, відповідального за духовні питання. Він представляє культуру і віру племені та приймає багато рішень на благо своєї громади. Усі вони повинні бути зібрані, щоб ми могли вирішити майбутнє нашого об'єднаного суспільства, а також обрати загального лідера."
  NMS_the_big_bat_that_makes_all_the_rules:0 "Перший тлатоані"
- NMS_the_big_bat_that_makes_all_the_rules_desc:0 "Коли зберуться місяцемовні, великий конклав вирішить, хто стане тлатоані — царем усіх фестральських племен і тлумачем волі Місяця. Хоча ця посада є більш церемоніальною, ніж виконавчою, їхня присутність об'єднає націю та забезпечить стабільність."
+ NMS_the_big_bat_that_makes_all_the_rules_desc:0 "Коли зберуться місяцеслови, великий конклав вирішить, хто стане тлатоані — царем усіх фестральських племен і тлумачем волі Місяця. Хоча ця посада є більш церемоніальною, ніж виконавчою, їхня присутність об'єднає націю та забезпечить стабільність."
  NMS_talk_with_caballeron:0 "Добрий доктор"
  NMS_talk_with_caballeron_desc:0 "Археолог Кабальєрон залишається живим після війни, яка розірвала південний схід. Хоча не всі поні є його прихильниками, він популярний серед місцевих племен, особливо нейуа, за його зусилля у захисті їхнього способу життя. Безумовно, спільну мову можна знайти."
  NMS_bury_the_hatchet:0 "Заховати сокиру"
@@ -384,54 +386,75 @@
  NMS_motorized_f_desc:0 "Використовуючи всю гуму, що є в нашому розпорядженні, було б божевіллям думати, що ми не повинні спробувати розвинути моторизовані війська, щоб служити швидкою силою реагування для нашої піхоти. На відміну від танків, їх легше адаптувати до суворої місцевості на південному сході."
  NMS_military_rd:0 "Армійський науково-дослідний відділ"
  NMS_military_rd_desc:0 "Вдосконалюючи армію, часто можна натрапити на багато інших корисних відкриттів. Спеціальна дослідницька група для вдосконалення наших військових технологій та адаптації їх для цивільного використання була б ідеальною річчю."
- NMS_aztlan_navy:0 "Південно-східні ВМС"
- NMS_aztlan_navy_desc:0 "Військово-морський флот, дислокований на південному сході, зник у невідомому напрямку, залишивши нас без захисту на випадок морського вторгнення. Тож нам доведеться будувати новий флот з нуля."
- NMS_baltimare_port:0 "Верфі Балтимейра"
- NMS_baltimare_port_desc:0 "Пристані та доки Балтимейра зазнали значних пошкоджень під час громадянської війни. Програма відбудови має розпочатися з розширенням нашого військово-морського флоту."
- NMS_stableside_port:0 "Верфі Стейблсайда"
- NMS_stableside_port_desc:0 "Гавань Стейблсайда уникла руйнувань, і потребує лише кількох незначних покращень, щоб запустити нашу військово-морську програму. Крім того, доцільно мати кілька військово-морських баз, призначених для будівництва конкретних кораблів."
- NMS_destroyer_f:0 "Південна берегова охорона"
- NMS_destroyer_f_desc:0 "Берегова охорона буде одним із ключових факторів нашого нового військово-морського командування. Вона служитиме для захисту південних судноплавних шляхів, щоб підтримувати життєдіяльність каучукової та нафтової експортної економіки півдня."
- NMS_light_cruiser_f:0 "Посилена обшивка"
- NMS_light_cruiser_f_desc:0 "Постійно зростаюча кількість озброєння, що використовується на морі, вимагає розміщення все більш товстих броньових плит на наших кораблях. Для того, щоб ефективно зробити це без шкоди для мореплавних якостей корабля, кошти будуть спрямовані на розробку крейсерського варіанту."
- NMS_saltmane_port:0 "Верфі Солтмейна"
- NMS_saltmane_port_desc:0 "Доки в Солтмейні відкриті, але знаходяться на глибокій воді, що робить їх ідеальними для будівництва великих суден. Військово-морське виробництво більше не повинно боротися з нестачею потужностей."
- NMS_submarine_f:0 "Прихований флот"
- NMS_submarine_f_desc:0 "Підводні кораблі вже давно плавають навколо, але особливо з нашою порівняно слабкою промисловою базою нам варто замислитися над впровадженням цих конструкцій у наш флот. Вони будуть сіяти хаос на судноплавних шляхах наших ворогів."
- NMS_heavy_cruiser_f:0 "Легкі лінкори"
- NMS_heavy_cruiser_f_desc:0 "Важкі крейсери можуть слугувати переслідувальними кораблями, але при цьому не втрачають своєї потужності, ці кораблі можуть слугувати основою нашого флоту, оскільки вони економічно ефективні та добре працюють у різних ситуаціях."
- NMS_doctrianl_development:0 "Розвиток доктрини"
- NMS_doctrianl_development_desc:0 "У військових кабінетах адміралтейства складаються плани того, як буде вестися морська війна, і зрештою один з них має бути обраний, щоб ми не залишилися непідготовленими."
- NMS_battleship_f:0 "Військовий флот"
- NMS_battleship_f_desc:0 "Найсильніші та найбільші військові кораблі можуть будуватися роками, але їхня міць не має собі рівних, і наявність хоча б одного на наше ім'я може мати вирішальне значення у майбутніх війнах. Ми докладемо зусиль, щоб пристосувати старі важкі корпуси для розміщення руйнівних гармат і непробивної броні, які є в нашому розпорядженні."
- NMS_carrier_f:0 "Експерименти з авіаносцями"
- NMS_carrier_f_desc:0 "Ідея про те, що літак б'є корабель, існує з часів створення першого морського бомбардувальника, але ідея поставити літак на корабель, щоб побити корабель, все ще відносно нова. Ми повинні слідувати їй і працювати над розвитком авіаносців."
- NMS_new_admirality:0 "Південно-східне адміралтейство"
- NMS_new_admirality_desc:0 "Ми успішно спроєктували і побудували власними силами військово-морські сили, гідні конкурувати з невеликими державами світу. Все це потребує центральної ради адміралів, яка б контролювала і спрямовувала цей молодий флот до великих висот."
- NMS_aztlan_airforce:0 "Військово-повітряні сили Астлану"
- NMS_aztlan_airforce_desc:0 "Зважаючи на велику кількість каучуку та алюмінію на наших землях, ми повинні працювати над створенням військово-повітряних сил, які служитимуть нам у небі."
- NMS_import_fighters:0 "Імпорт винищувачів"
- NMS_import_fighters_desc:0 "Літаки показали свою цінність у боротьбі, що точилася по всій Еквестрії. Початком наших новостворених військово-повітряних сил має стати отримання гідного проєкту винищувача, а потім його виробництво та набір."
- NMS_light_aircraft:0 "Розробка винищувача"
- NMS_light_aircraft_desc:0 "Основою всіх військово-повітряних сил є винищувач, і тому ми повинні забезпечити, щоб наші винищувачі були найкращими. Це вимога до всіх інших авіаційних розробок."
- NMS_CAS_f:0 "Підтримка наших військ"
- NMS_CAS_f_desc:0 "Війна на землі все одно має бути виграна незалежно від того, як ведеться війна в небі, тому ми повинні розробляти літаки з єдиною метою — підтримувати наших поні на землі."
- NMS_import_bombers:0 "Створити бомбардувальник"
- NMS_import_bombers_desc:0 "Літаки-бомбардувальники можуть погано працювати в густих джунглях, де цілі важко помітити, але ми точно не маємо наміру бомбити самих себе. Натомість, такий літак стане в нагоді для захисту від будь-яких нападів, а також забезпечить базу для подальших розробок та вдосконалень."
- NMS_bomber_aircraft:0 "Тактичні бомбардувальники"
- NMS_bomber_aircraft_desc:0 "Тактичні бомбардувальники є потужними та універсальними, здатними виконувати різні завдання для наших ВПС. Вони варті інвестицій, і результати не змусять себе чекати."
- NMS_heavier_bombers:0 "Стратегічні бомбардувальники"
- NMS_heavier_bombers_desc:0 "Стратегічні бомбардувальники можуть бути використані для руйнування промисловості та інфраструктури противника, а також для паралічу його армії, не націлюючись безпосередньо на неї."
- NMS_build_the_airstrips:0 "Побудувати злітні смуги"
- NMS_build_the_airstrips_desc:0 "Щоб розмістити наші військово-повітряні сили, нам доведеться розширити існуючі авіабази, але ми більше не будемо запускати літаки з верхівок дерев або печер."
- NMS_train_the_pilots:0 "Тренувати пілотів"
- NMS_train_the_pilots_desc:0 "Або ж пілоти мають бути навчені керувати виготовленими нами літальними апаратами, інакше ми не матимемо в небі літаючих мішеней. Керувати літаком набагато складніше, ніж здається."
- NMS_heavier_fighters:0 "Проєкти важких винищувачів"
- NMS_heavier_fighters_desc:0 "Важкі винищувачі можуть слугувати як наземні бойові літаки, як літаки класу «повітря-повітря», або як ескорт для наших бомбардувальників. Такий корисний літак, безумовно, заслуговує на нашу зацікавленість."
- NMS_night_fliers:0 "Нічні ескадрильї"
- NMS_night_fliers_desc:0 "На відміну від багатьох поні, що населяють землю Еквестрії, страли ведуть нічний спосіб життя і мають загострене відчуття напрямку при яскравому Місяці. Було б розумно використати цю природну перевагу в інтересах збереження національної переваги і навчити наших пілотів діяти в нічних умовах."
- NMS_expert_fliers:0 "Володарі неба"
- NMS_expert_fliers_desc:0 "Зі скромних початків фестрали південного сходу розвинули поважні військово-повітряні сили з рішучими пілотами, які йдуть до останнього. Всі повинні боятися вигляду літака кажана поні, як свого ворога."
+ NMS_navy_1_1: "$JUN_navy_1_1$"
+ NMS_navy_1_1_desc: "$JUN_navy_1_1_desc$"
+ NMS_navy_2_1: "$JUN_navy_2_1$"
+ NMS_navy_2_1_desc: "$JUN_navy_2_1_desc$"
+ NMS_navy_2_2: "$JUN_navy_2_2$"
+ NMS_navy_2_2_desc: "$JUN_navy_2_2_desc$"
+ NMS_navy_3_1: "$JUN_navy_3_1$"
+ NMS_navy_3_1_desc: "$JUN_navy_3_1_desc$"
+ NMS_navy_3_2:0 "Invest into the Mareidian Dockyards" # (!)
+ NMS_navy_3_2_desc:0 "Baltimare and Stableside's position on our periphery is hurting our strategic capabilities. Meanwhile, the coastal settlement of Mareidian is critically underdeveloped. By investing there, we can bridge our northern and southwestern fleets and give the region's only majority-batpony settlement the infrastructure it deserves." # (!)
+ NMS_navy_3_3: "$JUN_navy_3_3$"
+ NMS_navy_3_3_desc: "$JUN_navy_3_3_desc$"
+ NMS_navy_4_1: "$JUN_navy_4_1$"
+ NMS_navy_4_1_desc: "$JUN_navy_4_1_desc$"
+ NMS_navy_4_2: "$JUN_navy_4_2$"
+ NMS_navy_4_2_desc: "$JUN_navy_4_2_desc$"
+ NMS_navy_5_1: "$JUN_navy_5_1$"
+ NMS_navy_5_1_desc: "$JUN_navy_5_1_desc$"
+ NMS_navy_5_2: "$JUN_navy_5_2$"
+ NMS_navy_5_2_desc: "$JUN_navy_5_2_desc$"
+ NMS_navy_5_3: "$JUN_navy_5_3$"
+ NMS_navy_5_3_desc: "$JUN_navy_5_3_desc$"
+ NMS_navy_6_1: "$JUN_navy_6_1$"
+ NMS_navy_6_1_desc: "$JUN_navy_6_1_desc$"
+ NMS_navy_6_2: "$JUN_navy_6_2$"
+ NMS_navy_6_2_desc: "$JUN_navy_6_2_desc$"
+
+ NMS_air_force_new: "[Root.GetAdjectiveCap]ий авіакорпус"
+ NMS_air_force_new_desc:0 "To truly secure our skies, we must build the force to dispute them. The birth of an air force is no small feat, but with the right investment and planning, it will be done. The first wings of the [Root.GetAdjective] Air Corps will soon take flight." # (!)
+ NMS_import_fighters: "$JUN_import_fighters$"
+ NMS_import_fighters_desc:0 "[Root.Getname] as it stands doesn't have much in terms of planes in its airfields. If it is to dominate its own sky, it shall not be done repurposed civilian planes and repaired downed planes. With the Shadowbolts offering to sell us planes, our airforce shall acquire some fighters for an honest price." # (!)
+ NMS_import_bombers: "$JUN_import_bombers$"
+ NMS_import_bombers_desc:0 "Stopping enemy bombers is vital, but we cannot leave our own offensive potential untapped – it is time we held the power to strike back." # (!)
+ NMS_fighter_doctrine: "$JUN_fighter_doctrine$"
+ NMS_fighter_doctrine_desc:0 "What is the importance of an airforce? To keep the skies clear and your people safe! Fighter doctrine is the backbone of this mission. We will train our pilots to the highest standard, ensuring no enemy plane darkens [Root.Getname]'s skies unchallenged." # (!)
+ NMS_build_the_airstrips: "$JUN_build_the_airstrips$"
+ NMS_build_the_airstrips_desc: "$JUN_build_the_airstrips_desc$"
+ NMS_steal_the_spitfire: "$JUN_steal_the_spitfire$"
+ NMS_steal_the_spitfire_desc:0 "The Spitfire is an Equestrian advanced fighter design that could very well be implement over here. Due to the chaos of the recent conflicts, a few engineers and designers ended up integrating themselves to our nation. With some convincing and incentives, we can get them to share their knowledge with us." # (!)
+ NMS_better_guns: "$JUN_better_guns$"
+ NMS_better_guns_desc:0 "While the airforce is mostly focused on securing [Root.Getname]'s airspace, it does not mean it should not support our ground troops. Developing weapon systems for our fighters will make them versatile, allowing them to clear the skies and then dive to shatter enemy formations."
+ NMS_fighters_again: "$JUN_fighters_again$"
+ NMS_fighters_again_desc: "$JUN_fighters_again_desc$"
+ NMS_fighter_doctrine_2: "$JUN_fighter_doctrine_2$"
+ NMS_fighter_doctrine_2_desc:0 "Doctrines for fighters have evolved much since Hippogriffia's victory over the Storm King. New tactics and strategies have emerged that allow fighters to be more effective in their roles. We must ensure our pilots are trained in these new doctrines to keep [Root.Getname]'s skies safe."
+ NMS_fighter_capstone:0 "The Shadowbolts Southeast Squadron"
+ NMS_fighter_capstone_desc:0 "During the failed uprising against the rotten tyranny of the Sun over a thousand years ago, the Shadowbolts stood as an elite group of finest pegasi and thestrals to grace the night sky. Today, the squadrons of the Southeast can be proud to move with the same finesse and determination that once led those brave creatures to stand for the moon."
+ NMS_bomber_doctrine: "$JUN_bomber_doctrine$"
+ NMS_bomber_doctrine_desc:0 "What is the importance of an airforce? To serve as a deterrent to ensure your enemies fear facing you! Our enemies will soon discover that no pain inflicted upon the Southeast shall go unanswered. Fire will rain upon those who dare threaten us."
+ NMS_long_range_bombers: "$JUN_long_range_bombers$"
+ NMS_long_range_bombers_desc: "$JUN_long_range_bombers_desc$"
+ NMS_heavy_fighters: "$JUN_heavy_fighters$"
+ NMS_heavy_fighters_desc: "$JUN_heavy_fighters_desc$"
+ NMS_naval_fighters: "$JUN_naval_fighters$"
+ NMS_naval_fighters_desc: "$JUN_naval_fighters_desc$"
+ NMS_air_coast_guard: "$JUN_air_coast_guard$"
+ NMS_air_coast_guard_desc: "$JUN_air_coast_guard_desc$"
+ NMS_CAS_bombers:0 "Close Air Support Projects"
+ NMS_CAS_bombers_desc: "$JUN_CAS_bombers_desc$"
+ NMS_bombing_raids: "$JUN_bombing_raids$"
+ NMS_bombing_raids_desc:0 "A bomber's sole reason for existing is simply to deliver devastation. By developing larger and more effective payloads, we ensure that every sortie inflicts maximum damage on the enemy's will and capacity to fight."
+ NMS_bombing_capstone:0 "Bringers of the Night"
+ NMS_bombing_capstone_desc:0 "Ancient Tenanyotl myths tell of the importance of sacrifices to keep the Moon peaceful to lower itself every morning. Today, those sacrifices are delivered by our bombers, deep behind enemy lines. The folly of facing us shall be recompensed in fire."
+ NMS_baltimare_foundary: "$JUN_baltimare_foundary$"
+ NMS_baltimare_foundary_desc: "$JUN_baltimare_foundary_desc$"
+ NMS_night_fliers: "$JUN_night_fliers$"
+ NMS_night_fliers_desc:0 "Night flying is a risky endeavor, but the native Tenanyotl navigate the darkness with innate ease. We will integrate their skills to master night operations, turning the cover of darkness into our ally."
+ NMS_nukes:0 "Littlehoof Island Research Site"
+ NMS_nukes_desc:0 "Some of the best minds in the Southeast have devised of a weapon that could surpsass all other weapons. A singular bomb, delivered by plane into the heart of our enemies. The devastation would be untold, but no price is too high to secure our safety."
 
 ### ПОДІЇ ###
  supporters.1.t:0 "Дивний маленький кажан"
@@ -461,7 +484,7 @@
  supporters.5.a:0 "І-і-і-і!"
 
  supporters.6.t:0 "Ворога вражено!"
- supporters.6.d:0 "Ми отримали численні повідомлення про те, що ворожі солдати тікають із Селестійської держави, щоб приєднатися до нас у боротьбі за справжнього правителя Еквестрії."
+ supporters.6.d:0 "Ми отримали численні повідомлення про те, що ворожі солдати тікають із Селестійського спротиву, щоб приєднатися до нас у боротьбі за справжнього правителя Еквестрії."
  supporters.6.a:0 "Справа зміцнюється."
 
  supporters.7.t:0 "Західний Юкольтан не має армії"
@@ -496,7 +519,7 @@
  supporters.13.b:0 "Лайт Нерратив стає новим губернатором."
 
  supporters.14.t:0 "Кінець циклу"
- supporters.14.d:0 "У міру того, як місцеві сили збираються навколо Теночтітлана, стає трохи зрозуміліше, хто їх постачає і закидає яйцями. Серед натовпу були помічені старі друзі підлого Кабальєрона, які роздавали гроші та зброю вождям тубільців. Добрий доктор втік, коли ми захопили його державу, і тепер він намагається підняти ще одне повстання.\n\nАле тепер все буде інакше, ніж тоді, коли ми взяли його вперше. Поки що наш вождь не боїться тримати удар.\n\nКоли тубільці, здавалося, були готові штурмувати місто з боку невеликого гарнізону, що все ще утримував стіни, з натовпу полетіли заряди. Це були лише світлошумові гранати, але їх було достатньо, щоб налякати і шокувати. Це порушило згуртованість раніше організованого натовпу і спричинило його розкол. Одні побігли вперед, готові взяти стіни, інші розбіглися назад до лісу. Але незабаром деякі з тубільців вдарилися об стіни. Старрі віддав наказ. «Цього було достатньо, — скаже він наступного дня на прес-конференції, — щоби віддати наказ фестральним підрозділам, зручно схованим у чагарниках лісу, вилетіти і обрушити на натовп град вогню, кількість загиблих ще не була оприлюднена». Полки стріляли лише один раз, але хаосу було достатньо, і тубільці розбіглися на всі боки. А в хаосі вони також могли б зручно не знайти своїх благодійників, в тому числі і самого вельмишановного Доктора. Якого розстріляли б одразу після прес-брифінґу."
+ supporters.14.d:0 "У міру того, як місцеві сили збираються навколо Теночтітлана, стає трохи зрозуміліше, хто їх постачає і закидає яйцями. Серед натовпу були помічені старі друзі підлого Кабальєрона, які роздавали гроші та зброю вождям тубільців. Добрий доктор втік, коли ми захопили його державу, і тепер він намагається підняти ще одне повстання.\n\nАле тепер все буде інакше, ніж тоді, коли ми взяли його вперше. Поки що наш вождь не боїться тримати удар.\n\nКоли тубільці, здавалося, були готові штурмувати місто з боку невеликого гарнізону, що все ще утримував стіни, з натовпу полетіли заряди. Це були лише світлошумові гранати, але їх було достатньо, щоб налякати і шокувати. Це порушило згуртованість раніше організованого натовпу і спричинило його розкол. Одні побігли вперед, готові взяти стіни, інші розбіглися назад до лісу. Але незабаром деякі з тубільців вдарилися об стіни. Старрі віддав наказ. «Цього було достатньо, — скаже він наступного дня на прес-конференції, — щоби віддати наказ фестральним підрозділам, зручно схованим у чагарниках лісу, вилетіти і обрушити на натовп град вогню, кількість загиблих ще не була обнародувана». Полки стріляли лише один раз, але хаосу було достатньо, і тубільці розбіглися на всі боки. А в хаосі вони також могли б зручно не знайти своїх благодійників, в тому числі і самого вельмишановного Доктора. Якого розстріляли б одразу після прес-брифінґу."
  supporters.14.a:0 "Тримай!"
 
  supporters.15.t:0 "Нарешті помста"
@@ -527,7 +550,7 @@
  supporters.21.d:0 "З метою забезпечення верховенства права в нашій державі, а також для того, щоб бунтівні елементи всередині нашої держави були під контролем, оголошується воєнний стан на невизначений термін. Це, безумовно, дозволить громадянам відчувати себе безпечніше, коли вони сплять вночі, знаючи, що покаранням за кожен злочин є куля в голову. А тепер ми можемо підправити закон, щоб набагато більше дій вважалися злочином."
  supporters.21.a:0 "Порядок має бути збережений."
 
- supporters.22.t:0 "Місячний військовий кордон"
+ supporters.22.t:0 "Місячна військова адміністрація"
  supporters.22.d:0 "Вулиці Балтимейру були заставлені військами і військовими машинами, коли парад солдатів почав рухатися до нещодавно відремонтованої ратуші міста, яка була перероблена частково на форт, частково на зал засідань уряду, щоб служити місцем, звідки править генерал Старс Вірл.\n\nСолдати були одягнені в яскраву форму особистої гвардії імператриці та елітних спецназівців Нічної Варти. Усе для того, щоб показати, що це слуги держави, а не задушливі бюрократи чи нудні юристи. Що ці жеребці та кобили слугуватимуть новою силою порядку на південному сході.\n\nДень завершився урочистою промовою Великого Маршала нації, який задекларував безмежну вірність Імператриці Ночі, і що її вірні військові завжди керуватимуть цими землями, щоб захистити від «тих соляристів та диверсантів, які посміють загрожувати її справедливому правлінню».\n\nЦе закінчилося бурхливими оплесками кожного фестрала в натовпі і навіть багатьох не-кажанів, але ті, хто ще пам'ятав комуну Балтимейру, продовжували думати про те, що могло б бути..."
  supporters.22.a:0 "Хвала Місяцю!"
 
@@ -545,19 +568,19 @@
  supporters.25.a:0 "Зрадники всюди!"
 
  supporters.26.t:0 "Збори Тенаньйотля"
- supporters.26.d:0 "Лайт Нерратив був зайнятий після того, як підтримав переворот Конклаву Місяцемовних фракції Південного Сходу, очолюваної Найтмер. Не будучи палким прихильником жодної з королівських сестер, які, вочевидь, збожеволіли, іноді спілкування з місцевими племенами змушувало Нерратива зупинитися і замислитися над тим, чи правильний курс він обрав на південному сході. Втім, Місяцемовні та їхні дивні релігії були приємною альтернативою Найтмер Мун, який говорив про вірність нічним поні, але залюбки вбив би всю Еквестрію, щоб правити ними. Він також не міг підтримувати Селестію та її фракцію поні, зважаючи на антифестральну риторику, що лунала з її боку. Тож він був тут, допомагаючи місяцемовним згуртувати всі вільні й розсіяні племена фестралів — так званих Тенаньйотлів — так вони називали фестралів, як він припускав. Більшість цих зустрічей проходили однаково. Загін Нерратива супроводжував місяцемовного або пару місяцемовних через джунглі, щоб убезпечити їх від залишків племен неіуа, які воювали з його народом. Місцеве плем'я займало оборону і насторожено ставилося до краще вбраних «чужинців», якими часто вважали своїх поні тенаньотль. Місяцемовні давали про себе знати, і тоді починалася серйозна розмова. Він не знав, чому саме його завжди брали з собою на ці зустрічі, але будь-яка відповідь на його запитання до мудрих старих місяцемовних часто була риторичною або перекрученою. Наразі, однак, Нерратив зосередився на своїй роботі. Ще один день, ще одна група брата і сестри фестралів, яких треба повернути додому."
+ supporters.26.d:0 "Лайт Нерратив був зайнятий після того, як підтримав переворот Конклаву місяцесловів фракції Південного Сходу, очолюваної Найтмер. Не будучи палким прихильником жодної з королівських сестер, які, вочевидь, збожеволіли, іноді спілкування з місцевими племенами змушувало Нерратива зупинитися і замислитися над тим, чи правильний курс він обрав на південному сході. Втім, місяцеслови та їхні дивні релігії були приємною альтернативою Найтмер Мун, який говорив про вірність нічним поні, але залюбки вбив би всю Еквестрію, щоб правити ними. Він також не міг підтримувати Селестію та її фракцію поні, зважаючи на антифестральну риторику, що лунала з її боку. Тож він був тут, допомагаючи місяцесловам згуртувати всі вільні й розсіяні племена фестралів — так званих Тенаньйотлів — так вони називали фестралів, як він припускав. Більшість цих зустрічей проходили однаково. Загін Нерратива супроводжував місяцеслова або пару місяцесловів через джунглі, щоб убезпечити їх від залишків племен неіуа, які воювали з його народом. Місцеве плем'я займало оборону і насторожено ставилося до краще вбраних «чужинців», якими часто вважали своїх поні тенаньотль. Місяцеслови давали про себе знати, і тоді починалася серйозна розмова. Він не знав, чому саме його завжди брали з собою на ці зустрічі, але будь-яка відповідь на його запитання до мудрих старих місяцесловів часто була риторичною або перекрученою. Наразі, однак, Нерратив зосередився на своїй роботі. Ще один день, ще одна група брата і сестри фестралів, яких треба повернути додому."
  supporters.26.a:0 "І-і-і-і!"
 
  supporters.27.t:0 "Брати по зброї"
- supporters.27.d:0 "Силвер Мун часто думав про те, що чекає на нього, коли він повернеться додому, у південно-східні джунглі. Більшу частину свого дорослого життя він служив Нічній Кобилиці, вважаючи, що спочатку принцеса Луна, а потім і сама Найтмер були господинями Місяця. Однак останні події змусили його... переглянути... свою позицію. Тривала громадянська війна за північну та центральну Еквестрію не має кінця-краю, тож, можливо, настав час повернутися до свого коріння. Особливо після того, як він почув від начальства, що Південний Схід, який успішно вигнав Сонячну загрозу та комуністів Балтимейру, а також, за деякими даними, величезну банду найманців або щось не менш безглузде, може, і справді повернеться до життя. Можливо, Луна не мав або навіть ніколи не мав прихильності Місяця. Звісно, якщо його побратими Тенаньйотль на південному сході мали успіх у війні з Сонцем, то й Найтмер мала б бути успішною. Але цього не сталося. Втім, він задовольнився б тим, що залишився б на півночі, допомагаючи своїм побратимам-фестралам, якби не зустріч із фестралом Лайт Нерративом. Нерратив, який користувався прихильністю Місяцемовних, нібито привів із собою пару таких шанованих старійшин, як Цінакатль, а між ними трьома — цілу компанію південно-східних жителів. Їхня мета і причина переходу з джунглів на землі Місячної Імперії в Мейруеї була проста — вони хотіли відвернути своїх побратимів-фестралів від Найтмеру і переконати їх приєднатися до новоствореної країни Цінакатлії — країни для фестралів, для Тенаньйотль, а не для хибної політики чи жорстоких і гордовитих правителів. Силвер Мун, що вже сумував за домівкою, не важко було вмовити. І з його допомогою, і з допомогою інших таких же схиблених північних фестралів, як і його близький друг Найт Дешер, і решта контингенту Мейруея — а згодом і підрозділу, призначеного до Сайрс-Голлоу. Колишні лоялісти, приваблені на північ обіцянками фальшивої богині, що прошепотіла їм на вухо, поверталися додому."
+ supporters.27.d:0 "Силвер Мун часто думав про те, що чекає на нього, коли він повернеться додому, у південно-східні джунглі. Більшу частину свого дорослого життя він служив Нічній Кобилиці, вважаючи, що спочатку принцеса Луна, а потім і сама Найтмер були господинями Місяця. Однак останні події змусили його... переглянути... свою позицію. Тривала громадянська війна за північну та центральну Еквестрію не має кінця-краю, тож, можливо, настав час повернутися до свого коріння. Особливо після того, як він почув від начальства, що Південний Схід, який успішно вигнав Сонячну загрозу та комуністів Балтимейру, а також, за деякими даними, величезну банду найманців або щось не менш безглузде, може, і справді повернеться до життя. Можливо, Луна не мав або навіть ніколи не мав прихильності Місяця. Звісно, якщо його побратими Тенаньйотль на південному сході мали успіх у війні з Сонцем, то й Найтмер мала б бути успішною. Але цього не сталося. Втім, він задовольнився б тим, що залишився б на півночі, допомагаючи своїм побратимам-фестралам, якби не зустріч із фестралом Лайт Нерративом. Нерратив, який користувався прихильністю місяцесловів, нібито привів із собою пару таких шанованих старійшин, як Цінакатль, а між ними трьома — цілу компанію південно-східних жителів. Їхня мета і причина переходу з джунглів на землі Місячної Імперії в Мейруеї була проста — вони хотіли відвернути своїх побратимів-фестралів від Найтмеру і переконати їх приєднатися до новоствореної країни Цінакатлії — країни для фестралів, для Тенаньйотль, а не для хибної політики чи жорстоких і гордовитих правителів. Силвер Мун, що вже сумував за домівкою, не важко було вмовити. І з його допомогою, і з допомогою інших таких же схиблених північних фестралів, як і його близький друг Найт Дешер, і решта контингенту Мейруея — а згодом і підрозділу, призначеного до Сайрс-Голлоу. Колишні лоялісти, приваблені на північ обіцянками фальшивої богині, що прошепотіла їм на вухо, поверталися додому."
  supporters.27.a:0 "І так повертаються блудні кажани."
 
- supporters.28.t:0 "Місяцемовні збираються"
- supporters.28.d:0 "Тихий шепіт сповнив невелику галявину в джунглях південніше Балтимейру. Колись це шановане місце було відоме племенам Місяцемовних як Місячне озеро, а тепер чужоземні поні називають його Даскуей. Місяцемовні озиралися на галявину, бо їх прибувало з-за кордону все більше і більше. Члени конклаву, що захопили владу на Південному Сході, понад тиждень тому розіслали Нічних Бігунів джунглями до численних південних племен Цінакатля, вимагаючи, щоб їхні Місяцемовні нарешті залишили свої прабатьківські домівки для розплати, якої не відбувалося протягом багатьох поколінь Місяцемовних. Сьогодні ввечері галявина була повна: племена знову зустрічалися, обговорювали, обмінювалися словами. На південному сході наближався новий час. Час війни, але водночас і миру. Час конфліктів, але зростання. Час смерті, але й життя. Конклав Місяцемовних повинен був повністю взяти владу у свої копита, і почати вести свої народи в сучасний світ, за прикладом Місяцемовних далекого минулого. Але спочатку, перш ніж це стане можливим, Конклав повинен прийти до консенсусу. Вони повинні визначити шлях свого народу в світі і вирішити, як їм рухатися далі в майбутньому, тепер, коли вони знову панують в Джунглях."
+ supporters.28.t:0 "Місяцеслови збираються"
+ supporters.28.d:0 "Тихий шепіт сповнив невелику галявину в джунглях південніше Балтимейру. Колись це шановане місце було відоме племенам місяцесловів як Місячне озеро, а тепер чужоземні поні називають його Даскуей. Місяцеслови озиралися на галявину, бо їх прибувало з-за кордону все більше і більше. Члени конклаву, що захопили владу на Південному Сході, понад тиждень тому розіслали Нічних Бігунів джунглями до численних південних племен Цінакатля, вимагаючи, щоб їхні місяцеслови нарешті залишили свої прабатьківські домівки для розплати, якої не відбувалося протягом багатьох поколінь місяцесловів. Сьогодні ввечері галявина була повна: племена знову зустрічалися, обговорювали, обмінювалися словами. На південному сході наближався новий час. Час війни, але водночас і миру. Час конфліктів, але зростання. Час смерті, але й життя. Конклав місяцесловів повинен був повністю взяти владу у свої копита, і почати вести свої народи в сучасний світ, за прикладом місяцесловів далекого минулого. Але спочатку, перш ніж це стане можливим, Конклав повинен прийти до консенсусу. Вони повинні визначити шлях свого народу в світі і вирішити, як їм рухатися далі в майбутньому, тепер, коли вони знову панують в Джунглях."
  supporters.28.a:0 "Яким буде їхній вердикт?"
 
  supporters.29.t:0 "Тлатоані"
- supporters.29.d:0 "Лайт Нерратив моргнув, коли жеребець середнього віку розгублено подивився на Місяцемовних. «Чого ви від мене хочете?» — запитав він, знову запізніло нагадавши собі, що за мить до цього вже запитував те саме. Жеребець похитав головою і злегка насупився, поки Конклав терпляче чекав, поки він збереться з думками. Він ледь не зібрався, але змусив себе заспокоїтися і оглянути ситуацію спокійним поглядом. «Ви хочете, щоби я був вашим... тлатоані; вашим королем, по суті?» — твердо запитав він. Конклав обмінявся поглядами і перешіптувався рідною мовою тенаньйотль, перш ніж через кілька секунд звернутися до нього. Один поні вийшла вперед.\n\nЛітій поні, яку місяцемовні називали Софт Спікером, кивнула і висловила волю Конклаву. «Місяць заговорив, і ми, Місяцемовні, передаємо її волю по-своєму. Ти був обраний, так, щоб вести Цінакатлію в сучасність. Не бійся, Улюблений Місячний Жеребець, Конклав підтримає тебе, і, правду кажучи, тобі не доведеться вести так, як це роблять фальшиві богині Півночі. Ти будеш першим серед голосів, а не єдиним, і, роблячи це, ти справді будеш захиснком свого народу, а не його володарем»."
+ supporters.29.d:0 "Лайт Нерратив моргнув, коли жеребець середнього віку розгублено подивився на місяцесловів. «Чого ви від мене хочете?» — запитав він, знову запізніло нагадавши собі, що за мить до цього вже запитував те саме. Жеребець похитав головою і злегка насупився, поки Конклав терпляче чекав, поки він збереться з думками. Він ледь не зібрався, але змусив себе заспокоїтися і оглянути ситуацію спокійним поглядом. «Ви хочете, щоби я був вашим... тлатоані; вашим королем, по суті?» — твердо запитав він. Конклав обмінявся поглядами і перешіптувався рідною мовою тенаньйотль, перш ніж через кілька секунд звернутися до нього. Один поні вийшла вперед.\n\nЛітній поні, яку місяцеслови називали Софт Спікером, кивнула і висловила волю Конклаву. «Місяць заговорив, і ми, місяцеслови, передаємо її волю по-своєму. Ти був обраний, так, щоб вести Цінакатлію в сучасність. Не бійся, Улюблений Місячний Жеребець, Конклав підтримає тебе, і, правду кажучи, тобі не доведеться вести так, як це роблять фальшиві богині Півночі. Ти будеш першим серед голосів, а не єдиним, і, роблячи це, ти справді будеш захиснком свого народу, а не його володарем»."
  supporters.29.a:0 "Місяць нарешті має справжнього представника своєї волі!"
 
  supporters.30.t:0 "Добрий доктор"
@@ -569,7 +592,7 @@
  supporters.31.a:0 "Здається, він дуже любив кукурудзу."
 
  supporters.32.t:0 "Новий курс"
- supporters.32.d:0 "Смирення — одна з найскладніших речей, якої можна навчитися. Зійти з великого п'єдесталу, на якому ти себе поставив, і опуститися нижче, щоб стояти серед інших, здається принизливим, і все ж це той курс, який ми повинні прокласти.\n\nКонклав Місяцемовних висловився, постановивши, що більше не будуть розглядатися як менш привілейовані жителі цих земель. Місяць світить нам усім однаково, і всі, хто живе на цих землях, наділені його благословенням. Можливо, ми вважали себе чистими, але ми кинули виклик Місяцю, штовхнувши деяких з її дітей у бруд, щоб відчути себе краще. Але цього більше не буде, бо в цих землях усі рівні під Місяцем."
+ supporters.32.d:0 "Смирення — одна з найскладніших речей, якої можна навчитися. Зійти з великого п'єдесталу, на якому ти себе поставив, і опуститися нижче, щоб стояти серед інших, здається принизливим, і все ж це той курс, який ми повинні прокласти.\n\nКонклав місяцесловів висловився, постановивши, що більше не будуть розглядатися як менш привілейовані жителі цих земель. Місяць світить нам усім однаково, і всі, хто живе на цих землях, наділені його благословенням. Можливо, ми вважали себе чистими, але ми кинули виклик Місяцю, штовхнувши деяких з її дітей у бруд, щоб відчути себе краще. Але цього більше не буде, бо в цих землях усі рівні під Місяцем."
  supporters.32.a:0 "Майте трохи віри!"
 
  supporters.33.t:0 "Ведмедиця"
@@ -580,7 +603,7 @@
  NMS_bat_divisions_tp:0 "З'являться §Yтри§! дивізії §YНічної варти§!.\n\n"
  NMS_governor_glory_tp:0 "§RСтаррі Ґлорі було вибрано як нового правителя.§!\n\n"
  NMS_governor_light_tp:0 "§YЛайт Нерратива було вибрано як нового правителя.§!\n\n"
- NMS_military_government_tp:0 "§GБуде створено Місячний військовий фронтир.§!\n\n"
+ NMS_military_government_tp:0 "§GМісячну військову адміністрацію збережено.§!\n\n"
  NMS_economic_stuff_1_tp:0 "§GНаша економіка базуватиметься в першу чергу на експлуатації джунглів.§!\n\n"
  NMS_economic_stuff_2_tp:0 "§GНаша економіка в основному базуватиметься на промислових центрах Балтимейру та Стейблсайд.§!\n\n"
  NMS_guerilla_warfare_tp:0 "Увімкнути тактику §YПартизанська війна§!.\n\n"
@@ -594,7 +617,7 @@
  NMS_lunar_puppet:0 "Південний Схід отримав автономію"
 
 ### ПАРТІЇ ###
- NMS_neutrality_party:0 "Тубільний Опір"
+ NMS_neutrality_party:0 "Тубільний опір"
  NMS_communism_party:0 "Міські соціалісти"
  NMS_democratic_party:0 "Селестійські лоялісти"
  NMS_fascism_party:0 "Місячні лоялісти"
@@ -612,7 +635,7 @@
  NMS_communism_p_party:0 "ПСВФ"
  NMS_communism_p_party_long:0 "Південно-Східний визвольний фронт"
  NMS_neutrality_2p_party:0 "ВКМ"
- NMS_neutrality_2p_party_long:0 "Великий Конклав Місяцемонвих"
+ NMS_neutrality_2p_party_long:0 "Великий Конклав місяцесловів"
 
  NMS_neutrality_p3_party:0 "ААП"
  NMS_neutrality_p3_party_long:0 "Астланська автономістська партія"
@@ -633,9 +656,9 @@
  NMS_civilian_government_communism_DEF: "Південно-східна місячна соціалістична республіка"
  NMS_civilian_government_communism_ADJ: "Південно-східн"
 
- NMS_army_government_t_fascism: "Місячний військовий фронтир"
- NMS_army_government_t_fascism_DEF: "Місячний військовий фронтир"
- NMS_army_government_t_fascism_ADJ: "Місячно-фронтирськ"
+ NMS_army_government_t_fascism: "Місячна військова адміністрація"
+ NMS_army_government_t_fascism_DEF: "Місячна військова адміністрація"
+ NMS_army_government_t_fascism_ADJ: "Місячн" # Місячн. військов.
  NMS_army_government_t_democratic: "Місячні південно-східні держави"
  NMS_army_government_t_democratic_DEF: "Місячні південно-східні держави"
  NMS_army_government_t_democratic_ADJ: "Південно-східн"

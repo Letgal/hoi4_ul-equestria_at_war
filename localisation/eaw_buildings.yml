@@ -12,10 +12,10 @@
  magical_quarry_desc: "Ця споруда множить число ресурсів в області, де її збудовано, на §Gx 1.25§!."
 
  modern_nuclear_reactor: "$nuclear_reactor$ II покоління"
- modern_nuclear_reactor_desc:0 "This advanced building provides the state with enriched crystal-uranium for nuclear weapons.\n\nEach Nuclear Reactor consumes §R16§! £resources_strip|7 \n$reactor_resource_shortage$"
+ modern_nuclear_reactor_desc:0 "This advanced building provides the state with enriched crystal-uranium for nuclear weapons.\n\nEach Nuclear Reactor consumes §R16§! £resources_strip|8 \n$reactor_resource_shortage$"
 
  modern_commercial_nuclear_reactor: "$commercial_nuclear_reactor$ II покоління"
- modern_commercial_nuclear_reactor_desc:0 "This advanced building provides the state with enriched crystal-uranium for nuclear weapons and produces electricity for the civilian economy.\n\nEach Nuclear Reactor consumes §R18§! £resources_strip|7 \n$reactor_resource_shortage$"
+ modern_commercial_nuclear_reactor_desc:0 "This advanced building provides the state with enriched crystal-uranium for nuclear weapons and produces electricity for the civilian economy.\n\nEach Nuclear Reactor consumes §R18§! £resources_strip|8 \n$reactor_resource_shortage$"
 
  hardened_missile_silo:0 "Hardened Missile Silo" # (!)
  hardened_missile_silo_desc:0 "Hardened missile positions are not vulnerable to conventional weapons and enemy strategic bombing. They protect our missile forces and allows then to retaliate even against an enemy that manages to attack our launch sites." # (!)
@@ -102,7 +102,7 @@
 
  landmark_home_of_griffons: "Грифонстоун"
  landmark_home_of_griffons_plural: "$landmark_home_of_griffons$"
- landmark_home_of_griffons_desc:0 "Built atop a gargantuan dead tree on the slopes of a mountain, Griffonstone is the first city founded by griffonkind and was the home of Emperor Grover I, who united all griffons under his banner. Since the Imperial Capital and the Grand Temple of Arcturius were moved to Griffenheim, the holy Idol of Boreas was kept in the city and guarded by a cadet dynasty, until King Guto lost it in 971."
+ landmark_home_of_griffons_desc:0 "Built atop a gargantuan dead tree on the slopes of a mountain, Griffonstone is the first city founded by griffonkind and was the home of Emperor Grover I, who united all griffons under his banner. Since the Imperial Capital and the Archonate of Boreas were moved to Griffenheim, the holy Idol of Boreas was kept in the city and guarded by a cadet dynasty, until King Guto lost it in 971."
 
  landmark_grand_temple_arcturius: "Великий храм Арктурія"
  landmark_grand_temple_arcturius_plural: "$landmark_grand_temple_arcturius$"
@@ -151,3 +151,7 @@
  landmark_monument_to_revolution: "Пам'ятник революції"
  landmark_monument_to_revolution_plural: "$landmark_monument_to_revolution$"
  landmark_monument_to_revolution_desc:0 "Located in the center of Colthage, the Monument to the Revolution is a grand archway honouring those who fell during the Colthaginian Revolution. It also functions as a mausoleum, with many heroes buried within."
+
+ landmark_great_pyramids: "Великий пірамідовий комплекс" # (&+?)
+ landmark_great_pyramids_plural: "$landmark_great_pyramids$"
+ landmark_great_pyramids_desc:0 "An ancient network of pyramids and temples, these religious centres were once used for pony sacrifice. Today, while still the cornerstone of religious life for Neighua, the level of pluralism has been sharply increased, and Tzinacatlians can be found consulting with Moonspeakers among the great stones. It stands as the beacon of a free, multi-cultural South-East, encouraging all peoples to fight together for their freedoms."

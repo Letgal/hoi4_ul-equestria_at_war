@@ -1,5 +1,5 @@
 # Українська локалізація *Equestria at War*
-Оновлено для *Equestria at War* версії ***2.4.1.1*** (версія гри&nbsp;— *1.16*)
+Оновлено для *Equestria at War* версії ***2.5*** (версія гри&nbsp;— *1.17*)
 
 Також включає в себе частковий переклад сабмоду *Diarchy Expanded*.
 
@@ -17,6 +17,7 @@
 + `country_BAL_protectorate` (переклав *Green Kitten*)
 + `country_BAN` (переклав *Bovcun*) — `(&)`
 + `country_BAR` (переклав [*Max*](https://steamcommunity.com/profiles/76561198873048643)) — `(&)`
++ `country_BAT` (переклав *Max*)
 + `country_BOI`
 + `country_BRF` (переклав *Bovcun*) — `(&)`
 + `country_BUF` (переклав *Kiparu*)
@@ -60,6 +61,7 @@
 + `country_JRR`
 + `country_JUN` (переклав *Green Kitten*)
 + `country_KAT` (переклав *StasJesus*) — `(&)`
++ `country_KIR_PSOL_alerts`
 + `country_LAK` (переклав *Bovcun*)
 + `country_LSP` (переклав *Green Kitten*)
 + `country_LUS` (переклав *Bovcun*) — `(&)`
@@ -70,7 +72,7 @@
 + `country_NIM` (переклав [*pani_justyna1733*](https://steamcommunity.com/profiles/76561199241366335))
 + `country_NLR` (переклав *Green Kitten*)
 + `country_NMS` (переклав *Green Kitten*)
-+ ~~`country_north_zebrican_war`~~ (переклав *All-Ampirian*)
++ ~~`country_north_zebrican_war`~~ (старішу частину переклав *All-Ampirian*)
 + `country_NTR`
 + `country_OLE` (переклав *Max*)
 + `country_OLV` (переклав *Bovcun*) — `(&)`
@@ -85,14 +87,14 @@
 + `country_STL` (переклав *Max*)
 + `country_Storm` (переклав *Daybreaker*)
 + `country_STW` (переклав *StasJesus*) — `(&)`
-+ `country_TAL` (переклав *Sanyok*)
++ `country_TAL` (переклав [*DAACENT*](https://steamcommunity.com/id/DAACENTSASHA))
 + `country_VAN` (переклав *Green Kitten*)
-+ `country_VED` (переклав *107*)
++ `country_VED` (переклав *107* — нині вирізано)
 + `country_VIN`
 + `country_WAR` (переклав *StasJesus*)
 + `country_WAT`
 + `country_WIT` (переклав *pani_justyna1733*)
-+ `country_WNG` (переклав *Sanyok*)
++ `country_WNG` (переклав *DAACENT*)
 + `country_YAK`:
 	+ стару версію переклав *pani_justyna1733*
 	+ нову версію переклав *Green Kitten* — `(&)`
@@ -105,7 +107,7 @@
 + ~~`eaw_decisions`~~
 + `eaw_difficulty`
 + `eaw_diplo_popup`
-+ `eaw_factions`
++ ~~`eaw_factions`~~
 + `eaw_flags_and_opinion` (умовно)
 + `eaw_focus`
 + `eaw_focus_filter_tag`
@@ -125,9 +127,10 @@
 + `eaw_scripted_maps`
 + `eaw_scripted_triggers` (умовно)
 + `eaw_starting_warning_events`
++ `eaw_strategic_locations`
 + `eaw_war`
 + `eaw_zebra_generic` (переклав *Daybreaker*)
-+ `loading_tips`
++ ~~`loading_tips`~~
 + `parties` (описи переклав *Max*)
 + `recall_volunteers`
 + `renamed_states`

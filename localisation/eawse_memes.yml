@@ -1,0 +1,41 @@
+﻿# == (*) ==
+ EAWSE_MEMES_TITLE: "Меми, жарти, першоквітнівки"
+
+ # ---------------------------------------- #
+ EAWSE_MEMES_TNO: "1 квіт. 2022"
+
+ EAWSE_TNO_TWILIGHT_TITLE: "$EAWSE_TNO_TWILIGHT_T$: селестійський регент"
+ EAWSE_TNO_TWILIGHT_T: "$SE_TNO_TWILIGHT_T$"
+ EAWSE_TNO_TWILIGHT_A: "$SE_TNO_TWILIGHT_A$"
+ EAWSE_TNO_TWILIGHT_D: "$SE_TNO_TWILIGHT_D$"
+
+ EAWSE_TNO_SABLIN_TITLE: "$EAWSE_TNO_SABLIN_T$: $UESR_country_leader$"
+ EAWSE_TNO_SABLIN_T: "$SE_TNO_SABLIN_T$"
+ EAWSE_TNO_SABLIN_A: "$SE_TNO_SABLIN_A$"
+ EAWSE_TNO_SABLIN_D: "$SE_TNO_SABLIN_D$"
+
+ # ---------------------------------------- #
+ EAWSE_MEMES_KATZ: "1 квіт. 2024"
+
+ EAWSE_AF24_UFS_TITLE:0 "The Final Trial"
+ EAWSE_AF24_UFS_T:0 "The United Free States"
+ EAWSE_AF24_UFS_A:0 "The Final Trial Begins"
+ EAWSE_AF24_UFS_D:0 ""Most think that either death or victory awaits us now, but alas, they fail to see that they are not mutually exclusive."\n -River Swirl"
+
+ EAWSE_AF24_UFS_VICTORY_TITLE:0 "The Final Trial: UFS Victory"
+ EAWSE_AF24_UFS_VICTORY_T:0 "Kattail Defeated"
+ EAWSE_AF24_UFS_VICTORY_A:0 "So ends the megalomania"
+ EAWSE_AF24_UFS_VICTORY_D:0 ""Was it worth it to systematically dismantle the order which I had created, under the pretence that it was intrinsically bad? Just because I dared oppose your government? Did you stop to consider the true benefits that I can bring? Prosperity and equality under benevolent leadership?"\n -Kaiser Kattail"
+
+ EAWSE_AF24_CRUSADE_TITLE:0 "The Final Trial: Kattail Victory"
+ EAWSE_AF24_CRUSADE_T:0 "Kattail Unites the World"
+ EAWSE_AF24_CRUSADE_A:0 "It is only the beginning"
+ EAWSE_AF24_CRUSADE_D:0 ""Unity is the only way forwards, whether the planet want it, or not. To safeguard all sapient life from the twin threats of uncaring extraterrestrial invaders, and the petty cyclical collapse that brought down so many great civilisations in the past."\n -Kaiser Kattail"
+
+ # ---------------------------------------- #
+ EAWSE_MEMES_JADDAR: "1 квіт. 2025"
+
+ EAWSE_AF25_TITLE:0 "The Holy War"
+ EAWSE_AF25_T:0 "The Holy War"
+ EAWSE_AF25_A:0 "Life and death fight for Zebrica"
+ EAWSE_AF25_D:0 ""So I give you your options. Take up the cause of Light, or be banished like the Darkness."\n -Jaddar Jexiszuir"
