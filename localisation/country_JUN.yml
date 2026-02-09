@@ -155,9 +155,9 @@
 ### ФОКУСИ ###
  JUN_decleration:0 "Застрягли в чужій країні"
  JUN_decleration_desc:0 "The Southeast has fallen into chaos, mirroring Equestria's own descent into war. Centred in Tenochtitlan, a small, ragtag group of mercenaries has seized control from the Nightmareist administration. While fear for the future remains, the leader of the mercenaries assures all that he wishes only to safeguard native interests." # (!)
- JUN_shield_the_skies:0 "Some Ramshackle AA Guns" # (!)
+ JUN_shield_the_skies: "Кілька напіврозбитих зеніток"
  JUN_shield_the_skies_desc:0 "Enemy planes, thinking themselves immune as they strafe and bomb Aztlan, will learn otherwise! While we lack the resources for widespread coverage, the skies over Tenochtitlan will be defended." # (!)
- JUN_we_need_a_port:0 "Expand The Saltmane Port" # (!)
+ JUN_we_need_a_port: "Розширити порт Солтмейна"
  JUN_we_need_a_port_desc:0 "The Saltmane Coast is perfect terrain for future investments, but current objectives require more than simple jungles and beaches for the war effort. The area shall be transformed into Aztlan's primary port, serving to project Aztlan's naval power and ensuring commerce keeps flowing." # (!)
  JUN_we_need_the_guns:0 "Звернутися за допомогою"
  JUN_we_need_the_guns_desc:0 "The instability we face is not to be taken lightly. Our assets are low and Aztlan's position is dire. However, the good Doctor Caballeron is pulling every contact and connection to ensure the region's safety." # (!)
@@ -175,7 +175,7 @@
  JUN_repair_the_cannals_desc:0 "Rivers are the lifeblood of this land. By mastering their flow, we can turn water from a fickle landmark into our greatest ally. It shall be a powerful tool that will both confound our enemies and nourish our people." # (!)
  JUN_food_surplus:0 "Заповнити комори"
  JUN_food_surplus_desc:0 "A stable food supply is the bedrock of any war effort. While our supply lines are secure for now, we must acquire enough to create a surplus. A well-fed nation is a resilient nation." # (!)
- JUN_the_old_road:0 "Відремонтувати систему О'тлі"
+ JUN_the_old_road:0 "Відремонтувати систему о'тлі"
  JUN_the_old_road_desc:0 "So much of the old infrastructure is still in a half-decent state. If we invest in renovating these roads and structures, our own infrastructure will flourish just as these jungles do." # (!)
  JUN_secondary_forts:0 "Підняти башти"
  JUN_secondary_forts_desc:0 "Despite our efforts, Aztlan remains exposed and scattered. We must raise watchtowers! With them, our sight will span far and wide; none shall take us by surprise. These fortified posts will grant us the security we need." # (!)
@@ -203,7 +203,7 @@
  JUN_army_debate_desc:0 "Aztlan is finally free from Equestrian imperialism, but it would be foolish to expect our independence to last on international goodwill alone. To ensure its sovereignty is never extinguished, we must build a proper military. Any enemy foolish enough to enter these jungles with hostile intent will never leave them alive." # (!)
  JUN_equestrian_tactics: "Уроки від чейнджлінґів"
  JUN_equestrian_tactics_desc:0 "Despite our successes during the War of the Southeast, we remain woefully behind in terms of warfare and much of it comes either from ancestral methods or from adventurers and mercenaries. If we are to truly build an army for Aztlan, we need to borrow military theory and tactics. And the best ones on Equus are the Changelings." # (!)
- JUN_forest_masters: "Господарі лісу"
+ JUN_forest_masters: "Повелителі лісу"
  JUN_forest_masters_desc:0 "While jungles dominate the southeast, our foreign borders are heavily forested. Our foreign friends possess extensive experience in this type of warfare. By combining our terrain expertise with foreign insight, we will forge an army adept at fighting in these environments." # (!)
  JUN_trucks:0 "Прийняти «Jackalope»"
  JUN_trucks_desc:0 "Logistics has been one of the most important aspects of warfare throughout history, one that the natives mastered in these jungles. Our engineers have successfully modified Sicameonese all-terrain trucks for local operations, dubbing the new model the Jackalope. It will secure our supply lines where tradition falls short." # (!)
@@ -389,7 +389,7 @@
  JUN_vp_golden_delicious_desc:0 "Ensuring the support of the workers is paramount for the future, meaning Golden Delicious is clearly the best choice for a Cihuacoatl. This will show the workers our goodwill and make the corrupt Canterlotian elites tremble! I know this will be a big hit among the hardworking, industrious city girls..." # (!)
  JUN_vp_light_narrative: "Сіуакоатль Лайт Нерратив"
  JUN_vp_light_narrative_desc:0 "The Tenanyotl fear for a future where they are once more subjugated by the sun. To ensure their fears are remediated, there would be no better option than Light Narrative. He seems to be quite impressionable, so he'll be a good asset to ensure Aztlan's stability and showcase our efforts towards true equality. And he surely knows many lovely thestral mares..." # (!)
- JUN_vp_chief_maita: "Сіуакоатль Майтиа"
+ JUN_vp_chief_maita: "Сіуакоатль Майта"
  JUN_vp_chief_maita_desc:0 "It's only natural to stick to my old friends, and Maita is the most respected chief amongst the Neighua. While he had foolishly aligned with Daring Do before unification, he's enormously popular among the Neighua and is sure to bolster my already-strong power base. Not to mention he's beloved by the pretty Neighua warrior-maidens..." # (!)
  JUN_an_end_to_the_fear: "Кінець страху"
  JUN_an_end_to_the_fear_desc:0 "The Nightmareist lunatics keep spreading terror around the southeast. We must rid ourselves of the leading Disciples to ensure their resistance cannot go on. With Light Narrative having joined our civil services and Starry Glory imprisoned, we must turn our attention to Stars Whirl, who foolishly has kept on fighting for a lost cause. With her dealt with, the radicals are sure to surrender." # (!)
@@ -1263,6 +1263,10 @@
  JUN_fascism_2p_party_long:0 "Астланська фестральна партія прав"
  JUN_dominion_party:0 "АНП"
  JUN_dominion_party_long:0 "Астланська національна партія"
+ JUN_harmony_party: "АГП"
+ JUN_harmony_party_long: "Астланська гармоністська партія"
+ JUN_batpony_party: "ЦАП"
+ JUN_batpony_party_long: "Цінакатльська автономна партія" # Партія автономії Цін.ії?
 
 ### КОСМЕТИЧНІ ТЕҐИ ###
  JUN_aztlan_fascism: "Астланська федерація"

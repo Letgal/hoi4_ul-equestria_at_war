@@ -2488,8 +2488,17 @@
  KLG_grumm: "Ґрумм"
 
 # country_KXN
+ KXN_Long_Dusk: "Лонґ Даск"
+ KXN_Clarion_Call: "Клеріон Колл"
+ KXN_Prairie_Spark: "Прері Спарк"
+ KXN_Bonfire_Cascade: "Бонфайр Каскейд"
+ KXN_Giuseppe_Georginio: "Джузеппе Джорджініо"
+ KXN_Giuseppe_Georginio_desc: "§YАвтор портрета§!: Kviksi"
+ KXN_Giuseppe_Georginio_Nirik: "Фезерд Ленс"
  KXN_Wildfire_Flourish: "Уайлдфайр Флориш"
+ KXN_Wildfire_Flourish_desc: "§YАвтор портрета§!: Stephen Sen & Scroup"
  KXN_Tianhuo: "Тяньхо"
+ KXN_Tianhuo_desc: "§YАвтор портрета§!: BlakaSmoko"
 
 # country_LCT
  LCT: "Єзераград"
@@ -4172,6 +4181,18 @@
 
 # country_ZOO
  ZOO_akida_bomboko: "Акіда Бомбоко"
+ ZOO_queen_mother: "Нзузі Бомбоко" #Snow
+ ZOO_anarbek: "Анарбек" #Snow
+ ZOO_ayana: "Аяна" #Snow
+ ZOO_mani_zuba: "Мані Зуба" #Snow
+
+ ### РИСИ ###
+  ZOO_queen_mother_trait: "Королева-мати"
+  ZOO_head_priestess_trait: "Варховна жриця"
+  ZOO_the_railway_king_trait: "Великий кондуктор"
+  ZOO_comatose_king_trait: "У комі"
+  ZOO_spymistress: "Майстриня-шпигунка"
+  ZOO_queen_regent: "Королева-регент"
 
 # country_ZUG
  ZUG_mukisa: "Мукіса"
