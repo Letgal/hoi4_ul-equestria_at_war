@@ -341,6 +341,9 @@
  magical_weapons_mechanized: "Магічна зброя для механізованої піхоти (обхід, ігноруйте)"
  magical_weapons_motorized: "Магічна зброя для моторизованої піхоти (обхід, ігноруйте)"
 
+ motorized_military_police_generic_equipment:0 "Motorized Military Police Military Motorcycle" # (!)
+ motorized_military_police_KXN_equipment:0 "Motorized Military Police Iron Steed Motorcycle" # (!)
+
  berserker_charge: "Лють берсерка"
  froggriffs: "Фроґгрифи"
  ded_width: "Орди мерців"

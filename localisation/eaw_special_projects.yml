@@ -134,6 +134,10 @@ form_department_tooltip: "Виконано поліпшення агентств
 ###############################
 ### NAVAL PROTOTYPE REWARDS ###
 ###############################
+ sp_naval_supercarrier_unique_reward_a:0 "Supercarrier - Purpose"
+ sp_naval_supercarrier_unique_reward_a_desc:0 "With the new generation of carriers we could focus on certain aspects of our ship, in order to better suit our needs. Where should we concentrate our efforts?"
+ sp_naval_supercarrier_unique_reward_b:0 "Supercarrier - Safety"
+ sp_naval_supercarrier_unique_reward_b_desc:0 "Carriers are undisputedly the kings of naval warfare, however we need to provide them with proper protection and security. What should be our main concern?"
 
 #######################################
 ### GENERIC NAVAL PROTOTYPE REWARDS ###
@@ -444,7 +448,7 @@ form_department_tooltip: "Виконано поліпшення агентств
 
 ### ПОДІЇ ###
  sp_news.1.t: "Універсальний перекладач"
- sp_news.1.d:0 "[This.GetNewspaperHeader]With the advent of magitech in military and civilian life, it was only a matter of time before something truly groundbreaking was invented. The Universal Translator - as it has been named - is a complex arrangement of magitech and so-called 'enchanted strings' inside a radio headset that allows audio input to be translated near-instantaneously into the native tongue of the listener. Griffons from all over have already expressed interest in the system and the companies responsible for its creation have enjoyed a meteoric rise in stock prices."
+ sp_news.1.d: "[This.GetNewspaperHeader]With the advent of magitech in military and civilian life, it was only a matter of time before something truly groundbreaking was invented. The Universal Translator - as it has been named by [universal_translator_researcher.GetAdjective] scientists - is a complex arrangement of magitech and so-called 'enchanted strings' inside a radio headset that allows audio input to be translated near-instantaneously into the native tongue of the listener. Griffons from all over have already expressed interest in the system and the those responsible for its creation in [universal_translator_researcher.GetNameDef] have enjoyed a meteoric rise in fame."
  sp_news.1.a: "Тепер, на жаль, кожен може зрозуміти, що каже прайвенець."
  sp_news.1.b: "Нарешті весь світ може почути, що нам є сказати!"
 

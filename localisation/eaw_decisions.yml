@@ -212,6 +212,10 @@ reclaim_the_everfree_forest_decision: "Повернути Вічнодикий �
  invest_in_additional_rubber_plantations_for_amalanhig_hinni:0 "Invest In Additional Rubber Plantations For Amalanhig-hinni"
  expand_tungsten_mines_at_the_ziragongo:0 "Expand Tungsten Mines At The Ziragongo"
 
+build_1144_supply_hub: "Центр постачання області [1144.GetName]"
+build_1154_supply_hub: "Центр постачання області [1154.GetName]"
+build_1149_supply_hub: "Центр постачання області [1149.GetName]"
+
 GRW_internal_affairs: "Внутрішні справи"
 GRW_move_capital_Sydia: "Перемістити столицію в Сідію"
 GRW_move_capital_Kivessin: "Перемістити столицію в Ківессин"
@@ -259,8 +263,6 @@ GRI_kill_blockers:0 "(AI ONLY) Kill Blockers"
 form_equestrian_socialist_union_category: "Еквестрійська соціалістична республіка"
 form_equestrian_socialist_republic: "Утворити Соціалістичну республіку Еквестрія"
 form_equestrian_socialist_union: "Утворити Соціалістичний союз Еквестрії"
-form_the_socialist_world_republic: "Світова Соціалістична Республіка"
-form_the_socialist_world_republic_decision: "Утворити Світову Соціалістичну Республіку"
 
 improve_society_development_decision: "Осучаснити суспільство"
 improve_society_development_nim_fas_decision: "Осучаснити суспільство"

@@ -68,9 +68,6 @@ KAR_kurstanbek_khan: "Шахиншах Тагмасп"
 
 KHM_smoldering_coals: "Смолдеринґ Коалз"
 
-KXN_wildfire_flourish: "Уайлдфайр Флориш"
-KXN_Tianhuo: "Тяньхо"
-
 LMB_sapa_llama: "Сапа Лама"
 LMB_paprika: "Папріка"
 LMB_idk: "Жрець-козел Ґор"
@@ -109,6 +106,8 @@ MGY_annu: "Анну"
 MGY_annu_desc: "§YАвтор портрета§!: Kleowolfy"
 MGY_violetta_locifer: "Віолетта Лоцифер"
 MGY_violetta_locifer_desc: "§YАвтор портрета§!: Stephen Sen"
+MGY_kemetra_vespera: "Кеметра Веспера"
+MGY_kemetra_vespera_desc: "§YАвтор портрета§!: BlakaSmoko"
 
 MSH_almami_zekuris: "Алмамі Зекуріс"
 
@@ -166,5 +165,3 @@ ZAI_gary_desc:0 ""In the first age, in the first battle, when the shadows first 
 
 ZLU_shaka_khan: "Шака Хан"
 ZLU_siphelele:0 "Siphelele" # (!)
-
-ZOO_akida_bomboko: "Акіда Бомбоко"

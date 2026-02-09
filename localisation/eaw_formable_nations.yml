@@ -26,6 +26,7 @@
 ### МІТКИ ###
  EVI_formed: "Утворено Співдружність Еві"
  Zaikiria_formed: "Зайкірію було об'єднано"
+ form_hillpony_kingdom_flag: "Беорґфордас було утворено"
 
 ### РІШЕННЯ ###
  form_aquileia_category: "Нова епоха для Аквілеї"
@@ -83,3 +84,28 @@
  form_quaggatai_kingdom_category: "Утворення Королівства Кваґґатай"
  form_quaggatai_kingdom_category_desc:0 "With Colthage lying defeated at our hoofs, we have restored our hegemony over Zonicia. However, instead of just collecting tribute, this time, our rule will be more direct. Reason enough for our great Khan to crown himself king." # (!)
  form_quaggatai_kingdom: "Утворити Королівство Кваґґатай"
+
+ form_the_socialist_world_republic: "Соціалістична світова єдність"
+ form_the_socialist_world_republic_decision: "Об'єднати світ під знаменом соціалізму"
+
+ form_hillpony_kingdom_category: "Об'єднання поні пагорбів"
+ form_hillpony_kingdom_category_desc:0 "Despite their shared heritage, the hardy hillponies of the north have been divided for centuries. It is time to unite them all under one banner, the banner of Beorgfordas!" # (!)
+ form_hillpony_kingdom: "Утворити Беорґфордас"
+ form_hillpony_kingdom_desc:0 "We have finally united our homeland, Beorgfordas, and can now reshape our national identity." # (!)
+
+ ### Cosmetic tags ###
+ beorgfordas: "Беорґфордас"
+ beorgfordas_DEF: "Беорґфордас"
+ beorgfordas_ADJ: "Беорґфордас"
+ beorgfordas_neutrality: "Королівство Беорґфордас"
+ beorgfordas_fascism: "Королівство Беорґфордас"
+ beorgfordas_communism: "Союз Беорґфордасу"
+ beorgfordas_democratic: "Царство Беорґфордас"
+ beorgfordas_neutrality_DEF: "Королівство Беорґфордас"
+ beorgfordas_fascism_DEF: "Королівство Беорґфордас"
+ beorgfordas_communism_DEF: "Союз Беорґфордасу"
+ beorgfordas_democratic_DEF: "Царство Беорґфордас"
+ beorgfordas_fascism_ADJ: "Беорґфордаськ"
+ beorgfordas_democratic_ADJ: "Беорґфордаськ"
+ beorgfordas_neutrality_ADJ: "Беорґфордаськ"
+ beorgfordas_communism_ADJ: "Беорґфордаськ"

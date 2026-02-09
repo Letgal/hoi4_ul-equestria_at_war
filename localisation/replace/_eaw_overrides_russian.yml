@@ -3,7 +3,7 @@
  EAW_MENU_DISCORD: "Сервер Equestria at War у Discord"
  EAW_MENU_STEAMWORKSHOP: "Equestria at War у Майстерні Steam"
  EAW_MENU_VK: "Equestria at War у VK"
- maintheme: "$Resonant_Tonality-Quiet_Land$"
+ maintheme: "$RedSpark-The_Way_of_Fire$"
  NOT_EXIST: "Для Вас буде вибрана випадкова країна."
 
  #air_l
@@ -419,6 +419,7 @@
   faction_manifest_victory_of_fascism_name: "Супремасистський інтернаціонал"
   faction_manifest_victory_of_fascism_desc:0 "Чтобы превосходство победило, оно должно обрести успех в других странах. Пусть все существа мира обретут свободу под знаменем превосходства!"
   suppress_regional_democracy_goal_name: "Утиск регональної гармонії"
+  the_red_tide_goal_desc: "Солдати на землі — ось що має найбільше значення. Потрібна армія чисельністю три мільйони. Ось як насправді забезпечується виживання."
 
  #focus_filter_tag_l
   FOCUS_FILTER_MANPOWER: "Поні-ресурси"
@@ -542,6 +543,10 @@
   country_resource_tungsten_tt: " $country_resource_tungsten$: $RIGHT|+=$"
   country_resource_steel_tt: " $country_resource_steel$: $RIGHT|+=$"
   country_resource_chromium_tt: " $country_resource_chromium$: $RIGHT|+=$"
+  country_resource_coal_tt: " $country_resource_coal$: $RIGHT|+=$"
+  MODIFIER_ARMY_ATTACK_SPEED_FACTOR: "Швидкість атакуючих дивізій" # vnl.
+  STAT_ARMY_SOFT_ATTACK: "Протипіхотна атака: " # vnl.
+  STAT_ARMY_HARD_ATTACK: "Протитанкова атака: " # vnl.
 
  #nsb_ideas_l
   proper_heritage_spirit_desc:0 "Хорошего генерала можно выучить, но великого генерала нужно взращивать."
@@ -554,6 +559,7 @@
   reserve_officers_spirit_desc: "Не всім потрібно робити армію своєю професією. Але під час війни вони ще можуть служити." # vnl. # РЛ
   brave_commanders_spirit_desc: "До морських демонів торпеди; повний вперед!"
   heritage_of_accomplishment_desc:0 "История и достижения наших полков — свидетельство героизма наших солдат. Признавая эти подвиги, мы можем сами стремиться к величию."
+  jeune_ecole_spirit: "Giovane scuola"
 
  #operatives_l
   OPERATIVE_FORCED_INTO_HIDING: "§RМусить переховуватися§!"
@@ -607,6 +613,7 @@
   FACILITY_OWNED_TITLE: "Комплексів у власності:"
   SCIENTIST_ROSTER_SEARCH_FILTER_TEXT: "Текст пошуку"
   sp_land_flamethrower_tank: "Удосконалений вогнеметний танк"
+  sp_naval_torpedo_cruiser_desc: "Ми можемо завдати значної шкоди найважливішим і найдорожчим кораблям наших ворогів, використовуючи торпедні крейсери, відповідно до концепції минулого століття — giovane scuola." # (@!)
 
  #state_l
   STATE_POPULATION_DESC: "Кількість істот, що живуть у цій області. Ваші призовні закони дозволяють Вам використовувати певний відсоток населення як призовників у Ваших дивізіях, кораблях і літаках."
@@ -682,7 +689,7 @@
   SWI_soviet_spy: "Сталліонградський шпигун"
   the_director: "Директор"
   substance_addict_desc:1 "§LПристрастие к наркотикам явно изменило рассудок этой личности, причём не в лучшую сторону.§!"
-  stalin_father_of_nations: "Батько націй"
+  commando_desc:0 "§LУ коммандо немало талантов: он разбирается в морском десанте, воздушном десанте и операциях в холодную погоду.§!"
   operative_skill_1: "Новобранець"
   operative_master_interrogator_desc: "Цей агент може розговорити будь-кого."
   marxist_priest: "Священик-марксист"
@@ -708,6 +715,7 @@
   can_unlock_new_special_forces_tree_none: "£trigger_yes §HГалузевих спеціалізацій§! залишилося: §H2§!"
   TRIGGER_NUM_OF_CONTROLLED_STATES_MORE_THAN: "Більш ніж $NUMBER|H$ підконтрольних областей" # РЛ, vnl.
   TRIGGER_NUM_OF_CONTROLLED_STATES_LESS_THAN: "Менш ніж $NUMBER|H$ підконтрольних областей" # РЛ, vnl.
+  TRIGGER_IS_SAME_CONTINENT_AS: "$COUNTRY|H$ знаходиться на тому ж континенті" # РЛ, vnl.
 
  #unit_l
   CURRENT_MANPOWER: " - Поточні поні-ресурси: $VAL|*H1$ ($PER|%0H$)\n"
@@ -826,10 +834,10 @@
   LOADING_DATABASES: "Підіймаємо сонце"
   INIT_MAP_LOGIC: "Дивимося «Дружба — це диво»"
   LOADING_HISTORY: "Підписуємо Кольтстрімський договір"
-  LOAD_EVENTS: "Програємо Фалькорську війну"
+  LOAD_EVENTS: "Знімаємо прокляття з Кристальної Імперії"
   LOAD_INIT: "Стагнуємо гармонію"
   LOAD_FLAGS: "Миримо котів і собак"
-  INIT_GAMESTATE: "Знімаємо прокляття з Кристальної Імперії"
+  INIT_GAMESTATE: "Закінчуємо Мовчання"
   CREATING_CHKSUM: "Видаляємо Дискорда"
   GENERATING_GRADIENT_BORDERS: "Пишемо довідник Твінкл Спрінкл"
   LOAD_GFX: "Видаляємо руки"

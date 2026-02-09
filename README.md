@@ -1,5 +1,5 @@
 # Українська локалізація *Equestria at War*
-Оновлено для *Equestria at War* версії ***2.4.2.4*** (версія гри&nbsp;— *1.17*)
+Оновлено для *Equestria at War* версії ***2.5*** (версія гри&nbsp;— *1.17*)
 
 Також включає в себе частковий переклад сабмоду *Diarchy Expanded*.
 
@@ -130,7 +130,7 @@
 + `eaw_strategic_locations`
 + `eaw_war`
 + `eaw_zebra_generic` (переклав *Daybreaker*)
-+ `loading_tips`
++ ~~`loading_tips`~~
 + `parties` (описи переклав *Max*)
 + `recall_volunteers`
 + `renamed_states`

@@ -2487,6 +2487,10 @@
  KLG_hammer_steel: "Гаммер Стіл"
  KLG_grumm: "Ґрумм"
 
+# country_KXN
+ KXN_Wildfire_Flourish: "Уайлдфайр Флориш"
+ KXN_Tianhuo: "Тяньхо"
+
 # country_LCT
  LCT: "Єзераград"
  LCT_DEF: "Єзераград"
@@ -4165,6 +4169,9 @@
 
 # country_ZEL
  ZEL_mai_gounama: "Май Ґунама"
+
+# country_ZOO
+ ZOO_akida_bomboko: "Акіда Бомбоко"
 
 # country_ZUG
  ZUG_mukisa: "Мукіса"

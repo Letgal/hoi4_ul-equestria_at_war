@@ -30,3 +30,9 @@
  # Втрачено статус великої держави
  eaw_diplo_popup_window_message_lose_major: "[?eaw_diplo_popup_sender^popup_i.GetNameDefCap] більше не вважається великою державою"
  eaw_diplo_popup_window_title_0_lose_major: "Повідомлення від держави [?eaw_diplo_popup_sender^popup_i.GetNameDef]"
+
+ # Успішна інтеграція
+ eaw_diplo_popup_window_message_integration_successful: "Ці області було інтегровано в наші осердні землі:\n[PopupIntegrationRecursiveScriptedLoc]"
+ eaw_diplo_popup_window_title_integration_successful: "Успішні зусилля з інтеграції"
+ eaw_diplo_popup_window_entry_continual: "[?current_state:state_original_cores^0.GetFlag]§Y[?current_state.GetName]§!, [PopupIntegrationRecursiveScriptedLoc]"
+ eaw_diplo_popup_window_entry_last: "[?current_state:state_original_cores^0.GetFlag]§Y[?current_state.GetName]§!."

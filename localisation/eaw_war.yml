@@ -187,6 +187,9 @@
  WAR_NAME_KIR_DEL: "Втручання на далекий південь"
  WAR_NAME_DEL_KIR: "Війна опору"
 
+ WAR_NAME_ZOO_MEL: "Війна в басейні Зонґо"
+ WAR_NAME_ZOO_TAI: "Війна в басейні Зонґо"
+
 ### СЛУЖБОВА ЛОКАЛІЗАЦІЯ ###
  EaW_wargoal_and_claims_tp: "§Y[This.GetNameDefCap]§! здобуде §Gпретензії§! та §Rціль війни§! за всі осердні землі держави §Y[Prev.GetNameDef]§!.\n"
  EaW_war_and_claims_tp: "§Y[This.GetNameDefCap]§! здобуде §Gпретензії§! й оголосить §Rвійну§! за всі осердні землі держави §Y[Prev.GetNameDef]§!.\n"

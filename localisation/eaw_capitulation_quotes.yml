@@ -256,6 +256,8 @@ GetTNOReference_NSA: "Квіт молоді Кірії розтоптали ко
 GetTNOReference_CFR: "Ракову пухлину вирізано."
 GetTNOReference_CRF: "Тризуб відкриває ще одну рану."
 GetTNOReference_RRA: "Моровиця шириться Кірією."
+GetTNOReference_KXN: "Вдвічі яскравіше, вдвічі коротше."
+GetTNOReference_KXN_Marching: "Нарешті їхні гріхи дійшли до них." # (&)
 
 GetTNOReference_UFS: "Вони віддали все, але цього було недостатньо.\nТож, божевільний кайзер поглядає на зорі..."
 GetTNOReference_KTZ: "Іще... один... цикл..."
