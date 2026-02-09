@@ -793,5 +793,5 @@ PCB: "Пуерто-Кабальйо"
  COE_world_communism_ADJ: "Світов"
 
 ### УЛ ###
- OLE_autonomy_collaboration_government: "$OVERLORDADJ$а $NONIDEOLOGY$"
- OLE_autonomy_collaboration_government_DEF: "$OVERLORDADJ$а $NONIDEOLOGYDEF$"
+ OLE_CHN_autonomy_collaboration_government: "$OVERLORDADJ$а $NONIDEOLOGY$"
+ OLE_CHN_autonomy_collaboration_government_DEF: "$OVERLORDADJ$а $NONIDEOLOGYDEF$"
