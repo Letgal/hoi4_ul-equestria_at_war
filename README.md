@@ -59,7 +59,7 @@
 + `country_JES` (переклав *Green Kitten*) — `(&+)`
 + `country_JFT`
 + `country_JRR`
-+ `country_JUN` (переклав *Green Kitten*)
++ ~~`country_JUN`~~ (умовно; переклав *Green Kitten*) — перекласти нове!
 + `country_KAT` (переклав *StasJesus*) — `(&)`
 + `country_KIR_PSOL_alerts`
 + `country_LAK` (переклав *Bovcun*)
@@ -71,7 +71,7 @@
 + `country_MTA` (умовно)
 + `country_NIM` (переклав [*pani_justyna1733*](https://steamcommunity.com/profiles/76561199241366335))
 + `country_NLR` (переклав *Green Kitten*)
-+ `country_NMS` (переклав *Green Kitten*)
++ ~~`country_NMS`~~ (умовно; переклав *Green Kitten*) — доробити з `country_JUN`
 + ~~`country_north_zebrican_war`~~ (старішу частину переклав *All-Ampirian*)
 + `country_NTR`
 + `country_OLE` (переклав *Max*)
@@ -103,7 +103,7 @@
 + `eaw_adjacency_rules`
 + `eaw_autonomy`
 + `eaw_bop`
-+ `eaw_capitulation_quotes`
++ `eaw_capitulation_quotes` (умовно)
 + ~~`eaw_decisions`~~
 + `eaw_difficulty`
 + `eaw_diplo_popup`
@@ -130,7 +130,7 @@
 + `eaw_strategic_locations`
 + `eaw_war`
 + `eaw_zebra_generic` (переклав *Daybreaker*)
-+ ~~`loading_tips`~~
++ `loading_tips`
 + `parties` (описи переклав *Max*)
 + `recall_volunteers`
 + `renamed_states`
