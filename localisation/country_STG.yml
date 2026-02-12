@@ -272,6 +272,7 @@
  VICTORY_POINT_ZVEZDOGRAD:0 "Звєздоград"
  VICTORY_POINT_SEVERYANSK:0 "Сєвєрянськ"
  VICTORY_POINT_STARGOROD:0 "Старгород"
+ STG_sinistergrad_vp: "Сіністерград"
 
  STG_remove_huner_other_ideologies:0 "Боротьба з нестачею продовольства"
  STG_incomplete_industry_other_ideologies:0 "Вирішення проблеми неповної індустріалізації"

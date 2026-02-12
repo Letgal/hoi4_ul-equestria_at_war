@@ -12,15 +12,19 @@
  magical_quarry_desc: "Ця споруда множить число ресурсів в області, де її збудовано, на §Gx 1.25§!."
 
  modern_nuclear_reactor: "$nuclear_reactor$ II покоління"
+ modern_nuclear_reactor_plural: "$nuclear_reactor_plural$ II покоління"
  modern_nuclear_reactor_desc:0 "This advanced building provides the state with enriched crystal-uranium for nuclear weapons.\n\nEach Nuclear Reactor consumes §R16§! £resources_strip|8 \n$reactor_resource_shortage$"
 
  modern_commercial_nuclear_reactor: "$commercial_nuclear_reactor$ II покоління"
+ modern_commercial_nuclear_reactor_plural: "$commercial_nuclear_reactor_plural$ II покоління"
  modern_commercial_nuclear_reactor_desc:0 "This advanced building provides the state with enriched crystal-uranium for nuclear weapons and produces electricity for the civilian economy.\n\nEach Nuclear Reactor consumes §R18§! £resources_strip|8 \n$reactor_resource_shortage$"
 
  hardened_missile_silo:0 "Hardened Missile Silo" # (!)
+ hardened_missile_silo_plural:0 "Hardened Missile Silos"
  hardened_missile_silo_desc:0 "Hardened missile positions are not vulnerable to conventional weapons and enemy strategic bombing. They protect our missile forces and allows then to retaliate even against an enemy that manages to attack our launch sites." # (!)
 
  abm_system:0 "Anti-Ballistic Missile System" # (!)
+ abm_system_plural:0 "Anti-Ballistic Missile Systems"
  abm_system_desc:0 "A combination of missile sites, command and control facilities and advanced phased array radars will protect the area it is installed from enemy ballistic missiles." # (!)
 
 ### ПАМ'ЯТКИ ###
