@@ -56,6 +56,7 @@
 + `country_JAK` (переклав *Green Kitten*) — `(&)`
 + `country_JEB`
 + `country_JER`<!--  (переклав *Римур*?) -->
++ `country_JER_assembly` (переклав *Max*)
 + `country_JES` (переклав *Green Kitten*) — `(&+)`
 + `country_JFT`
 + `country_JRR`
