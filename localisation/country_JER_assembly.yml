@@ -1,5 +1,5 @@
 ﻿# == (*) ==
-### Партії ### #Переклав один Румер
+### Партії ### #Переклав один Румер // гаразд, дякую за примітку. ~ L.H.
  JHZ_fascism_party:0 "HNRP"
  JHZ_fascism_party_long:0 "Herzland Nationale Republikanische Partei"
  JHZ_democratic_party:0 "HVP"
@@ -40,8 +40,8 @@
  JOS_fascism_party_long:0 "Einheitliche Ostrepublikanische Front"
  JOS_democratic_party:0 "DOF"
  JOS_democratic_party_long:0 "Demokratische Ostrepublikanische Front"
- JOS_neutrality_party:0 "Longswordian Kings"
- JOS_neutrality_party_long:0 "Longswordian Kings"
+ JOS_neutrality_party:0 "Лонґсордські королі"
+ JOS_neutrality_party_long:0 "Лонґсордські королі"
  JOS_communism_party:0 "OV"
  JOS_communism_party_long:0 "Ostrepublikanische Volksfront"
 
@@ -74,8 +74,8 @@
 
  JEV_fascism_party:0 "CNS"
  JEV_fascism_party_long:0 "Comitetul National de Salvare"
- JEV_democratic_party:0 "PS"
- JEV_democratic_party_long:0 "Prohresyvnyy Soyuz"
+ JEV_democratic_party:0 "ПС"
+ JEV_democratic_party_long:0 "Прогресивний Союз"
  JEV_neutrality_party:0 "MP"
  JEV_neutrality_party_long:0 "Monarchista Párt"
  JEV_communism_party:0 "ZFCR"
@@ -97,10 +97,10 @@
 
  JNG_neutrality:0 "Велике герцогство Клаудбері"
  JNG_neutrality_DEF:0 "Велике герцогство Клаудбері"
- JNG_neutrality_ADJ:0 "Клаудберьк"
- JNG_fascism:0 "Північно-грифонська республіка" #Мені звучить ліпше, потім сам вирішиш
- JNG_fascism_DEF:0 "Північно-грифонська республіка"
- JNG_fascism_ADJ:0 "Північно-грифонськ"
+ JNG_neutrality_ADJ:0 "Клаудберійськ"
+ JNG_fascism:0 "Північно-грифонська республіка" #Мені звучить ліпше, потім сам вирішиш // но добра, поки мені з якогось фраса не закортить змінити, най буде так. тільки би або дефіс забрав, або «грифонська» дав із великої, або взагалі окремим словом. ~ L.H.
+ JNG_fascism_DEF:0 "Північно-грифонська республіка" # L.H. – було: Північна Республіка Грифонів
+ JNG_fascism_ADJ:0 "Північно-грифонськ" # L.H. – було: Північногрифонськ
  JNG_communism:0 "Північно-грифонська республіка"
  JNG_communism_DEF:0 "Північно-грифонська республіка"
  JNG_communism_ADJ:0 "Північно-грифонськ"
@@ -149,15 +149,15 @@
 
  JHP_neutrality:0 "Королівство Беорґфордас"
  JHP_neutrality_DEF:0 "Королівство Беорґфордас"
- JHP_neutrality_ADJ:0 "Поні-пагорбськ"
- JHP_fascism:0 "Конкордат Поні пагорбів"
+ JHP_neutrality_ADJ:0 "Поні-пагорбськ" # L.H. – було: Пагорбн (тади й не поставиш щось хороше)
+ JHP_fascism:0 "Конкордат поні пагорбів" # «поні» було написано з великої, а «пагорбів» — із малої. інакше ліпше обидва з великої. ~ L.H.
  JHP_fascism_DEF:0 "Конкордат поні пагорбів"
  JHP_fascism_ADJ:0 "Поні-пагорбськ"
- JHP_communism:0 "Конкордат Поні пагорбів"
+ JHP_communism:0 "Конкордат поні пагорбів"
  JHP_communism_DEF:0 "Конкордат поні пагорбів"
  JHP_communism_ADJ:0 "Поні-пагорбськ"
- JHP_democratic:0 "Конкордат Поні пагорбів"
- JHP_democratic_DEF:0 "Конкордат Поні пагорбів"
+ JHP_democratic:0 "Конкордат поні пагорбів"
+ JHP_democratic_DEF:0 "Конкордат поні пагорбів"
  JHP_democratic_ADJ:0 "Поні-пагорбськ"
 
  JRV_neutrality:0 "Сполучені князівства Річкових Земель"
@@ -165,13 +165,13 @@
  JRV_neutrality_ADJ:0 "Річкоземн"
  JRV_fascism:0 "Річкова федерація"
  JRV_fascism_DEF:0 "Річкова федерація"
- JRV_fascism_ADJ:0 "Федеральн"
+ JRV_fascism_ADJ:0 "Федеральн" # АЛ:0 Річков. федеральн.
  JRV_communism:0 "Річкова федерація"
  JRV_communism_DEF:0 "Річкова федерація"
- JRV_communism_ADJ:0 "Федеральн"
+ JRV_communism_ADJ:0 "Федеральн" # АЛ:0 Річков. федеральн.
  JRV_democratic:0 "Річкова федерація"
  JRV_democratic_DEF:0 "Річкова федерація"
- JRV_democratic_ADJ:0 "Федеральн"
+ JRV_democratic_ADJ:0 "Федеральн" # АЛ:0 Річков. федеральн.
 
  JAS_neutrality:0 "Королівство Астеріон"
  JAS_neutrality_DEF:0 "Королівство Астеріон"
@@ -186,7 +186,7 @@
  JAS_democratic_DEF:0 "Республіка Астеріон"
  JAS_democratic_ADJ:0 "Мінотаврськ"
 
- JEV_neutrality:0 "Конфедерація Еві"
+ JEV_neutrality:0 "Конфедерація Еві" # L.H. – було: Евійська конфедерація
  JEV_neutrality_DEF:0 "Конфедерація Еві"
  JEV_neutrality_ADJ:0 "Евійськ"
  JEV_fascism:0 "Конфедерація Еві"
@@ -201,7 +201,7 @@
 
 ### Персонажі ###
  JAS_king_agamemnon:0 "Король Аґамемнон IV"
- JAS_chrysi_avgi:0 "Крізі Авґі" #Ніби воно тут звучить інакше, але коли в нас 'Кризаліс' за таким ж правописом, має бути так
+ JAS_chrysi_avgi:0 "Крізі Авґі" #Ніби воно тут звучить інакше, але коли в нас 'Кризаліс' за таким ж правописом, має бути так. // не згоден. ~ L.H.
  JAS_theodora_louloudi:0 "Теодора Лулуді"
  JAS_prokopios_ergatis:0 "Прокопіос Ерґатіс"
 
@@ -215,7 +215,7 @@
  JGF_maurizio_cardelli:0 "Мауріціо Карделлі"
  JGF_venusta_agrella:0 "Венуста Аґрелла"
 
- JHP_queen_aine:0 "Королева Анья" #Воно дійсно так читається
+ JHP_queen_aine:0 "Королева Анья" #Воно дійсно так читається // не думаю так... ~ L.H.
  JHP_boreal_flame:0 "Бореал Флейм"
  JHP_swift_arrow:0 "Свіфт Ерроу"
  JHP_sprouting_seed:0 "Спраутінґ Сід"

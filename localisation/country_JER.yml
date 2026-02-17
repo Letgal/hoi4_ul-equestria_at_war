@@ -2426,23 +2426,23 @@
  JER_no_assembly:0 "Асамблея більше не стоїть у нас на шляху"
 
 ### ПАРТІЇ ###
- JER_neutrality_party: "Dynastie des Discrets"
+ JER_neutrality_party: "Dynastie des Discrets" # було: Династія Діскретів
  JER_neutrality_party_long: "Dynastie des Discrets"
  JER_communism_party: "PAT-M"
- JER_communism_party_long: "Parti Aquiléen du Travail — Modéré"
+ JER_communism_party_long: "Parti Aquiléen du Travail — Modéré" # було: Аквілейська партія праці — помірні (АПП-П)
  JER_democratic_party: "FJA"
- JER_democratic_party_long: "Front des Jeunes d'Aquilée"
+ JER_democratic_party_long: "Front des Jeunes d'Aquilée" # було: Молодіжний фронт Аквілеї (МФА)
  JER_fascism_party: "MPA"
- JER_fascism_party_long: "Mouvement Patriote d'Aquilée"
+ JER_fascism_party_long: "Mouvement Patriote d'Aquilée" # було: Патріотичний рух Аквілеї (ПРА)
  JER_communism_party_r: "PAT-R"
- JER_communism_party_long_r: "Parti Aquiléen du Travail — Radicales"
+ JER_communism_party_long_r: "Parti Aquiléen du Travail — Radicales" # було: Аквілейська партія праці — радикали (АПП-Р)
  JER_national_party_name: "PNdA"
- JER_national_party_name_long: "Parti National d'Aquilée"
+ JER_national_party_name_long: "Parti National d'Aquilée" # було: Національна партія Аквілеї (НПА)
 
  JER_pan_griffonian_neutrality_party_name: "НРП"
- JER_pan_griffonian_neutrality_party_name_long: "Націонал-республіканська партія"
+ JER_pan_griffonian_neutrality_party_name_long: "Націонал-республіканська партія" # було: Національна республіканська партія
  JER_pan_griffonian_democratic_party_name: "ФМГ"
- JER_pan_griffonian_democratic_party_name_long: "Фронт молодої Грифонії"
+ JER_pan_griffonian_democratic_party_name_long: "Фронт молодої Грифонії" # було: Молодіжний фронт Грифонії (МФГ)
  JER_pan_griffonian_communism_party_name: "ГНП"
  JER_pan_griffonian_communism_party_name_long: "Грифонська народна партія"
  JER_pan_griffonian_fascism_party_name: "ГНА"
@@ -2911,7 +2911,7 @@
  JER_char_gaudreau: "Сесіль Ґодро" # Сесілія
  JER_char_crepe: "Шуґар Креп"
  JER_char_thibault: "Тібо Деверьо" # EU
- JER_char_allard: "Віктор Аллард"
+ JER_char_allard: "Віктор Аллард" # Аллар
  JER_char_assemblee: "Народні збори"
  JER_char_berthelot: "Альбер Бертело"
  JER_char_greifenwaldstrawberry: "Шарль-Ґійом-Фердінан де Ґрайфвальд-Полуниця"
