@@ -21,7 +21,9 @@
 + `country_BOI`
 + `country_BRF` (переклав *Bovcun*) — `(&)`
 + `country_BUF` (переклав *Kiparu*)
-+ ~~`country_CES`~~ (попередню версію переклав [*Daybreaker*](https://steamcommunity.com/profiles/76561199084403733))
++ `country_CES`:
+	+ стару версію переклав [*Daybreaker*](https://steamcommunity.com/profiles/76561199084403733)
+	+ нову версію переклав *Green Kitten* — `(&)`
 + `country_CRY` (переклав *Green Kitten*)
 + `country_CRY_NLR` (переклав *Green Kitten*)
 + `country_CRY_SOL` (переклав *Green Kitten*)
@@ -72,6 +74,7 @@
 + `country_MIT` (переклав *Green Kitten*)
 + `country_MNC` (переклав *Bovcun*) — `(&)`
 + `country_MTA` (умовно)
++ `country_NCR` (переклав *Green Kitten*)
 + `country_NIM` (переклав [*pani_justyna1733*](https://steamcommunity.com/profiles/76561199241366335))
 + `country_NLR` (переклав *Green Kitten*)
 + ~~`country_NMS`~~ (умовно; переклав *Green Kitten*) — доробити з `country_JUN`
