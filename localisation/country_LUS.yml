@@ -767,6 +767,7 @@ LUS_prywhen_research_com: "Дослідження з Прайвеном"
 LUS_GRW_lushi_research_com: "Дослідження з Люші"
 
 ### МІТКИ ТА СЛУЖБОВА ЛОКАЛІЗАЦІЯ ###
+LUS_levy_raised: "Ополчення були зібрані"
 lord_drak_killed: "Марвін Драк убитий"
 daughter_married: "Княжна Міра заміжня"
 BRFprince_is_well: "Принц Томадо Де Кіссау не вбитий і не захоплений"

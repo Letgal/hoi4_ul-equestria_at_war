@@ -1,5 +1,5 @@
 # Українська локалізація *Equestria at War*
-Оновлено для *Equestria at War* версії ***2.5*** (версія гри&nbsp;— *1.17*)
+Оновлено для *Equestria at War* версії ***2.5.0.2*** (версія гри&nbsp;— *1.17*)
 
 Також включає в себе частковий переклад сабмоду *Diarchy Expanded*.
 
@@ -46,6 +46,7 @@
 + `country_FEZ` (переклав *Bovcun*) — `(&)`
 + `country_FRN` (переклав *Green Kitten*)
 + `country_GFF` (умовно; переклав *Green Kitten*)
++ `country_GFS`
 + `country_GRI` (переклав *StasJesus*) — `(&)`
 + `country_GRF` (переклав *StasJesus*)
 + `country_GRU` (переклав *Bovcun*) — `(&)`
@@ -53,6 +54,7 @@
 + `country_HAU` (переклав *Bovcun*)
 + `country_HIP` (умовно; переклав *All-Ampirian*)
 + `country_HLR` (переклав *Bovcun*)
++ `country_IBZ`
 + `country_JAK` (переклав *Green Kitten*) — `(&)`
 + `country_JEB`
 + `country_JER`<!--  (переклав *Римур*?) -->
@@ -89,6 +91,7 @@
 + `country_Storm` (переклав *Daybreaker*)
 + `country_STW` (переклав *StasJesus*) — `(&)`
 + `country_TAL` (переклав [*DAACENT*](https://steamcommunity.com/id/DAACENTSASHA))
++ `country_TSV`
 + `country_VAN` (переклав *Green Kitten*)
 + `country_VED` (переклав *107* — нині вирізано)
 + `country_VIN`
@@ -100,6 +103,7 @@
 	+ стару версію переклав *pani_justyna1733*
 	+ нову версію переклав *Green Kitten* — `(&)`
 + `country_ZES` (переклав *Bovcun*) — `(&)`
++ `country_ZLU`
 + ~~`eaw_achievements`~~
 + `eaw_adjacency_rules`
 + `eaw_autonomy`

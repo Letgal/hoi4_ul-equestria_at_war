@@ -35,6 +35,7 @@
  GetTNOMaintext_DED_beats_HLR: "Мертві орди держави §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! спустошили державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
  GetTNOMaintext_HLR_beats_DED: "Доблесні лицарі держави §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! очистили світ від держави §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
 
+ GetTNOMainText_north_zebrica_war: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! перемогла державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§! в хаосі §YПівнічнозебриканської війни§!."
  GetTNOMaintext_CTH_CTC_win: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! звільнила Кольтфаген від гнилі держави §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
  GetTNOMaintext_CTH_CTC_loss: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! зміцнила своє панування над Кольтфагеном, перемігши державу §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!."
  GetTNOMaintext_CTC_beats_CVA: "Держава §Y[?winning_country^peace_gui_index.GetNameWithFlag]§! перемогла революціонерів держави §Y[?losing_country^peace_gui_index.GetNameWithFlag]§!, завершивши громадянську війну."

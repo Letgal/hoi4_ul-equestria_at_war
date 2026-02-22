@@ -1283,7 +1283,19 @@
  GAR_king_golian: "Король Ґоліан"
 
 # country_GIF
+ GIF_chisimbi_unified_fascism: "Чісімбійська ліга"
+ GIF_chisimbi_unified_fascism_DEF: "Чісімбійська ліга"
+ GIF_chisimbi_unified_fascism_ADJ: "Чісімбійськ"
+ GIF_chisimbi_unified_neutrality: "Чісімбійська федерація"
+ GIF_chisimbi_unified_neutrality_DEF: "Чісімбійська федерація"
+ GIF_chisimbi_unified_neutrality_ADJ: "Чісімбійськ"
+ GIF_chisimbi_unified_democratic: "Сполучені Штати Чісімбі"
+ GIF_chisimbi_unified_democratic_DEF: "Сполучені Штати Чісімбі"
+ GIF_chisimbi_unified_democratic_ADJ: "Чісімбійськ"
+
  GIF_tagutswa_gurira: "Таґуцва Ґуріра"
+
+ unite_chisimbi_decision_GIF: "Закінчити об'єднавчі війни"
 
 # country_Great_lakes
  Generic_great_lakes_cosmetic_tag_placeholder_fascism: "Імперія Великих Озер"

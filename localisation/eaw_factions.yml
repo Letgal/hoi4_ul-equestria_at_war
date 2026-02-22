@@ -175,3 +175,7 @@
 ### ІНШЕ ###
  ONE_MECHANIZED_GENERAL: "§YОдин генерал§! із рисою §Y$cavalry_leader$§!, §Y$combined_arms_expert$§! або §Y$cavalry_expert$§!:"
  AT_LEAST_100_STEEL: "§YКожен член альянсу§! з принаймні 100 од. сталі:"
+
+### ПІДКАЗКИ ДО ЦІЛЕЙ АЛЬЯНСІВ ###
+ faction_goal_an_armored_fist_tt: "Принаймні §Y50 бронетанкових батальйонів§! в альянсі. Наразі: [?temp_armor_units|Y0]"
+ faction_goal_an_infantry_army_tt: "Принаймні §Y250 піхотних батальйонів§! в альянсі. Наразі: [?temp_inf_units|Y0]"
