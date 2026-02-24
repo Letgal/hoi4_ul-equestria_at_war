@@ -272,56 +272,6 @@
   BAK_admirality_party: "Адміралтейство"
   BAK_admirality_party_long: "Бакарське адміралтейство"
 
- ### ПЕРСОНАЖІ ###
-  # Лідери
-  BAK_firm_scow: "Фирм Скау"
-  BAK_water_lily: "Уотер Лілі"
-  BAK_bray_foam: "Брей Фоам"
-  BAK_cobalt_wind: "Кобальт Вінд"
-  BAK_tea_dip: "Ті Дип"
-
-  # Ґенерали
-  BAK_tough_bunker: "Таф Бункер"
-  BAK_fall_line: "Фолл Лайн"
-  BAK_direct_drive: "Дайрект Драйв"
-  BAK_golden_target: "Ґолден Тарґет"
-  BAK_keen_perspective: "Кін Перспектив"
-  BAK_flight_risk: "Флайт Риск"
-
-  # Адмірали
-  BAK_stormy_skies: "Стормі Скайз"
-  BAK_sea_lily: "Сі Лілі"
-
-  # Радники
-  BAK_advisor_1: "Силвер Сейл"
-  BAK_advisor_2: "Стар Чейзер"
-  BAK_advisor_3: "Спайс Барк"
-  BAK_advisor_4: "Саншайн Керрак"
-  BAK_advisor_5: "Ебоні Вінґ"
-  BAK_advisor_6: "Сеґґинґ Беґ"
-  BAK_advisor_7: "Рубі Шор"
-  BAK_advisor_8: "Стормі Скайз" # This is a differernt person from the admiral.
-  BAK_advisor_9: "Вайолет Філд"
-  BAK_advisor_10: "Коламн Стилл"
-  BAK_advisor_11: "Скай Чейзер"
-  BAK_advisor_12: "Силвер Скайз"
-  BAK_advisor_13: "Морнинґ Лайт"
-  BAK_advisor_14: "Сонґ Берд"
-  BAK_advisor_15: "Платинум Вінд"
-  BAK_advisor_16: "Арктик Бріз"
-  BAK_advisor_17: "Стар Брисл"
-  BAK_advisor_18: "Перл Дайвер"
-  BAK_advisor_19: "Велвет Гувз"
-  BAK_advisor_20: "Кримзон Медоу"
-  BAK_advisor_21: "Уайлд Мейн"
-  BAK_advisor_22: "Дейґлоу"
-  BAK_advisor_23: "Мун Бім"
-  BAK_advisor_24: "Форест Ґрін"
-  BAK_advisor_25: "Вінді Бріз"
-  BAK_advisor_29: "Лайтнинґ Чарм"
-  BAK_advisor_30: "Еппл Сайдер"
-  BAK_advisor_31: "Вайолет Даск"
-
 # country_BAN
  ### ПЕРСОНАЖІ ###
   # Лідери
