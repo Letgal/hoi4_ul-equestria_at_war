@@ -39,6 +39,7 @@
 + `country_EQC_Reichsmandat` (переклав *Max*)
 + `country_EQC_SOL` (переклав *Max*)
 + `country_EQS` (частина з *Diarchy Expanded* не є завершена)
++ `country_EQS_TNO` (переклав *Green Kitten*)
 + `country_ERI`
 + `country_EWI`<!--  (переклав *All-Ampirian*?) -->
 + `country_EYR`
