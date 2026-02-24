@@ -882,7 +882,7 @@
 
  ## unit
   SHIP_UNIT_STATS: "Подробиці про корабель" # РЛ, vnl.
- 
+
  ## army
   THEATER_GROUP_NAME_PATTERN: "$NUMBER$ $ADJECTIVE$ий театр" # РЛ, vnl.
 
