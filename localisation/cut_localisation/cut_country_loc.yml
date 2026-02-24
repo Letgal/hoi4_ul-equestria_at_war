@@ -770,7 +770,7 @@
   POE_council: "Рада анархістів півдня"
 
   ERE_country_leader: "Шоставія"
-  ERE_lyra_heartstrings: "Лайра Гартстринґс" # фонетика неоднозначна
+  ERE_lyra_heartstrings: "Ліра Гартстринґс"
   ERE_dandy_charms: "Денді Чармс"
   ERE_vinyl_scratch: "Вайнил Скретч"
 
@@ -797,7 +797,7 @@
   EQS_TNO_cleansing_the_hives: "Очищення вуликів"
 
  ### РІШЕННЯ ###
-  ## Sunset
+  ## ЗАХІД СОНЦЯ
   EQS_TNO_Lesson_Zero: "Крайній строк"
 
   EQS_TNO_lessonzero.0: "§GШоста§! година"
