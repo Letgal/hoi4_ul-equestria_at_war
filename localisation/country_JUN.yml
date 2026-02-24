@@ -1,9 +1,9 @@
 ﻿# == (*) ==
 ### ІДЕЇ ###
- JUN_stability_boosted:0 "Winning The Public" # (!)
- JUN_stability_boosted_desc:0 "We are slowly but surely convincing the common pony that we have their best interests in mind." # (!)
+ JUN_stability_boosted: "Завоювання громадської думки" # (@!)
+ JUN_stability_boosted_desc: "Ми повільно, але впевнено переконуємо звичайних поні, що ми дбаємо про їхні інтереси." # (@!)
  JUN_stability_boosted_2: "$JUN_stability_boosted$"
- JUN_stability_boosted_2_desc:0 "The public's trust continues to grow, helping our efforts greatly." # (!)
+ JUN_stability_boosted_2_desc: "Довіра громадськості продовжує зростати, що значно сприяє нашим зусиллям." # (@!)
  JUN_selling_luxury_goods:0 "Багатства Астлану"
  JUN_selling_luxury_goods_desc:0 "У джунглях багато багатств, таких як безцінні артефакти та мінеральні жили, а війна — дуже дорога справа. Місцеві жителі не будуть вдячні за те, що їх експлуатують, але вони зрозуміють, що це необхідно."
  JUN_food_surplus_idea:0 "Надлишок їжі"
@@ -40,11 +40,11 @@
  JUN_army_of_aztlan_idea_desc:0 "Поні Астлану гордо стоять на захисті своїх домівок."
  JUN_night_fliers_idea:0 "Нічні літуни"
  JUN_night_fliers_idea_desc:0 "Літати вночі — ризикована справа, але багато аборигенів звикли до темряви і легко орієнтуються в ній. Їхні результати вражають."
- JUN_carrier_plane_idea:0 "[Root.GetAdjective] Carrier Air Protection" # (!)
- JUN_naval_air_idea:0 "[Root.GetAdjective] Aerial Coast Guard" # (!)
- JUN_naval_air_idea_desc:0 "No longer will our shores be unguarded from above. With superior naval bombers, enemy ships won't get close to our shores." # (!)
- JUN_bombing_capstone_idea:0 "The Harbingers Of Huitzilopochtli" # (!)
- JUN_bombing_capstone_idea_desc:0 "Although we no longer sacrifice captives to appease the Sun, many of our warriors seem to fight as if they are on a frenzy. It's hard to say if they are just eager to defend their homes, or fulfilling revenge from the skies." # (!)
+ JUN_carrier_plane_idea: "[Root.GetAdjectiveCap]е повітряне прикриття авіаносців"
+ JUN_naval_air_idea: "[Root.GetAdjectiveCap]а берегова варта в небі"
+ JUN_naval_air_idea_desc: "Наші береги більше не будуть беззахисними з повітря. Завдяки передовим морським бомбардувальникам ворожі кораблі не зможуть наблизитися до наших берегів." # (@!)
+ JUN_bombing_capstone_idea: "Вісники Уіцілопочтлі"
+ JUN_bombing_capstone_idea_desc: "Хоча ми більше не приносимо в жертву полонених, щоб задобрити Сонце, багато наших воїнів, здається, б'ються, немов у нестямі. Важко сказати, чи вони просто прагнуть захистити свої домівки, чи мстять небесам." # (@!)
  JUN_expert_fliers_idea:0 "Сини Кецалкоатля"
  JUN_expert_fliers_idea_desc:0 "Вітри завжди прихильні до послідовників Кецалкоатля. Вони літають вище і краще за інших, хоча важко сказати, чи це справжня майстерність, чи самогубна самовпевненість."
  JUN_admirality_idea:0 "[Root.GetAdjectiveCap]е Адміралтейство"
@@ -57,170 +57,170 @@
  JUN_economic_backwater_desc:0 "Південний схід і так був одним з найменш розвинених регіонів Еквестрії, але громадянська війна зруйнувала ту невелику промисловість, яка вже існувала. Правлячий уряд повинен вжити швидких заходів для відновлення цивілізації та сучасності."
  JUN_economic_backwater_2: "$JUN_economic_backwater$"
  JUN_economic_backwater_2_desc:0 "$JUN_economic_backwater_desc$ Однак останні події дещо полегшили цю проблему."
- JUN_daring_propaganda:0 "Daring Do's Propaganda War" # (!)
- JUN_daring_propaganda_desc:0 "Daring Do has been defeated on the battlefield, but she remains committed to toppling our government and Caballeron. Through acts of resistance and speeches, she is stirring up discontent against Dr. Caballeron. This must be stopped." # (!)
- JUN_daring_propaganda_2:0 "Daring Do's Suspicion" # (!)
- JUN_daring_propaganda_2_desc:0 "While less active now, Daring Do is still utterly convinced Caballeron is up to something nefarious, and continues to denounce his legitimate administration regularly." # (!)
- JUN_the_southeast_sucks:0 "Bleed Them Dry" # (!)
- JUN_the_southeast_sucks_desc:0 "If we cannot win, then we must deny the enemy the luxuries of victory. Every step they take in our land will be another step towards their inevitable deaths." # (!)
+ JUN_daring_propaganda: "Пропагандна війна Дерінґ Ду"
+ JUN_daring_propaganda_desc: "Дерінґ Ду зазнала поразки на полі бою, але вона як і раніше прагне повалити наш уряд і Кабальєрона. За допомогою актів опору та промов вона розпалює невдоволення проти доктора Кабальєрона. Це необхідно зупинити." # (@!)
+ JUN_daring_propaganda_2: "Підозра Дерінґ Ду"
+ JUN_daring_propaganda_2_desc: "Хоча зараз вона менш активна, Дерінґ Ду все ще абсолютно переконана, що Кабальєрон готує щось підступне, і продовжує регулярно засуджувати його законну адміністрацію." # (@!)
+ JUN_the_southeast_sucks: "Виснажити їх" # підглянуто в РЛ
+ JUN_the_southeast_sucks_desc: "Якщо ми не можемо перемогти, то мусимо позбавити ворога розкоші перемоги. Кожен крок, який вони зроблять на нашій землі, буде ще одним кроком до їхньої неминучої смерті." # (@!)
  JUN_stableside_primacy_idea: "Ставка на урбанізацію"
  JUN_stableside_primacy_idea_desc:0 "Нашим центром розвитку стало багате портове місто Стейблсайд, ворота до Зебрики та багатьох островів, де вирощують прибуткові культури. Це також гарне місце для централізації наших програм імпорту озброєнь."
  JUN_tenochtitlan_primacy_idea: "Зразкові спільноти тубільців"
- JUN_tenochtitlan_primacy_idea_desc:0 "Our development focus has become based on the native communities of the Neighua of Tenochtitlan. Cities should be open with islands for producing agricultural products while being fully self-sufficient. Our resource production will boom as a result." # (!)
+ JUN_tenochtitlan_primacy_idea_desc: "Наша діяльність у сфері розвитку зосереджена на корінних громадах нейуа з Теночтітлана. Міста повинні бути відкритими, з островами для виробництва сільськогосподарської продукції, і при цьому бути повністю самодостатніми. В результаті цього наше виробництво ресурсів буде бурхливо розвиватися." # (@!)
  JUN_tourism_idea:0 "Туристична індустрія Астлану"
  JUN_tourism_idea_desc:0 "Коли в країні знову запанував мир, доктор Кабальєрон втілив у життя одну зі своїх ідей щодо створення туристичних напрямків як на узбережжі, так і в джунглях Астлану. Поки відвідувачі не зважатимуть на спеку, вони будуть проводити час якнайкраще! Однак корінні жителі не люблять, коли на них витріщаються, і коли привласнюють їхню культуру."
- JUN_tourism_2_idea:0 "Туристична індустрія Астлану"
+ JUN_tourism_2_idea: "$JUN_tourism_idea$"
  JUN_tourism_2_idea_desc:0 "«Приїжджайте побачити чудеса Астлану! Проведіть час свого життя!»"
- JUN_tourism_idea_3:0 "The Aztlan Tourism Industry" # (!)
- JUN_tourism_idea_3_desc:0 "Come on down to Aztlan! Enjoy the sun, beaches, exotic scenery, and make sure to spend lots of money!" # (!)
- JUN_tourism_idea_4:0 "The Aztlan Immigration Service"
- JUN_tourism_idea_4_desc:0 "Come on down to Aztlan! Enjoy the sun, beaches, exotic scenery, and unique native cultures! While you're at it, feel free to settle down, and relax. You can stay as long as you want!" # (!)
- JUN_tourism_idea_3_2:0 "Everypony Loves Aztlan!" # (!)
- JUN_tourism_idea_3_2_desc:0 "Come on down to Aztlan! Enjoy the sun, beaches, exotic scenery, and make sure to spend lots of money!" # (!)
+ JUN_tourism_idea_3: "$JUN_tourism_idea$"
+ JUN_tourism_idea_3_desc: "«Приїжджайте до Астлану! Насолодіться сонцем, пляжами, екзотичними краєвидами — і не забудьте витратити багато грошей!»"
+ JUN_tourism_idea_4: "Імміграційна служба Астлану"
+ JUN_tourism_idea_4_desc: "«Приїжджайте до Астлану! Насолодіться сонцем, пляжами, екзотичними краєвидами й унікальними тубільними культурами! І коли ви вже тут, не соромтеся оселитися та відпочити. Залишайтеся так довго, як забажаєте!»"
+ JUN_tourism_idea_3_2: "Усі люблять Астлан!"
+ JUN_tourism_idea_3_2_desc: "$JUN_tourism_idea_3_desc$"
  JUN_tourism_idea_4_2: "$JUN_tourism_idea_3_2$"
- JUN_tourism_idea_4_2_desc:0 "Come on down to Aztlan! Enjoy the sun, beaches, exotic scenery, and unique native cultures! Enjoy your stay, since you won't want to leave!" # (!)
- JUN_rebuilding_idea:0 "Build Upon What Was Lost" # (!)
- JUN_rebuilding_idea_desc:0 "Centuries of lost wonders and ancient cities lie under our hooves. Where ponies lived before, we shall modernize to live there now." # (!)
- JUN_aztlan_for_everypony_idea:0 "Aztlan For Everypony!" # (!)
- JUN_aztlan_for_everypony_idea_desc:0 "Aztlan is open for everypony to enjoy! Be it the tourist destinations, ancient ruins, or a revitalised economy, we are open for business!" # (!)
+ JUN_tourism_idea_4_2_desc: "«Приїжджайте до Астлану! Насолодіться сонцем, пляжами, екзотичними краєвидами й унікальними тубільними культурами! Тіштеся своїм візитом, адже вам не захочеться виїдждати!»"
+ JUN_rebuilding_idea: "Будувати понад утраченим" # (&?)
+ JUN_rebuilding_idea_desc: "Століття втрачених чудес і стародавніх міст лежать під нашими копитами. Там, де раніше жили поні, ми модернізуємося, щоб жити там зараз." # (@!)
+ JUN_aztlan_for_everypony_idea: "Астлан для кожного!"
+ JUN_aztlan_for_everypony_idea_desc: "Астлан відкритий для всіх! Будь то туристичні напрямки, стародавні руїни чи відроджена економіка, ми відкриті для бізнесу!" # (@!)
  JUN_peace_in_our_time_idea:0 "Південний маяк"
  JUN_peace_in_our_time_idea_desc:0 "Незважаючи на багато труднощів і невдач, доктор Кабальєрон здійснив свій задум і приніс довготривалий мир і стабільність у південно-східну Еквестрію. Поні, фестрали і місцеві жителі тепер живуть в гармонії разом і відзначають, що життя ніколи не було кращим, ніж зараз."
  JUN_discontent_in_cities_2:0 "Невдоволення в містах"
  JUN_discontent_in_cities_2_desc:0 "Громадянська війна, можливо, і закінчилася, але ворожнеча між звичайними поні анітрохи не зменшилася. Вирішення цієї проблеми має бути одним з наших першочергових завдань, щоб не допустити повторного повстання."
- JUN_better_torpedos_idea:0 "Fish With Bombs" # (!)
- JUN_better_torpedos_idea_desc:0 "The foreign designs for torpedoes work really well for us, practically homing in on targets." # (!)
- JUN_carrier_bonus_idea:0 "Carrier Tactics" # (!)
- JUN_carrier_bonus_idea_desc:0 "The aircraft carrier is the new star of the navy. Air power is replacing the largest boats, and we're going to be at the forefront of these advances." # (!)
- JUN_asgore_truck_idea:0 "Domestic Truck Production" # (!)
- JUN_asgore_truck_idea_desc:0 "The beginnings of the new army of [JUN.GetNameDef] have begun to form with the new idea of using motorised soldiers and producing tons of trucks to support us. Foreign ideas, but with a Southeastern spirit." # (!)
- JUN_asgore_truck_idea_2:0 "Strike Hard, Strike Fast" # (!)
- JUN_asgore_truck_idea_2_desc:0 "Our motorised and mechanised army is coming together nicely. Focusing on the maneuverable parts of our army is going to have great effects on the frontlines." # (!)
- JUN_asgore_truck_idea_3:0 "Southeastern Tanks" # (!)
- JUN_asgore_truck_idea_3_desc:0 "Although many creatures doubt that we have the capabilities for tanks in the jungles, they forget that a lot of our land isn't jungle. If we plan to bring the fight to our enemies, we need to strike them in their homes. That means going on the offensive, and tanks are the future for offensive warfare." # (!)
- JUN_asgore_truck_idea_4:0 "Panzergrenadier Tactics" # (!)
- JUN_asgore_truck_idea_4_desc:0 "Our changeling friends have been very helpful in preparing us for a new stage of warfare. Panzergrenadiers are mechanised soldiers capable of operating with speed, armor, and flexibility. It's like the native warbands, but better!" # (!)
- JUN_asgore_truck_idea_5:0 "Tank Tactics" # (!)
- JUN_asgore_truck_idea_5_desc:0 "Our changeling friends have been instrumental in preparing us for a new stage of warfare. While the Southeast used to rely on its militias and warbands, now it relies on the hard steel of tanks and mechanised infantry to crush the enemies beneath us." # (!)
- JUN_asgore_truck_idea_6:0 "Mechanised Fist Of Steel" # (!)
- JUN_asgore_truck_idea_6_desc:0 "The ultimate evolution of the Neighua warfare has come to the Southeast. Combining modern mechanised units with the ideas of warfare of the Southeast will show even the most modern army that Aztlan reigns supreme." # (!)
- JUN_native_warfare_idea:0 "The Native Way To Warfare" # (!)
- JUN_native_warfare_idea_desc:0 "It's said that history is the best teacher. If that's the case, then we're geniuses in the war of war." # (!)
- JUN_southern_army:0 "The Southern National Army" # (!)
- JUN_southern_army_desc:0 "We fight under our own banner for our own goals!" # (!)
- JUN_neighuatl_army_idea_3:0 "The Neighua Warband System" # (!)
- JUN_neighuatl_army_idea_3_desc:0 "Don't fix what isn't broken! The Warbands of the Neighuatl are still among the best in the world, and we're going to work on expanding them." # (!)
- JUN_neighuatl_army_idea_2:0 "The Aztlan Warband System" # (!)
- JUN_neighuatl_army_idea_2_desc:0 "The integration of the Tzinacatl into our army has given us more recruits and experience to wage war. Who wants to fight a war every hour of every day? Only us." # (!)
- JUN_neighuatl_army_idea_1:0 "The Tēlpochcalli System" # (!)
- JUN_neighuatl_army_idea_1_desc:0 "Schooling of the newest soldiers allows us to make our army even better. For the future, this is going to be even better!" # (!)
- JUN_neighuatl_army_idea_4:0 "The Modern Warbands" # (!)
- JUN_neighuatl_army_idea_4_desc:0 "Although most would think that our way of fighting was completely outdated, I have to differ. We have an army that is perfectly suited to handle the harshest war in the world and come out on top. Let's see these other nations do that." # (!)
- JUN_special_forces_idea_1:0 "Tzinacatl Integration" # (!)
- JUN_special_forces_idea_1_desc:0 "The thestrals cannot be left out of our army. Instead, we'll use them like the shock troops they are. No pony wants to fight a war at night except for our insane bat friends." # (!)
- JUN_special_forces_idea_2:0 "Racial Equality Through Blood" # (!)
- JUN_special_forces_idea_2_desc:0 "Battle-brothers and -sisters gather 'round campfires, not scared of the night or day any longer. Not that they have reason to be afraid: that is the role of their prey." # (!)
- JUN_fleet_defections:0 "Naval Defections" # (!)
- JUN_fleet_defections_desc:0 "It's hard to replace experienced officers and sailors that have defected to foreign countries. Our naval abilities will be hampered until we can replace them." # (!)
- JUN_homefront_idea:0 "Frontline On The Homefront" # (!)
- JUN_homefront_idea_desc:0 "Our home is under attack by foreign imperialists! All must give their best efforts to successfully keep our homeland free." # (!)
- JUN_spiritual_warfare_idea:0 "Supremacy Of Will" # (!)
- JUN_spiritual_warfare_idea_desc:0 "As good as tanks, planes, and the biggest boats are at defeating one's enemies, there is no substitute for the willpower of the average creature to defend their home. As good" # (!)
- JUN_spiritual_warfare_idea_2:0 "Last Stand Of The Natives" # (!)
- JUN_spiritual_warfare_idea_2_desc:0 "The typical bickering of the native tribes of the Southeast are behind them. United hoof in hoof, the fierceness of Equestria's most ferocious fighters is now being unleashed on the enemies of [JUN.getnamedef]. As the tribes aren't willing to give up, defeat is impossible!" # (!)
- JUN_NLR_sons_of_sunlight_idea:0 "Sons Of The Sun" # (!)
- JUN_NLR_sons_of_sunlight_idea_desc:0 "The sun's scorching rays shall burn all the heathens beneath the holy light. Blinded by the radiance of Father Sun, there is no safe place for the followers of the heathen goddesses that dare claim divinity from the truly divine. This night ends with a brilliant dawn over the Southeast!" # (!)
- JUN_NLR_daughters_of_darkness_idea:0 "Daughters Of Darkness" # (!)
- JUN_NLR_daughters_of_darkness_idea_desc:0 "Fear the Night and those who dwell in the darkness! Shrouded by Mother Moon's grace, there is no safe place for the followers of the heathen goddesses that dare claim divinity from the truly divine." # (!)
- JUN_holy_war_anti_imperialism_idea:0 "War Of Anti-Imperialism" # (!)
- JUN_holy_war_anti_imperialism_idea_desc:0 "We have come a long way since we fought for our freedom in the War in the Southeast. Foreign imperialists seek to establish hegemony over our homes. To them we say: Go to Tartarus!" # (!)
- JUN_SOL_sons_of_sunlight_idea:0 "Sons Of The Sun" # (!)
- JUN_SOL_sons_of_sunlight_idea_desc:0 "The sun's scorching rays shall burn all the heathens beneath the holy light. Blinded by the radiance of Father Sun, there is no safe place for the followers of the heathen goddesses that dare claim divinity from the truly divine." # (!)
- JUN_SOL_daughters_of_darkness_idea:0 "Daughters Of Darkness" # (!)
- JUN_SOL_daughters_of_darkness_idea_desc:0 "Fear the Night and those who dwell in the darkness! Shrouded by Mother Moon's grace, there is no safe place for the followers of the heathen goddesses that dare claim divinity from the truly divine. This day ends with a mystical dusk over the Southeast!" # (!)
- JUN_friends_defensive_bonus:0 "A Hoof On Your Shoulder" # (!)
- JUN_friends_offensive_bonus:0 "Victory Through Friendship" # (!)
- JUN_new_government_1:0 "Power To The Ponies" # (!)
- JUN_new_government_2:0 "Freer Market Means Free Ponies" # (!)
- JUN_new_government_3:0 "Constitutional Racial Equality" # (!)
- JUN_good_life_1:0 "Aztlan Education Policy" # (!)
- JUN_good_life_2:0 "Wildlife Protection Act" # (!)
- JUN_good_life_3:0 "Tourist Destination Zones" # (!)
- JUN_good_life_4:0 "Under the Guidance of the Speaker" # (!)
- JUN_first_amendment:0 "Right to Organize" # (!)
- JUN_second_amendment:0 "Right to Own Firearms" # (!)
- JUN_civ_greed_tiem:0 "An Economy of Peace" # (!)
- JUN_alliance_keeper:0 "Anti-Imperialist Pact Member" # (!)
- JUN_alliance_keeper_desc:0 "While many alliances are built on ideology, ours is built upon a common idea that all creatures should be free to decide their own fate. Imperialists prowl everywhere, but together we stand strong and free." # (!)
+ JUN_better_torpedos_idea: "Риби з бомбами"
+ JUN_better_torpedos_idea_desc: "Іноземні конструкції торпед дуже добре підходять нам, практично наводячись на цілі." # (@!)
+ JUN_carrier_bonus_idea: "Тактика авіаносців"
+ JUN_carrier_bonus_idea_desc: "Авіаносець — нова зірка флоту. Повітряні сили замінюють найбільші кораблі, і ми будемо в авангарді цих досягнень." # (@!)
+ JUN_asgore_truck_idea: "Вітчизняне виробнтицтво танків"
+ JUN_asgore_truck_idea_desc: "Початок формування нової [JUN.GetAdjective]ої армії пов'язаний із новою ідеєю використання моторизованих солдатів і виробництва величезної кількості вантажівок для нашої підтримки. Ідеї іноземні, але з духом південного сходу." # (@)
+ JUN_asgore_truck_idea_2: "Бий сильно, бий швидко"
+ JUN_asgore_truck_idea_2_desc: "Наша моторизована та механізована армія добре згуртовується. Зосередившись на маневрених частинах нашої армії, ми зможемо досягти значних результатів на передовій." # (@!)
+ JUN_asgore_truck_idea_3: "Танки південного сходу"
+ JUN_asgore_truck_idea_3_desc: "Хоча багато хто сумнівається, що ми маємо можливості для використання танків у джунглях, вони забувають, що значна частина нашої території не є джунглями. Якщо ми плануємо вести боротьбу з ворогами, нам потрібно наносити удари по їхніх домівках. Це означає перехід у наступ, а танки є майбутнім наступальної війни." # (@!)
+ JUN_asgore_truck_idea_4: "Тактика панцергренадерів"
+ JUN_asgore_truck_idea_4_desc: "Наші друзі-чейнджлінґи дуже допомогли нам підготуватися до нового етапу війни. Панцергренадери — це механізовані солдати, здатні діяти швидко, маючи броню та гнучкість. Вони схожі на місцеві бойові загони, але кращі!" # (@!)
+ JUN_asgore_truck_idea_5: "Танкова тактика"
+ JUN_asgore_truck_idea_5_desc: "Наші друзі-чейнджлінґи відіграли важливу роль у підготовці нас до нового етапу війни. Якщо раніше південний схід покладався на свої ополчення та бойові загони, то тепер він покладається на міцну сталь танків та механізовану піхоту, щоб розчавити ворогів під нашими ногами." # (@!)
+ JUN_asgore_truck_idea_6: "Механізований сталевий кулак"
+ JUN_asgore_truck_idea_6_desc: "Кінцева еволюція військового мистецтва нейуа дійшла до південного сходу. Поєднання сучасних механізованих підрозділів із ідеями ведення війни південного сходу продемонструє навіть найсучаснішій армії, що Астлан панує над усім." # (@)
+ JUN_native_warfare_idea: "Тубільний спосіб ведення війни"
+ JUN_native_warfare_idea_desc: "Кажуть, що історія — найкращий вчитель. Якщо це так, то ми — генії у війні." # (@!)
+ JUN_southern_army: "Південна національна армія"
+ JUN_southern_army_desc: "Ми боремося під нашим власним знаменом за наші власні цілі!"
+ JUN_neighuatl_army_idea_3: "Система військових загонів нейуа"
+ JUN_neighuatl_army_idea_3_desc: "Не лагодь те, що не зламано! Військові загони нейуа досі стоять серед найліпших у світі, і ми докладемо зусиль для їхнього розширення."
+ JUN_neighuatl_army_idea_2: "Система військових загонів Астлану"
+ JUN_neighuatl_army_idea_2_desc: "Інтеграція цінакатлів у нашу армію дала нам більше новобранців і досвіду для ведення війни. Хто хоче воювати кожну годину кожного дня? Тільки ми." # (@!)
+ JUN_neighuatl_army_idea_1: "Система телпочакаллі"
+ JUN_neighuatl_army_idea_1_desc: "Навчання найновіших солдатів дозволяє нам зробити нашу армію ще кращою. У майбутньому це буде ще краще!" # (@!)
+ JUN_neighuatl_army_idea_4: "Сучасні військові загони"
+ JUN_neighuatl_army_idea_4_desc: "Хоча більшість вважає, що наш спосіб ведення війни повністю застарів, я не можу з цим погодитися. Ми маємо армію, яка ідеально підходить для ведення найжорстокішої війни у світі і виходу з неї переможцем. Подивимося, чи зможуть це зробити інші країни." # (@!)
+ JUN_special_forces_idea_1: "Інтеграція цінакатлів"
+ JUN_special_forces_idea_1_desc: "Фестралів не можна виключати з нашої армії. Натомість ми будемо використовувати їх як ударні війська, якими вони є. Жоден поні не хоче воювати вночі, крім наших божевільних друзів-кажанів." # (@)
+ JUN_special_forces_idea_2: "Расова рівність крізь кров"
+ JUN_special_forces_idea_2_desc: "Брати і сестри по зброї збираються біля багаття, більше не боячись ні ночі, ні дня. Не те щоб у них були причини для страху: це роль їхньої здобичі." # (@!)
+ JUN_fleet_defections: "Дезертирство у флоті"
+ JUN_fleet_defections_desc: "Важко замінити досвідчених офіцерів і матросів, котрі перебігли до інших країн. Можливості нашого флоту будуть обмежені, поки ми не зможемо їх замінити." # (@)
+ JUN_homefront_idea: "Фронт у тилу" # підглянуто в РЛ
+ JUN_homefront_idea_desc: "Наша батьківщина зазнає нападу іноземних імперіалістів! Усі повинні докласти максимум зусиль, щоб успішно захистити свободу нашої батьківщини." # (@!)
+ JUN_spiritual_warfare_idea: "Верховенство волі"
+ JUN_spiritual_warfare_idea_desc: "Незважаючи на те, що танки, літаки та найбільші кораблі чудово підходять для перемоги над ворогами, ніщо не може замінити силу волі звичайної істоти, яка захищає свій дім." # (@!)
+ JUN_spiritual_warfare_idea_2: "$JUN_last_stand_of_the_natives$"
+ JUN_spiritual_warfare_idea_2_desc: "Типові суперечки між тубільними племенами південного сходу залишилися позаду. Об'єднавшись, найлютіші воїни Еквестрії тепер випускають свою лють на ворогів держави [JUN.getnamedef]. Оскільки племена не готові здаватися, поразка неможлива!" # (@!)
+ JUN_NLR_sons_of_sunlight_idea: "$JUN_sons_of_the_sun$"
+ JUN_NLR_sons_of_sunlight_idea_desc: "$JUN_sons_of_the_sun_desc$ Ця ніч закінчується яскравим світанком над південним сходом!"
+ JUN_NLR_daughters_of_darkness_idea: "$JUN_daughters_of_darkness$"
+ JUN_NLR_daughters_of_darkness_idea_desc: "$JUN_daughters_of_darkness_desc$"
+ JUN_holy_war_anti_imperialism_idea: "Антиімперіалістична війна"
+ JUN_holy_war_anti_imperialism_idea_desc: "Ми пройшли довгий шлях відтоді, як боролися за свою свободу у війні на південному сході. Іноземні імперіалісти прагнуть встановити гегемонію над нашими домівками. Ми відповідаємо їм: ідіть до Тартару!" # (@!)
+ JUN_SOL_sons_of_sunlight_idea: "$JUN_sons_of_the_sun$"
+ JUN_SOL_sons_of_sunlight_idea_desc: "$JUN_sons_of_the_sun_desc$"
+ JUN_SOL_daughters_of_darkness_idea: "$JUN_daughters_of_darkness$"
+ JUN_SOL_daughters_of_darkness_idea_desc: "$JUN_daughters_of_darkness_desc$ Цей день закінчується містичними сутінками над південним сходом!"
+ JUN_friends_defensive_bonus: "Копито на твоїм плечі"
+ JUN_friends_offensive_bonus: "Перемога у дружбі"
+ JUN_new_government_1: "Влада для поні"
+ JUN_new_government_2: "Вільніший ринок — вільні поні"
+ JUN_new_government_3: "Конституційна рівність рас"
+ JUN_good_life_1: "Освітня політика Астлану"
+ JUN_good_life_2: "Закон про охорону дикої природи"
+ JUN_good_life_3: "Туристичні зони" # (@!)
+ JUN_good_life_4: "Під керівництвом мовця"
+ JUN_first_amendment: "Право на збори"
+ JUN_second_amendment: "Право на володіння зброєю"
+ JUN_civ_greed_tiem: "Економіка миру"
+ JUN_alliance_keeper: "Член Антиімперіалістичного пакту"
+ JUN_alliance_keeper_desc: "Хоча багато союзів будуються на ідеології, наш союз базується на спільній ідеї, що всі істоти повинні мати право вільно вирішувати свою долю. Імперіалісти нишпорять скрізь, але разом ми сильні і вільні." # (@!)
 
 ### ФОКУСИ ###
  JUN_decleration:0 "Застрягли в чужій країні"
- JUN_decleration_desc:0 "The Southeast has fallen into chaos, mirroring Equestria's own descent into war. Centred in Tenochtitlan, a small, ragtag group of mercenaries has seized control from the Nightmareist administration. While fear for the future remains, the leader of the mercenaries assures all that he wishes only to safeguard native interests." # (!)
+ JUN_decleration_desc: "Південний схід занурився в хаос, що віддзеркалює власне занурення Еквестрії у війну. Зібравшись у Теночтітлані, невелика група найманців захопила владу від адміністрації найтмеристів. Хоча страх за майбутнє залишається, лідер найманців запевняє всіх, що він бажає лише захистити інтереси корінного населення." # (@!)
  JUN_shield_the_skies: "Кілька напіврозбитих зеніток"
- JUN_shield_the_skies_desc:0 "Enemy planes, thinking themselves immune as they strafe and bomb Aztlan, will learn otherwise! While we lack the resources for widespread coverage, the skies over Tenochtitlan will be defended." # (!)
+ JUN_shield_the_skies_desc: "Ворожі літаки, які вважають себе невразливими, коли обстрілюють і бомблять Астлан, дізнаються, що це не так! Хоча нам бракує ресурсів для широкого покриття, небо над Теночтітланом буде захищене." # (@!)
  JUN_we_need_a_port: "Розширити порт Солтмейна"
- JUN_we_need_a_port_desc:0 "The Saltmane Coast is perfect terrain for future investments, but current objectives require more than simple jungles and beaches for the war effort. The area shall be transformed into Aztlan's primary port, serving to project Aztlan's naval power and ensuring commerce keeps flowing." # (!)
+ JUN_we_need_a_port_desc: "Узбережжя Солтмейна є ідеальним місцем для майбутніх інвестицій, але поточні цілі вимагають більшого, ніж просто джунглі та пляжі для ведення війни. Цю територію буде перетворено на головний порт Астлану, котрий слугуватиме для проєктування морської сили Астлану та забезпечення безперебійного руху торгівлі." # (@!)
  JUN_we_need_the_guns:0 "Звернутися за допомогою"
- JUN_we_need_the_guns_desc:0 "The instability we face is not to be taken lightly. Our assets are low and Aztlan's position is dire. However, the good Doctor Caballeron is pulling every contact and connection to ensure the region's safety." # (!)
+ JUN_we_need_the_guns_desc: "Не можна легковажно ставитися до нестабільності, з якою ми стикаємося. Наші активи невеликі, а становище Астлану критичне. Однак добрий доктор Кабальєрон використовує всі свої контакти та зв'язки, щоб забезпечити безпеку регіону." # (@!)
  JUN_we_need_even_more: "Багатства Астлану"
- JUN_we_need_even_more_desc:0 "The Southeast is a land rich in goods and treasure, yet these resources lie forgotten in old, trap-ridden temples while the land fights for its survival. It's time to change that. We shall send expeditions into the deepest jungles to reclaim these treasures for civilisation, where they can be put to good use protecting the Neighua." # (!)
+ JUN_we_need_even_more_desc: "Південний схід — земля, багата на товари та скарби, проте ці ресурси лежать забуті у старих храмах, повних пасток, поки земля бореться за своє виживання. Настав час це змінити. Ми відправимо експедиції в найглибші джунглі, щоб повернути ці скарби цивілізації, де вони можуть бути використані для захисту нейуа."
  JUN_the_wealth_of_the_jungle: "Втілення духу пригод"
- JUN_the_wealth_of_the_jungle_desc:0 "Aztlan is a land of opportunity and adventure! A place to make a name, find whirlwind romance, and seize riches. It is the place to be for those who dare to live life to the fullest! Come to Aztlan and make your fortune!" # (!)
+ JUN_the_wealth_of_the_jungle_desc: "Астлан — країна можливостей і пригод! Місце, де можна прославитися, знайти бурхливе кохання і здобути багатство. Це — місце для тих, хто наважується жити на повну! Приїжджайте до Астлану і зробіть свою долю!" # (@!)
  JUN_dedicated_smugglers:0 "Блокадники"
- JUN_dedicated_smugglers_desc:0 "Aztlan's enemies believe they can strangle its income and starve it out. With Caballeron's connections and native expertise, we will break through any blockade and keep our economy thriving." # (!)
+ JUN_dedicated_smugglers_desc: "Вороги Астлану вірять, що можуть позбавити його доходів і змусити голодувати. Завдяки зв'язкам Кабальєрона та його знанням місцевої специфіки ми прорвемо будь-яку блокаду і збережемо процвітання нашої економіки." # (@!)
  JUN_fortify_technochitlan:0 "Відбудувати стіни Теночтітлана"
- JUN_fortify_technochitlan_desc:0 "Tenochtitlan was once an impenetrable fortress, its great walls insurmountable. We must reinforce this bastion to its prime, creating a strategic strongpoint and defensive position. It shall be the pride of Aztlan once more!" # (!)
+ JUN_fortify_technochitlan_desc: "Теночтітлан колись був неприступною фортецею, її величні стіни були нездоланними. Ми повинні зміцнити цей бастіон до його колишньої могутності, створивши стратегічний опорний пункт і оборонну позицію. Він знову стане гордістю Астлану!" # (@!)
  JUN_reuse_the_ruins:0 "Перепрофілювати руїни"
- JUN_reuse_the_ruins_desc:0 "Though old and crumbling, many southeastern ruins have foundations strong enough to support Aztlan's war effort. By building upon the structures of the past, Aztlan shall be able to ensure its future." # (!)
+ JUN_reuse_the_ruins_desc: "Хоча стародавні руїни південного сходу старі і руйнуються, їхні фундаменти достатньо міцні, щоб підтримати військові зусилля Астлану. Будуючи на структурах минулого, Астлан зможе забезпечити своє майбутнє." # (@!)
  JUN_repair_the_cannals:0 "Відремонтуємо канали"
- JUN_repair_the_cannals_desc:0 "Rivers are the lifeblood of this land. By mastering their flow, we can turn water from a fickle landmark into our greatest ally. It shall be a powerful tool that will both confound our enemies and nourish our people." # (!)
+ JUN_repair_the_cannals_desc: "Річки є життєвою силою цієї землі. Опанувавши їхній плин, ми можемо перетворити воду з мінливого орієнтира на нашого найсильнішого союзника. Вона стане потужним інструментом, який збентежить наших ворогів і живитиме наш народ." # (@!)
  JUN_food_surplus:0 "Заповнити комори"
- JUN_food_surplus_desc:0 "A stable food supply is the bedrock of any war effort. While our supply lines are secure for now, we must acquire enough to create a surplus. A well-fed nation is a resilient nation." # (!)
+ JUN_food_surplus_desc: "Стабільне постачання продовольства є основою будь-яких військових дій. Хоча наші лінії постачання наразі є безпечними, ми повинні придбати достатню кількість продовольства, щоб створити надлишок. Добре нагодована нація є стійкою нацією." # (@!)
  JUN_the_old_road:0 "Відремонтувати систему о'тлі"
- JUN_the_old_road_desc:0 "So much of the old infrastructure is still in a half-decent state. If we invest in renovating these roads and structures, our own infrastructure will flourish just as these jungles do." # (!)
+ JUN_the_old_road_desc: "Значна частина старої інфраструктури все ще перебуває в досить пристойному стані. Якщо ми інвестуємо в реконструкцію цих доріг і споруд, наша інфраструктура буде процвітати так само, як і ці джунглі." # (@!)
  JUN_secondary_forts:0 "Підняти башти"
- JUN_secondary_forts_desc:0 "Despite our efforts, Aztlan remains exposed and scattered. We must raise watchtowers! With them, our sight will span far and wide; none shall take us by surprise. These fortified posts will grant us the security we need." # (!)
+ JUN_secondary_forts_desc: "Незважаючи на наші зусилля, Астлан залишається незахищеним і розрізненим. Ми повинні звести сторожові вежі! З них ми зможемо бачити далеко і широко, і ніхто не зможе нас застати зненацька. Ці укріплені пости забезпечать нам необхідну безпеку." # (@!)
  JUN_repair_the_temple:0 "Відремонтувати піраміду Тоналцінтлі"
- JUN_repair_the_temple_desc:0 "The architecture of the Neighua is fascinating, and the Tonaltzintli Pyramid is a prime example. Though time has left it decrepit, this temple can yet return to its former glory. May it inspire us and provide refuge from the raging war. Hopefully the chiefs share this enthusiasm." # (!)
+ JUN_repair_the_temple_desc: "Архітектура нейуа зачаровує, і піраміда Тоналцінтлі є тому яскравим прикладом. Хоча час зробив її занедбаною, цей храм ще може повернути свою колишню славу. Нехай він надихає нас і стає притулком від лютої війни. Сподіваємося, що вожді поділяють цей ентузіазм." # (@!)
  JUN_basic_manufacturies:0 "Мануфактури Теночтітлана"
- JUN_basic_manufacturies_desc:0 "With our foundational progress, the time has come to advance. Our capital requires better factories and greater production. We can finally establish a progressive manufacturing base, the likes of which this land has never seen." # (!)
+ JUN_basic_manufacturies_desc: "З огляду на наш фундаментальний прогрес, настав час рухатися вперед. Наш капітал потребує кращих заводів і більшого обсягу виробництва. Ми нарешті можемо створити прогресивну виробничу базу, якої ця земля ще не бачила." # (@!)
  JUN_basic_saw_mills:0 "Лісозаготівельні табори"
- JUN_basic_saw_mills_desc:0 "If there is one thing the jungles have no shortage of, that would be wood. To harvest it effectively, we need better tools and infrastructure. By building more sawmills, our logging camps will yield enough materials to ensure we never run short of fine wood." # (!)
+ JUN_basic_saw_mills_desc: "Якщо є щось, чого в джунглях не бракує, то це деревина. Щоб ефективно її заготовляти, нам потрібні кращі інструменти та інфраструктура. Збудувавши більше лісопилень, наші лісозаготівельні табори будуть виробляти достатньо матеріалів, щоб ми ніколи не відчували нестачі в якісній деревині." # (@!)
  JUN_win_them_over:0 "Зустріч із аборигенами"
- JUN_win_them_over_desc:0 "We are guests here – uninvited, heavily armed guests, but guests nonetheless. It is poor form, and poorer strategy, to make enemies of one's hosts. These tribes hold the secrets to surviving and thriving in this land. To ensure Aztlan is not yet another failed state, we must be as one with the natives." # (!)
+ JUN_win_them_over_desc: "Ми тут гості — непрохані, добре озброєні гості, але все ж гості. Негарно і нерозумно наживати собі ворогів серед господарів. Ці племена знають секрети виживання і процвітання на цій землі. Щоб Астлан не став ще однією провальною державою, ми маємо бути єдині з корінними жителями." # (@!)
  JUN_my_old_rival: "Вона найгірша"
- JUN_my_old_rival_desc:0 "Daring Do, the so-called 'hero' extraordinaire; real life is uglier than the narratives of books. She's a power-hungry mare seeking to overthrow Aztlan's rightful banner and re-enslave it under Canterlot's rule. She must be stopped at all costs if Aztlan is to survive. Yes, the other enemies are important... but she's the worst!" # (!)
+ JUN_my_old_rival_desc: "Дерінґ Ду, так звана «героїня» надзвичайних здібностей; реальне життя гірше, ніж розповіді в книгах. Вона — жадібна до влади кобила, яка прагне повалити законну владу Астлану і знову поневолити його під владою Кантерлота. Її потрібно зупинити за будь-яку ціну, якщо Астлан хоче вижити. Так, інші вороги теж важливі... але вона — найгірша!" # (@!)
  JUN_hearts_and_minds:0 "Серця та уми"
- JUN_hearts_and_minds_desc:0 "We have fought beside the Neighua; yet, we must make them believe in the same future. Their gods watch this land, and their warriors defend it. If their cause becomes inseparable from ours, we must earn both their hearts and minds." # (!)
+ JUN_hearts_and_minds_desc: "Ми воювали пліч-о-пліч із нейуа, але ми повинні переконати їх повірити в те саме майбутнє. Їхні боги пильнують цю землю, а їхні воїни захищають її. Якщо їхня справа стане невіддільною від нашої, ми повинні завоювати і їхні серця, і їхні уми." # (@!)
  JUN_borne_of_the_jungle:0 "Народжені джунглями"
- JUN_borne_of_the_jungle_desc:0 "With agreements in place, our newfound allies have entrusted us with some of their best and most highly trained warriors. It is a great honour, and an opportunity that we must cherish. Our enemies will learn to fear these jungles!" # (!)
+ JUN_borne_of_the_jungle_desc: "Уклавши угоди, наші нові союзники довірили нам деяких зі своїх найкращих і найбільш досвідчених воїнів. Це велика честь і можливість, яку ми повинні цінувати. Наші вороги навчяться боятися цих джунглів!" # (@!)
  JUN_bury_them_here:0 "Володарі джунглів"
- JUN_bury_them_here_desc:0 "Our partnership allowed us to learn these territories in the greatest details. Every nook and cranny that these locals have lived among for ages, their secrets, are now part of our strategy. Let any invader come! They will face the jungle itself – and it has already chosen the victor." # (!)
+ JUN_bury_them_here_desc: "Наше партнерство дозволило нам досконало вивчити ці території. Кожен куточок, в якому століттями жили місцеві жителі, їхні секрети — тепер все це є частиною нашої стратегії. Нехай приходить будь-який загарбник! Він зіткнеться з самою джунглями — а вони вже обрали переможця." # (@!)
  JUN_the_chosen:0 "Обрані богами"
- JUN_the_chosen_desc:0 "Their rituals may seem like pageantry to an outsider, but to mistake it as such is a terrible mistake. To be chosen means that our soldiers will fight with the conviction of destiny, and our enemies will face those chosen by the Gods themselves. We would be fools to refuse a weapon this potent." # (!)
+ JUN_the_chosen_desc: "Їхні ритуали можуть здаватися сторонньому спостерігачеві просто пишністю, але сприймати їх таким чином — велика помилка. Бути обраним означає, що наші воїни будуть битися з переконанням у своїй долі, а наші вороги зіткнуться з тими, кого обрали самі боги. Ми були б дурнями, відмовившись від такої могутньої зброї." # (@!)
  JUN_the_final_push:0 "Боротьба за Астлан"
- JUN_the_final_push_desc:0 "After all we've been through, I never gave up, we never gave up, and we never will. These jungles were a dangerous place, full of peril at every step. They still are, but thanks to our allies, only our enemies see them as such. The knowledge of the Neighua is now our own. We stand free and united! For Aztlan!" # (!)
+ JUN_the_final_push_desc: "Після всього, що ми пережили, я ніколи не здавався, ми ніколи не здавалися і ніколи не здамося. Ці джунглі були небезпечним місцем, повним небезпек на кожному кроці. Вони такими залишаються і досі, але завдяки нашим союзникам, тільки наші вороги бачать їх такими. Знання про нейуа тепер належать нам. Ми вільні і єдині! За Астлан!" # (@!)
  JUN_army_debate:0 "Мілчімаллі"
- JUN_army_debate_desc:0 "Aztlan is finally free from Equestrian imperialism, but it would be foolish to expect our independence to last on international goodwill alone. To ensure its sovereignty is never extinguished, we must build a proper military. Any enemy foolish enough to enter these jungles with hostile intent will never leave them alive." # (!)
+ JUN_army_debate_desc: "Астлан нарешті звільнився від імперіалізму Еквестрії, але було б нерозумно сподіватися, що наша незалежність триватиме лише завдяки міжнародній доброзичливості. Щоб гарантувати, що наша суверенітет ніколи не зникне, ми повинні створити належну армію. Будь-який ворог, який буде настільки нерозумним, що увійде в ці джунглі з ворожими намірами, ніколи не вийде з них живим." # (@!)
  JUN_equestrian_tactics: "Уроки від чейнджлінґів"
- JUN_equestrian_tactics_desc:0 "Despite our successes during the War of the Southeast, we remain woefully behind in terms of warfare and much of it comes either from ancestral methods or from adventurers and mercenaries. If we are to truly build an army for Aztlan, we need to borrow military theory and tactics. And the best ones on Equus are the Changelings." # (!)
+ JUN_equestrian_tactics_desc: "Незважаючи на наші успіхи під час війни на південному сході, ми все ще значно відстаємо в галузі військової справи, і значною мірою це пов'язано з використанням застарілих методів або залученням авантюристів і найманців. Якщо ми хочемо створити справжню армію для Астлану, нам потрібно запозичити військову теорію і тактику. А найкращі на Еквусі в цьому плані — це чейнджлінґи." # (@!)
  JUN_forest_masters: "Повелителі лісу"
- JUN_forest_masters_desc:0 "While jungles dominate the southeast, our foreign borders are heavily forested. Our foreign friends possess extensive experience in this type of warfare. By combining our terrain expertise with foreign insight, we will forge an army adept at fighting in these environments." # (!)
+ JUN_forest_masters_desc: "Хоча південний схід країни вкритий джунглями, наші зовнішні кордони мають густі ліси. Наші іноземні друзі мають великий досвід у веденні бойових дій у таких умовах. Поєднуючи наші знання про місцевість із іноземним досвідом, ми створимо армію, яка вміє воювати в таких умовах." # (@!)
  JUN_trucks:0 "Прийняти «Jackalope»"
- JUN_trucks_desc:0 "Logistics has been one of the most important aspects of warfare throughout history, one that the natives mastered in these jungles. Our engineers have successfully modified Sicameonese all-terrain trucks for local operations, dubbing the new model the Jackalope. It will secure our supply lines where tradition falls short." # (!)
+ JUN_trucks_desc: "Логістика завжди була одним з найважливіших аспектів ведення війни, і місцеві жителі досконало оволоділи нею в цих джунглях. Наші інженери успішно модифікували сікамеонські всюдиходи для місцевих операцій, назвавши нову модель «Jackalope». Вона забезпечить безпеку наших ліній постачання там, де традиційні засоби виявляються недостатніми." # (@!)
  JUN_cheap_labor_for_ford_factories: "Профінансувати Blue Mare Motors"
- JUN_cheap_labor_for_ford_factories_desc:0 "Blue Mare Motors is ahead of the curve when it comes to motorisation, and it's located right here in the Southeast. Direct investment will help stabilize their post-war struggles and incentivize them to develop superior trucks for our use." # (!)
+ JUN_cheap_labor_for_ford_factories_desc: "Blue Mare Motors є лідером у галузі моторизації і розташована саме тут, на південному сході. Прямі інвестиції допоможуть стабілізувати їх післявоєнні труднощі та стимулюватимуть їх до розробки високоякісних вантажівок для нашого використання." # (@!)
  JUN_strike_hard_strike_fast: "Бий сильно, бий швидко"
- JUN_strike_hard_strike_fast_desc:0 "The thrill of the automobile! The wind in your mane! The raw speed! Automobiles are the tool of the future... while not quite the same, riding in a military vehicle comes close. Our mercenaries will relish the rush and adapt swiftly." # (!)
+ JUN_strike_hard_strike_fast_desc: "Захоплення від автомобіля! Вітер у волоссі! Нестримна швидкість! Автомобілі — це засіб майбутнього... Хоча це не зовсім те саме, але їзда на військовому транспортному засобі дуже до цього наближається. Наші найманці будуть насолоджуватися швидкістю і швидко пристосуються." # (@!)
  JUN_mechanized: "Ставка на бронетранспорт"
- JUN_mechanized_desc:0 "Mechanisation is the future of warfare, whether we like it or not. Trucks won't be good enough for combat roles with heavier infantry weapons coming to the average soldier. We need to focus on the future, and that future is mechanised infantry." # (!)
+ JUN_mechanized_desc: "Механізація — це майбутнє війни, подобається нам це чи ні. Вантажівки не будуть достатньо ефективними для бойових завдань, оскільки пересічний солдат буде озброєний важчою піхотною зброєю. Ми повинні зосередитися на майбутньому, а майбутнє — це механізована піхота." # (@!)
  JUN_foreign_expertise: "Іноземна експертиза"
- JUN_foreign_expertise_desc:0 "While it may seem insane to bet everything on mechanised forces and tanks for a small nation filled with jungles, there is enough precedent abroad to showcase that this is the future. A few bits here or there would go a long way towards getting officers here who share this vision, and ensuring that Aztlan's high command is all prepared for the change." # (!)
+ JUN_foreign_expertise_desc: "Хоча може здатися божевільним ставити все на механізовані сили і танки для маленької країни, вкритої джунглями, за кордоном є достатньо прецедентів, які показують, що це майбутнє. Кілька дрібниць тут і там допомогли б залучити офіцерів, які поділяють цю візію, і забезпечити, щоб вище командування Астлану було готове до змін." # (@!)
  JUN_tanks: "Танки південного сходу"
- JUN_tanks_desc:0 "The griffon mercs speak of the rapid advances in armored warfare that are happening over at Griffonia. Perhaps their expertise will be useful to ensure we can prepare our armor to better survive the rough terrain of the southeast. If our armor can survive here, it can survive anywhere!" # (!)
+ JUN_tanks_desc: "Найманці-грифони розповідають про стрімкий прогрес у танковій війні, який відбувається в Гріффонії. Можливо, їхній досвід буде корисним для підготовки нашої бронетехніки до виживання в суворих умовах південного сходу. Якщо наша бронетехніка витримає тут, вона витримає будь-де!" # (@!)
  JUN_changeling_tactics: "Тактика панцергренадерів"
- JUN_changeling_tactics_desc:0 "There is a lot to say about the changelings, but what can't be denied is their prowess at war. The changeling mercs share stories about the independent motorised schools of thought of several changeling officers. If their tactics are applied to our own mechanised forces, we can ensure that our army will be among the best in the world!" # (!)
+ JUN_changeling_tactics_desc: "Про чейнджлінґів можна сказати багато, але не можна заперечувати їхню майстерність у війні. Наймані чейнджлінґи розповідають історії про незалежні моторизовані школи думки кількох офіцерів-чейнджлінґів. Якщо їхні тактики застосувати до наших механізованих військ, ми можемо бути впевнені, що наша армія буде однією з найкращих у світі!" # (@!)
  JUN_modern_army_of_southeast: "Сучасна армія південного сходу"
- JUN_modern_army_of_southeast_desc:0 "From warbands of Neighua and mercenaries, to a modern army with modern strategies, it has been a wild journey. But the [JUN.Getadjective] Army can now stand proud among the greatest on Equus!" # (!)
+ JUN_modern_army_of_southeast_desc: "Від військових загонів нейуа й найманців до сучасної армії з сучасними стратегіями — це була бурхлива подорож. Але тепер [JUN.Getadjective]а армія може гордо стояти серед найвеличніших на Еквусі!" # (@!)
  JUN_new_officers:0 "Прочісуємо джунглі в пошуках талантів"
  JUN_new_officers_desc:0 "Despite our recruitment binge since independence, our officer corps remains critically understaffed. We will call for volunteers from every tribe, selecting the most promising talent Aztlan has to offer." # (!)
  JUN_train_them:0 "Провести їх крізь Тартар" # TODO
@@ -449,14 +449,14 @@
  JUN_spirit_of_the_jungle_desc:0 "The Ursa Minor holds a special spot in the mythology of the Tenanyotl and the Neighuatl, even if for opposite reasons. When the Southeast is threatened, these nearly-mythical beasts roar to life once more. Working alongside them will bring the foreign imperialists to their knees!"
  JUN_spiritual_warfare:0 "Spiritual Warfare"
  JUN_spiritual_warfare_desc:0 "The native way of life has existed since before written records. Though often outnumbered and outgunned, there is a quality in their warriors that no other soldier can match: their will to survive and come back home at any cost! We will show that every soldier of Aztlan has the spirit to match a hundred of our enemies!"
- JUN_last_stand_of_the_natives:0 "Last Stand of the Natives"
- JUN_last_stand_of_the_natives_desc:0 "It is no secret that the native tribes of the Southeast are set in their ways. However, one aspect is often overlooked: how fiercely they will defend their way of life when it is threatened. Internal rivalries and squabbles are forgotten as every single tribe stands together to protect their home!\nTo arms, Neighua and Tenanyotl!"
- JUN_sons_of_the_sun:0 "Sons Of The Sun"
- JUN_sons_of_the_sun_desc:0 "The sun's scorching rays shall burn all the heathens beneath the holy light. Blinded by the radiance of Father Sun, there is no safe place for the followers of the heathen goddesses that dare claim divinity from the truly divine."
- JUN_daughters_of_darkness:0 "Daughters Of Darkness"
- JUN_daughters_of_darkness_desc:0 "Fear the Night and those who dwell in the darkness. Shrouded by Mother Moon's grace, there is no safe place for the followers of the heathen goddesses that dare claim divinity from the truly divine."
- JUN_last_stand_of_freedom:0 "Last Stand Of The Free Southeast"
- JUN_last_stand_of_freedom_desc:0 "It doesn't take a genius to know the tyrants' plans for us. We are more than a ragtag army of mercenaries, harmonists, Lunarists, and natives: we are the army of all the Southeast!\nWe'll rally 'round the flag, oh we'll rally once again, shouting our battlecry for freedom!"
+ JUN_last_stand_of_the_natives: "Останній рубіж тубільців"
+ JUN_last_stand_of_the_natives_desc: "Не секрет, що тубільні племена південного сходу дотримуються своїх традицій. Однак часто не беруть до уваги один аспект: наскільки запекло вони захищатимуть свій спосіб життя, коли йому загрожуватиме небезпека. Внутрішні суперечки та чвари забуваються, коли кожне плем'я об'єднується, щоб захистити свою батьківщину!\nДо зброї, нейуа та тенаньйотлі!" # (@!)
+ JUN_sons_of_the_sun: "Сини сонця"
+ JUN_sons_of_the_sun_desc: "Палючі промені Сонця спалять усіх невірних у своєму священному світлі. У сліпучому сяйві Батька-Сонця немає прихистку послідовникам псевдобогинь, котрі сміють відбирати божественність від істинних божеств." # (&+)
+ JUN_daughters_of_darkness: "Доньки темряви"
+ JUN_daughters_of_darkness_desc: "Бійтеся ночі і тих, хто мешкає в темряві. Під покровом Матері-Місяця немає прихистку послідовникам псевдобогинь, котрі сміють відбирати божественність від істинних божеств." # (&+)
+ JUN_last_stand_of_freedom: "Останній рубіж вільного південного сходу"
+ JUN_last_stand_of_freedom_desc: "Не треба бути генієм, щоб зрозуміти плани тиранів щодо нас. Ми — більше, ніж збіговисько найманців, гармоністів, лунаристів і тубільців: ми — армія всього південного сходу! Ми знову зберемося під прапором, знову об'єднаємося, вигукуючи бойовий клич за свободу!" # (@!)
  JUN_heroes_from_the_north:0 "Heroes From The North"
  JUN_heroes_from_the_north_desc:0 "We're severely outnumbered and outgunned, but we have many potential allies in the far north. The ponies of the Crystal Empire and Stalliongrad face the same threat as us, and as such, are in a unique position to support us. With this in mind, we'll ask for their material support in this conflict. If they are not fools, they will see the value in partnership."
  JUN_call_upon_the_tide:0 "Call Upon The Tide"
