@@ -16,6 +16,7 @@
 + `country_BAL` (переклав [*Green Kitten*](https://steamcommunity.com/profiles/76561198235810742))
 + `country_BAL_protectorate` (переклав *Green Kitten*)
 + `country_BAN` (переклав *Bovcun*) — `(&)`
++ `country_BAK` (переклав [*pani_justyna1733*](https://steamcommunity.com/profiles/76561199241366335)) — `(&)`
 + `country_BAR` (переклав [*Max*](https://steamcommunity.com/profiles/76561198873048643)) — `(&)`
 + `country_BAT` (переклав *Max*)
 + `country_BOI`
@@ -76,7 +77,7 @@
 + `country_MNC` (переклав *Bovcun*) — `(&)`
 + `country_MTA` (умовно)
 + `country_NCR` (переклав *Green Kitten*)
-+ `country_NIM` (переклав [*pani_justyna1733*](https://steamcommunity.com/profiles/76561199241366335))
++ `country_NIM` (переклав *pani_justyna1733*)
 + `country_NLR` (переклав *Green Kitten*)
 + ~~`country_NMS`~~ (умовно; переклав *Green Kitten*) — доробити з `country_JUN`
 + ~~`country_north_zebrican_war`~~ (старішу частину переклав *All-Ampirian*)
