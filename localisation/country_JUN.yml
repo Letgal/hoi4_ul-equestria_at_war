@@ -85,6 +85,8 @@
  JUN_aztlan_for_everypony_idea_desc: "Астлан відкритий для всіх! Будь то туристичні напрямки, стародавні руїни чи відроджена економіка, ми відкриті для бізнесу!" # (@!)
  JUN_peace_in_our_time_idea:0 "Південний маяк"
  JUN_peace_in_our_time_idea_desc:0 "Незважаючи на багато труднощів і невдач, доктор Кабальєрон здійснив свій задум і приніс довготривалий мир і стабільність у південно-східну Еквестрію. Поні, фестрали і місцеві жителі тепер живуть в гармонії разом і відзначають, що життя ніколи не було кращим, ніж зараз."
+ JUN_internal_focus_idea: "Зосередження всередину"
+ JUN_internal_focus_idea_desc: "Ми мусимо зосередитися на наших власних справах, перш ніж допомагати іншим."
  JUN_discontent_in_cities_2:0 "Невдоволення в містах"
  JUN_discontent_in_cities_2_desc:0 "Громадянська війна, можливо, і закінчилася, але ворожнеча між звичайними поні анітрохи не зменшилася. Вирішення цієї проблеми має бути одним з наших першочергових завдань, щоб не допустити повторного повстання."
  JUN_better_torpedos_idea: "Риби з бомбами"
@@ -1301,7 +1303,7 @@
  JUN_SOUTH_neutrality_ADJ: "Південн"
  JUN_SOUTH_communism_ADJ: "Південн"
 
- JUN_EQS_neutrality:0 "Confederated Republics of Equestria"
+ JUN_EQS_neutrality:0 "Confederated Republics of Equestria" # (!)
  JUN_EQS_fascism:0 "Greater Neo-Aztlan Empire"
  JUN_EQS_communism:0 "Confederated Soviet Republics of Equestria"
  JUN_EQS_democratic:0 "Confederated Republics of Equestria"
@@ -1315,10 +1317,10 @@
  JUN_EQS_communism_ADJ: "Еквестрійськ"
 
 ### АЛЬЯНСИ ###
- JUN_faction_name:0 "Association of Anti-Imperialists"
+ JUN_faction_name:0 "Association of Anti-Imperialists" # (!)
 
 ### МИРНІ КОНФЕРЕНЦІЇ ###
- JUN_equestrian_annex_reduction:0 "\n§YReduced cost§! for §YTake States§! action on §YEquestrian original cores§! in Peace Conferences."
+ JUN_equestrian_annex_reduction:0 "\n§YReduced cost§! for §YTake States§! action on §YEquestrian original cores§! in Peace Conferences." # (!)
 
 ### АВТОРИ ###
- JUN_thank_you:0 "§5Thank you for playing the Aztlan touch up! Here's a special 'thank you' from the EaW Team members who worked on this project§!:\n§GJPG§! (Lead Developer)\n§HSnow§! (Lead Writer)\n§tZopelleganger§! (Lead Scripter)\n§Rdagejiaoxian114§! (Scripter and Playtester)\n§PGoldenJoey§! (Lead GFX Designer)"
+ JUN_thank_you:0 "§5Thank you for playing the Aztlan touch up! Here's a special 'thank you' from the EaW Team members who worked on this project§!:\n§GJPG§! (Lead Developer)\n§HSnow§! (Lead Writer)\n§tZopelleganger§! (Lead Scripter)\n§Rdagejiaoxian114§! (Scripter and Playtester)\n§PGoldenJoey§! (Lead GFX Designer)" # (!)
