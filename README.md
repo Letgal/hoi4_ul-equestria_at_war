@@ -91,6 +91,7 @@
 + `country_ROU` (переклав *StasJesus*) — `(&)`
 + `country_SCS` (переклав *Green Kitten*)
 + `country_SOL`
++ `country_SRS` (переклав *Green Kitten*)
 + `country_STG` (первісно переклав *pani_justyna1733*, переписав *Max*)
 + `country_STL` (переклав *Max*)
 + `country_Storm` (переклав *Daybreaker*)
