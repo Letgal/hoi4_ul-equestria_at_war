@@ -84,6 +84,7 @@
 + `country_NTR`
 + `country_OLE` (переклав *Max*)
 + `country_OLV` (переклав *Bovcun*) — `(&)`
++ `country_PLB` (переклав *Green Kitten*) — `(&)`
 + `country_PNG`
 + `country_POM`
 + `country_PYT` (переклав *StasJesus*)
