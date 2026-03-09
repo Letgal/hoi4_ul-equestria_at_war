@@ -1375,7 +1375,31 @@
  CTH_dragon_mercs_desc:0 ""
 
  CTH_trade_decisions_cat:0 "Кольтфагенська торгівля"
- CTH_trade_decisions_cat_desc:0 "З давніх часів Кольтфаген був центром торгівлі. Хоча його могутність то зростала, то слабшала, до сьогодні патріції залишаються дуже впливовими. Кольтфаген традиційно називали воротами Зебрики, оскільки він був важливою сполучною ланкою між торгівлею між Сходом і Заходом і перевалочним пунктом для товарів, що перетинали зебхарські торгові шляхи. Тепер, коли країна оговталася від гніву Короля Шторма, настав час Кольтфагену відновити свою позицію економічної наддержави.\n\nНаш поточний §Yторговий потенціал§!, межа того, зі скількома країнами ми можемо торгувати, — це [?trade_capacity]. У нас є [?trade_partners^num] §YТоргові Партнери§!. За кожного §YТоргового Партнера§! ми отримуємо §Y10 політичної влади§! кожні 90 днів.\n\n§YПродукція:§!    Попит:    Пропозиція:\n£coffee_texticon Кава [?coffee_demand] [?coffee_supply]\n£pearl_texticon Перли [?pearl_demand] [?pearl_supply]\n£cotton_texticon Бавовна [?cotton_demand] [?cotton_supply]\n£faience_texticon Фарфор [? faience_demand] [?faience_supply]\n£gold_texticon Золото [?gold_demand] [?gold_supply]\n£ivory_texticon Слонова кістка [?ivory_demand] [?ivory_supply]\n£spices_texticon Спеції [?spices_demand] [? spices_supply]\n£sugar_texticon Цукор [?sugar_demand] [?sugar_supply]\n£tea_texticon Чай [?tea_demand] [?tea_supply]\n£textiles_texticon Текстиль [?textiles_demand] [?textiles_supply]\n£tobacco_texticon Тютюн [? tobacco_demand] [?tobacco_supply]\n£opium_text Опіум [?opium_demand] [?opium_supply]\nЗа кожен §Gповністю задоволений попит на товар§! ми отримуємо додатковий §Yторговий потенціал§! кожні 90 днів.\n" CTH_income_mission:0 "Quarterly Report"
+ CTH_trade_decisions_cat_desc:0 "З давніх часів Кольтфаген був центром торгівлі. Хоча його могутність то зростала, то слабшала, до сьогодні патріції залишаються дуже впливовими. Кольтфаген традиційно називали воротами Зебрики, оскільки він був важливою сполучною ланкою між торгівлею між Сходом і Заходом і перевалочним пунктом для товарів, що перетинали зебхарські торгові шляхи. Тепер, коли країна оговталася від гніву Короля Шторма, настав час Кольтфагену відновити свою позицію економічної наддержави.\n\nНаш поточний §Yторговий потенціал§!, межа того, зі скількома країнами ми можемо торгувати, — це [?trade_capacity]. У нас є [?trade_partners^num] §YТоргові Партнери§!. За кожного §YТоргового Партнера§! ми отримуємо §Y10 політичної влади§! кожні 90 днів."
+
+ CTH_trade_title_text: "Товари"
+
+ CTH_trade_good_0: "£coffee_texticon Кава"
+ CTH_trade_good_1: "£pearl_texticon Перли"
+ CTH_trade_good_2: "£cotton_texticon Бавовна"
+ CTH_trade_good_3: "£faience_texticon Порцеляна"
+ CTH_trade_good_4: "£gold_texticon Золото"
+ CTH_trade_good_5: "£ivory_texticon Слонова кістка"
+ CTH_trade_good_6: "£spices_texticon Спеції"
+ CTH_trade_good_7: "£sugar_texticon Цукор"
+ CTH_trade_good_8: "£tea_texticon Чай"
+ CTH_trade_good_9: "£textiles_texticon Текстилі"
+ CTH_trade_good_10: "£tobacco_texticon Тютюн"
+ CTH_trade_good_11: "£opium_text Опіум"
+
+ CTH_trade_good_supply_demand: "[CTH_trade_fulfillment_color][?CTH_trade_supply_list^trade_idx|0]§!/[?CTH_trade_demand_list^trade_idx|0Y]"
+ CTH_trade_good_g: "§G"
+ CTH_trade_good_r: "§R"
+
+ CTH_trade_goods_tooltip: "§Y[CTH_trade_goods_name]§!\nПропозиція: [CTH_trade_fulfillment_color][?CTH_trade_supply_list^trade_idx|0]§!\nПопит: [?CTH_trade_demand_list^trade_idx|0Y]"
+
+ CTH_trade_good_bottom_text:0 "За кожен §Gповністю задоволений попит на товар§! ми отримуємо додатковий §Yторговий потенціал§! кожні 90 днів."
+
  CTH_income_mission:0 "Квартальний звіт"
  CTH_income_mission_desc:0 "Більше торгівлі означає заможніших патріціїв, що в свою чергу означає більшу політичну підтримку [Root.GetLeader]. Кожні 90 днів ми отримуємо §Y10 політичної влади§! за кожного §Y торгового партнера§! і додатковий §Yторговий потенціал§! за кожен §Gвиконаний попит на товари§!"
  CTH_propose_trade_deal:0 "Запропонувати торгову угоду державі [From.GetNameDef]"

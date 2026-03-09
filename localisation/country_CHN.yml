@@ -613,7 +613,7 @@
  CHN_manehattan_protectorate: "Утворити Мейнгеттенський протекторат"
  CHN_baltimare_protectorate: "Утворити Австральний протекторат"
  CHN_pony_protectorate: "Протекторат Поні"
- CHN_desert_protectorate: "Утворити Еппллузький протекторат"
+ CHN_desert_protectorate: "Утворити Протекторат Тихого Заходу"
  CHN_olenia_protectorate: "Утворити Оленійський протекторат"
  CHN_northern_protectorate: "Утворити Північний протекторат"
  CHN_nova_protectorate: "Утворити Нова-грифонський протекторат"
@@ -624,7 +624,7 @@
  release_stableside_protectorate: "Звільнить §YСтейблсайдський протекторат§! як маріонетку."
  release_baltimare_protectorate: "Звільнить §YБалтимейрський протекторат§! як маріонетку."
  release_southern_protectorate: "Звільнить §YПівденний протекторат§! як маріонетку."
- release_confederate_protectorate: "Звільнить §YЕппллузький протекторат§! як маріонетку."
+ release_confederate_protectorate: "Звільнить §YПротекторат Тихого Заходу§! як маріонетку."
  release_olenia_protectorate: "Звільнить §YОленійський протекторат§! як маріонетку."
  CHN_crystal_protectorate_decision: "Утворити Кристальний протекторат"
  CHN_cry_protectorate_decision_req_tt: "§YКристальне Місто та його околиці§! мусять бути під повним [Root.GetAdjective]им контролем або контролем [Root.GetAdjective]ої маріонетки" # (&?)

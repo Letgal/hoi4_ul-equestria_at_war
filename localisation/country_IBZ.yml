@@ -1,8 +1,14 @@
 ﻿# == (*) ==
-### РІШЕННЯ ###
- unite_chisimbi_decision_IBZ: "Закінчити об'єднавчі війни"
-
 ### КОСМЕТИЧНІ ТЕҐИ ЧІСІМБІ ДЛЯ GFS ###
+ IBZ_chisimbi_unified_neutrality: "Конфедеративні провінції Чісімбі"
+ IBZ_chisimbi_unified_neutrality_DEF: "Конфедеративні провінції Чісімбі"
+ IBZ_chisimbi_unified_neutrality_ADJ: "Чісімбійськ"
  IBZ_chisimbi_unified_democratic: "Чісімбійська визвольна армія"
  IBZ_chisimbi_unified_democratic_DEF: "Чісімбійська визвольна армія"
  IBZ_chisimbi_unified_democratic_ADJ: "Чісімбійськ"
+ IBZ_chisimbi_unified_communism: "Сполучені комуни Чісімбі"
+ IBZ_chisimbi_unified_communism_DEF: "Сполучені комуни Чісімбі"
+ IBZ_chisimbi_unified_communism_ADJ: "Чісімбійськ"
+ IBZ_chisimbi_unified_fascism: "Імперський Чісімбі"
+ IBZ_chisimbi_unified_fascism_DEF: "Імперія Чісімбі"
+ IBZ_chisimbi_unified_fascism_ADJ: "Чісімбійськ"

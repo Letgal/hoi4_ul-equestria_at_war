@@ -1,8 +1,14 @@
 ﻿# == (*) ==
-### РІШЕННЯ ###
- unite_chisimbi_decision_ZLU: "Закінчити об'єднавчі війни"
-
 ### КОСМЕТИЧНІ ТЕҐИ ЧІСІМБІ ДЛЯ ZLU ###
+ ZLU_chisimbi_unified_neutrality: "Конфедеративні провінції Чісімбі"
+ ZLU_chisimbi_unified_neutrality_DEF: "Конфедеративні провінції Чісімбі"
+ ZLU_chisimbi_unified_neutrality_ADJ: "Чісімбійськ"
+ ZLU_chisimbi_unified_democratic: "Чісімбійська унітарна республіка"
+ ZLU_chisimbi_unified_democratic_DEF: "Унітарна республіка Чісімбі"
+ ZLU_chisimbi_unified_democratic_ADJ: "Чісімбійськ"
+ ZLU_chisimbi_unified_communism: "Сполучені комуни Чісімбі"
+ ZLU_chisimbi_unified_communism_DEF: "Сполучені комуни Чісімбі"
+ ZLU_chisimbi_unified_communism_ADJ: "Чісімбійськ"
  ZLU_chisimbi_unified_fascism: "Червона орда"
  ZLU_chisimbi_unified_fascism_DEF: "Червона орда"
  ZLU_chisimbi_unified_fascism_ADJ: "Зеблуськ"

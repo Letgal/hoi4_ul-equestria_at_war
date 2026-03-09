@@ -359,6 +359,7 @@ form_department_tooltip: "Виконано поліпшення агентств
   sp_deep_rock_drill_coal: "Спрямування видобутку: вугілля"
   sp_deep_rock_drill_hide: "Приховати рішення з глибокого буріння"
   sp_deep_rock_drill_show: "Показати рішення з глибокого буріння"
+  sp_deep_rock_drill_establish_tt:0 "§gКак только мы обустроим $sp_deep_rock_drill_site$, то сможем выбрать ресурс для добычи.§!"
 
 ###############################
 ### MAGICAL PROJECT REWARDS ###
