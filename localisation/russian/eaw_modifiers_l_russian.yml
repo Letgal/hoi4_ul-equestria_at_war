@@ -43,7 +43,7 @@
 
  modifier_module_easy_maintenance_design_cost_factor:0 "Стоимость проекта танковой простоты в обслуживании"
  modifier_module_easy_maintenance_2_design_cost_factor:0 "Стоимость проекта танкового облегчённого технического обслуживания"
- 
+
  modifier_experience_gain_super_heavy_armor_training_factor:1 "Получаемый опыт за подготовку сверхтяжелого танка"
  modifier_experience_gain_super_heavy_armor_combat_factor:1 "Получаемый боевой опыт сверхтяжелого танка"
  modifier_experience_gain_heavy_armor_training_factor:1 "Получаемый опыт за подготовку тяжелого танка"

@@ -569,6 +569,12 @@ Yal_skeleton_king_army_leader_desc:0 "§LСражение под началом 
 
  aeronautical_engineer: "Авіаційний інженер"
 
+ IBZ_iron_breaker_trait:0 "Несокрушимый"
+
+ MSS_king_of_the_world:0 "Король всего мира"
+
+ medical_cartographer:0 "Medical Cartographer"
+
 ### THESE ARE NOT DUPLICATES, DO NOT REMOVE
  alt_red_army_organizer: "$red_army_organizer$"
  alt_army_chief_defensive_1: "$army_chief_defensive_1$"
