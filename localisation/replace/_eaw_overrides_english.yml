@@ -3,7 +3,7 @@
  EAW_MENU_DISCORD: "Сервер Equestria at War у Discord"
  EAW_MENU_STEAMWORKSHOP: "Equestria at War у Майстерні Steam"
  EAW_MENU_VK: "Equestria at War у VK"
- maintheme: "$RedSpark-The_Way_of_Fire$"
+ maintheme: "$Zyvkar-Fire_Trek$"
  NOT_EXIST: "Для Вас буде вибрана випадкова країна."
 
  #air_l
@@ -417,6 +417,7 @@
   faction_manifest_victory_of_fascism_desc:0 "For supremacy to triumph, it must prevail in the proving ground of nations. Let all creatures of the world be free under supremacy's glory!"
   suppress_regional_democracy_goal_name: "Утиск регональної гармонії"
   the_red_tide_goal_desc: "Солдати на землі — ось що має найбільше значення. Потрібна армія чисельністю три мільйони. Ось як насправді забезпечується виживання."
+  a_military_base_goal_desc:0 "The coming wars require guns. In order to produce guns in large quantities we need a strong military industry." # (!)
 
  #focus_filter_tag_l
   FOCUS_FILTER_MANPOWER: "Поні-ресурси"
