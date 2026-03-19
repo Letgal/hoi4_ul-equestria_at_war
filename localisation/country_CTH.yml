@@ -1081,7 +1081,7 @@
  CTH_factions_modifier_desc:0 "§gПравління суфрітів не є абсолютним, і політична влада в Кольтфагені розподілена між різними фракціями, які отримують підтримку від різних верств суспільства.§!\n\n§YЛояльні фракції надають бонуси, тоді як нелояльні фракції дають мінуси. Масштаб цих модифікаторів залежить від сили кожної фракції.§!"
  CTH_preparing_for_war:0 "Підготовка до війни"
  CTH_preparing_for_war_desc:0 ""
- CTH_poltical_chiefs:0 "Політичні вожі"
+ CTH_poltical_chiefs:0 "Політичні вожді"
  CTH_poltical_chiefs_desc:0 ""
  CTH_autocratic_constitution:0 "Автократична конституція"
  CTH_autocratic_constitution_desc:0 ""

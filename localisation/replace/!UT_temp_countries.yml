@@ -263,6 +263,7 @@
   BRZ_shep_ironhall: "Шеп Айронголл"
   BRZ_lucca_amberheart: "Лукка Амбергарт"
   BRZ_ace_redstone: "Ейс Редстоун"
+  BRZ_rosalin_shorttail: "Розалін Шорттейл"
 
   # Адмірали
   BRZ_karl_spaniel: "Єва Спаніель"
@@ -1928,6 +1929,28 @@
  KXN_Wildfire_Flourish_desc: "§YАвтор портрета§!: Stephen Sen & Scroup"
  KXN_Tianhuo: "Тяньхо"
  KXN_Tianhuo_desc: "§YАвтор портрета§!: BlakaSmoko"
+
+ ### КОСМЕТИЧНІ ТЕҐИ ###
+  KXN_Zaikirian_Militarchy: "Зайкірська мілітархія"
+  KXN_Zaikirian_Militarchy_DEF: "Зайкірська мілітархія"
+  KXN_Zaikirian_Militarchy_ADJ: "Зайкірськ"
+  KXN_Great_Kirin_Militarchy: "Велика кірська мілітархія"
+  KXN_Great_Kirin_Militarchy_DEF: "Велика кірська мілітархія"
+  KXN_Great_Kirin_Militarchy_ADJ: "Великокірськ"
+  KXN_Vermilion: "Матріархат Кіноварі" ## KXV
+  KXN_Vermilion_DEF: "Божественний матріархат Кіноварі"
+  KXN_Vermilion_ADJ: "Кіноварн"
+  KXN_Occident: "Генеральство Заходу" ## KXO
+  KXN_Occident_DEF: "Генеральство Заходу"
+  KXN_Occident_ADJ: "Західн"
+  KXN_Exarchate: "Феодальна держава Кір Наам" ## KXK
+  KXN_Exarchate_DEF: "Феодальна держава Кір Наам"
+  KXN_Exarchate_ADJ: "Кірнаамськ"
+  KXN_Equatorarchy: "Генералархат Кір-Тай" ## KXE
+  KXN_Equatorarchy_DEF: "Генералархат Кір-Тай"
+  KXN_Equatorarchy_ADJ: "Кір-тайськ"
+
+  KXN_Host_ADJ: "Великокірськ"
 
 # country_LCT
  LCT: "Єзераград"
