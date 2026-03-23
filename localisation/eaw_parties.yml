@@ -289,37 +289,37 @@
  HLQ_democratic_party: "Пакт єдності"
  HLQ_fascism_party: "Реформісти"
 
- JEB_neutrality_party: "Династія Діскрет"
- JEB_communism_party: "ПАР-П"
- JEB_communism_party_long: "Партія аквілейських робітників — помірні"
- JEB_democratic_party: "МФА"
- JEB_democratic_party_long: "Молодіжний фронт Аквілеї"
- JEB_fascism_party: "ПРА"
- JEB_fascism_party_long: "Патріотичний рух Аквілеї"
+ JEB_neutrality_party: "$JER_neutrality_party$"
+ JEB_communism_party: "PAT-M" # ПАР-П
+ JEB_communism_party_long: "Parti des Aquiléens Travailleurs — Modéré" # було: Партія аквілейських робітників — помірні
+ JEB_democratic_party: "$JER_democratic_party$"
+ JEB_democratic_party_long: "$JER_democratic_party_long$"
+ JEB_fascism_party: "$JER_fascism_party$"
+ JEB_fascism_party_long: "$JER_fascism_party_long$"
 
- JRR_neutrality_party: "Династія Діскрет"
- JRR_communism_party: "ПАР-П"
- JRR_communism_party_long: "Партія аквілейських робітників — помірні"
- JRR_democratic_party: "МФА"
- JRR_democratic_party_long: "Молодіжний фронт Аквілеї"
- JRR_fascism_party: "ПРА"
- JRR_fascism_party_long: "Патріотичний рух Аквілеї"
+ JRR_neutrality_party: "$JER_neutrality_party$"
+ JRR_communism_party: "PAT-M" # ПАР-П
+ JRR_communism_party_long: "Parti des Aquiléens Travailleurs — Modéré" # було: Партія аквілейських робітників — помірні
+ JRR_democratic_party: "$JER_democratic_party$"
+ JRR_democratic_party_long: "$JER_democratic_party_long$"
+ JRR_fascism_party: "$JER_fascism_party$"
+ JRR_fascism_party_long: "$JER_fascism_party_long$"
 
- JFT_neutrality_party: "Династія Діскрет"
- JFT_communism_party: "ПАР-П"
- JFT_communism_party_long: "Партія аквілейських робітників — помірні"
- JFT_democratic_party: "МФА"
- JFT_democratic_party_long: "Молодіжний фронт Аквілеї"
- JFT_fascism_party: "ПРА"
- JFT_fascism_party_long: "Патріотичний рух Аквілеї"
+ JFT_neutrality_party: "$JER_neutrality_party$"
+ JFT_communism_party: "PAT-M" # ПАР-П
+ JFT_communism_party_long: "Parti des Aquiléens Travailleurs — Modéré" # було: Партія аквілейських робітників — помірні
+ JFT_democratic_party: "$JER_democratic_party$"
+ JFT_democratic_party_long: "$JER_democratic_party_long$"
+ JFT_fascism_party: "$JER_fascism_party$"
+ JFT_fascism_party_long: "$JER_fascism_party_long$"
 
- VIN_neutrality_party: "Династія Діскрет"
- VIN_communism_party: "ПАР-П"
- VIN_communism_party_long: "Партія аквілейських робітників — помірні"
- VIN_democratic_party: "МФА"
- VIN_democratic_party_long: "Молодіжний фронт Аквілеї"
- VIN_fascism_party: "ПРА"
- VIN_fascism_party_long: "Патріотичний рух Аквілеї"
+ VIN_neutrality_party: "$JER_neutrality_party$"
+ VIN_communism_party: "PAT-M" # ПАР-П
+ VIN_communism_party_long: "Parti des Aquiléens Travailleurs — Modéré" # було: Партія аквілейських робітників — помірні
+ VIN_democratic_party: "$JER_democratic_party$"
+ VIN_democratic_party_long: "$JER_democratic_party_long$"
+ VIN_fascism_party: "$JER_fascism_party$"
+ VIN_fascism_party_long: "$JER_fascism_party_long$"
 
  LAK_neutrality_party: "ВР-П"
  LAK_neutrality_party_long: "Вільний Румейр — помірні"
