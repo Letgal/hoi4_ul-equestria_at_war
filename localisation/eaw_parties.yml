@@ -330,25 +330,25 @@
  LAK_fascism_party: "ВР-Р"
  LAK_fascism_party_long: "Вільний Румейр — радикали"
 
- LNS_neutrality_party: "Орден Палісандру"
- LNS_communism_party: "ЛВА"
- LNS_communism_party_long: "Лонґсордська визвольна армія"
- LNS_democratic_party: "ЛДП"
- LNS_democratic_party_long: "Лонґсордська демократична партія"
+ LNS_neutrality_party: "Orden der Palisander" # Орден Палісандру
+ LNS_communism_party: "IIA" # ЛВА
+ LNS_communism_party_long: "Ilgakardžių Išsilaisvinimo Armija" # Лонґсордська визвольна армія
+ LNS_democratic_party: "IDP" # ЛДП
+ LNS_democratic_party_long: "Ilgakardžių Demokratų Partija" # Лонґсордська демократична партія
  LNS_fascism_party: "Реформісти"
 
  LSC_neutrality_party: "Лонґсордські королі"
  LSC_communism_party: "Червона фракція"
- LSC_communism_party_long: "Лонґсордська визвольна армія — червоні"
+ LSC_communism_party_long: "Ilgakardžių Išsilaisvinimo Armija — Raudonieji" # Лонґсордська визвольна армія — червоні
  LSC_democratic_party: "Біла фракція"
- LSC_democratic_party_long: "Лонґсордська визвольна армія — білі"
- LSC_fascism_party: "Нова Грифонія"
+ LSC_democratic_party_long: "Ilgakardžių Išsilaisvinimo Armija — Baltieji" # Лонґсордська визвольна армія — білі
+ LSC_fascism_party: "Naujoji Grifonija" # Нова Грифонія
 
- LSM_neutrality_party: "Камарілья"
+ LSM_neutrality_party: "Die Kamarilla" # Камарілья
  LSM_neutrality_party_long: "Камарілья Уейввінґ і Силверталона"
  LSM_communism_party: "Залишки партизанів"
- LSM_democratic_party: "НПЗ"
- LSM_democratic_party_long: "Національна партія зцілення"
+ LSM_democratic_party: "NaH" # НПЗ
+ LSM_democratic_party_long: "Nationale Heilungspartei" # Національна партія зцілення
  LSM_fascism_party: "Залишки реформістів"
 
  LUS_neutrality_party: "Династія Уайткрест"

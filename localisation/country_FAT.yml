@@ -3274,3 +3274,6 @@
  FAT_windford_mines:0 "Шахти Віндфорду"
  FAT_bob_the_builder:0 "Боб-Будівельник"
  elf_lake_aqua:0 "Ельф-лейк Аква"
+
+ veteran_of_the_long_march_trait:0 "Veteran Of The Long March" # (!)
+ veteran_of_the_long_march_trait_desc:0 "This general is a veteran of the Long March, the long and painful retreat that saw the Republican Army flee northward across the Herzland, zigzagging past reorganized Imperial forces. No officer that survived the March is a pampered armchair general: they've been in the thick of it and grown accustomed to harsh frontline conditions." # (!)
