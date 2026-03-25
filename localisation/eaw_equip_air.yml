@@ -2546,7 +2546,7 @@
   STG_scout_plane_equipment_2:0 "Yakovlev-2"
   STG_scout_plane_equipment_2_short:0 "Yak-2"
 
- # Наше Місто
+ # Наше Містечко
   STL_small_plane_cas_airframe_0:0 "Kochyerigin LBSh"
   STL_small_plane_cas_airframe_0_short:0 "LBSh"
   STL_small_plane_cas_airframe_1:0 "SU-2"
