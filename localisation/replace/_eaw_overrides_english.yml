@@ -3,7 +3,7 @@
  EAW_MENU_DISCORD: "Сервер Equestria at War у Discord"
  EAW_MENU_STEAMWORKSHOP: "Equestria at War у Майстерні Steam"
  EAW_MENU_VK: "Equestria at War у VK"
- maintheme: "$Zyvkar-Fire_Trek$"
+ maintheme: "$Zvykar-Fire_Trek$"
  NOT_EXIST: "Для Вас буде вибрана випадкова країна."
 
  #air_l
@@ -503,6 +503,8 @@
   MODIFIER_ARMY_SPEED_FACTOR: "Швидкість дивізій"
   dense_rural_infrastructure_desc:0 "The infrastructure networks in this area are already highly saturated by a dense local population.\n\nCan be removed by reaching max §H Infrastructure§! in this state, or by having a §H State Category§! of §HSparse Urban Region§! or higher." # (!)
 
+  resistance_activity_tt: "$MODIFIER_RESISTANCE_ACTIVITY_FACTOR$: $RIGHT|R-=%1$"
+
   MODIFIER_WEEKLY_MANPOWER: "Щотижневі поні-ресурси"
   MODIFIER_EXILED_MAPOWER_GAIN_FACTOR: "Щоденні поні-ресурси у вигнанні"
   MODIFIER_EXILED_GOVERNMENT_WEEKLY_MANPOWER: "Щотижневі поні-ресурси уряду у вигнанні"
@@ -546,6 +548,7 @@
   MODIFIER_ARMY_ATTACK_SPEED_FACTOR: "Швидкість атакуючих дивізій" # vnl.
   STAT_ARMY_SOFT_ATTACK: "Протипіхотна атака: " # vnl.
   STAT_ARMY_HARD_ATTACK: "Протитанкова атака: " # vnl.
+  MODIFIER_NAVAL_ATTRITION_FACTOR: "Виснаження в морі"
 
  #nsb_ideas_l
   proper_heritage_spirit_desc:0 "A good General may be trained, but a great General must be bred." # (!)

@@ -3,7 +3,7 @@
  EAW_MENU_DISCORD: "Сервер Equestria at War у Discord"
  EAW_MENU_STEAMWORKSHOP: "Equestria at War у Майстерні Steam"
  EAW_MENU_VK: "Equestria at War у VK"
- maintheme: "$Zyvkar-Fire_Trek$"
+ maintheme: "$Zvykar-Fire_Trek$"
  NOT_EXIST: "Для Вас буде вибрана випадкова країна."
 
  #air_l
@@ -217,6 +217,11 @@
   SCORCHED_EARTH_STATE:2 "\n§HВыжженная земля§!\n\nИзбавиться от железнодорожного сообщения в этом регионе за £pol_power §H$COST$§!, повредив все железные дороги и лишив жителей возможности их чинить."
   SCORCHED_EARTH_STATE_UNDO:0 "Поручить ремонт железных дорог в этом регионе."
 
+ #constructions
+  CIC_BANK_HEADER: "Надлишок економічного потенціалу" # РЛ, vnl.
+  CIC_BANK_HIGHLIGHT: "§HНадлишок економічного потенціалу§!" # РЛ, vnl.
+  CIC_BANK_DESC: "$CIC_BANK_HEADER$ включає в себе §Hпромисловий потенціал§! з контрактів на §Hміжнародному ринку§! й інших джерел, і робить внесок у Вашу швидкість будівництва." # РЛ, vnl.
+
  #country_l
   MANPOWER: "Поні-ресурси"
   SERVICE_MANPOWER: "£manpower_texticon£ Службові поні-ресурси:"
@@ -273,7 +278,7 @@
   NAME_THEME_HISTORICAL_CVL: "Національні легкі авіаносці/авіаносці супроводу"
   NAME_THEME_HISTORICAL_CLAA: "Національні протиповітряні крейсери"
   NAME_THEME_HISTORICAL_MINELAYERS: "Національні закладачі мін"
-  DESIGNER_BASE_STATS_LABEL: "Основні параметри" # РЛ, vnl.
+  DESIGNER_BASE_STATS_LABEL: "Основ. параметри" # РЛ, vnl.
   DESIGNER_COMBAT_STATS_LABEL: "Бойові параметри" # РЛ, vnl.
 
  #diplomacy_l
@@ -510,7 +515,14 @@
   MODIFIER_WEEKLY_MANPOWER: "Щотижневі поні-ресурси"
   dense_rural_infrastructure_desc:0 "Инфраструктура в этом районе уже сильно насыщена местным населением.\n\nМожно удалить, достигнув максимальной §Hинфраструктуры§! в этой области, или если §Hкатегория области§! имеет уровень §HНеплотный городской регион§! или выше." # (!)
 
+  ### Fixes from vanilla hoi4
+  resistance_activity_tt: "$MODIFIER_RESISTANCE_ACTIVITY_FACTOR$: $RIGHT|R-=%1$"
   MODIFIER_LOCAL_RESOURCE_GAIN_EFFICIENCY_PER_INFRASTRUCTURE:0 "Добыча ресурсов на ед. инфраструктуры" # РЛ
+  MODIFIER_LAND_REINFORCE_RATE: "Отримання підкріплень" # РЛ, vnl,
+  MODIFIER_ARMY_STRENGTH: "Міцність" # РЛ, vnl,
+  MODIFIER_NAVAL_INVASION_PLAN_CAP: "Місткість плану морського вторгнення" # РЛ, vnl,
+  MODIFIER_AIR_INVASION_PLAN_CAP: "Місткість плану повітряного десанту" # РЛ, vnl,
+  MODIFIER_AIR_POWER_PROJECTION_FACTOR: "Множник проєкції повітряної сили" # РЛ, vnl,
 
   MODIFIER_EXILED_MAPOWER_GAIN_FACTOR: "Щоденні поні-ресурси у вигнанні"
   MODIFIER_EXILED_GOVERNMENT_WEEKLY_MANPOWER: "Щотижневі поні-ресурси уряду у вигнанні"
@@ -554,6 +566,7 @@
   MODIFIER_ARMY_ATTACK_SPEED_FACTOR: "Швидкість атакуючих дивізій" # vnl.
   STAT_ARMY_SOFT_ATTACK: "Протипіхотна атака: " # vnl.
   STAT_ARMY_HARD_ATTACK: "Протитанкова атака: " # vnl.
+  MODIFIER_NAVAL_ATTRITION_FACTOR: "Виснаження в морі"
 
  #nsb_ideas_l
   proper_heritage_spirit_desc:0 "Хорошего генерала можно выучить, но великого генерала нужно взращивать."

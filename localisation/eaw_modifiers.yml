@@ -232,6 +232,12 @@
  modifier_production_cost_max_ship_hull_submarine: "Максимальна вартість підводних човнів"
 
 # Vanilla Fixed Tooltips
+ air_strategic_bomber_defense_factor_tt: " $MODIFIER_STRATEGIC_BOMBER_DEFENCE_FACTOR$: $RIGHT|+=%1$"
+ land_reinforce_rate_tt: " $MODIFIER_LAND_REINFORCE_RATE$: $RIGHT|+=%1$"
+ #navy_capital_ship_attack_factor_tt: " $MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR$: $RIGHT|+=%1$"
+ send_volunteers_size_tt: " $MODIFIER_SEND_VOLUNTEER_SIZE$: $RIGHT|+=0$"
+ army_leader_start_level_tt: " $MODIFIER_ARMY_LEADER_START_LEVEL$: $RIGHT|G=0$"
+ training_time_factor_tt: " $MODIFIER_TRAINING_TIME_ARMY_FACTOR$: $RIGHT|-=%1$"
  no_supply_grace_tt: " $MODIFIER_NO_SUPPLY_GRACE$ $RIGHT|+=1$ год"
  navy_weather_penalty_tt: " $MODIFIER_NAVY_WEATHER_PENALTY$: $RIGHT|-=%1$"
  strategic_bomb_visibility_tt: " Помітність при стратегічному бомбардуванні: $RIGHT|-=%1$" # (&?)
@@ -241,3 +247,7 @@
  critical_receive_chance_tt: " $MODIFIER_NAVAL_CRITICAL_RECEIVE_CHANCE_FACTOR$: $RIGHT|-=%1$"
  mines_sweeping_by_fleets_factor_tt: " $MODIFIER_MINES_SWEEPING_BY_FLEETS_FACTOR$: $RIGHT|+=%1$"
  naval_attrition_tt: " $MODIFIER_NAVAL_ATTRITION_FACTOR$: $RIGHT|-=%1$"
+ naval_retreat_speed_tt: " $MODIFIER_NAVAL_RETREAT_SPEED$: §G$RIGHT|=%$§!"
+ air_mastery_gain_factor_tt: " Множник приросту майстерності авіації: $RIGHT|+=%1$" # скорочено від повних доктрин
+ naval_mastery_gain_factor_tt: " Множник приросту майстерності флоту: $RIGHT|+=%1$" # скорочено від повних доктрин
+ army_strength_factor_tt: " $MODIFIER_ARMY_STRENGTH$: $RIGHT|+=%1$"

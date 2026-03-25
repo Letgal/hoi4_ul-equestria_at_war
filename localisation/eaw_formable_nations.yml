@@ -1,6 +1,8 @@
 ﻿# == (*) ==
 ### СЛУЖБОВА ЛОК. ###
  claim_all_de_jure_aquileia_tt: "Отримує претензії на всі землі в межах §Yде-юре§! кордонів §rАквілеї§!."
+ claim_all_herzland_states_tt: "Отримує претензії на всі області §YГерцланду§!."
+ core_all_herzland_states_tt: "Усі області §YГерцланду§! стають осердними.\n"
  form_country_aquileia_coring_states_tt: "Усі §Yаквілейські§! землі стануть осердними.\n" # CORE
  form_country_pridea_coring_states_tt: "Усі §Yпрідейські§! землі стануть осердними.\n" # CORE
  form_country_rila_coring_states_tt: "Усі §Yрільські§! землі стануть осердними.\n" # CORE
