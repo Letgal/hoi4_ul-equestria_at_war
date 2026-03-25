@@ -84,9 +84,9 @@
  SE_MARESOC_A: "Закуті назавжди."
  SE_MARESOC_D: "«Пролетарі ніколи не збунтуються, ані за тисячу років, ані мільйон. Вони не можуть. Якщо ви колись плекали абиякі мрії про насильницьке повстання, покиньте їх. Немає способу, в який Партію можна повалити. Правління Партії — це назавжди».\n(Член Внутрішньої партії)"
 
- SE_ESB_T:0 "Equestria in exile strikes back"
- SE_ESB_A:0 "For Equestrian Freedom!"
- SE_ESB_D:0 "Equestria has lost a battle, but Equestria has not lost the war! Nothing is lost and the day will come when our homeland will regain its freedom and greatness! That is why I invite all Equestrians, wherever they are, to unite with me in action, in sacrifice and in hope.\n -Princess Celestia"
+ SE_ESB_T: "Еквестрія у вигнанні б'є у відповідь"
+ SE_ESB_A: "За свободу Еквестрії!"
+ SE_ESB_D: "«Еквестрія програла битву, але Еквестрія не програла війну! Ніщо не втрачено й настане день, коли наша домовина відновиться свої свободу і велич! Саме тому я запрошую всіх еквестрійців, хай де вони є, об'єднатися зі мною в дії, в пожертві та в надії».\n($EQS_princess_celestia$)" # (&?)
 
  SE_TS_PH_T:0 "Twilight Sparkle crowned as Princess of Harmony"
  SE_TS_PH_A:0 "Glory to the Princess!"
@@ -112,30 +112,30 @@
  SE_STG_UNITES_EQUESTRIA_A:0 "Onwards to a brighter future!"
  SE_STG_UNITES_EQUESTRIA_D:0 "...on the basis of the powers granted to us, we, the delegates of soviet republics, decide to sign an agreement. on the formation of the "Equestrian Socialist Republic"\n -From Declaration of the Formation of the ESR"
 
- SE_STG_DEFEATS_CHN_T:0 "Stalliongrad Victory"
- SE_STG_DEFEATS_CHN_A:0 "Communism marches on the planet"
- SE_STG_DEFEATS_CHN_D:0 "Glory to our heroic red army, which defended the independence of our Motherland and won victory over the enemy!\nGlory to our great people, the victorious people!\nEternal glory to the heroes who fell in battle with the enemy and gave their lives for the freedom and happiness of our people!\n -Nestor Lunin"
+ SE_STG_DEFEATS_CHN_T: "Перемога Сталліонграду"
+ SE_STG_DEFEATS_CHN_A: "Комунізм марширує по планеті."
+ SE_STG_DEFEATS_CHN_D: "«Слава нашій героїчній Червоній армії, що захистила незалежність нашої вітчизни та здобула перемогу над ворогом!\nСлава нашому великому народу, народу-переможцю!\nВічна слава героям, що полягли в бою з ворогом і віддали свої життя в ім'я свободи та щастя нашого народу!»\n(Нестор Лунін)"
 
- SE_STG_DEFEATED_T:0 "The Collapse Of Stalliongrad"
- SE_STG_DEFEATED_A:0 "The communist experiment has failed"
- SE_STG_DEFEATED_D:0 "The secret of a good life in the country is simple: hard work, observance of the law and no communism!\n -King Kloseu de Kissau"
+ SE_STG_DEFEATED_T: "Крах Сталліонграду"
+ SE_STG_DEFEATED_A: "Комуністичний експеримент провалився."
+ SE_STG_DEFEATED_D: "«Таємниця хорошого життя у країні — проста: тяжка праця, дотримання закону і жодного комунізму!»\n($BRF_king_kloseu_de_kissau$)"
 
  SE_DED_T:0 "Apocalypse"
  SE_DED_A:0 "And silence fell"
  SE_DED_D:0 "My dear friend, I never would've thought\nBut silence is the worst thing war has brought.\n -Unknown poet of pre-apocalypse era"
 
 ### 1.1.0 - 1.1.1 ###
- SE_OST_GRIFFONIA_T:0 "Ost-Griffonian Empire"
- SE_OST_GRIFFONIA_A:0 "Hatred has robbed them of their sanity"
- SE_OST_GRIFFONIA_D:0 "Some people call us monsters. Everything we did, we did in the name of the griffons. And we have done no harm to our essence, our souls and our character.\n -Edler von Wingenberg"
+ SE_OST_GRIFFONIA_T: "Ост-Грифонська імперія" # HLQ_empire_fascism
+ SE_OST_GRIFFONIA_A: "Ненависть позбавила їх здорового глузду."
+ SE_OST_GRIFFONIA_D: "«Дехто називає нас чудовиськами. Усе, що ми вчинили, ми вчинили в ім'я грифонів. І ми не заподіяли жодну шкоду нашу сутності, нашим душам і нашій вдачі».\n($HLQ_edler_von_wingenberg$)" # (&?)
 
- SE_PAN_GRIFFONIA_T:0 "Pan-Griffonian Socialist Commonwealth"
- SE_PAN_GRIFFONIA_A:0 "Forward to Communism!"
- SE_PAN_GRIFFONIA_D:0 "Socialism in life demands a complete spiritual transformation in the masses degraded by centuries of bourgeois rule.\n -Victor Allard"
+ SE_PAN_GRIFFONIA_T: "Пангрифоняча соціалістична співдружність" # SRS_PGSC_communism
+ SE_PAN_GRIFFONIA_A: "Уперед, до комунізму!"
+ SE_PAN_GRIFFONIA_D: "«Соціалізм у житті вимагає повного духовного перетворення в масах, вироджених століттями правління буржуазії».\n($JER_char_allard$)" # (&?)
 
- SE_WORLD_SOC_REP_T:0 "Socialist Republic of the World"
- SE_WORLD_SOC_REP_A:0 "The world is united as never before"
- SE_WORLD_SOC_REP_D:0 "Life is beautiful. Let the future generations cleanse it of all evil, oppression and violence, and enjoy it to the full!\n -Sinister Serov"
+ SE_WORLD_SOC_REP_T: "Світова соціалістична республіка" # COM_world_communism(_DEF)
+ SE_WORLD_SOC_REP_A: "Світ об'єднаний як ніколи раніше."
+ SE_WORLD_SOC_REP_D: "«Життя прекрасне. Нехай майбутні покоління очистять його від усього зла, гноблення та насилля й потішаться йому наповну!»\n($STG_sinister_serov_name$)" # (&)
 
  SE_HOLY_PONY_EMPIRE_T:0 "Holy Pony Empire"
  SE_HOLY_PONY_EMPIRE_A:0 "So, now Griffonia is Ponia?"
@@ -178,9 +178,9 @@
  SE_STG_ATTACK_EQS_D:0 "Both here and there among the ranks, resounds one and the same voice:\n«Who is not with us is against us! No one is indifferent, truth is with us!»\nAnd I stand one among them, in the howling flame and smoke\nAnd with all my strength, i pray for them and for the others.\n -A poem from the time of revolution"
  #https://ruverses.com/maximilian-voloshin/civil-war/
 
- SE_WAR_TWO_CONT_EQS_VS_GRI_T:0 "East vs West"
- SE_WAR_TWO_CONT_EQS_VS_GRI_A:0 "Blood, toil, tears, and sweat."
- SE_WAR_TWO_CONT_EQS_VS_GRI_D:0 "In the war between the West and the East, the South wins.\n -Griffons proverb"
+ SE_WAR_TWO_CONT_EQS_VS_GRI_T: "Схід проти заходу"
+ SE_WAR_TWO_CONT_EQS_VS_GRI_A: "Кров, труд, сльози і піт."
+ SE_WAR_TWO_CONT_EQS_VS_GRI_D: "«У війні між заходом і сходом перемагає південь».\n(Грифоняче прислів'я)"
 
  SE_WAR_TWO_CONT_CHN_VS_GRI_T:0 "East vs West"
  SE_WAR_TWO_CONT_CHN_VS_GRI_A:0 "Panzer - Marsch!"
@@ -211,9 +211,9 @@
  SE_EQC_LIBERATES_EQS_A:0 "The New World saved the Old World"
  SE_EQC_LIBERATES_EQS_D:0 "Once again, the free peoples of Equestria and all of Equus emerged victorious from the deadly battle. The monstrous tyrannies that have threatened our very existence have been crushed and destroyed. This is the true glory, and may it be with us forever, lighting our way forward!\n -Princess Celestia"
 
- SE_DED_BC_T:0 "Black Crusade"
- SE_DED_BC_A:0 "Not such a fairy tale"
- SE_DED_BC_D:0 "They are coming\nThey are coming\nThey are coming\nThey are coming"
+ SE_DED_BC_T: "Великий чорний похід" # на заміну хрестового походу
+ SE_DED_BC_A: "Не така вже й казка."
+ SE_DED_BC_D: "Вони йдуть\nВони йдуть\nВони йдуть\nВони йдуть"
 
  SE_DED_DEFEATED_T:0 "Holy Victory"
  SE_DED_DEFEATED_A:0 "In saecula saeculorum"
@@ -254,16 +254,16 @@
  SE_RIV_DMT_MOLLY_D:0 "I promise you, to protect the harmony in our land, to fight against any threat to our peoples and traditions. I see our homeland open to everyone - ponies, griffons, dogs, zebras, and all the others in need. But do not take our kindness as a weakness, or you will quickly find out why no one was able to conquer the Riverlands.\n -Princess Molly"
 
  SE_RIV_DMT_ROVER_T: "$SE_RIV_UNITE_TITLE$"
- SE_RIV_DMT_ROVER_A:0 "Shut up! The king speaks."
- SE_RIV_DMT_ROVER_D:0 "I am for the monarchy, for it is my royal will.\n -King Rover"
+ SE_RIV_DMT_ROVER_A: "Мовчати! Король говорить."
+ SE_RIV_DMT_ROVER_D: "«Я за монархію, бо така моя королівська воля».\n(Король Ровер)"
 
  SE_RIV_LCT_DS_T: "$SE_RIV_UNITE_TITLE$"
  SE_RIV_LCT_DS_A:0 "More than an army with a country"
  SE_RIV_LCT_DS_D:0 "We abandoned our plans for revenge on the griffons and chose the path of peace, but let them know that if the Empire tries to take over our lands, nature itself will turn against them!\n —Dierdre Skye"
 
  SE_RIV_LCT_WL_T: "$SE_RIV_UNITE_TITLE$"
- SE_RIV_LCT_WL_A:0 "The Empire's Nightmare"
- SE_RIV_LCT_WL_D:0 "Believe, obey, fight.\n -Westerly Leeward"
+ SE_RIV_LCT_WL_A: "Кошмар Імперії."
+ SE_RIV_LCT_WL_D: "«Вір, корися, борися».\n($LCT_westerly_leeward$)" # (&?)
 
  SE_RIV_LCT_WB_T: "$SE_RIV_UNITE_TITLE$"
  SE_RIV_LCT_WB_A:0 "Si vis pacem, para bellum"
@@ -278,12 +278,12 @@
  SE_RIV_BAK_TD_D:0 "A limited state with free economic systems is the soil where the tree of freedom blooms.\n -Tea Dip"
 
  SE_RIV_BAK_BF_T: "$SE_RIV_UNITE_TITLE$"
- SE_RIV_BAK_BF_A:0 "United once and for all"
- SE_RIV_BAK_BF_D:0 "Cherish brotherhood and unity like the apple of your eye.\n -Bray Foam"
+ SE_RIV_BAK_BF_A: "Об'єднані раз і назавжди."
+ SE_RIV_BAK_BF_D: "«Дорожіть братерством і єдністю, яко зіницею ока».\n($BAK_bray_foam$)"
 
  SE_RIV_BAK_FS_T: "$SE_RIV_UNITE_TITLE$"
- SE_RIV_BAK_FS_A:0 "One country. One nation. One culture."
- SE_RIV_BAK_FS_D:0 "In a democracy, three things are repulsive: spinelessness, the habit of collective irresponsibility, and the false myth of universal happiness and non-stop progress.\n -Firm Scow"
+ SE_RIV_BAK_FS_A: "Одна країна, одна нація, одна культура."
+ SE_RIV_BAK_FS_D: "«У демократії гидкі три речі: безхребетність, звичка колективної безвідповідальності та хибний міф про універсальне щастя й невпинний прогрес».\n($BAK_firm_scow$)"
 
  SE_RIV_WIT_WS_T: "$SE_RIV_UNITE_TITLE$"
  SE_RIV_WIT_WS_A:0 "Equestria of the East"
@@ -302,7 +302,7 @@
  SE_RIV_WIT_NEUTRAL_D:0 "The rejection of tradition-even in the name of freedom - results in the destruction of the norms of the community, the destruction of more or less acceptable forms of social behavior.\n -Wittenland's noble"
 
 ### 1.3.0 ###
- SE_HERZLAND_UNITE_TITLE:0 "Herzland Unification"
+ SE_HERZLAND_UNITE_TITLE: "Об'єднання Герцланду"
 
  # Angriver
  SE_HERZLAND_ANG_LEER_T: "$SE_HERZLAND_UNITE_TITLE$"
@@ -456,8 +456,8 @@
 
  # Strawberry
  SE_HERZLAND_STW_HARMONY_T: "$SE_HERZLAND_UNITE_TITLE$"
- SE_HERZLAND_STW_HARMONY_A:0 "For the Empire and its folk"
- SE_HERZLAND_STW_HARMONY_D:0 "The highest of distinctions is service to others.\n -Regina Eagleclaw"
+ SE_HERZLAND_STW_HARMONY_A: "За Імперію та її народ."
+ SE_HERZLAND_STW_HARMONY_D: "«Найвища з відзнак — це служба іншим».\n($STW_regina_eagleclaw$)"
 
  SE_HERZLAND_STW_COM_T: "$SE_HERZLAND_UNITE_TITLE$"
  SE_HERZLAND_STW_COM_A:0 "A good life isn't given for nothing"
@@ -497,9 +497,9 @@
  SE_HERZLAND_BRZ_CHURCH_D:0 "A society without religion is like a ship without a compass. Without religion, any griffon walks in the dark. Only religion points the griffon to its beginning and end.\n -Prelate Gunhild"
 
  # Bronzehill - Revenge (Not Herzland Unification)
- SE_HERZLAND_BRZ_REVENGE_COM_T:0 "Grover VI Mausoleum"
- SE_HERZLAND_BRZ_REVENGE_COM_A:0 "Rest in peace, Grover"
- SE_HERZLAND_BRZ_REVENGE_COM_D:0 "Eternal memory to the Great Leader and Teacher, the Eternal Emperor Grover VI\n -The inscription on the mausoleum"
+ SE_HERZLAND_BRZ_REVENGE_COM_T: "Мавзолей Ґровера VI"
+ SE_HERZLAND_BRZ_REVENGE_COM_A: "Спочивай із миром, Ґровере."
+ SE_HERZLAND_BRZ_REVENGE_COM_D: "«Вічна пам'ять великому очільнику та наставнику, вічному імператорові Ґроверу VI».\n(Напис на мавзолеї)"
 
  SE_HERZLAND_BRZ_REVENGE_EMPIRE_OF_DOGS_T:0 "Empire of Dogs"
  SE_HERZLAND_BRZ_REVENGE_EMPIRE_OF_DOGS_A:0 "Griffons can't be trusted"
@@ -514,17 +514,17 @@
  SE_LIGHT_CRUSADE_A:0 "It's time to end this threat"
  SE_LIGHT_CRUSADE_D:0 "From the confines of Dread Peninsula a horrible tale has gone forth that the undead are once again raising their heads. On whom therefore is the labor of elimination these monsters if not upon you? You, upon whom Gods have conferred remarkable glory in arms, great courage and strength to crush the heads of those who resist you.\n -A proclamation to the knights of the Arcturian Order"
 
- SE_NEW_MARELAND_EQUALIST_T:0 "Our Nation"
- SE_NEW_MARELAND_EQUALIST_A:0 "Smile"
- SE_NEW_MARELAND_EQUALIST_D:0 "In a society of absolute equals, there is no place for envy, hatred and sadness. Joy and happiness are the only things that the inhabitants of our beautiful utopia can feel.\n -Blueberry Frost"
+ SE_NEW_MARELAND_EQUALIST_T: "Наша Держава"
+ SE_NEW_MARELAND_EQUALIST_A: "Усміхайся."
+ SE_NEW_MARELAND_EQUALIST_D: "«У суспільстві абсолютної рівності нема місця заздрості, ненависті та смутку. Радість і щастя — це єдині речі, які мешканці нашої красивої утопії можуть відчувати».\n($EQC_blueberry_frost$)"
 
- SE_IMPERIUM_OF_MAAR_T:0 "Imperium of Maar"
- SE_IMPERIUM_OF_MAAR_A:0 "Heresy"
- SE_IMPERIUM_OF_MAAR_D:0 "Blood to Maar! Souls to Maar! Life to Maar!\n -Archon Erebus I"
+ SE_IMPERIUM_OF_MAAR_T: "Імперіум Маара"
+ SE_IMPERIUM_OF_MAAR_A: "Єресь."
+ SE_IMPERIUM_OF_MAAR_D: "«Кров Маарові! Душі Маарові! Життя Маарові!»\n(Архонт Еребус I)"
 
- SE_GRIFFONIAN_ANARCHY_T:0 "Griffonian Free Territory"
- SE_GRIFFONIAN_ANARCHY_A:0 "Liberty or Death!"
- SE_GRIFFONIAN_ANARCHY_D:0 "Power breeds parasites - long live anarchy!\n -Nestor Bernier"
+ SE_GRIFFONIAN_ANARCHY_T: "Грифонська вільна територія"
+ SE_GRIFFONIAN_ANARCHY_A: "Свобода або смерть!"
+ SE_GRIFFONIAN_ANARCHY_D: "«Влада породжує паразитів; хай живе анархія!»\n(Нестор Берньє)"
 
  SE_GRF_WESTERN_EMPIRE_HIGHHILL_T:0 "Western Griffonian Empire"
  SE_GRF_WESTERN_EMPIRE_HIGHHILL_A:0 "A new player on the world stage"
@@ -575,12 +575,12 @@
  SE_LSP_SPRINKLE_D:0 "This land is your land and this land is my land\nFrom Coltfoalnia to the Manehattan island\nFrom the Black Early forest to the Warm Shores waters\nThis land was made for you and me.\n -Equestrian folk song"
 
  SE_BALTIMARE_GOLDEN_T: "$SE_EQUESTRIA_UNITE_TITLE$"
- SE_BALTIMARE_GOLDEN_A:0 "The first step towards communism"
- SE_BALTIMARE_GOLDEN_D:0 "Trade unions are islands of anarchy in a sea of chaos.\n -Comrade Delicious"
+ SE_BALTIMARE_GOLDEN_A: "Перший крок до комунізму."
+ SE_BALTIMARE_GOLDEN_D: "«Проспілки — це острівці анархії в морі хаосу».\n(Товариш Делішес)"
 
  SE_BALTIMARE_CHAFER_T: "$SE_EQUESTRIA_UNITE_TITLE$"
- SE_BALTIMARE_CHAFER_A:0 "Victory of the working class"
- SE_BALTIMARE_CHAFER_D:0 "Our goals are clear, our tasks are defined! Get to work, comrades!\n -Cricket Chafer"
+ SE_BALTIMARE_CHAFER_A: "Перемога робітничого класу."
+ SE_BALTIMARE_CHAFER_D: "«Наші цілі ясні, наші завдання визначені! До роботи, товариші!»\n($BAL_cricket_chafer_name$)"
 
  SE_BALTIMARE_ANARCHISTS_T: "$SE_EQUESTRIA_UNITE_TITLE$"
  SE_BALTIMARE_ANARCHISTS_A:0 "No Gods, No Masters"
@@ -610,32 +610,32 @@
  SE_EVI_UNITE_TITLE:0 "Unification of Evi Valley"
 
  SE_EVI_BRODFELD_T: "$SE_EVI_UNITE_TITLE$"
- SE_EVI_BRODFELD_A:0 "Peace at last"
- SE_EVI_BRODFELD_D:0 "Any war in Evi is a civil war.\n -Brodfeld's writer"
+ SE_EVI_BRODFELD_A: "Нарешті мир."
+ SE_EVI_BRODFELD_D: "«Будь-яка війна в Еві — це війна громадянська».\n(Бродфельдський письменник)"
 
  SE_EVI_GLA_T: "$SE_EVI_UNITE_TITLE$"
- SE_EVI_GLA_A:0 "And victories results in a goal"
- SE_EVI_GLA_D:0 "War is a series of catastrophes that results in a victory.\n -Filip Redglad"
+ SE_EVI_GLA_A: "А перемоги визначають ціль."
+ SE_EVI_GLA_D: "«Війна — це низка катастроф, яка призводить до перемоги».\n($GRW_comradegeneral_filip_redglad$)"
 
  SE_EVI_GRYPHIAN_HOST_T: "$SE_EVI_UNITE_TITLE$"
- SE_EVI_GRYPHIAN_HOST_A:0 "Don't show this to Grover"
- SE_EVI_GRYPHIAN_HOST_D:0 "To emperor, Herzland devil and damned devil's kith and kin, secretary to Maar himself. What the devil kind of knight are thou, that canst not slay a hedgehog with your naked arse? The devil shits, and your army eats. We have no fear of your army; by land and by sea we will battle with thee.\n -Reply of the Evi Cossacks to the Griffenheim"
+ SE_EVI_GRYPHIAN_HOST_A: "Не показуйте це Ґроверові."
+ SE_EVI_GRYPHIAN_HOST_D: "«Імператорові. Ти диявол герцландський, проклятого чорта брат і товариш і самого Маара секретар. Який ти в чорта лицар? Чорт сере, а ти і твоє військо споживає. Твого війська ми не боїмось, землею і водою битимемось із тобою».\n(Відповідь евійських козаків Грифенгайму)" # частину англ. тексту вирізано
 
  SE_EVI_LUSHI_T: "$SE_EVI_UNITE_TITLE$"
- SE_EVI_LUSHI_A:0 "The homeland has become stronger"
- SE_EVI_LUSHI_D:0 "We love our country, not because it is great, but because it is our own.\n -Elias Whitecrest"
+ SE_EVI_LUSHI_A: "Домовина стала сильніша." # (&?)
+ SE_EVI_LUSHI_D: "«Ми любимо нашу країну — не тому, що вона велика, а тому, що вона наша».\n(Еліас Уайткрест)"
 
  SE_EVI_GRYPHUS_T: "$SE_EVI_UNITE_TITLE$"
- SE_EVI_GRYPHUS_A:0 "Let them come"
- SE_EVI_GRYPHUS_D:0 "An old proverb says: "In strife, freedom disappears." In Herzland and Riverlands, this is well understood, and before any country becomes a threat to them, they are trying to divide its inhabitants and make their invasion justified, allegedly at the call of one side and to take care of the victims.\n -Agaton Giller, Gryphus journalist"
+ SE_EVI_GRYPHUS_A: "Нехай приходять."
+ SE_EVI_GRYPHUS_D: "«Старе прислів'я каже: “У борні свобода зникає”. У Герцланді та Річкових землях це добре розуміють, і перш ніж абияка країна стає загрозою для них, вони намагаються розділити її мешканців і виправдати своє вторгнення, нібито з заклику одної сторони або щоби подбати про жертв».\n(Аґатон Ґіллер, ґрифуський журналіст)"
 
  SE_FALCOR_REVENGE_T:0 "Falcorian Vendetta"
  SE_FALCOR_REVENGE_A:0 "Karthin delenda est"
  SE_FALCOR_REVENGE_D:0 "No mercy was shown to us in Falcor.\nNo mercy will be shown here.\nLet Karthin serve as an example.\nLet Karthin burn.\n -Gabriele d'Artigilio"
 
- SE_GREAT_ZAPHIA_T:0 "Great Zaphia"
- SE_GREAT_ZAPHIA_A:0 "Glory to the Cossacks!"
- SE_GREAT_ZAPHIA_D:0 "Where the Cossack is, there is glory.\n -Yeven Krawvelets"
+ SE_GREAT_ZAPHIA_T: "Велика Зафія"
+ SE_GREAT_ZAPHIA_A: "Слава козакам!"
+ SE_GREAT_ZAPHIA_D: "«Де є козак, там є слава».\n($GRY_yeven_krawvelets$)"
 
  SE_MEGALI_T:0 "Realization of the Megali Idea"
  SE_MEGALI_A:0 "Minotaurs are still strong"
@@ -646,39 +646,39 @@
  SE_SCS_CONFEDERATE_D:0 "Go home all you boys who fought with me and help build up the shattered fortunes of our old state.\n -Trotbert E. Neigh"
 
  SE_RIV_DMT_COM_T: "$SE_RIV_UNITE_TITLE$"
- SE_RIV_DMT_COM_A:0 "Until every last chain is broken"
- SE_RIV_DMT_COM_D:0 "Intellectuals make communists look like monsters, but try to do without a stick. The capitalists have not raised the Riverlands for 200 years. And we have redone them in a few years.\n -Clifford the Red"
+ SE_RIV_DMT_COM_A: "Поки найостанншій ланцюг не зламається."
+ SE_RIV_DMT_COM_D: "«Інтелектуали змальовують комуністів чудовиськами, але спробуйте обійтися без батога. Капіталісти не підіймали Річкові землі протягом 200 років. А ми перегнали їх за кілька років».\n($DMT_clifford_the_red$)"
 
 ### 1.6.0 ###
  SE_BARRAD_FATE_TITLE:0 "Fate of Barrad"
 
  SE_BAR_ASINTI_T: "$SE_BARRAD_FATE_TITLE$"
- SE_BAR_ASINTI_A:0 "Now there are demons too?"
- SE_BAR_ASINTI_D:0 "Tartarus is paved with good intentions.\n -Griffonian catch phrase"
+ SE_BAR_ASINTI_A: "Тепер тут іще й демони?"
+ SE_BAR_ASINTI_D: "«Тартар прокладається з добрими намірами».\n(Грифонячий крилатий вислів)" # (&)
 
  SE_BAR_LEOPOLD_T: "$SE_BARRAD_FATE_TITLE$"
- SE_BAR_LEOPOLD_A:0 "Deus ex machina"
- SE_BAR_LEOPOLD_D:0 "There is no problem that cannot be solved with an army of mechanical soldiers or a cup of good tea.\n -Leopold Schmeller"
+ SE_BAR_LEOPOLD_A: "Deus ex machina."
+ SE_BAR_LEOPOLD_D: "«Немає проблеми, яку не можна вирішити армією механічних солдатів або чашкою хорошого чаю».\n($BAR_leopold_schmeller$)"
 
  SE_BAR_SILVER_T: "$SE_BARRAD_FATE_TITLE$"
- SE_BAR_SILVER_A:0 "Dead friends will not betray"
- SE_BAR_SILVER_D:0 "I did what others couldn't! I won! I! No more barbarian cossacks or anyone else will be able to threaten me or my country! Let the former pentarchs rise to serve me for all eternity!\n -Silver Star"
+ SE_BAR_SILVER_A: "Мертві друзі не зрадять."
+ SE_BAR_SILVER_D: "«Я зробив те, що інші не могли! Я переміг! Я! Більше жоден дикун-козак чи будь-хто ще не зможе загрожувати мені чи моїй країні! Нехай колишна пентархи повстануть, щоби служити мені цілу вічність!»\n($BAR_silver_star$)"
 
  SE_BAR_VIIRA_H_T: "$SE_BARRAD_FATE_TITLE$"
  SE_BAR_VIIRA_H_A:0 "For the glory of the Machine!"
  SE_BAR_VIIRA_H_D:0 "The Machine demands submission from us and we are obliged to follow its wishes. I carry It word and will to all the people of Barrad. The unbelievers will be punished for their crimes against the Machine and peace will return to our lands.\n -Viira Lehtola"
 
  SE_BAR_VIIRA_G_T: "$SE_BARRAD_FATE_TITLE$"
- SE_BAR_VIIRA_G_A:0 "For the glory of Viira!"
- SE_BAR_VIIRA_G_D:0 "I will destroy the old civilizations and build a new, better, organized, and MY own world on their ruins. Everyone will bow before their Goddess!\n -Viira"
+ SE_BAR_VIIRA_G_A: "Во славу Вііри!"
+ SE_BAR_VIIRA_G_D: "«Я знищу старі цивілізації та збудую новий, ліпший, упорядкований і МІЙ власний світ на їхніх руїнах. Кожен поклониться своїй богині!»\n(Вііра)"
 
  SE_BAR_AMBROSIUS_T: "$SE_BARRAD_FATE_TITLE$"
- SE_BAR_AMBROSIUS_A:0 "The clouds over Barrad are dispersing"
- SE_BAR_AMBROSIUS_D:0 "Hope is often born out of despair.\n -An ancient Wingbardian adage"
+ SE_BAR_AMBROSIUS_A: "Хмари над Баррадом розсіюються."
+ SE_BAR_AMBROSIUS_D: "«Надія часто народжується з відчаю».\n(Стародавня вінґбардійська приказка)"
 
  SE_BAR_FALL_T: "$SE_BARRAD_FATE_TITLE$"
- SE_BAR_FALL_A:0 "Powerful, but not omnipotent"
- SE_BAR_FALL_D:0 "Despair is a fear without hope.\n -Aquileian philosopher"
+ SE_BAR_FALL_A: "Могутній, але не всесильний."
+ SE_BAR_FALL_D: "«Відчай — це страх без надії».\n(Аквілейський філософ)"
 
  SE_BAR_VIIRA_END_T:0 "The Truly Goddess of Griffonia"
  SE_BAR_VIIRA_END_A:0 "Absolute power"
@@ -690,9 +690,9 @@
  SE_STL_OUR_D:0 "Life is a joy in Our Town\nWe're all equal here\nNo one is superior\nAnd no one shakes in fear!"
 
 ### 1.7.0 ###
- SE_GRF_WESTERN_EMPIRE_VIRGIL_T:0 "Western Griffonian Empire"
- SE_GRF_WESTERN_EMPIRE_VIRGIL_A:0 "Well done"
- SE_GRF_WESTERN_EMPIRE_VIRGIL_D:0 "I'm so tired from this crap. And these republican losers are still showing off. We are revolutionaries, we are cool... Damn it!\n -Imperial ambassador"
+ SE_GRF_WESTERN_EMPIRE_VIRGIL_T: "Західна Імперія Грифонів" # GRF_EMP_neutrality
+ SE_GRF_WESTERN_EMPIRE_VIRGIL_A: "Гарно зроблено."
+ SE_GRF_WESTERN_EMPIRE_VIRGIL_D: "«Я так утомився від цієї дурні. А ці невдахи-республіканці досі хизуються. Ми революціонери, ми класні... прокляття!»\n(Імперський посланець)" # (&?)
 
  SE_GREAT_WAR_STG_T: "План «Червоний»"
  SE_GREAT_WAR_STG_A:0 "The enemy shall be defeated!"
