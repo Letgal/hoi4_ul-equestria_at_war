@@ -136,7 +136,7 @@
  JUN_asshole: "Експлуатація тубільців"
  JUN_not_asshole: "Співробітництво з тубільцями"
  JUN_kongo: "Джунглі кличуть Вас"
- #GRF_teafeather_dead:0 "Governor Teafeather assasinated"# Different duplicate from Eaw
+ #GRF_teafeather_dead: "Губернатора Тіфезера вбито" # Different duplicate from Eaw
  GRF_refuse_junta: "Переворот Гайгілла зазнав невдачі"
  GRF_PGI_wins: "Партія інтересів грифонів перемогла на виборах"
  GRF_communists_win: "Народна партія Грифонії перемогла на виборах"
@@ -163,7 +163,7 @@
  available_chief_of_airforce_tt: "§YМожна§! зробити §Yголовнокомандувачем авіації§!"
  available_military_high_command_tt: "§YМожна§! зробити членом §Yвійськового вищого командування§!"
  available_theorist_tt: "§YМожна§! зробити §Yтеоретиком§!"
- #available_industrial_concern:0 "Available as §YIndustrial Concern§!:\n"# moved to replace folder
+ #available_industrial_concern: "§GДоступно§! в якості §Yпромилового концерну§!:\n" # moved to replace folder
  CRY_solar_governorship: "Є сонячною провінцією"
  puppet_can_become_free: "Держава може стати §Hвільною§!"
  DED_Black_Crusade_tp: "§H[THIS.GetName]§! розпочне §RЧорний похід§!.\n"
