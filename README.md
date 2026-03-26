@@ -1,4 +1,5 @@
 # Українська локалізація *Equestria at War*
+Робочий репозитарій локалізації.
 Оновлено для *Equestria at War* версії ***2.5.1*** (версія гри&nbsp;— *1.17*)
 
 Також включає в себе частковий переклад сабмоду *Diarchy Expanded*.
@@ -13,10 +14,10 @@
 + `country_ANG` (переклав *StasJesus*) — `(&)`
 + `country_ARA` (переклав [*Bovcun*](https://github.com/Bovcun-A)) — `(&)`
 + `country_AVI` (переклав *Bovcun*) — `(&)`
++ `country_BAK` (переклав [*pani_justyna1733*](https://steamcommunity.com/profiles/76561199241366335)) — `(&)`
 + `country_BAL` (переклав [*Green Kitten*](https://steamcommunity.com/profiles/76561198235810742))
 + `country_BAL_protectorate` (переклав *Green Kitten*)
 + `country_BAN` (переклав *Bovcun*) — `(&)`
-+ `country_BAK` (переклав [*pani_justyna1733*](https://steamcommunity.com/profiles/76561199241366335)) — `(&)`
 + `country_BAR` (переклав [*Max*](https://steamcommunity.com/profiles/76561198873048643)) — `(&)`
 + `country_BAT` (переклав *Max*)
 + `country_BOI`
@@ -45,7 +46,7 @@
 + `country_EWI`<!--  (переклав *All-Ampirian*?) -->
 + `country_EYR`
 + `country_FAL` (переклав *Green Kitten*)
-+ `country_FAT` (переклав *StasJesus*) — `(&)`
++ ~~`country_FAT`~~ (переклав *StasJesus*) — `(&)` — перекласти нове!
 + `country_FEA` (переклав *StasJesus*) — `(&)`
 + `country_FEZ` (переклав *Bovcun*) — `(&)`
 + `country_FRN` (переклав *Green Kitten*)
@@ -147,13 +148,12 @@
 + `recall_volunteers`
 + `renamed_states`
 + `southern_zebra_ideas`
-+ ~~`state_names`~~
++ `state_names`
 + `strategic_region_names`
 + `unit_leader_stat_tooltips`
-+ ~~`victory_points`~~
++ `victory_points`
 
 ### Папка `replace`
-+ `country_CAN_overrides` (умовно)
 + `country_CRY_overrides`
 + `country_JUN_overrides`
 + `country_YAL_overrides`
@@ -163,15 +163,14 @@
 + `province_names_overrides`
 
 ### Переписати в майбутньому
-+ `country_AET`
 + `country_BAL`
 + `country_BAL_protectorate`
 + `country_EWI`
-+ `country_HIP`
++ `country_FAT`
++ `country_HIP` (ха, ну щасти там)
 + `country_JUN`?
 + `country_LSP`
-+ `country_north_zebrican_war`
++ `country_north_zebrican_war`?
 + `country_NLR`
 + `country_NMS`?
 + `country_VAN`
-+ `country_WAR`?
