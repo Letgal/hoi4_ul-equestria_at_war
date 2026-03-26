@@ -35,7 +35,7 @@
  EaW_PeaceCap_Head_DED_beats_HLR: "Мертві орди держави §Y[?winning_country^peace_gui_index.GetNameDef]§! спустошили державу §Y[?losing_country^peace_gui_index.GetNameDef]§!."
  EaW_PeaceCap_Head_HLR_beats_DED: "Доблесні лицарі держави §Y[?winning_country^peace_gui_index.GetNameDef]§! очистили світ від держави §Y[?losing_country^peace_gui_index.GetNameDef]§!."
 
- GetTNOMainText_north_zebrica_war: "Держава §Y[?winning_country^peace_gui_index.GetNameDef]§! перемогла державу §Y[?losing_country^peace_gui_index.GetNameDef]§! в хаосі §YПівнічнозебриканської війни§!."
+ EaW_PeaceCap_Head_north_zebrica_war: "Держава §Y[?winning_country^peace_gui_index.GetNameDef]§! перемогла державу §Y[?losing_country^peace_gui_index.GetNameDef]§! в хаосі §YПівнічнозебриканської війни§!."
  EaW_PeaceCap_Head_CTH_CTC_win: "Держава §Y[?winning_country^peace_gui_index.GetNameDef]§! звільнила Кольтфаген від гнилі держави §Y[?losing_country^peace_gui_index.GetNameDef]§!."
  EaW_PeaceCap_Head_CTH_CTC_loss: "Держава §Y[?winning_country^peace_gui_index.GetNameDef]§! зміцнила своє панування над Кольтфагеном, перемігши державу §Y[?losing_country^peace_gui_index.GetNameDef]§!."
  EaW_PeaceCap_Head_CTC_beats_CVA: "Держава §Y[?winning_country^peace_gui_index.GetNameDef]§! перемогла революціонерів держави §Y[?losing_country^peace_gui_index.GetNameDef]§!, завершивши громадянську війну."
