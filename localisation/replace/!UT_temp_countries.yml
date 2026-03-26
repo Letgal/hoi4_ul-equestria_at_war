@@ -2010,6 +2010,9 @@
   LCT_prince_faction: "Князівська фракція"
   LCT_prince_faction_long: "Князівська фракція за відновлення та відродження нації"
 
+ ### АЛЬЯНСИ ###
+  LCT_prosperity_sphere: "Східногрифонська сфера співпроцвітання"
+
  ### ПЕРСОНАЖІ ###
   # Лідери
   LCT_springtime_frost: "Спринґтайм Фрост"
@@ -2199,6 +2202,34 @@
  BRZ_LSC_communism_DEF: "Бронзгілльська окупаційна адміністрація"
  BRZ_LSC_communism_ADJ: "Бронзгілльськ"
 
+ ### ПАРТІЇ ###
+  LNS_bandit_party: "Бандити Гайденрайх"
+  LNS_bandit_party_long: "Бандити Гайденрайх"
+  LSC_povner_party: "Kraujo Kerštas"
+  LSC_povner_party_long: "Kraujo Kerštas"
+  LSC_defeated_harmony_party: "Лонґсордські королі"
+  LSC_defeated_harmony_party_long: "Лонґсордські королі"
+
+  LSC_endgame_harmony_party: "Правління Визволителя"
+  LSC_endgame_fascism_party: "Правління Визволителя"
+
+  LSM_wavewing_party: "Orden der Palisander"
+  LSM_wavewing_party_long: "Orden der Palisander"
+
+  LSM_silvertalon_party: "Nationale Heilungspartei"
+  LSM_silvertalon_party_long: "Nationale Heilungspartei"
+
+  LSC_ANG_puppet_party: "Die Gesegneten"
+  LSC_ANG_puppet_party_long: "Die Gesegneten"
+  LSC_BRZ_puppet_party: "Varėnės Skalikai"
+  LSC_BRZ_puppet_party_long: "Varėnės Skalikai"
+  LSC_FEA_puppet_party: "Kinder von Feathisia"
+  LSC_FEA_puppet_party_long: "Kinder von Feathisia"
+  LSC_GRI_puppet_party: "Kraujo Kerštas"
+  LSC_GRI_puppet_party_long: "Kraujo Kerštas"
+  LSC_ROU_puppet_party: "Kraujo Kerštas"
+  LSC_ROU_puppet_party_long: "Kraujo Kerštas"
+
  ### ПЕРСОНАЖІ (LNS) ###
   # Лідери
   LNS_count_pallas_dusktalon: "Граф Паллас Даскталон"
@@ -2334,6 +2365,11 @@
   LSC_T_air: "Гутс Гессель"
 
  LSC_state_razed_griffenheim: "Руїни Грифенгайма"
+
+ ### РИСИ ЛІДЕРІВ ###
+  soldier_of_the_gods: "Солдат богів"
+  soldier_of_destiny: "Солдат долі"
+  air_raid_warden: "Головком боротьби з авіанальотами" # (*?) — ну, ліпше й коротше навряд чи можна. ~ L.H.
 
  longsword_focus: "Дерево фокусів Лонґсорду"
  longsword_focus_fascist_civil_war: "$longsword_focus$"
@@ -3250,6 +3286,10 @@
   YAL_digging_trenches_desc: "$YAL_gerhard_silverbeak_desc$"
   YAL_swarm_tactics: "Гайнц Фезергофф"
 
+ ### АЛЬЯНСИ ###
+  GROVER_FACTION: "Цісарський пакт"
+  black_international_faction: "Чорний інтернаціонал"
+
  ### ІНШЕ ###
   engineers_tech_research: "Темпи дослідження інженерів"
   infantry_tech_research: "Темпи дослідження піхотних технологій"
@@ -3310,6 +3350,11 @@
  ZEL_mai_gounama: "Май Ґунама"
 
 # country_ZOO
+ ### АЛЬЯНСИ ###
+  ZOO_alliance_faction: "Східнозебриканський альянс"
+  ZOO_centaur_pact_faction: "Східнозебриканський пакт"
+  ZOO_tampuk_pact_faction: "Тампуцький пакт"
+
  ZOO_akida_bomboko: "Акіда Бомбоко"
  ZOO_queen_mother: "Нзузі Бомбоко" #Snow
  ZOO_anarbek: "Анарбек" #Snow

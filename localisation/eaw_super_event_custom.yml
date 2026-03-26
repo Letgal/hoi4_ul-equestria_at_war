@@ -799,13 +799,13 @@
  SE_HIP_POSADA_FINALE_A:0 "I Believe My Friends..."
  SE_HIP_POSADA_FINALE_D:0 "At this instant, the whole of my life seems to be condensed into one wonderful moment. Everything I have experienced and done till now has been in preparation for this moment.\n -Posada"
 
- SE_HIP_SIREN_T:0 "The Song of North Zebrica"
- SE_HIP_SIREN_A:0 "The show is just beginning"
- SE_HIP_SIREN_D:0 "We need the world and preferably the whole!\n -Adagio"
+ SE_HIP_SIREN_T: "Пісня північної Зебрики"
+ SE_HIP_SIREN_A: "Вистава тільки починається."
+ SE_HIP_SIREN_D: "«Нам потрібен світ, і бажано весь!»\n(Адажіо)"
 
- SE_HIP_SIREN_FINALE_T:0 "The Song of the New Era"
- SE_HIP_SIREN_FINALE_A:0 "And let it sound through Eternity"
- SE_HIP_SIREN_FINALE_D:0 "After all, music has mastery over everything.\n -Adagio"
+ SE_HIP_SIREN_FINALE_T: "Пісня нової епохи"
+ SE_HIP_SIREN_FINALE_A: "І нехай вона лине крізь вічність."
+ SE_HIP_SIREN_FINALE_D: "«Урешті-решт, музика панує над усім».\n(Адажіо)" # (&)
 
  SE_TOBUCK_WHITE_T:0 "The Awakening of White Severyana"
  SE_TOBUCK_WHITE_A:0 "We will go together like brothers!"
