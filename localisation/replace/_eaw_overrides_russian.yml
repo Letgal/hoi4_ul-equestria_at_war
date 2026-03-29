@@ -523,6 +523,8 @@
   MODIFIER_NAVAL_INVASION_PLAN_CAP: "Місткість плану морського вторгнення" # РЛ, vnl,
   MODIFIER_AIR_INVASION_PLAN_CAP: "Місткість плану повітряного десанту" # РЛ, vnl,
   MODIFIER_AIR_POWER_PROJECTION_FACTOR: "Множник проєкції повітряної сили" # РЛ, vnl,
+  MODIFIER_SEND_VOLUNTEER_DIVISIONS_REQUIRED: "Дивізії, потрібні для надсилання добровольців" # РЛ, vnl.
+  STAT_ARMY_SUPPLY_CONSUMPTION: "Витрати припасів: " # РЛ, vnl.
 
   MODIFIER_EXILED_MAPOWER_GAIN_FACTOR: "Щоденні поні-ресурси у вигнанні"
   MODIFIER_EXILED_GOVERNMENT_WEEKLY_MANPOWER: "Щотижневі поні-ресурси уряду у вигнанні"
