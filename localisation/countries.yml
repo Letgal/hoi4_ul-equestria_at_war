@@ -67,6 +67,14 @@ NLR: "Еквестрія"
  NLR_communism_DEF: "Місячна соціалістична держава"
  NLR_communism_ADJ: "Місячн"
 
+#Dummy tag for controlling day/night overrides
+ #The weird name hides it from the country list and map view
+ ZZZ: "|£_"
+ ZZ2: "|£_"
+
+ #Dummy tag faction
+ ZZZ_hidden_faction: "£__"
+
 ZRS: "Вічнодикий ліс"
  ZRS_DEF: "Вічнодикий ліс"
  ZRS_ADJ: "Вічнодик"

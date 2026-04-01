@@ -3497,6 +3497,11 @@ BAT_exploiter:0 "Економічний експлуататор"
 ### Unit Leader Traits ###
 night_guard_2:0 "Хіроптеррський легіонер"
 night_guard_2_desc:0 ""
+night_guard_2_night_override: "$night_guard_2$"
+night_guard_2_night_override_desc: "$night_guard_2_desc$"
+night_guard_2_day_override: "$night_guard_2$"
+night_guard_2_day_override_desc: "$night_guard_2_desc$"
+night_guard_2_modifier_tt: "$MODIFIER_ARMY_LEADER_MAX_ARMY_SIZE$: §R-4§!\n§Y$night$§!\nАтака:  §G+10.0%§!\nЗахист:  §G+10.0%§!"
 living_weapon:0 "Жива зброя"
 living_weapon_desc:0 ""
 

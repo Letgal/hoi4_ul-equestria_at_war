@@ -632,6 +632,9 @@
  FRN_deurbanize_falcor:0 "Деурбанізувати Фалькор"
  FRN_deurbanize_falcor_desc:0 "Поки Вінґбардія бурхливо розвивалася, Фалькор відставав, особливо після втрати столиці у Фалькорській війні. Це означає, що більшу частину країни пошкодував бурхливий розвиток, але під вінґбардійським контролем шкоди зазнала столиця. Відтепер, Фалькор буде деурбанізовано, і його жителі вирушать освоювати фалькорську цілину."
 
+ FRN_generic_rename_francistria_decision: "Перейменувати Францистрію"
+ FRN_generic_rename_francistria_decision_desc:0 "The city of Francistria, the former capital of the eponymous Francistria, was originally called Pulcino. When Count Francis I conquered it centuries ago, he renamed the city after himself. As such, the name is a symbol of monarchist rule and foreign invasion. Restoring the city's original name would be a celebrated move that aligns with our superior ideology." # (!)
+
  FRN_join_aquileia:0 "Помиритися з Аквілеєю"
  FRN_join_aquileia_desc:0 "Тепер ми більше не в Карфінському Пакті, і тому нам дуже потрібні союзники. Аквілея цілком може ним стати, але їм явно щось знадобиться у відповідь, оскільки наші відносини в минулому дуже важко назвати доброзичливими."
  FRN_join_empire:0 "Налагодити зв'язок із державою [From.GetNameDef]"

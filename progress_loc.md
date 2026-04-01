@@ -104,6 +104,7 @@
 + [ ] `country_DEP` (умовно завершено)
 + [ ] `country_DRG` (умовно завершено)
 + [x] `country_EQC`<!--  (@max) -->
++ [ ] ~~`country_EQC_ED`~~
 + [x] `country_EQC_equality`<!--  (@max) -->
 + [x] `country_EQC_MARE`<!--  (@max) -->
 + [x] `country_EQC_NLR`<!--  (@max) -->

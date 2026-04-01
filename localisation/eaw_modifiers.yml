@@ -56,6 +56,7 @@
  modifier_army_sub_unit_magical_infantry_attack_factor: "Атака магічної піхоти"
  modifier_army_sub_unit_magical_infantry_defence_factor: "Захист магічної піхоти"
  modifier_army_sub_unit_magical_infantry_speed_factor: "Швидкість магічної піхоти"
+ modifier_army_sub_unit_category_magical_infantry_max_org_factor: "Організація магічної піхоти"
 
  modifier_army_sub_unit_magical_motorized_attack_factor: "Атака магічної мотопіхоти"
  modifier_army_sub_unit_magical_motorized_defence_factor: "Захист магічної мотопіхоти"
@@ -237,7 +238,6 @@
  #navy_capital_ship_attack_factor_tt: " $MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR$: $RIGHT|+=%1$"
  send_volunteers_size_tt: " $MODIFIER_SEND_VOLUNTEER_SIZE$: $RIGHT|+=0$"
  army_leader_start_level_tt: " $MODIFIER_ARMY_LEADER_START_LEVEL$: $RIGHT|G=0$"
- training_time_factor_tt: " $MODIFIER_TRAINING_TIME_ARMY_FACTOR$: $RIGHT|-=%1$"
  no_supply_grace_tt: " $MODIFIER_NO_SUPPLY_GRACE$ $RIGHT|+=1$ год"
  navy_weather_penalty_tt: " $MODIFIER_NAVY_WEATHER_PENALTY$: $RIGHT|-=%1$"
  strategic_bomb_visibility_tt: " Помітність при стратегічному бомбардуванні: $RIGHT|-=%1$" # (&?)
@@ -251,3 +251,9 @@
  air_mastery_gain_factor_tt: " Множник приросту майстерності авіації: $RIGHT|+=%1$" # скорочено від повних доктрин
  naval_mastery_gain_factor_tt: " Множник приросту майстерності флоту: $RIGHT|+=%1$" # скорочено від повних доктрин
  army_strength_factor_tt: " $MODIFIER_ARMY_STRENGTH$: $RIGHT|+=%1$"
+
+#Day/nigh effects
+ EaW_eternal_night: "§1Ніч триватиме вічно!§!"
+ EaW_eternal_day: "§OДень триватиме вічно!§!"
+ EaW_eternal_night_end: "§1Вічна ніч закінчиться.§!"
+ EaW_eternal_day_end: "§OВічний день закінчиться.§!"
