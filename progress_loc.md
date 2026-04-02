@@ -130,6 +130,7 @@
 + [x] `country_GRW` (переклав *Bovcun*) — `(&)`
 + [ ] `country_GRY` — `(&+)`
 + [x] `country_HAU` (переклав *Bovcun*)
++ [x] `country_HEL` (переклав *StasJesus*) — `(&)`
 + [ ] `country_HIP` (переклав *All-Ampirian*) — `(&+)`
 + [x] `country_HLR` (переклав *Bovcun*)
 + [x] `country_IBZ`
