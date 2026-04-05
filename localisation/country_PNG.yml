@@ -296,8 +296,7 @@
 
 ### ПЕРСОНАЖІ ###
  # Лідери
-  PNG_king_lolo:0 "The Ice King" #King Lolo
-  PNG_king_lolo_desc:0 "Look, a supermodel! Look, a hoverboard! Look, the apocalypse! Someone got hit in the boingloings! Hit in the boingloings! Boingloings! Boingloings! Someone got hit in them. Peace out." #Remove after AF 2026
+  PNG_king_lolo: "Король Лоло"
   PNG_king_orvar_njordin: "Король Орвар Нйордін"
   PNG_emperor_orvar_njordin: "Імператор Орвар Нйордін"
   PNG_king_hindrik_aberg: "Король Гіндрік Аберґ"
