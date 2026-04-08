@@ -36,6 +36,11 @@
  party_maker: "Майстер вечірок"
  queen_terror: "Племінна королева"
  queen_terror_desc: "§LТзіка Тезісчія приєдналася до лав Місячного повстання не з відчуття єдності зі своїми нічними суродженцями, але з відчайдушної потреби у виживанні. Вона віддана передусім бетпоні, яких вона скеровує, і ця відданість їй віддячується; вона може надихнути свої війська жорстко та відчайдушно боротися. Хоча її вірність Місячному матріарху спірна, бойові навички Тзіки є корисним активом, яким гріх було би знехувати.§!" # (&)
+ queen_terror_night_override: "$queen_terror$"
+ queen_terror_night_override_desc: "$queen_terror_desc$"
+ queen_terror_day_override: "$queen_terror$"
+ queen_terror_day_override_desc: "$queen_terror_desc$"
+ queen_terror_modifier_tt: "§Y$night$§!\nАтака:  §G+5.0%§!\nЗахист:  §G+5.0%§!"
  jungle_girl: "Дівка з джунглів"
  jungle_girl_desc: "§LСмілива та заповзятлива, часто нерозсудлива. Авантюристи з джунглів проводять більшу частину свого життя в джунглях, або шукаючи скарби, або борячися з бандитами, і можуть поділитися своїм досвідом із поні, яких скеровують.§!"
  commissar_general: "Червоний генерал"
@@ -55,6 +60,10 @@
  element_of_loyalty: "Елемент Вірності"
  sanguinary_prince: "Князь крові"
  sanguinary_prince_desc:0 "§LЖажда крови мучает его каждую ночь, мыши-вампиры какими мы их знаем поклоняются Ночной Богине, что делает их грозными противниками. Просто... держитесь подальше от солнца.§!"
+ sanguinary_prince_night_override: "$sanguinary_prince$"
+ sanguinary_prince_night_override_desc: "$sanguinary_prince_desc$"
+ sanguinary_prince_day_override: "$sanguinary_prince$"
+ sanguinary_prince_day_override_desc: "$sanguinary_prince_desc$"
  nico_the_general: "Ніко"
  nico_the_general_desc: ""
  welfare_program: "Програма добробуту"
@@ -68,10 +77,20 @@
  EQS_wonderbolts_captain: "Капітан Диво-блискавок"
  goddess_of_the_night: "Богиня Ночі"
  goddess_of_the_night_desc:0 "§LОбладая магической способностью управлять Луной, Принцесса Ночи может дать полезное преимущество нашим солдатам во время сражений в тёмное время суток.§!"
+ goddess_of_the_night_night_override: "$goddess_of_the_night$"
+ goddess_of_the_night_night_override_desc: "$goddess_of_the_night_desc$"
+ goddess_of_the_night_day_override: "$goddess_of_the_night$"
+ goddess_of_the_night_day_override_desc: "$goddess_of_the_night_desc$"
+ goddess_of_the_night_modifier_tt: "§Y$night$§!\nАтака:  §G+10.0%§!\nЗахист:  §G+10.0%§!"
  warrior_princess: "Принцеса-воїн"
  warrior_princess_desc:0 "§LПринцесса Луна провела множество сражений против сил зла ещё до объединения Эквестрии, и сейчас она вдохновляет пони под своим командованием совершать всё более великие подвиги, даже если её знание тактики остается несколько устаревшим.§!"
  night_guard: "Нічна гвардія"
  night_guard_desc:0 "§LНочные стражи - это пони, избранные, чтобы вести в бой армии Принцессы Ночи. Они прошли специальную подготовку, которая значительно повышает эффективность войск под их командованием во тьме ночи. Никому не скрыться от нас в ночи.§!"
+ night_guard_night_override: "$night_guard$"
+ night_guard_night_override_desc: "$night_guard_desc$"
+ night_guard_day_override: "$night_guard$"
+ night_guard_day_override_desc: "$night_guard_desc$"
+ night_guard_modifier_tt: "§Y$night$§!\nАтака:  §G+5.0%§!\nЗахист:  §G+5.0%§!"
  equestrian_prince: "Принц Еквестрії"
  equestrian_prince_desc:0 "§LПринц получил высококлассное военное образование в Кантерлоте, где их обучают управлять армиями на фронте.§!"
  advanced_artillery_manufacturer: "Виробник новітньої артилерії"
@@ -168,7 +187,7 @@
  populist_desc:0 "Эта личность всегда найдет язык с простым народом. Она горит желанием помочь своей стране."
  rich_industrialist: "Багатий промисловець"
  rich_industrialist_desc:0 "Этот богатый предприниматель может похвастаться крепкими связями с крупным бизнесом и промышленностью."
- rural_populist: "Популіст-селянин"
+ rural_populist: "Сільський популіст"
  rural_populist_desc:0 "Эта личность - трудолюбивый фермер и хозяин ранчо. Он всегда готов помочь своему ближнему, откуда бы он ни прибыл."
  serene_sovereignty: "Ясновельможний суверенітет"
  serene_sovereignty_desc:0 "Селестия подтвердила своё законное место в качестве мудрого и просвещённого монарха Эквестрии. Она - ориентир и защитница всей нации."
@@ -242,6 +261,8 @@
  silent_workgriffon2: "$silent_workgriffon$"
  silent_workgoat: "Робочий козлик"
  silent_workirin: "Робочий кірінчик"
+ silent_workbear: "Робочий ведмедик"
+ silent_workzebra: "Робочий зебрик"
  popular_figurehead1: "$popular_figurehead$"
  popular_leader: "Популярний лідер"
  ideological_crusaders: "Ідеологічні борці"
@@ -251,6 +272,9 @@
  determined_innovator: "Рішучий інноватор"
  determined_innovator_desc:0 "§LЭтот командир использует самые современные средства ведения войны. Импровизировать. Адаптироваться. Преодолевать!§!"
  warrior_chief: "Вождь-воїн"
+
+ trait_staunch_monarchist:0 "Ярый монархист"
+ trait_staunch_monarchist_desc:0 "Этот лидер уважает и почитает монархию в качестве формы общественного устройства."
 
  agricultural_concern: "Рільничий концерн"
 
@@ -321,9 +345,9 @@
  YAK_absent_leader:0 "Отсутствующий лидер"
 
  JAK_rightful_king: "$YAK_rightful_king$"
- JAK_unmatched_brutalizer:0 "Непревзойдённый тиран"
- defier_of_the_sun_god_hc:0 "Отрицатель Селестийских Богов"
- JAK_khatun_of_yakyakistan:0 "Хатун Як'якистану"
+ JAK_unmatched_brutalizer: "Незрівнянний бруталізатор" # (&+)
+ defier_of_the_sun_god_hc: "Заперечувач небесних богів" # (&)
+ JAK_khatun_of_yakyakistan: "Хатун Як'якистану"
  JAK_tsaritsa_of_severyana: "Цариця Сєвєряни"
  JAK_princess_of_equestria: "Принцеса Еквестрії"
  JAK_empress_of_equus: "Імператриця Еквусу" # combined with some additional bonuses
@@ -569,6 +593,12 @@ Yal_skeleton_king_army_leader_desc:0 "§LСражение под началом 
 
  aeronautical_engineer: "Авіаційний інженер"
 
+ IBZ_iron_breaker_trait:0 "Несокрушимый"
+
+ MSS_king_of_the_world:0 "Король всего мира"
+
+ medical_cartographer:0 "Medical Cartographer"
+
 ### THESE ARE NOT DUPLICATES, DO NOT REMOVE
  alt_red_army_organizer: "$red_army_organizer$"
  alt_army_chief_defensive_1: "$army_chief_defensive_1$"
@@ -672,6 +702,9 @@ Yal_skeleton_king_army_leader_desc:0 "§LСражение под началом 
  alt_air_airborne_1: "$air_airborne_1$"
  alt_air_airborne_2: "$air_airborne_2$"
  alt_air_airborne_3: "$air_airborne_3$"
+ alt_air_pilot_training_1: "$air_pilot_training_1$"
+ alt_air_pilot_training_2: "$air_pilot_training_2$"
+ alt_air_pilot_training_3: "$air_pilot_training_3$"
  alt_navy_chief_naval_aviation_1: "$navy_chief_naval_aviation_1$"
  alt_navy_chief_naval_aviation_2: "$navy_chief_naval_aviation_2$"
  alt_navy_chief_naval_aviation_3: "$navy_chief_naval_aviation_3$"

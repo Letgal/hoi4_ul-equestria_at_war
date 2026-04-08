@@ -1,4 +1,6 @@
 ﻿# == (*) ==
+# АВТОР ПЕРЕКЛАДУ: Green Kitten
+
 ### Focus
  JES_to_arms_citizens:0 "До зброї, громадянине!"
  JES_to_arms_citizens_desc:0 "Ми давно готувалися до цього дня, таємно збираючи контрабандну зброю з Аквілеї. Тепер, нарешті настав час розкрити наші схованки і роздати зброю тим, хто з нею піде в бій. О Свята Любов до Вітчизни, веди, направ наших солдатів!"
@@ -412,7 +414,8 @@
  tarrin.33.a:0 "Ніщо не вб'є ідею, чого не скажеш про героїв."
 
  tarrin.34.t:0 "Переворот монархістів!"
- tarrin.34.d:0 "Протягом тривалого часу невловимий Бургундський Орден не вважали реальною загрозою. Радикальні монархісти не користувалися в Тарріні підтримкою, і революція вкоренилася. Але підтримку терористів аквілейцями аквілейці недооцінили.\n\nЗараз вони розпочали сміливий переворот, націлившись на серце Тарріна. Група озброєних бойовиків штурмом узяла урядові будівлі в столиці і взяла сотні заручників. На додаток до цього, зайнято кілька контрольних пунктів пропуску на заході. Гаразд, якби лише з ними ще можна було розправитися, але за ними пішли аквілейські солдати, які перетнули кордони через захоплені пункти, масою своєю захопивши країну і заставши зненацька захисників. За лічені години, Республіка втратила незалежність через раптове вторгнення. Мабуть, [Root.GetLeader] упускає помилки 980 року, і, отже, революцію знову придушено.\n\nІ все ж, надія житиме, адже ніщо не вб'є надію."
+ tarrin.34.d_mon_aquileia:0 "Протягом тривалого часу невловимий Бургундський Орден не вважали реальною загрозою. Радикальні монархісти не користувалися в Тарріні підтримкою, і революція вкоренилася. Але підтримку терористів аквілейцями аквілейці недооцінили.\n\nЗараз вони розпочали сміливий переворот, націлившись на серце Тарріна. Група озброєних бойовиків штурмом узяла урядові будівлі в столиці і взяла сотні заручників. На додаток до цього, зайнято кілька контрольних пунктів пропуску на заході. Гаразд, якби лише з ними ще можна було розправитися, але за ними пішли аквілейські солдати, які перетнули кордони через захоплені пункти, масою своєю захопивши країну і заставши зненацька захисників. За лічені години, Республіка втратила незалежність через раптове вторгнення. Мабуть, [Root.GetLeader] упускає помилки 980 року, і, отже, революцію знову придушено.\n\nІ все ж, надія житиме, адже ніщо не вб'є надію."
+ tarrin.34.d_no_mon_aquileia:0 "Протягом тривалого часу невловимий Бургундський Орден не вважали реальною загрозою. Але республіканці зарозуміло проігнорували їх, дозволивши тим самим їм плести змови в тіні, набирати прихильників і готуватися до того, щоб одним швидким ударом обезголовити молоду республіку.\n\nЗараз вони розпочали сміливий переворот, націлившись на серце Тарріна. Група озброєних бойовиків штурмом узяла урядові будівлі в столиці і взяла сотні заручників. У результаті трьох скоординованих операцій Мейнар Носер, Леонтіна Пандьйонн та Коріна Трасвірер були затримані й узяті в полон. Таким чином, республіка втратила свого лідера, і тепер немає керівництва, здатного організувати будь-який опір проти монархістів. Граф Ґійом Діскрет вже повернувся з вигнання, і Бургундський орден проголосив його новим правителем Тарріна. Мабуть, [Root.GetLeader] упускає помилки 980 року, і, отже, революцію знову придушено.\n\nІ все ж, надія житиме, адже ніщо не вб'є надію."
  tarrin.34.a:0 "Це не кінець."
 
  tarrin.35.t:0 "Переворот монархістів у Тарріні!"
@@ -463,15 +466,25 @@
  tarrin.46.d:0 "Після короткого і жорсткого конфлікту, Францистрія нарешті погодилася підписати перемир'я і почала переговори з Тарріном. Таррінські вимоги прості й зрозумілі: вони бажають визнання незалежності та суверенітету їхньої нації. У Францистрії не було вибору, окрім як погодитися, оскільки їхня армія не здатна взяти гору в цьому конфлікті.\n\nВорожнечі покладено край, Таррін закріпив за собою новопридбану незалежність. Країни по всьому світу захоплені сміливим опором малої нації, а Аквілея вже поспішає налагоджувати дипломатичні зв'язки з урядом Тарріна."
  tarrin.46.a:0 "Мир у такий непростий час."
 
+ tarrin.48.t:0 "Tarrin Attacks Balefire!" # (!)
+ tarrin.48.d:0 "Border guards are reporting that Tarrinian soldiers have infiltrated across the border and have launched coordinated attacks against defensive positions. There has been no formal declaration of war, but something must be done about this incursion before things get worse. According to our intelligence reports, the Tarrinians have recently been spreading jingoistic propaganda about how Balefire is "Tarrinian soil" and promising to "liberate" its griffons. This means that these are no mere border raids, but an attempt to seize control of the entire region. We must act quickly to salvage the situation." # (!)
+ tarrin.48.a:0 "They won't get it without a fight." # (!)
+ tarrin.48.b:0 "We have to retreat." # (!)
+
+ tarrin.49.t:0 "Tarrin Attacks Erie!" # (!)
+ tarrin.49.d:0 "Border guards are reporting that Tarrinian soldiers have infiltrated across the border and have launched coordinated attacks against defensive positions. There has been no formal declaration of war, but something must be done about this incursion before things get worse. According to our intelligence reports, the Tarrinians have recently been spreading jingoistic propaganda about how Erie is "Tarrinian soil" and promising to "liberate" its griffons. This means that these are no mere border raids, but an attempt to seize control of the entire region. We must act quickly to salvage the situation." # (!)
+ tarrin.49.a:0 "They won't get it without a fight." # (!)
+ tarrin.49.b:0 "We have to retreat." # (!)
+
 ### Parties
- JES_neutrality_party:0 "Династія Дискретів"
- JES_neutrality_party_long:0 "Династія Дискретів"
- JES_communism_party:0 "ССТ"
- JES_communism_party_long:0 "Союз Соціалістів Тарріна"
- JES_democratic_party:0 "ТАО"
- JES_democratic_party_long:0 "Тарріно-Аквілейське Об'єднання"
- JES_fascism_party: "ТНП"
- JES_fascism_party_long: "Таррінська національна партія"
+ JES_neutrality_party:0 "Dynastie des Discrets" # Династія Дискретів
+ JES_neutrality_party_long:0 "Dynastie des Discrets"
+ JES_communism_party:0 "AST" # ССТ
+ JES_communism_party_long:0 "Asunança Socialiste Tarrinenc" # Союз Соціалістів Тарріна
+ JES_democratic_party:0 "RTA" # ТАО
+ JES_democratic_party_long:0 "Rassemblement Tarrin-Aquileia" # Тарріно-Аквілейське Об'єднання
+ JES_fascism_party:0 "PNT" # ТНП
+ JES_fascism_party_long:0 "Partit Nacional Tarrinenc" # Таррінська національна партія
  JES_communism_faction: "Генеральний національний конґрес"
  JES_democratic_faction: "Республіканська фракція"
  JES_fascism_faction: "Ультранаціоналістична фракція"

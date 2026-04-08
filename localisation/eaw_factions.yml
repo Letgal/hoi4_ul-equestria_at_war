@@ -116,10 +116,14 @@
   faction_goal_stockpile_convoys_desc:0 "Our trade depends on our ability to participate in overseas shipping. Increasing the number of convoys at our disposal not only makes our trade more flexible, but also grants us a lifeline in case of future conflict."
   faction_goal_deploy_cas_name: "Розгортання штурмовиків"
   faction_goal_deploy_cas_desc:0 "The introduction of close air support units to our armed forces would greatly benefit us on the battlefield."
+  ensure_advanced_r_d_goal_name:0 "Build Advanced R&D Facilities"
+  ensure_advanced_r_d_goal_desc:0 "We must ensure our superweapon and magical technology is up to par, by building facilities dedicated to the research and development of advanced prototypes and new concepts."
 
  ## Середьострокові
-  control_canterlot_goal_name: "Помста за Кантерлотське весілля"
-  control_canterlot_goal_desc:0 "The national humiliation suffered at Canterlot can be reversed with a triumphant push!"
+  control_canterlot_goal_name: "Контроль над Кантерлотом"
+  control_canterlot_goal_desc:0 "Controlling Canterlot means the downfall of Equestria, our historic arch-enemy."
+  control_canterlot_goal_CHN_name: "Помста за Кантерлотське весілля"
+  control_canterlot_goal_CHN_desc:0 "The national humiliation suffered at Canterlot can be reversed with a triumphant push!"
   control_stalliongrad_goal_name: "Перемога над Сталліонградом"
   control_stalliongrad_goal_desc:0 "Stalliongrad must be destroyed for communism's vile tendrils to be crushed."
   control_aris_goal_name: "Перемога над the гіпогрифами"
@@ -173,3 +177,19 @@
 ### ІНШЕ ###
  ONE_MECHANIZED_GENERAL: "§YОдин генерал§! із рисою §Y$cavalry_leader$§!, §Y$combined_arms_expert$§! або §Y$cavalry_expert$§!:"
  AT_LEAST_100_STEEL: "§YКожен член альянсу§! з принаймні 100 од. сталі:"
+
+### ПІДКАЗКИ ДО ЦІЛЕЙ АЛЬЯНСІВ ###
+ faction_goal_an_armored_fist_tt: "Принаймні §Y50 бронетанкових батальйонів§! в альянсі. Наразі: [?temp_armor_units_tt|Y0]"
+ faction_goal_an_infantry_army_tt: "Принаймні §Y250 піхотних батальйонів§! в альянсі. Наразі: [?temp_inf_units_tt|Y0]"
+ faction_goal_marine_corps_tt: "Принаймні §Y30 батальйонів морської піхоти§! в альянсі. Наразі: [?temp_marine_units_tt|Y0]"
+ faction_goal_airborne_corps_tt: "Принаймні §Y30 батальйонів повітряного десанту§! в альянсі. Наразі: [?temp_paratrooper_units_tt|Y0]"
+ faction_goal_mountaineer_corps_tt: "Принаймні §Y30 батальйонів гірської піхоти§! в альянсі. Наразі: [?temp_mountaineer_units_tt|Y0]"
+ faction_goal_submarine_force_tt: "Принаймні §Y100 підводних човнів§! в альянсі. Наразі: [?temp_submarines_tt|Y0]"
+ faction_goal_convoy_escort_force_tt: "Принаймні §Y100 кораблів прикриття§! в альянсі. Наразі: [?temp_screens_tt|Y0]"
+ faction_goal_air_superiority_tt: "Принаймні §Y1.00k винищувачів§! в альянсі. Наразі: [?temp_fighters_tt|Y0]"
+ faction_goal_high_seas_fleet_tt: "Принаймні §Y$NUM$ основних кораблів§! в альянсі. Наразі: [?temp_ships_tt|Y0]"
+ faction_goal_strategic_bombing_campaign_tt: "Принаймні §Y200 стратегічних бомбардувальників§! в альянсі. Наразі: [?temp_bombers_tt|Y0]"
+ faction_goal_mechanize_our_army_tt: "Принаймні §Y150 батальйонів механізованої піхоти§! в альянсі. Наразі: [?temp_mech_units_tt|Y0]"
+ faction_goal_deploy_special_forces_tt: "Принаймні §Y40 батальйонів ССО§! в альянсі. Наразі: [?temp_special_units_tt|Y0]"
+ faction_goal_stockpile_convoys_tt: "Принаймні §Y$NUM$ конвоїв§! в альянсі. Наразі: [?temp_convoys_tt|Y0]"
+ faction_goal_deploy_cas_tt: "Принаймні §Y300 штурмовиків§! в альянсі. Наразі: [?temp_cas_tt|Y0]"

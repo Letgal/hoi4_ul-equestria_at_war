@@ -22,7 +22,8 @@
  nuclear_facility_construction_tt: "Якщо в області §Y$temp_facility_state_loc$§! нема інших §Yекспериментальних комплексів§!, ми отримаємо §Yцентр ядерних досліджень§! в провінції §Y$temp_facility_province_loc$§!.\n\n"
  magical_facility_construction_tt: "Якщо в області §Y$temp_facility_state_loc$§! нема інших §Yекспериментальних комплексів§!, ми отримаємо §Yінститут прикладної тауматургії§! в провінції §Y$temp_facility_province_loc$§!.\n\n"
 
- lacking_development_for_facilities_tt: "Для будівництва потрібне §Y$pre_industrial_society$§! або краще."
+ lacking_development_for_facilities_tt: "Для будівництва потрібна §Y$big_science_base$§! або краще."
+ lacking_development_for_power_grid_tt: "Для будівництва потрібне §Y$pre_industrial_society$§! або краще."
 
 form_department_tooltip: "Виконано поліпшення агентства §YСтворити відділ криптології§!"
 
@@ -359,6 +360,7 @@ form_department_tooltip: "Виконано поліпшення агентств
   sp_deep_rock_drill_coal: "Спрямування видобутку: вугілля"
   sp_deep_rock_drill_hide: "Приховати рішення з глибокого буріння"
   sp_deep_rock_drill_show: "Показати рішення з глибокого буріння"
+  sp_deep_rock_drill_establish_tt:0 "§gКак только мы обустроим $sp_deep_rock_drill_site$, то сможем выбрать ресурс для добычи.§!"
 
 ###############################
 ### MAGICAL PROJECT REWARDS ###

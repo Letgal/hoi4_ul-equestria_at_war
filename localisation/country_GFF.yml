@@ -1,4 +1,6 @@
 ﻿# == (*) ==
+# АВТОР ПЕРЕКЛАДУ: Green Kitten
+
 ### НАЗВИ КРАЇНИ ###
  GRF_frontier_neutrality: "Нова-Грифонія"
  GRF_frontier_neutrality_DEF: "Нова-Грифонія"
@@ -46,7 +48,7 @@
  GFF_telete_stats_tp: "§RНавички атаки§!: §Y2§!\n§YНавички захисту§!: §Y1§!\n§GНавички планування§!: §Y1§!\n§CНавички логістики§!: §Y3§!\n\n"
  GFF_heinrich_stats_tp: "§RНавички атаки§!: §Y1§!\n§YНавички захисту§!: §Y2§!\n§GНавички планування§!: §Y3§!\n§CНавички логістики§!: §Y1§!\n\n"
 
- edgy_commie_bird_desc:0 "§YBorn§!: 5th of April, 970 in Weter\n\n§YBiography§!: Heinrich Redtail's sister, Ulla remembers her young self enamored by the distant tyrannical Griffonian Empire breaking to Kemerskai's revolution. She sought to learn all she could while maturing, hoping to one day overthrow the chains she believed choked Nova Griffonia's populace.\n\nPrior to Stalliongrad's formation, Ulla joined the growing communist party within Nova Griffonia with her brother and gained a position of high influence. The circumstances that forced Stalliongrad to break from Equestria were the very same afflicting her homeland, and Ulla initiated her life-long plan and brought her own Revolution to Nova Griffonia in 996.\n\nUnlike Stalliongrad's success, Ulla's Revolution would be crushed by Nova Griffonia's forces engaging her widespread revolutionaries in brutal force. Her Revolution was snuffed out, and when faced with defeat and the forgone conclusion of her execution, Ulla took flight.\n\nHiding on the Frontier, Ulla allowed herself time to reflect hard on her failures before plotting again. She was downed, but her leftist ideals for Nova Griffonia were not yet defeated. In those moments, Ulla came to a conclusion—one as cold as it was universal: the only thing that mattered with ideologies... was force." # (!)
+ edgy_commie_bird_desc: "§YНародження§!: 5 квітня 970 р. у Уетері\n\n§YЖиттєпис§!: Будучи сестрою Гайнріха Редтейла, Улла пам'ятає, як замолоду закохалась у Кемерскаєву революцію, що зламала далекку тиранічну Імперію Грифонів. Вона жадала дізнатися про неї все, що можливо, сподіваючись одного дня скинути окови, котрі, вірила вона, душить населення Нова-Грифонії.\n\nІще до утворення Сталліонграду Улла приєдналася до зростаючої комуністичної партії в Нова-Грифонії зі своїм братом і здобула дуже впливову посаду. Умови, які змусили Сталліонград відколотися від Еквестрії, були такі ж як ті, що терзали її батьківщину, і Улла розпочала свій життєвий план і принесла свою власну революцію в Нова-Грифонію в 996 році.\n\nНа відміну від успіху у Сталліонграді, Уллину революцію було розбито військами Нова-Грифонії, які з брутальною силою зустріли повсюдних революціонерів. Її революцію загасили, і Улла втекла перед лицем поразки та неминучого закінчення стратою.\n\nСховавшися на Фронтирі, Улла дозволила собі суворо переглянути свої поразки, перш ніж задумувати щось знову. Її здолали, але її ідеали лівої Нова-Грифонії ще не загинули. У ці миттєвості, Улла дійшла висновку настільки ж холодного, як універсального: єдина річ, яка важлива для ідеологій... це сила." # (&+)
 
 ### ФОКУСИ ###
  GFF_funds:0 "Благати про фінансування"

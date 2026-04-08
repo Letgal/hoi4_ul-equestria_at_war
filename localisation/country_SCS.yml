@@ -1,4 +1,6 @@
 ﻿# == (*) ==
+# АВТОР ПЕРЕКЛАДУ: Green Kitten
+
  vp_name_coltlumbia: "Кольтлумбія"
 
 ### ЛІДЕРИ ###
@@ -39,7 +41,7 @@
  caramel: "Карамел"
  SCS_theorist_1: "Скай Дрімер"
  SCS_theorist_2: "Вар Гейм"
- SCS_theorist_3:0 "Аеронавтика Південної Зірки" # (!!): Southern Star Aeronautics
+ SCS_theorist_3:0 "Аеронавтика Південної Зірки" # Southern Star Aeronautics
 
 ### КОНСТРУКТОРИ ### # звернути увагу на перекладЕНІСТЬ цих назв. ~ L.H.
  SCS_tank_1:0 "Тракторна компанія Тротсаса"

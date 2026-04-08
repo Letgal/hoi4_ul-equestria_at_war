@@ -36,3 +36,8 @@
  eaw_diplo_popup_window_title_integration_successful: "Успішні зусилля з інтеграції"
  eaw_diplo_popup_window_entry_continual: "[?current_state:state_original_cores^0.GetFlag]§Y[?current_state.GetName]§!, [PopupIntegrationRecursiveScriptedLoc]"
  eaw_diplo_popup_window_entry_last: "[?current_state:state_original_cores^0.GetFlag]§Y[?current_state.GetName]§!."
+
+## CUSTOM MESSAGES
+ # AF 2026 griffonian faction created
+ eaw_diplo_popup_window_message_custom_101: "§YГрифонську коаліцію§! було утворено на протистоянна §Rзлій діархії§!.\n\nДоля Грифонії лежить на волосині." # (&+)
+ eaw_diplo_popup_window_title_custom_101: "Повідомлення від держави [?eaw_diplo_popup_sender^popup_i.GetNameDef]"

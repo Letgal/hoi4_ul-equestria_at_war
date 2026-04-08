@@ -1,6 +1,8 @@
 ﻿# == (*) ==
 ### СЛУЖБОВА ЛОК. ###
  claim_all_de_jure_aquileia_tt: "Отримує претензії на всі землі в межах §Yде-юре§! кордонів §rАквілеї§!."
+ claim_all_herzland_states_tt: "Отримує претензії на всі області §YГерцланду§!."
+ core_all_herzland_states_tt: "Усі області §YГерцланду§! стають осердними.\n"
  form_country_aquileia_coring_states_tt: "Усі §Yаквілейські§! землі стануть осердними.\n" # CORE
  form_country_pridea_coring_states_tt: "Усі §Yпрідейські§! землі стануть осердними.\n" # CORE
  form_country_rila_coring_states_tt: "Усі §Yрільські§! землі стануть осердними.\n" # CORE
@@ -30,10 +32,10 @@
 
 ### РІШЕННЯ ###
  form_aquileia_category: "Нова епоха для Аквілеї"
- form_aquileia_category_desc: "Після розгрому династії Діскретів і вигнання республіканських революціонерів колишні землі Аквілеї залишилися без сильного лідера. [Root.GetLeader] бу[Root.GetLeader.GetVerbGendEndA_RU] рушійною силою в їхній перемозі, і час покаже, чи повторять вони кроки Ґровера II, або ж стануть більш доброзичливими володарями."
  form_aquileia: "[GetFormAquileiaName]"
  form_aquileia_normal: "Відновити Аквілею"
  form_aquileia_griffemp: "Зробити Аквілею осердною територією" # (&+)
+ form_aquileia_desc: "Після розгрому династії Діскретів і вигнання республіканських революціонерів колишні землі Аквілеї залишилися без сильного лідера. [Root.GetLeader] бу[Root.GetLeader.GetVerbGendEndA_RU] рушійною силою в їхній перемозі, і час покаже, чи повторять вони кроки Ґровера II, або ж стануть більш доброзичливими володарями."
  unite_aquileia_proper: "Об'єднати Аквілею"
  reclaim_northwest_peripherie: "Повернути Периферію"
  reclaim_eastern_peripherie: "Повернути Луантено"

@@ -4,14 +4,14 @@
  o_alicorn_sunset: "Сутінки алікорнів"
 
 ### NLR/BAT ###
- o_Nightfall: "Операція «Присмерк»"
- o_Moonshadow: "Операція «Тінь місяця»"
- o_Darkside: "Операція «Темний бік»"
- o_Empress: "Операція «Імператриця»"
- o_Eclipse: "Операція «Затемнення»"
- o_Crater: "Операція «Кратер»"
- o_Lunar_Sea: "Операція «Місячне море»"
- o_Dominion: "Операція «Домініон»"
+ o_Nightfall: "«Присмерк»"
+ o_Moonshadow: "«Тінь місяця»"
+ o_Darkside: "«Темний бік»"
+ o_Empress: "«Імператриця»"
+ o_Eclipse: "«Затемнення»"
+ o_Crater: "«Кратер»"
+ o_Lunar_Sea: "«Місячне море»"
+ o_Dominion: "«Домініон»"
 
 ### GRI + Herzland Minors ###
  o_Kaiserreich: "«Кайзеррайх»"
@@ -33,32 +33,34 @@
  o_Discret: "План «Діскрет»"
 
 ### FEA ###
- o_Raaf:0 "Operatie Raaf"
- o_Arend:0 "Operatie Arend"
- o_Pruim:0 "Operatie Pruim"
- o_Fantoom:0 "Operatie Fantoom"
- o_Degenkamp:0 "Operatie Degenkamp"
- o_Dolkstoot:0 "Operatie Dolkstoot"
- o_Schildwacht:0 "Operatie Schildwacht"
- o_Vleugels: "Операція «Вльогелс»"
- o_Dijk:0 "Operatie Dijk"
- o_Speerpunt:0 "Operatie Speerpunt"
- o_Wervelwind:0 "Operatie Wervelwind"
- o_Vuurdoop:0 "Operatie Vuurdoop"
- o_Ravelijn:0 "Operatie Ravelijn"
- o_Bolwerk:0 "Operatie Bolwerk"
+ o_operatie: "Операція"
 
- o_Kroon:0 "Operatie Kroon"
- o_Hartslag:0 "Operatie Hartslag"
- o_Griffking: "Операція «Грифкінґ»"
+ o_Raaf:0 "«Raaf»"
+ o_Arend:0 "«Arend»"
+ o_Pruim:0 "«Pruim»"
+ o_Fantoom:0 "«Fantoom»"
+ o_Degenkamp:0 "«Degenkamp»"
+ o_Dolkstoot:0 "«Dolkstoot»"
+ o_Schildwacht:0 "«Schildwacht»"
+ o_Vleugels: "«Вльогелс»"
+ o_Dijk:0 "«Dijk»"
+ o_Speerpunt:0 "«Speerpunt»"
+ o_Wervelwind:0 "«Wervelwind»"
+ o_Vuurdoop:0 "«Vuurdoop»"
+ o_Ravelijn:0 "«Ravelijn»"
+ o_Bolwerk:0 "«Bolwerk»"
 
- o_Wolkenval:0 "Operatie Wolkenval"
- o_Arrest:0 "Operatie Arrest"
- o_Orde:0 "Operatie Orde"
+ o_Kroon:0 "«Kroon»"
+ o_Hartslag:0 "«Hartslag»"
+ o_Griffking: "«Грифкінґ»"
 
- o_Stokbrood:0 "Operatie Stokbrood"
- o_Haan:0 "Operatie Haan"
- o_Genot:0 "Operatie Genot"
+ o_Wolkenval:0 "«Wolkenval»"
+ o_Arrest:0 "«Arrest»"
+ o_Orde:0 "«Orde»"
+
+ o_Stokbrood:0 "«Stokbrood»"
+ o_Haan:0 "«Haan»"
+ o_Genot:0 "«Genot»"
 
 ### FAT/FAW ###
  o_Revolution: "«Революція»"
@@ -75,132 +77,138 @@
  o_Sickelkralle:0 "Fall Sickelkralle"
 
 ### WNG + Culture Group ###
- o_Sciabola: "Операція «Шабля»"
- o_Dinamo:0 "Operazione Dinamo"
- o_Saetta:0 "Operazione Saetta"
- o_Ferreo: "Операція «Залізне серце»"
- o_Provvidenza: "Операція «Провидіння»"
- o_Ago:0 "Operazione Ago"
- o_Perla: "Операція «Перла»"
- o_Acqua: "Операція «Вода»"
- o_Fantasma:0 "Operazione Fantasma"
- O_Platino: "Операція «Платина»"
- o_Tempesta: "Операція «Буря»"
- o_Cittadella: "Операція «Цитадель»"
- o_Predatore: "Операція «Хижак»"
- o_Obelisco: "Операція «Обеліск»"
- o_Bronzo: "Операція «Бронза»"
- o_Silenzio: "Операція «Мовчання»"
- o_Paladino: "Операція «Паладін»"
- O_Squalo:0 "Operazione Squalo"
- o_Incubo:0 "Operazione Incubo"
- o_Valanga:0 "Operazione Valanga"
- o_Bianco:0 "Operazione Sole Bianco"
- o_Meteorite: "Операція «Метеорит»"
- o_Fortuna: "Операція «Фортуна»"
- o_Fulmine:0 "Operazione Fulmine"
- o_Cuor: "Операція «Золоте серце»"
- O_Mezzanotte: "Операція «Опівніч»"
- o_Pitone:0 "Operazione Pitone"
- o_Sirena: "Операція «Сирена»"
- o_Portone:0 "Operazione Portone"
- o_Rossa: "Операція «Червоний місяць»"
- o_Cavaliere:0 "Operazione Cavaliere Verde"
- o_Caccia:0 "Operazione Caccia"
- o_Alacrita:0 "Operazione Alacrità"
- O_Lacrime:0 "Operazione Lacrime"
- o_Pioggia:0 "Operazione Pioggia"
- o_Rosa: "Операція «Троянда»"
- o_Alfabeto:0 "Operazione Alfabeto"
- o_Incudine:0 "Operazione Incudine"
- o_Fuoco: "Операція «Вогонь»"
- o_Martello:0 "Operazione Martello"
- o_Calamita:0 "Operazione Calamita"
- o_Ramo:0 "Operazione Ramo"
- o_Carovana:0 "Operazione Carovana"
- o_Bussola:0 "Operazione Bussola"
- o_Rasoio:0 "Operazione Rasoio"
- o_Enigma: "Операція «Енігма»"
- o_Fata:0 "Operazione Fata"
- o_Trappola:0 "Operazione Trappola"
- o_Scopa:0 "Operazione Scopa"
- o_Occhio:0 "Operazione Occhio Nero"
- o_Camaleonte:0 "Operazione Camaleonte"
+ o_operazione: "Операція"
 
- o_Demolizione:0 "Operazione Demolizione" ### Falcor
- o_Fine:0 "Operazione Fine"
- o_Alba:0 "Operazione Alba"
+ o_Sciabola: "«Шабля»"
+ o_Dinamo:0 "«Dinamo»"
+ o_Saetta:0 "«Saetta»"
+ o_Ferreo: "«Залізне серце»"
+ o_Provvidenza: "«Провидіння»"
+ o_Ago:0 "«Ago»"
+ o_Perla: "«Перла»"
+ o_Acqua: "«Вода»"
+ o_Fantasma:0 "«Fantasma»"
+ O_Platino: "«Платина»"
+ o_Tempesta: "«Буря»"
+ o_Cittadella: "«Цитадель»"
+ o_Predatore: "«Хижак»"
+ o_Obelisco: "«Обеліск»"
+ o_Bronzo: "«Бронза»"
+ o_Silenzio: "«Мовчання»"
+ o_Paladino: "«Паладін»"
+ O_Squalo:0 "«Squalo»"
+ o_Incubo:0 "«Incubo»"
+ o_Valanga:0 "«Valanga»"
+ o_Bianco:0 "«Sole Bianco»"
+ o_Meteorite: "«Метеорит»"
+ o_Fortuna: "«Фортуна»"
+ o_Fulmine:0 "«Fulmine»"
+ o_Cuor: "«Золоте серце»"
+ O_Mezzanotte: "«Опівніч»"
+ o_Pitone:0 "«Pitone»"
+ o_Sirena: "«Сирена»"
+ o_Portone:0 "«Portone»"
+ o_Rossa: "«Червоний місяць»"
+ o_Cavaliere:0 "«Cavaliere Verde»"
+ o_Caccia:0 "«Caccia»"
+ o_Alacrita:0 "«Alacrità»"
+ O_Lacrime:0 "«Lacrime»"
+ o_Pioggia:0 "«Pioggia»"
+ o_Rosa: "«Троянда»"
+ o_Alfabeto:0 "«Alfabeto»"
+ o_Incudine:0 "«Incudine»"
+ o_Fuoco: "«Вогонь»"
+ o_Martello:0 "«Martello»"
+ o_Calamita:0 "«Calamita»"
+ o_Ramo:0 "«Ramo»"
+ o_Carovana:0 "«Carovana»"
+ o_Bussola:0 "«Bussola»"
+ o_Rasoio:0 "«Rasoio»"
+ o_Enigma: "«Енігма»"
+ o_Fata:0 "«Fata»"
+ o_Trappola:0 "«Trappola»"
+ o_Scopa:0 "«Scopa»"
+ o_Occhio:0 "«Occhio Nero»"
+ o_Camaleonte:0 "«Camaleonte»"
 
- o_Lungomare:0 "Operazione Lungomare" ### Wingbardy
- o_Gioiello:0 "Operazione Gioiello"
- o_Eterna: "Операція «Вічне місто»"
- o_Capitale:0 "Operazione Capitale"
+ o_Demolizione:0 "«Demolizione»" ### Falcor
+ o_Fine:0 "«Fine»"
+ o_Alba:0 "«Alba»"
 
- o_Bastione: "Операція «Бастіон»" ### Talouse
- o_Marus:0 "Operazione Re Marus"
- o_Tempio: "Операція «Перший храм»"
+ o_Lungomare:0 "«Lungomare»" ### Wingbardy
+ o_Gioiello:0 "«Gioiello»"
+ o_Eterna: "«Вічне місто»"
+ o_Capitale:0 "«Capitale»"
 
- o_Pulcino: "Операція «Пульчіно»" ### Francistria
- o_Balbetta:0 "Operazione Balbetta"
- o_Accogliente:0 "Operazione Accogliente"
+ o_Bastione: "«Бастіон»" ### Talouse
+ o_Marus:0 "«Re Marus»"
+ o_Tempio: "«Перший храм»"
 
- o_Lago: "Операція «Озеро»" ### Arantiga
- o_Florestale:0 "Operazione Guardia Florestale"
+ o_Pulcino: "«Пульчіно»" ### Francistria
+ o_Balbetta:0 "«Balbetta»"
+ o_Accogliente:0 "«Accogliente»"
 
- o_Labirinto: "Операція «Лабіринт»" ### Asterion
- o_Libreria: "Операція «Бібліотека»"
- o_Aster: "Операція «Астер»"
+ o_Lago: "«Озеро»" ### Arantiga
+ o_Florestale:0 "«Guardia Florestale»"
 
- o_Giallo:0 "Operazione Monte Giallo" ### Abyssinia
- o_Secca:0 "Operazione Secca"
- o_Aranci:0 "Operazione Colli Aranci"
+ o_Labirinto: "«Лабіринт»" ### Asterion
+ o_Libreria: "«Бібліотека»"
+ o_Aster: "«Астер»"
+
+ o_Giallo:0 "«Monte Giallo»" ### Abyssinia
+ o_Secca:0 "«Secca»"
+ o_Aranci:0 "«Colli Aranci»"
 
 ### JER + Culture Group ###
- o_Hirondelle:0 "Opération Hirondelle"
- o_Faucon: "Операція «Сокіл»"
- o_Licorne:0 "Opération Licorne"
- o_Condor: "Операція «Кондор»"
- o_Aigle: "Операція «Орел»"
- o_Dechainement:0 "Opération Déchainement"
- o_Deferlement:0 "Opération Déferlement"
- o_Tempete: "Операція «Буря»"
- o_Lame:0 "Opération Fer de Lame"
- o_Estoc:0 "Opération Estoc"
- o_Cannonade:0 "Opération Cannonade"
- o_Vagabon:0 "Opération Vagabon"
- o_Mousquetaire:0 "Opération Mousquetaire"
- o_Tirreur:0 "Opération Franc-Tirreur"
- o_Mercenaire: "Операція «Найманець»"
- o_Ronce:0 "Opération Ronce"
- o_Ortie:0 "Opération Ortie"
- o_Cactus: "Операція «Кактус»"
- o_Rose: "Операція «Троянда»"
- o_Chrysantheme: "Операція «Хризантема»"
- o_Crepuscule:0 "Opération Crépuscule"
- o_Penombre: "Операція «Півтінь»"
- o_Aurore:0 "Opération Aurore"
- o_Aube:0 "Opération Aube"
+ o_operation_fr: "Операція"
 
- o_Reclamation:0 "Opération Réclamation" ### Périphérie
- o_Unification: "Операція «Об'єднання»" ### Périphérie
+ o_Hirondelle:0 "«Hirondelle»"
+ o_Faucon: "«Сокіл»"
+ o_Licorne:0 "«Licorne»"
+ o_Condor: "«Кондор»"
+ o_Aigle: "«Орел»"
+ o_Dechainement:0 "«Déchainement»"
+ o_Deferlement:0 "«Déferlement»"
+ o_Tempete: "«Буря»"
+ o_Lame:0 "«Fer de Lame»"
+ o_Estoc:0 "«Estoc»"
+ o_Cannonade:0 "«Cannonade»"
+ o_Vagabon:0 "«Vagabon»"
+ o_Mousquetaire:0 "«Mousquetaire»"
+ o_Tirreur:0 "«Franc-Tirreur»"
+ o_Mercenaire: "«Найманець»"
+ o_Ronce:0 "«Ronce»"
+ o_Ortie:0 "«Ortie»"
+ o_Cactus: "«Кактус»"
+ o_Rose: "«Троянда»"
+ o_Chrysantheme: "«Хризантема»"
+ o_Crepuscule:0 "«Crépuscule»"
+ o_Penombre: "«Півтінь»"
+ o_Aurore:0 "«Aurore»"
+ o_Aube:0 "«Aube»"
 
- o_Chevalier:0 "Opération Chevalier" ### Tarrin specific
- o_Liberation: "Операція «Звільнення»" ### Tarrin specific
+ o_Reclamation:0 "«Réclamation»" ### Périphérie
+ o_Unification: "«Об'єднання»" ### Périphérie
 
- o_Seconde: "Операція «Другий шанс»" ### Operation fuck the Herzland
- o_Destinee:0 "Opération Destinée" ### Operation fuck the Herzland
- o_Apogee:0 "Opération Apogée" ### Operation fuck the Herzland
+ o_Chevalier:0 "«Chevalier»" ### Tarrin specific
+ o_Liberation: "«Звільнення»" ### Tarrin specific
+
+ o_Seconde: "«Другий шанс»" ### Operation fuck the Herzland
+ o_Destinee:0 "«Destinée»" ### Operation fuck the Herzland
+ o_Apogee:0 "«Apogée»" ### Operation fuck the Herzland
 
 ### RCT ###
- o_Meka:0 "Operacija Meka Voda"
- o_Tekucica:0 "Operacija Tekućica"
- o_Val:0 "Operacija Plimni Val"
- o_Poplava:0 "Operacija Poplava"
- o_Rominjanje:0 "Operacija Rominjanje"
- o_Vodica:0 "Operacija Ružina Vodica"
- o_Oblik:0 "Operacija Valni Oblik"
- o_Vala:0 "Operacija Jahač Vala"
- o_Povrsinska:0 "Operacija Površinska"
+ o_operacija: "Операція"
+
+ o_Meka:0 "«Meka Voda»"
+ o_Tekucica:0 "«Tekućica»"
+ o_Val:0 "«Plimni Val»"
+ o_Poplava:0 "«Poplava»"
+ o_Rominjanje:0 "«Rominjanje»"
+ o_Vodica:0 "«Ružina Vodica»"
+ o_Oblik:0 "«Valni Oblik»"
+ o_Vala:0 "«Jahač Vala»"
+ o_Povrsinska:0 "«Površinska»"
  o_Povod:0 "Pravedni Povod"
 
  o_Stepski:0 "Stepski Jahač" ### Evi
@@ -217,29 +225,29 @@
  o_Voda:0 "Vruća Voda"
 
 ### HIP ###
- o_Trident: "Операція «Тризуб»"
- o_Wavebreak:0 "Operation Wavebreak"
- o_Typhoon: "Операція «Тайфун»"
- o_Hurricane: "Операція «Ураган»"
- o_Sheldon:0 "Operation Sheldon"
- o_Shelly:0 "Operation Shelly"
- o_Seashell: "Операція «Морська мушля»" # (&?)
- o_Tsunami: "Операція «Цунамі»"
- o_Mountain: "Операція «Гора»"
- o_Harpoon: "Операція «Гарпун»"
- o_Tidalwave:0 "Operation Tidalwave"
- o_Storm: "Операція «Буря»"
- o_Barekzamal: "Операція «Барекзамал»"
- o_Trotgourait: "Операція «Тротґуре»"
- o_Stormbreaker:0 "Operation Stormbreaker"
- o_Thunderbolt:0 "Operation Thunderbolt"
- o_Lightning: "Операція «Блискавка»"
- o_Pelican: "Операція «Пелікан»"
- o_Falcon: "Операція «Сокіл»"
- o_Mako:0 "Operation Mako"
- o_Orca: "Операція «Косатка»"
- o_Hammerhead:0 "Operation Hammerhead"
- o_Reef: "Операція «Риф»"
+ o_Trident: "«Тризуб»"
+ o_Wavebreak:0 "«Wavebreak»"
+ o_Typhoon: "«Тайфун»"
+ o_Hurricane: "«Ураган»"
+ o_Sheldon:0 "«Sheldon»"
+ o_Shelly:0 "«Shelly»"
+ o_Seashell: "«Морська мушля»" # (&?)
+ o_Tsunami: "«Цунамі»"
+ o_Mountain: "«Гора»"
+ o_Harpoon: "«Гарпун»"
+ o_Tidalwave:0 "«Tidalwave»"
+ o_Storm: "«Буря»"
+ o_Barekzamal: "«Барекзамал»"
+ o_Trotgourait: "«Тротґуре»"
+ o_Stormbreaker:0 "«Stormbreaker»"
+ o_Thunderbolt:0 "«Thunderbolt»"
+ o_Lightning: "«Блискавка»"
+ o_Pelican: "«Пелікан»"
+ o_Falcon: "«Сокіл»"
+ o_Mako:0 "«Mako»"
+ o_Orca: "«Косатка»"
+ o_Hammerhead:0 "«Hammerhead»"
+ o_Reef: "«Риф»"
 
 ### STG ###
  o_Baicall: "Операція «Байкалл»"
@@ -287,32 +295,32 @@
  o_Iga: "Відплата за ярмо" ### Against yaks/jaks
 
 ### EQS ###
- o_Sunshine: "Операція «Сонячне сяйво»"
- o_Moonlight: "Операція «Місячне світло»"
- o_Concord:0 "Operation Concord"
- o_Rainbow: "Операція «Веселка»"
- o_Pegasus: "Операція «Пегас»"
- o_Unicorn: "Операція «Єдиноріг»"
- o_Alicorn: "Операція «Алікорн»"
- o_Tornado: "Операція «Торнадо»"
- o_Puddinghead:0 "Operation Puddinghead"
- o_Clover: "Операція «Конюшина»"
+ o_Sunshine: "«Сонячне сяйво»"
+ o_Moonlight: "«Місячне світло»"
+ o_Concord:0 "«Concord»"
+ o_Rainbow: "«Веселка»"
+ o_Pegasus: "«Пегас»"
+ o_Unicorn: "«Єдиноріг»"
+ o_Alicorn: "«Алікорн»"
+ o_Tornado: "«Торнадо»"
+ o_Puddinghead:0 "«Puddinghead»"
+ o_Clover: "«Конюшина»"
 
- o_Canterlot: "Операція «Кантерлот»" ### Against CHN
- o_Starling:0 "Operation Starling"
- o_Everfree: "Операція «Вічнодикий»"
- o_Bluebird:0 "Operation Bluebird"
- o_Will:0 "Operation Righteous Will"
+ o_Canterlot: "«Кантерлот»" ### Against CHN
+ o_Starling:0 "«Starling»"
+ o_Everfree: "«Вічнодикий»"
+ o_Bluebird:0 "«Bluebird»"
+ o_Will:0 "«Righteous Will»"
 
- o_Winter: "Операція «Зимова буря»"  ### Against STG
- o_Green:0 "Operation Green Tide"
- o_Car: "Операція «Карамель»"
+ o_Winter: "«Зимова буря»"  ### Against STG
+ o_Green:0 "«Green Tide»"
+ o_Car: "«Карамель»"
 
- o_Bastion: "Операція «Бастіон»" ### Acornage
- o_Bulwark: "Операція «Оплот»"
+ o_Bastion: "«Бастіон»" ### Acornage
+ o_Bulwark: "«Оплот»"
 
- o_Last: "Операція «Останній шанс»" ### Canterlot
- o_MtTop: "Операція «Вершина гори»"
+ o_Last: "«Останній шанс»" ### Canterlot
+ o_MtTop: "«Вершина гори»"
 
 ### CNT ###
  # Weapons

@@ -136,7 +136,7 @@
  JUN_asshole: "Експлуатація тубільців"
  JUN_not_asshole: "Співробітництво з тубільцями"
  JUN_kongo: "Джунглі кличуть Вас"
- #GRF_teafeather_dead:0 "Governor Teafeather assasinated"# Different duplicate from Eaw
+ #GRF_teafeather_dead: "Губернатора Тіфезера вбито" # Different duplicate from Eaw
  GRF_refuse_junta: "Переворот Гайгілла зазнав невдачі"
  GRF_PGI_wins: "Партія інтересів грифонів перемогла на виборах"
  GRF_communists_win: "Народна партія Грифонії перемогла на виборах"
@@ -163,7 +163,7 @@
  available_chief_of_airforce_tt: "§YМожна§! зробити §Yголовнокомандувачем авіації§!"
  available_military_high_command_tt: "§YМожна§! зробити членом §Yвійськового вищого командування§!"
  available_theorist_tt: "§YМожна§! зробити §Yтеоретиком§!"
- #available_industrial_concern:0 "Available as §YIndustrial Concern§!:\n"# moved to replace folder
+ #available_industrial_concern: "§GДоступно§! в якості §Yпромилового концерну§!:\n" # moved to replace folder
  CRY_solar_governorship: "Є сонячною провінцією"
  puppet_can_become_free: "Держава може стати §Hвільною§!"
  DED_Black_Crusade_tp: "§H[THIS.GetName]§! розпочне §RЧорний похід§!.\n"
@@ -235,7 +235,9 @@
  GRW_approaches_RIV: "Нейтралітет Річкової федерації по відношенні до Держави Грифонів"
  is_original_EQS_tp: "Країна — §Y$EQS_democratic_DEF$§!\n"
  is_not_original_EQS_tp: "Країна — не §Y$EQS_democratic_DEF$§!\n"
+ is_EQC_EQS_SOL_tt: "[GetEquestriaMarelandSOL]"
  is_EQS_SOL_tp: "Країна — §Y$EQS_SOL_fascism_DEF$§!\n"
+ is_EQC_SOL_tp: "Країна — §Y$EQC_ED_cosmetic_new_mareland_fascism_DEF$§!\n"
  is_not_EQS_SOL_tp: "Країна — не §Y$EQS_SOL_fascism_DEF$§!\n"
  JAK_refused_claim: "Відхилено претензію\n"
  pinkie_envoy: "Посол Пінкі Пай\n"
@@ -263,6 +265,11 @@
  controlls_all_cores_original_subject_tt: "Усі початкові осердні землі підконтрольні державі §Y[Root.GetName]§! або одному з її суб'єктів\n"
 
  CHN_Embargo: "Ембарго"
+
+ FAT_despotic_tyrant_opinion_mod:0 "Unrepentant Despotism" # (!)
+ FAT_relations_ammended:0 "Peaceful Relations"
+ FAT_i_hate_republicans:0 "Irreparable Rift"
+ FAT_traitors_opinion_mod:0 "Traitors to The Republic"
 
  trade_treaty_major: "Великий торговельний договір"
  nightmare_moon: "Луна готується стати Найтмер Мун"
@@ -329,6 +336,8 @@
  nuked_canterlot: "Скинуто ядерну бомбу на Кантерлот"
 
  keremeskai_dead: "Кемерскай мертвий"
+
+ TRD_disrupted_trade:0 "Disrupted Trade With Skyfall" # (!)
 
  ZAI_tooltip: "§RМабуть, ліпше не робити нічого.§!"
 

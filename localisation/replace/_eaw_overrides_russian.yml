@@ -3,7 +3,7 @@
  EAW_MENU_DISCORD: "Сервер Equestria at War у Discord"
  EAW_MENU_STEAMWORKSHOP: "Equestria at War у Майстерні Steam"
  EAW_MENU_VK: "Equestria at War у VK"
- maintheme: "$RedSpark-The_Way_of_Fire$"
+ maintheme: "$Zvykar-Fire_Trek$"
  NOT_EXIST: "Для Вас буде вибрана випадкова країна."
 
  #air_l
@@ -217,6 +217,11 @@
   SCORCHED_EARTH_STATE:2 "\n§HВыжженная земля§!\n\nИзбавиться от железнодорожного сообщения в этом регионе за £pol_power §H$COST$§!, повредив все железные дороги и лишив жителей возможности их чинить."
   SCORCHED_EARTH_STATE_UNDO:0 "Поручить ремонт железных дорог в этом регионе."
 
+ #constructions
+  CIC_BANK_HEADER: "Надлишок економічного потенціалу" # РЛ, vnl.
+  CIC_BANK_HIGHLIGHT: "§HНадлишок економічного потенціалу§!" # РЛ, vnl.
+  CIC_BANK_DESC: "$CIC_BANK_HEADER$ включає в себе §Hпромисловий потенціал§! з контрактів на §Hміжнародному ринку§! й інших джерел, і робить внесок у Вашу швидкість будівництва." # РЛ, vnl.
+
  #country_l
   MANPOWER: "Поні-ресурси"
   SERVICE_MANPOWER: "£manpower_texticon£ Службові поні-ресурси:"
@@ -273,7 +278,7 @@
   NAME_THEME_HISTORICAL_CVL: "Національні легкі авіаносці/авіаносці супроводу"
   NAME_THEME_HISTORICAL_CLAA: "Національні протиповітряні крейсери"
   NAME_THEME_HISTORICAL_MINELAYERS: "Національні закладачі мін"
-  DESIGNER_BASE_STATS_LABEL: "Основні параметри" # РЛ, vnl.
+  DESIGNER_BASE_STATS_LABEL: "Основ. параметри" # РЛ, vnl.
   DESIGNER_COMBAT_STATS_LABEL: "Бойові параметри" # РЛ, vnl.
 
  #diplomacy_l
@@ -420,6 +425,7 @@
   faction_manifest_victory_of_fascism_desc:0 "Чтобы превосходство победило, оно должно обрести успех в других странах. Пусть все существа мира обретут свободу под знаменем превосходства!"
   suppress_regional_democracy_goal_name: "Утиск регональної гармонії"
   the_red_tide_goal_desc: "Солдати на землі — ось що має найбільше значення. Потрібна армія чисельністю три мільйони. Ось як насправді забезпечується виживання."
+  a_military_base_goal_desc:0 "Грядущие войны невозможны без оружия, а массовое оружейное производство – без развитой военной промышленности." # (!)
 
  #focus_filter_tag_l
   FOCUS_FILTER_MANPOWER: "Поні-ресурси"
@@ -460,7 +466,9 @@
   the_long_lance: "«Довгий спис»"
   the_long_lance_desc:0 "Длинное копьё - это торпеда, специально разработанная Арсеналом Озерграда, которая превосходит своих зарубежных коллег в два раза по дальности поражения. Это значительно повышает её эффективность."
   undisturbed_isolation_desc:0 "Это государство долгое время было политически изолировано от внешнего мира, предпочитая отступать в случае возникновения угрозы. Его промышленность работает лишь на половине своей потенциальной мощности, что может измениться лишь в случае наступления важных событий, которые выведут эту страну из её сна. Однако, в отличие от изолированной страны, это государство всё же продолжало модернизироваться и развиваться."
-  nationalism_desc:0 "Наши существа гордятся тем, что принадлежат к великой нации, и будут упорно сражаться, защищая свою родину."
+  nationalism_desc:0 "Наши существа гордятся тем, что принадлежат к великой нации, и будут упорно сражаться, защищая свою родину." # РЛ
+  military_staff:0 "Военное командование" # РЛ
+  idea_category_military:0 "Военное командование" # РЛ
 
  #intel_ledger_l
   INTEL_LEDGER_MANPOWER_TOOLTIP: "Доступні поні-ресурси: $RANGE|H$"
@@ -505,6 +513,20 @@
   MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR: "£prod_eff Зростання ефективності виробництва"
   MODIFIER_ARMY_SPEED_FACTOR: "Швидкість дивізій"
   MODIFIER_WEEKLY_MANPOWER: "Щотижневі поні-ресурси"
+  dense_rural_infrastructure_desc:0 "Инфраструктура в этом районе уже сильно насыщена местным населением.\n\nМожно удалить, достигнув максимальной §Hинфраструктуры§! в этой области, или если §Hкатегория области§! имеет уровень §HНеплотный городской регион§! или выше." # (!)
+  training_time_factor_tt: " $MODIFIER_TRAINING_TIME_ARMY_FACTOR$: $RIGHT|-=%1$"
+
+  ### Fixes from vanilla hoi4
+  resistance_activity_tt: "$MODIFIER_RESISTANCE_ACTIVITY_FACTOR$: $RIGHT|R-=%1$"
+  MODIFIER_LOCAL_RESOURCE_GAIN_EFFICIENCY_PER_INFRASTRUCTURE:0 "Добыча ресурсов на ед. инфраструктуры" # РЛ
+  MODIFIER_LAND_REINFORCE_RATE: "Отримання підкріплень" # РЛ, vnl,
+  MODIFIER_ARMY_STRENGTH: "Міцність" # РЛ, vnl,
+  MODIFIER_NAVAL_INVASION_PLAN_CAP: "Місткість плану морського вторгнення" # РЛ, vnl,
+  MODIFIER_AIR_INVASION_PLAN_CAP: "Місткість плану повітряного десанту" # РЛ, vnl,
+  MODIFIER_AIR_POWER_PROJECTION_FACTOR: "Множник проєкції повітряної сили" # РЛ, vnl,
+  MODIFIER_SEND_VOLUNTEER_DIVISIONS_REQUIRED: "Дивізії, потрібні для надсилання добровольців" # РЛ, vnl.
+  STAT_ARMY_SUPPLY_CONSUMPTION: "Витрати припасів: " # РЛ, vnl.
+
   MODIFIER_EXILED_MAPOWER_GAIN_FACTOR: "Щоденні поні-ресурси у вигнанні"
   MODIFIER_EXILED_GOVERNMENT_WEEKLY_MANPOWER: "Щотижневі поні-ресурси уряду у вигнанні"
   MODIFIER_AIR_MANPOWER_REQUIREMENT_FACTOR: "Вимога до поні-ресурсів авіації "
@@ -547,6 +569,7 @@
   MODIFIER_ARMY_ATTACK_SPEED_FACTOR: "Швидкість атакуючих дивізій" # vnl.
   STAT_ARMY_SOFT_ATTACK: "Протипіхотна атака: " # vnl.
   STAT_ARMY_HARD_ATTACK: "Протитанкова атака: " # vnl.
+  MODIFIER_NAVAL_ATTRITION_FACTOR: "Виснаження в морі"
 
  #nsb_ideas_l
   proper_heritage_spirit_desc:0 "Хорошего генерала можно выучить, но великого генерала нужно взращивать."
@@ -691,6 +714,7 @@
   substance_addict_desc:1 "§LПристрастие к наркотикам явно изменило рассудок этой личности, причём не в лучшую сторону.§!"
   commando_desc:0 "§LУ коммандо немало талантов: он разбирается в морском десанте, воздушном десанте и операциях в холодную погоду.§!"
   operative_skill_1: "Новобранець"
+  brave_desc:0 "Лишь храбрый генерал сможет повести солдат на самые опасные задания." # РЛ
   operative_master_interrogator_desc: "Цей агент може розговорити будь-кого."
   marxist_priest: "Священик-марксист"
   marxist_philosopher: "Філософ-марксист"
@@ -832,7 +856,7 @@
   LOADING_GUI: "Завантажуємо Зебрику"
   LOADING_MAP_SPRITES: "Губимо Ідола Борея"
   LOADING_DATABASES: "Підіймаємо сонце"
-  INIT_MAP_LOGIC: "Дивимося «Дружба — це диво»"
+  INIT_MAP_LOGIC: "Дивимося «Дружба - це диво»" # прибийте мене. ~ L.H.
   LOADING_HISTORY: "Підписуємо Кольтстрімський договір"
   LOAD_EVENTS: "Знімаємо прокляття з Кристальної Імперії"
   LOAD_INIT: "Стагнуємо гармонію"
@@ -880,9 +904,10 @@
 
  ## unit
   SHIP_UNIT_STATS: "Подробиці про корабель" # РЛ, vnl.
- 
+
  ## army
   THEATER_GROUP_NAME_PATTERN: "$NUMBER$ $ADJECTIVE$ий театр" # РЛ, vnl.
+  OFFICERS_SELECT_CUSTOM:0 "Назначить персонажа на должность §H$NAME$§!" # РЛ
 
  ## decisions
   war_propaganda_convoys_desc: "Навіть цивільні можуть допомогти перемогти у війні — завдяки турботі та уважному ставленню до використання матеріалів, кожен грам сталі може стати вдвічі ціннішим для військових зусиль." # РЛ, vnl.
