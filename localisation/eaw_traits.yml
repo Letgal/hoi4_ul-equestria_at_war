@@ -200,6 +200,14 @@
  research_center: "Дослідницький центр"
  forest_deer: "Лісовий олень"
  forest_deer_desc:0 "§LForest deer know their forests very well and can guide their troops to advance faster.§!"
+ STORM_yeti_mage:0 "Yeti Archmage"
+ STORM_yeti_mage_desc:0 "§LA legendary wizard by virtue of the intensive study and usage of magical artefacts. Unfortunately, magical research and bureaucracy tend not to mix very well.§!\n\n§RCannot assign the Expert Delegator trait.§!"
+ STORM_yeti_mage_wider:0 "Yeti Archmage"
+ STORM_yeti_mage_wider_desc:0 "§LA legendary wizard by virtue of the intensive study and usage of magical artefacts. Unfortunately, magical research and bureaucracy tend not to mix very well.§!\n\n§RCannot assign the Expert Delegator trait.§!"
+ STORM_yeti_mage_stronger:0 "Yeti Archmage"
+ STORM_yeti_mage_stronger_desc:0 "§LA legendary wizard by virtue of the intensive study and usage of magical artefacts. Unfortunately, magical research and bureaucracy tend not to mix very well.§!\n\n§RCannot assign the Expert Delegator trait.§!"
+ not_a_yeti_mage:0 "Is not a Yeti Archmage"
+ STORM_apprentice_mage:0 "Apprentice of the Archmage"
  child_of_blizzards: "Дитя хуртовин"
  demagogue: "Демагог"
  imbecile: "Недоумкуватість"
@@ -261,6 +269,7 @@
  silent_workgriffon2: "$silent_workgriffon$"
  silent_workgoat: "Робочий козлик"
  silent_workirin: "Робочий кірінчик"
+ silent_workyeti: "Робочий єті"
  silent_workbear: "Робочий ведмедик"
  silent_workzebra: "Робочий зебрик"
  popular_figurehead1: "$popular_figurehead$"
@@ -297,6 +306,9 @@
 
  renowned_marksdog:0 "Renowned Marksdog"
  renowned_marksdog_desc:0 "§LThis commander excels in marksdogship, and is sure to share their knowledge and skills with their troops.§!"
+
+ renowned_markscat:0 "Renowned Markscat"
+ renowned_markscat_desc:0 "§LThis commander excels in markscatship, and is sure to share their knowledge and skills with their troops.§!"
 
  trait_nestor_lunin:0 "Airland Commander"
  trait_nestor_lunin_desc:0 "§LHaving commanded both land army and aviation in the past, the general knows how to use the strong sides of air support to defend his troops on the ground.§!"
@@ -474,6 +486,9 @@
  diehard_revolutionary:0 "Diehard Revolutionary"
  mother_of_the_republic: "Мати республіки"
 
+ sorcerer_trait:0 "Sorcerer"
+ lawgiver_trait:0 "Lawgiver"
+
  zarcid_supporter: "Заркід"
  zarcid_supporter_desc:0 "§LThis character is part of the immensely powerful Zarcid family.§!"
  traditionalist_supporter: "Традиціоналіст"
@@ -555,6 +570,7 @@ Yal_skeleton_king_army_leader_desc:0 "§LFighting for the great Grover II inspir
  human_race_trait_desc: "§LЛюди — це двоногі мавпи. Чесно кажучи, від них дуже тхне.§!"
 
  zebrican_close_combat_expert:0 "Zebrican Close Combat Expert"
+ alt_zebrican_close_combat_expert: "$zebrican_close_combat_expert$"
  field_surgeon: "Польовий хірург"
 
  drug_dealer:0 "Army Drugs Supplier"

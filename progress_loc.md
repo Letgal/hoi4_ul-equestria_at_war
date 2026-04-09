@@ -64,6 +64,8 @@
 + [ ] `eaw_welcomescreen`
 + [ ] `eaw_zebra_generic` (кілька рядків не; переклав [*Daybreaker*](https://steamcommunity.com/profiles/76561199084403733))
 + [ ] `etat_equipment`
++ [ ] ~~`eaw_yeti_equipment`~~
++ [ ] ~~`eaw_yeti_tech`~~
 + [ ] `etat_technology`
 + [x] `loading_tips`
 + [x] `parties`<!--  (описи @max) -->
@@ -114,6 +116,7 @@
 + [x] `country_EQS_TNO` (переклав *Green Kitten*) — `(&)`
 + [x] `country_ERI`
 + [x] `country_EWI`<!--  (переклав *All-Ampirian*?) --> — `(&) (&!)`
++ [ ] ~~`country_EYE`~~
 + [x] `country_EYR`
 + [x] `country_FAL` (переклав *Green Kitten*)
 + [ ] `country_FAT` (переклав *StasJesus*) — `(&!)`
@@ -129,10 +132,12 @@
 + [x] `country_GRU` (переклав *Bovcun*) — `(&)`
 + [x] `country_GRW` (переклав *Bovcun*) — `(&)`
 + [ ] `country_GRY` — `(&+)`
++ [ ] ~~`country_GYZ`~~
 + [x] `country_HAU` (переклав *Bovcun*)
 + [x] `country_HEL` (переклав *StasJesus*) — `(&)`
 + [ ] `country_HIP` (переклав *All-Ampirian*) — `(&+)`
 + [x] `country_HLR` (переклав *Bovcun*)
++ [ ] ~~`country_HYE`~~
 + [x] `country_IBZ`
 + [ ] `country_JAK` (кілька рядків не; переклав *Green Kitten*) — `(&)`
 + [x] `country_JEB`
@@ -168,12 +173,15 @@
 + [ ] `country_SADDLE`
 + [x] `country_SCS` (переклав *Green Kitten*)
 + [ ] `country_SOL` (один рядок не)
++ [ ] ~~`country_SLC`~~
 + [x] `country_SRS` (переклав *Green Kitten*)
 + [ ] `country_STG` (кілька рядків не; первісно переклав *pani_justyna1733*<!-- , наново @max -->)
 + [x] `country_STL`<!--  (@max) -->
++ [ ] ~~`country_STM`~~
 + [x] `country_Storm` (переклав *Daybreaker*)
 + [x] `country_STW` (переклав *StasJesus*) — `(&)`
 + [x] `country_TAL` (переклав [*DAACENT*](https://steamcommunity.com/id/DAACENTSASHA))
++ [ ] ~~`country_THU`~~
 + [x] `country_TSV`
 + [x] `country_VAN` (переклав *Green Kitten*) — `(&!)`
 + [x] `country_VED` (переклав *107* — нині вирізано)

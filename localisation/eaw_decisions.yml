@@ -331,6 +331,19 @@ generic_core_country_original_cores_desc: "$generic_core_country_desc$"
  our_cause: "Наша справа"
  equal_burdens: "Рівні тягарі"
 
+ a_storm_creatures_path:0 "A Storm Creature's Path" # (!)
+ tales_of_the_white_death:0 "Tales of the White Death"
+ home_before_funny_hat_day:0 "Home Before Funny Hat Day"
+ semi_jacketed_hollow_point:0 "Semi-Jacketed Hollow Point"
+ beyond_scorched_skies:0 "Beyond Scorched Skies"
+ it_cant_rain_all_the_time:0 "It Can't Rain All the Time"
+ the_legionary:0 "The Legionary"
+ out_of_whose_womb_came_the_ice:0 "Out of Whose Womb Came the Ice?"
+ hydrophobia:0 "Hydrophobia"
+ operation_blackout:0 "Operation Blackout"
+ a_cold_reason_to_fight:0 "A Cold Reason to Fight"
+ hand_on_heart_finger_on_trigger:0 "Hand on Heart, Finger on Trigger"
+
 ### ВЕРБУВАННЯ АГЕНТІВ ###
  recruit_equestrian_operative: "Завербувати агента-еквестрійця"
  recruit_changeling_operative: "Завербувати агента-чейнджлінґа"
@@ -375,6 +388,14 @@ KAR_attack_west_cat: "Експансія на захід"
 placeholder_KAR_war_decision: "Атакувати державу [FROM.GetNameDef]"
 
 ### ВАРТІСТЬ РІШЕНЬ ###
+ decision_cost_CP_hayzeb: "£command_power£ §Y[?ROOT.GYZ_infiltrate_hayzeb_cost]§!"
+ decision_cost_CP_hayzeb_blocked: "£command_power£ §R[?ROOT.GYZ_infiltrate_hayzeb_cost]§!"
+ decision_cost_CP_hayzeb_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCPHayzeb]"
+
+ decision_cost_manpower_hayzeb: "£manpower_icon£ §Y[?ROOT.GYZ_crackdown_hayzeb_cost]§!"
+ decision_cost_manpower_hayzeb_blocked: "£manpower_icon£ §R[?ROOT.GYZ_crackdown_hayzeb_cost]§!"
+ decision_cost_manpower_hayzeb_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostManpowerHayzeb]"
+
  decision_cost_CP_100: "£command_power£ §Y100§!"
  decision_cost_CP_100_blocked: "£command_power£ §R100§!"
  decision_cost_CP_100_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP100]"
@@ -394,6 +415,10 @@ placeholder_KAR_war_decision: "Атакувати державу [FROM.GetNameDe
  decision_cost_CP_35_pp_75: "£command_power£ §Y35§! £pol_power£ §Y75§!"
  decision_cost_CP_35_pp_75_blocked: "£command_power£ §R35§! £pol_power£ §R75§!"
  decision_cost_CP_35_pp_75_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP35PP75]"
+
+ decision_cost_manpower_10000_infequip_600: "£manpower_icon£ §Y10000§! £infequip_text §Y600§!"
+ decision_cost_manpower_10000_infequip_600_blocked: "£manpower_icon£ §R10000§! £infequip_text  §R600§!"
+ decision_cost_manpower_10000_infequip_600_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostManpower8000]"
 
  decision_cost_pp_50_manpower_2000: "£manpower_icon£ §Y2000§! £pol_power£ §Y50§!"
  decision_cost_pp_50_manpower_2000_blocked: "£manpower_icon£ §R2000§! £pol_power£ §R50§!"
@@ -486,6 +511,10 @@ placeholder_KAR_war_decision: "Атакувати державу [FROM.GetNameDe
  decision_cost_200_infantry_2000_manpower_20_cp: "£infequip_text §Y200§! £manpower_icon §Y2000§! £command_power §Y20§!"
  decision_cost_200_infantry_2000_manpower_20_cp_blocked: "£infequip_text §R200§! £manpower_icon §R2000§! £command_power §R20§!"
  decision_cost_200_infantry_2000_manpower_20_cp_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostInfEq200Manpower2kCP20]"
+
+ decision_cost_150_infantry_1500_manpower_30_pp: "£infequip_text §Y150§! £manpower_icon §Y1500§! £pol_power §Y30§!"
+ decision_cost_150_infantry_1500_manpower_30_pp_blocked: "£infequip_text §Y150§! £manpower_icon §Y1500§! £pol_power §Y30§!"
+ decision_cost_150_infantry_1500_manpower_30_pp_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostInfEq150Manpower1500PP30]"
 
  decision_cost_600_infantry_12_artillery_25_support_6800_manpower: "£infequip_text §Y600§! £unit_category_support_artillery_icon_small §Y12§! £support_eq_texticon §Y25§! £manpower_icon §Y6800§!"
  decision_cost_600_infantry_12_artillery_25_support_6800_manpower_blocked: "£infequip_text §R600§! £unit_category_support_artillery_icon_small §R12§! £support_eq_texticon §R25§! £manpower_icon §R6800§!"
@@ -654,6 +683,22 @@ placeholder_KAR_war_decision: "Атакувати державу [FROM.GetNameDe
  decision_cost_500_guns_100_pp: "£infequip_text£ §Y500§! £pol_power£ §Y100§!"
  decision_cost_500_guns_100_pp_blocked: "£infequip_text£ §R500§! £pol_power£ §R100§!"
  decision_cost_500_guns_100_pp_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostEquipment500PP100]"
+
+ decision_cost_1000_guns_100_cp: "£infequip_text£ §Y1000§! £command_power£ §Y100§!"
+ decision_cost_1000_guns_100_cp_blocked: "£infequip_text£ §R1000§! £command_power£ §R100§!"
+ decision_cost_1000_guns_100_cp_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostEquipment1000CP100]"
+
+ decision_cost_400_guns_40_cp: "£infequip_text£ §Y400§! £command_power£ §Y40§!"
+ decision_cost_400_guns_40_cp_blocked: "£infequip_text£ §R400§! £command_power£ §R40§!"
+ decision_cost_400_guns_40_cp_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostEquipment400CP40]"
+
+ decision_cost_500_supp_100_pp: "£support_eq_texticon£ §Y500§! £pol_power£ §Y100§!"
+ decision_cost_500_supp_100_pp_blocked: "£support_eq_texticon£ §R500§! £pol_power£ §R100§!"
+ decision_cost_500_supp_100_pp_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostSuppEquipment500PP100]"
+
+ decision_cost_200_supp_40_pp: "£support_eq_texticon£ §Y200§! £pol_power£ §Y40§!"
+ decision_cost_200_supp_40_pp_blocked: "£support_eq_texticon£ §R20§! £pol_power£ §R40§!"
+ decision_cost_200_supp_40_pp_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostSuppEquipment200PP40]"
 
  decision_cost_750_guns_50_pp: "£infequip_text£ §Y750§! £pol_power£ §Y50§!"
  decision_cost_750_guns_50_pp_blocked: "£infequip_text£ §R750§! £pol_power£ §R50§!"

@@ -337,6 +337,8 @@
 
  keremeskai_dead: "Кемерскай мертвий"
 
+ closed_borders: "Закриті кордони"
+
  TRD_disrupted_trade:0 "Disrupted Trade With Skyfall" # (!)
 
  ZAI_tooltip: "§RМабуть, ліпше не робити нічого.§!"

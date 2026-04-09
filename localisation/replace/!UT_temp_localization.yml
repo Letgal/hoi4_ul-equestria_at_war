@@ -319,6 +319,9 @@
 # eaw_yak_techs
  yak_race: "Раса яків"
 
+# eaw_yeti_tech
+ yeti_race: "Раса єті"
+
 # eaw_zebra_tech
  zebra_folder: "Технології зебр"
  zebra_folder_desc: "Промислові, соціальні та військові технології, притаманні расі зебр."

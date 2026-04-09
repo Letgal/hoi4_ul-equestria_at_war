@@ -1,6 +1,6 @@
 ﻿# == (*) ==
  STRATEGICREGION_1: "Північно-Західна Гіпогрифія"
- STRATEGICREGION_2: "Громовий Берег"
+ STRATEGICREGION_2: "Гієнія"
  STRATEGICREGION_3: "Затока Затемнення"
  STRATEGICREGION_4: "Лунний океан" # sic!
  STRATEGICREGION_5: "Панталасський океан"
@@ -122,7 +122,7 @@
  STRATEGICREGION_121: "Яскраві долини"
  STRATEGICREGION_122: "Ґренекліф"
  STRATEGICREGION_123: "Безтурботне роздолля"
- STRATEGICREGION_124: "Гієнія"
+ STRATEGICREGION_124: "Гієнська пустеля"
  STRATEGICREGION_125: "Танайґа"
  STRATEGICREGION_126: "Вітрові землі"
  STRATEGICREGION_127: "Незвіданий Захід"
@@ -326,5 +326,5 @@
  STRATEGICREGION_325: "Зуагіле"
  STRATEGICREGION_326: "Нижній Гейзебленд"
  STRATEGICREGION_327: "Верхній Гейзебленд"
- STRATEGICREGION_328: "Штормовий острів"
+ STRATEGICREGION_328: "Штормленд"
  STRATEGICREGION_329: "Мейртонія"

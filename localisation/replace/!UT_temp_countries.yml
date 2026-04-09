@@ -966,6 +966,14 @@
  GRI_APRILFOOLS_neutrality_ADJ: "Імперійн"
  GRI_APRILFOOLS_communism_ADJ: "Імперійн"
 
+# country_GYZ
+ GYZ_gyz_windborn: "Ґіз Віндборн"
+
+ GYZ_fascism_party: "Кліка Віндборна"
+ GYZ_neutrality_party: "Кліка Віндборна"
+ GYZ_democratic_party: "Племінні комітети"
+ GYZ_communism_party: "Ковалі єті"
+
 # country_HAY
  HAY_queen_bamina: "Королева Баміна"
 
@@ -1298,6 +1306,19 @@
   HLQ_T_air: "Сесілія Шмід"
 
  HLQ_industrial_concern: "Зінтенський завод"
+
+# country_HYE
+ HYE_fahamka: "Матріарх Фагамка"
+ HYE_masaska: "Масаска"
+ HYE_masaska_lar: "$HYE_masaska$"
+ HYE_furasho: "Фурашо"
+
+ HYE_fascism_party: "Сувора влада"
+ HYE_fascism_party_long: "Школа Хукуна Адаґа"
+ HYE_democratic_party: "М'який шлях"
+ HYE_democratic_party_long: "Школа Вадади Жілічсан"
+ HYE_neutrality_party: "Непорушна ортодоксія"
+ HYE_neutrality_party_long: "Школа Чаадо Дгакаажін"
 
 # country_KAT — (&): довідатися, чи застосовується
  KAT_herzland_religious_socialism_fascism: "Королівство Герцланд"
@@ -2454,8 +2475,24 @@
  SIC_looking_to_buy: "Сікамеон бажає придбати"
  SIC_MIT_bridge: "Еритсько-кеттський міст"
 
+# country_SLC
+ SLC_stormleucus_icepaw: "Ібиз Айспо"
+
+ SLC_fascism_party: "Кліка Айспо"
+ SLC_neutrality_party: "Кліка Айспо"
+ SLC_democratic_party: "Племінні комітети"
+ SLC_communism_party: "Ковалі єті"
+
 # country_SON
  SON_zonni_zolon: "Зонні Золон"
+
+# country_STM
+ STM_ikvus_hailstorm: "Іквус Гейлсторм"
+
+ STM_fascism_party: "Кліка Гейлсторма"
+ STM_fascism_party_long: "Кліка Гейлсторма"
+ STM_neutrality_party: "Кліка Гейлсторма"
+ STM_neutrality_party_long: "Кліка Гейлсторма"
 
 # country_TIM
  TIM_agil_agamal: "Аґіл Аґамал"
@@ -2543,6 +2580,14 @@
   TEM_silver_moon: "Силвер Мун"
   TEM_night_dasher: "Найт Дешер"
   TEM_tailcoatl: "Тейлкоатль"
+
+# country_THU
+ THU_tenzfur_thunderbringer: "Тензфур Тандербринґер"
+
+ THU_fascism_party: "Кліка Тандербринґера"
+ THU_neutrality_party: "Кліка Тандербринґера"
+ THU_democratic_party: "Племінні комітети"
+ THU_communism_party: "Ковалі єті"
 
 # country_TRD
  TRD_peoples_republic_neutrality: "Скайфолльська торгова федерація"
