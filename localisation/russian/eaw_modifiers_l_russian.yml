@@ -141,6 +141,14 @@
  modifier_army_sub_unit_heavy_dragons_attack_factor: "Атака старших драконів"
  modifier_army_sub_unit_heavy_dragons_defence_factor: "Захист старших драконів"
 
+ modifier_army_sub_unit_storm_creatures_attack_factor: "Атака істот шторму"
+ modifier_army_sub_unit_storm_creatures_defence_factor: "Захист істот шторму"
+ modifier_army_sub_unit_storm_creatures_speed_factor: "Швидкість істот шторму"
+
+ modifier_army_sub_unit_dervishes_attack_factor: "Атака дервішів"
+ modifier_army_sub_unit_dervishes_defence_factor: "Захист дервішів"
+ modifier_army_sub_unit_dervishes_speed_factor: "Швидкість дервішів"
+
  killed_pop_by_nuclear_attack_factor: "Втрати від ядерних ударів"
  our_killed_pop_by_nuclear_attack_factor: "Наші втрати від ворожих ядерних ударів"
 
@@ -209,6 +217,8 @@
  modifier_unit_ded_heavy_monster_design_cost_factor: "Вартість дизайну титанів"
  modifier_unit_ded_tatzlwurm_design_cost_factor: "Вартість дизайну татцельвурмів"
  modifier_unit_ded_anti_tank_monster_design_cost_factor:0 "Стоимость проекта пращехвостов"
+ modifier_unit_storm_creatures_design_cost_factor: "Вартість дизайну істот шторму"
+ modifier_unit_dervishes_design_cost_factor: "Вартість дизайну дервішів"
 
  # SPECIAL PROJECT TRAIT MODIFIERS #
  specialization_magical_speed_factor: "$specialization_magical$ — темпи спеціальних проєктів"
