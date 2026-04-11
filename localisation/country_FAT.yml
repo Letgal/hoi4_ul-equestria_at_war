@@ -2868,7 +2868,7 @@
 ### Custom Tooltip ###
  FAT_faculty_of_griffonities_idea_tt:0 "Permanently reduces the cost of §Ypolitical advisors§! and §Ylaws§! by §G10%§!." # (!)
  FAT_advisors_no_longer:0 "§YПотенціальні радники-диверсанти§! більше не будуть доступні."
- FAT_CSN_EXISTS:0 "§CКонкордат Вільних Націй§! існує."
+ FAT_CSN_EXISTS:0 "§CКонкордат вільних держав§! існує."
  FAT_WNG_EXISTS:0 "У Вінґбардії існує §Yліберальний§! уряд."
  load_new_focus_tree:0 "§GВи отримаєте нове дерево фокусів.§!"
  FAT_according_to_plan:0 "§RВсе буде дуже добре.§!"
