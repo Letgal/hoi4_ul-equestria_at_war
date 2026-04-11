@@ -510,6 +510,15 @@
  BRS_communism_party: "БСА"
  BRS_communism_party_long: "Барасінґський соціалістичний альянс"
 
+ HAY_fascism_party:0 "Former Slaveowners" # (!)
+ HAY_fascism_party_long:0 "Former Slaveowners and other Reactionaries"
+ HAY_communism_party:0 "Vengeful Freedzebras"
+ HAY_communism_party_long:0 "Vengeful Freedzebras"
+ HAY_neutrality_party:0 "Particularists"
+ HAY_neutrality_party_long:0 "Particularists and Local Potentates"
+ HAY_democratic_party:0 "Bamina Loyalists"
+ HAY_democratic_party_long:0 "Queen Bamina's Loyalists"
+
  HIN_fascism_party: "Оленійські залишки"
  HIN_neutrality_party: "КФД-ФТ"
  HIN_neutrality_party_long: "Князівська федерація Доулі — фракція традиціоналістів"
@@ -518,43 +527,14 @@
  HIN_communism_party: "КФД-ФС"
  HIN_communism_party_long: "Князівська федерація Доулі — фракція селянства"
 
- ZUG_neutrality_party: "Лоялісти Ннабакяли"
+ ZUG_neutrality_party: "Династія Камарела"
  ZUG_neutrality_party_long: "Двір Золотого Рогу"
  ZUG_communism_party: "Радикали Акале"
  ZUG_communism_party_long: "Партія за формування нового Уґабі"
- ZUG_democratic_party: "ФзРУ"
- ZUG_democratic_party_long: "Фракція за реформування Уґабі"
+ ZUG_democratic_party:0 "Gulu Coalition" # (!)
+ ZUG_democratic_party_long:0 "Gulu Coalition For Reform and Change"
  ZUG_fascism_party: "ЦТАУ-ОК"
  ZUG_fascism_party_long: "Центральна територіальна армія Уґабі — офіцерська коаліція"
-
- STM_fascism_party: "Кліка Гейлсторма"
- STM_neutrality_party: "Кліка Гейлсторма"
- STM_democratic_party: "Племінні комітети"
- STM_communism_party: "Ковалі єті"
-
- GYZ_fascism_party: "Кліка Віндборна"
- GYZ_neutrality_party: "Кліка Віндборна"
- GYZ_democratic_party: "Племінні комітети"
- GYZ_communism_party: "Ковалі єті"
-
- THU_fascism_party: "Кліка Тандербринґера"
- THU_neutrality_party: "Кліка Тандербринґера"
- THU_democratic_party: "Племінні комітети"
- THU_communism_party: "Ковалі єті"
-
- SLC_fascism_party: "Кліка Айспо"
- SLC_neutrality_party: "Кліка Айспо"
- SLC_democratic_party: "Племінні комітети"
- SLC_communism_party: "Ковалі єті"
-
- HYE_communism_party: "Комуністичні повстанці"
- HYE_communism_party_long: "Комуністичні повстанці"
- HYE_fascism_party: "Сувора влада"
- HYE_fascism_party_long: "Школа Хукуна Адаґа"
- HYE_democratic_party: "М'який шлях"
- HYE_democratic_party_long: "Школа Вадади Жілічсан"
- HYE_neutrality_party: "Непорушна ортодоксія"
- HYE_neutrality_party_long: "Школа Чаадо Дгакаажін"
 
  MTA_neutrality_party: "Обсидіанова рада"
  MTA_neutrality_party_long: "Найпросвітленіша рада волхвів, улемів і містиків Обсидіанової палати в Мейрибі"
@@ -591,6 +571,14 @@
  WIN_democratic_party_long: "Гіпогрифські лоялісти"
  WIN_fascism_party: "Гіпогрифські лоялісти"
  WIN_fascism_party_long: "Гіпогрифські лоялісти"
+
+ MSH_neutrality_party: "Спільнота — пуристи"
+ MSH_neutrality_party_long: "Спільнота віруючих — пуристи"
+ MSH_communism_party: "Безбожні язичники"
+ MSH_democratic_party: "Спільнота — реформісти"
+ MSH_democratic_party_long: "Спільнота віруючих — реформісти"
+ MSH_fascism_party: "Спільнота — легалісти"
+ MSH_fascism_party_long: "Спільнота віруючих — легалісти"
 
  ROA_neutrality_party: "Тимчасовий уряд"
  ROA_communism_party: "Заколот рабів"

@@ -31,8 +31,6 @@
  llama_race_desc:0 "There are two races inhabiting the Andelayan mountains known as Llamas and Alpacas. Due to them being very similar to one another, they are often considered to be the same race, though Alpacas are generally smaller. Both are quadrupedal camelid creatures with long necks and thick, white wool that keeps them warm in the cold. Their bodies are adapted to high altitudes and they are expert climbers. Both are known to be fond of spitting on each other and are herbivores."
  harpy_race: "Раса гарпій"
  harpy_race_desc:0 "Harpies are bipedal avian creatures, similar in appearance to wild tropical birds. Like griffons and hippogriffs, they use claws for grasping, but are unable to fly due to vestigial wings. As such, they have developed an affinity for the sea rather than the sky, and are known to be expert sailors. While preferring plant food, harpies do sometimes eat meat."
- yeti_race: "Раса єті"
- yeti_race_desc:0 "Yeti are bipedal mammalian creatures covered in thick, white fur, which allows them to survive in cold temperatures. They are divided into two subgroups: "true" Yeti and Storm Creatures. The former are very tall and intelligent, while the latter are short and hunchbacked. Storm Creatures are practically an eccentric warrior caste who do not speak and wear masks on their faces. Both types of yeti have bulky bodies, hands with three large fingers and sharp fangs, but there are some differences as well: "true" Yeti have cloven hooves, while Storm Creatures have paws and tails. They are generally a highly territorial and violent race, prone to infighting without a strong leader. They have no known magical abilities and are omnivorous. Contrary to popular belief, "true" Yeti do not have natural horns, though they tend to wear decorative ones."
 
 ### СКРИПТОВАНА ЛОКАЛІЗАЦІЯ ###
  hand_talon: "пазур"
@@ -332,6 +330,8 @@
  infantry_weapons_pegasi: "Піхотна зброя для пегасів (обхід, ігноруйте)"
  magical_weapons_ironpaws: "Магічна зброя для залізнолапих (обхід, ігноруйте)"
  infantry_weapons_ironpaws: "Піхотна зброя для залізнолапих (обхід, ігноруйте)"
+ magical_weapons_dervishes: "Магічна зброя для дервішів (обхід, ігноруйте)"
+ infantry_weapons_dervishes: "Піхотна зброя для дервішів (обхід, ігноруйте)"
  magical_weapons_knights: "Магічна зброя для лицарів (обхід, ігноруйте)"
  infantry_weapons_knights: "Піхотна зброя для лицарів (обхід, ігноруйте)"
  magical_weapons_unicorn_company: "Магічна зброя для рот єдинорогів (обхід, ігноруйте)"

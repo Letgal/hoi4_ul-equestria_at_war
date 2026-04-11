@@ -28,6 +28,7 @@
 form_department_tooltip: "Виконано поліпшення агентства §YСтворити відділ криптології§!"
 
  SP_UNLOCK_PROJECT_WITH_EXTRA_TECH: "У поєднанні з технологією $EXTRA_TECH|Y$ відкриває спеціальний проєкт $PROJECT|Y$."
+ SP_UNLOCK_PROJECT_WITH_EXTRA_THREE_TECHS: "У поєднанні з технологіями $EXTRA_TECH1|Y$, $EXTRA_TECH2|Y$ і $EXTRA_TECH3|Y$ відкриває спеціальний проєкт $PROJECT|Y$."
  sp_magical_force_multiplication_tt: "У поєднанні зі спеціальним проєктом $sp_land_military_engineering_vehicles|Y$ і §Yбудь-якою технологією ССО§! відкриває спеціальний проєкт §Y$sp_magical_force_multiplication$§!."
 
 ##########################
@@ -361,6 +362,17 @@ form_department_tooltip: "Виконано поліпшення агентств
   sp_deep_rock_drill_hide: "Приховати рішення з глибокого буріння"
   sp_deep_rock_drill_show: "Показати рішення з глибокого буріння"
   sp_deep_rock_drill_establish_tt:0 "§gOnce we have established the $sp_deep_rock_drill_site$, we will be able to select a resource to extract.§!" # (!)
+
+ ## ПРОЄКТИ ЄТІ
+  sp_airborne_artillery:0 "Airborne Artillery"
+  sp_airborne_artillery_desc:0 "Artillery is the queen of the battlefield, being able to decide whether a fight will be won or lost depending on whether it is used effectively or not. It's only downsides is how vulnerable these mighty guns can be especially when targeted by enemy air and how slow they are to move around. That was until some of our brightest came with the brilliant idea of making a design to place in our airships, not only will our artillery have its issues be almost completely remedied it will also provide our airships some extra firepower to be used in both land and air. That's not even considering the morale loss the enemy will face when they witness these guns firing on them from the very sky!"
+  sp_lightning_guns:0 "Lightning Guns"
+  sp_lightning_guns_desc:0 "Bullets and guns are like the bread and butter of modern warfare, you can't live without them and if you do you're only making life harder. Interestingly enough some of our scientists and engineers have been running tests with the crystals we have lying around, but instead of using them for magic-focused guns they have gone one step further and are trying to harness the power of electricity itself. Promising a weapon that would not only deal massive damage to our enemies but also fit a lot aesthetically. So long as our troops make sure to not let the electricity spread to any friendlies."
+  tech_magical_yeti_lightning_gun:0 "Lightning Guns"
+  yeti_gunship_armament:0 "Gunship Armament"
+  large_aircraft_cannon_yeti:0 "Large Aircraft Cannon"
+  yeti_lightning_gun_0:0 "Lightning Gun"
+  yeti_lightning_gun:0 "Lightning Gun
 
 ###############################
 ### MAGICAL PROJECT REWARDS ###
