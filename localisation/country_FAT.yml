@@ -3022,6 +3022,8 @@
  FAT_mao_party_long: "Клаудберійська філія Об'єднаного соціалістичного революційного фронту"
 
  FAW_neutrality_party: "Плюмен'ярові реставраціоністи"
+ FAW_dem_monarch_neutrality_name: "Королівський парламент"
+ FAW_dem_monarch_neutrality_name_long: "Det Kongelige Parlament i Cloudbury"
  FAW_communism_party: "ГСНП"
  FAW_communism_party_long: "Грифонська соціалістична народна партія"
  FAW_democratic_party: "НРП"
