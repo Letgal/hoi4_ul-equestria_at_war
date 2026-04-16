@@ -69,8 +69,10 @@
  modifier_army_sub_unit_pegasi_attack_factor: "Атака пегасів"
  modifier_army_sub_unit_pegasi_defence_factor: "Захист пегасів"
  modifier_army_sub_unit_pegasi_speed_factor: "Швидкість пегасів"
+
  modifier_army_sub_unit_pegasi_attack_factor_tt: " $modifier_army_sub_unit_pegasi_attack_factor$: $RIGHT|+=%1$"
  modifier_army_sub_unit_pegasi_defence_factor_tt: " $modifier_army_sub_unit_pegasi_defence_factor$: $RIGHT|+=%1$"
+ modifier_army_sub_unit_pegasi_speed_factor_tt: " $modifier_army_sub_unit_pegasi_speed_factor$: $RIGHT|+=%1$"
 
  modifier_army_sub_unit_unicorn_company_attack_factor: "Атака рот єдинорогів"
  modifier_army_sub_unit_unicorn_company_defence_factor: "Захист рот єдинорогів"
@@ -113,6 +115,10 @@
  modifier_army_sub_unit_spirit_warriors_defence_factor: "Захист напасників"
  modifier_army_sub_unit_spirit_warriors_speed_factor: "Швидкість напасників"
 
+ modifier_army_sub_unit_spirit_warriors_attack_factor_tt: " $modifier_army_sub_unit_spirit_warriors_attack_factor$: $RIGHT|+=%1$"
+ modifier_army_sub_unit_spirit_warriors_defence_factor_tt: " $modifier_army_sub_unit_spirit_warriors_defence_factor$: $RIGHT|+=%1$"
+ modifier_army_sub_unit_spirit_warriors_speed_factorv: " $modifier_army_sub_unit_spirit_warriors_speed_factor$: $RIGHT|+=%1$"
+
  modifier_army_sub_unit_bar_weak_clockwerk_attack_factor:0 "Атака Crude Clockworks"
  modifier_army_sub_unit_bar_weak_clockwerk_defence_factor:0 "Захист Crude Clockworks"
  modifier_army_sub_unit_bar_weak_clockwerk_speed_factor:0 "Швидкість Crude Clockworks"
@@ -128,6 +134,12 @@
  modifier_army_sub_unit_saurian_battalion_speed_factor:0 "Швидкість Saurian Battalion"
  modifier_army_sub_unit_saurian_battalion_max_org_factor:0 "Організація Saurian Battalion"
  modifier_army_sub_unit_saurian_battalion_org_recovery_cap_factor:0 "Межа відновлення організації Saurian Battalion"
+
+ modifier_army_sub_unit_saurian_battalion_attack_factor_tt: " $modifier_army_sub_unit_saurian_battalion_attack_factor$: $RIGHT|+=%1$"
+ modifier_army_sub_unit_saurian_battalion_defence_factor_tt: " $modifier_army_sub_unit_saurian_battalion_defence_factor$: $RIGHT|+=%1$"
+ modifier_army_sub_unit_saurian_battalion_speed_factor_tt: " $modifier_army_sub_unit_saurian_battalion_speed_factor$: $RIGHT|+=%1$"
+ modifier_army_sub_unit_saurian_battalion_max_org_factor_tt: " $modifier_army_sub_unit_saurian_battalion_max_org_factor$: $RIGHT|+=%1$"
+ modifier_army_sub_unit_saurian_battalion_org_recovery_cap_factor_tt: " $modifier_army_sub_unit_saurian_battalion_org_recovery_cap_factor$: $RIGHT|=+1%$"
 
  modifier_army_sub_unit_kirin_braves_attack_factor: "Атака доблесних"
  modifier_army_sub_unit_kirin_braves_defence_factor: "Захист доблесних"
@@ -261,6 +273,14 @@
  air_mastery_gain_factor_tt: " Множник приросту майстерності авіації: $RIGHT|+=%1$" # скорочено від повних доктрин
  naval_mastery_gain_factor_tt: " Множник приросту майстерності флоту: $RIGHT|+=%1$" # скорочено від повних доктрин
  army_strength_factor_tt: " $MODIFIER_ARMY_STRENGTH$: $RIGHT|+=%1$"
+ experience_gain_army_unit_factor_tt: " $MODIFIER_XP_GAIN_ARMY_UNIT$: $RIGHT|+=%1$"
+ fascism_acceptance_tt: " $fascism_acceptance$: $RIGHT|+=0$"
+ neutrality_acceptance: " $neutrality_acceptance$: $RIGHT|+=0$"
+ democratic_acceptance: " $democratic_acceptance$: $RIGHT|+=0$"
+ communism_acceptance: " $communism_acceptance$: $RIGHT|+=0$"
+ resistance_garrison_penetration_chance_tt: " $MODIFIER_RESISTANCE_GARRISON_PENETRATION_CHANCE$: $RIGHT|-=%1$"
+ stability_weekly_tt: " $MODIFIER_STABILITY_WEEKLY_FACTOR$: $RIGHT|+=%2$"
+ required_garrison_factor_tt: " $MODIFIER_REQUIRED_GARRISON_FACTOR$: $RIGHT|-=%2$"
 
 #Day/nigh effects
  EaW_eternal_night: "§1Ніч триватиме вічно!§!"

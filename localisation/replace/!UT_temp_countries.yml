@@ -602,6 +602,17 @@
  CVA_CTH_TBK_subject_democratic_DEF: "Кондомініум Тобук"
  CVA_CTH_TBK_subject_democratic_ADJ: "Тобуцьк"
 
+ ### ПЕРСОНАЖІ ###
+  CVA_zenarvo_ozid: "Зенарво Озід"
+  CVA_zeshmunazash_zeirutid: "Зешмуназаш Зейрутід"
+  CVA_zarishat_zeirutid: "Zarishat Зейрутід"
+  CVA_zalibi_zhandos: "Залібі Згандос"
+  CVA_dolma_lurung: "Долма Лурунґ"
+  CVA_caw_prestes_wingos: "Ко Престес Вінґос"
+  CVA_vlassis_marou: "Влассіс Мару"
+
+  CVA_star_father: "Зоряний Батько"
+
 # country_CZR
  CZR_emperor_alokassa_i: "Імператор Алокасса I"
 
@@ -620,6 +631,10 @@
 
  DED_VMP: "Королівство Опівночі"
  DED_VAM: "Королівство Вічності"
+
+ monster_equipment: "Спорядження монстрів"
+ monster_equipment_0: "Спорядження монстрів"
+ monster_equipment_0_short: "Спорядження монстрів"
 
 # country_DEL_AF
  ### ПЕРСОНАЖІ ###
@@ -1308,10 +1323,218 @@
  HLQ_industrial_concern: "Зінтенський завод"
 
 # country_HYE
+ hyena_race: "Раса гієн"
+ hyena_race_trait: "Гієна" # АЛ: Раса гієн
+
+ ### КОСМЕТИЧНІ ТЕҐИ ###
+  HYE_queendom_cosmetic_neutrality: "Королівство Гієнія" # qnd.
+  HYE_queendom_cosmetic_neutrality_DEF: "Королівство Гієнія" # qnd.
+  HYE_queendom_cosmetic_neutrality_ADJ: "Гієнськ"
+  HYE_queendom_cosmetic_democratic: "Королівство Гієнія" # qnd.
+  HYE_queendom_cosmetic_democratic_DEF: "Королівство Гієнія" # qnd.
+  HYE_queendom_cosmetic_democratic_ADJ: "Гієнськ"
+  HYE_queendom_cosmetic_communism: "Гієнська федерація"
+  HYE_queendom_cosmetic_communism_DEF: "Федерація Гієнія"
+  HYE_queendom_cosmetic_communism_ADJ: "Гієнськ"
+  #HYE_queendom_cosmetic_fascism:0 "Qaylid Macalinate"
+  #HYE_queendom_cosmetic_fascism_DEF:0 "Qaylid Macalinate"
+  HYE_queendom_cosmetic_fascism_ADJ: "Кайлідськ"
+
+  HYE_stormlands_neutrality: "Велика Кайлідська держава"
+  HYE_stormlands_neutrality_DEF: "Велика Кайлідська держава"
+  HYE_stormlands_neutrality_ADJ: "Кайлідськ"
+  HYE_stormlands_democratic: "Велика Кайлідська держава"
+  HYE_stormlands_democratic_DEF: "Велика Кайлідська держава"
+  HYE_stormlands_democratic_ADJ: "Кайлідськ"
+  HYE_stormlands_communism: "Великий Кайлідський союз"
+  HYE_stormlands_communism_DEF: "Великий Кайлідський союз"
+  HYE_stormlands_communism_ADJ: "Кайлідськ"
+  #HYE_stormlands_fascism:0 "Great Qaylid Macalinate"
+  #HYE_stormlands_fascism_DEF:0 "Great Qaylid Macalinate"
+  HYE_stormlands_fascism_ADJ: "Кайлідськ"
+
+  HYE_CZR_dervish_puppet: "Дервіський Звадай"
+  HYE_CZR_dervish_puppet_DEF: "Дервіський Звадай"
+  HYE_CZR_dervish_puppet_ADJ: "Звадайськ"
+
+  HYE_KAR:  "Кайлідська держава Каркаданністан"
+  HYE_KAR_DEF:  "Кайлідська держава Каркаданністан"
+  HYE_KAR_ADJ:  "Каркаданністанськ"
+
+  HYE_MTO: "Мейртонський протекторат"
+  HYE_MTO_DEF: "Мейртонський протекторат"
+  HYE_MTO_ADJ: "Мейртонськ"
+
+  HYE_AES: "Естлонський протекторат"
+  HYE_AES_DEF: "Естлонський протекторат"
+  HYE_AES_ADJ: "Естлонськ"
+
+  HYE_united_neutrality: "Сполучені Кайлідські Штати"
+  HYE_united_neutrality_DEF: "Сполучені Кайлідські Штати"
+  HYE_united_neutrality_ADJ: "Кайлідськ"
+  HYE_united_democratic: "Сполучені Штати Південної Зебрики"
+  HYE_united_democratic_DEF: "Сполучені Штати Південної Зебрики"
+  HYE_united_democratic_ADJ: "Південнозебриканськ"
+  HYE_united_communism: "Союз Південної Зебрики"
+  HYE_united_communism_DEF: "Союз Південної Зебрики"
+  HYE_united_communism_ADJ: "Південнозебриканськ"
+  #HYE_united_fascism:0 "Great Qaylid Macalinate"
+  #HYE_united_fascism_DEF:0 "Great Qaylid Macalinate"
+  HYE_united_fascism_ADJ: "Кайлідськ"
+
+  HYE_fed_queendom_neutrality: "Королівство Гієнія" # qnd.
+  HYE_fed_queendom_neutrality_DEF: "Королівство Гієнія" # qnd.
+  HYE_fed_queendom_neutrality_ADJ: "Гієнськ"
+  HYE_fed_queendom_democratic: "Федеративне королівство Гієнія" # qnd.
+  HYE_fed_queendom_democratic_DEF: "Федеративне королівство Гієнія" # qnd.
+  HYE_fed_queendom_democratic_ADJ: "Гієнськ"
+  HYE_fed_queendom_communism: "Федеративне королівство Гієнія" # qnd.
+  HYE_fed_queendom_communism_DEF: "Федеративне королівство Гієнія" # qnd.
+  HYE_fed_queendom_communism_ADJ: "Гієнськ"
+  #HYE_fed_queendom_fascism:0 "Qaylid Macalinate"
+  #HYE_fed_queendom_fascism_DEF:0 "Qaylid Macalinate"
+  HYE_fed_queendom_fascism_ADJ: "Кайлідськ"
+
+  HYE_confederation_neutrality: "Конфедерація королівств"
+  HYE_confederation_neutrality_DEF: "Конфедерація королівств"
+  HYE_confederation_neutrality_ADJ: "Конфедеративн"
+  HYE_confederation_democratic: "Конфедерація королівств"
+  HYE_confederation_democratic_DEF: "Конфедерація королівств"
+  HYE_confederation_democratic_ADJ: "Конфедеративн"
+  HYE_confederation_communism: "Соціалістична конфедерація Південної Зебрики"
+  HYE_confederation_communism_DEF: "Соціалістична конфедерація Південної Зебрики"
+  HYE_confederation_communism_ADJ: "Конфедеративн"
+  #HYE_confederation_fascism:0 "Three-Throned Empire"
+  #HYE_confederation_fascism_DEF:0 "Three-Throned Empire"
+  #HYE_confederation_fascism_ADJ:0 "Three Throned"
+
+  HYE_UHZ: "Верхній Гейзебленд"
+  HYE_UHZ_DEF: "Верхній Гейзебленд"
+  HYE_UHZ_ADJ: "Верхньогейзеблендськ"
+
+  HYE_ZWC: "Узбережжя Зуагіле"
+  HYE_ZWC_DEF: "Узбережжя Зуагіле"
+  HYE_ZWC_ADJ: "Зуагільськ"
+
+  HYE_UZE: "Королівство Узерасі"
+  HYE_UZE_DEF: "Королівство Узерасі"
+  HYE_UZE_ADJ: "Узерасійськ"
+
+  #HYE_SCV:0 "Stormcloud Reconstruction Zone"
+  #HYE_SCV_DEF:0 "Stormcloud Reconstruction Zone"
+  #HYE_SCV_ADJ:0 "Stormcloud"
+
+  #HYE_SCV_finished:0 "Stormcloud Principality"
+  #HYE_SCV_finished_DEF:0 "Stormcloud Principality"
+  #HYE_SCV_finished_ADJ:0 "Stormcloud"
+
+  #HYE_WDB:0 "Windborn Authority"
+  #HYE_WDB_DEF:0 "Windborn Authority"
+  #HYE_WDB_ADJ:0 "Windborn"
+
+  HYE_fed_finale_neutrality: "Сполучені Кайлідські Штати"
+  HYE_fed_finale_neutrality_DEF: "Сполучені Кайлідські Штати"
+  HYE_fed_finale_neutrality_ADJ: "Кайлідськ"
+  HYE_fed_finale_democratic: "Гармонійна Кайлідська федерація"
+  HYE_fed_finale_democratic_DEF: "Гармонійна Кайлідська федерація"
+  HYE_fed_finale_democratic_ADJ: "Кайлідськ"
+  #HYE_fed_finale_communism:0 "Grand Qaylidi Collective"
+  #HYE_fed_finale_communism_DEF:0 "Grand Qaylidi Collective"
+  HYE_fed_finale_communism_ADJ: "Кайлідськ"
+  #HYE_fed_finale_fascism:0 "Great Qaylid Macalinate"
+  #HYE_fed_finale_fascism_DEF:0 "Great Qaylid Macalinate"
+  HYE_fed_finale_fascism_ADJ: "Кайлідськ"
+
+  HYE_GDL: "Велике князівство Великих Озер"
+  HYE_GDL_DEF: "Велике князівство Великих Озер"
+  HYE_GDL_ADJ: "Великозерн"
+
+  HYE_neighle_principality: "Нейльське князівство"
+  HYE_neighle_principality_DEF: "Нейльське князівство"
+  HYE_neighle_principality_ADJ: "Нейльськ"
+
+  HYE_reem_barony: "Ре'емське баронство"
+  HYE_reem_barony_DEF: "Ре'емське баронство"
+  HYE_reem_barony_ADJ: "Ре'емськ"
+
+  HYE_CRS: "Чісімбійська конфедерація"
+  HYE_CRS_DEF: "Чісімбійська конфедерація"
+  HYE_CRS_ADJ: "Чісімбійськ"
+
+  HYE_UZK: "Об'єднане королівство Зонґо"
+  HYE_UZK_DEF: "Об'єднане королівство Зонґо"
+  HYE_UZK_ADJ: "Зонґолезьк"
+
+  HYE_zeblu_county: "Графство Зеблу"
+  HYE_zeblu_county_DEF: "Графство Зеблу"
+  HYE_zeblu_county_ADJ: "Зеблуськ"
+
+  HYE_twizanyika_monarchist_puppet: "Королівство Імба-Зару"
+  HYE_twizanyika_monarchist_puppet_DEF: "Королівство Імба-Зару"
+  HYE_twizanyika_monarchist_puppet_ADJ: "Імба-Заруйськ"
+
+  HYE_zebrides_monarchist_puppet: "Герцогство Зебриди"
+  HYE_zebrides_monarchist_puppet_DEF: "Герцогство Зебриди"
+  HYE_zebrides_monarchist_puppet_ADJ: "Зебридськ"
+
+  HYE_SEZ: "Зебридське князівство"
+  HYE_SEZ_DEF: "Зебридське князівство"
+  HYE_SEZ_ADJ: "Зебридськ"
+
+  HYE_KRL: "Герцогство Зайкірія"
+  HYE_KRL_DEF: "Герцогство Зайкірія"
+  HYE_KRL_ADJ: "Зайкірійськ"
+
+  HYE_KCM: "Графство Хризантема"
+  HYE_KCM_DEF: "Графство Хризантема"
+  HYE_KCM_ADJ: "Хризантемов"
+
+  HYE_KVD: "Озеленне герцогство"
+  HYE_KVD_DEF: "Озеленне герцогство"
+  HYE_KVD_ADJ: "Озеленн"
+
+  HYE_KTP: "Баронство Трипан"
+  HYE_KTP_DEF: "Баронство Трипан"
+  HYE_KTP_ADJ: "Трипанов"
+
+  HYE_KPV: "Марка Провидіння"
+  HYE_KPV_DEF: "Марка Провидіння"
+  HYE_KPV_ADJ: "Провидінськ"
+
+  HYE_KPS: "Рапсодійне князівство"
+  HYE_KPS_DEF: "Рапсодійне князівство"
+  HYE_KPS_ADJ: "Рапсодійн"
+
+  #HYE_fed_puppet_stormcloud:0 "Stormcloud Communities"
+  #HYE_fed_puppet_stormcloud_DEF:0 "Stormcloud Communities"
+  #HYE_fed_puppet_stormcloud_ADJ:0 "Stormcloud"
+
+  HYE_fed_puppet_zwahile: "Зуагільська федерація"
+  HYE_fed_puppet_zwahile_DEF: "Зуагільська федерація"
+  HYE_fed_puppet_zwahile_ADJ: "Зуагільськ"
+
+  HYE_fed_puppet_aoranda: "Демократична республіка Уґабі"
+  HYE_fed_puppet_aoranda_DEF: "Демократична республіка Уґабі"
+  HYE_fed_puppet_aoranda_ADJ: "Уґабійськ"
+
+ ###
  HYE_fahamka: "Матріарх Фагамка"
  HYE_masaska: "Масаска"
  HYE_masaska_lar: "$HYE_masaska$"
+ HYE_princess_jawharad: "Принцеса Джаугарад" #Sweet
+ HYE_jawharad_queen: "Королева Джаугарад" #Sweet
  HYE_furasho: "Фурашо"
+ HYE_general_knife: "Дгуумашо"
+ HYE_general_eyepatch: "Іфтіін"
+ HYE_tuke: "Туке"
+ HYE_haramcad: "Гарамчад"
+ HYE_sunta: "Сунта"
+ HYE_gaadiidka: "Ґаадіідка"
+ HYE_seenyaale: "Сеен'яле"
+ HYE_maraq: "Марак"
+ HYE_waalan: "Ваалан"
+ HYE_dhagax: "Дгаґах"
+ HYE_dhalaalaya: "Дгалаалая"
 
  HYE_fascism_party: "Сувора влада"
  HYE_fascism_party_long: "Школа Хукуна Адаґа"
@@ -2485,6 +2708,11 @@
 
 # country_SON
  SON_zonni_zolon: "Зонні Золон"
+ SON_regency_council: "Регентська рада"
+ SON_angry_mob: "$BAR_angry_mob$"
+ SON_ture_sylla: "Туре Сілла"
+ SON_azkhai_zughe: "Азхай Зуґе"
+ SON_nyaberi_zargey: "Ньябері Зарґей"
 
 # country_STM
  STM_ikvus_hailstorm: "Іквус Гейлсторм"
@@ -2790,6 +3018,9 @@
   TRD_trade_with_skyfall_desc: "Попри свій розмір, Скайфолл — економічний титан. Трохи інвестицій тут, кілька операцій із лоббіювання там, і ми зможемо отримати багато економічних вигод. Однак, це буде недешево, і Скайфолл може не оцінити наші спроби розширити торгові відносини з ним."
   TRD_stop_trading_with_skyfall: "Припинити торгівлю зі Скайфоллом"
   TRD_stop_trading_with_skyfall_desc: "Торгівля зі Скайфоллом принесла нас багато вигод, але якщо ситуація зміниться, ми завжди можемо припинити свою діяльність."
+
+ ###
+  TRD_forced_market: "Ми замкнені на §Yвільну торгівлю§!" # (&?)
 
 # country_TRO
  TRO_civil_war_tag: "Об'єднаний республіканський фронт"

@@ -384,15 +384,15 @@
 
  ##BBA PLANES (modules)##
  engine_1_1x: "1 авіаційний двигун"
- engine_1_1x_desc:0 "This basic aero engine is reliable and cheap, but not particularly powerful."
+ engine_1_1x_desc: "Цей базовий двигун надійний і дешевий, але не надто потужний."
  engine_1_2x: "2 авіаційні двигуни"
- engine_1_2x_desc:0 "Twin aero engines give the plane a significant increase in thrust, but at a cost."
+ engine_1_2x_desc: "Подвійні двигуни дають літаку значне збільшення тяги, але певною ціною."
  engine_1_3x: "3 авіаційні двигуни"
- engine_1_3x_desc:0 "Three aero engines give more thrust than a pair of them, without the additional cost of a fourth engine."
+ engine_1_3x_desc: "Три двигуни дають більше тяги, ніж їхня пара, без додаткової вартості четвертого."
  engine_1_4x: "4 авіаційні двигуни"
- engine_1_4x_desc:0 "A quartet of aero engines provides enough thrust to lift a heavy plane and allow it to carry a significant payload."
+ engine_1_4x_desc: "Квартет двигунів дає достатню тягу для підняття важкого літака, що дозволить йому нести значний вантаж." # (&)
  engine_1_6x: "6 авіаційних двигунів"
- engine_1_6x_desc:0 "With six aero engines, any plane can be made to carry a significant payload over a long range, at a decent speed."
+ engine_1_6x_desc: "Маючи шість двигунів, кожен літак можна змусити нести значний вантаж на великі відстані з пристойною швидкістю." # (&)
 
  engine_2_1x: "1 рядний двигун"
  engine_2_1x_desc:0 "A larger and more powerful engine allows for higher speed and greater payload."

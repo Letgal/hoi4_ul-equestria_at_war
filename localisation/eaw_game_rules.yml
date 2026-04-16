@@ -1,4 +1,8 @@
 ﻿# == (*) ==
+RULE_GROUP_AI_BEHAVIOR_EQUUS: "Поведінка ШІ: Еквус"
+RULE_GROUP_AI_BEHAVIOR_GRIFFONIA: "Поведінка ШІ: Грифонія"
+RULE_GROUP_AI_BEHAVIOR_ZEBRICA: "Поведінка ШІ: Зебрика"
+
 EQS_STATUS: "Еквестрія"
  RULE_OPTION_DEFAULT_EQS_STATUS_DESC: "Еквестрія — мирна та гармонійна держава, об'єднана діархією двох сестер-алікорнів."
  RULE_OPTION_EQS_STATUS_CIVIL_WAR: "Місячна громадянська війна"
