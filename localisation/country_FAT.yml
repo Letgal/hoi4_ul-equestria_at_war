@@ -8,11 +8,11 @@
 ### НАЗВИ КРАЇНИ ###
  FAT_Cloudbury_communism: "Соціалістична республіка Клаудбері"
  FAT_Cloudbury_democratic: "Республіка Клаудбері"
- FAT_Cloudbury_fascism:0 "Provisional Authority of Cloudbury" # (!)
+ FAT_Cloudbury_fascism: "Тимчасова влада Клаудбері"
  FAT_Cloudbury_neutrality: "Герцогство Клаудбері"
  FAT_Cloudbury_communism_DEF: "Соціалістична республіка Клаудбері"
  FAT_Cloudbury_democratic_DEF: "Республіка Клаудбері"
- FAT_Cloudbury_fascism_DEF:0 "the Provisional Authority of Cloudbury" # (!)
+ FAT_Cloudbury_fascism_DEF: "Тимчасова влада Клаудбері"
  FAT_Cloudbury_neutrality_DEF: "Герцогство Клаудбері"
  FAT_Cloudbury_fascism_ADJ: "Клаудберійськ"
  FAT_Cloudbury_democratic_ADJ: "Клаудберійськ"
@@ -36,9 +36,9 @@
  FAW_UK_neutrality_ADJ: "Клаудберійсько-герцландськ"
  FAW_UK_communism_ADJ: "Клаудберійсько-герцландськ"
 
- FAW_imperial_duchy:0 "Grand Duchy of Cloudbury" # (!)
- FAW_imperial_duchy_DEF:0 "the Grand Duchy of Cloudbury" # (!)
- FAW_imperial_duchy_ADJ:0 "Cloudburian" # (!)
+ FAW_imperial_duchy: "Велике герцогство Клаудбері"
+ FAW_imperial_duchy_DEF: "Велике герцогство Клаудбері"
+ FAW_imperial_duchy_ADJ: "Клаудберійськ"
 
 ### National Focus ###
  fatass_the_task_ahead_focus:0 "Дерево фокусів агресивної зовнішньої політики"
@@ -130,10 +130,10 @@
  FAT_pardon_the_raiders_desc:0 "Остання з вимог Сантейла — амністія всіх його грифонів. Нам варто погодитися на амністію всіх, крім найгірших з найгірших, з ким Сантейл обіцяв особисто розібратися."
  FAT_remind_them_of_the_cause:0 "Республіканська військова пропаганда"
  FAT_remind_them_of_the_cause_desc:0 "Роузвінґ і її солдатам потрібно нагадати про те, за що вони дійсно б'ються. Ярмо Імперії, від якого ми звільнилися, ніколи не повинно повернутися на нашу землю, а солдати гарантують це. За Республіку!"
- FAT_crisis_averted:0 "A Loyal Army" # (!)
+ FAT_crisis_averted: "Віддана армія"
  FAT_crisis_averted_desc:0 "The army knows who broke the chains of Imperial oppression. They know who led us north, snatching hope from the jaws of defeat. It was none other than our valiant President-Marshal! Now that they have been reformed and reminded of their duty, they will follow him to victory. We will walk through fire for President Kemerskai, all so we can see his dream live!" # (!)
  FAT_war_propaganda_desc:0 "Чи хочеш ТИ бачити Клаудбері в руїнах? У пазурах монархістських зрадників, які будуть грабувати наші міста, винищувати наших громадян, і промивати мізки нашим дітям? Якщо ти не хочеш цього, і якщо ваша вірність Республіці, яка дала нам демократію і свободу, чогось варта, то записуйся на службу в найближчому територіальному центрі комплектування!""
- FAT_radicalize_the_party:0 "The Left-NRP's Opportunity" # (!)
+ FAT_radicalize_the_party: "Можливість для НРП-Л"
  FAT_radicalize_the_party_desc:0 "Years ago, before Kemerskai suspended the constitution, the Socialist People's Party fought alongside the Republicans in pursuit of a greater Griffonia. They were right, and they were persecuted due to the Marshal's fears. With Kemerskai's position weakened and the loss of both his old guard allies, the left can finally move forward with their plans." # (!)
  FAT_takeadvantageofthechaos:0 "Спадщина Народної Соціалістичної Партії"
  FAT_takeadvantageofthechaos_desc:0 "Народна Соціалістична Партія зіграла ключову роль у створенні Республіки та її принципів, співпрацюючи з Кемерскаєм проти монархістів півдня. Хоч і деякі їхні члени втекли до Скайнавії з лідером партії, Аспером Сиклкло, багато соціалістів у Республіці не покинули нас заради Скайнавії, і вони можуть бути схильні до нашої справи."
@@ -208,9 +208,9 @@
  FST_the_task_ahead_desc:0 "На нашому шляху одна темрява і багато перешкод. Мізки громадян промиті монархістською пропагандою, селяни скоріше готові битися за своїх поневолювачів, а монархи щосили дотримуються старого порядку. Але що б нам не заважало, ми вистоїмо, і ми будемо боротися за Сантейла і за Республіку!"
  FST_pan_griffonian_cause:0 "Союз із Республіками"
  FST_pan_griffonian_cause_desc:0 "Ми повинні співпрацювати з грифонячими республіками, сформувавши міжнародний рух проти корумпованих монархій континенту. Ми повинні зараз налагодити дипломатичні відносини, але що станеться після взяття Грифенгайма — ще не ясно, хоча зрадам явно не запобігти."
- FST_kill_meyer:0 "Settle The Old Debt" # (!)
+ FST_kill_meyer: "Погасити старий борг" # (@!)
  FST_kill_meyer_desc:0 "Meyer's betrayal during the Counterrevolution nearly cost the Republican Army everything, and it was only by the skin of our beaks that we survived the Long March and kept the spark alive against the Empire. Suntail hasn't forgotten - and he most certainly has not forgiven." # (!)
- FST_kill_sickleclaw:0 "The Only Fitting End For Traitors" # (!)
+ FST_kill_sickleclaw: "Єдиний підхожий кінець дял зрадників"
  FST_kill_sickleclaw_desc:0 "Kemerskai was foolish enough not to deal with the communists swiftly and without mercy when he had the chance, and as a result, the Republic suffered yet another humiliation when the submarine crews deserted and the filthy commies made their nest in the Far North. Suntail, on the other claw, knows exactly how to deal with this scum." # (!)
  FST_a_republican_coalition:0 "Міжнародна Коаліція"
  FST_a_republican_coalition_desc:0 "Ми повинні створити міжнародний союз з іншими ультранаціоналістами і республіканцями. Це єдиний спосіб знищити декадентську монархію і гармонію."
@@ -316,7 +316,7 @@
  FST_the_riverpony_debate_firmscow_desc:0 "Ми дуже раді тому факту, що відтепер Річкові Землі об'єднані під владою Національної Республіки, що дуже схожа на нашу власну! Ми повинні негайно запросити їх до нашої реформованої версії Республіканського Пакту, щоб разом протистояти ворогам безпеки, націоналізму та процвітання!"
  FST_the_riverpony_debate_nofirmscow:0 "Закрити кордони"
  FST_the_riverpony_debate_nofirmscow_desc:0 "Річкові Землі переховують ворогів Національної Республіки під гаслами на кшталт "захисту біженців" і "надання політичного притулку". Ми повинні закрити наші кордони для річкових поні й активно вистежувати тих, хто намагається уникнути нашого правосуддя."
- FST_the_riverpony_debate_has_puppet:0 "Strengthen The Unitary State" # (!)
+ FST_the_riverpony_debate_has_puppet: "Зміцнити унітарну державу"
  FST_the_riverpony_debate_has_puppet_desc:0 "Our allied Riverlands state is still in a weak position. Police crackdowns and the official banning of subversive liberal parties will assure the strength of the new Riverlander government and the stability of our relation." # (!)
  FST_continue_the_anti_clerical_campaign:0 "Продовжити антиклерикальну кампанію"
  FST_continue_the_anti_clerical_campaign_desc:0 "Хоча віра сама по собі не є злочином, централізована релігія завжди становитиме загрозу для Національної Республіки. Вона пропагує вірність не нації, а церкві, яка відокремлена від держави. Ми продовжимо антиклерикальну політику і ухвалимо нові закони, спрямовані на викорінення таємних релігійних рухів."
@@ -473,15 +473,15 @@
  FAT_remember_kemerskai_desc:0 "Александер Кемерскай, маршал, трагічна особистість, який намагався приборкати реформістські настрої в Імперії, але його затягнули в радикалізм підлеглі-екстремісти, поки йому не допомогла Роузвінґ. У неї було чесне серце, вона воістину дбала про простогрифонів... Принаймні, це те, що ми говоритимемо і про що писатиметься в підручниках історії."
  FAT_the_greenback_accords:0 "Грінбецькі угоди"
  FAT_the_greenback_accords_desc:0 "Зі згодою всіх сторін, з миром і гармонією для кожного, ми можемо нарешті піти на останній крок. Ми зберемося в Грінбеці і підпишемо нову угоду, щоб переконатися, що грифони з обох царств, Клаудбері і Герцланду, зможуть працювати разом в ім'я загального блага, для всіх і кожного."
- FAT_puppet_kingdom_of_aquileia:0 "Restore the Kingdom of Aquileia" # (!)
+ FAT_puppet_kingdom_of_aquileia: "Відновити Королівство Аквілея"
  FAT_puppet_kingdom_of_aquileia_desc:0 "The Aquileian people have suffered great upheaval as of late, but the Crownlands of Cloudbury-Herzland can grant them the stability they deserve by restoring the rightful line of Discret to the Aquileian throne in an united monarchical front. Rather than relying on Moriset's blasphemous progeny, we can instead find a more suitable griffon to wear the crown..." # (!)
- FAT_puppet_karthinia:0 "Reunite Karthinia" # (!)
+ FAT_puppet_karthinia: "Возз'єднати Карфінію"
  FAT_puppet_karthinia_desc:0 "We find ourselves in the perfect position to restore the historical lands of the Karthinian Empire under a modernized monarchy to rule fairly over the lands of the South." # (!)
- FAT_puppet_the_evi:0 "A United Evian Realm" # (!)
+ FAT_puppet_the_evi: "Об'єднана Евійська держава"
  FAT_puppet_the_evi_desc:0 "Inbetween wars and famines, the Evian valley has suffered a great deal of mismanagement and been consumed by anarchic revolutionary fervor. Cloudbury-Herzland is sympathetic to the locals' plight, and has seen fit to establish a unified realm to rule over the valley." # (!)
- FAT_core_the_hellquill_borderlands:0 "Incorporate The Borderlands" # (!)
+ FAT_core_the_hellquill_borderlands: "Приєднати прикордонні землі"
  FAT_core_the_hellquill_borderlands_desc:0 "The Imperial knightly orders of the East, and especially that of Hellquill, are tied to Cloudburian history, but have proved unfit for purpose and allowed the Eastern borderlands to fall into disfunction and disarray. They will instead be directly administered by the Crownlands." # (!)
- FAT_core_skyfall:0 "End The Trade Princes" # (!)
+ FAT_core_skyfall: "Покінчити з торговими князями"
  FAT_core_skyfall_desc:0 "The tremendous wealth that flows through Skyfall makes the establishment of good and proper governance all the more quintessentially important, lest local administration fall into the claws of greedy merchants. To this end, Skyfall will be incorporated into the Crownlands as a core part of the realm." # (!)
 
  #back to normal republican stuff
@@ -489,9 +489,9 @@
  FAT_equalrightsforponies_desc:0 "Відтепер будь-який важливий урядовий документ буде написаний як клаудберійською, так і грифонстоунською, за потреби — вінґбардійською або аквілейською. Хоч це і потребуватиме значних зусиль, ми возз'єднаємо наш розколотий народ і дозволимо правлячій меншості герцландців нарешті налагодити контакт із клаудберійською більшістю."
  FAT_twomarshalsonerepublic:0 "Вотум недовіри"
  FAT_twomarshalsonerepublic_desc:0 "Хоч Александер Кемерскай і був лідером Революції, що породила Республіку, він більше не може бути президентом. Своєю політикою під час конституційної кризи він майже вбив країну і зруйнував надії на соціалістичну республіку. Кемерскай може звільнитися і поїхати жити в заміський будинок з видом на море, а ми оголосимо нового президента."
- FAT_duke_oskar_idea:0 "Oskar I" # (!)
+ FAT_duke_oskar_idea: "Оскар I"
  FAT_chad_duke_oskar_idea:0 "Oskar I, Grand Duke of Cloudbury, Sovereign of the North, Imperial Steward, Co-Lord of the Knights of Cloudbury, Servant of His Liege, the Emperor of Griffonkind" # (!)
- FAT_GRD_ophelia:0 "Ophelia Saxhagen-Plumenjar" # (!)
+ FAT_GRD_ophelia: "Офелія Саксгаґен-Плюмен'яр"
  FAT_GRD_ophelia_desc:0 "Ophelia Saxhagen-Plumenjar was born right at the turn of the millenium, 4th of January, 1000, child of Otto Saxhagen-Plumenjar, during the late years of Republican rule in Cloudbury. Despite her royal lineage, she had a relatively humble upbringing in Cloudbury, kept out of the turbulent political climate by her father, who raised her on stories of the House and of the old Duchy. As a member of the admiralty, Otto could afford to give his daughter a liberal education, and so Ophelia was tutored in rhetoric, natural philosophy and history. As Otto expected his daughter to eventually find her place in the Republic's civil administration, she developed the skills of a capable administrator and statesgriff, until the Duchy's restoration threw her life's trajectory out of rails by making her the heir of the Cloudbury throne.\n\nOphelia is a calm and collected griffoness with a passion for history and the arts, and her experiences in the chaos of the last years of the Republic shaped her into a reformist who wishes to incorporate democratic elements into the traditional monarchy, for the sake of the realm's stability and prosperity." # (!)
  FAT_Bring_The_Revolution_idea:0 "Принести Революцію"
  FAT_Bring_The_Revolution_idea2:0 "Принести Революцію"
@@ -618,7 +618,7 @@
  FAT_risen_from_ruins_desc:0 "[FATGetRisenFromRuinsDesc]"
  FATGetRisenFromRuinsDescStandard:0 "Впоравшись з усіма негараздами на цій холодній і чужій землі, те, що ми досягли рівня сучасних держав Грифонії та навіть Еквуса, здається справжньою магією. Ми повстали з руїн, що також можна сказати про наші економіку та уряд. Сталося справжнє економічне диво!"
  FATGetRisenFromRuinsDescMonarch:0 "With all the hardships Cloudbury has faced since the fall of the Empire, it is almost magical that we have been able to rebuild our economy to the levels of the modern states of Griffonia and even Equus. We have risen from the ruins which once characterized our economy and government, and a true economy miracle is at claw."
- FAT_republican_college:0 "A Liberal Education" # (!)
+ FAT_republican_college: "Ліберальна освіта"
  FAT_republican_college_desc:0 "[FATGetFacultyOfGriffonitiesDesc]"
  FATGetFacultyOfGriffonitiesDescMonarch:0 "Both for moral and practical reasons, it is imperative that the state apparatus is staffed whenever possible with quality individuals, and to supply them, a new department of social science in the University of Cloudbury will create a new class of dignified griffons versed in philosophy, history and rhetoric - perfect servants of the Realm." # (!)
  FATGetFacultyOfGriffonitiesDescStandard:0 "A republic runs on paper, and as our Republic is sorely in need of quality civil servants and administrators, the newly planned department of social sciences in the university of Cloudbury will raise a brand new generation of upstanding and reliable Republican citizens." # (!)
@@ -683,7 +683,7 @@
  FAT_and_the_family:0 "[GetFATHouseKemerskaiTitle]"
  FAT_and_the_family_desc:0 "[GetFATHouseKemerskaiDesc]"
  FAT_kemerskai_house_title_standard:0 "...І роду Кемерскаїв"
- FAT_kemerskai_house_title_dawnclaw:0 "...And of What Remains" # (!)
+ FAT_kemerskai_house_title_dawnclaw: "...І того, що залишається"
  FAT_kemerskai_house_desc_standard:0 "Рід Кемерскаїв ще живий, і його варто судити окремо від решти дворянства. Кемерскай зустрінеться зі своїм племінником — бароном Августом Кемерскаєм, щоб вирішити долю роду Кемерскаїв."
  FAT_kemerskai_house_desc_dawnclaw:0 "Dawnclaw wiped out all nobility in the duchy of Griffenheim, including the house of Kemerskai. The Marshal and his son are now the sole inheritors of what little was spared by the Lord Protector. The two army griffons are given temporary leave from their duties in order to get their affairs in order." # (!)
  FAT_the_scheming_nobility:0 "Доля підлих дворян"
@@ -692,7 +692,7 @@
  FAT_the_corrupt_archonate_desc:0 "У нас, звісно, жодних проблем із вірою грифонів немає, але ось Архонат з роками стає все більш злим і безчесним. Ми повинні поміняти трьох Архонтів і змістити їх на інші посади, щоб Архонтами були не якісь там імперські підлабузники."
  FAT_integrate_minors:0 "Інтеграція решти"
  FAT_integrate_minors_desc:0 "Держави-претенденти, які встали на наш бік і допомогли у знищенні імперії, тепер готові увійти до складу Республіки як держави-члени."
- FAT_a_tide_to_swallow_the_old_order:0 "A Tide To Swallow The Old Order" # (!)
+ FAT_a_tide_to_swallow_the_old_order: "Хвиля, що поглине старий лад"
  FAT_a_tide_to_swallow_the_old_order_desc:0 "Across the continent, reactionary and monarchist regimes continue to dominate much of Griffonia, and to ensure the Republican Army's victory over the enemy, we should seek to leverage the full demographic advantage of the Herzland, by relying on further recruitment to bolster the Republican Army's numbers." # (!)
  FAT_integrate_federation:0 "Інтеграція Федерації"
  FAT_integrate_federation_desc:0 "Федерація довго залишалася нібито 'незалежною' і занадто автономною. Настав час включити її до складу Республіки як автономну область."
@@ -726,7 +726,7 @@
  FAT_new_institutions_desc:0 "Розширення уряду, використовуючи наш новий набагато більший бюджет, дозволить більшій кількості державних установ обслуговувати грифонів. Це суттєво збільшить функціональність та ефективність уряду."
  FAT_prepare_for_elections:0 "Підготуватися до загальних виборів"
  FAT_prepare_for_elections_desc:0 "Ми повинні підготуватися до загальних виборів, які вирішать долю нашого уряду. Це буде найважливішим моментом в історії республіки."
- FAT_my_work_here_is_done:0 "The Reconstruction Mandate" # (!)
+ FAT_my_work_here_is_done: "Мандат відбудови"
  FAT_my_work_here_is_done_desc:0 "With the Republic back to its place of birth, we are now faced with a task even more daunting than to defeat the Reichsarmee: to prepare the Herzland's population, accustomed to the decadent and corrupt institutions of the Empire, to engage in a fair democratic society. A new administration must be established for this endeavor." # (!)
  FAT_prosperity_f:0 "Процвітання"
  FAT_prosperity_f_desc:0 "Третьою і останньою цінністю республіки є процвітання. Відповідно до цієї концепції всі наші громадяни мають рівні права і можливості. Наша економіка буде спрямована на допомогу всім громадянам незалежно від їхнього доходу."
@@ -1000,7 +1000,7 @@
  FAT_cloudbury_reborn:0 "Відроджені під крилом Скайнавії"
  FAT_cloudbury_reborn_desc:0 "Нас більше не будуть переслідувати невдачі Кемерская і його Республіки. Соціалізм встановлений у Клаудбері, і три старі принципи були перероблені в ім'я соціалізму. Пролетарі Клаудбері тепер єдині в боротьбі проти всіх форм реакційних і капіталістичних ідеологій! Тричі ура Соціалістичним Республікам Клаудбері та Скайнавії!"
  FAT_president_kingfeather:0 "Президент Кінґфезер"
- FAT_president_kingfeather_desc:0 "Президент Кінґфезер — прагматичний, консервативний кандидат — has come out on top and secured the mandate. Його уряд буде надійним захистом від екстремізму, соціалізму та монархізму, адже він будує вільний ринок і вільне суспільство." # (!)
+ FAT_president_kingfeather_desc:0 "Президент Кінґфезер — прагматичний, консервативний кандидат — здобув перемогу та забезпечив мандат. Його уряд буде надійним захистом від екстремізму, соціалізму та монархізму, адже він будує вільний ринок і вільне суспільство."
  kingfeather_desc:0 "Якби ви запитали Республіканського громадянина, що ж Гайнрих Кінґфезер, можливо, другий наймогутніший грифон в усій Республіці, зробив за останні 4 роки, незважаючи на його великі плани, вони навряд чи щось вам скажуть.\n\nГайнрих Кінґфезер народився в 949 році в Грінгейті, Єлі. Навчившись права й економіки, юний Кінґфезер узагалі не здавався підходящим кандидатом на позицію революційного лідера, але його прогресивні правові прецеденти зробили його одним із найзатятіших захисників республіканців. Нехай і насамперед адвокат і політик і тільки потім революціонер, Кінґфезер просуває ідеї Республіканської Мрії на міжнародному рівні, намагаючись укласти різні договори як з Еквестрією, так і з Річковою Коаліцією — хоча обидві сторони майже завжди відмовляються. Його законодавчі та політичні дії під час терміну Кемерская полегшили суспільну нестабільність і розгніваність діями республіканців, але це не врятувало Республіку у військовому плані. Кінґфезер, замість участі у Великому Поході, втік до Скайфоллу та згодом у нове незалежне містечко Фезера, перш ніж нарешті прибути до Республіки та бути зустрінутий радісними юрбами після остаточного завоювання Клаудбері. Хоч і його неможливість підтримати республіканців у Великому поході для багатьох стала бар'єром, Кінґфезер продовжував представляти народ Республіки з їхнього нового центру в Клаудбері.\n\nРобота Кінґфезера залишалася непомітною, відтоді як він став правою лапою Кемерская в 1003 році, замінюючи на посаді амбітного мілітариста Шнабеля Санґлайдера, зосередившись на внутрішніх проблемах. Зіткнувшись із некерованою армією і бандитами в селах, Кінґфезер почав складати закон, протилежний переконанням Санґлайдера про жорстоку розправу з порушниками. Кінґфезер зустрівся з сотнями місцевих лідерів і уклав договори, які допомогли врятувати села від тотального хаосу одразу після агітації Роузвінґ, що зробило його найбільшим політиком, який підтримував ідею репрезентації клаудберійців на національному рівні. Основною ідеєю Кінґфезера був прагматизм, ідея, що ставала дедалі складнішою і складнішою з поляризацією країни за політичними та етнічними кордонами.\n\nВийде у нього колись? Або він помре з усіма картами в кишені, але без сміливості їх використовувати, як заявляє опозиція?"
  FAT_safeguarding_the_constitution:0 "Наш обов'язок перед Республікою"
  FAT_safeguarding_the_constitution_desc:0 "Сьогодні для нашої конституції існує багато загроз — соціалісти, монархісти, диктатори. Ми повинні бути пильними і захищати Республіку та її Богами дані принципи за всяку ціну."
@@ -1083,7 +1083,7 @@
  FAT_towards_unification_desc:0 "Ми повинні виступити проти решти монархій і принести справедливість, мир і злагоду всій Грифонії. Триколор незабаром запанує в Карфіні, Аквілеї, Ківессіні та Каїві!"
  FAT_the_lake:0 "Звільнити Серце"
  FAT_the_lake_desc:0 "Королівство Грифонстоун, разом з Домами Авіан, Ері та Ейрі, десятиліттями правили як монархії. Незабаром вони побачать світло республіки."
- FAT_railway_to_griffonstone:0 "Connecting The Two Capitals" # (!)
+ FAT_railway_to_griffonstone: "Сполучення двох столиць"
  FAT_railway_to_griffonstone_desc:0 "While Griffenheim remains the true center of the Republic, Griffonstone's historical status and emotional value to all griffons makes it arguably just as important. In order to cement the Republic's legitimacy among the Heartlands' population, a direct railway will connect the two cities at the heart of Griffonkind's history." # (!)
  FAT_the_heart_of_griffonkind:0 "Індустріалізувати Серце роду Грифонів"
  FAT_the_heart_of_griffonkind_desc:0 "Грифонстоун і Велике Герцогство Веренія були великими державами грифонів ще тоді, коли Грифонська Імперія була лише мрією у свідомості багатьох грифонів. Ми повинні відродити ці землі і привести їх у відповідність із сучасною промисловістю та сільським господарством."
@@ -1091,11 +1091,11 @@
  FAT_repair_griffonstone_desc:0 "Грифонстоун колись був столицею великої Грифонської імперії, коли перший Ґровер об'єднав її за допомогою Ідола Борея. Будучи справжнім серцем монархізму, зрозуміло, що ми повинні відбудувати цю землю і зробити її справжньою зразковою республіканською провінцією."
  FAT_core_lakes:0 "Триколор над Серцем"
  FAT_core_lakes_desc:0 "Озера повинні бути включені до складу Грифонської Республіки як законна, основна територія. Будуть створені місцеві республіканські уряди, а жителі цих земель будуть звільнені."
- FAT_elite_republican_army:0 "Elite Vanguard Of The Republic" # (!)
+ FAT_elite_republican_army: "Елітний авангард Республіки"
  FAT_elite_republican_army_desc:0 "With the Herzland secured and vast recruitment pools at the Republic's disposal, widespread conscription is no longer sensible. By easing our recruitment quotas, we can instead focus on the professional army corps that we already have, until we build an army that will put the Reichsarmee of old to shame." # (!)
  FAT_the_trade_cities:0 "Помститися за зраду Гішара"
  FAT_the_trade_cities_desc:0 "Трагічно, але, незважаючи на своє багатство і розкіш, торгові міста Скайфолл і Фезера перетворилися на притулок для злочинності та корупції і неминуче зрадили мрію про вільну і безпечну Республіку. Під нашим позитивним впливом ми забезпечимо, щоб Скайфолл знову став зразковим республіканським містом."
- FAT_trial_meyer:0 "Trial The Traitor" # (!)
+ FAT_trial_meyer: "Провести суд над зрадником"
  FAT_trial_meyer_desc:0 "For all the defeats and setbacks that the Griffonian Republic suffered over the course of the decades, no treachery was more humiliating than Hermann Meyer's betrayal, which allowed this petty officer to rule as king over the Celestial Sea islands. With Haukland under our control, his long awaited trial can finally begin." # (!)
  FAT_greifwald_oil_fields:0 "Нафтові родовища в Грайфвальді"
  FAT_greifwald_oil_fields_desc:0 "Нафтові родовища Грайфвальду є цінним активом, але наявні свердловини застаріли, і видобуток можна було б значно покращити. Потенційну стратегічну цінність цих запасів важко переоцінити."
@@ -1244,7 +1244,7 @@
  FAT_tax_the_oligarchs_desc:0 "Щодо бідності — це факт, що багаті грифони цієї країни не дозволять нам розв'язати цю проблему, бо щоб допомогти бідним, потрібно зменшити статки багатіїв. Так і зробимо, нехай буде кожен при грошах!"
  FAT_every_griffon_an_emperor:0 "Кожен грифон — імператор!"
  FAT_every_griffon_an_emperor_desc:0 "Кожен грифон має бути імператором, тобто жоден грифон не повинен бути позбавлений життєво важливих речей. У кожного грифона має бути їжа, у кожного має бути одяг."
- FAT_a_new_constitution:0 "Abolish Article 10" # (!)
+ FAT_a_new_constitution: "Скасувати Статтю Nº 10"
  FAT_a_new_constitution_desc:0 "The time has come to fully abolish the 986 Act for the Salvation of the Republic and repeal the 10th article of the Constitution. While it has been substantially amended, the existence of the Article alone represent a continuous anti-democratic threat. We must do away with this remnant of authoritarianism entirely." # (!)
  FAT_end_nrp_dominance:0 "Покінчити з пануванням НРП"
  FAT_end_nrp_dominance_desc:0 "Хоча Республіка за визначенням не однопартійна держава, Національна Республіканська Партія та її органи все ще володіють непристойною кількістю влади; багато грифонів вважають, що отримати підвищення в державних організаціях практично неможливо, якщо у тебе немає партійного квитка. Саме час зменшити вплив НРП."
@@ -1326,7 +1326,7 @@
  FAT_guarantee_prosperity_desc:0 "Землі Республіки багаті й родючі, а наші громадяни умілі й працьовиті. Було б непробачно такій благословенній нації не допомагати народу: забезпечити процвітання кожного — наш обов'язок."
  FAT_bolster_the_military:0 "Підкріпити військових"
  FAT_bolster_the_military_desc:0 "Вкрай важливо, щоб Республіка мала сильну армію, здатну поширювати нашу силу по всьому світу та захищати наші цінності. Які б виклики не чекали на нас у майбутньому, ми повинні бути готові протистояти їм в ім’я свободи!"
- FAT_the_republic_triumphant:0 "The Marshal's Dream Realized" # (!)
+ FAT_the_republic_triumphant: "Маршалова мрія здійснилася"
  FAT_the_republic_triumphant_desc:0 "Our engineers have finally completed a project that's been ongoing since our return to Griffenheim: the gradual conversion of the Imperial Palace into a Republican Parliament. With this last shadow of the Empire finally buried, the Griffonian Republic stands tall and triumphant. Here's to a new and free Griffonia!" # (!)
 
  ### CIVIL WAR TREE ###
@@ -2632,13 +2632,13 @@
 
  ### Ideas ###
  FAT_Removing_Troublesome_Soldiers:0 "Виключення проблемних солдатів"
- FAT_order_in_the_republic_idea:0 "Order In The Republic" # (!)
+ FAT_order_in_the_republic_idea: "Лад у Республіці"
  FAT_Peasant_Council_idea:0 "Ради робітників"
  FAT_kemerskai_rehabilitated:0 "Культ Кемерская-Сантейла"
  FAT_kemerskai_shamed:0 "Спадщина зради"
  FAT_from_kemerskai_monarchy:0 "Кемерская забуто"
  FAT_idealism_of_978:0 "Спадщина революції"
- FAT_imperial_duchy_idea:0 "Imperial Duchy" # (!)
+ FAT_imperial_duchy_idea: "Імперське герцогство"
  FAT_Special_Police:0 "Національне Республіканське Агентство Розвідки"
  insane:0 "Божевільний"
  FAT_police_idea:0 "Зберегти поліцейський нагляд"
@@ -2667,7 +2667,7 @@
  FAT_unruly_army_idea_desc:0 "[FATGetUnrulyArmyDesc]"
  FATGetUnrulyArmyDescInfo:0 "Ours is one of the biggest standing armies in Griffonia, yet it is but a remnant of the old Republic, along with the hopefuls, idealists and outcasts from the Herzland that followed us in the aftermath of the Long March. Inaction and political stagnation have made morale plummet among the armed forces, and the President-Marshal's poor relation with his once loyal generals in the North has created a constant state of low scale skirmishes, tension, depot raiding and civilian involvement which nears a breaking point. The Republican Army must be united in purpose fast, or else the Republic will simply not survive.\n\n§YAn estimated§! [?FAT_army_disloyalty_value|%R0] §Yof the Republican Army is loyal to the warlords.§!" # (!)
  FATGetUnrulyArmyDescNoInfo:0 "Ours is one of the biggest standing armies in Griffonia, yet it is but a remnant of the old Republic, along with the hopefuls, idealists and outcasts from the Herzland that followed us in the aftermath of the Long March. Inaction and political stagnation have made morale plummet among the armed forces, and the President-Marshal's poor relation with his once loyal generals in the North has created a constant state of low scale skirmishes, tension, depot raiding and civilian involvement which nears a breaking point. The Republican Army must be united in purpose fast, or else the Republic will simply not survive." # (!)
- FAT_army_disloyalty_value_tt:0 "§OArmy Disloyalty§!: $RIGHT|-=0%$" # (!)
+ FAT_army_disloyalty_value_tt: "§OНелояльність армії§!: $RIGHT|-=0%$"
  FAT_refuse_orders_idea:0 "Дезертирство"
  FAT_refuse_orders_idea_desc:0 "Через те, що моральний дух довгий час був поганим, наші солдати тепер повністю відмовляються підкорятися наказам, вимагаючи великого підвищення зарплат, яке ми просто не можемо собі дозволити прямо зараз. Ми можемо тільки сподіватися, що інші не дізнаються про нашу слабкість, поки ми повертаємо наших грифонів під контроль."
  FAT_offer_favors_idea:0 "Хабарі за послух"
@@ -2866,7 +2866,7 @@
  FAT_joachim_desc:0 ""
 
 ### Custom Tooltip ###
- FAT_faculty_of_griffonities_idea_tt:0 "Permanently reduces the cost of §Ypolitical advisors§! and §Ylaws§! by §G10%§!." # (!)
+ FAT_faculty_of_griffonities_idea_tt: "Назавжди скорочує вартість §Yполітичних радників§! і §Yзаконів§! на §G10%§!."
  FAT_advisors_no_longer:0 "§YПотенціальні радники-диверсанти§! більше не будуть доступні."
  FAT_CSN_EXISTS:0 "§CКонкордат вільних держав§! існує."
  FAT_WNG_EXISTS:0 "У Вінґбардії існує §Yліберальний§! уряд."
@@ -2880,7 +2880,7 @@
  FAT_guildedwing:0 "§RЖенев'єва Ґілдедвінґ§! виграє вибори!"
  FAT_kogchel:0 "§RҐербен Коґгель§! виграє вибори!"
  FAT_astler_again:0 "§CРікард Астлер§! виграє вибори!"
- FAT_di_karthin:0 "§YGabriella Di Karthin§! has won the Republican Elections!" # (!)
+ FAT_di_karthin: "§YҐабріелла ді Карфін§! виграє вибори!"
 
  FAT_EQS_refused_war_support:0 "Ігнорували нас"
  FAT_EQS_diplo_recognition:0 "Визнали нас"
@@ -2929,72 +2929,72 @@
  FAW_NTR_puppet_fascism_ADJ: "Еверфростськ"
  FAW_NTR_puppet_fascism_DEF: "Еверфростська республіка"
 
- NTR_FAW_puppet_monarchist:0 "Sovereign Realm of Everfrost"
- NTR_FAW_puppet_monarchist_DEF:0 "the Sovereign Realm of Everfrost"
- NTR_FAW_puppet_monarchist_ADJ:0 "Everfrostian"
- NTR_FAW_puppet_monarchist_GRD:0 "Sovereign Realm of Everfrost"
- NTR_FAW_puppet_monarchist_GRD_DEF:0 "the Sovereign Realm of Everfrost"
- NTR_FAW_puppet_monarchist_GRD_ADJ:0 "Everfrostian"
+ NTR_FAW_puppet_monarchist: "Суверенна держава Еверфрост"
+ NTR_FAW_puppet_monarchist_DEF: "Суверенна держава Еверфрост"
+ NTR_FAW_puppet_monarchist_ADJ: "Еверфростськ"
+ NTR_FAW_puppet_monarchist_GRD: "Суверенна держава Еверфрост"
+ NTR_FAW_puppet_monarchist_GRD_DEF: "Суверенна держава Еверфрост"
+ NTR_FAW_puppet_monarchist_GRD_ADJ: "Еверфростськ"
 
- NTR_FAW_MONARCH_LONG:0 "Crown of Everfrost"
- NTR_FAW_MONARCH:0 "Crown of Everfrost"
+ NTR_FAW_MONARCH_LONG: "Еверфростська Корона"
+ NTR_FAW_MONARCH: "Еверфростська Корона"
 
- NTR_FATASS_LONG:0 "Everfrost Administration"
- NTR_FATASS:0 "Administration"
- MIT_FATASS_LONG:0 "Asterion Administration"
- MIT_FATASS:0 "Administration"
+ NTR_FATASS_LONG: "Еверфростська адміністрація"
+ NTR_FATASS: "Адміністрація"
+ MIT_FATASS_LONG: "Астеріонська адміністрація"
+ MIT_FATASS: "Адміністрація"
 
- JER_FATASS_LONG:0 "Crown of Aquileia"
- JER_FATASS:0 "Crown of Aquileia"
+ JER_FATASS_LONG: "Аквілейська Корона"
+ JER_FATASS: "Аквілейська Корона"
 
- LCT_FATASS_C_LONG:0 "Riverlander People's Party"
- LCT_FATASS_C:0 "RPP"
- LCT_FATASS_D_LONG:0 "Liberal Democratic Front"
- LCT_FATASS_D:0 "LDF"
- LCT_FATASS_F_LONG:0 "Movement for Riverlander Unity"
- LCT_FATASS_F:0 "MRU"
- LCT_FATASS_N_LONG:0 "Constitutionalist Party of the Riverlands"
- LCT_FATASS_N:0 "CPR"
+ LCT_FATASS_C_LONG: "Народна партія Річкових земель"
+ LCT_FATASS_C: "НПРЗ"
+ LCT_FATASS_D_LONG: "Ліберально-демократичний фронт"
+ LCT_FATASS_D: "ЛДФ"
+ LCT_FATASS_F_LONG: "Рух за єдність Річкових земель"
+ LCT_FATASS_F: "РЄРЗ"
+ LCT_FATASS_N_LONG: "Конституціоналістська партія Річкових земель"
+ LCT_FATASS_N: "КПРЗ"
 
- EQC_FAW_puppet:0 "Commonwealth of New Mareland"
- EQC_FAT_puppet:0 "Commonwealth of New Mareland"
- MIT_FAT_puppet:0 "Republic of Asterion"
- MIT_FAW_puppet:0 "National Republic of Asterion"
- MIT_FAW_puppet_monarchist:0 "Kingdom of Asterion"
- LCT_FAT_puppet:0 "Federal Republic of the Riverlands"
- LCT_FAT_puppet_DEF:0 "the Federal Republic of the Riverlands"
- LCT_FAW_puppet:0 "Unitary Riverlands Republic"
- LCT_FAW_puppet_DEF:0 "the Unitary Riverlands Republic"
- LCT_FAW_puppet_monarchist:0 "United Kingdom of the Riverlands"
- LCT_FAW_puppet_monarchist_DEF:0 "the United Kingdom of the Riverlands"
- JER_FAW_puppet_monarchist:0 "Realm of Aquileia"
- JER_FAW_puppet_monarchist_DEF:0 "the Realm of Aquileia"
- JKR_FAW_puppet_monarchist:0 "United Kingdom of Karthinia"
- JKR_FAW_puppet_monarchist_DEF:0 "the United Kingdom of Karthinia"
- GRF_FAT_puppet:0 "Nova Griffonian Republic"
- GRF_FAW_puppet:0 "Mandate of Nova Griffonia"
- PLB_FAT_puppet:0 "Polar Republic"
- PLB_FAW_puppet:0 "Mandate Of The Boreal Wind"
- BRZ_FAT_puppet:0 "Autonomous Province of Bronzehill"
- JEV_FAW_puppet_monarchist:0 "Evian Commonwealth"
- JEV_FAW_puppet_monarchist_DEF:0 "the Evian Commonwealth"
+ EQC_FAW_puppet: "Співдружність Нового Мейрленду"
+ EQC_FAT_puppet: "Співдружність Нового Мейрленду"
+ MIT_FAT_puppet: "Республіка Астеріон"
+ MIT_FAW_puppet: "Національна республіка Астеріон"
+ MIT_FAW_puppet_monarchist: "Королівство Астеріон"
+ LCT_FAT_puppet: "Федеративна республіка Річкових земель"
+ LCT_FAT_puppet_DEF: "Федеративна республіка Річкових земель"
+ LCT_FAW_puppet: "Унітарна республіка Річкових земель"
+ LCT_FAW_puppet_DEF: "Унітарна республіка Річкових земель"
+ LCT_FAW_puppet_monarchist: "Сполучене королівство республіка Річкових земель"
+ LCT_FAW_puppet_monarchist_DEF: "Сполучене королівство республіка Річкових земель"
+ JER_FAW_puppet_monarchist: "Аквілейське царство"
+ JER_FAW_puppet_monarchist_DEF: "Аквілейське царство"
+ JKR_FAW_puppet_monarchist: "Сполучене королівство Карфінія"
+ JKR_FAW_puppet_monarchist_DEF: "Сполучене королівство Карфінія"
+ GRF_FAT_puppet: "Нова-Грифонська республіка"
+ GRF_FAW_puppet: "Мандат Нова-Грифонії"
+ PLB_FAT_puppet: "Полярна республіка"
+ PLB_FAW_puppet: "Мандат Північного Вітру"
+ BRZ_FAT_puppet: "Автономна провінція Бронзгілл"
+ JEV_FAW_puppet_monarchist: "Евійська співдружність"
+ JEV_FAW_puppet_monarchist_DEF: "Евійська співдружність"
 
 ### Puppet Leaders ###
- FAT_JER_guillaume:0 "Guillaume Discret"
- FAW_fiana:0 "Princess Fiana II"
- FAT_NTR_council:0 "Assembly of Everfrost"
- FAT_EQC_jet_set:0 "Jet Set"
- FAT_EQC_lufty_star:0 "Lufty Star"
- FAT_EQC_kingfisher:0 "Kingfisher"
- FAT_LCT_council:0 "Assembly of the Riverlands"
- FAT_MIT_council:0 "Provisional Authority of Asterion"
- FAT_GRF_council:0 "Republican Mandate of Nova Griffonia"
- FAT_PLB_council:0 "Assembly Of The Far North"
- FAT_BRZ_council:0 "Sweep Stake"
- FAT_BRZ_council_desc:0 "§YBorn§!: 10th January 982, Dushzirak, Bronzehill.\n\n§YBiography§!: From a poor pup growing up in the mountains to the first president of Bronzehill, Sweep Stake has seen a truly meteoric rise. Her origins are a mystery, and even her birth name is unknown as she insists on being called by her agent name from her later years. The only thing known from her youth is that she was once part of communist agitation groups, before switching sides and joining the police. Here, she was appreciated as a capable agent, quickly climbed the ranks and even becoming head of Bronzehill’s military intelligence.\n\nOnce the republic invaded and occupied the region, many expected her to retreat to the underground or even lead a resistance. However, to the shock of even close friends, the exact opposite happened: when the republic sought to set up Bronzehill as an autonomous region, she offered herself to lead the new government. Her credentials for this position were shaky at best, but as more established political figures declined to ever work under a republican government, she was installed as head of the autonomous province. While some in the republican leadership hoped to legitimize her via an election, this was quickly shot down as to avoid embarrassment.\n\nEver since, she has led Bronzehill’s fortunes for better or worse. She is well aware of her tenuous position and hence acts as pragmatically as possible in all aspects, while in return “her” citizens graciously pretend her government doesn’t exist. Her true motives for joining forces with the republic are still hotly debated, but perhaps this is just her latest game of high risk and high reward.\n\n§YPortrait By§!: Princess_Rari"
+ FAT_JER_guillaume: "Ґійом Діскрет"
+ FAW_fiana: "$NTR_princess_fiana_ii$"
+ FAT_NTR_council: "Асамблея Еверфросту"
+ FAT_EQC_jet_set: "$EQC_jet_set$"
+ FAT_EQC_lufty_star: "$EQC_lufty_star$"
+ FAT_EQC_kingfisher: "$EQC_kingfisher$"
+ FAT_LCT_council: "Асамблея Річкових земель"
+ FAT_MIT_council: "Тимчасова влада Астеріону"
+ FAT_GRF_council: "Республіканський мандат нова-Грифонії"
+ FAT_PLB_council: "Асамблея Крайньої півночі"
+ FAT_BRZ_council: "$BRZ_sweep_stake$"
+ FAT_BRZ_council_desc:0 "§YBorn§!: 10th January 982, Dushzirak, Bronzehill.\n\n§YBiography§!: From a poor pup growing up in the mountains to the first president of Bronzehill, Sweep Stake has seen a truly meteoric rise. Her origins are a mystery, and even her birth name is unknown as she insists on being called by her agent name from her later years. The only thing known from her youth is that she was once part of communist agitation groups, before switching sides and joining the police. Here, she was appreciated as a capable agent, quickly climbed the ranks and even becoming head of Bronzehill’s military intelligence.\n\nOnce the republic invaded and occupied the region, many expected her to retreat to the underground or even lead a resistance. However, to the shock of even close friends, the exact opposite happened: when the republic sought to set up Bronzehill as an autonomous region, she offered herself to lead the new government. Her credentials for this position were shaky at best, but as more established political figures declined to ever work under a republican government, she was installed as head of the autonomous province. While some in the republican leadership hoped to legitimize her via an election, this was quickly shot down as to avoid embarrassment.\n\nEver since, she has led Bronzehill’s fortunes for better or worse. She is well aware of her tenuous position and hence acts as pragmatically as possible in all aspects, while in return “her” citizens graciously pretend her government doesn’t exist. Her true motives for joining forces with the republic are still hotly debated, but perhaps this is just her latest game of high risk and high reward.\n\n§YPortrait By§!: Princess_Rari" # (!)
 
 ### Opinion Modifiers ###
- FAT_republican_pact_mod:0 "Together Against The Empire" # (!)
+ FAT_republican_pact_mod: "Разом супроти Імперії"
  FAT_republican_pact_call_refused:0 "Відмовилися дотримуватися Республіканського Пакту"
  FAT_republican_pact_against_us:0 "Підписаний Республіканський Пакт"
  FAT_research_group_name:0 "Грифонська дослідницька мережа"
@@ -3115,7 +3115,7 @@
  FAT_secessionist_herzland_formable_democratic_ADJ:0 "Herzlander"
 
 ###Decisions###
- FAT_our_history:0 "The History of the Republican Struggle" # (!)
+ FAT_our_history: "Історія республіканської боротьби"
  FAT_our_history_desc:0 "Республіка Грифонів має багату історію, сповнену конфліктів, боротьби і воєн. Починаючи від Революції 978 року до Великого Походу 979 року, закінчуючи Зрадою соціалістів у 986 році, було безліч конфліктів, які ледь не зруйнували нашу націю."
  FAT_foundings_of_the_national_republican_party:0 "970 — Заснування Національної Республіканської Партії"
  FAT_storming_of_the_imperial_palace:0 "Лютий 978 — Штурм Імператорського Палацу"
@@ -3276,14 +3276,14 @@
  FAT_lunatic_workbird:0 "Божевільний письменник"
  FAT_head_of_intelligence:0 "Шеф"
  FAT_head_of_intelligence_lar:0 "Шеф"
- FAT_grand_duchess_of_cloudbury:0 "Grand Duchess of Cloudbury" # (!)
- FAT_the_president_marshal:0 "The President-Marshal" # (!)
- FAT_mayorship_overseer:0 "Committee of Free Municipalities Overseer" # (!)
+ FAT_grand_duchess_of_cloudbury: "Велика герцогиня Клаудбері"
+ FAT_the_president_marshal: "Президент-маршал"
+ FAT_mayorship_overseer: "Наглядач Комітету вільних муніципалітетів"
 
  fatass_focus:0 "Древо фокусів Республіки Грифонів"
  fatass_suntail_empire_focus:0 "Древо фокусів Національної Республіки Грифонів Сантейла"
  #fatass_rosewing_empire_focus:0 "Древо фокусів Дуалістичної Монархії Роузвінґ"
  #концерни
 
- veteran_of_the_long_march_trait:0 "Veteran Of The Long March" # (!)
+ veteran_of_the_long_march_trait: "Ветеран Довгого походу"
  veteran_of_the_long_march_trait_desc:0 "This general is a veteran of the Long March, the long and painful retreat that saw the Republican Army flee northward across the Herzland, zigzagging past reorganized Imperial forces. No officer that survived the March is a pampered armchair general: they've been in the thick of it and grown accustomed to harsh frontline conditions." # (!)
