@@ -744,6 +744,148 @@
   DMT_butch: "Бутч"
   DMT_Great_Dane: "Дейнер"
 
+# country_EYE
+ ### АЛЬЯНСИ ###
+  #EYE_curad_faction:0 "Verdant Banner Treaty"
+  #EYE_gel_faction:0 "3-4-5 League"
+
+ ### КОСМЕТИЧНІ ТЕҐИ ###
+  EYE_communism: "Штормлендська визвольна армія"
+  EYE_communism_DEF: "Штормлендська визвольна армія"
+  EYE_communism_ADJ: "Штормлендськ"
+  EYE_fascism: "Домініон єті"
+  EYE_fascism_DEF: "Домініон єті"
+  EYE_fascism_ADJ: "Єтійськ"
+  EYE_neutrality: "Мандат Ока"
+  EYE_neutrality_DEF: "Мандат Ока"
+  EYE_neutrality_ADJ: "Мандатн"
+  EYE_democratic: "Мандат Ока"
+  EYE_democratic_DEF: "Мандат Ока"
+  EYE_democratic_ADJ: "Мандатн"
+
+  EYE_ALV_neutrality: "Конфедерація Великих Озер"
+  EYE_ALV_neutrality_DEF: "Конфедерація Великих Озер"
+  EYE_ALV_neutrality_ADJ: "Великоозерн"
+  EYE_ALV_democratic: "Федерація Великих Озер"
+  EYE_ALV_democratic_DEF: "Федерація Великих Озер"
+  EYE_ALV_democratic_ADJ: "Великоозерн"
+  EYE_ALV_communism: "Союз Великих Озер"
+  EYE_ALV_communism_DEF: "Союз Великих Озер"
+  EYE_ALV_communism_ADJ: "Великоозерн"
+  EYE_ALV_fascism: "Імперія Великих Озер"
+  EYE_ALV_fascism_DEF: "Імперія Великих Озер"
+  EYE_ALV_fascism_ADJ: "Великоозерн"
+
+  EYE_KRV_neutrality: "Гестрайська конфедерація"
+  EYE_KRV_neutrality_DEF: "Гестрайська конфедерація"
+  EYE_KRV_neutrality_ADJ: "Гестрайськ"
+  EYE_KRV_democratic: "Республіка Гестрая"
+  EYE_KRV_democratic_DEF: "Республіка Гестрая"
+  EYE_KRV_democratic_ADJ: "Гестрайськ"
+  EYE_KRV_communism: "СФР Гестраї"
+  EYE_KRV_communism_DEF: "Соціалістичні федеративні республіки Гестраї"
+  EYE_KRV_communism_ADJ: "Гестрайськ"
+  EYE_KRV_fascism: "Каркаданністан"
+  EYE_KRV_fascism_DEF: "Каркаданністан"
+  EYE_KRV_fascism_ADJ: "Каркаданністанськ"
+
+  EYE_RSZ_neutrality: "Різейська конфедерація"
+  EYE_RSZ_neutrality_DEF: "Різейська конфедерація"
+  EYE_RSZ_neutrality_ADJ: "Різейськ"
+  EYE_RSZ_democratic: "Республіка Різея"
+  EYE_RSZ_democratic_DEF: "Республіка Різея"
+  EYE_RSZ_democratic_ADJ: "Різейськ"
+  EYE_RSZ_communism: "Різейська соціалістична федерація"
+  EYE_RSZ_communism_DEF: "Різейська соціалістична федерація"
+  EYE_RSZ_communism_ADJ: "Різейськ"
+  EYE_RSZ_fascism: "Різея"
+  EYE_RSZ_fascism_DEF: "Різея"
+  EYE_RSZ_fascism_ADJ: "Різейськ"
+
+  EYE_REE_Revolt: "Різейський визвольний рух"
+  EYE_REE_Revolt_DEF: "Різея"
+  EYE_REE_Revolt_ADJ: "Різейськ"
+
+  #EYE_ZMD:0 "Great Lakes Military Directorate"
+  #EYE_ZMD_DEF:0 "the Great Lakes Military Directorate"
+  #EYE_ZMD_ADJ:0 "G.L.M.D."
+
+  #EYE_WDQ:0 "Wagaduzu Clique"
+  #EYE_WDQ_DEF:0 "the Wagaduzu Clique"
+  #EYE_WDQ_ADJ:0 "Wagaduzu"
+
+  #EYE_TXZ:0 "Twin Cities Extraction Zone"
+  #EYE_TXZ_DEF:0 "the Twin Cities Extraction Zone"
+  #EYE_TXZ_ADJ:0 "Twin Cities"
+
+  #EYE_OQG:0 "Osqat Governate"
+  #EYE_OQG_DEF:0 "the Osqat Governate"
+  #EYE_OQG_ADJ:0 "Osqati"
+
+  #EYE_YMG:0 "Yemane Governate"
+  #EYE_YMG_DEF:0 "the Yemane Governate"
+  #EYE_YMG_ADJ:0 "Yemanei"
+
+  #EYE_MGY:0 "Maregypt Military Junta"
+  #EYE_MGY_DEF:0 "the Maregyptian Military Junta"
+  #EYE_MGY_ADJ:0 "Maregyptian"
+
+  #EYE_CZR:0 "Zebharan Empire"
+  #EYE_CZR_DEF:0 "the Zebharan Empire"
+  #EYE_CZR_ADJ:0 "Zebharan"
+
+  #EYE_ABY:0 "Feline Slave State"
+  #EYE_ABY_DEF:0 "the Feline Slave State"
+  #EYE_ABY_ADJ:0 "Feline"
+
+  #EYE_ASS:0 "Holy Kingdom of Asstyria"
+  #EYE_ASS_DEF:0 "the Holy Kingdom of Asstyria"
+  #EYE_ASS_ADJ:0 "Asstyrian"
+
+  #EYE_gulf:0 "Gulf Legateship"
+  #EYE_gulf_DEF:0 "the Gulf Legateship"
+  #EYE_gulf_ADJ:0 "Gulf"
+
+  #EYE_SDF:0 "North Arabian Emirate"
+  #EYE_SDF_DEF:0 "the North Arabian Emirate"
+  #EYE_SDF_ADJ:0 "North Arabian"
+
+  #EYE_SDL:0 "State of Trotgiers"
+  #EYE_SDL_DEF:0 "the State of Trotgiers"
+  #EYE_SDL_ADJ:0 "South Arabian"
+
+  #EYE_EMR:0 "League of Central Arabian Provinces"
+  #EYE_EMR_DEF:0 "the League of Central Arabian Provinces"
+  #EYE_EMR_ADJ:0 "Central Arabian"
+
+  #EYE_MQA:0 "Zongolese Borderlands"
+  #EYE_MQA_DEF:0 "the Zongolese Borderlands"
+  #EYE_MQA_ADJ:0 "Zongolese"
+
+  #EYE_GIF:0 "Chisimbi Pirate Territory"
+  #EYE_GIF_DEF:0 "the Chisimbi Pirate Territory"
+  #EYE_GIF_ADJ:0 "Chisimbi"
+
+  #EYE_BLT:0 "Camelkand Overlordship"
+  #EYE_BLT_DEF:0 "the Camelkand Overlordship"
+  #EYE_BLT_ADJ:0 "Camel"
+
+  #EYE_KAR:0 "Karkadaestonia"
+  #EYE_KAR_DEF:0 "Karkadaestonia"
+  #EYE_KAR_ADJ:0 "Karkadaestonian"
+
+  #EYE_DEL:0 "Horrible Jungle"
+  #EYE_DEL_DEF:0 "the Horrible Jungle"
+  #EYE_DEL_ADJ:0 "Jungler"
+
+  #EYE_KXN:0 "Zaikirian Neo-Militarchy"
+  #EYE_KXN_DEF:0 "the Zaikirian Neo-Militarchy"
+  #EYE_KXN_ADJ:0 "Zaikirian"
+
+  #EYE_KIR:0 "Kirian Pacification Zone"
+  #EYE_KIR_DEF:0 "the Kirian Pacification Zone"
+  #EYE_KIR_ADJ:0 "Kirian"
+
 # country_FAT_aprilfool
  FAT_APRILFOOLS_fascism: "Єресь Донкло"
  FAT_APRILFOOLS_fascism_DEF: "Єресь Донкло"
@@ -1336,8 +1478,8 @@
   HYE_queendom_cosmetic_communism: "Гієнська федерація"
   HYE_queendom_cosmetic_communism_DEF: "Федерація Гієнія"
   HYE_queendom_cosmetic_communism_ADJ: "Гієнськ"
-  #HYE_queendom_cosmetic_fascism:0 "Qaylid Macalinate"
-  #HYE_queendom_cosmetic_fascism_DEF:0 "Qaylid Macalinate"
+  HYE_queendom_cosmetic_fascism: "Кайлідський макалінат"
+  HYE_queendom_cosmetic_fascism_DEF: "Кайлідський макалінат"
   HYE_queendom_cosmetic_fascism_ADJ: "Кайлідськ"
 
   HYE_stormlands_neutrality: "Велика Кайлідська держава"
@@ -1349,8 +1491,8 @@
   HYE_stormlands_communism: "Великий Кайлідський союз"
   HYE_stormlands_communism_DEF: "Великий Кайлідський союз"
   HYE_stormlands_communism_ADJ: "Кайлідськ"
-  #HYE_stormlands_fascism:0 "Great Qaylid Macalinate"
-  #HYE_stormlands_fascism_DEF:0 "Great Qaylid Macalinate"
+  HYE_stormlands_fascism: "Великий Кайлідський макалінат"
+  HYE_stormlands_fascism_DEF: "Великий Кайлідський макалінат"
   HYE_stormlands_fascism_ADJ: "Кайлідськ"
 
   HYE_CZR_dervish_puppet: "Дервіський Звадай"
@@ -1378,8 +1520,8 @@
   HYE_united_communism: "Союз Південної Зебрики"
   HYE_united_communism_DEF: "Союз Південної Зебрики"
   HYE_united_communism_ADJ: "Південнозебриканськ"
-  #HYE_united_fascism:0 "Great Qaylid Macalinate"
-  #HYE_united_fascism_DEF:0 "Great Qaylid Macalinate"
+  HYE_united_fascism: "Великий Кайлідський макалінат"
+  HYE_united_fascism_DEF: "Великий Кайлідський макалінат"
   HYE_united_fascism_ADJ: "Кайлідськ"
 
   HYE_fed_queendom_neutrality: "Королівство Гієнія" # qnd.
@@ -1391,8 +1533,8 @@
   HYE_fed_queendom_communism: "Федеративне королівство Гієнія" # qnd.
   HYE_fed_queendom_communism_DEF: "Федеративне королівство Гієнія" # qnd.
   HYE_fed_queendom_communism_ADJ: "Гієнськ"
-  #HYE_fed_queendom_fascism:0 "Qaylid Macalinate"
-  #HYE_fed_queendom_fascism_DEF:0 "Qaylid Macalinate"
+  HYE_fed_queendom_fascism: "Кайлідський макалінат"
+  HYE_fed_queendom_fascism_DEF: "Кайлідський макалінат"
   HYE_fed_queendom_fascism_ADJ: "Кайлідськ"
 
   HYE_confederation_neutrality: "Конфедерація королівств"
@@ -1404,9 +1546,9 @@
   HYE_confederation_communism: "Соціалістична конфедерація Південної Зебрики"
   HYE_confederation_communism_DEF: "Соціалістична конфедерація Південної Зебрики"
   HYE_confederation_communism_ADJ: "Конфедеративн"
-  #HYE_confederation_fascism:0 "Three-Throned Empire"
-  #HYE_confederation_fascism_DEF:0 "Three-Throned Empire"
-  #HYE_confederation_fascism_ADJ:0 "Three Throned"
+  HYE_confederation_fascism: "Імперія Трьох Престолів"
+  HYE_confederation_fascism_DEF: "Імперія Трьох Престолів"
+  HYE_confederation_fascism_ADJ: "Трипрестольн"
 
   HYE_UHZ: "Верхній Гейзебленд"
   HYE_UHZ_DEF: "Верхній Гейзебленд"
@@ -1420,17 +1562,17 @@
   HYE_UZE_DEF: "Королівство Узерасі"
   HYE_UZE_ADJ: "Узерасійськ"
 
-  #HYE_SCV:0 "Stormcloud Reconstruction Zone"
-  #HYE_SCV_DEF:0 "Stormcloud Reconstruction Zone"
-  #HYE_SCV_ADJ:0 "Stormcloud"
+  HYE_SCV: "Зона відновлення Грозових Хмар"
+  HYE_SCV_DEF: "Зона відновлення Грозових Хмар"
+  HYE_SCV_ADJ: "Грозохмарн"
 
-  #HYE_SCV_finished:0 "Stormcloud Principality"
-  #HYE_SCV_finished_DEF:0 "Stormcloud Principality"
-  #HYE_SCV_finished_ADJ:0 "Stormcloud"
+  HYE_SCV_finished: "Князівство Грозових Хмар"
+  HYE_SCV_finished_DEF: "Князівство Грозових Хмар"
+  HYE_SCV_finished_ADJ: "Грозохмарн"
 
-  #HYE_WDB:0 "Windborn Authority"
-  #HYE_WDB_DEF:0 "Windborn Authority"
-  #HYE_WDB_ADJ:0 "Windborn"
+  HYE_WDB: "Адміністрація Віндборну"
+  HYE_WDB_DEF: "Адміністрація Віндборну"
+  HYE_WDB_ADJ: "Віндборнськ"
 
   HYE_fed_finale_neutrality: "Сполучені Кайлідські Штати"
   HYE_fed_finale_neutrality_DEF: "Сполучені Кайлідські Штати"
@@ -1438,11 +1580,11 @@
   HYE_fed_finale_democratic: "Гармонійна Кайлідська федерація"
   HYE_fed_finale_democratic_DEF: "Гармонійна Кайлідська федерація"
   HYE_fed_finale_democratic_ADJ: "Кайлідськ"
-  #HYE_fed_finale_communism:0 "Grand Qaylidi Collective"
-  #HYE_fed_finale_communism_DEF:0 "Grand Qaylidi Collective"
+  HYE_fed_finale_communism: "Великий Кайлідський колектив"
+  HYE_fed_finale_communism_DEF: "Великий Кайлідський колектив"
   HYE_fed_finale_communism_ADJ: "Кайлідськ"
-  #HYE_fed_finale_fascism:0 "Great Qaylid Macalinate"
-  #HYE_fed_finale_fascism_DEF:0 "Great Qaylid Macalinate"
+  HYE_fed_finale_fascism: "Великий Кайлідський макалінат"
+  HYE_fed_finale_fascism_DEF: "Великий Кайлідський макалінат"
   HYE_fed_finale_fascism_ADJ: "Кайлідськ"
 
   HYE_GDL: "Велике князівство Великих Озер"
@@ -1505,9 +1647,9 @@
   HYE_KPS_DEF: "Рапсодійне князівство"
   HYE_KPS_ADJ: "Рапсодійн"
 
-  #HYE_fed_puppet_stormcloud:0 "Stormcloud Communities"
-  #HYE_fed_puppet_stormcloud_DEF:0 "Stormcloud Communities"
-  #HYE_fed_puppet_stormcloud_ADJ:0 "Stormcloud"
+  HYE_fed_puppet_stormcloud: "Спільноти Грозових Хмар"
+  HYE_fed_puppet_stormcloud_DEF: "Спільноти Грозових Хмар"
+  HYE_fed_puppet_stormcloud_ADJ: "Грозохмарн"
 
   HYE_fed_puppet_zwahile: "Зуагільська федерація"
   HYE_fed_puppet_zwahile_DEF: "Зуагільська федерація"
@@ -2699,14 +2841,427 @@
  SIC_MIT_bridge: "Еритсько-кеттський міст"
 
 # country_SLC
+ ### КОСМЕТИЧНІ ТЕҐИ ###
+  SLC_zeeb_revolt_neutrality: "Заколот узерасі"
+  SLC_zeeb_revolt_neutrality_DEF: "Заколот узерасі"
+  SLC_zeeb_revolt_neutrality_ADJ: "Узераськ"
+
+  SLC_CNT_puppet: "Директорат Ґарґілоя-Сентурія"
+  SLC_CNT_puppet_DEF: "Директорат Ґарґілоя-Сентурія"
+  SLC_CNT_puppet_ADJ: "Ґарґілойсько-сентурійськ"
+
+  SLC_HMR_puppet: "Директорат Riseia"
+  SLC_HMR_puppet_DEF: "Директорат Riseia"
+  SLC_HMR_puppet_ADJ: "Різейськ"
+
+  SLC_GL_west_puppet: "Директорат Південних Озер"
+  SLC_GL_west_puppet_DEF: "Директорат Південних Озер"
+  SLC_GL_west_puppet_ADJ: "Південноозерн"
+
+  SLC_GL_east_puppet: "Директорат Західних Озер"
+  SLC_GL_east_puppet_DEF: "Директорат Західних Озер"
+  SLC_GL_east_puppet_ADJ: "Західноозерн"
+
+  SLC_GL_north_puppet: "Директорат Східних Озер"
+  SLC_GL_north_puppet_DEF: "Директорат Східних Озер"
+  SLC_GL_north_puppet_ADJ: "Східноозерн"
+
+  SLC_strat_CNT_puppet_cos: "Військовий мандат Сентурії"
+  SLC_strat_CNT_puppet_cos_DEF: "Військовий мандат Сентурії"
+  SLC_strat_CNT_puppet_cos_ADJ: "Сентурійськ"
+
+  SLC_strat_GAR_puppet_cos: "Ґарґілойський військовий уряд"
+  SLC_strat_GAR_puppet_cos_DEF: "Ґарґілойський військовий уряд"
+  SLC_strat_GAR_puppet_cos_ADJ: "Ґарґілойськ"
+
+  SLC_strat_KAR_main_cos: "Каркаданністанська військова влада"
+  SLC_strat_KAR_main_cos_DEF: "Каркаданністанська військова влада"
+  SLC_strat_KAR_main_cos_ADJ: "Каркаданністанськ"
+
+  SLC_strat_AES_cos: "Естлонський морський гарнізон"
+  SLC_strat_AES_cos_DEF: "Естлонський морський гарнізон"
+  SLC_strat_AES_cos_ADJ: "Естлонськ"
+
+  SLC_strat_MTO_cos: "Мейртонська окупаційна влада"
+  SLC_strat_MTO_cos_DEF: "Мейртонська окупаційна влада"
+  SLC_strat_MTO_cos_ADJ: "Мейртонськ"
+
+  SLC_strat_KAR_border_cos: "Гестрайський фронтир"
+  SLC_strat_KAR_border_cos_DEF: "Гестрайський фронтир"
+  SLC_strat_KAR_border_cos_ADJ: "Гестрайськ"
+
+  SLC_strat_puppet_northeast_horse_cos: "Ємейнська військова рада"
+  SLC_strat_puppet_northeast_horse_cos_DEF: "Ємейнська військова рада"
+  SLC_strat_puppet_northeast_horse_cos_ADJ: "Ємейнськ"
+
+  SLC_strat_puppet_southeast_horse_cos: "Різейськ наглядова влада"
+  SLC_strat_puppet_southeast_horse_cos_DEF: "Різейськ наглядова влада"
+  SLC_strat_puppet_southeast_horse_cos_ADJ: "Різейськ"
+
+  SLC_strat_puppet_CZR_cos: "Зебхарський оборонний комітет"
+  SLC_strat_puppet_CZR_cos_DEF: "Зебхарський оборонний комітет"
+  SLC_strat_puppet_CZR_cos_ADJ: "Зебхарськ"
+
+  SLC_strat_puppet_upper_MGY_cos: "Влада Верхнього Мейргипту"
+  SLC_strat_puppet_upper_MGY_cos_DEF: "Влада Верхнього Мейргипту"
+  SLC_strat_puppet_upper_MGY_cos_ADJ: "Мейргипетськ"
+
+  SLC_strat_puppet_lower_MGY_cos: "Військове губернаторство Нижнього Мейргипту"
+  SLC_strat_puppet_lower_MGY_cos_DEF: "Військове губернаторство Нижнього Мейргипту"
+  SLC_strat_puppet_lower_MGY_cos_ADJ: "Мейргипетськ"
+
+  SLC_strat_puppet_camels_cos: "Військова адміністрація Кемелканду"
+  SLC_strat_puppet_camels_cos_DEF: "Військова адміністрація Кемелканду"
+  SLC_strat_puppet_camels_cos_ADJ: "Верблюдов"
+
+  SLC_storm_empire_cos: "Імперія Шторму"
+  SLC_storm_empire_cos_DEF: "Імперія Шторму"
+  SLC_storm_empire_cos_ADJ: "Єтійськ"
+
+  SLC_dual_monarchy_cos: "Співдружність Урагану"
+  SLC_dual_monarchy_cos_DEF: "Співдружність Урагану"
+  SLC_dual_monarchy_cos_ADJ: "Співдружн"
+
+  #SLC_commie_transitional_cos:0 "Revolutionary Directorate of Rainband"
+  #SLC_commie_transitional_cos_DEF:0 "Revolutionary Directorate of Rainband"
+  #SLC_commie_transitional_cos_ADJ:0 "Rainband"
+
+  SLC_commie_middle_cos: "Революційний директорат Південної Зебрики"
+  SLC_commie_middle_cos_DEF: "Революційний директорат Південної Зебрики"
+  SLC_commie_middle_cos_ADJ: "Південнозебриканськ"
+
+  SLC_commie_main_cos: "Зебриканська визвольна армія"
+  SLC_commie_main_cos_DEF: "Зебриканська визвольна армія"
+  SLC_commie_main_cos_ADJ: "Зебриканськ"
+
+  SLC_commie_end_PL0: "Сполучені Штати Зебрики"
+  SLC_commie_end_PL0_DEF: "Сполучені Штати Зебрики"
+  SLC_commie_end_PL0_ADJ: "Зебриканськ"
+
+  SLC_commie_end_PL0_Auth1: "Сполучені Штати Зебрики"
+  SLC_commie_end_PL0_Auth1_DEF: "Сполучені Штати Зебрики"
+  SLC_commie_end_PL0_Auth1_ADJ: "Зебриканськ"
+
+  SLC_commie_end_PL0_Auth2: "Сполучені Штати Зебрики"
+  SLC_commie_end_PL0_Auth2_DEF: "Сполучені Штати Зебрики"
+  SLC_commie_end_PL0_Auth2_ADJ: "Зебриканськ"
+
+  SLC_commie_end_PL0_Auth3: "Сполучені Штати Зебрики"
+  SLC_commie_end_PL0_Auth3_DEF: "Сполучені Штати Зебрики"
+  SLC_commie_end_PL0_Auth3_ADJ: "Зебриканськ"
+
+  SLC_commie_end_PL1: "Зебриканська революційна держава"
+  SLC_commie_end_PL1_DEF: "Зебриканська революційна держава"
+  SLC_commie_end_PL1_ADJ: "Зебриканськ"
+
+  SLC_commie_end_PL1_Auth1: "Зебриканська революційна держава"
+  SLC_commie_end_PL1_Auth1_DEF: "Зебриканська революційна держава"
+  SLC_commie_end_PL1_Auth1_ADJ: "Зебриканськ"
+
+  SLC_commie_end_PL1_Auth2: "Зебриканська революційна держава"
+  SLC_commie_end_PL1_Auth2_DEF: "Зебриканська революційна держава"
+  SLC_commie_end_PL1_Auth2_ADJ: "Зебриканськ"
+
+  SLC_commie_end_PL1_Auth3: "Зебриканська революційна держава"
+  SLC_commie_end_PL1_Auth3_DEF: "Зебриканська революційна держава"
+  SLC_commie_end_PL1_Auth3_ADJ: "Зебриканськ"
+
+  SLC_commie_end_PL2: "Великий Зебриканський союз"
+  SLC_commie_end_PL2_DEF: "Великий Зебриканський союз"
+  SLC_commie_end_PL2_ADJ: "Зебриканськ"
+
+  SLC_commie_end_PL2_Auth1: "Великий Зебриканський союз"
+  SLC_commie_end_PL2_Auth1_DEF: "Великий Зебриканський союз"
+  SLC_commie_end_PL2_Auth1_ADJ: "Зебриканськ"
+
+  SLC_commie_end_PL2_Auth2: "Великий Зебриканський союз"
+  SLC_commie_end_PL2_Auth2_DEF: "Великий Зебриканський союз"
+  SLC_commie_end_PL2_Auth2_ADJ: "Зебриканськ"
+
+  SLC_commie_end_PL2_Auth3: "Великий Зебриканський союз"
+  SLC_commie_end_PL2_Auth3_DEF: "Великий Зебриканський союз"
+  SLC_commie_end_PL2_Auth3_ADJ: "Зебриканськ"
+
+  SLC_commie_end_PL3: "Зебриканська конфедерація праці"
+  SLC_commie_end_PL3_DEF: "Зебриканська конфедерація праці"
+  SLC_commie_end_PL3_ADJ: "Зебриканськ"
+
+  SLC_commie_end_PL3_Auth1: "Зебриканська конфедерація праці"
+  SLC_commie_end_PL3_Auth1_DEF: "Зебриканська конфедерація праці"
+  SLC_commie_end_PL3_Auth1_ADJ: "Зебриканськ"
+
+  SLC_commie_end_PL3_Auth2: "Зебриканська конфедерація праці"
+  SLC_commie_end_PL3_Auth2_DEF: "Зебриканська конфедерація праці"
+  SLC_commie_end_PL3_Auth2_ADJ: "Зебриканськ"
+
+  SLC_commie_end_PL3_Auth3: "Зебриканська конфедерація праці"
+  SLC_commie_end_PL3_Auth3_DEF: "Зебриканська конфедерація праці"
+  SLC_commie_end_PL3_Auth3_ADJ: "Зебриканськ"
+
+  SLC_commie_end_PL4: "Сполучені Соціалістичні Штати"
+  SLC_commie_end_PL4_DEF: "Сполучені Соціалістичні Штати"
+  SLC_commie_end_PL4_ADJ: "Соціалістичн"
+
+  SLC_commie_end_PL4_Auth1: "Сполучені Соціалістичні Штати"
+  SLC_commie_end_PL4_Auth1_DEF: "Сполучені Соціалістичні Штати"
+  SLC_commie_end_PL4_Auth1_ADJ: "Соціалістичн"
+
+  SLC_commie_end_PL4_Auth2: "Сполучені Соціалістичні Штати"
+  SLC_commie_end_PL4_Auth2_DEF: "Сполучені Соціалістичні Штати"
+  SLC_commie_end_PL4_Auth2_ADJ: "Соціалістичн"
+
+  SLC_commie_end_PL4_Auth3: "Сполучені Соціалістичні Штати"
+  SLC_commie_end_PL4_Auth3_DEF: "Сполучені Соціалістичні Штати"
+  SLC_commie_end_PL4_Auth3_ADJ: "Соціалістичн"
+
+  SLC_commie_end_PL5: "Союз Революційних Робітничих Республік"
+  SLC_commie_end_PL5_DEF: "Союз Революційних Робітничих Республік"
+  SLC_commie_end_PL5_ADJ: "Революційн"
+
+  SLC_commie_end_PL5_Auth1: "Союз Революційних Робітничих Республік"
+  SLC_commie_end_PL5_Auth1_DEF: "Союз Революційних Робітничих Республік"
+  SLC_commie_end_PL5_Auth1_ADJ: "Революційн"
+
+  SLC_commie_end_PL5_Auth2: "Союз Революційних Робітничих Республік"
+  SLC_commie_end_PL5_Auth2_DEF: "Союз Революційних Робітничих Республік"
+  SLC_commie_end_PL5_Auth2_ADJ: "Революційн"
+
+  SLC_commie_end_PL5_Auth3: "Союз Революційних Робітничих Республік"
+  SLC_commie_end_PL5_Auth3_DEF: "Союз Революційних Робітничих Республік"
+  SLC_commie_end_PL5_Auth3_ADJ: "Революційн"
+
+  #SLC_commie_collapse_com:0 "Committee for Revolutionary Survival"
+  #SLC_commie_collapse_com_DEF:0 "Committee for Revolutionary Survival"
+  SLC_commie_collapse_com_ADJ: "Зебриканськ"
+
+  #SLC_commie_collapse_sup:0 "International Anti-Reactionary Front"
+  #SLC_commie_collapse_sup_DEF:0 "International Anti-Reactionary Front"
+  SLC_commie_collapse_sup_ADJ: "Зебриканськ"
+
+  #SLC_commie_collapse_na:0 "Union of Supranational Salvation"
+  #SLC_commie_collapse_na_DEF:0 "Union of Supranational Salvation"
+  SLC_commie_collapse_na_ADJ: "Зебриканськ"
+
+  SLC_commie_collapse_har: "Реорганізований уряд Зебрики"
+  SLC_commie_collapse_har_DEF: "Реорганізований уряд Зебрики"
+  SLC_commie_collapse_har_ADJ: "Зебриканськ"
+
+  SLC_collapse_great_lakes_puppet_cosmetic: "Федерація Великих Озер"
+  SLC_collapse_great_lakes_puppet_cosmetic_DEF: "Федерація Великих Озер"
+  SLC_collapse_great_lakes_puppet_cosmetic_ADJ: "Великоозерн"
+
+  SLC_collapse_hestraya_puppet_cosmetic: "Гестрайський союз"
+  SLC_collapse_hestraya_puppet_cosmetic_DEF: "Гестрайський союз"
+  SLC_collapse_hestraya_puppet_cosmetic_ADJ: "Гестрайськ"
+
+  SLC_collapse_saddle_arabia_puppet_cosmetic: "Арабійська республіка"
+  SLC_collapse_saddle_arabia_puppet_cosmetic_DEF: "Арабійська республіка"
+  SLC_collapse_saddle_arabia_puppet_cosmetic_ADJ: "Арабійськ"
+
+  SLC_collapse_riseia_puppet_cosmetic: "Різейська ліга"
+  SLC_collapse_riseia_puppet_cosmetic_DEF: "Різейська ліга"
+  SLC_collapse_riseia_puppet_cosmetic_ADJ: "Різейськ"
+
+  #SLC_collapse_abyssinia_puppet_cosmetic:0 "Fivefold State of Abyssinia, Asstyria, Anseruk, Manedalusia & Klugetown"
+  #SLC_collapse_abyssinia_puppet_cosmetic_DEF:0 "Fivefold State of Abyssinia, Asstyria, Anseruk, Manedalusia & Klugetown"
+  #SLC_collapse_abyssinia_puppet_cosmetic_ADJ:0 "Fivefold"
+
+  SLC_collapse_hazrumenia_puppet_cosmetic: "Сполучені Штати Хазруменії"
+  SLC_collapse_hazrumenia_puppet_cosmetic_DEF: "Сполучені Штати Хазруменії"
+  SLC_collapse_hazrumenia_puppet_cosmetic_ADJ: "Хазруменск"
+
+  SLC_collapse_hippogriffia_puppet_cosmetic: "Гіпогрифський директорат"
+  SLC_collapse_hippogriffia_puppet_cosmetic_DEF: "Гіпогрифський директорат"
+  SLC_collapse_hippogriffia_puppet_cosmetic_ADJ: "Гіпогрифськ"
+
+  SLC_collapse_colthage_puppet_cosmetic: "Зонікійська конфедерація"
+  SLC_collapse_colthage_puppet_cosmetic_DEF: "Зонікійська конфедерація"
+  SLC_collapse_colthage_puppet_cosmetic_ADJ: "Зонікійськ"
+
+  SLC_collapse_zebhara_puppet_cosmetic: "Зебхарська консоціація"
+  SLC_collapse_zebhara_puppet_cosmetic_DEF: "Зебхарська консоціація"
+  SLC_collapse_zebhara_puppet_cosmetic_ADJ: "Зебхарськ"
+
+  SLC_collapse_macawia_hindia_puppet_cosmetic: "Макавіансько-Гіндійська гіпердержава"
+  SLC_collapse_macawia_hindia_puppet_cosmetic_DEF: "Макавіансько-Гіндійська гіпердержава"
+  SLC_collapse_macawia_hindia_puppet_cosmetic_ADJ: "Макавіансько-Гіндійськ"
+
+  SLC_collapse_kiria_puppet_cosmetic: "Усекірійська співдружність"
+  SLC_collapse_kiria_puppet_cosmetic_DEF: "Усекірійська співдружність"
+  SLC_collapse_kiria_puppet_cosmetic_ADJ: "Кірінськ"
+
+  SLC_collapse_chisimbi_puppet_cosmetic: "Чісімбійська унітарна держава"
+  SLC_collapse_chisimbi_puppet_cosmetic_DEF: "Чісімбійська унітарна держава"
+  SLC_collapse_chisimbi_puppet_cosmetic_ADJ: "Чісімбійськ"
+
+  SLC_collapse_south_east_puppet_cosmetic: "Провінційна федерація Південно-Східної Зебрики"
+  SLC_collapse_south_east_puppet_cosmetic_DEF: "Провінційна федерація Південно-Східної Зебрики"
+  SLC_collapse_south_east_puppet_cosmetic_ADJ: "Південносхіднозебриканськ"
+
+  SLC_collapse_senturya_puppet_cosmetic: "Братні республіки Сентурії й Ґарґілої"
+  SLC_collapse_senturya_puppet_cosmetic_DEF: "Братні республіки Сентурії й Ґарґілої"
+  SLC_collapse_senturya_puppet_cosmetic_ADJ: "Сентурійсько-ґарґілойськ"
+
+  SLC_commie_collapse_left_side_utopia: "Непереможний марксистський союз Зебрики"
+  SLC_commie_collapse_left_side_utopia_DEF: "Непереможний марксистський союз Зебрики"
+  SLC_commie_collapse_left_side_utopia_ADJ: "Зебриканськ"
+
+  SLC_commie_collapse_right_side_utopia: "Усезебриканський федеративний союз"
+  SLC_commie_collapse_right_side_utopia_DEF: "Усезебриканський федеративний союз"
+  SLC_commie_collapse_right_side_utopia_ADJ: "Зебриканськ"
+
  SLC_stormleucus_icepaw: "Ібиз Айспо"
 
  SLC_fascism_party: "Кліка Айспо"
+ SLC_fascism_party_long: "Кліка Айспо"
  SLC_neutrality_party: "Кліка Айспо"
- SLC_democratic_party: "Племінні комітети"
- SLC_communism_party: "Ковалі єті"
+ SLC_neutrality_party_long: "Кліка Айспо"
 
 # country_SON
+ ### КОСМЕТИЧНІ ТЕҐИ ###
+  SON_great_lakes_tag_neutrality: "Королівство Зар-Гей"
+  SON_great_lakes_tag_neutrality_DEF: "Королівство Зар-Гей"
+  SON_great_lakes_tag_neutrality_ADJ: "Зар-Гейськ"
+  SON_great_lakes_tag_democratic: "Королівство Зар-Гей"
+  SON_great_lakes_tag_democratic_DEF: "Королівство Зар-Гей"
+  SON_great_lakes_tag_democratic_ADJ: "Зар-Гейськ"
+  SON_great_lakes_tag_communism: "Революційний фронт Великих Озер"
+  SON_great_lakes_tag_communism_DEF: "Революційний фронт Великих Озер"
+  SON_great_lakes_tag_communism_ADJ: "Великоозерн"
+  SON_great_lakes_tag_fascism: "Імперський Зар-Гей"
+  SON_great_lakes_tag_fascism_DEF: "Імперська держава Зар-Гей"
+  SON_great_lakes_tag_fascism_ADJ: "Зар-Гейськ"
+
+  SON_great_lakes_tag_2_neutrality: "Королівство Зар-Гей"
+  SON_great_lakes_tag_2_neutrality_DEF: "Королівство Зар-Гей"
+  SON_great_lakes_tag_2_neutrality_ADJ: "Зар-Гейськ"
+  SON_great_lakes_tag_2_democratic: "Королівство Зар-Гей"
+  SON_great_lakes_tag_2_democratic_DEF: "Королівство Зар-Гей"
+  SON_great_lakes_tag_2_democratic_ADJ: "Зар-Гейськ"
+  SON_great_lakes_tag_2_communism: "Революційний фронт Великих Озер"
+  SON_great_lakes_tag_2_communism_DEF: "Революційний фронт Великих Озер"
+  SON_great_lakes_tag_2_communism_ADJ: "Великоозерн"
+  SON_great_lakes_tag_2_fascism: "Імперський Зар-Гей"
+  SON_great_lakes_tag_2_fascism_DEF: "Імперська держава Зар-Гей"
+  SON_great_lakes_tag_2_fascism_ADJ: "Зар-Гейськ"
+
+  SON_great_lakes_tag_3_neutrality: "Королівство Великих Озер"
+  SON_great_lakes_tag_3_neutrality_DEF: "Королівство Великих Озер"
+  SON_great_lakes_tag_3_neutrality_ADJ: "Великоозерн"
+  SON_great_lakes_tag_3_democratic: "Федерація Великих Озер"
+  SON_great_lakes_tag_3_democratic_DEF: "Федерація Великих Озер"
+  SON_great_lakes_tag_3_democratic_ADJ: "Великоозерн"
+  SON_great_lakes_tag_3_communism: "Революційна держава Великих Озер"
+  SON_great_lakes_tag_3_communism_DEF: "Революційна держава Великих Озер"
+  SON_great_lakes_tag_3_communism_ADJ: "Великоозерн"
+  SON_great_lakes_tag_3_fascism: "Імперський Зар-Гей"
+  SON_great_lakes_tag_3_fascism_DEF: "Імперська держава Зар-Гей"
+  SON_great_lakes_tag_3_fascism_ADJ: "Зар-Гейськ"
+
+  SON_great_lakes_tag_4_neutrality: "Королівство Великих Озер"
+  SON_great_lakes_tag_4_neutrality_DEF: "Королівство Великих Озер"
+  SON_great_lakes_tag_4_neutrality_ADJ: "Великоозерн"
+  SON_great_lakes_tag_4_democratic: "Федерація Великих Озер"
+  SON_great_lakes_tag_4_democratic_DEF: "Федерація Великих Озер"
+  SON_great_lakes_tag_4_democratic_ADJ: "Великоозерн"
+  SON_great_lakes_tag_4_communism: "Революційна держава Великих Озер"
+  SON_great_lakes_tag_4_communism_DEF: "Революційна держава Великих Озер"
+  SON_great_lakes_tag_4_communism_ADJ: "Великоозерн"
+  SON_great_lakes_tag_4_fascism: "Корпоративна територія Нейлу"
+  SON_great_lakes_tag_4_fascism_DEF: "Корпоративна територія Нейлу"
+  SON_great_lakes_tag_4_fascism_ADJ: "Нейльськ"
+
+  SON_youre_red_now_neutrality: "Королівство Зар-Гей"
+  SON_youre_red_now_neutrality_DEF: "Королівство Зар-Гей"
+  SON_youre_red_now_neutrality_ADJ: "Зар-Гейськ"
+  SON_youre_red_now_democratic: "Королівство Зар-Гей"
+  SON_youre_red_now_democratic_DEF: "Королівство Зар-Гей"
+  SON_youre_red_now_democratic_ADJ: "Зар-Гейськ"
+  SON_youre_red_now_communism: "Революційний фронт Великих Озер"
+  SON_youre_red_now_communism_DEF: "Революційний фронт Великих Озер"
+  SON_youre_red_now_communism_ADJ: "Великоозерн"
+  SON_youre_red_now_fascism: "Імперський Зар-Гей"
+  SON_youre_red_now_fascism_DEF: "Імперська держава Зар-Гей"
+  SON_youre_red_now_fascism_ADJ: "Зар-Гейськ"
+
+  SON_STM_protectorate_neutrality: "Протекторат Земель Єті"
+  SON_STM_protectorate_neutrality_DEF: "Протекторат Земель Єті"
+  SON_STM_protectorate_neutrality_ADJ: "Єтійськ"
+  SON_STM_protectorate_democratic: "Протекторат Земель Єті"
+  SON_STM_protectorate_democratic_DEF: "Протекторат Земель Єті"
+  SON_STM_protectorate_democratic_ADJ: "Єтійськ"
+  SON_STM_protectorate_communism: "Протекторат Земель Єті"
+  SON_STM_protectorate_communism_DEF: "Протекторат Земель Єті"
+  SON_STM_protectorate_communism_ADJ: "Єтійськ"
+  SON_STM_protectorate_fascism: "Протекторат Земель Єті"
+  SON_STM_protectorate_fascism_DEF: "Протекторат Земель Єті"
+  SON_STM_protectorate_fascism_ADJ: "Єтійськ"
+
+  SON_YMN_protectorate_neutrality: "Західний протекторат"
+  SON_YMN_protectorate_neutrality_DEF: "Західний протекторат"
+  SON_YMN_protectorate_neutrality_ADJ: "Різейськ"
+  SON_YMN_protectorate_democratic: "Західний протекторат"
+  SON_YMN_protectorate_democratic_DEF: "Західний протекторат"
+  SON_YMN_protectorate_democratic_ADJ: "Різейськ"
+  SON_YMN_protectorate_communism: "Західний протекторат"
+  SON_YMN_protectorate_communism_DEF: "Західний протекторат"
+  SON_YMN_protectorate_communism_ADJ: "Різейськ"
+  SON_YMN_protectorate_fascism: "Західний протекторат"
+  SON_YMN_protectorate_fascism_DEF: "Західний протекторат"
+  SON_YMN_protectorate_fascism_ADJ: "Різейськ"
+
+  SON_CNT_protectorate_neutrality: "Східний протекторат"
+  SON_CNT_protectorate_neutrality_DEF: "Східний протекторат"
+  SON_CNT_protectorate_neutrality_ADJ: "Східн"
+  SON_CNT_protectorate_democratic: "Східний протекторат"
+  SON_CNT_protectorate_democratic_DEF: "Східний протекторат"
+  SON_CNT_protectorate_democratic_ADJ: "Східн"
+  SON_CNT_protectorate_communism: "Східний протекторат"
+  SON_CNT_protectorate_communism_DEF: "Східний протекторат"
+  SON_CNT_protectorate_communism_ADJ: "Східн"
+  SON_CNT_protectorate_fascism: "Східний протекторат"
+  SON_CNT_protectorate_fascism_DEF: "Східний протекторат"
+  SON_CNT_protectorate_fascism_ADJ: "Східн"
+
+  #SON_STM_protectorate_2_neutrality:0 "Republic of Rainband"
+  #SON_STM_protectorate_2_neutrality_DEF:0 "Republic of Rainband"
+  SON_STM_protectorate_2_neutrality_ADJ: "Єтійськ"
+  #SON_STM_protectorate_2_democratic:0 "Republic of Rainband"
+  #SON_STM_protectorate_2_democratic_DEF:0 "Republic of Rainband"
+  SON_STM_protectorate_2_democratic_ADJ: "Єтійськ"
+  #SON_STM_protectorate_2_communism:0 "People's Republic of Rainband"
+  #SON_STM_protectorate_2_communism_DEF:0 "People's Republic of Rainband"
+  SON_STM_protectorate_2_communism_ADJ: "Єтійськ"
+  #SON_STM_protectorate_2_fascism:0 "Yeti Ice Cream® Company Holdings"
+  #SON_STM_protectorate_2_fascism_DEF:0 "Yeti Ice Cream® Company Holdings"
+  SON_STM_protectorate_2_fascism_ADJ: "Єтійськ"
+
+  SON_YMN_protectorate_2_neutrality: "Різейська республіка"
+  SON_YMN_protectorate_2_neutrality_DEF: "Різейська республіка"
+  SON_YMN_protectorate_2_neutrality_ADJ: "Різейськ"
+  SON_YMN_protectorate_2_democratic: "Різейська республіка"
+  SON_YMN_protectorate_2_democratic_DEF: "Різейська республіка"
+  SON_YMN_protectorate_2_democratic_ADJ: "Різейськ"
+  SON_YMN_protectorate_2_communism: "Різейська соціалістична республіка"
+  SON_YMN_protectorate_2_communism_DEF: "Різейська соціалістична республіка"
+  SON_YMN_protectorate_2_communism_ADJ: "Різейськ"
+  SON_YMN_protectorate_2_fascism: "Різейська корпоративна зона"
+  SON_YMN_protectorate_2_fascism_DEF: "Різейська корпоративна зона"
+  SON_YMN_protectorate_2_fascism_ADJ: "Різейськ"
+
+  SON_CNT_protectorate_2_neutrality: "Федерація Сентурії-Ґарґілої"
+  SON_CNT_protectorate_2_neutrality_DEF: "Федерація Сентурії-Ґарґілої"
+  SON_CNT_protectorate_2_neutrality_ADJ: "Сентурійсько-ґарґілойськ"
+  SON_CNT_protectorate_2_democratic: "Федерація Сентурії-Ґарґілої"
+  SON_CNT_protectorate_2_democratic_DEF: "Федерація Сентурії-Ґарґілої"
+  SON_CNT_protectorate_2_democratic_ADJ: "Сентурійсько-ґарґілойськ"
+  SON_CNT_protectorate_2_communism: "Федерація Сентурії-Ґарґілої"
+  SON_CNT_protectorate_2_communism_DEF: "Федерація Сентурії-Ґарґілої"
+  SON_CNT_protectorate_2_communism_ADJ: "Сентурійсько-ґарґілойськ"
+  SON_CNT_protectorate_2_fascism: "Зона вільної торгівлі Сентурії-Ґарґілої"
+  SON_CNT_protectorate_2_fascism_DEF: "Зона вільної торгівлі Сентурії-Ґарґілої"
+  SON_CNT_protectorate_2_fascism_ADJ: "Сентурійсько-ґарґілойськ"
+
  SON_zonni_zolon: "Зонні Золон"
  SON_regency_council: "Регентська рада"
  SON_angry_mob: "$BAR_angry_mob$"
@@ -2721,6 +3276,8 @@
  STM_fascism_party_long: "Кліка Гейлсторма"
  STM_neutrality_party: "Кліка Гейлсторма"
  STM_neutrality_party_long: "Кліка Гейлсторма"
+ STM_democratic_party: "Племінні комітети"
+ STM_communism_party: "Ковалі єті"
 
 # country_TIM
  TIM_agil_agamal: "Аґіл Аґамал"
