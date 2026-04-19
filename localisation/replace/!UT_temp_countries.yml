@@ -124,12 +124,12 @@
   ABY_COM_ALLIANCE: "Визвольний альянс північно-західної Зебрики"
 
  ### ПАРТІЇ ###
-  ABY_neutrality_party: "Клоомонова династія"
-  ABY_neutrality_party_long: "Клоомонова династія"
+  ABY_neutrality_party: "Пазуромонова династія"
+  ABY_neutrality_party_long: "Пазуромонова династія"
   ABY_communism_party: "Розгнівані раби"
   ABY_communism_party_long: "Розгнівані раби"
-  ABY_democratic_party: "Клоомонова династія"
-  ABY_democratic_party_long: "Клоомонова династія"
+  ABY_democratic_party: "Пазуромонова династія"
+  ABY_democratic_party_long: "Пазуромонова династія"
   ABY_fascism_party: "Династія Кітве"
   ABY_fascism_party_long: "Династія Кітве"
   ABY_communist_party_organized: "ОРФ"
@@ -146,8 +146,8 @@
  ### ПЕРСОНАЖІ ###
  ABY_taile_sehissie_clawomonid: "Ґомез Нявконнин"
   ABY_slave_leader: "Шарп Спір"
-  ABY_catrina_catwe: "Катріна Таббі"
-  ABY_catra_meowmeow: "Катра Нявняв"
+  ABY_catrina_catwe: "Кітріна Таббі"
+  ABY_catra_meowmeow: "Кітра Нявняв"
   ABY_queen_morticia: "Мортіція Аддісу"
   ABY_nathaniel_claw: "Натаніел Кло"
 
