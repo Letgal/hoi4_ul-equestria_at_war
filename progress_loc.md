@@ -80,6 +80,7 @@
 + [ ] `victory_points` (один рядок)
 
 ## Файли країн
++ [x] `country_ABY` (переклав *Bovcun*) — `(&)`
 + [x] `country_AET` (переклав [*StasJesus*](https://steamcommunity.com/profiles/76561198867405533))
 + [ ] `country_ARA` (переклав [*Bovcun*](https://github.com/Bovcun-A)) — `(&)`
 + [x] `country_ANG` (переклав *StasJesus*) — `(&)`

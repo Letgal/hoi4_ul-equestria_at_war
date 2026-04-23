@@ -272,6 +272,7 @@
  silent_workgriffon2: "$silent_workgriffon$"
  silent_workgoat: "Робочий козлик"
  silent_workirin: "Робочий кірінчик"
+ silent_workyeti: "Робочий єті"
  silent_workbear: "Робочий ведмедик"
  silent_workzebra: "Робочий зебрик"
  popular_figurehead1: "$popular_figurehead$"
@@ -308,6 +309,9 @@
 
  renowned_marksdog:0 "Известный стрелок-пёс"
  renowned_marksdog_desc:0 "§LЭтот командир является профессионалом в точной стрельбе и с удовольствием делится своими знаниями и навыками с войсками под своим командованием.§!"
+
+ renowned_markscat:0 "Известный стрелок-кот"
+ renowned_markscat_desc:0 "§LЭтот командир является профессионалом в точной стрельбе и с удовольствием делится своими знаниями и навыками с войсками под своим командованием.§!"
 
  trait_nestor_lunin:0 "Командир-универсал"
  trait_nestor_lunin_desc:0 "§LИмел возможность командовать, как пехотой, так и авиацией в прошлом. Он знает как грамотно использовать авиацию, чтобы эффективно прорываться через порядки врага.§!"
@@ -485,6 +489,9 @@
  diehard_revolutionary:0 "Несгибаемый революционер"
  mother_of_the_republic: "Мати республіки"
 
+ sorcerer_trait:0 "Чародей"
+ lawgiver_trait:0 "Законник"
+
  zarcid_supporter: "Заркід"
  zarcid_supporter_desc:0 "§LЭта личность является частью чрезвычайно могучей семьи Заркидов.§!"
  traditionalist_supporter: "Традиціоналіст"
@@ -566,6 +573,7 @@ Yal_skeleton_king_army_leader_desc:0 "§LСражение под началом 
  human_race_trait_desc: "§LЛюди — це двоногі мавпи. Чесно кажучи, від них дуже тхне.§!"
 
  zebrican_close_combat_expert:0 "Эксперт по ближнему бою из Зебрики"
+ alt_zebrican_close_combat_expert: "$zebrican_close_combat_expert$"
  field_surgeon: "Польовий хірург"
 
  drug_dealer:0 "Поставщица наркотиков для армии"

@@ -56,6 +56,7 @@
  modifier_army_sub_unit_magical_infantry_attack_factor: "Атака магічної піхоти"
  modifier_army_sub_unit_magical_infantry_defence_factor: "Захист магічної піхоти"
  modifier_army_sub_unit_magical_infantry_speed_factor: "Швидкість магічної піхоти"
+ modifier_army_sub_unit_category_magical_infantry_max_org_factor: "Організація магічної піхоти"
 
  modifier_army_sub_unit_magical_motorized_attack_factor: "Атака магічної мотопіхоти"
  modifier_army_sub_unit_magical_motorized_defence_factor: "Захист магічної мотопіхоти"
@@ -242,6 +243,11 @@
  modifier_production_cost_max_ship_hull_submarine: "Максимальна вартість підводних човнів"
 
 # Vanilla Fixed Tooltips
+ air_strategic_bomber_defense_factor_tt: " $MODIFIER_STRATEGIC_BOMBER_DEFENCE_FACTOR$: $RIGHT|+=%1$"
+ land_reinforce_rate_tt: " $MODIFIER_LAND_REINFORCE_RATE$: $RIGHT|+=%1$"
+ #navy_capital_ship_attack_factor_tt: " $MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR$: $RIGHT|+=%1$"
+ send_volunteers_size_tt: " $MODIFIER_SEND_VOLUNTEER_SIZE$: $RIGHT|+=0$"
+ army_leader_start_level_tt: " $MODIFIER_ARMY_LEADER_START_LEVEL$: $RIGHT|G=0$"
  no_supply_grace_tt: " $MODIFIER_NO_SUPPLY_GRACE$ $RIGHT|+=1$ год"
  navy_weather_penalty_tt: " $MODIFIER_NAVY_WEATHER_PENALTY$: $RIGHT|-=%1$"
  strategic_bomb_visibility_tt: " Помітність при стратегічному бомбардуванні: $RIGHT|-=%1$" # (&?)
@@ -251,3 +257,21 @@
  critical_receive_chance_tt: " $MODIFIER_NAVAL_CRITICAL_RECEIVE_CHANCE_FACTOR$: $RIGHT|-=%1$"
  mines_sweeping_by_fleets_factor_tt: " $MODIFIER_MINES_SWEEPING_BY_FLEETS_FACTOR$: $RIGHT|+=%1$"
  naval_attrition_tt: " $MODIFIER_NAVAL_ATTRITION_FACTOR$: $RIGHT|-=%1$"
+ naval_retreat_speed_tt: " $MODIFIER_NAVAL_RETREAT_SPEED$: §G$RIGHT|=%$§!"
+ air_mastery_gain_factor_tt: " Множник приросту майстерності авіації: $RIGHT|+=%1$" # скорочено від повних доктрин
+ naval_mastery_gain_factor_tt: " Множник приросту майстерності флоту: $RIGHT|+=%1$" # скорочено від повних доктрин
+ army_strength_factor_tt: " $MODIFIER_ARMY_STRENGTH$: $RIGHT|+=%1$"
+ experience_gain_army_unit_factor_tt: " $MODIFIER_XP_GAIN_ARMY_UNIT$: $RIGHT|+=%1$"
+ fascism_acceptance_tt: " $fascism_acceptance$: $RIGHT|+=0$"
+ neutrality_acceptance_tt: " $neutrality_acceptance$: $RIGHT|+=0$"
+ democratic_acceptance_tt: " $democratic_acceptance$: $RIGHT|+=0$"
+ communism_acceptance_tt: " $communism_acceptance$: $RIGHT|+=0$"
+ resistance_garrison_penetration_chance_tt: " $MODIFIER_RESISTANCE_GARRISON_PENETRATION_CHANCE$: $RIGHT|-=%1$"
+ stability_weekly_tt: " $MODIFIER_STABILITY_WEEKLY_FACTOR$: $RIGHT|+=%2$"
+ required_garrison_factor_tt: " $MODIFIER_REQUIRED_GARRISON_FACTOR$: $RIGHT|-=%2$"
+
+#Day/nigh effects
+ EaW_eternal_night: "§1Ніч триватиме вічно!§!"
+ EaW_eternal_day: "§OДень триватиме вічно!§!"
+ EaW_eternal_night_end: "§1Вічна ніч закінчиться.§!"
+ EaW_eternal_day_end: "§OВічний день закінчиться.§!"
