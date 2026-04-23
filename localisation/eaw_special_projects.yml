@@ -46,16 +46,22 @@ form_department_tooltip: "Виконано поліпшення агентств
  sp_land_heavy_sam_desc:0 "With enemy bombers getting ever deadlier and faster, a strong response is required. Deploying the best anti-air missiles we have throughout our army will make striking our troops a truly daunting task."
  sp_land_hydropneumatic_suspension: "Гідропневматична підвіска"
  sp_land_hydropneumatic_suspension_desc:0 "The ultimate in tank suspension, by using a combination of liquids and gasses we can create a reliable, fast, and stealthy system."
+ sp_land_hydropneumatic_suspension_non_nsb_tt: "Відмикає величини 6 і 7 для поліпшення двигуна танка."
  sp_land_composite_armor: "Композитна броня"
  sp_land_composite_armor_desc:0 "As HEAT shells become more and more common, a new defense is required for our tanks. The idea of inserting silica glass between rolled steel is appealing, though it will likely prove expensive."
- sp_land_advanced_modern_turret: "Удосконалена сучасна башта"
+ sp_land_composite_armor_non_nsb_tt: "Відмикає величини 6 і 7 для поліпшення броні танка."
+ sp_land_advanced_modern_turret: "Удосконалена сучасна танкова башта"
  sp_land_advanced_modern_turret_desc:0 "As tanks continue to engage at farther and farther ranges, a modernized version of the modern turret is appealing. It would be able to mount even guns once restricted to super-heavy tanks, as well as allowing higher visibility."
+ sp_land_advanced_modern_turret_non_nsb_tt: "Відмикає величини 6 і 7 для поліпшення головної гармати й озброєння танка."
  sp_land_hardened_missile_silo:0 "Hardened Missile Silos"
  sp_land_hardened_missile_silo_desc:0 "Buried launch platforms in hardened bunkers, accompanied by a protected command and control, and maintenance facilities, will make the ultimate land-based ballistic missiles launch platform."
  sp_land_infantry_mobility_vehicles:0 "Infantry Mobility Vehicles"
  sp_land_infantry_mobility_vehicles_desc:0 "Recent advances in military doctrine have raised the question of a mine-protected ambush-resistant vehicle. Such a truck would be ideal for policing in low-intensity conflicts as well as carrying key supplies through dangerous territory. Dubbed an "infantry mobility vehicle", it may well be worth investigating."
 
  ANTI_AIR_INFANTRY_BOOST: "Уся звичайна та моторизована/механізована піхота здобуде малий приріст §Yпротиповітряної атаки§!."
+
+ sp_artillery_precision_guided_shells_tech:0 "Precision-Guided Shells"
+ sp_artillery_precision_guided_shells_tech_desc:0 "Advances in terminal guidance and miniaturization of computers have made possible precision-guided artillery, capable of hitting exactly where it is directed to. This in turn sharply reduces the logistical impact of artillery, as far fewer shells allow for the same firepower."
 
 ############################
 ### GENERIC LAND REWARDS ###
@@ -99,6 +105,7 @@ form_department_tooltip: "Виконано поліпшення агентств
  abm_system_tech:0 "Anti-Ballistic Missile System"
  sp_rockets_air_to_air_missile: "Ракета класу «повітря–повітря»"
  sp_rockets_air_to_air_missile_desc:0 "As electronics become smaller, the once-absurd idea of a guided missile able to be carried by a fighter is in reach of becoming real. This would also open the door to other guided munitions."
+ sp_rockets_air_to_air_missile_non_bba_tt: "Відмикає величини 6 і 7 для поліпшення озброєння винищувача."
  sp_rockets_anti_radiation_missile: "Anti-Radiation Missile"
  sp_rockets_anti_radiation_missile_desc: "While the destructive power of our strike aircraft remains unmatched, they have unfortunately become more and more vulnerable as they carry more and more weaponry. An interesting solution has been proposed: a missile that will home in on active radar signals and destroy them. This would give our pilots a large amount of breathing room!"
  sp_rockets_air_launched_cruise_missile: "Air-Launched Cruise Missile"
@@ -118,6 +125,7 @@ form_department_tooltip: "Виконано поліпшення агентств
 ######################
  sp_naval_supercarrier: "Суперавіаносець"
  sp_naval_supercarrier_desc:0 "The ultimate in naval power projection, a Supercarrier would be capable of holding many more planes than even the largest of our current carriers. Of course, it would also cost far more."
+ sp_naval_super_carrier_free_design: "Суперавіаносець"
  sp_naval_hovercraft: "Судно на повітряній подушці"
  sp_naval_hovercraft_desc:0 "The hovercraft aims to 'fly' just above any level surface - be it land or sea - essentially by pushing away from it with an air cushion. Currently our prototypes are capable of transporting troops across the water far faster than traditional landing craft whilst maintaining a low profile. Additionally, a mounted machine gun or grenade launcher may make this vehicle relatively formidable in an infantry support role during landing operations."
  sp_naval_ciws:0 "Close-In Weapon System"
@@ -172,6 +180,14 @@ form_department_tooltip: "Виконано поліпшення агентств
 ###########################
 ### AIR PROJECT REWARDS ###
 ###########################
+ sp_air_advanced_jet_engine_unique_reward:0 "Development Déjà Vu Two"
+ sp_air_advanced_jet_engine_unique_reward_desc:0 "It is happening again. It is happening AGAIN. We are once again standing at the dilemma - should we focus on one type of the planes or try to have a more universal solution?"
+ sp_air_advanced_jet_engine_preference_fighter:0 "Fighters"
+ sp_air_advanced_jet_engine_preference_compromise:0 "Universal Solution"
+ sp_air_advanced_jet_engine_preference_bomber:0 "Bombers"
+ sp_air_jet_engine_fighter_3:0 "Turbofan Jet-Engine - Fighter Focus"
+ sp_air_jet_engine_compromise_3:0 "Turbofan Jet-Engine - General Improvements"
+ sp_air_jet_engine_bomber_3:0 "Turbofan Jet-Engine - Bomber Focus"
 
 #########################
 ###  МАГІЧНІ ПРОЄКТИ  ###

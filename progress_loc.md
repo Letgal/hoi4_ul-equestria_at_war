@@ -18,6 +18,7 @@
 + [x] `eaw_bop`
 + [ ] `eaw_buildings`
 + [ ] `eaw_capitulation_quotes` (кілька рядків не)
++ [ ] ~~`eaw_career_profile_achievements`~~ (переклад не потребує, поки що)
 + [ ] `eaw_changeling_techs`
 + [ ] `eaw_cityfall`
 + [ ] `eaw_decisions`
@@ -76,7 +77,7 @@
 + [x] `strategic_region_names`
 + [x] `unit_leader_stat_tooltips`
 + [ ] `unit_medals`
-+ [x] `victory_points`
++ [ ] `victory_points` (один рядок)
 
 ## Файли країн
 + [x] `country_AET` (переклав [*StasJesus*](https://steamcommunity.com/profiles/76561198867405533))
@@ -147,12 +148,14 @@
 + [x] `country_JFT`
 + [x] `country_JRR`
 + [ ] `country_JUN` (переклав *Green Kitten*) — `(&+)`
++ [x] `country_KAR`
 + [x] `country_KAT` (переклав *StasJesus*) — `(&)`
 + [x] `country_KIR_PSOL_alerts`
 + [x] `country_LAK` (переклав *Bovcun*)
 + [x] `country_LSP` (переклав *Green Kitten*)
 + [x] `country_LUS` (переклав *Bovcun*) — `(&) (&!)`
 + [x] `country_MAN&ELF`<!--  (@max) -->
++ [ ] ~~`country_MCW`~~
 + [x] `country_MIT` (переклав *Green Kitten*)
 + [x] `country_MNC` (переклав *Bovcun*) — `(&)`
 + [ ] `country_MTA` (умовно завершено)

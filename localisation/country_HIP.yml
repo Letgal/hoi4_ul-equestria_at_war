@@ -5421,6 +5421,7 @@
  HIP_exotic_weapons_division_0:0 "Відділ екзотичної зброї"
  HIP_exotic_weapons_division:0 "Відділ екзотичної зброї"
  HIP_lightstar_motor_company: "Lightstar Motor Company"
+ HIP_bluewhirl_locomotive_works_organization: "Bluewhirl Locomotive Works"
  HIP_royal_island_arsenal:0 "Арсенал Королівського Острова"
  HIP_clawes_naval_yard:0 "Верф Клоз"
  HIP_electric_boat_company: "Electric Boat Company"
@@ -6274,7 +6275,7 @@
  HIP_this_will_be_useful_tt:0 "Це може виявитися §Gдуже корисним§! для наших майбутніх амбіцій."
  HIP_absolute_loyalty_tt:0 "При завершенні §Rчисток§! наша армія отримає §Yзначні переваги§!."
  HIP_twenty_year_tt:0 "Через двадцять років нас ніхто §Yне зупинить!§!"
- HIP_gbp_left_tt:0 "The §Hgrand doctrine§! will be replaced with the §R$grand_battleplan$§! grand doctrines. All §Ymilestones§! of unlocked §Ysub-doctrines§! will be preserved as much as possible." # (!)
+ HIP_gbp_left_tt:0 "The §Hgrand doctrine§! will be replaced with the §RGrand Battleplan§! doctrine. All §Ymilestones§! of unlocked §Ysub-doctrines§! will be preserved as much as possible." # (!)
  HIP_razorbeak_hates_seaponies_tt:0 "Будівництво §Yпідводних будівель§! тепер вартуватиме 120 одиниць §Yполітичної влади§!"
  posada_tree_1:0 "Перша фаза реалізації цілей РРП була досягнута"
  posada_tree_2:0 "Друга фаза реалізації цілей РРП була досягнута"

@@ -159,6 +159,9 @@
  scout_helicopter_equipment_2_desc:0 "Lighter weight from new material composites, as well as heavier armaments, let this helicopter survive to report back."
 
 ### МАГІЧНЕ ПІХОТНЕ СПОРЯДЖЕННЯ ###
+ magical_equipment_0: "Експериментальні магічні гвинтівки"
+ magical_equipment_0_short: "Експер. маг. гвинтівки"
+ magical_equipment_0_desc:0 "Magic is inherent to most sapient life, but not everyone can harness it as a weapon. Innovative designs in firearms have led to the invention of the magic rifle, a gun that uses specially imbued crystal-based cartridges to launch devastating spells against enemies. However, sustained fire makes the rifle prone to malfunctions due to the finicky nature of magic crystals. Despite its questionable reliability, the field of magic firearms is nascent and is bound to improve on these early designs."
  magical_equipment: "Магічне піхотне спорядження"
  magical_equipment_short: "Магічне спор."
  magical_equipment_desc: "Магічне спорядження майже не відрізняється від звичайного, за одним винятком: ця зброя використовує кристалічні боєприпаси та вистрілює смертоносні заклинання замість кінетичних снарядів." # (@!)

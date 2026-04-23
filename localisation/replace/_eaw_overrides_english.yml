@@ -488,8 +488,10 @@
 
  #modifiers_l
   democratic_drift: "Щоденна підтримка гармонії"
+  democratic_drift_from_guarantees: "Ріст зарубіжної гармонії від гарантій"
   democratic_acceptance: "Прийняття дипломатичних дій гармоністів"
   fascism_drift: "Щоденна підтримка зверхності"
+  fascism_drift_from_guarantees: "Ріст зарубіжного супремасизму від гарантій"
   fascism_acceptance: "Прийняття дипломатичних дій прихильників зверхності" # (&+)
   MODIFIER_LOCAL_MANPOWER: "Місцеві поні-ресурси"
   MODIFIER_CONSCRIPTION_FACTOR_DESC: "Модифікатор кількості доступних із регіонів поні-ресурсів."
@@ -688,6 +690,7 @@
   tsars_puppet:0 "Speaker at the Gate"
   SWI_soviet_spy: "Сталліонградський шпигун"
   the_director: "Директор"
+  IRQ_fliegerfuhrer: "Fliegerführer \n(експерт)"
   substance_addict_desc:1 "§LThis person's addiction is clearly affecting their judgement, and not in a good way.§!"
   commando_desc:0 "§LSkilled in Amphibious operations, Air Assaults, and Cold weather conditions - the Commando is a person of many talents.§!"
   operative_master_interrogator_desc: "Цей агент може розговорити будь-кого."

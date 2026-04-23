@@ -65,6 +65,7 @@
  VICTORY_POINTS_9236: "Геджуардс"
  VICTORY_POINTS_6864: "Риверпул"
  VICTORY_POINTS_11109: "Сноуїбері"
+ VICTORY_POINTS_185:0 "Foothill Fort" # (!)
  VICTORY_POINTS_3305: "Рубрум"
  VICTORY_POINTS_304: "Квебак"
  VICTORY_POINTS_9275: "Вічнозелень"
@@ -1034,9 +1035,8 @@
  VICTORY_POINTS_773: "Моторошна ущелина" # 123
  VICTORY_POINTS_13011: "Балтимейр" # 13
  VICTORY_POINTS_457: "Пайн-Крік" # 133 (змінено)
- VICTORY_POINTS_11424: "Арчер-Філд" # 149 (змінено)
+ VICTORY_POINTS_11424: "Аметист"
  VICTORY_POINTS_586: "Стейблсайд" # 15
- VICTORY_POINTS_185: "Кварцове передгір'я" # 150
  VICTORY_POINTS_488: "Сталліонград" # 153
  VICTORY_POINTS_9194: "Байкалл" # 156
  VICTORY_POINTS_6925: "Кобилкіно" # 159
@@ -1430,3 +1430,6 @@
  VICTORY_POINTS_14336: "Касабронко" # 997
  VICTORY_POINTS_14143: "Мейрскат" # 998
  VICTORY_POINTS_14141: "Сугмейн" # 999
+ VICTORY_POINTS_3122: "Спайктаун"
+ VICTORY_POINTS_9212: "Старлейс"
+ VICTORY_POINTS_9249: "Колдспарк"

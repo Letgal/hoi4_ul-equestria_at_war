@@ -343,6 +343,7 @@
 
  # Компанії
   ZAZ_concern:0 "Заяцький автозавод"
+  STG_zlatocvet_locomotive_plant_organization: "Златоцвєтський локомотивний завод"
   voskhod:0 "Восход"
   prolet_airfleet:0 "Пролет-авіа"
   stalliongrad_tractor_factory:0 "СТЗ"

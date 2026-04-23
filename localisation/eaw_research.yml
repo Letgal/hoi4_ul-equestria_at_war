@@ -119,7 +119,7 @@
  HIP_jet_heavy_strat_bomber_equipment_xb_short: "XB-70 Valkyrie"
  HIP_jet_heavy_strat_bomber_equipment_xb_desc:0 ""You guys know the drill. Strategic bomber means no review. Just... Mach 3? Posada, please start putting this kind of cash (do you even use cash?) into fighters. Please."\n- Crack Lightning"
  HIP_amphibious_super_heavies: "Водонепроникні надважкі танки"
- HIP_amphibious_super_heavies_effect: "Уся надважка бронетехніка:\n   $river$:\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+10%§!\n   $marsh$:\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ADJUSTER_DEFENCE$§G+10%§!\n   $amphibious$:\n      $STAT_ADJUSTER_ATTACK$§G+20%§!"
+ HIP_amphibious_super_heavies_effect: "Уся надважка бронетехніка:\n   $river$:\n      $STAT_ADJUSTER_ATTACK$§G+5%§!\n      $STAT_ADJUSTER_MOVEMENT$§G+5%§!\n   $marsh$:\n      $STAT_ADJUSTER_ATTACK$§G+5%§!\n      $STAT_ADJUSTER_DEFENCE$§G+5%§!\n   $amphibious$:\n      $STAT_ADJUSTER_ATTACK$§G+10%§!"
 
  motorized_equipment_2: "Удосконалена вантажівка"
  motorized_equipment_2_short: "Удоскон. вантажівка" # UL
@@ -212,6 +212,13 @@
  semi_modern_cruiser_armor_scheme_desc:0 "Multi-layer armor creates a shell around the ship's vital components as well as armoring the outside of the ship.\n\nУстановка цього модуля на §Yкрейсерах§! поліпшує їхню здатність §Yвистоювати ворожу шкоду§!, але також §Rзменшує§! їхню §Yшвидкість§!."
  modern_cruiser_armor_scheme: "$modern_heavy_armor_scheme$"
  modern_cruiser_armor_scheme_desc:0 "This armor system is layered so that non-vital systems are used as additional armor. Things like batteries, generators, and other components that while useful to the ship are not required keep it alive are put between the armor layers to provide additional protection.\n\nУстановка цього модуля на §Yкрейсерах§! поліпшує їхню здатність §Yвистоювати ворожу шкоду§!, але також §Rзменшує§! їхню §Yшвидкість§!."
+
+ sp_aip_engine_semi_modern_tech:0 "Closed-Cycle Steam Turbines"
+ sp_aip_engine_semi_modern_tech_desc:0 "Further developments in air-independent propulsion make this generation of submarines even deadlier than ever before."
+ sp_aip_engine_modern_tech:0 "Stirling Cycle Engines"
+ sp_aip_engine_modern_tech_desc:0 "The ultimate in AIP, these engines approach nuclear engine levels of undetectability."
+ sp_improved_anechoic_tiles:0 "Improved Anechoic Tiles"
+ sp_improved_anechoic_tiles_desc:0 "Varying the size of the tiles makes the sound more scattered and harder to decipher."
 
 
  advanced_light_shell: "Удосконалені малокаліберні бронебійні снаряди"
