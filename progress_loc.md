@@ -106,7 +106,7 @@
 + [x] `country_CYA` (переклав *Green Kitten*)
 + [x] `country_DED` (переклав *Bovcun*) — `(&)`
 + [ ] `country_DEP` (умовно завершено)
-+ [ ] `country_DRG` (умовно завершено)
++ [ ] `country_DRG`
 + [x] `country_EQC`<!--  (@max) -->
 + [ ] ~~`country_EQC_ED`~~
 + [x] `country_EQC_equality`<!--  (@max) -->

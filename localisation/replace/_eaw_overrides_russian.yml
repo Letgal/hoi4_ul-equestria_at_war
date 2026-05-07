@@ -518,17 +518,6 @@
   dense_rural_infrastructure_desc:0 "Инфраструктура в этом районе уже сильно насыщена местным населением.\n\nМожно удалить, достигнув максимальной §Hинфраструктуры§! в этой области, или если §Hкатегория области§! имеет уровень §HНеплотный городской регион§! или выше." # (!)
   training_time_factor_tt: " $MODIFIER_TRAINING_TIME_ARMY_FACTOR$: $RIGHT|-=%1$"
 
-  ### Fixes from vanilla hoi4
-  resistance_activity_tt: "$MODIFIER_RESISTANCE_ACTIVITY_FACTOR$: $RIGHT|R-=%1$"
-  MODIFIER_LOCAL_RESOURCE_GAIN_EFFICIENCY_PER_INFRASTRUCTURE:0 "Добыча ресурсов на ед. инфраструктуры" # РЛ
-  MODIFIER_LAND_REINFORCE_RATE: "Отримання підкріплень" # РЛ, vnl,
-  MODIFIER_ARMY_STRENGTH: "Міцність" # РЛ, vnl,
-  MODIFIER_NAVAL_INVASION_PLAN_CAP: "Місткість плану морського вторгнення" # РЛ, vnl,
-  MODIFIER_AIR_INVASION_PLAN_CAP: "Місткість плану повітряного десанту" # РЛ, vnl,
-  MODIFIER_AIR_POWER_PROJECTION_FACTOR: "Множник проєкції повітряної сили" # РЛ, vnl,
-  MODIFIER_SEND_VOLUNTEER_DIVISIONS_REQUIRED: "Дивізії, потрібні для надсилання добровольців" # РЛ, vnl.
-  STAT_ARMY_SUPPLY_CONSUMPTION: "Витрати припасів: " # РЛ, vnl.
-
   MODIFIER_EXILED_MAPOWER_GAIN_FACTOR: "Щоденні поні-ресурси у вигнанні"
   MODIFIER_EXILED_GOVERNMENT_WEEKLY_MANPOWER: "Щотижневі поні-ресурси уряду у вигнанні"
   MODIFIER_AIR_MANPOWER_REQUIREMENT_FACTOR: "Вимога до поні-ресурсів авіації "
@@ -572,6 +561,17 @@
   STAT_ARMY_SOFT_ATTACK: "Протипіхотна атака: " # vnl.
   STAT_ARMY_HARD_ATTACK: "Протитанкова атака: " # vnl.
   MODIFIER_NAVAL_ATTRITION_FACTOR: "Виснаження в морі"
+
+  ### Fixes from vanilla hoi4
+  resistance_activity_tt: "$MODIFIER_RESISTANCE_ACTIVITY_FACTOR$: $RIGHT|R-=%1$"
+  MODIFIER_LOCAL_RESOURCE_GAIN_EFFICIENCY_PER_INFRASTRUCTURE:0 "Добыча ресурсов на ед. инфраструктуры" # РЛ
+  MODIFIER_LAND_REINFORCE_RATE: "Отримання підкріплень" # РЛ, vnl,
+  MODIFIER_ARMY_STRENGTH: "Міцність" # РЛ, vnl,
+  MODIFIER_NAVAL_INVASION_PLAN_CAP: "Місткість плану морського вторгнення" # РЛ, vnl,
+  MODIFIER_AIR_INVASION_PLAN_CAP: "Місткість плану повітряного десанту" # РЛ, vnl,
+  MODIFIER_AIR_POWER_PROJECTION_FACTOR: "Множник проєкції повітряної сили" # РЛ, vnl,
+  MODIFIER_SEND_VOLUNTEER_DIVISIONS_REQUIRED: "Дивізії, потрібні для надсилання добровольців" # РЛ, vnl.
+  STAT_ARMY_SUPPLY_CONSUMPTION: "Витрати припасів: " # РЛ, vnl.
 
  #nsb_ideas_l
   proper_heritage_spirit_desc:0 "Хорошего генерала можно выучить, но великого генерала нужно взращивать."

@@ -18,8 +18,10 @@
  anti_tank_rifle_desc: "Розробка протитанкових рушниць дозволяє нашим військам боротися з танками з надією на успіх. Так само, завдяки польовим інструкціям і деяким іншим дрібним предметам у піхотному наборі нашого підрозділу, солдати можуть вживати екстрених заходів із протидії техніці в польових умовах за допомогою вже наявного піхотного спорядження."
  infantry_acclimatization: "Усепогодне спорядження"
  infantry_acclimatization_desc: "Прості модифікації нашої форми дозволяють солдатам швидше адаптуватися до екстремальних спеки та холоду. Товсті, тверді окуляри можуть захистити як від снігу, так і від піску."
- infantry_comms: "Розподілені розвідка та зв'язок"
- infantry_comms_desc: "Коли в кожному взводі та екіпажі машини є особа з біноклем, а також двостороння радіостанція, вся армія може виходити на зв'язок і забезпечувати швидкий зв'язок."
+ infantry_comms:0 "Body Armor I" # (!)
+ infantry_comms_desc:0 "As the battlefield becomes more and more dangerous, nylon-aluminum vests provide an interesting possibility for keeping soldiers alive longer. These simple ballistic vests are unable to stop rifles, but they can save lives from fragmentation and shrapnel." # (!)
+ infantry_body_armor:0 "Body Armor II" # (!)
+ infantry_body_armor_desc:0 "The development of boron carbide ceramic plates, backed by fiber composite, enables a soldier to survive a center-mass hit from a rifle. So-called "plate carriers" promise to revolutionize front-line warfare." # (!)
  experimental_helicopter: "Експериментальний вертоліт"
  experimental_helicopter_desc: "Примітивні гвинтокрили існують десятиліттями, але лише нещодавно вони стали досить досконалими, щоби довести свою корисність у війні. Хоча їхнє застосування ще не визначене, ці вертольоти вже довели свою ефективність при екстреному десантуванні ізольованих підрозділів."
  infantry_aa: "Піхотна зенітна зброя I"

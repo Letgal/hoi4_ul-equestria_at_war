@@ -1425,7 +1425,7 @@
  griffonRepublic.2.c:0 "Ні, нам і без того добре."
 
  griffonRepublic.3.t:0 "Республіканська боротьба"
- griffonRepublic.3.d:0 "Many years have passed since we have split from Kemerskai's Republican movement. Long before the establishment of the People's Congress that the griffons of Skynavia have been preparing for an eventual conflict with the decadent Republic, but it seems that after a period of intense reforms, the Cloudbury government is ongoing a revival, with renewed economic and military strength. Much as it'd pain some of our most radical members, perhaps the time has come to rethink our relation and even rejoin the Republicans in their struggle?"
+ griffonRepublic.3.d:0 "Many years have passed since we have split from Kemerskai's Republican movement. Long before the establishment of the General Congress that the griffons of Skynavia have been preparing for an eventual conflict with the decadent Republic, but it seems that after a period of intense reforms, the Cloudbury government is ongoing a revival, with renewed economic and military strength. Much as it'd pain some of our most radical members, perhaps the time has come to rethink our relation and even rejoin the Republicans in their struggle?"
  griffonRepublic.3.b:0 "Нам потрібно знову звернутися до влади Республіки і допомогти їм так, як тільки ми можемо."
  griffonRepublic.3.c:0 "Ні, [FAT.GetLeader] — такий самий тиран, як і той, проти якого ми присягнулися боротися в 978 році!"
 
@@ -1680,7 +1680,7 @@
  griffonRepublic.97.a:0 "Ми створимо власну фракцію! З блекджеком!"
 
  griffonRepublic.98.t:0 "The Wild Ride's End" # (!)
- griffonRepublic.98.d:0 "For how long the Republican administration has waited for this moment, the affair itself was quite straightforward and somber. Court proceedings were broadcast to the nation's public by radio, and Hermann Meyer was quickly found guilty of desertion, high treason, unlawful appropriation of military assets and conspiracy. Shortly after the veredict, Meyer was marched out in front of a military procession, and given a short death by firing squad.\n\nThe days that followed the veredict and execution were spent in a strange limbo. For the longest time, upper echelons of the NRP's leadership had held out hope that the Republic would survive for long enough to enact retribution upon Meyer and his clique for their betrayal; more pressing issues and conflicts dragged out our armed forces. But things had greatly changed since Hermann's desertion: at the time, the Republic was a fledgling state, still struggling to establish control over a chaotic Herzland and facing rebellion from the reactionary nobility. Meyer's betrayal was crippling at the time, but the Republican Air Force had developed from the ruins of his desertion, and while we returned in glory and fire to Griffenheim, Meyer's fiefdom in the insulated islands withered on the vine, until it was uncerimonously ripped apart by a renewed Republican Army.\n\nThe Republic has outgrown Meyer's betrayal, and in the midst of the Reconstruction mandate, his destruction was an afterthought. The one positive thing that has come of this endeavor is that we have, at long last, wiped the stain of this humiliating defeat off Griffonia for good."
+ griffonRepublic.98.d:0 "For how long the Republican administration has waited for this moment, the affair itself was quite straightforward and somber. Court proceedings were broadcast to the nation's public by radio, and Hermann Meyer was quickly found guilty of desertion, high treason, unlawful appropriation of military assets and conspiracy. Shortly after the verdict, Meyer was marched out in front of a military procession, and given a short death by firing squad.\n\nThe days that followed the verdict and execution were spent in a strange limbo. For the longest time, upper echelons of the NRP's leadership had held out hope that the Republic would survive for long enough to enact retribution upon Meyer and his clique for their betrayal; more pressing issues and conflicts dragged out our armed forces. But things had greatly changed since Hermann's desertion: at the time, the Republic was a fledgling state, still struggling to establish control over a chaotic Herzland and facing rebellion from the reactionary nobility. Meyer's betrayal was crippling at the time, but the Republican Air Force had developed from the ruins of his desertion, and while we returned in glory and fire to Griffenheim, Meyer's fiefdom in the insulated islands withered on the vine, until it was unceremoniously ripped apart by a renewed Republican Army.\n\nThe Republic has outgrown Meyer's betrayal, and in the midst of the Reconstruction mandate, his destruction was an afterthought. The one positive thing that has come of this endeavor is that we have, at long last, wiped the stain of this humiliating defeat off Griffonia for good."
  griffonRepublic.98.a:0 "The Republic stands avenged, and triumphant."
 
  griffonRepublic.99.t:0 "Diplomatic Recognition From The Griffonian Republic"
@@ -1696,7 +1696,7 @@
  griffonRepublic.101.a:0 "Neat."
 
  griffonRepublic.102.t:0 "Commerce With Aquileia"
- griffonRepublic.102.d:0 "Our move to open commercial avenues with Aquileia has already had some positive results: we can expect international bussinesses to be more interested in investment in the Republic, which will allow us some measure of leverage over future trade deals with other countries."
+ griffonRepublic.102.d:0 "Our move to open commercial avenues with Aquileia has already had some positive results: we can expect international businesses to be more interested in investment in the Republic, which will allow us some measure of leverage over future trade deals with other countries."
  griffonRepublic.102.a:0 "Splendid."
 
  griffonRepublic.103.t:0 "President-Marshal Kemerskai Speaks"
@@ -1806,7 +1806,7 @@
  griffonRepublic.122.a:0 "Patience. No great things are ever achieved without patience."
 
  griffonRepublic.123.t:0 "The Revolutionaries Meet Again"
- griffonRepublic.123.d:0 "Sickleclaw shuffled forward, with his talons cuffed together and his paws dragged from behind by Suntail's thugs. When he was brought out of the damp confines of his cell and into the quickly assembled stage in the icy outskirts of Dinkau, his heart skipped a beat: he saw the GNRF's aquila flying in standards of the Republic, in neat lines from side to side. A small crowd of petrified locals assembled, flanked on all sides by the National Republican Army. Jubilant, the army griffs hammered the butts of their rifles into the frozen ground, hundreds if not thousands in unison, and through the war drums they screamed: \"Suntail! Suntail! Suntail!\"\n\nIt had been years since Sickleclaw last saw him, but in that moment, walking towards him, his uniform sharp and his medals glistening under the limelights, the Generalíssimo had an air of etheral youth about him, like not a day had passed since the Long March. \"Do you hear that, Asper?\", he said with a grin when he got close, gesturing past the stage curtains to the thumping echo of his cheering army. \"They love me. They are my loyal revolutionaries, harbingers of the Empire's end, and they will follow me to the end. Can you say the same about the esteeemed members of your 'People's Congress?'\"\n\n\"This isn't ending well for you, Reinhard\", said Sickleclaw. \"You've deluded your lackeys, you've deluded the Republican Army, you may have even deluded yourself - but I see right through you. You are a dead griff walking. You'll snap like a twig when the Empire comes marching. You don't have the strength for it.\" He leaned forward. The guards reached out to grab him, but with a nod, Suntail held them back. \"Because even for all his faults, you are not half the leader Alexander was.\"\n\nSuntail held his tongue for an instant, enough for his smile to return. \"Yes, well... perhaps you'd change your mind if I dragged you back to Griffenheim with me. It's a shame, truly, that you won't be there to see it.\""
+ griffonRepublic.123.d:0 "Sickleclaw shuffled forward, with his talons cuffed together and his paws dragged from behind by Suntail's thugs. When he was brought out of the damp confines of his cell and into the quickly assembled stage in the icy outskirts of Dinkau, his heart skipped a beat: he saw the GNRF's aquila flying in standards of the Republic, in neat lines from side to side. A small crowd of petrified locals assembled, flanked on all sides by the National Republican Army. Jubilant, the army griffs hammered the butts of their rifles into the frozen ground, hundreds if not thousands in unison, and through the war drums they screamed: \"Suntail! Suntail! Suntail!\"\n\nIt had been years since Sickleclaw last saw him, but in that moment, walking towards him, his uniform sharp and his medals glistening under the limelights, the Generalíssimo had an air of etheral youth about him, like not a day had passed since the Long March. \"Do you hear that, Asper?\", he said with a grin when he got close, gesturing past the stage curtains to the thumping echo of his cheering army. \"They love me. They are my loyal revolutionaries, harbingers of the Empire's end, and they will follow me to the end. Can you say the same about the esteeemed members of your 'General Congress?'\"\n\n\"This isn't ending well for you, Reinhard\", said Sickleclaw. \"You've deluded your lackeys, you've deluded the Republican Army, you may have even deluded yourself - but I see right through you. You are a dead griff walking. You'll snap like a twig when the Empire comes marching. You don't have the strength for it.\" He leaned forward. The guards reached out to grab him, but with a nod, Suntail held them back. \"Because even for all his faults, you are not half the leader Alexander was.\"\n\nSuntail held his tongue for an instant, enough for his smile to return. \"Yes, well... perhaps you'd change your mind if I dragged you back to Griffenheim with me. It's a shame, truly, that you won't be there to see it.\""
  griffonRepublic.123.a:0 "Suntail's speech was as short as was Asper's drop."
 
  griffonRepublic.124.t:0 "New Holidays"
@@ -2362,6 +2362,21 @@
  griffonRepublic.300.a:0 "We accept!"
  griffonRepublic.300.b:0 "We politely, but firmly, refuse."
 
+ griffonRepublic.303.t:0 "The Skynavian Exodus"
+ griffonRepublic.303.d:0 "On account of the particular circumstances that transpired in the North, the Griffonian Republic has reached a mutual, if contentious agreement with representatives of the Northern Ponies to assist them in peacefully removing the griffon settlers in the region, returning them as Republican citizens while granting the land itself back to the ponies, as is their claim. This agreement comes not without a hint of suspicion on part of both parties, but as both the Republic and the northern ponies are invested in the end of the errant socialist republic in its entirety, this deal comes as the most reasonable to both.\n\nThe legal status of the griffons returning in shame to Cloudbury is varied: some select former members of the Republican Army are to be treated as deserters, and handed over to military authorities to be charged as such, but the majority are to be reintegrated into civilian life to the best of the Republic's ability, if not without significant friction. A small but not insignificant amount of griffons have chosen to remain in the North, under the jurisdiction of the northern ponies, though they are now subject to their laws, however lenient or harsh they may be. One can only hope this arrangement can provide for continual peace between the Republic and the northern ponies, and both sides can come out of this unfortunate conflict for the better."
+ griffonRepublic.303.a:0 "Now, to deal with our wayward brothers."
+ griffonRepublic.303.b:0 "And stay out!"
+
+ griffonRepublic.304.t:0 "The Republic is Triumphant!"
+ griffonRepublic.304.d:0 "After a hard won victory against the myriad secessionist movements that temporarily took hold over the Herzland and shattered unity in the Republican Army, President-Marshal Kemerskai has successfully restored order and reunited the armed forces. We were a stone's throw away from complete disaster, but the Father of the Republic has managed to save it yet again, and the Griffonian Republic stands victorious! The President-Marshal is forwarding a request towards the provincial legislature to reunify the Aquileian territory temporarily cut off from the capital."
+ griffonRepublic.304.a:0 "Thank the gods, the Republic is not defeated yet!"
+ griffonRepublic.304.b:0 "On second thought..."
+
+ griffonRepublic.305.t:0 "The Anti-Imperial Coalition"
+ griffonRepublic.305.d:0 "In 978, the renegade Marhal Alexander Kemerskai rallied anti-monarchist elements from the Reichsarmee and overthrew the Griffonian Empire's regency council, establishing the short-lived rule of the Griffonian Republic over the Herzland. While counterrevolutionaries were successful in reclaiming Griffenheim and dislodging the Republicans from their seat of power, Kemerskai and his lackeys were not entirely purged, and the scattered republican army fled north to the Duchy of Cloudbury, where they have survived ever since.\n\nWhile the government in Griffenheim would've liked to believe the Republic would slowly wither and die on its own, it seems that has not come to pass, and a renewed drive to reform their military and government has the Republic once again mobilizing for war: informants abroad have brought to our attention the birth of a so-called Coalition of free nations, united in purpose against imperial revanchism and sworn to protect each other's territorial integrity against a resurgent Imperial threat. It remains to be seen whether this barely held together alliance will hold, but for now, it seems the Griffonian Empire will face a severe obstacle if it seeks to reclaim its historical territory beyond the bounds of the Heartlands."
+ griffonRepublic.305.a:0 "Will the Reichsarmee be ready?"
+ FAT_republican_pact_created_tt:0 "§REvery nation with the§! §Y$FAT_republican_pact$§! §Rnational spirit will fight the Griffonian Empire at once§!."
+
  kemerskaiSpeech.1.t:0 "Кемерскай виступає з некрологом Ґроверу V"
  kemerskaiSpeech.1.d:0 ""Дорогі співгромадяни, послухайте."\n\n"Ґровер V, імператор усіх Грифонів, король Герцланду, герцог Грифенгайму, переможець Революції 978 року, помер у віці 47 років. Хотів би я проронити хоча б сльозу, браття, але він не тільки нічого не зробив для Герцланду, а ще й загнав його в занепад та відчай. Я впевнений, багато хто з вас підтримає мене в моїй думці про те, що він робив усе неправильно. Він дозволив Катерину згоріти, віддав владу архонтам і поховав будь-які надії на світську владу і реформи в Імперії, навіть перед загрозою двох революцій — тієї, що вже відбулася, і майбутньої."\n\n“Він допустив незалежність східних марок — Лонґсорду і Геллквіллу, які, отримавши незалежність, почали геноцид поні на своїх землях, і віддав Грифонстоун безсилій Раді та грифонові, настільки старому, що всі оточуючі кличуть його "Дідусь"! Навіть своєю смертю Ґровер V нашкодив грифонам, залишивши їхню країну в хаосі та безладі, тож я готовий схвалити його смерть. Його синові немає й 6, і замість нього правитиме Регентська рада, така сама, як і та, проти якої ми повстали 978 року."\n\n"У будь-якому разі, тепер, з його смертю, починається нова ера для всіх грифонів. Республіканці та ті, хто їм співчуває, вже почали боротьбу проти своїх феодалів у Катерині, Енґрівері та Ромау."\n\n“Я впевнений, коли наші нащадки напишуть книги про цей період, вони назвуть смерть Ґровера V переломним моментом.""
  kemerskaiSpeech.1.a:0 "Sic semper tyrannis."
@@ -2637,10 +2652,12 @@
  FAT_kemerskai_lackey_2:0 "Віктор Кінґфезер"
 
 ### TRIGGERS ###
- FAT_aquileia_is_pangriffonian_tt:0 "The Aquileian government supports the §YPangriffonian§! cause."
+ FAT_aquileia_is_pangriffonian_tt:0 "The Aquileian government supports the §YPangriffonian§! cause." # (!)
  FAT_aquileia_is_amicable_tt:0 "The Aquileian government is amicable to the §ORepublican§! cause.
 
  ### Ideas ###
+ FAT_skynavians_return_idea: "Повернення скайнавців"
+ FAT_skynavians_return_idea_desc:0 "We're currently in the process of reintegrating the griffons who fled North to Skynavia into the Republic as citizens, which will put some strain on government resources until the matter is settled." # (!)
  FAT_Removing_Troublesome_Soldiers:0 "Виключення проблемних солдатів"
  FAT_order_in_the_republic_idea: "Лад у Республіці"
  FAT_Peasant_Council_idea:0 "Ради робітників"
@@ -2832,13 +2849,13 @@
  FAT_republican_knights_2:0 "Expand The Knight Chapters"
  FAT_republican_knights_2_desc:0 "Bolstering the Republican Knights with new recruits, better arms and new keeps will please the Archonates, though we should be careful not to become over-reliant on this branch of the special forces, lest the regular army corps suffer as a result."
  FAT_recruit_reichsarmee_personnel_1:0 "Rigstag's Proposal: The Reichsarmee Amnesty Act"
- FAT_recruit_reichsarmee_personnel_1_desc:0 "While the Republican Army has been victorious, it is no secret among the armed forces that of all the Empire's institutions, the Reichsarmee was the most functional, and plenty of talented griffons filled its ranks. Simon has made a proposal for a very controversial motion, which would grant amnesty to some select sympathetic Imperial army officers we could work with, allowing them and their respective subordinates to keep their original rank. Syphoning some of the Empire's talent into the Republican Army would do wonders to bolster our officer corps, and as long as we are selective about who to take in and provide similar amnesty to common soldiers, it would be minimally disruptive to our chain of command. However, the old guard that has been loyal to the Republican cause since the beggining, not to mention the Cloudburian born soldiers, would be furious if they are to be commanded by a former Imperial officer."
+ FAT_recruit_reichsarmee_personnel_1_desc:0 "While the Republican Army has been victorious, it is no secret among the armed forces that of all the Empire's institutions, the Reichsarmee was the most functional, and plenty of talented griffons filled its ranks. Simon has made a proposal for a very controversial motion, which would grant amnesty to some select sympathetic Imperial army officers we could work with, allowing them and their respective subordinates to keep their original rank. Syphoning some of the Empire's talent into the Republican Army would do wonders to bolster our officer corps, and as long as we are selective about who to take in and provide similar amnesty to common soldiers, it would be minimally disruptive to our chain of command. However, the old guard that has been loyal to the Republican cause since the beginning, not to mention the Cloudburian born soldiers, would be furious if they are to be commanded by a former Imperial officer."
  FAT_recruit_reichsarmee_personnel_2:0 "Further Reichsarmee Recruitment"
- FAT_recruit_reichsarmee_personnel_2_desc:0 "To supplement our armed forces, we could seek to recruit more former Imperial officers and take advange of their experience and doctrinal development. The more we former Reichsarmee personnel into the Republican Army, the better experience it should theoretically become - though its commitment to the Republican cause will no doubt suffer."
+ FAT_recruit_reichsarmee_personnel_2_desc:0 "To supplement our armed forces, we could seek to recruit more former Imperial officers and take advantage of their experience and doctrinal development. The more former Reichsarmee personnel we let into the Republican Army, the better experience it should theoretically become - though its commitment to the Republican cause will no doubt suffer."
  FAT_restore_free_cities_1:0 "di Karthin's Proposal: The New Free City Model"
  FAT_restore_free_cities_1_desc:0 "Romauan local Gabriella di Karthin has long been loyal to the Republican mission, and her connections in the old senate of Romau have allowed her to come up with an ambitious proposal to speed up Reconstruction and ease the administration's burden: to revive the old model of the Imperial Free City under a republican framework. Under this proposal, municipalities that exceed a certain population threshold would be allowed to form and hold elections for local council chambers, while also having some regulatory power over their territory independently of Griffenheim. This would greatly please the burgeoning urban middle class, at some cost."
  FAT_restore_free_cities_2:0 "Expand The Free Cities"
- FAT_restore_free_cities_2_desc:0 "We could further facility Reconstruction policy by expanding the mandate of the Free Cities by reducing the population census threshold needed to quality for a Free City. It is likely this would severely hamper the central government's ability to plan economic policy."
+ FAT_restore_free_cities_2_desc:0 "We could further facilitate Reconstruction policy by expanding the mandate of the Free Cities by reducing the population census threshold needed to qualify for a Free City. It is likely this would severely hamper the central government's ability to plan economic policy."
  FAT_officialize_griffish_state_language:0 "Officialize Griffish as the Sole Federal Language"
  FAT_officialize_griffish_state_language_desc:0 "NRP politicians and army officers have operated mostly by using Griffish in their day to day since the Republic's establishment, but now that we've returned to Herzland, we could officialize it as the sole language for official civilian and army communications purposes in the federal government. This would greatly please the Herzlander population, but alienate the Cloudburian population and damage the credibility of a Pan-griffonian Republic."
  FAT_federal_holidays_act:0 "Federal Holidays Act"
@@ -2891,6 +2908,7 @@
  FAT_kogchel:0 "§RҐербен Коґгель§! виграє вибори!"
  FAT_astler_again:0 "§CРікард Астлер§! виграє вибори!"
  FAT_di_karthin: "§YҐабріелла ді Карфін§! виграє вибори!"
+ FAT_skynavia_dealt_with_tt: "Питання §RСкайнавії§! вирішено" # підглянуто в РЛ
 
  FAT_EQS_refused_war_support:0 "Ігнорували нас"
  FAT_EQS_diplo_recognition:0 "Визнали нас"
@@ -2926,6 +2944,10 @@
  FAT_NTR_puppet_fascism_ADJ: "Еверфростськ"
  FAT_NTR_puppet_fascism_DEF: "Еверфростська республіка"
 
+ JER_FAT_province: "Федеральна провінція Аквілея"
+ JER_FAT_province_DEF: "Провінційний уряд Аквілеї"
+ JER_FAT_province_ADJ: "Аквілейськ"
+
  FAW_NTR_puppet_neutrality: "Еверфростська республіка"
  FAW_NTR_puppet_neutrality_ADJ: "Еверфростськ"
  FAW_NTR_puppet_neutrality_DEF: "Еверфростська республіка"
@@ -2956,6 +2978,8 @@
 
  JER_FATASS_LONG: "Аквілейська Корона"
  JER_FATASS: "Аквілейська Корона"
+ JER_FATASS_PROVINCE_LONG: "Législature Provinciale d'Aquilée"
+ JER_FATASS_PROVINCE: "Législature"
 
  LCT_FATASS_C_LONG: "Народна партія Річкових земель"
  LCT_FATASS_C: "НПРЗ"
@@ -3002,6 +3026,7 @@
  FAT_PLB_council: "Асамблея Крайньої півночі"
  FAT_BRZ_council: "$BRZ_sweep_stake$"
  FAT_BRZ_council_desc:0 "§YBorn§!: 10th January 982, Dushzirak, Bronzehill.\n\n§YBiography§!: From a poor pup growing up in the mountains to the first president of Bronzehill, Sweep Stake has seen a truly meteoric rise. Her origins are a mystery, and even her birth name is unknown as she insists on being called by her agent name from her later years. The only thing known from her youth is that she was once part of communist agitation groups, before switching sides and joining the police. Here, she was appreciated as a capable agent, quickly climbed the ranks and even becoming head of Bronzehill’s military intelligence.\n\nOnce the republic invaded and occupied the region, many expected her to retreat to the underground or even lead a resistance. However, to the shock of even close friends, the exact opposite happened: when the republic sought to set up Bronzehill as an autonomous region, she offered herself to lead the new government. Her credentials for this position were shaky at best, but as more established political figures declined to ever work under a republican government, she was installed as head of the autonomous province. While some in the republican leadership hoped to legitimize her via an election, this was quickly shot down as to avoid embarrassment.\n\nEver since, she has led Bronzehill’s fortunes for better or worse. She is well aware of her tenuous position and hence acts as pragmatically as possible in all aspects, while in return “her” citizens graciously pretend her government doesn’t exist. Her true motives for joining forces with the republic are still hotly debated, but perhaps this is just her latest game of high risk and high reward.\n\n§YPortrait By§!: Princess_Rari" # (!)
+ FAT_JER_verany: "$JER_char_verany$"
 
 ### Opinion Modifiers ###
  FAT_republican_pact_mod: "Разом супроти Імперії"
@@ -3074,6 +3099,8 @@
  FAW_FATASS_DUCHY_D:0 "SPC"
  FAW_FATASS_DUCHESS_D_LONG:0 "Hendes Majestæt Hertugindens kabinet"
  FAW_FATASS_DUCHESS_D:0 "Royal Cabinet"
+ BRZ_FATASS_ADMIN_LONG: "Provinzkabinett von Bronzehügels"
+ BRZ_FATASS_ADMIN: "PkvB"
 
 #Fatass Secessionism
  STW_new_regency_council:0 "New Regency Council"

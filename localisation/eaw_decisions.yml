@@ -170,7 +170,7 @@ reclaim_the_everfree_forest_decision: "Повернути Вічнодикий �
  develop_wetbanks_aluminium: "Авіаційний завод Уетбенкса"
  expand_brown_coal_mining_in_the_orta_valley:0 "Expand Brown Coal Mining In The Orta Valley" # (!)
  expand_the_rainguard_coal_mines:0 "Expand The Rainguard Coal Mines" # (!)
- develop_thunderpoint_aluminium: "Переробний завод Тандерпойнта"
+ develop_thunderpoint_aluminium: "Алюмінієвий завод Тандерпойнта"
  develop_eye_of_the_storm_tungsten: "Вольфрамова копальня Ока Бурі"
  develop_eye_of_the_storm_crystals1: "Кристали в Оці Бурі"
  develop_eye_of_the_storm_crystals2: "Більше кристалів в Оці Бурі"
@@ -219,6 +219,8 @@ reclaim_the_everfree_forest_decision: "Повернути Вічнодикий �
  plant_additional_rubber_in_patay_na_bantayog:0 "Plant Additional Rubber In Patay-Na-Bantayog"
  invest_in_additional_rubber_plantations_for_amalanhig_hinni:0 "Invest In Additional Rubber Plantations For Amalanhig-hinni"
  expand_tungsten_mines_at_the_ziragongo:0 "Expand Tungsten Mines At The Ziragongo"
+ open_tungsten_mines_in_birthplace:0 "Open Tungsten Mines In Birthplace"
+ construct_aluminium_smelters_in_falconia:0 "Construct Aluminium Smelters In Falconia"
 
 GRW_internal_affairs: "Внутрішні справи"
 GRW_move_capital_Sydia: "Перемістити столицію в Сідію"
