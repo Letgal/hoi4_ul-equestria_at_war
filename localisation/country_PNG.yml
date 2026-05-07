@@ -13,6 +13,7 @@
  PNG_republic_democratic_ADJ: "Пінгвіняч"
 
 ### РІЗНЕ ###
+ PNG_royal_council_party: "Королівська рада Пінгленду"
  PNG_anti_griff_law:0 "Антигрифонські закони"
  PNG_aberg:0 "Вибрано Аберґа"
  PNG_njordin:0 "Вибрано Нйордіна"
@@ -297,6 +298,7 @@
 ### ПЕРСОНАЖІ ###
  # Лідери
   PNG_king_lolo: "Король Лоло"
+  PNG_royal_council: "Королівська рада"
   PNG_king_orvar_njordin: "Король Орвар Нйордін"
   PNG_emperor_orvar_njordin: "Імператор Орвар Нйордін"
   PNG_king_hindrik_aberg: "Король Гіндрік Аберґ"
