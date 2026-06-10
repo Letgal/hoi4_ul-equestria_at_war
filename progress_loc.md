@@ -42,7 +42,7 @@
 + [x] `eaw_horse_techs`
 + [ ] `eaw_ideas`
 + [x] `eaw_leaders` (допереклав [*pani_justyna1733*](https://steamcommunity.com/profiles/76561199241366335))
-+ [ ] `eaw_modifiers`
++ [x] `eaw_modifiers`
 + [x] `eaw_music`
 + [x] `eaw_musictoggle`
 + [ ] `eaw_nuke_events`

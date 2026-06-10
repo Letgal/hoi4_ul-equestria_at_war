@@ -484,6 +484,20 @@
  monster_equipment_0: "Спорядження монстрів"
  monster_equipment_0_short: "Спорядження монстрів"
 
+ ded_anti_infantry_monster: "Мантикори"
+ ded_anti_infantry_monster_2: "Хімери"
+ ded_heavy_monster_2: "Гідри"
+ ded_heavy_monster: "Титани"
+ ded_tatzlwurm: "Татцельвурми"
+ ded_anti_tank_monster: "Пращехвости"
+ ded_light_aircraft: "Летючі свині"
+ ded_heavy_aircraft: "Рухи"
+ ded_transport: "Ведмежуки"
+ ded_sea_monster: "Морські змії" # від “змій”, не “змія”
+ ded_big_sea_monster: "Левіафани"
+ ded_fish: "Морські змії" # від “змій”, не “змія”
+ ded_big_fish: "Левіафани"
+
 # country_DEL_AF
  ### ПЕРСОНАЖІ ###
   DEL_AF_castan_ii_beastbane: "Кастан II Звіробій"

@@ -262,6 +262,8 @@
  EQ_MOD_CAT_tank_magic_cannon_medium_TITLE: "Середні магічні гармати"
  EQ_MOD_CAT_tank_magic_cannon_heavy_TITLE: "Важкі магічні гармати"
 
+ easy_maintenance_2: "Іще простіший ремонт" # або Більша простота ремонту
+
 # eaw_unit
  category_heavy_infantry: "Піхота"
  category_magical_infantry: "Магічна піхота"
