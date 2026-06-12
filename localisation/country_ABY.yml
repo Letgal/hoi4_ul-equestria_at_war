@@ -1554,6 +1554,7 @@
  
  ### Юніти
  ABY_cavalry: "Кавалерія"
+ ABY_cavalry_desc: "Feline soldiers using enslaved equines as mounts to rapidly traverse long distances. The slaves are whipped hard to make them go faster than usual." # (!)
  
  ### Провінції
  ABY_felibela_name: "Фелібела"

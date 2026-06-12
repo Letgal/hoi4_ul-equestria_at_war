@@ -38,6 +38,8 @@ form_department_tooltip: "Виконано поліпшення агентств
 #####################
 ### LAND PROJECTS ###
 #####################
+ sp_land_self_propelled_super_heavy_howitzer_2: "Сучасна самохідна надважка гаубиця"
+ sp_land_self_propelled_super_heavy_howitzer_2_desc:0 "As artillery has modernized, a new generation of self-propelled massive artillery pieces has become necessary."
  sp_land_infantry_fighting_vehicles: "Бойові машини піхоти"
  sp_land_infantry_fighting_vehicles_desc:0 "Mechanized infantry has become a cornerstone of our army. But by mounting an autocannon and installing firing ports on an APC, we could drastically increase our infantry's effectiveness, allowing them to use the vehicle as cover and firepower."
  sp_land_manpads: "Переносні ЗРК"
@@ -486,6 +488,10 @@ form_department_tooltip: "Виконано поліпшення агентств
  sp_news.1.b: "Нарешті весь світ може почути, що нам є сказати!"
 
 ### ІНША ЛОКАЛІЗАЦІЯ, ЯКУ НЕ ЯСНО КУДИ ПОДІТИ ###
+ self_propelled_super_heavy_artillery_equipment_2: "Сучасна самохідна надважка гаубиця"
+ self_propelled_super_heavy_artillery_equipment_2_short: "Сучасна с/х н/в гаубиця"
+ self_propelled_super_heavy_artillery_equipment_2_desc: "$sp_land_super_heavy_howitzer_desc$"
+
  self_propelled_super_heavy_anti_air: "Самохідна надважка ЗСУ"
  self_propelled_super_heavy_anti_air_desc:0 "Only a small number of medium-range surface-to-air missiles need to be distributed throughout the army to observe grand results."
  self_propelled_super_heavy_anti_air_equipment: "Надважка ЗСУ"

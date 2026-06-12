@@ -42,7 +42,7 @@
 + [x] `eaw_horse_techs`
 + [ ] `eaw_ideas`
 + [x] `eaw_leaders` (допереклав [*pani_justyna1733*](https://steamcommunity.com/profiles/76561199241366335))
-+ [x] `eaw_modifiers`
++ [ ] `eaw_modifiers`
 + [x] `eaw_music`
 + [x] `eaw_musictoggle`
 + [ ] `eaw_nuke_events`
@@ -61,6 +61,7 @@
 + [ ] `eaw_state_lore`
 + [x] `eaw_strategic_locations`
 + [ ] `eaw_traits`
++ [ ] `eaw_unit_medals`
 + [x] `eaw_war`
 + [ ] `eaw_welcomescreen`
 + [ ] `eaw_zebra_generic` (кілька рядків не; переклав [*Daybreaker*](https://steamcommunity.com/profiles/76561199084403733))
@@ -76,7 +77,6 @@
 + [x] `state_names`
 + [x] `strategic_region_names`
 + [x] `unit_leader_stat_tooltips`
-+ [ ] `unit_medals`
 + [ ] `victory_points` (один рядок)
 
 ## Файли країн

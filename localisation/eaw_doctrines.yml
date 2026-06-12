@@ -426,3 +426,12 @@
  air_subdoctrine_missile_superiority_onland_guided_missiles:0 "Radio Guided Missiles"
  air_subdoctrine_missile_superiority_plane_mounted_missiles:0 "Aircraft Mounted Missiles"
  air_subdoctrine_missile_superiority_nuclear_storm_doctrine:0 "Nuclear Storm Doctrine"
+
+### СПЕЦВІЙСЬКА ###
+ SUBDOCTRINE_RACIAL_SPECFORCES: "Расові спецвійська"
+ SUBDOCTRINE_RACIAL_SPECFORCES_DESC:0 "Though modern weapons and tactics have steadily become more widespread, our own specialties are not to be forgotten." # (!)
+ racial_specforces_reward_1: "$racial_specforce_left1$"
+ racial_specforces_reward_2: "$racial_specforce_right1$"
+ racial_specforces_reward_3: "$racial_specforce_left2$"
+ racial_specforces_reward_4: "$racial_specforce_right2$"
+ racial_specforces_reward_5: "$racial_specforce_final$"

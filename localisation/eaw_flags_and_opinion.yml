@@ -263,6 +263,7 @@
  controlls_any_cores_subject_tt: "Будь-яка осердна область підконтрольна державі §Y[Root.GetName]§! або одному з її суб'єктів\n"
  controlls_any_foreign_core_tt: "Будь-яка підконтрольна область не є осердною землею держави §Y[Root.GetName]§!\n"
  controlls_all_cores_original_subject_tt: "Усі початкові осердні землі підконтрольні державі §Y[Root.GetName]§! або одному з її суб'єктів\n"
+ owns_and_controlls_all_cores_original_tt: "Усі початкові осердні землі належать і підконтрольні державі §Y[Root.GetName]§!.\n"
 
  CHN_Embargo: "Ембарго"
 

@@ -9,7 +9,7 @@
 
  magical_quarry: "Маготехнічний кар'єр"
  magical_quarry_plural: "Маготехнічні кар'єри"
- magical_quarry_desc: "Ця споруда множить число ресурсів в області, де її збудовано, на §Gx 1.25§!."
+ magical_quarry_desc: "Ця споруда множить число ресурсів в області, де її збудовано, на §Gx 1.25§!.\n\n§RПримітка: Через обмеження рушія збільшення ресурсів не з'являється на мапі споруд.§!"
 
  modern_nuclear_reactor: "$nuclear_reactor$ II покоління"
  modern_nuclear_reactor_plural: "$nuclear_reactor_plural$ II покоління"

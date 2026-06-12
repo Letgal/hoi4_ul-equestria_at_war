@@ -482,9 +482,11 @@
 ### ГЕНЕРАЛИ ###
  CCN_dalzollene: "Далзоллен"
  CCN_vikar: "Вікар"
- CCN_aphididae: "Афідідей"
+ CCN_aphididae: "Афідідей" # fem.?
  CCN_viridula: "Вірідула"
  CCN_tsezguerra: "Цезґуерра"
+ CCN_siricidae: "Сіріціда" # інак сист. -дей
+ GENERAL_SIRICIDAE_DESC: "§L§YBorn§!: 2nd of April, 977, in Praesepis\n\n§YRank§!: Generalleutnant\n\n§YBiography§!: Siricidae was raised in a poor laboring family from the small hive of Praesepis, among the last to be conquered by Chrysalis during unification. Everyling welcomed Chrysalis's abolition of the caste system, and Siricidae was a proud Chrysalisian as a youth. Though times were often hard, her parents saved enough for her to attend a local officers' school. She specialized in insurgency tactics, hoping to one day help "liberate Acornage from Celestia's tyranny." Though she did not serve at Canterlot in 1002, she worked hard to agitate the Acornage changelings into a pro-Chrysalis alignment.\n\nBut fate had something else in store for the young officer, as she learned that a Canterlot veteran would soon visit Praesepis and speak of the great future awaiting the Changeling people! Hearing Thorax describe his idealistic vision of friendship among nations and reconciliation with Equestria, all under Chrysalis's wise and benevolent rule, Siricidae was enraptured. She became a proud Thoraxian when the movement was still legal, and hoped to see Chrysalis listen to the voices of reason.\n\nUltimately, however, it was not to be. When the Thoraxians were outlawed, Siricidae went underground. Her old insurgency training found a new purpose: now, she would fight against the tyranny of Chrysalis, Trimmel, and Cardo for a Free Changeling Lands!\n\n§YАвтор портрета§!: kelKessel§!" # (!)
  CCN_ersatz: "Ларкс Ерзац"
 
 ### АДМІРАЛИ ###
@@ -695,14 +697,17 @@
  OLC_neutrality_DEF: "Співдружність Оленів і Чейнджлінґів"
  OLC_neutrality_ADJ: "Співдружн"
 
+ CCN: "Чейнджлінґія"
+ CCN_DEF: "Чейнджлінґія"
+ CCN_ADJ: "Чейнджлінзьк"
  CCN_neutrality: "Вулики Чейнджлінґів"
  CCN_fascism: "Землі Чейнджлінґів"
  CCN_communism: "Об'єднані Вулики Чейнджлінґів"
- CCN_democratic: "Землі Чейнджлінґів"
+ CCN_democratic: "Вільні Вулики Чейнджлінґів"
  CCN_neutrality_DEF: "Вулики Чейнджлінґів"
  CCN_fascism_DEF: "Королівство Чейнджлінґів" # qnd.
- CCN_communism_DEF: "Об'єднане Королівство Чейнджлінґів"
- CCN_democratic_DEF: "Вільне Королівство Чейнджлінґів"
+ CCN_communism_DEF: "Об'єднані Вулики Чейнджлінґів"
+ CCN_democratic_DEF: "Вільні Вулики Чейнджлінґів"
  CCN_fascism_ADJ: "Чейнджлінзьк"
  CCN_democratic_ADJ: "Чейнджлінзьк"
  CCN_neutrality_ADJ: "Чейнджлінзьк"
