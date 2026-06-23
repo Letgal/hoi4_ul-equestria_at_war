@@ -538,6 +538,7 @@
  GRF_teafether_agreement_with_miners:0 "Компроміс із Уетерськими шахтарями"
  GRF_highhill_visit_in_the_rural:0 "Відвідування сільської місцевості маршалом"
  GRF_max_auth_army_buff:0 "Гордість Півночі"
+ GRF_changeling_advisors: "Військові радники чейнджлінґів"
  GRF_max_republican_buff: "Гордість демократії"
  GRF_teafeather_visit_in_the_rural:0 "Відвідування сільської місцевості губернатором"
  GRF_STG_payment_for_fuck_off:0 "Платежі від Нова-Грифонії для вирішення конфлікту"
@@ -1393,6 +1394,33 @@
  griffons.178.a:0 "Ах, радощі вільної преси."
  griffons.178.b:0 "Комуністична маячня."
 
+ griffons.179.t: "Peace With [STG.GetNameDefCap]?" # (!)
+ griffons.179.d_auths: "With the capitulation of the republicans, the war has turned against [STG.GetName]. However, the fighting has continued with no victory in sight for either side. This gives us an opportunity to possibly negotiate a peace treaty with the communists. After the devastating civil war, much of the populace yearns for peace, and we need time to rebuild and recover. Yet more radical griffons in our ranks say we should continue the fight until Stalliongrad itself is defeated and the threat of communism is wiped out for good. Now, it is time for [Root.GetLeader] to decide on what to do." # (!)
+ griffons.179.d_others: "With the capitulation of the Nova Griffonian puppet state, we have gained an opportunity to possibly negotiate a peace treaty with their overlords in Stalliongrad. This could allow us to consolidate our gains and prevent a drawn out conflict with an industrial powerhouse. However, there are some who argue against the peace, saying that this is a perfect opportunity to end the threat of Stalliongrad for good. Now, it is time for [Root.GetLeader] to decide on what to do." # (!)
+ griffons.179.a: "Let us send them a proposal." # (!)
+ griffons.179.b: "We do not negotiate with communist scum." # (!)
+
+ griffons.180.t: "A Proposal From [From.GetNameDefCap]" # (!)
+ griffons.180.d: "Now that the [From.GetAdjective] republicans have capitulated to their enemies, [From.GetLeader] has sent us a proposal, offering a truce. With our primary justification for military intervention lost and our allies defeated, the war has not turned out to be in our favour. It might be best to accept this proposal and have peace with them for now, so we can rebuild our military strength. Yet more radical ponies in our ranks say we should continue the fight until the authoritarian faction is defeated and their threat is wiped out for good. Now, it is time for [Root.GetLeader] to decide on what to do." # (!)
+ griffons.180.a: "Fine, let us cease fire." # (!)
+ griffons.180.b: "We do not negotiate with capitalist scum." # (!)
+
+ griffons.181.t: "[From.GetNameDefCap] Rejects Truce" # (!)
+ griffons.181.d: "Our generous and friendly offer of peace has been rejected by [From.GetLeader], who has vowed to crush our "counter-revolution" no matter the cost. It seems we have no choice but to continue fighting against these crazed blood thirsty communists. [Root.GetLeader] has held a public speech condemning the communists and swearing to never surrender." # (!)
+ griffons.181.a: "So be it." # (!)
+
+ griffons.182.t: "[From.GetNameDefCap] Offers A Deal" # (!)
+ griffons.182.d: "[From.GetLeader] has sent us a confidential message, offering the sale of the Skull Islands in exchange for weapons. It seems the griffons are desperate for help in their civil war. While the Skull Islands have little in terms of population or resources, they could become a strategic naval base allowing us to project power into the Celestial Sea. Now, [Root.GetLeader] must decide how to respond to this offer." # (!)
+ griffons.182.a: "Of course, we can use that." # (!)
+ griffons.182.b: "It's not worth it." # (!)
+
+ griffons.183.t: "[From.GetNameDefCap] Accepts!" # (!)
+ griffons.183.d: "[From.GetLeader] has responded to our offer and has fortunately accepted it. They have told us that a shipment of weapons is already approaching, and the same shipment is carrying a small amount of soldiers who will formally take over the Skull Islands from us." # (!)
+ griffons.183.a: "Yay!" # (!)
+
+ griffons.184.t: "[From.GetNameDefCap] Refuses" # (!)
+ griffons.184.d: "[From.GetLeader] has responded to our offer and has unfortunately rejected it. They have told us they are not interested in the Skull Islands, even at a low price of some weapons to aid us in the civil war." # (!)
+ griffons.184.a: "Oh well." # (!)
 
 ### НОВИНИ ###
  newsg.2.t:0 "Губернатора Нова-Грифонії застрелено!" #TODO: РОЗГЛЯНУТИ МОЖЛИВІСТЬ ПЕРЕПИСАТИ
@@ -1543,6 +1571,7 @@
  GRF_republicans_recruting_natives:0 "Сформувати §Gмісцеве ополчення§!"
  GRF_independence_from_STG:0 "Запросити §RСталліонград§! щодо незалежності"
  GRF_Highhill_ask_CHN_for_help:0 "Попросити у §GКризаліс§! допомогу проти комуністів"
+ GRF_Highhill_sell_skull_island: "Продати §YОстрови Черепа§! за зброю"
  GRF_highhill_form_falcon_panzer_divsions:0 "Створити танкові дивізії Соколів"
  GRF_junta_wanna_deal_with_CHN:0 "Запропонувати чейнджлінґам поділити Еквестрію"
  GRF_subjugate_STL:0 "Придушити §RКомуну§!"
@@ -1554,6 +1583,8 @@
  GRF_civil_war_cat:0 "§RГромадянська війна в Нова-Грифонії§!"
  GRF_civil_war_cat_desc:0 "Наша батьківщина охоплена хаосом громадянської війни. Настав час битися за те, у що ми віримо! Зараз саме час піти на крайні заходи! Настав час врятувати Нову Грифонію!"
  GRF_key_areas:0 "Ключові області"
+ GRF_post_civil_war_truce: "Перемир'я зі Сталліонградом"
+ GRF_post_civil_war_truce_desc: ""
 
 ### СЛУЖБОВА ЛОКАЛІЗАЦІЯ: ЕФЕКТИ ###
  GRF_kronos_stats_tp:0 "§RНавичка атаки§!: §Y1§!\n§YНавичка оборони§!: §Y3§!\n§GНавичка планування§!: §Y2§!\n§CНавичка логістики§!: §Y2§!\n\n"
@@ -1585,6 +1616,7 @@
  GRF_civil_war_over:0 "Громадянська війна в Нова-Грифонії завершилася або її вдалося уникнути"
  GRF_highhill_coup:0 "§RМаршал не буде сидіти склавши пазурі, доки палає Нова-Грифонія, і може піти на екстренні заходи.§!"
  GRF_stg_intervention:0 "§RСталліонград не поважає нашу територіальну цілісність, і, можливо, нам доведеться воювати і з ними.§!"
+ GRF_amount_of_militia: "У разі збройного конфлікту §Yавторитаристи§! одержать §Y$AUTHS$§! дивізій ополчення, а §Yреспубліканці§! — §Y$REPUBS$§!."
 
 ### МОДИФІКАТОРИ ДУМКИ ###
  GRF_oversea_support: "Друзі-республіканці"
@@ -1629,3 +1661,6 @@
  GRF_paddy_desc:0 "§YДата народження§!: 983, у Лас-Пегасі\n\n§YЗвання§!: Найманець-Генерал\n\n§YБіографія§!: Педді Рокфеллер народилася в сім'ї нафтового магната Рокфеллера. Хоча обставини її народження приховані зусиллями самого Рокфеллера, ми дійшли висновку, що вона справді є його біологічною донькою, на основі аналізу медичних записів із Сонячного госпіталю імені Селестії в Лас-Пегасі.\n\nУ 1006 році вона здійснила свою вісімнадцяту спробу втекти від батька після того, як він спробував видати її за домовленістю заміж за [REDACTED] їхнього HorseCo. Їй вдалося втекти на північ, у Нова-Грифонію, а звідти — на острів Азкабан, що перебуває під контролем Сталліонграду. Згодом її взяли в полон "вигнанці" з тамтешньої комуністичної партії.\n\nМисливець за головами Жан де Бассе, найнятий Дженерал Петролеум, успішно врятував її, але відмовився повернути Педді компанії. Ці двоє відтоді стали нерозлучними і повернулися до Нова-Гріфонії, щоб боротися там за свою свободу як найманці."
  GRF_jean_desc:0 "§YДата народження§!: 4 липня 976 року в Аквілі\n\n§YЗвання§!: Найманець-Генерал\n\n§YБіографія§!: Жан — незаконнонароджений син революціонера Жарве де Бассе, брата Стелли де Бассе з Ведіни і спадкоємця сімейних обладунків. Сам Жарве був убитий монархістами Аквілеї в 985 році під час "Царства терору", що змусило матір Жана втекти разом зі своїм маленьким сином у Скайфол. Історія його юності достовірно відома лише самому Жану. Напевно відомо лише те, що в молодого де Бассе накопичився чималий борг перед олігархами, на яких він працював громилою, у чому йому допомагали батьківські обладунки.\n\nЗрештою олігархи вирішили стягнути цей борг. У 1001 році на Жана було відкрито контракт, і той утік у Нова-Грифонію. Наприкінці 1006 року він був змушений укласти контракт на пошук і затримання Педді Рокфеллер. Довга серія з різноманітних шокуючих обставин і пригод дала змогу Жану відмовитися від виконання цього контракту та повернутися разом із Педді до Нова-Грифонії, щоб боротися там за свою свободу... для того, хто найбільше платить, звісно."
  GRF_DESC_SUS_GRIFFON:0 "Мета занадто далека? Можливо.\n\nІдеологічне насильство привернуло інтерес чейнджлінґів. Ними була відправлена місія, щоб допомогти в придушенні комуністів. Місія прибула в землі Нова-Грифонії... щоб бути висміяною і підданою остракізму через відвертий расизм, заохочуваний і практикований населенням. Незабаром аташе чейнджлінґів вигнали.\n\nТим не менш, фахівець з танків з їхніх лав залишився непохитним. Чейнджлінґ перетворився на грифона і взяв ім'я "Руссель Шванц". Хайхілл і його хунта, які раніше відкинули чейнджлінґів, з ентузіазмом прийняли цього "грифона", що має здібності та знання, щоб допомогти їм перемогти комуністів.\n\nУ міру зростання сил реакціонерів, зусилля Русселя Шванца піднесли його до рангу генерала, що дало йому командування над новими танковими дивізіями, натхненними "Соколами" Нова-Грифонії. Проти своєї волі, чейнджлінґ тепер змушений постійно підтримувати вигляд генерала "Русселя Шванца" і вести цих расистів, націоналістично налаштованих грифонів, у бій."
+
+ # Misc
+ GRF_sturmtruppe_battalion: "Political Officer Company" # (!)

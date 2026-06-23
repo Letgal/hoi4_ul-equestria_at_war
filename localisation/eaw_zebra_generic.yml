@@ -218,11 +218,37 @@ generic_zebra_focus:0 "Стандартне дерево фокусів Зебр
 
  ASS_unification_of_donkeykind:0 "Об'єднання ослиного роду"
  ASS_unification_of_donkeykind_desc:0 "The donkeys have been disunited long enough. It is time to bring our race under one nation, so we may better resist foreign invaders." # (!)
+ ASS_retake_farashrah: "Повернути Фарасру"
+ ASS_retake_farashrah_desc:0 "Despite its large horse population, Farasrah is rightful donkey territory that was stolen by Yemane many years ago. It is time we demand our lands back! If they refuse, we will liberate it by force." # (!)
+ ANS_retake_farashrah: "$ASS_retake_farashrah$"
+ ANS_retake_farashrah_desc: "$ASS_retake_farashrah_desc$"
 
  HMR_subjugation_of_osqat: "Підкорення Оскату"
  HMR_subjugation_of_osqat_desc:0 "The great Haymirite nation must subjugate the haughty rivals that surround it like vultures. We shall start with seizing the rich lands of Osqat to the west." # (!)
  HMR_subjugation_of_maretania: "Підкорення Мейританії"
  HMR_subjugation_of_maretania_desc:0 "The magocrats controlling southern Riseia have no right to rule. It is also rumoured they own many precious artifacts, which would make a fine addition to our treasure vaults." # (!)
+
+ SDL_subjugate_donkeys: "Підкорити віслюків"
+ SDL_subjugate_donkeys_desc:0 "Asstyria and Anseruk were once loyal subjects of a vast Saddle Arabian empire. They were among the last ones to declare independence, and Saddle Arabia even protected them from the Storm King. But despite all this, we cannot simply let them be. They occupy a vital strategic position, blocking our path. They must become our vassals once more." # (!)
+ SDL_subjugate_yemane: "Підкорити Ємейн"
+ SDL_subjugate_yemane_desc:0 "Yemane was one of the many provinces of Saddle Arabia, long ago. Yet their arrogant emirs decided to declare their independence. Now with the lands of the donkeys secured, nothing stands in our way of uniting all of horsekind under one banner." # (!)
+ SDL_subjugate_riseia: "Підкорити Різею"
+ SDL_subjugate_riseia_desc:0 "Riseia is a prosperous land that was divided between rival realms after they became independent from Saddle Arabia. This land would be better off under our rule, indirectly or not. It's time to bring these misguided horses back into the fold." # (!)
+ SDL_showdown_with_karkad: "Протистоянна з Каркаданністаном"
+ SDL_showdown_with_karkad_desc:0 "The so-called country of Karkadannistan is a dangerous upstart rival that challenges our domination of horsekind. This artificial construct of a nation must be torn down, and the Hestrayan lands reunited with Saddle Arabia after so many centuries of separation." # (!)
+ SDL_the_last_piece: "Остання частка"
+ SDL_the_last_piece_desc:0 "Re'em was once a buffer state between Saddle Arabia and Imperial Mazwi, its horses allowed to practice their strange and heretical religion in peace. But times have changed. With the rest of horsekind once more under wise Arabian rule, Re'em is all that remains. They, too, will learn to love us. By force, if necessary." # (!)
+
+ KAR_subjugate_riseia: "Підкорити Різею"
+ KAR_subjugate_riseia_desc:0 "With Hestraya under our rule, [Root.GetLeader] has ambitions of uniting all of horsekind, much like Saddle Arabia once did. The first step would be the subjugation of the Riseian peninsula and all the petty states on it. The land is prosperous, and acts as the gateway to the north. It is vital to secure it, peacefully or not." # (!)
+ KAR_subjugate_yemane: "Підкорити Ємейн"
+ KAR_subjugate_yemane_desc:0 "Yemane is a former Saddle Arabian province. Their subjugation would get us one step closer to the heartland of Arabia itself. As such, they cannot be allowed to remain independent. Arabia itself will likely seek to seize these lands, so we must strike first while we still have time!" # (!)
+ KAR_subjugate_donkeys: "Підкорити віслюків"
+ KAR_subjugate_donkeys_desc:0 "The donkeys of Asstyria and Anseruk are very clearly not horses. However, their land has vital strategic importance. Subjugating the donkeys would bottle up the Arabians in their little peninsula, ensuring they cannot threaten us in the future. It is a small price to pay for our own security." # (!)
+ KAR_showdown_with_arabia: "Протистоянна з Арабією"
+ KAR_showdown_with_arabia_desc:0 "The age of Arabian domination is over. The time of Karkadannistani rule over horsekind has come. By toppling the remains of this once-glorious decadent empire, [Root.GetLeader] will solidify their position as the new master of western Zebrica." # (!)
+ KAR_the_last_piece: "Остання частка"
+ KAR_the_last_piece_desc:0 "Re'em was once a buffer state between Saddle Arabia and Imperial Mazwi, its horses allowed to practice their strange and heretical religion in peace. But times have changed. With the rest of horsekind under wise Karkadannistani rule, Re'em is all that remains. They, too, will learn to love us. By force, if necessary." # (!)
 
  zebra_fascism_support_idea_trait:0 "Зібрання прихильників зверхності"
  zebra_fascism_support_idea_trait_desc:0 "Наші громадяни починають уважати, що країною має керувати сильний уряд."

@@ -200,6 +200,17 @@
  research_center: "Дослідницький центр"
  forest_deer: "Лісовий олень"
  forest_deer_desc:0 "§LЛесные олени очень хорошо знают свои леса и могут помочь войскам продвигаться по ним быстрее.§!"
+ STORM_yeti_mage: "Єті-архімаг"
+ STORM_yeti_mage_desc:0 "§LЛегендарный маг, получивший славу благодаря интенсивным тренировкам и использованию магических артефактов. К сожалению, магические исследования и бюрократия не очень хорошо сочетаются.§!\n\n§RНе может получить черту "Эксперт по делегированию"§!"
+ STORM_yeti_mage_wider: "$STORM_yeti_mage$"
+ STORM_yeti_mage_wider_desc: "$STORM_yeti_mage_desc$"
+ STORM_yeti_mage_stronger: "$STORM_yeti_mage$"
+ STORM_yeti_mage_stronger_desc: "$STORM_yeti_mage_desc$"
+ not_a_yeti_mage: "Не є архімагом єті"
+ STORM_apprentice_mage: "Учень архімага"
+ STORM_apprentice_mage_desc:0 "§LМладший волшебник, обученный чародейскому искусству и использованию артефактов.§!"
+ STORM_apprentice_mage_navy: "$STORM_apprentice_mage$"
+ STORM_apprentice_mage_navy_desc: "$STORM_apprentice_mage_desc$"
  child_of_blizzards: "Дитя хуртовин"
  demagogue: "Демагог"
  imbecile: "Недоумкуватість"
@@ -261,6 +272,7 @@
  silent_workgriffon2: "$silent_workgriffon$"
  silent_workgoat: "Робочий козлик"
  silent_workirin: "Робочий кірінчик"
+ silent_workyeti: "Робочий єті"
  silent_workbear: "Робочий ведмедик"
  silent_workzebra: "Робочий зебрик"
  popular_figurehead1: "$popular_figurehead$"
@@ -297,6 +309,9 @@
 
  renowned_marksdog:0 "Известный стрелок-пёс"
  renowned_marksdog_desc:0 "§LЭтот командир является профессионалом в точной стрельбе и с удовольствием делится своими знаниями и навыками с войсками под своим командованием.§!"
+
+ renowned_markscat:0 "Известный стрелок-кот"
+ renowned_markscat_desc:0 "§LЭтот командир является профессионалом в точной стрельбе и с удовольствием делится своими знаниями и навыками с войсками под своим командованием.§!"
 
  trait_nestor_lunin:0 "Командир-универсал"
  trait_nestor_lunin_desc:0 "§LИмел возможность командовать, как пехотой, так и авиацией в прошлом. Он знает как грамотно использовать авиацию, чтобы эффективно прорываться через порядки врага.§!"
@@ -474,6 +489,9 @@
  diehard_revolutionary:0 "Несгибаемый революционер"
  mother_of_the_republic: "Мати республіки"
 
+ sorcerer_trait:0 "Чародей"
+ lawgiver_trait:0 "Законник"
+
  zarcid_supporter: "Заркід"
  zarcid_supporter_desc:0 "§LЭта личность является частью чрезвычайно могучей семьи Заркидов.§!"
  traditionalist_supporter: "Традиціоналіст"
@@ -555,6 +573,7 @@ Yal_skeleton_king_army_leader_desc:0 "§LСражение под началом 
  human_race_trait_desc: "§LЛюди — це двоногі мавпи. Чесно кажучи, від них дуже тхне.§!"
 
  zebrican_close_combat_expert:0 "Эксперт по ближнему бою из Зебрики"
+ alt_zebrican_close_combat_expert: "$zebrican_close_combat_expert$"
  field_surgeon: "Польовий хірург"
 
  drug_dealer:0 "Поставщица наркотиков для армии"
@@ -590,6 +609,9 @@ Yal_skeleton_king_army_leader_desc:0 "§LСражение под началом 
  CES_greater_shard_commander_desc:0 "Мои отражения столь же неестественны, как и разрушения, которые они сеют вокруг."
  CES_righteous_hoof_of_the_sun:0 "Праведное копыто солнца"
  CES_daring_do_inspiring_commander:0 "Вдохновляющая командующая"
+
+ DRG_vocal_workwyrm:0 "Голосистый рабочий дракончик"
+ DRG_dragonlord: "Володар драконів"
 
  aeronautical_engineer: "Авіаційний інженер"
 
@@ -755,3 +777,16 @@ Yal_skeleton_king_army_leader_desc:0 "§LСражение под началом 
  alt_navy_carrier_2: "$navy_carrier_2$"
  alt_navy_carrier_3: "$navy_carrier_3$"
  air_chief_naval_aviation_2: "$chief_naval_aviation_2$"
+ alt_army_guerilla_organizer_1: "$army_guerilla_organizer_1$"
+ alt_army_guerilla_organizer_2: "$army_guerilla_organizer_2$"
+ alt_army_guerilla_organizer_3: "$army_guerilla_organizer_3$"
+ alt_navy_chief_naval_gunnery_designer_1: "$navy_chief_naval_gunnery_designer_1$"
+ alt_navy_chief_naval_gunnery_designer_2: "$navy_chief_naval_gunnery_designer_2$"
+ alt_navy_chief_naval_gunnery_designer_3: "$navy_chief_naval_gunnery_designer_3$"
+ alt_IRQ_fliegerfuhrer: "$IRQ_fliegerfuhrer$"
+ alt_PHI_self_reliance_defense_character: "$PHI_self_reliance_defense_character$"
+ alt_PHI_chief_of_staff: "$PHI_chief_of_staff$"
+ alt_MAN_continental_ronin: "$MAN_continental_ronin$"
+ alt_IRQ_air_vice_marshal: "$IRQ_air_vice_marshal$"
+ alt_army_chief_army_high_command: "$army_chief_army_high_command$"
+ alt_surveyor: "$surveyor$"

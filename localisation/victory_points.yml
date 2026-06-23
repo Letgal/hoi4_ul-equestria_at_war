@@ -65,6 +65,7 @@
  VICTORY_POINTS_9236: "Геджуардс"
  VICTORY_POINTS_6864: "Риверпул"
  VICTORY_POINTS_11109: "Сноуїбері"
+ VICTORY_POINTS_185:0 "Foothill Fort" # (!)
  VICTORY_POINTS_3305: "Рубрум"
  VICTORY_POINTS_304: "Квебак"
  VICTORY_POINTS_9275: "Вічнозелень"
@@ -534,7 +535,7 @@
  VICTORY_POINTS_9190: "Нансен"
  VICTORY_POINTS_11191: "Свердруп"
  VICTORY_POINTS_13111: "Інґстад"
- VICTORY_POINTS_569: "Аякачтлі"
+ VICTORY_POINTS_7123: "Аякачтлі"
  VICTORY_POINTS_4342: "Кладісіум"
  VICTORY_POINTS_176: "Ґардіс"
  VICTORY_POINTS_6778: "Говенгамн"
@@ -548,6 +549,14 @@
  VICTORY_POINTS_1603: "Флюсшлос"
  VICTORY_POINTS_11161: "Златоцвєт"
  VICTORY_POINTS_119: "Равєнське"
+ VICTORY_POINTS_9310: "Комсомольськ"
+ VICTORY_POINTS_559: "Черріябінськ"
+ VICTORY_POINTS_6532: "Крісталл"
+ VICTORY_POINTS_4787: "Подковка"
+ VICTORY_POINTS_11287: "Маффінське"
+ VICTORY_POINTS_6399: "Малінін"
+ VICTORY_POINTS_3983: "Ніжній Понськ"
+ VICTORY_POINTS_13024: "Скорґово"
  VICTORY_POINTS_14659: "Зіффа"
  VICTORY_POINTS_14384: "Дар-Ней"
  VICTORY_POINTS_14620: "Мерса-Фоалам"
@@ -1034,9 +1043,8 @@
  VICTORY_POINTS_773: "Моторошна ущелина" # 123
  VICTORY_POINTS_13011: "Балтимейр" # 13
  VICTORY_POINTS_457: "Пайн-Крік" # 133 (змінено)
- VICTORY_POINTS_11424: "Арчер-Філд" # 149 (змінено)
+ VICTORY_POINTS_11424: "Аметист"
  VICTORY_POINTS_586: "Стейблсайд" # 15
- VICTORY_POINTS_185: "Кварцове передгір'я" # 150
  VICTORY_POINTS_488: "Сталліонград" # 153
  VICTORY_POINTS_9194: "Байкалл" # 156
  VICTORY_POINTS_6925: "Кобилкіно" # 159
@@ -1076,14 +1084,12 @@
  VICTORY_POINTS_1831: "Магарь-Фярань" # 290
  VICTORY_POINTS_15166: "Гайстормс" # 294
  VICTORY_POINTS_3921: "Герліґгамн" # 297
- VICTORY_POINTS_7123: "Аякачтлі" # 30
  VICTORY_POINTS_1547: "Ніколинетепле місце" # 304
  VICTORY_POINTS_195: "Ліктіда" # 309
  VICTORY_POINTS_9482: "Саскіяуїтль" # 31
  VICTORY_POINTS_12278: "Тотлес" # 310
  VICTORY_POINTS_13164: "Хоорорнд" # 322
  VICTORY_POINTS_13115: "Дахе" # 325
- VICTORY_POINTS_9129: "Малиновка" # 326
  VICTORY_POINTS_17047: "Плісса" # 329
  VICTORY_POINTS_2082: "Заяцьк" # 334
  VICTORY_POINTS_3444: "Тоналцінтлі" # 348
@@ -1191,7 +1197,7 @@
  VICTORY_POINTS_9713: "Кольтубар" # 560
  VICTORY_POINTS_11087: "Остфлой" # 561
  VICTORY_POINTS_4074: "Лостгоуп" # 569
- VICTORY_POINTS_3335: "Містечко Старлайт" # 57
+ VICTORY_POINTS_3335: "Наше Містечко" # 57
  VICTORY_POINTS_4188: "Окме" # 572
  VICTORY_POINTS_1413: "Моркер" # 573
  VICTORY_POINTS_7654: "Озеро Ельф" # 574
@@ -1430,3 +1436,38 @@
  VICTORY_POINTS_14336: "Касабронко" # 997
  VICTORY_POINTS_14143: "Мейрскат" # 998
  VICTORY_POINTS_14141: "Сугмейн" # 999
+ VICTORY_POINTS_3122: "Спайктаун"
+ VICTORY_POINTS_9212: "Старлейс"
+ VICTORY_POINTS_9249: "Колдспарк"
+ VICTORY_POINTS_19467: "Заура"
+ VICTORY_POINTS_19420: "Заззеб"
+ VICTORY_POINTS_5973: "Зеббі"
+ VICTORY_POINTS_6477: "Vinterwyvern" # (!)
+ VICTORY_POINTS_6977: "Peurametsä" # (!)
+ VICTORY_POINTS_7291: "Viherlaakso" # (!)
+ VICTORY_POINTS_3807: "Talvivaara" # (!)
+ VICTORY_POINTS_11853: "Solgud" # (!)
+ VICTORY_POINTS_11654: "Carabid" # (!)
+ VICTORY_POINTS_9587: "Upper Macintosh" # (!)
+ VICTORY_POINTS_10023: "Tetzcilli" # (!)
+ VICTORY_POINTS_3856: "Cornutopia" # (!)
+ VICTORY_POINTS_11751: "Woodsburgh" # (!)
+ VICTORY_POINTS_580: "Hornville" # (!)
+ VICTORY_POINTS_3716: "Mangifer" # (!)
+ VICTORY_POINTS_7858: "Sunshower" # (!)
+ VICTORY_POINTS_9737: "Thealey" # (!)
+ VICTORY_POINTS_536: "Meeks" # (!)
+ VICTORY_POINTS_11784: "Gemstown" # (!)
+ VICTORY_POINTS_3095: "Swampston" # (!)
+ VICTORY_POINTS_9930: "Goodgroom" # (!)
+ VICTORY_POINTS_11026: "Ramsville" # (!)
+ VICTORY_POINTS_3331: "Blueside" # (!)
+ VICTORY_POINTS_12674: "Winsome Falls" # (!)
+ VICTORY_POINTS_1560: "Utstøttbygd" # (!)
+ VICTORY_POINTS_3876: "Klyukva" # (!)
+ VICTORY_POINTS_11066: "Landish" # (!)
+ VICTORY_POINTS_10370: "Larvae" # (!)
+ VICTORY_POINTS_10457: "Gyne" # (!)
+ VICTORY_POINTS_4285: "Keyholm" # (!)
+ VICTORY_POINTS_913: "Elytron" # (!)
+ VICTORY_POINTS_6385: "Svetlopon" # (!)

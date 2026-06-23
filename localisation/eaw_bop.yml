@@ -6,9 +6,11 @@
  GRF_civil_war_bop_fully_auth: "Повний авторитаризм"
  GRF_civil_war_bop_very_auth: "Дужий авторитаризм"
  GRF_civil_war_bop_little_auth: "Авторитаризм"
+ GRF_civil_war_bop_very_little_auth: "Легкий авторитаризм"
  GRF_civil_war_bop_fully_repub: "Повний республіканізм"
  GRF_civil_war_bop_very_repub: "Дужий республіканізм"
  GRF_civil_war_bop_little_repub: "Республіканізм"
+ GRF_civil_war_bop_very_little_repub: "Легкий республіканізм"
 
  HIP_antifa_bop: "Баланс сил"
  HIP_antifa_bop_pink: "Рожеві"

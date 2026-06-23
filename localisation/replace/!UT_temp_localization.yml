@@ -262,6 +262,8 @@
  EQ_MOD_CAT_tank_magic_cannon_medium_TITLE: "Середні магічні гармати"
  EQ_MOD_CAT_tank_magic_cannon_heavy_TITLE: "Важкі магічні гармати"
 
+ easy_maintenance_2: "Іще простіший ремонт" # або Більша простота ремонту
+
 # eaw_unit
  category_heavy_infantry: "Піхота"
  category_magical_infantry: "Магічна піхота"
@@ -272,7 +274,7 @@
  unicorn: "Рота єдинорогів"
  unicorn_desc: "Єдинороги, треновані використовувати свою магію під вогнем у різних бойових цілях."
  magical_infantry: "Магічна піхота"
- magical_infantry_desc: "$infantry_desc$"
+ magical_infantry_desc: "$infantry_desc$ Тепер із магічними рушницями."
  #troll_hound_tech:0 "Troll Hounds"
  #troll_hound:0 "Troll Hounds"
  #troll_hound_desc:0 "Horrifying abominations infused with potent alchemical mixtures trained to tear tanks apart with their bare claws."

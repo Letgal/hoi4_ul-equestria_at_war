@@ -95,3 +95,10 @@
  mechanized_equipment_x_2: "Бойова машина піхоти"
  mechanized_equipment_x_2_short: "БМП"
  mechanized_equipment_x_2_desc:0 "Significantly different from regular APCs, IFVs are specifically designed to act as a specialised weapons platform intended to provide similar firepower of a heavier combat vehicle. It achieves this with sacrificing some of its passenger capacity and by mounting a turreted heavy weapon, such as a light auto-cannon or a smaller calibre gun. This makes IFVs more suitable for urban combat than tanks, and could possibly revolutionise mechanised warfare."
+
+ heavy_mechanized_equipment: "Важкий бронетранспортер"
+ heavy_mechanized_equipment_short: "Важкий БТР"
+ heavy_mechanized_equipment_desc:0 "Differing from traditional APCs with the inclusion of firing ports and heavy weaponry in excess of 20mm, IFVs are heavy, burdensome, and difficult on poor terrain. Despite all that, they are extremely difficult to kill and are capable of fighting in the most hostile environments."
+ heavy_mechanized_equipment_1: "$mechanized_equipment_x_2$"
+ heavy_mechanized_equipment_1_short: "$mechanized_equipment_x_2_short$"
+ heavy_mechanized_equipment_1_desc: "$heavy_mechanized_equipment_desc$"

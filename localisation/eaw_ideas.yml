@@ -244,3 +244,7 @@
  kingdom_with_no_king: "Королівство без короля"
  home_of_the_griffons: "Домівка грифонів"
  CHN_rapid_demobilization: "Стрімка демобілізація"
+
+ deer_motti_spirit: "Дух motti"
+ deer_motti_spirit_desc: "Through small-unit tactics and focused delay, we wear the enemy down forever." # (!)
+ tactic_motti_tactics_preferred_weight_factor: "Additional §YMotti§! Tactic Chance if it is Preferred tactic" # (!)

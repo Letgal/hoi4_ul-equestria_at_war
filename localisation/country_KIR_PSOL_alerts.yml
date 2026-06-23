@@ -11,16 +11,16 @@
  KIR_PSOL_alerticon_8_tt: "[!KIR_PSOL_alerticon_8_click]"
 
  #The text for your alerts. Some of them include named data scripted loc and require additional processing in their scripted loc reference.
- KIR_PSOL_alerticon_title_1: "§YНема правлячої партії§! (провінційний парламент)"
- KIR_PSOL_alerticon_title_1_desc: "Провінційні парламенти без правлячої партії: [THIS.KIR_PSOL_alert_location_array_recursive_loc_1]"
- KIR_PSOL_alerticon_title_2: "§YВиберіть нові правлячу партію§! (провінційний парламент)"
- KIR_PSOL_alerticon_title_2_desc: "Ми можемо вибрати нову правлячу партію для: [THIS.KIR_PSOL_alert_location_array_recursive_loc_2]"
+ KIR_PSOL_alerticon_title_1: "§YНема керівної партії§! (провінційний парламент)"
+ KIR_PSOL_alerticon_title_1_desc: "Провінційні парламенти без керівної партії: [THIS.KIR_PSOL_alert_location_array_recursive_loc_1]"
+ KIR_PSOL_alerticon_title_2: "§YВиберіть нові керівну партію§! (провінційний парламент)"
+ KIR_PSOL_alerticon_title_2_desc: "Ми можемо вибрати нову керівну партію для: [THIS.KIR_PSOL_alert_location_array_recursive_loc_2]"
  KIR_PSOL_alerticon_title_3: "§YПризупинений провінційний парламент§!"
  KIR_PSOL_alerticon_title_3_desc: "Призупинені провінційні парламенти: [THIS.KIR_PSOL_alert_location_array_recursive_loc_3]"
- KIR_PSOL_alerticon_title_4: "§YНема правлячої партії§! (муніципалітет)"
- KIR_PSOL_alerticon_title_4_desc: "Муніципалітети без правлячої партії: [THIS.KIR_PSOL_alert_location_array_recursive_loc_4]"
- KIR_PSOL_alerticon_title_5: "§YВиберіть нові правлячу партію§! (муніципалітет)"
- KIR_PSOL_alerticon_title_5_desc: "Ми можемо вибрати нову правлячу партію для: [THIS.KIR_PSOL_alert_location_array_recursive_loc_5]"
+ KIR_PSOL_alerticon_title_4: "§YНема керівної партії§! (муніципалітет)"
+ KIR_PSOL_alerticon_title_4_desc: "Муніципалітети без керівної партії: [THIS.KIR_PSOL_alert_location_array_recursive_loc_4]"
+ KIR_PSOL_alerticon_title_5: "§YВиберіть нові керівну партію§! (муніципалітет)"
+ KIR_PSOL_alerticon_title_5_desc: "Ми можемо вибрати нову керівну партію для: [THIS.KIR_PSOL_alert_location_array_recursive_loc_5]"
 
  KIR_PSOL_alert_location_array_recursive_loc_1_tt: "\n - Провінційний парламент §Y[?KIR_PSOL_alert_location_array_recursive_loc_temp_var_1.GetName]§![THIS.KIR_PSOL_alert_location_array_recursive_loc_1]"
  KIR_PSOL_alert_location_array_recursive_loc_2_tt: "\n - Провінційний парламент §Y[?KIR_PSOL_alert_location_array_recursive_loc_temp_var_2.GetName]§!\nТермін повноважень закінчиться за ([?KIR_PSOL_alert_location_array_recursive_loc_temp_var_2:KIR_STATE_SGUI_PALACE_TERM_REMOVAL_TIMER|Y0]) дн.[THIS.KIR_PSOL_alert_location_array_recursive_loc_2]" #Add for each recursive alert type

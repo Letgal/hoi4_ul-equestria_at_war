@@ -56,7 +56,7 @@ RULE_AI_PRODUCTION_FIX: "£eaw_text£ Поправки для ШІ"
  RULE_AI_TRAINING_AND_PRODUCTION_FIX_ALLOWED_DESC:0 "§YAI production and training troops fixes§! §Renabled§! \nA combination of the two previous rules that will make your game more like a confrontation with a real player.\n\n§YThis makes your struggle with the AI much harder. It is recommended to disable it when playing minor countries or for inexperienced players§!"
  RULE_AI_PRODUCTION_FIX_OPTION_ALLOWED:0 "Production fix enabled"
  RULE_AI_TRAINING_FIX_OPTION_ALLOWED:0 "Training troops fix enabled"
- RULE_AI_TRAINING_AND_PRODUCTION_OPTION_ALLOWED:0 "Production and traning fixes enabled"
+ RULE_AI_TRAINING_AND_PRODUCTION_OPTION_ALLOWED:0 "Production and training fixes enabled"
 
 RULE_AI_DIVISION_LIMITER: "£eaw_text£ Обмеження дивізій ШІ"
  RULE_AI_DIVISION_LIMITER_ALLOWED_DESC: "ШІ буде обмежувати кількість розгорнутих дивізій на основі кількості своїх заводів, станом війни/миру, статусом великої держави та світовою напруженістю. Це дозволяє грі йти швидше та допомагає зупинити ШІ від застосування недооснащених дивізій. Певні держави виключені з цього обмеження.\n\nПеребіг £eaw_text£ §YEquestria at War§! за замовчуванням. Рекомендовано.\n\nТакож доступно в якості окремого моду, «AI Division Limiter» (не запускайте з £eaw_text£ §YEquestria at War§!)." # (&?)

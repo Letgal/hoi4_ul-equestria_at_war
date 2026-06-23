@@ -18,6 +18,7 @@
 + [x] `eaw_bop`
 + [ ] `eaw_buildings`
 + [ ] `eaw_capitulation_quotes` (кілька рядків не)
++ [ ] ~~`eaw_career_profile_achievements`~~ (переклад не потребує, поки що)
 + [ ] `eaw_changeling_techs`
 + [ ] `eaw_cityfall`
 + [ ] `eaw_decisions`
@@ -60,6 +61,7 @@
 + [ ] `eaw_state_lore`
 + [x] `eaw_strategic_locations`
 + [ ] `eaw_traits`
++ [ ] `eaw_unit_medals`
 + [x] `eaw_war`
 + [ ] `eaw_welcomescreen`
 + [ ] `eaw_zebra_generic` (кілька рядків не; переклав [*Daybreaker*](https://steamcommunity.com/profiles/76561199084403733))
@@ -75,10 +77,10 @@
 + [x] `state_names`
 + [x] `strategic_region_names`
 + [x] `unit_leader_stat_tooltips`
-+ [ ] `unit_medals`
-+ [x] `victory_points`
++ [ ] `victory_points` (один рядок)
 
 ## Файли країн
++ [x] `country_ABY` (переклав *Bovcun*) — `(&)`
 + [x] `country_AET` (переклав [*StasJesus*](https://steamcommunity.com/profiles/76561198867405533))
 + [ ] `country_ARA` (переклав [*Bovcun*](https://github.com/Bovcun-A)) — `(&)`
 + [x] `country_ANG` (переклав *StasJesus*) — `(&)`
@@ -104,7 +106,7 @@
 + [x] `country_CYA` (переклав *Green Kitten*)
 + [x] `country_DED` (переклав *Bovcun*) — `(&)`
 + [ ] `country_DEP` (умовно завершено)
-+ [ ] `country_DRG` (умовно завершено)
++ [ ] `country_DRG`
 + [x] `country_EQC`<!--  (@max) -->
 + [ ] ~~`country_EQC_ED`~~
 + [x] `country_EQC_equality`<!--  (@max) -->
@@ -147,12 +149,14 @@
 + [x] `country_JFT`
 + [x] `country_JRR`
 + [ ] `country_JUN` (переклав *Green Kitten*) — `(&+)`
++ [x] `country_KAR`
 + [x] `country_KAT` (переклав *StasJesus*) — `(&)`
 + [x] `country_KIR_PSOL_alerts`
 + [x] `country_LAK` (переклав *Bovcun*)
 + [x] `country_LSP` (переклав *Green Kitten*)
 + [x] `country_LUS` (переклав *Bovcun*) — `(&) (&!)`
 + [x] `country_MAN&ELF`<!--  (@max) -->
++ [ ] ~~`country_MCW`~~
 + [x] `country_MIT` (переклав *Green Kitten*)
 + [x] `country_MNC` (переклав *Bovcun*) — `(&)`
 + [ ] `country_MTA` (умовно завершено)
