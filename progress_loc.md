@@ -177,6 +177,7 @@
 + [ ] `country_SADDLE`
 + [x] `country_SCS` (переклав *Green Kitten*)
 + [ ] `country_SOL` (один рядок не)
++ [ ] `country_SIC` (переклав [*Orko1538*](https://steamcommunity.com/profiles/76561198255230836))
 + [ ] ~~`country_SLC`~~
 + [x] `country_SRS` (переклав *Green Kitten*)
 + [ ] `country_STG` (кілька рядків не; первісно переклав *pani_justyna1733*<!-- , наново @max -->)
