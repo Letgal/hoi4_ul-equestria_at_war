@@ -1919,32 +1919,6 @@
  HEL_shoot_first_lar_desc: "$HEL_shoot_first_desc$"
 
 # country_JAK
- JAK_prince_bradford: "Принц Бредфорд"
- JAK_khan_bradford: "Хан Бредфорд"
-
- JAK_prince_rutherford: "$YAK_prince_rutherford$"
- JAK_bradford: "$YAK_bradford$"
- JAK_alastair: "$YAK_alastair$"
- JAK_archibald:0 "Archibald"
- JAK_not_a_jak:0 "Abram the Editorgoat"
- JAK_not_a_jak_desc:0 "The rebellious government of the Jaki-Clan rules over a largely illiterate populace, yet in the cities, many yaks read foreign newspapers and books. They often contain ideas that go against the yak Way of Life, and as such censorship is required. A strange creature offered to help Jaki-Clan with their task of cleaning up texts from abroad: Abram the goat. He offered to simply eat all paper which contained offensive or misguided text. The yaks, lacking the technology of paper shredders, happily accepted Abram's offer. It is a symbiotic relationship: Abram gets to eat all the paper he wants, while the Jaki-Clan gets to control what its subjects read. Noyak knows how a goat even got into Yakyakistan, but Abram is seen as a trustworthy honorary yak, so his backstory does not matter."
- JAK_dougal_khan: "$YAK_dougal_khan$"
- JAK_irvine:0 "Irvine"
- JAK_heroi: "$YAK_heroi$"
- JAK_finbar:0 "Finbar"
- JAK_skychief_agnes: "$YAK_skychief_agnes$"
- JAK_air_skychief_agnes: "$YAK_skychief_agnes$"
- JAK_boomer: "$YAK_boomer$"
-
- JAK_garrin_korai:0 "Garrin"
- JAK_maihov_kerz:0 "Maihov"
-
- JAK_yakistanks: "ЙакисТанки"
- JAK_buuhtan_motors: "$YAK_buuhtan_motors$"
- JAK_darksky_aeronautics: "$YAK_darksky_aeronautics$"
- JAK_northwind_design: "$YAK_northwind_design$"
- JAK_saihan_river_authority: "Сайханська ГЕС"
-
  POLITICS_PRINCEBRADFORD_DESC:0 "На схід від міжнародно визнаного Як'якистану принц Бредфорд очолює так званий Йаки-клан. Давній суперник свого брата, принца Резерфорда, Бредфорд просто хоче, щоби його яків — або йаків, залежно від того, кого ви запитаєте — залишили в спокої. На жаль для Бредфорда, в умовах зростання напруженості з чейнджлінґами на заході, грифонами на сході та самим принцом Резерфордом, який дихає йому в потилицю, Йаки-клан опинився у ризикованому становищі." # Життєпис змінено
 
 # country_JES
