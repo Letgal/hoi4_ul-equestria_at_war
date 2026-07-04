@@ -254,7 +254,7 @@
  owns_all_cores_subject_tt: "Усі осердні землі належать державі §Y[Root.GetName]§! або одному з її суб'єктів\n"
  owns_any_cores_tt: "Будь-яка осердна область належить державі §Y[Root.GetName]§!\n"
  owns_any_cores_subject_tt: "Будь-яка осердна область належить державі §Y[Root.GetName]§! або одному з її суб'єктів\n"
- owns_all_cores_original_tt: "Усі початкові осердні землі належать державі §Y[Root.GetName]§!\n"
+ owns_all_cores_original_tt: "Усі початкові осердні землі належать державі §Y[Root.GetNameDef]§!\n"
  owns_all_cores_original_subject_tt: "Усі початкові осердні землі належать державі §Y[Root.GetName]§! або одному з її суб'єктів\n"
  owns_all_passable_cores_original_subject_tt: "Усі прохідні початкові осердні землі належать державі §Y[Root.GetName]§! або одному з її суб'єктів\n"
  owns_any_cores_original_tt: "Будь-яка початкова осердна область належить державі §Y[Root.GetName]§!\n"
