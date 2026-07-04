@@ -39,9 +39,6 @@
  modifier_state_production_speed_commercial_nuclear_reactor_factor: "Швидкість будівництва §Yцивільних ядерних реакторів§!"
  general_capture_avoidance_chance: "General Capture Avoidance Chance" # (!)
 
- modifier_production_speed_energy_infrastructure_factor: "Швидкість будівництва §Yпосилених електромереж§!" # energy_infrastructure
- modifier_production_speed_industrial_infrastructure_factor: "Швидкість будівництва §Yелектромереж великої потужності§!" # industrial_infrastructure
-
  modifier_module_easy_maintenance_design_cost_factor: "Вартість дизайну простого ремонту"
  modifier_module_easy_maintenance_2_design_cost_factor: "Вартість дизайну ще простішого ремонту"
 
@@ -53,10 +50,6 @@
  modifier_experience_gain_medium_armor_combat_factor: "Приріст бойового досвіду середніх танків"
  modifier_experience_gain_light_armor_training_factor: "Приріст тренувального досвіду легких танків"
  modifier_experience_gain_light_armor_combat_factor: "Приріст бойового досвіду легких танків"
- modifier_experience_gain_motorized_combat_factor: "Приріст бойового досвіду мотопіхоти"
- modifier_experience_gain_mechanized_combat_factor: "Приріст бойового досвіду мехапіхоти"
- modifier_experience_gain_infantry_combat_factor: "Приріст бойового досвіду піхоти"
- modifier_experience_gain_artillery_combat_factor: "Приріст бойового досвіду артилерії"
 
  modifier_army_sub_unit_magical_infantry_attack_factor: "Атака магічної піхоти"
  modifier_army_sub_unit_magical_infantry_defence_factor: "Захист магічної піхоти"
@@ -207,19 +200,6 @@
 
  klugetown_criminals: "Гавань злочинності"
 
- Terathopia_fascism: "Тамбелон"
- Terathopia_fascism_DEF: "Тамбелон"
- Terathopia_fascism_ADJ: "Тамбелонськ"
- Terathopia_democratic: "Тамбелон"
- Terathopia_democratic_DEF: "Тамбелон"
- Terathopia_democratic_ADJ: "Тамбелонськ"
- Terathopia_neutrality: "Тамбелон"
- Terathopia_neutrality_DEF: "Тамбелон"
- Terathopia_neutrality_ADJ: "Тамбелонськ"
- Terathopia_communism: "Тамбелон"
- Terathopia_communism_DEF: "Тамбелон"
- Terathopia_communism_ADJ: "Тамбелонськ"
-
  BAT_partisan_modifier: "Хіроптеррські партизани"
 
  modifier_unit_pegasi_design_cost_factor: "Вартість дизайну пегасів"
@@ -273,16 +253,12 @@
 
 # Vanilla Fixed Tooltips
  air_strategic_bomber_defense_factor_tt: " $MODIFIER_STRATEGIC_BOMBER_DEFENCE_FACTOR$: $RIGHT|+=%1$"
- land_reinforce_rate_tt: " $MODIFIER_LAND_REINFORCE_RATE$: $RIGHT|+=%1$"
- #navy_capital_ship_attack_factor_tt: " $MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR$: $RIGHT|+=%1$"
  send_volunteers_size_tt: " $MODIFIER_SEND_VOLUNTEER_SIZE$: $RIGHT|+=0$"
  army_leader_start_level_tt: " $MODIFIER_ARMY_LEADER_START_LEVEL$: $RIGHT|G=0$"
  no_supply_grace_tt: " $MODIFIER_NO_SUPPLY_GRACE$ $RIGHT|+=1$ год"
- navy_weather_penalty_tt: " $MODIFIER_NAVY_WEATHER_PENALTY$: $RIGHT|-=%1$"
  strategic_bomb_visibility_tt: " Помітність при стратегічному бомбардуванні: $RIGHT|-=%1$" # (&?)
  naval_invasion_planning_bonus_speed_tt: " $MODIFIER_NAVAL_INVASION_PLANNING_SPEED$: $RIGHT|+=%1$"
  transport_capacity_tt: " $MODIFIER_TRANSPORT_CAPACITY$: $RIGHT|-=%0$"
- navy_capital_ship_attack_factor_tt: " $MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR$: $RIGHT|+=%1$"
  critical_receive_chance_tt: " $MODIFIER_NAVAL_CRITICAL_RECEIVE_CHANCE_FACTOR$: $RIGHT|-=%1$"
  mines_sweeping_by_fleets_factor_tt: " $MODIFIER_MINES_SWEEPING_BY_FLEETS_FACTOR$: $RIGHT|+=%1$"
  naval_attrition_tt: " $MODIFIER_NAVAL_ATTRITION_FACTOR$: $RIGHT|-=%1$"
@@ -290,7 +266,6 @@
  air_mastery_gain_factor_tt: " Множник приросту майстерності авіації: $RIGHT|+=%1$" # скорочено від повних доктрин
  naval_mastery_gain_factor_tt: " Множник приросту майстерності флоту: $RIGHT|+=%1$" # скорочено від повних доктрин
  army_strength_factor_tt: " $MODIFIER_ARMY_STRENGTH$: $RIGHT|+=%1$"
- experience_gain_army_unit_factor_tt: " $MODIFIER_XP_GAIN_ARMY_UNIT$: $RIGHT|+=%1$"
  fascism_acceptance_tt: " $fascism_acceptance$: $RIGHT|+=0$"
  neutrality_acceptance_tt: " $neutrality_acceptance$: $RIGHT|+=0$"
  democratic_acceptance_tt: " $democratic_acceptance$: $RIGHT|+=0$"

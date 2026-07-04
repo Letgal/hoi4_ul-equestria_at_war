@@ -21,6 +21,7 @@
 + [ ] ~~`eaw_career_profile_achievements`~~ (переклад не потребує, поки що)
 + [ ] `eaw_changeling_techs`
 + [ ] `eaw_cityfall`
++ [ ] `eaw_civil_war_events`
 + [ ] `eaw_decisions`
 + [x] `eaw_difficulty`
 + [x] `eaw_diplo_popup`
@@ -36,7 +37,7 @@
 + [ ] `eaw_formable_nations` (описи)
 + [ ] `eaw_game_rules`
 + [ ] `eaw_generic_techs`
-+ [ ] `eaw_griffon_generic` (кілька рядків не; переклав [*Bovcun*](https://github.com/Bovcun-A))
++ [ ] `eaw_griffon_generic` (переклав [*Bovcun*](https://github.com/Bovcun-A))
 + [ ] `eaw_griffon_techs` (один рядок)
 + [ ] `eaw_hippogriff_techs` (один рядок)
 + [x] `eaw_horse_techs`
@@ -52,7 +53,7 @@
 + [x] `eaw_pony_techs`
 + [x] `eaw_production`
 + [ ] `eaw_research`
-+ [ ] `eaw_resistance` (умовно завершено)
++ [x] `eaw_resistance`
 + [x] `eaw_scripted_maps`
 + [ ] `eaw_scripted_triggers` (кілька рядків не)
 + [ ] `eaw_ship_modules`
@@ -208,8 +209,8 @@
 + [x] `country_CRY_overrides`
 + [x] `country_JUN_overrides`
 + [x] `country_YAL_overrides`
-+ [ ] `eaw_bookmarks_overrides` (умовно завершено)
-+ [ ] `eaw_flags_and_opinion_overrides` (умовно завершено)
++ [x] `eaw_bookmarks_overrides`
++ [x] `eaw_flags_and_opinion_overrides`
 + [ ] `eaw_research_overrides`
 + [ ] `eaw_tank_modules_overrides`
 + [ ] `equip_air_overrides`

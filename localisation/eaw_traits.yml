@@ -337,7 +337,6 @@
 
  light_tank_manufacturer: "Дизайнер легких танків"
  super_heavy_tank_manufacturer: "Дизайнер надважких танків"
- tank_destroyer_manufacturer: "Дизайнер винищувачів танків"
  agile_CAS_manufacturer:0 "Agility-focused CAS Designer"
 
  WIT_heavy_tank_manufacturer_Trait: "Дизайнер зачарованої бронетехніки"

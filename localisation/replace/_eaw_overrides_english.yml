@@ -36,9 +36,6 @@
   commercial_nuclear_reactor_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї та електроенергію для цивільної економіки.\n\nКожен ядерний реактор споживає §R14§! £resources_strip|8£.\n$reactor_resource_shortage$"
   reactor_resource_shortage: "Якщо у Вас немає £resources_strip|8£, виробництво ядерних бомб уповільниться."
 
- #bop
-  BOP_TOOLTIP_STABLE: "Баланс сил наразі стабільний."
-
  #bba_decisions_l
   war_escalation_text: "£generic_war_escalation_text_icon Рівень ескалації війни: §Y[?PLB.PLB_war_escalation_level]§!"
   war_escalation_level_tt: "§YПоточна ескалація війни§!\nРівень ескалації збільшується з часом, а також унаслідок різних дій, які вживають чейнджлінґи.\n\nТривалість війни: §Y+[?PLB.PLB_escalation_time_increase_total]§!\nЧейнджлінґи розпочали великий наступ (+1) [GetChangelingRenewedOffensiveText]\n\nЧейнджлінґи виділили принаймні 25 дивізій (+1) [GetChangeling25DivisionsText]\n\nЧейнджлінґи виділили принаймні 300 літаків (+1) [GetChangelingAircraftsText]"
@@ -216,6 +213,11 @@
   SCORCHED_EARTH_STATE:2 "\n§HScorched Earth§!\nDisable railways in this state for £pol_power §H$COST$§!, damaging them and preventing repairs."
   SCORCHED_EARTH_STATE_UNDO:0 "Order railways in this state to be repaired."
 
+  # EAW Added
+  CHANGE_BACKGROUND_TT: "§HChange active background§!" # (!)
+  CHANGE_BACKGROUND_SELECT_ALL: "§HToggle activating all backgrounds§!\nHaving multiple backgrounds selected will cycle the background in the menu screen. Selecting no background will switch to a patch-relevant background." # (!)
+  CHANGE_BACKGROUND_TOGGLE: "§GClick§! to §Yadd or remove§! this background from the active list." # (!)
+
  #country_l
   MANPOWER: "Поні-ресурси"
   SERVICE_MANPOWER: "£manpower_texticon£ Службові поні-ресурси:"
@@ -356,10 +358,6 @@
   EFFECT_ENABLE_TEMPLATE_EDITTING:0 "Enable editing of the $NAME|H$ Division Template, and the training or disbanding of units belonging to it."
 
  #events_l
-  political.4.d:0 "The communist revolutionary movement, once a fringe popular among radical students and troublemakers, has seen increased support among the [Root.GetAdjective] working class. The fact that even more people choose to identify themselves with a 'class' at all implies that Socialist ideas are spreading beyond those who actively seek to overthrow the government.\n\n[Root.GetRulingParty] members lament this development, longing for a time when '[Root.GetAdjective]' was what people identified as first and foremost. Their concerns are not unfounded. It could be argued that a revolution is already underway, occurring on several levels of society, and it may be too late to stop it." # (!)
-  political.4.a:0 "They may call themselves whatever they want." # (!)
-  political.5.t:0 "Soldiers Desert to Communist Militias" # (!)
-  political.5.d:0 "'Capitalists and nationalists would have you spill your blood for them on the front lines, turning worker against worker over disputes that do not concern the true socialist! Instead of taking up arms against workers who struggle abroad, raise them against the oppressors and overthrow the tyrants!'\n\nThe army, usually a bastion of loyalty and national pride, has proven not to be immune to the communist propaganda spreading rapidly in [Root.GetName]. Soldiers are deserting, refusing to fight for their country, sometimes going as far as joining militia movements that claim to be preparing for revolution." # (!)
   GAME_OVER_TT: "§RГра закінчиться для Вас.§!\n"
 
   country_capitulated.0.d_positive_both_no_faction: "[This.GetNewspaperHeader][From.From.GetLeader] оголосив, що боягузлива [Root.GetAdjective]а нація більше не може встояти під тиском розміщених у державі [From.From.GetAdjective]их військ. [Root.GetAdjective]а влада вирішила втекти з держави й створити уряд у вигнанні. Їхні основні війська капітулювали, а [From.From.GetNameDef] тепер контролює їхні головні території.\nПопри те, що війна продовжується, тим не менш це велика перемога для держави [From.From.GetNameDef]."
@@ -555,12 +553,6 @@
   MODIFIER_RIVER_CROSSING_PENALTY_FACTOR: "Штраф до швидкості від форсування річки" # РЛ
   MODIFIER_RIVER_CROSSING_PENALTY_FACTOR_DESC: "Штраф до швидкості від форсування річки: $VALUE|-=%2$" # РЛ
   MODIFIER_RIVER_CROSSING_PENALTY_FACTOR_AGAINST_A_COUNTRY: "Штраф до швидкості від форсування річки проти держави" # РЛ
-  state_resource_oil: "Нафта"
-  state_resource_aluminium: "Алюміній"
-  state_resource_rubber: "Гума"
-  temporary_state_resource_oil: "Нафта"
-  temporary_state_resource_aluminium: "Алюміній"
-  temporary_state_resource_rubber: "Гума"
   country_resource_oil_tt: " $country_resource_oil$: $RIGHT|+=$"
   country_resource_aluminium_tt: " $country_resource_aluminium$: $RIGHT|+=$"
   country_resource_rubber_tt: " $country_resource_rubber$: $RIGHT|+=$"
@@ -572,6 +564,12 @@
   STAT_ARMY_SOFT_ATTACK: "Протипіхотна атака: " # vnl.
   STAT_ARMY_HARD_ATTACK: "Протитанкова атака: " # vnl.
   MODIFIER_NAVAL_ATTRITION_FACTOR: "Виснаження в морі"
+
+  #added to give similar wording to other similar modifiers tooltips
+  modifier_experience_gain_motorized_combat_factor: "Приріст бойового досвіду мотопіхоти"
+  modifier_experience_gain_mechanized_combat_factor: "Приріст бойового досвіду мехапіхоти"
+  modifier_experience_gain_infantry_combat_factor: "Приріст бойового досвіду піхоти"
+  modifier_experience_gain_artillery_combat_factor: "Приріст бойового досвіду артилерії"
 
  #nsb_ideas_l
   proper_heritage_spirit_desc:0 "A good General may be trained, but a great General must be bred." # (!)
@@ -842,7 +840,7 @@
  #poland_dlc_decisions_l_english
   decision_cost_CP_25_pp_50: "£command_power£ §Y25§! £pol_power£ §Y50§!"
   decision_cost_CP_25_pp_50_blocked: "£command_power£ §R25§! £pol_power£ §R50§!"
-  decision_cost_CP_25_pp_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP25PP50]"
+  decision_cost_CP_25_pp_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP25PP25]"
   decision_cost_CP_25_pp_25: "£command_power£ §Y25§! £pol_power£ §Y25§!"
   decision_cost_CP_25_pp_25_blocked: "£command_power£ §R25§! £pol_power£ §R25§!"
   decision_cost_CP_25_pp_25_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP25PP25]"

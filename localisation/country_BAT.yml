@@ -3713,8 +3713,6 @@ BAT_hydras_desc:0 "Неортодоксально, але певною міро�
 BAT_stimpaks:0 "Стимулятор"
 BAT_stimpaks_desc:0 "Сильна регенеративна технологія, яка завдяки дослідженням ЛДМД допоможе нашим передовим військам."
 
-hospital_tech_research:0 "Швидкість дослідження технологій польових шпиталів"
-
 ### Unique Tactics ###
 ABILITY_CHEMICAL_ATTACK:0 "Газова атака"
 ABILITY_CHEMICAL_ATTACK_DESC:0 ""

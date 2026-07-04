@@ -1,0 +1,95 @@
+﻿# == (*) ==
+### ГРОМАДЯНСЬКА ВІЙНА ###
+ civwar.2.t: "Південь встає!"
+ civwar.2.d: "Патріотичні та роботящі поні Півдня стали на захист своїх домівок, утворюючи основу конфедеративних збройних сил."
+ civwar.2.a: "Дякую всім!"
+
+ civwar.9.t: "[From.GetName] вимагає нашого підкорення"
+ civwar.9.d: "Із поразкою Імперії Луни, [From.GetName] вимагає, щоби ми допустили [From.GetAdjective]их чиновників до нагляду за урядом із кінцевою метою реінтеграції з державою [From.GetName]."
+ civwar.9.a: "Підкорення ліпше від смерті."
+ civwar.9.b: "Вони ніколи не отримають нашу важко зароблену свободу!"
+
+ civwar.10.t: "Пропозиція Місячної Імперії"
+ civwar.10.d: "Із поразкою Еквестрії, тепер над усім панує [From.GetName], і їхній уряд виміг, щоби ми допустили їхніх чиновників до нагляду за державою із кінцевою метою реінтеграції з їхньою державою."
+ civwar.10.a: "Ми підкоряємося."
+ civwar.10.b: "Ніколи!"
+
+ civwar.16.t: "Пропозиція держави [From.GetName]"
+ civwar.16.d: "Подолавши довгий шлях Півднем, до нас прибув представник центрального уряду, який вимагає, щоби ми офіційно реінтегрувалися з Еквестрією. Хоча поні Південних Штатів пишаються своєю нацією, факт у тім, що в нас є мало шансів супротив величезної моці центрального уряду. Що нам робити?"
+ civwar.16.a: "Ми опиратимемося цій агресії з півночі. До бою!"
+ civwar.16.b: "Розділений між собою дім упаде. Ми возз'єднаємося мирно."
+
+ civwar.160.t: "Час спливає"
+ civwar.160.d: "Наше місто процвітає, і схоже Еквестрія нарешті виступила назустріч незалежності нашого міста. До Лас-Пегаса прибув високопосадовець із Еквестрії, який вимагає повернення Лас-Пегаса у склад Еквестрії в якості держави-підданиці. Якщо ми поступимося, всі наші зусилля будуть зведені нанівець. Однак, якщо ми відмовимо, ризикуємо зустріти міць еквестрійської армії. Доля Лас-Пегаса цілком може полягати в цьому виборі."
+ civwar.160.a: "Вони ніколи не візьмуть наше місто!"
+ civwar.160.b: "Розділений між собою дім упаде. Ми возз'єднаємося мирно."
+
+ civwar.17.t: "Громадянська війна в Еквестрії!"
+ civwar.17.d: "В Еквестрії лютує громадянська війна. Ми станемо битися за наше виживання!"
+ civwar.17.a: "До бою!"
+ civwar.17.b: "До бою!"
+
+ civwar.18.t: "Приєднатися до держави [SCS.GetName]?"
+ civwar.18.d: "Поні держави [SCS.GetName] сповідують однакову з нами ідеологію, тому природно, що нам слід об'єднатися заради блага кожного робітника. Чи надсилати нам пропозицію?"
+ civwar.18.a: "Аякже!"
+ civwar.18.b: "Не зараз..."
+
+ civwar.21.t: "Пропозиція держави [From.GetName]"
+ civwar.21.d: "Держава [From.GetName] запропонувала нам можливість приєднатися до їхньої республіки. Однак, ми впевнені, що вони просто бажають забрати джунглі собі."
+ civwar.21.a: "На цій землі було пролито досить крові."
+ civwar.21.b: "Ми не підкоримося черговому гнобителеві!"
+
+ civwar.101.t: "Ceasefire with [ceasefire_target.GetName]" # (!)
+ civwar.101.d: "In the middle of a police action to bring back our rebellious provinces calling themselves [ceasefire_target.GetName], we have been attacked by an foreign power! Perhaps we should consider a ceasefire, so that we may concentrate on bigger issues?" # (!)
+ civwar.101.a: "Перемир'я — це хороша ідея."
+ civwar.101.b: "Let's try to get [ceasefire_target.GetName] to fight together with us!" # (!)
+ civwar.101.c: "Маячня. Війна на кілька фронтів нікому не шкодила."
+
+ civwar.102.t: "[From.GetName] хоче перемир'я"
+ civwar.102.d: "With [From.GetName] finding itself attacked by a foreign power, [From.GetLeader] has reached out to us with a proposition of a ceasefire, so that they may focus on defending against the intrusion." # (!)
+ civwar.102.a: "Нам теж потрібне перемир'я."
+ civwar.102.b: "Жодних переговорів! Скористаймося перевагою!"
+
+ civwar.103.t: "Спільний супротивник"
+ civwar.103.d: "With [From.GetName] finding itself attacked by a foreign power, [From.GetLeader] has reached out to us with a proposition of not only a ceasefire, but also us joining them in defence of our homeland from the foreign intruders." # (!)
+ civwar.103.a: "Відкладімо наші розбіжності, принаймні на момент."
+ civwar.103.b: "Перемир'я досить."
+ civwar.103.c: "Жодних переговорів! Скористаймося перевагою!"
+
+ civwar.105.t: "Перемир'я скічнується"
+ civwar.105.d: "With the foreign invaders dealt with, we can finish the fight with our former oppressors - if we want to, that is." # (!)
+ civwar.105.a: "Готові до другого раунду?"
+ civwar.105.b: "Keep the war cold for now." # (!)
+
+ civwar.11.t: "Гармати з півночі"
+ civwar.11.d: "A secret shipment of equipment, sent by the Empress herself, has just arrived in our area of control. Our soldiers met the leader, Misty Night, and thanked her for ensuring the delivery reached its destination safely without being discovered by our enemy. We now have thousands of additional rifles, helmets, bullets, grenades and more, all of which are sorely needed by our forces. Now we must distribute them to the frontline, and bid farewell to Misty Night and her brave soldiers." # (!)
+ civwar.11.a: "Вдяка Місяцеві за цей дарунок!"
+
+ civwar.12.t: "Еквестрія просить реінтеграцію"
+ civwar.12.d: "A representative from the central government of Equestria has arrived today to request our reintegration into Equestria. Our government would cease to exist, and our military and all provinces currently under our control will be transferred to the control of Equestrtia. While this is a hard pill to swallow for many it may be the only option we have besides dying against the might of the Equestrian juggernaut." # (!)
+ civwar.12.a: "Better to die a revolutionary than live as a reactionary!" # (!)
+ civwar.12.b: "Retirement sounds like a good idea." # (!)
+
+ civwar.13.t: "Еквестрія просить реінтеграцію"
+ civwar.13.d: "Earlier today a representative of Equestria arrived in the harbor via rowboat. They came bearing a request from the central government that we go and have ourselves be reintegrated into Equestria now that the civil war is over. This would mean we would cease to exist as a nation, but also that further bloodshed would be avoided. Many would seek to reintegrate with Equestria, but on the other hoof we did build all these forts." # (!)
+ civwar.13.a: "We can take 'em, eh?" # (!)
+ civwar.13.b: "This was never aboot fighting to the last..." # (!)
+
+ civwar.22.t: "Пропозиція від Балтимейру"
+ civwar.22.d: "The Baltimare Republic has recently sent us envoys that claim that the Baltimare Republic wishes us to join their union. We should tread carefully we don't know how they will react should we reject their "generous" offer." # (!)
+ civwar.22.a: "Why not, let's try this whole Socialism thing." # (!)
+ civwar.22.b: "Вони жартують?"
+
+ civwar.24.t: "Військові загони племен демобілізовуються" # (!)
+ civwar.24.d: "With the end of the war in the South-East, the Tribal Warbands that have been fighting for us have decided it is time for them to return to their homes."
+ civwar.24.a: "Вони добре билися."
+
+ civwar.14.t: "Help From the Rogue Province" # (!)
+ civwar.14.d: "As Equestria's war against us ramps up some in the government have proposed that we request for help from the original revolutionaries in Stalliongrad. It would mean that they could get a spot at the table when the peace deal eventually comes, but on the other hoof we need every warm body we can muster to fight against the Equestrians and they do have a lovely spot for a second front." # (!)
+ civwar.14.a: "We need Equestria's troops there not here, send the request." # (!)
+ civwar.14.b: "We don't need their interference." # (!)
+
+ civwar.15.t: "Копито та молот проти Найтмер?"
+ civwar.15.d: "When the civil war first began Stalliongrad seized large amounts of territory from the Lunar Empire. Now that Nightmare Moon has turned her guns against us we could reach out to them diplomatically to see if they are willing to seize even more territory for the revolution. The fact that this will take pressure off of us is just a side benefit, we will assure them." # (!)
+ civwar.15.a: "We shall convince our revolutionary brothers of this goal!" # (!)
+ civwar.15.b: "We're better off fighting for the true revolution here in the south." # (!)

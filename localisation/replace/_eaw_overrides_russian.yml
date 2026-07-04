@@ -36,9 +36,6 @@
   commercial_nuclear_reactor_desc: "Ця споруда виробляє в області збагачену суміш урану та кристалів для використання в ядерній зброї та електроенергію для цивільної економіки.\n\nКожен ядерний реактор споживає §R14§! £resources_strip|8£.\n$reactor_resource_shortage$"
   reactor_resource_shortage: "Якщо у Вас немає £resources_strip|8£, виробництво ядерних бомб уповільниться."
 
- #bop
-  BOP_TOOLTIP_STABLE: "Баланс сил наразі стабільний."
-
  #bba_decisions_l
   war_escalation_text: "£generic_war_escalation_text_icon Рівень ескалації війни: §Y[?PLB.PLB_war_escalation_level]§!"
   war_escalation_level_tt: "§YПоточна ескалація війни§!\nРівень ескалації збільшується з часом, а також унаслідок різних дій, які вживають чейнджлінґи.\n\nТривалість війни: §Y+[?PLB.PLB_escalation_time_increase_total]§!\nЧейнджлінґи розпочали великий наступ (+1) [GetChangelingRenewedOffensiveText]\n\nЧейнджлінґи виділили принаймні 25 дивізій (+1) [GetChangeling25DivisionsText]\n\nЧейнджлінґи виділили принаймні 300 літаків (+1) [GetChangelingAircraftsText]"
@@ -217,6 +214,11 @@
   SCORCHED_EARTH_STATE:2 "\n§HВыжженная земля§!\n\nИзбавиться от железнодорожного сообщения в этом регионе за £pol_power §H$COST$§!, повредив все железные дороги и лишив жителей возможности их чинить."
   SCORCHED_EARTH_STATE_UNDO:0 "Поручить ремонт железных дорог в этом регионе."
 
+  # EAW Added
+  CHANGE_BACKGROUND_TT: "§HИзменить активный фон§!"
+  CHANGE_BACKGROUND_SELECT_ALL: "§HПереключить активацию всех фонов§!\nЕсли выбрано несколько фонов, они будут циклически сменять друг друга на экране меню. Если ни один фон не выбран, игра переключится на фон, соответствующий текущему обновлению."
+  CHANGE_BACKGROUND_TOGGLE: "§GНажмите§!, чтобы §Yдобавить или удалить§! этот фон из списка активных."
+
  #constructions
   CIC_BANK_HEADER: "Надлишок економічного потенціалу" # РЛ, vnl.
   CIC_BANK_HIGHLIGHT: "§HНадлишок економічного потенціалу§!" # РЛ, vnl.
@@ -365,10 +367,6 @@
   EFFECT_ENABLE_TEMPLATE_EDITTING:0 "Включить редактирование шаблона $NAME|H$ и обучение/расформирование входящих в него частей."
 
  #events_l
-  political.4.d:0 "Коммунистическое революционное движение, когда-то популярное лишь среди радикальных студентов и нарушителей спокойствия, заметно увеличило поддержку за счёт рабочего класса [Root.GetAdjective]. Тот факт, что всё больше наших пони предпочитают отождествлять себя с «классом», подразумевает, что социалистические идеи распространяются не только среди радикалов, желающих свергнуть правительство.\n\nЧлены правящей партии [Root.GetRulingParty] сильно недовольны таким поворотом событий, вспоминая былые стабильные времена. Их проблемы небезосновательны. Можно утверждать, что революция уже происходит на нескольких уровнях общества и может быть слишком поздно её остановить."
-  political.4.a:0 "Они могут называть себя как хотят."
-  political.5.t:0 "Солдаты дезертируют в ополчение коммунистов"
-  political.5.d:0 "'Капиталисты и националисты хотят, чтобы вы проливали свою кровь за них на фронте, обращая рабочих против других рабочих в конфликтах, чуждых истинному социалисту! Вместо того, чтобы объединиться с заграничными рабочими, восстать против угнетателей и свергнуть тиранов!'\n\nАрмия, традиционный бастион лояльности и национальной гордости, оказалась восприимчивой к коммунистической пропаганде, быстро распространяющейся в [Root.GetName]. Солдаты дезертируют, отказываясь сражаться за свою страну, а иногда даже вступая в ряды ополчения, готовящегося к революции."
   GAME_OVER_TT: "§RГра закінчиться для Вас.§!\n"
 
   country_capitulated.0.d_positive_both_no_faction: "[This.GetNewspaperHeader][From.From.GetLeader] оголосив, що боягузлива [Root.GetAdjective]а нація більше не може встояти під тиском розміщених у державі [From.From.GetAdjective]их військ. [Root.GetAdjective]а влада вирішила втекти з держави й створити уряд у вигнанні. Їхні основні війська капітулювали, а [From.From.GetNameDef] тепер контролює їхні головні території.\nПопри те, що війна продовжується, тим не менш це велика перемога для держави [From.From.GetNameDef]."
@@ -539,6 +537,8 @@
   army_chief_cost_factor_tt: " $army_chief_cost_factor$: $RIGHT|-=%1$"
   navy_chief_cost_factor_tt: " $navy_chief_cost_factor$: $RIGHT|-=%1$"
   air_chief_cost_factor_tt: " $air_chief_cost_factor$: $RIGHT|-=%1$"
+  MODIFIER_STATIC_ANTI_AIR_DAMAGE_FACTOR: "Коэффициент урона стационарного ПВО" # (!)
+  MODIFIER_STATIC_ANTI_AIR_HIT_CHANCE_FACTOR: "Коэффициент вероятности попадания стационарного ПВО" # (!)
 
   MODIFIER_EXILED_MAPOWER_GAIN_FACTOR: "Щоденні поні-ресурси у вигнанні"
   MODIFIER_EXILED_GOVERNMENT_WEEKLY_MANPOWER: "Щотижневі поні-ресурси уряду у вигнанні"
@@ -566,12 +566,6 @@
   MODIFIER_RIVER_CROSSING_PENALTY_FACTOR: "Штраф до швидкості від форсування річки" # РЛ
   MODIFIER_RIVER_CROSSING_PENALTY_FACTOR_DESC: "Штраф до швидкості від форсування річки: $VALUE|-=%2$" # РЛ
   MODIFIER_RIVER_CROSSING_PENALTY_FACTOR_AGAINST_A_COUNTRY: "Штраф до швидкості від форсування річки проти держави" # РЛ
-  state_resource_oil: "Нафта"
-  state_resource_aluminium: "Алюміній"
-  state_resource_rubber: "Гума"
-  temporary_state_resource_oil: "Нафта"
-  temporary_state_resource_aluminium: "Алюміній"
-  temporary_state_resource_rubber: "Гума"
   country_resource_oil_tt: " $country_resource_oil$: $RIGHT|+=$"
   country_resource_aluminium_tt: " $country_resource_aluminium$: $RIGHT|+=$"
   country_resource_rubber_tt: " $country_resource_rubber$: $RIGHT|+=$"
@@ -587,6 +581,12 @@
   MODIFIER_AIR_DEFENCE_FACTOR: "Воздушная защита" # (!)
   MODIFIER_AIR_MAX_SPEED: "Максимальная скорость авиации" # (!)
   MODIFIER_AIR_MAX_SPEED_FACTOR: "Максимальная скорость авиации" # (!)
+
+  #added to give similar wording to other similar modifiers tooltips
+  modifier_experience_gain_motorized_combat_factor: "Приріст бойового досвіду мотопіхоти"
+  modifier_experience_gain_mechanized_combat_factor: "Приріст бойового досвіду мехапіхоти"
+  modifier_experience_gain_infantry_combat_factor: "Приріст бойового досвіду піхоти"
+  modifier_experience_gain_artillery_combat_factor: "Приріст бойового досвіду артилерії"
 
   ### Fixes from vanilla hoi4
   MODIFIER_LOCAL_RESOURCE_GAIN_EFFICIENCY_PER_INFRASTRUCTURE:0 "Добыча ресурсов на ед. инфраструктуры" # РЛ
@@ -884,7 +884,7 @@
  #poland_dlc_decisions_l_russian
   decision_cost_CP_25_pp_50: "£command_power£ §Y25§! £pol_power£ §Y50§!"
   decision_cost_CP_25_pp_50_blocked: "£command_power£ §R25§! £pol_power£ §R50§!"
-  decision_cost_CP_25_pp_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP25PP50]"
+  decision_cost_CP_25_pp_50_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP25PP25]"
   decision_cost_CP_25_pp_25: "£command_power£ §Y25§! £pol_power£ §Y25§!"
   decision_cost_CP_25_pp_25_blocked: "£command_power£ §R25§! £pol_power£ §R25§!"
   decision_cost_CP_25_pp_25_tooltip: "Прийняття цього рішення коштує [This.GetDecisionCostCP25PP25]"

@@ -480,24 +480,6 @@
  DED_VMP: "Королівство Опівночі"
  DED_VAM: "Королівство Вічності"
 
- monster_equipment: "Спорядження монстрів"
- monster_equipment_0: "Спорядження монстрів"
- monster_equipment_0_short: "Спорядження монстрів"
-
- ded_anti_infantry_monster: "Мантикори"
- ded_anti_infantry_monster_2: "Хімери"
- ded_heavy_monster_2: "Гідри"
- ded_heavy_monster: "Титани"
- ded_tatzlwurm: "Татцельвурми"
- ded_anti_tank_monster: "Пращехвости"
- ded_light_aircraft: "Летючі свині"
- ded_heavy_aircraft: "Рухи"
- ded_transport: "Ведмежуки"
- ded_sea_monster: "Морські змії" # від “змій”, не “змія”
- ded_big_sea_monster: "Левіафани"
- ded_fish: "Морські змії" # від “змій”, не “змія”
- ded_big_fish: "Левіафани"
-
 # country_DEL_AF
  ### ПЕРСОНАЖІ ###
   DEL_AF_castan_ii_beastbane: "Кастан II Звіробій"
@@ -532,6 +514,8 @@
   DEL_AF_royvibobb: "Кін Стар"
   DEL_AF_japsterdam: "Япстердам" # 13371
   DEL_AF_drenthe: "Дренте"
+
+ DEL_undead_occupation: "Окупація мерцями"
 
 # country_DMT
  DMT_fascism: "Діамантова Гора"
@@ -970,6 +954,337 @@
  Generic_great_lakes_cosmetic_tag_placeholder_communism: "Союз Великих Озер"
  Generic_great_lakes_cosmetic_tag_placeholder_communism_DEF: "Союз Великих Озер"
  Generic_great_lakes_cosmetic_tag_placeholder_communism_ADJ: "Великоозерн"
+
+# country_GREG
+ ### КОСМЕТИЧНІ ТЕҐИ ###
+  Terathopia_fascism: "Тамбелон"
+  Terathopia_fascism_DEF: "Тамбелон"
+  Terathopia_fascism_ADJ: "Тамбелонськ"
+  Terathopia_democratic: "Тамбелон"
+  Terathopia_democratic_DEF: "Тамбелон"
+  Terathopia_democratic_ADJ: "Тамбелонськ"
+  Terathopia_neutrality: "Тамбелон"
+  Terathopia_neutrality_DEF: "Тамбелон"
+  Terathopia_neutrality_ADJ: "Тамбелонськ"
+  Terathopia_communism: "Тамбелон"
+  Terathopia_communism_DEF: "Тамбелон"
+  Terathopia_communism_ADJ: "Тамбелонськ"
+
+  Terathopia_2_fascism_ADJ: "Тамбелонськ"
+  Terathopia_2_democratic_ADJ: "Тамбелонськ"
+  Terathopia_2_neutrality_ADJ: "Тамбелонськ"
+  Terathopia_2_communism_ADJ: "Тамбелонськ"
+
+  Terathopia_3_fascism_ADJ: "Тамбелонськ"
+  Terathopia_3_democratic_ADJ: "Тамбелонськ"
+  Terathopia_3_neutrality_ADJ: "Тамбелонськ"
+  Terathopia_3_communism_ADJ: "Тамбелонськ"
+
+ ### НАЗВИ ПАРТІЙ ###
+  baaaaaaaaaa: "Ґроґаристи"
+  baaaaaaaaa: "Ґроґаристи"
+  baaaaaaaa: "Зрадники"
+  baaaaaa: "Зрадники"
+  baaaaa: "Єретики"
+  baaaa: "Єретики"
+  baaa: "Боягузи"
+  baa: "Боягузи"
+
+ ### НАЗВИ ОБЛАСТЕЙ І ПРОВІНЦІЙ ###
+  tambelon_torpedo: "Тамбелон"
+
+ ### ПЕРСОНАЖІ ###
+  ZAI_gote: "Ґоте"
+  ZAI_pomni: "Пом"
+  ZAI_gary: "Ґері Козловський"
+  FRN_donkey_chief: "Брей"
+
+  revolt_council: "Тимчасова рада"
+  revolt_council_2: "Тимчасова рада"
+
+ ### РИСИ ###
+  navy_chief_naval_aviation_4: "Батько чудовиськ"
+  navy_chief_naval_aviation_5: "$navy_chief_naval_aviation_4$"
+
+ ### ПІДРОЗДІЛИ ###
+  ded_anti_infantry_monster: "Мантикори"
+  ded_anti_infantry_monster_2: "Хімери"
+  ded_heavy_monster_2: "Гідри"
+  ded_heavy_monster: "Титани"
+  ded_tatzlwurm: "Татцельвурми"
+  ded_anti_tank_monster: "Пращехвости"
+  ded_light_aircraft: "Летючі свині"
+  ded_heavy_aircraft: "Рухи"
+  ded_transport: "Ведмежуки"
+  ded_sea_monster: "Морські змії" # від “змій”, не “змія”
+  ded_big_sea_monster: "Левіафани"
+  ded_fish: "Морські змії" # від “змій”, не “змія”
+  ded_big_fish: "Левіафани"
+
+ ### ТЕХНОЛОГІЇ ТА СПОРЯДЖЕННЯ ###
+  monster_equipment: "Спорядження монстрів"
+  monster_equipment_0: "Спорядження монстрів"
+  monster_equipment_0_short: "Спорядження монстрів"
+
+ ### ОКУПАЦІЯ ###
+  ZAI_special_occupation: "Правління чудовиськ"
+
+ ### СЛУЖБОВА ЛОКАЛІЗАЦІЯ ТА МІТКИ ###
+  WIT_manticore_tt: "З'явиться дивізія §Yмантикор§!.\n" # (@pj) – WIT
+  WIT_monster_infantry_tech_tt: "Розблокуються §Yнові рішення§!".\nБуде отримано §Y3§! §CШаблона Істот§!.\n" # (@pj)
+  # ***
+  WIT_750_cost: "Коштує §P750§! одиниць біомаси £biomass_texticon£.\n" # (@pj)
+  WIT_1500_cost: "Коштує §P1500§! одиниць біомаси £biomass_texticon£.\n" # (@pj)
+  WIT_5000_cost: "Коштує §P5000§! одиниць біомаси £biomass_texticon£.\n" # (@pj)
+  WIT_chimera_tt: "З'явиться дивізія §Охімер§!.\n" # (@pj)
+  WIT_hydra_tt: "З'явиться дивізія §8гідр§!.\n" # (@pj)
+  WIT_tatzlwurm_tt: "З'явиться дивізія §Ртатцельвурмів§!.\n" # (@pj)
+  WIT_slingtail_tt: "З'явиться дивізія §gпращехвостів§!.\n" # (@pj)
+  WIT_heavy_monster_tt: "З'явиться §Rтитан§!.\n" # (@pj)
+  WIT_aircraft_tech_tt: "\nСтворити §Y1§! §Cшаблон істоти§!.\n" # (@pj)
+  WIT_naval_tech_tt: "\nСтворити §Y1§! §Cшаблон істоти§!.\n" # (@pj)
+  WIT_spell_cost_1: "Коштує §C1§! магічний заряд £magic_power_texticon£.\n" # (@pj)
+  WIT_spell_cost_2: "Коштує §C2§! магічних заряду £magic_power_texticon£.\n" # (@pj)
+  WIT_spell_cost_3: "Коштує §C3§! магічних заряду £magic_power_texticon£.\n" # (@pj)
+  WIT_spell_cost_4: "Коштує §C4§! магічних заряду £magic_power_texticon£.\n" # (@pj)
+  WIT_spell_cost_5: "Коштує §C5§! магічних зарядів £magic_power_texticon£.\n" # (@pj)
+  WIT_spell_cost_6: "Коштує §C6§! магічних зарядів £magic_power_texticon£.\n" # (@pj)
+  WIT_spell_cost_7: "Коштує §C7§! магічних зарядів £magic_power_texticon£.\n" # (@pj)
+  WIT_spell_cost_8: "Коштує §C8§! магічних зарядів £magic_power_texticon£.\n" # (@pj)
+  WIT_spell_cost_9: "Коштує §C9§! магічних зарядів £magic_power_texticon£.\n" # (@pj)
+  WIT_spell_cost_10: "Коштує §C10§! магічних зарядів £magic_power_texticon£.\n" # (@pj)
+  WIT_fear_factor_3: "Потрібен §gнезначний§! §Lрівень страху§! £fear_texticon£.\n" # (@pj)
+  WIT_fear_factor_6: "Потрібен §Помірний§! §Lрівень страху§! £fear_texticon£." # (@pj)
+  WIT_fear_factor_9: "Потрібен §Yсередній§! §Lрівень страху§! £fear_texticon£." # (@pj)
+  WIT_fear_factor_12: "Потрібен §істотний§! §Lрівень страху§! £fear_texticon£." # (@pj)
+  WIT_fear_factor_15: "Потрібен §Rвисокий§! §Lрівень страху§! £fear_texticon£." # (@pj)
+  WIT_fear_factor_20: "Потрібен §потужний§! §Lрівень страху§! £fear_texticon£." # (@pj)
+  WIT_fear_factor_30: "Потрібен §важкий§! §Lрівень страху§! £fear_texticon£." # (@pj)
+  WIT_fear_factor_60: "Потрібен §6непомірний§! §Lрівень страху§! £fear_texticon£." # (@pj)
+  WIT_fear_factor_100: "Потрібен §Dапокаліптичний§! §Lрівень страху§! £fear_texticon£." # (@pj)
+  WIT_50_gain: "Буде отримано §P50§! одиниць біомаси £biomass_texticon£.\n" # (@pj)
+  WIT_150_gain: "Буде отримано §P150§! одиниць біомаси £biomass_texticon£.\n" # (@pj)
+  WIT_250_gain: "Буде отримано §P250§! одиниць біомаси £biomass_texticon£.\n" # (@pj)
+  WIT_500_gain: "Буде отримано §P500§! одиниць біомаси £biomass_texticon£.\n" # (@pj)
+  WIT_1000_gain: "Буде отримано §P1000§! одиниць біомаси £biomass_texticon£.\n" # (@pj)
+  WIT_1500_gain: "Буде отримано §P1500§! одиниць біомаси £biomass_texticon£.\n" # (@pj)
+  WIT_2500_gain: "Буде отримано §P2500§! одиниць біомаси £biomass_texticon£.\n" # (@pj)
+  WIT_3000_gain: "Буде отримано §P3000§! одиниць біомаси £biomass_texticon£.\n" # (@pj)
+  WIT_5000_gain: "Буде отримано §P5000§! одиниць біомаси £biomass_texticon£.\n" # (@pj)
+  WIT_10000_gain: "Буде отримано §P10000§! одиниць біомаси £biomass_texticon£.\n" # (@pj)
+  WIT_100_gain: "Буде отримано §P100§! одиниць біомаси £biomass_texticon£.\n" # (@pj)
+  WIT_magic_1_gain: "Буде отримано §C1§! магічний заряд £magic_power_texticon£.\n" # (@pj)
+  WIT_magic_2_gain: "Буде отримано §C2§! магічних заряду £magic_power_texticon£.\n" # (@pj)
+  WIT_magic_3_gain: "Буде отримано §C3§! магічних заряду £magic_power_texticon£.\n" # (@pj)
+  WIT_magic_4_gain: "Буде отримано §C4§! магічних заряду £magic_power_texticon£.\n" # (@pj)
+  WIT_magic_5_gain: "Буде отримано §C5§! магічних зарядів £magic_power_texticon£.\n" # (@pj)
+  WIT_magic_6_gain: "Буде отримано §C6§! магічних зарядів £magic_power_texticon£.\n" # (@pj)
+  WIT_magic_7_gain: "Буде отримано §C7§! магічних зарядів £magic_power_texticon£.\n" # (@pj)
+  WIT_magic_8_gain: "Буде отримано §C8§! магічних зарядів £magic_power_texticon£.\n" # (@pj)
+  WIT_magic_9_gain: "Буде отримано §C9§! магічних зарядів £magic_power_texticon£.\n" # (@pj)
+  WIT_magic_10_gain: "Буде отримано §C10§! магічних зарядів £magic_power_texticon£.\n" # (@pj)
+  WIT_bell_toll_tt: "Відбудеться масове знищення.\n" # (@pj)
+  ZAI_high_command_unlocked: "Вище командування розблоковане" # (@LH)
+  NE_new_decisions_unlocked: "Рішення розблоковані" # (@LH)
+  # ***
+  NE_wrathful_commander_stats_tt: "§RНавичка атаки§!: §Y3§!\n§YНавичка захисту§!: §Y1§!\n§GНавичка планування§!: §Y2§!\n§CНавичка логістики§!: §Y1§!\n\n" # (@LH)
+  NE_contemplative_commander_stats_tt: "§RНавичка атаки§!: §Y1§!\n§YНавичка захисту§!: §Y3§!\n§GНавичка планування§!: §Y1§!\n§CНавичка логістики§!: §Y2§!\n\n" # (@LH)
+  NE_cunning_commander_stats_tt: "§RНавичка атаки§!: §Y2§!\n§YНавичка захисту§!: §Y2§!\n§GНавичка планування§!: §Y2§!\n§CНавичка логістики§!: §Y2§!\n\n" # (@LH)
+  # ***
+  NE_crackdown_on_populace_tooltip: "Відмикає новий §Rзакон окупації§!.\n" # (@LH)
+  # ***
+  total_seapony_death: "[HIP.GetNameDefCap] втратить доступ до §Yпідводних споруд і призовників§!.\n" # (&?) # (@LH)
+
+ ### РІШЕННЯ ###
+  biomancy_decisions: "Біомантія — істоти" # (@pj)
+  WIT_make_manticores: "Амальгамувати мантикор" # (@pj)
+  WIT_make_chimeras: "Амальгамувати химер" # (@pj)
+  WIT_make_hydras: "Амальгамувати гідр" # (@pj)
+  WIT_make_pigs: "Амальгамувати свигасів" # (@pj)
+  WIT_make_rocs: "Амальгамувати птахів рух" # (@pj)
+  WIT_make_bugbears: "Амальгамувати ведмежуків" # (@pj)
+  WIT_make_sea_serpents: "Амальгамувати морських зміїв" # (@pj)
+  WIT_make_leviathans: "Амальгамувати левіафанів" # (@pj)
+  WIT_make_titan: "Амальгамувати титана" # (@pj)
+  WIT_make_tatzlwurms: "Амальгамувати татцельвурмів" # (@pj)
+  WIT_make_slingtails: "Амальгамувати пращехвостів" # (@pj)
+  WIT_train_biomancers: "Натренувати повелителів звірів" # (@pj)
+  WIT_multiply_biomass: "Розмножити біомасу" # (@pj)
+  WIT_harvest_biomass: "Зібрати біомасу в [From.GetName]" # (@pj)
+
+  crystal_related_decisions: "Використання кристалів" # (@pj)
+  WIT_mana_batteries: "Конденсація магічної енергії" # (@pj)
+  WIT_mana_batteries_2: "Масова конденсація магічної енергії" # (@pj)
+  WIT_craft_armour: "Створити броню з кристалів" # (@pj)
+  WIT_craft_armour_2: "Створити броню з кристалів" # (@pj)
+
+  biomancy_decisions_2: "Біомантія — заклинання" # (@pj)
+  WIT_harvest_magic: "Висушити магію в [From.GetName]" # (@pj)
+  WIT_blood_rain: "Кривавий дощ" # (@pj)
+  WIT_cancer: "Розривні болти" # якщо що підправлю # (@pj)
+  WIT_weakness: "Слабкість плоті" # (@pj)
+  WIT_parasprites: "Поширити параспрайтів" # (@pj)
+  WIT_strength: "Сила через страх" # (@pj)
+  WIT_polymorph: "Поліморф" # (@pj)
+  WIT_the_bell_tolls: "Вигнання" # (@pj)
+  WIT_mass_disease: "Мікробіомантія" # (@pj)
+  WIT_mass_cancer: "Глобальна прискорена дестабілізація клітин" # (@pj)
+  WIT_reality_destabilization: "Розрив реальності" # (@pj)
+
+ ### ФОКУСИ ###
+  TMB_focus: "Дерево фокусів Тамбелону"
+
+ ### ПОДІЇ ###
+  some_secrets_are.173.t: "Історії дюн" # (@Bov) — BRF
+  some_secrets_are.173.d: "Дорогий щоденнику,\n\nПісля довгої та важкої подорожі сьогодні караван нарешті прибув до своєї мети — міста-оазису Азір. Однак назвати це містом буде великою лестю. Насправді це була лише купа наметів і невеликих торгових прилавків. І все ж це найбільше поселення в усьому пустельному регіоні. Наші запаси води майже вичерпалися до кінця подорожі, тому ми з виснаженими від спраги верблюдами каравану з радістю кинулися до прісної води. Місцеві дикарі були достатньо гостинні, оскільки подібні каравани — це для них звична справа. Однак зебри проявили до мене особливу цікавість, оскільки, здається, вони ніколи в своєму житті не бачили поні з Еквестрії. Гід переклав їхні слова, сказавши, що вони захоплюються кольором мого забарвлення.\n\nПісля короткого перепочинку я вирушив до своєї основної мети, а саме загадкових руїн неподалік від поселення. На щастя, мій осел-гід знав найкращу дорогу, тому ми впевнено попрямували вдалину через піщані дюни. Коли ми піднялися на наступну з них, я, нарешті, зміг побачити ці самі руїни, від яких у мене буквально відвисла щелепа від подиву. Височіючі над навколишнім простором монолітні чорні камені були наполовину погребені під піском і, схоже, стояли тут багато століть. І подібні будівлі проглядалися повсюди. Це була справжня безцінна знахідка для археолога на зразок мене!\n\nМи з гидом спустилися вниз по дюні, щоб оглянути ці руїни ближче. Я буквально відчував, як усе всередині мене перевертається від нетерпіння! Чутки справдилися, і мені вдалося зробити знахідку, яка точно прославить мене на всю Еквестрію. Тим не менш, на моєму обличчі ці думки не відобразилися, і в дорозі я зберігав професіоналізм і зібраність, занотовуючи безліч записів у блокнот. Однак, поки ми з гідом блукали по цих руїнах, мені пощастило натрапити на дещо особливе, наполовину заховане під купою сміття — ідеально круглу сферу. Мій гід був навіть більш захоплений моєю знахідкою, ніж я. На моє запитання про цей шар він відповів, що це багатовікове втрачене багатство. Разом нам вдалося витягти цю сферу з-під сміття, не пошкодивши її в процесі. Це була по-справжньому вражаюча знахідка. А ще, якщо подивитися прямо в неї, створюється враження, що ти дивишся просто в безодню..." # (@Bov)
+  some_secrets_are.173.a: "..." # (@Bov)
+
+  # 137 – YAL
+
+  # 129 – FLO
+
+  some_secrets_are.47.t: "Збити зі сліду" # (@GK) — BAL
+  some_secrets_are.47.d: "Дорогий щоденнику,\n\nНа жаль, я не зміг зв'язатися з одним із моїх шести контактів. Країна, в якій вони проживали, була насильно анексована іншою державою, і особа, яку я шукав, схоже, зникла безслідно. Не маючи всіх шістьох, я дуже сумніваюся, що зможу повністю розкрити цю таємницю. Однак я не здамся, я зайшов надто далеко, щоб просто опустити копита. Мої розслідування не припиняться. Я впевнений, що досягну успіху. Я просто зобов'язаний." # (@GK)
+  some_secrets_are.47.a: "..." # (@GK)
+
+  katerin.152.t: "Окультист" # (@SJ) – KAT
+  katerin.152.d: "Дорогий щоденнику,\n\nСьогодні я нарешті прибув у темні землі Катерину, де жив Оскар. Не знаю, чому він вирішив оселитися в цій жалюгідній місцині. Якось так вийшло, що ліс Шайсвальд ще гірший за Вічнодикий, але грифони охоче живуть тут, зазнаючи регулярних нападів магічних чудовиськ. Я захоплююся їхньою відвагою, але шкодую про їхню дурість.\n\nДо країни я прибув, рухаючись вгору за течією річки Грифкінг, але щоб дістатися столиці, довелося кілька годин їхати возом, адже, як виявилося, місто кілька років тому перенесли подалі від річки. Місцеві казали, що це був наказ Божевільної Княгині, і я досі бачив руїни покинутих будівель на берегах могутнього Грифкінгу. Дивно, але це нагадало мені руїни в Азірі. Прибувши до міста [KAT.Capital.GetName], я розпитував різних грифонів про місцеперебування Оскара. Ніхто, здається, не знав такого і навіть не бачив кіз, окрім однієї жриці. Вона розповіла, де мешкає Оскар, і сказала, що він окультист, який дає теологічні поради місцевому жрецтву та має глибокі знання арканістики. Я не повірив словам жриці й засумнівався, що козел може дати мені якісь науково надійні поради. Але його ім’я було в списку, тож у мене не залишалося вибору, як тільки довіритися йому.\n\nОскар не бажав зустрічі, доки я не згадав про сферу. Він відчинив двері свого дому та пояснив, що був зайнятий "поглинанням" знань із релігійного трактату — буквально поїдаючи його сторінки. Я закотив очі й розповів, де знайшов сферу та що казав мій провідник, і він усе підтвердив. Кришталева куля може бути використана, але для цього знадобиться шість кіз. Тоді вона дасть бачення ключа від гробниці. Якщо це правда, то сама куля не здатна відкрити гробницю, але потрібна, щоб знайти прихований ключ. Він сказав, що зрештою поїде до Еквестрії, щоб побачити кулю на власні очі." # (@SJ)
+  katerin.152.a: "..." # (@SJ)
+
+  some_secrets_are.42.t: "Редактор" # (@Bov) – HAU
+  some_secrets_are.42.d: "Дорогий щоденнику,\n\nПодорож до Йаки-клану була нелегкою. Мало того, що країна була значною мірою ізольована від зовнішнього світу, так ще й дороги були в жахливому стані, а клімат — холодний, бо шлях пролягав через гірську долину. Мені навіть довелося найняти особистого охоронця, оскільки до мене доходили чутки, що яки раніше лінчували еквестрійців.\n\nХоча місцеві жителі були негостинні, як тільки я прибув в [JAK.Capital.GetName], я все одно ходив і розпитував їх про Абрама. Більшість з них відмовлялися навіть розмовляти зі мною, але один молодий як, який стверджував, що ненавидить правління Йаки-клану та їхній ізоляціонізм, з радістю заговорив зі мною і сказав, де його знайти. Цей Абрам працював редактором новин в уряді.\n\nКозел був радий зустрічі зі мною, хоча він був... зайнятий на роботі. Він їв газетні статті, написані прихильниками Як'якистану. Офіційно він був редактором, але насправді він був живим шматочком паперу. Коли він закінчив їсти, ми багато говорили про мої відкриття. Він сказав мені, що я не відкрив руїни по-справжньому, оскільки кози завжди знали, що вони там були. Інші раси не знали про їхнє існування, бо всі записи про них були ретельно стерті. Він відмовився сказати мені чому. Він сказав мені, що руїни були надзвичайно давніми і збереглися лише завдяки сухій спеці пустелі.  Він стверджував, що руїнам понад п'ять тисяч років, і хоча я сумнівався, але не здивувався б, якби це було правдою. Він сказав, що хоче сам побачити кулю, щоб переконатися в моїх словах. Очевидно, робота редактором зробила його скептиком." # (@Bov)
+  some_secrets_are.42.a: "..." # (@Bov)
+
+  # 3 – DRG
+
+  # 12 – TEM
+
+  some_secrets_are.153.a: "Ренді в державі [MIT.GetName]." # (@pj) – WIT
+  some_secrets_are.153.b: "Джайлз у державі [BUF.GetName]." # (@pj)
+  some_secrets_are.153.c: "Гор у державі [LMB.GetName]." # (@pj)
+
+  some_secrets_are.1852.t: "Розпорядник" # (@XXX) – MAN&ELF
+  some_secrets_are.1852.d: "Дорогий щоденнику,\n\nПливучи на кораблі, я прибула до гамірного порту Астерової Гавані в пошуках Ренді. Як було відомо, це не було надто важко, бо він працює на доволі відомого минотавра — Айрон Вілла. І справді, щойно я запитала місцевих про Айрон Вілла, мені одразу дали його адресу. Коли я дісталася нього, він подумав, що я прийшла як клієнтка на його семінар із самовпевненості, й сказав, що вже кілька років як завершив кар’єру. Я пояснила, чого хочу, й попросила зустрітись із Ренді. Він виглядав трохи розгублено, але все ж організував зустріч. Ренді й далі працював у нього помічником після повернення з Еквестрії. Я попросила Айрон Вілла залишити нас наодинці.\n\nЯ розповіла Ренді все. Йому, здається, було навіть трохи смішно, що саме поні знайшла один із найцінніших артефактів його народу. Він розповів, що саме поні свого часу спричинили занепад його раси — хоч і не затаїв злоби на давнє минуле. Жартома — наполовину — він сказав, що тепер саме поні можуть викупити свою провину, і що я маю шанс це зробити. І хоч він сказав це з усмішкою, у його словах відчувався глибший сенс.\n\nВін погодився допомогти. Сказав, що вже відклав достатньо грошей, аби вирушити до Еквестрії, якщо буде потрібно. Я подякувала, і тільки сподіваюся, що Айрон Вілл не сильно образиться за те, що я «позичаю» його помічника." # (@XXX)
+  some_secrets_are.1852.a: "..." # (@XXX)
+
+  some_secrets_are.997.t: "Шаман" # (@Bov) – OLV
+  some_secrets_are.997.d: "Любий щоденник,\n\nЯк же було чудово цього разу подорожувати Еквестрією, а не плавати морями і стикатися з прикордонним контролем безлічі країн. Моєю точкою призначення був Тихий Захід, землі, де жили бізони, що все ще самоізолювалися від усіх навколо, попри спроби Еквестрії щодо їхньої інтеграції. І нехай між поні та бізонами було кілька конфліктів у минулому, я сподівався на їхню гостинність щодо допитливого мандрівника.\n\nЗвісно, нехай вони й поставилися до мене скептично, бізони все ж дозволили мені увійти до їхнього поселення. На моє запитання про те, чи чув хтось про Джайлза, його впізнали вмить. Він був шаманом-езотериком і єдиним цапом, про якого знали бізони. Оскільки той жив сам у пустелі, мені довелося продовжити свою подорож далі. На щастя, молода бізониха допомогла мені з дорогою, оскільки вона знала місцеві стежки.\n\nШаман жив на самоті в наметі поруч із невеликим джерелом води, що пробивалося серед сухого каміння. Джайлз вискочив зі свого житла майже миттєво, як почув наші кроки, і спробував атакувати, розмахуючи довгою палицею з неприхованою погрозою. На моє полегшення, бізониха змогла вгамувати його і сказати про моє бажання з ним зустрітися. Оскільки ми були не одні, то мені довелося опустити в розповіді відомості про кришталеву кулю. Через це шаман був не особливо зацікавлений у розмові, добре що незабаром бізонисі набридло нас слухати, і вона пішла подивитися околиці. Тільки тоді в мене з'явилася можливість розповісти про артефакт, після чого цап вмить підбадьорився.\n\nВін почав щось частити про давно минулі дні, коли його раса правила світом. Джайлз сказав, що руїни, які мені вдалося знайти, насправді є §RТАМБЕЛОНОМ§!, стародавньою столицею всього козячого роду. А ще він розповів про старе пророцтво: “Коли зірки зійдуться в один день, місто повстане і здобуде стару славу”.\n\nЗвісно, це все було абсолютною нісенітницею, але Джайлз украй бажав побачити кулю на власні очі, тому ми домовилися зустрітися ще раз." # (@Bov)
+  some_secrets_are.997.a: "..." # (@Bov)
+
+  some_secrets_are.5.t: "Священик" # (@XXX) – EQC
+  some_secrets_are.5.d: "Дорогий щоденнику,\n\nПодорож до Ламбета була важкою, адже з усіх боків земля оточена гігантськими горами, а місцеві не дуже теплі до чужинців. Нарешті прибуття до міста [LMB.Capital.GetName] сьогодні стало можливістю перевести подих, якою я не скористався і негайно вирушив на пошуки т. зв. «Ґора». Лами та альпаки — зарозумілі істоти, більшість із них не хочуть мати зі мною нічого спільного. Дехто з них навіть плював на мене! Проте я зберіг свою рішучість і незабаром побачив у храмі істоту, НЕ представника одної з домінуючих рас у Ламбеті. Він вів «проповідь», голосно блеяв на присутніх, тож я терпляче чекав. Після закінчення, я підійшов і запитав, чи він — Ґор. Він кивнув, його беземоційне обличчя приховувало його думки.\n\nЯ продовжував говорити, пояснюючи мету візиту. На його обличчі так і не було жодної емоції. Тільки коли я згадав про кришталеву кулю, він нарешті посміхнувся. Він запевнив, що за допомогою кулі можна знайти Дзвін. Мабуть, це і був ключ від гробниці, про який я чув раніше. Його заховали тисячі років тому, але кози все ще знали, як його знайти, просто не мали приводу витягувати його. Він повідомив, що слід якнайшвидше повернути артефакт, бо гробницю можна відкрити лише певного дня. Мені довелося перетворити його на еквестрійський календар: 9 вересня 1009 року від З. Л.\n\nЯ не все зрозумів: Ґор явно щось приховував. Але він був потрібний мені, а я – йому, тож ми домовилися про співпрацю. Можливо, це єдиний спосіб розкрити таємницю." # (@XXX)
+  some_secrets_are.5.a: "..." # (@XXX)
+
+  # 23 – DMT
+
+  # 998 – CHN
+
+  # 666 – DED_AF
+
+  # 15 – ZRS
+
+  # 150 – TRD
+
+  some_secrets_are.283.t: "Гора" # (@SJ) – GRF
+  some_secrets_are.283.d: "Расті Бакет більше не становив загрози, нехай поні-археологу і було його шкода. Піднімаючись величезними купами снігу, всі вони могли з легкістю дістатися до початку гори і почати сходження. Як шестеро й казали, у них не було жодних проблем зі скелелазінням, але Абраму довелося нести поні на собі. Вітри тут були сильні, але вони трималися і працювали разом, щоб ніхто не зірвався зі скель. Знадобилося багато годин, але врешті-решт вони досягли вершини, і тільки заради того, щоб виявити широку прірву, що продувається всіма вітрами. З іншого боку була ще одна засніжена вершина, в якій виднілася замерзла стежка до печери. Шестеро й один почали сперечатися, як їм перетнути перешкоду. Вітри були сильними, а відстань великою. Зрештою, саме поні запропонував рішення." # (@SJ)
+  some_secrets_are.283.a: "Спустіться в прірву, потім підніміться на інший бік." # (@SJ)
+  some_secrets_are.283.b: "Знайдіть спосіб обійти прірву." # (@SJ)
+  some_secrets_are.283.c: "Просто перестрибніть через неї." # (@SJ)
+  some_secrets_are.283.e: "Телекінезом зав'яжіть мотузку поперек прірви." # (@SJ)
+
+  some_secrets_are.6.t: "Печера" # (@GK) – NCR
+  some_secrets_are.6.d: "Поки вони намагалися перетнути глибоку прірву, вітер дув із такою силою, що поні ледь не зкинуло вниз, і лише Оскар устиг врятувати супутника. Поступово всі семеро безпечно подолали перешкоду. По той бік прірви вони трималися звивистої стежки, поки нарешті не дісталися магічно запечатаної печери, в якій виднівся дзвін. Шестеро повернулися до поні та нарешті розкрили його справжнє призначення. Печатку міг відкрити лише єдиноріг. Усе, що потрібно було зробити, — це створити невеликий отвір у силовому полі за допомогою магії, тоді Рейчел зможе використати телескопічний захват, щоб вхопитися за дзвін.\n\nІ все ж наприкінці шляху поні долали сумніви." # (@GK)
+  some_secrets_are.6.a: "У мене немає іншого вибору, окрім як погодитися це зробити." # (@GK)
+  some_secrets_are.6.b: "Забудьте. Я передумав це робити." # (@GK)
+
+  good_ending.15.t: "Назад додому" # (@SJ) – FAT
+  good_ending.15.d: "Дорогий щоденник,\n\nЦе була непогана пригода, за час якої моє життя не раз висіло на волосині. Саме тому повернутися в безпечний Кантерлот було особливо приємно. Звісно, тепер він не настільки безпечний, як міг би бути, оскільки кози тепер справді злі на мене за відмову допомагати їм у поверненні дзвону. Причому це було навіть не зі зла, а тому що справді є моторошна причина. Дзвін був захищений і охоронявся не просто так. Що б то не було в гробниці в Азірі, воно було добре закрито не просто так. Утім, мої доводи не переконали шістьох, і вони відмовлялися мене слухати, тому мені довелося тікати. Звісно, не обійшлося без пари синців, але за допомогою Расті Бакет ми змогли відірватися від погоні кіз.\n\nУ мене все ще залишалася та сама кришталева куля, хай вона більше й не була потрібна. Оскільки мною було прийнято рішення залишити цю таємницю в спокої, то я можу зробити її надбанням суспільства. І все ж мені не вдається позбутися відчуття, ніби ця сфера за мною спостерігає. Мабуть, краще знищити її раз і назавжди. Так точно ніхто не знайде заборонений дзвін." # (@SJ)
+  good_ending.15.a: "Деякі секрети повинні залишитися нерозкритими." # (@SJ)
+
+  best_left_hidden.999.t: "Обряд" #Hidden star father content
+  #best_left_hidden.999.d:0 "The pony's strength was gone for days afterwards. He could barely stay conscious and was carried along as he was no longer able to stand. Only hazy memories remained of that time. He remembered descending down and screaming in agony. The Sun being raised and lowered, the same being done with the Moon afterwards. Stars swirling. A train, a ship, a caravan. Heat and cold. Dark and light. All mixed together in his mind into dull darkness and gloomy orange. The Eye looked upon him.\n\nHe was back in the ruins. They had brought him there without him even realizing. It explained the heat. It had been so long, yet he could still recognize the monoliths of dark stone, which now seemed oddly ominous and terrifying. He was carried deep within the ruins, to a familiar room.\n\n"The tomb is a lie," the familiar donkey guide said to him. "He who never died needs no tomb. No, this is an altar."\n\nIt became dark as the sun set once more. "The alignment is about to commence!" Giles shouted. "Prepare the ritual!"\n\nThe bell tolled. The pony was placed upon a slab. The occultist drew out a curved knife. Bleating began. The bell tolled. The knife entered the pony's chest. He had no strength to scream. Blood spilled everywhere as the heart was pulled out. The bell tolled. The occultist consumed the heart. The bell tolled. The stars aligned. The Eye watched.\n\nRuins began to shift and change. Dunes began to vanish. Fallen pillars stood again. Collapsed roofs repaired themselves. §RTAMBELON§! had returned to the primary dimension, after being banished for so long. The Father smiled as His summoners prostrated themselves before His presence and offered Him the Bewitching Bell." # (!)
+  best_left_hidden.999.a: "Подзвін лунає по всіх нас."
+  best_left_hidden.999.b: "Ти просто брудний чітер, так? Геть звідси."
+
+ ### МОЖЕ КОЛИ-НЕБУДЬ ###
+  ZAI_tooltip: "§RМабуть, ліпше не робити нічого.§!"
+
+  # Mane six stuff
+  ZAIBattle_m6_applejack: "Епплджек\n§AЧесність§!"
+  ZAIBattle_m6_rainbow_dash: "Рейнбоу Деш\n§DВірність§!"
+  ZAIBattle_m6_rarity: "Реріті\n§rЩедрість§!"
+  ZAIBattle_m6_fluttershy: "Флаттершай\n§FДоброта§!"
+  ZAIBattle_m6_pinkie_pie: "Пінкі Пай\n§PСміх§!"
+  ZAIBattle_m6_spike: "Спайк\n§gАсистент§!"
+  ZAIBattle_m6_twilight: "Твайлайт Спаркл\nЕлемент §0Магії§!"
+
+  ZAIBattle_m6_applejack_short: "§AЕпплджек§!"
+  ZAIBattle_m6_rainbow_dash_short: "§DРейнбоу Деш§!"
+  ZAIBattle_m6_rarity_short: "§rРеріті§!"
+  ZAIBattle_m6_fluttershy_short: "§FФлаттершай§!"
+  ZAIBattle_m6_pinkie_pie_short: "§PПінкі Пай§!"
+  ZAIBattle_m6_spike_short: "§gСпайк§!"
+  ZAIBattle_m6_twilight_short: "§0Твайлайт Спаркл§!"
+
+  ZAIBattle_m6_hp_text: "Одиниці здоров'я: ([?ZAI_mane_six_health^m6_idx|R0]/[?ZAI_mane_six_health_max^m6_idx|Y0])\nОдиниці щита: (§3[?ZAI_mane_six_shield^m6_idx|0]§!/[?ZAI_mane_six_shield_max^m6_idx|Y0])"
+  ZAIBattle_m6_mana_text: "Енергія: (§4[?ZAI_mane_six_mana^m6_idx|0|%%]§!)"
+
+  # Goats stuff
+  ZAIBattle_goats_giles: "Джайлз\n§tКозлик-шаман§!"
+  ZAIBattle_goats_randy: "Ренді\n§tКозлик-ведучий§!"
+  ZAIBattle_goats_oskar: "Оскар\n§tКозлик-окультист§!"
+  ZAIBattle_goats_gore: "Ґор\n§tКозлик-жрець§!"
+  ZAIBattle_goats_abram: "Абрам\n§tКозлик-редактор§!"
+  ZAIBattle_goats_rachel: "Рейчел\n§tРозумна кізонька§!"
+  ZAIBattle_goats_grogar: "Ґроґар\n§tБатько потвор§!"
+
+  ZAIBattle_goats_giles_short: "§tДжайлз§!"
+  ZAIBattle_goats_randy_short: "§tРенді§!"
+  ZAIBattle_goats_oskar_short: "§tОскар§!"
+  ZAIBattle_goats_gore_short: "§tҐор§!"
+  ZAIBattle_goats_abram_short: "§tАбрам§!"
+  ZAIBattle_goats_rachel_short: "§tРейчел§!"
+  ZAIBattle_goats_grogar_short: "§tҐроґар§!"
+
+  ZAIBattle_gs_confirm_ability_use: "Клацніть знову, щоби підтвердити застосування здібності."
+
+  ZAIBattle_gs_hp_text: "Одиниці здоров'я: ([?ZAI_goats_health^gs_idx|R0]/[?ZAI_goats_health_max^gs_idx|Y0])\nОдиниці щита: (§3[?ZAI_goats_shield^gs_idx|0]§!/[?ZAI_goats_shield_max^gs_idx|Y0])"
+  ZAIBattle_gs_mana_text: "Енергія: (§4[?ZAI_goats_mana^gs_idx|0%%]§!)"
+  ZAIBattle_goats_action_button_tooltip: "§Y[?gs_actions_val.GetTokenLocalizedKey]§!\n[?gs_val:ZAI_goats_actions_desc^gs_actions_idx.GetTokenLocalizedKey]"
+
+  # (&?)
+  ZAIBattle_goats_action_giles_terrors_of_the_flesh: "Жахи плоті"
+  #ZAIBattle_goats_action_giles_terrors_of_the_flesh_Desc:0 "(Terrors of the Flesh Desc here)"
+  ZAIBattle_goats_action_giles_the_sight_sees_who_lies_before_me: "Зір бачить усіх переді мною"
+  #ZAIBattle_goats_action_giles_the_sight_sees_who_lies_before_me_Desc:0 "(The Sight Sees Who Lies Before Me)"
+  ZAIBattle_goats_action_giles_the_father_with_me: "Батько зі мною"
+  #ZAIBattle_goats_action_giles_the_father_with_me_Desc:0 "(The Father With Me Desc here)"
+  ZAIBattle_goats_action_randy_come_one_come_all: "Приходь один, приходьте всі"
+  #ZAIBattle_goats_action_randy_come_one_come_all_Desc:0 "(Come One, Come All Desc here)"
+  ZAIBattle_goats_action_randy_see_the_attraction: "Подивіться на принаду!"
+  #ZAIBattle_goats_action_randy_see_the_attraction_Desc:0 "(See The Attraction! Desc here)"
+  ZAIBattle_goats_action_oskar_the_sacrifical_pony: "Жертовний поні"
+  #ZAIBattle_goats_action_oskar_the_sacrifical_pony_Desc:0 "(The Sacrifical Pony Desc here)"
+  ZAIBattle_goats_action_oskar_the_flesh_is_strong: "Плоть сильна"
+  #ZAIBattle_goats_action_oskar_the_flesh_is_strong_Desc:0 "(The Flesh is Strong Desc here)"
+  ZAIBattle_goats_action_gore_sermon_of_the_capra: "Проповідь Капри"
+  #ZAIBattle_goats_action_gore_sermon_of_the_capra_Desc:0 "(Sermon of the Capra Desc here)"
+  ZAIBattle_goats_action_gore_the_secrets_of_life: "Таємниці життя"
+  #ZAIBattle_goats_action_gore_the_secrets_of_life_Desc:0 "(The Secrets of Life Desc here)"
+  ZAIBattle_goats_action_abram_tonights_top_story: "Гіт вечора!"
+  #ZAIBattle_goats_action_abram_tonights_top_story_Desc:0 "(Tonight's Top Story! Desc here)"
+  ZAIBattle_goats_action_abram_goat_shredder_shreds_ponies: "Подрібнювач подрібнює поні!"
+  #ZAIBattle_goats_action_abram_goat_shredder_shreds_ponies_Desc:0 "(Goat Shredder Shreds Ponies! Desc here)"
+  ZAIBattle_goats_action_rachel_slick_penetration: "Спритне пробиття"
+  #ZAIBattle_goats_action_rachel_slick_penetration_Desc:0 "(Slick Penetration Desc here)"
+  ZAIBattle_goats_action_rachel_coordinated_formations: "Скоординовані дії"
+  #ZAIBattle_goats_action_rachel_coordinated_formations_Desc:0 "(Coordinated Formations Desc here)"
+  ZAIBattle_goats_action_grogar_under_the_fathers_hoof: "Під копитом Батька"
+  #ZAIBattle_goats_action_grogar_under_the_fathers_hoof_Desc:0 "(Under the Father's Hoof Desc here)"
+  ZAIBattle_goats_action_grogar_the_force_of_fear: "Сила страху"
+  #ZAIBattle_goats_action_grogar_the_force_of_fear_Desc:0 "(The Force of Fear Desc here)"
+  ZAIBattle_goats_action_grogar_cower_but_you_cannot_run: "Ховайся, та тобі не втекти"
+  #ZAIBattle_goats_action_grogar_cower_but_you_cannot_run_Desc:0 "(Cower, But You Cannot Run Desc here)"
 
 # country_GRI_aprilfool
  GRI_APRILFOOLS_neutrality: "Імперіум Роду Грифонячого"

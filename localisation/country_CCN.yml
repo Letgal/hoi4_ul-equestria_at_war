@@ -683,6 +683,11 @@
  thoraxian.41.b:0 "The deer's way of thinking holds interesting possibilities."
  thoraxian.41.b_tt: "Змінює расу на §Yоленів§!.\nЗмінює расові технології на §Yтехнології оленів§!.\nПередає всі расові технології, досліджені §YКоролівством Оленія§!.\n§RВидаляє всі расові технології чейнджлінґів.§!"
 
+ thoraxian.42.t:0 "The Changeling Civil War"
+ thoraxian.42.d:0 "[This.GetNewspaperHeader]The tensions within [CHN.GetNameDef] have boiled over. While Queen Chrysalis was the internationally recognized, if widely feared and hated, ruler of the Changelings, a drone named Thorax had led a resistance movement for years that has finally reached fruition. Yesterday, the resistance achieved its first goal: a widespread armed uprising. Vast swaths of the country have declared allegiance to Thorax and his vision of Harmony and Friendship, including many smaller hives, while the Great Hives have generally stayed loyal to Chrysalis. Equestria has declared their support for Thorax but an immediate invasion seems unlikely.\n\nWill Chrysalis' control survive the greatest challenge she has faced since the Canterlot defeat?"
+ thoraxian.42.a:0 "The tyrant Chrysalis could use a kick in the fangs!" # Non Supremacist
+ thoraxian.42.b:0 "So this is what happens when dissenters get to live..." # Supremacist
+
 ### КРАЇНА ###
  OLC_communism: "Об'єднані Республіки Оленів і Чейнджлінґів"
  OLC_communism_DEF: "Об'єднані Республіки Оленів і Чейнджлінґів"
