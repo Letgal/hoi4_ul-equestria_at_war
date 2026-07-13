@@ -224,40 +224,40 @@
  dispersed_industry_category: "Технології розосередженої промисловості"
 
  sonar: "Гідрофон"
- sonar_desc:1 "A basic set of hydrophones allows tracking of underwater targets through detecting the sound they make.\n\nMounting this module in an §YElectronics Slot§! on §YLight Ships§! or §YCruisers§! will help them detect enemy §YSubmarines§!."
+ sonar_desc: "Базовий набір гідрофонів дає змогу відстежувати підводні цілі за шумом, який вони видають.\n\nУстановка цього модуля в комірку §YЕлектроніка§! на §Yлегкі кораблі§! та §Yкрейсери§! допоможе їм виявляти ворожі §Yпідводні човни§!." # (@:D) — vnl.
  improved_sonar: "Пасивний сонар"
- improved_sonar_desc:1 "Using modulated sound waves, this system can accurately measure bearing and distance to a submerged target."
+ improved_sonar_desc: "Модулюючи звукові хвилі, ця система може точно вимірювати азимут і відстань до підводної цілі." # (@:D)
 
- smoke_generator: "Димогенератори"
- smoke_generator_desc:0 "Some minor modifications to the engines and smokestacks of light and medium ships allow them to make a lot of smoke to avoid or break contact with the enemy."
- depth_charges_advice_tt:0 "\nMounting a §YDepth Charge§! module on §YLight Ships§! and §YCruisers§! will allow them to attack enemy §YSubmarines§!."
- sonar_advice_tt:0 "\nMounting a §YSonar§! module on §YLight Ships§! and §YCruisers§! will allow them to detect enemy §YSubmarines§!."
+ smoke_generator: "Димогенератори" # vnl.
+ smoke_generator_desc: "Деякі незначні модифікації двигунів і димових труб легких і середніх кораблів дають їм змогу виділяти димові завіси, щоб уникнути зіткнення з ворогом або розірвати контакт з ним." # (@) — vnl.
+ depth_charges_advice_tt: "\nУстановка модуля §YГлибинні бомби§! на §Yлегкі кораблі§! та §Yкрейсери§! дозволить їм атакувати ворожі §Yпідводні човни§!." # vnl.
+ sonar_advice_tt: "\nУстановка модуля §YСонар§! на §Yлегкі кораблі§! та §Yкрейсери§! дозволить їм виявляти ворожі §Yпідводні човни§!." # vnl.
 
- basic_depth_charges: "Базові глибинні бомби"
- basic_depth_charges_desc:1 "A simple explosive container with a pressure-sensitive trigger explodes when it hits a pre-set depth.\n\nMounting this module on §YLight Ships§! and §YCruisers§! will allow them to attack enemy §YSubmarines§!."
- improved_depth_charges: "Скидач глибинних бомб"
- improved_depth_charges_desc:1 "A simple mechanical device that tosses a depth charge a set distance away from the ship. This means that the destroyer no longer has to drive directly across the target to hit it.\n\nMounting this module on §YLight Ships§! and §YCruisers§! will allow them to attack enemy §YSubmarines§!."
- advanced_depth_charges: "Глибинний бомбомет"
- advanced_depth_charges_desc:1 "A mortar on board the destroyer can throw an explosive charge much further, allowing the ship to maintain sonar contact with the submarine throughout the attack and dramatically increasing its accuracy.\n\nMounting this module on §YLight Ships§! and §YCruisers§! will allow them to attack enemy §YSubmarines§!."
- modern_depth_charges: "Поліпшений глибинний бомбомет"
- modern_depth_charges_desc:1 "A larger propellant charge throws a proper depth charge set to a specific depth at a submarine from quite a distance.\n\nMounting this module on §YLight Ships§! and §YCruisers§! will allow them to attack enemy §YSubmarines§!."
+ basic_depth_charges: "Базові глибинні бомби" # vnl.
+ basic_depth_charges_desc:1 "Простий контейнер з вибухівкою та детонатором, що спрацьовує при досягненні заданої глибини.\n\nУстановка цього модуля на §Yлегкі кораблі§! і §Yкрейсери§! дозволить атакувати ворожі §Yпідводні човни§!." # (@) — vnl.
+ improved_depth_charges: "Скидач глибинних бомб" # vnl.
+ improved_depth_charges_desc:1 "Нескладний механічний пристрій для скидання глибинних бомб на віддаленні від корабля. Воно дозволяє есмінцю атакувати підводну мету, не перебуваючи безпосередньо над нею.\n\nУстановка цього модуля на §Yлегкі кораблі§! та §Yкрейсери§! дозволить атакувати ворожі §Yпідводні човни§!." # (@) — vnl.
+ advanced_depth_charges: "Глибинний бомбомет" # vnl.
+ advanced_depth_charges_desc:1 "Метальний пристрій здатний закинути глибинну бомбу досить далеко від корабля і не заважає акустичному пеленгу мети, що значно підвищує точність атак.\n\nУстановка цього модуля на §Yлегкі кораблі§! та §Yкрейсери§! дозволить атакувати ворожі §Yпідводні човни§!." # (@) — vnl.
+ modern_depth_charges: "Поліпшений глибинний бомбомет" # vnl.
+ modern_depth_charges_desc:1 "Збільшена потужність метального заряду дозволяє кинути глибинну бомбу на велику відстань.\n\nУстановка цього модуля на §Yлегкі кораблі§! та §Yкрейсери§! дозволить атакувати ворожі §Yпідводні човни§!." # (@) — vnl.
 
- improved_airplane_launcher: "Поліпшена пускова катапульта"
- improved_airplane_launcher_desc:1 "An improved pneumatic mechanism allows much larger airplanes to be launched via catapult. This increases their search radius.\n\nMounting this module on §YCruisers§!, §YHeavy Ships§! or specialized §YSubmarines§! improves their ability to detect enemy ships."
- airplane_launcher_advice_tt:0 "\nMounting a §YCatapult§! module on §YCruisers§!, §YHeavy Ships§! or specialized §YSubmarines§! improves their ability to detect enemy ships."
+ improved_airplane_launcher: "Поліпшена пускова катапульта" # vnl.
+ improved_airplane_launcher_desc:1 "Поліпшений пневматичний пристрій дозволяє запускати з катапульти важчі літаки, що підвищує радіус пошуку.\n\nУстановка цього модуля на §Yкрейсери§!, §Yважкі кораблі§! та спеціалізовані §Yпідводні човни§! поліпшить здатність виявлення ворожих кораблів." # (@) — vnl.
+ airplane_launcher_advice_tt: "\nУстановка модуля §YКатапульта§! на §Yкрейсери§!, §Yважкі кораблі§! або спеціалізовані §Yпідводні човни§! поліпшує їхню здатність виявляти ворожі кораблі." # vnl.
 
- cruiser_armor_advice_tt: "\nУстановка ліпшого модуля §YБроня§! на §Yкрейсери§! поліпшує їхню здатність витримувати шкоду."
- heavy_armor_advice_tt: "\nУстановка ліпшого модуля §YБроня§! на §Yважкі кораблі§! поліпшує їхню здатність витримувати шкоду. §YЛінкори§! та §Yлінійні крейсери§! визначаються своїми відмінними §Yсхемами броні§!; лінійні крейсери, як правило, мають гіршу броню." # (&?): узгодити з ваніллою
- basic_cruiser_armor_scheme:0 "Basic Cruiser Armor Scheme"
+ cruiser_armor_advice_tt: "\nУстановка кращого модуля §YБроня§! на §Yкрейсери§! поліпшує їхню здатність витримувати пошкодження." # vnl.
+ heavy_armor_advice_tt: "\nУстановка ліпшого модуля §YБроня§! на §Yважкі кораблі§! поліпшує їхню здатність витримувати пошкодження. §YЛінкори§! та §Yлінійні крейсери§! визначаються відмінними §Yсхемами бронювання§!: лінійні крейсери, як правило, мають гіршу броню." # vnl.
+ basic_cruiser_armor_scheme: "Базова схема бронювання крейсерів" # vnl.
  basic_cruiser_armor_scheme_desc:1 "An armor scheme that copies the split between belt and deck armor seen in Capital Ships and offers some protection against splinters and small-caliber guns.\n\nMounting this module on §YCruisers§! improves their ability to §Ywithstand enemy damage§!, but also §Rreduces§! their §Yspeed§!."
- improved_cruiser_armor_scheme:0 "Inclined Belt Cruiser Armor Scheme"
+ improved_cruiser_armor_scheme: "Схема бронювання крейсерів із похилим бронепоясом" # vnl.
  improved_cruiser_armor_scheme_desc:1 "By placing the belt armor at an angle, the same weight and thickness of armor are much harder to pierce.\n\nMounting this module on §YCruisers§! improves their ability to §Ywithstand enemy damage§!, but also §Rreduces§! their §Yspeed§!."
- advanced_cruiser_armor_scheme:0 "All-or-Nothing Cruiser Armor Scheme"
+ advanced_cruiser_armor_scheme: "Схема бронювання крейсерів «Усе або нічого»" # vnl.
  advanced_cruiser_armor_scheme_desc:1 "This scheme focuses on only protecting the most vital areas of the ship, while ignoring the unimportant parts.\n\nMounting this module on §YCruisers§! improves their ability to §Ywithstand enemy damage§!, but also §Rreduces§! their §Yspeed§!."
 
- basic_heavy_armor_scheme:0 "Inclined Belt Armor Scheme"
+ basic_heavy_armor_scheme: "Схема бронювання з похилим бронепоясом" # vnl.
  basic_heavy_armor_scheme_desc:1 "By placing the belt armor at an angle, the same weight and thickness of armor are much harder to pierce.\n\nMounting this module on §YHeavy Ships§! improves their ability to §Ywithstand enemy damage§!. §YBattleships§! and §YBattlecruisers§! are defined by their different §YArmor Schemes§!."
- improved_heavy_armor_scheme:0 "All-or-Nothing Armor Scheme"
+ improved_heavy_armor_scheme: "Схема бронювання «Все або нічого»" # vnl.
  improved_heavy_armor_scheme_desc:1 "This scheme focuses on only protecting the most vital areas of the ship, while ignoring the unimportant parts.\n\nMounting this module on §YHeavy Ships§! improves their ability to §Ywithstand enemy damage§!. §YBattleships§! and §YBattlecruisers§! are defined by their different §YArmor Schemes§!."
  torpedo_advice_tt:0 "\nMounting §YTorpedo Launchers§! on §YLight Ships§! or §YCruisers§! allows them to do significant damage to enemy §YCapital Ships§! in the §YBattleline§! if they can overwhelm the enemy §YScreening Group§!."
 
