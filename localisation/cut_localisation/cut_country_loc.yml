@@ -2589,6 +2589,20 @@
   STW_ground_support_griff: "Еліас Старкрест"
   STW_regency_council: "Регентська рада"
 
+ ### РІШЕННЯ ###
+  STW_resource_excavation: "Видобуток ресурсів"
+  #STW_repurpose_starclaw_factory:0 "Repurpose Starclaw Factory as Steel Mill"
+  #STW_open_winterbell_aluminium:0 "Open Winterbell Bauxite Mines"
+  #STW_expand_winterbell_aluminium:0 "Expand Winterbell Bauxite Mines"
+  #STW_develop_osnabeak_oil_fields:0 "Expand the Osnabeak Oil Fields"
+  #STW_develop_osnabeak_oil_fields2:0 "Build the Osnabeak Oil Pipeline"
+  #STW_improve_minesite_infrastructure:0 "Improve Minesite Infrastructure"
+  #STW_develop_dwarftail_iron_ore_deposits:0 "Develop Dwarftail Iron Ore Deposits"
+  #STW_develop_dwarftail_iron_ore_deposits_2:0 "Expand Dwarftail Iron Ore Deposits"
+  #STW_develop_dwarftail_chromium_deposits_1:0 "Develop Dwarftail Chromium Mines"
+  #STW_develop_dwarftail_chromium_deposits_2:0 "Expand Dwarftail Chromium Mines"
+  #STW_develop_dwarftail_chromium_deposits_3:0 "Increase Chromium Extraction in Dwarftail Mines"
+
 # country_TBK
  ### ФОКУСИ ###
   # Початкове дерево
