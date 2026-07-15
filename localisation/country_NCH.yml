@@ -314,83 +314,82 @@
   NCH_tank_investments: "Ґренекліфський танк"
   NCH_tank_investments_desc: "Автомобілі мають своє місце на війні, але бойові броньовані машини показали себе вирішальними знаряддями у війні та множниками сили. Пріоритет слід надати «танку», інакше ми залишимося у вкрай невигідному становищі при боротьбі з переважаючими силами."
 
-  # ((+))
   NCH_continue_the_purchases: "Продовжити ліцензії"
-  NCH_continue_the_purchases_desc:0 "Наші виробничі ліцензії довели свою успішність, і немає великої причини не користуватися ними. Following the foreign designs may prove difficult to replicate, but will be on par with those of any potential foe."
+  NCH_continue_the_purchases_desc: "Наші виробничі ліцензії довели свою успішність, і немає великої причини не користуватися ними. Відтворювати іноземні розробки може виявитися непросто, але вони будуть на рівні з розробками будь-якого потенційного супротивника." # (@:D)
 
-  NCH_end_the_deals:0 "Terminate the Licenses"
-  NCH_end_the_deals_desc:0 "We have learned what we could from the strangers, so we should consider adapting what we've purchased to suit our industrial capacity. More modern designs will come by more slowly without direct support from the foreign experts, but it is time for us to start producing purely native designs."
+  NCH_end_the_deals: "Розірвати ліцензії"
+  NCH_end_the_deals_desc: "Ми дізналися від іноземців усе, що могли, тож нам слід подумати над тим, як адаптувати придбане обладнання до наших виробничих можливостей. Без безпосередньої підтримки іноземних експертів впровадження більш сучасних конструкцій відбуватиметься повільніше, але настав час почати виробляти конструкції, розроблені виключно нашими силами." # (@:D)
 
-  NCH_tighten_conscription_regulations:0 "Tighten Conscription Regulations"
-  NCH_tighten_conscription_regulations_desc:0 "There is a reason why only the best were recruited into the Household Guard of old, and while we may loosen some of the more stringent requirements for enrollment into the Guard itself, we should still be looking for the best to form our file and rank."
+  NCH_tighten_conscription_regulations: "Посилити норми призову"
+  NCH_tighten_conscription_regulations_desc: "Існує причина, чому в давні часи до Гвардії Королівського Дому набирали лише найліпших, і хоча ми можемо дещо пом’якшити деякі з найсуворіших вимог до вступу до самої Гвардії, нам все одно слід шукати найліпших, щоб поповнити наші лави." # (@:D)
 
-  NCH_call_to_arms:0 "Call to Arms"
-  NCH_call_to_arms_desc:0 "We are few in numbers, and a fight with the throngs of griffons and ponies would easily overwhelm our forces. While Greneclyf will never match its foes number for number, we should do our best to close that numerical gap, even if it comes at the cost of enrolling lesser recruits."
+  NCH_call_to_arms: "Заклик до зброї"
+  NCH_call_to_arms_desc: "Нас небагато, і бій із натовпом грифонів та поні легко розгромив би наші війська. Хоча Ґренекліф ніколи не зможе зрівнятися з ворогами за чисельністю, ми повинні докласти всіх зусиль, щоб скоротити цей чисельний розрив, навіть якщо для цього доведеться набирати новобранців нижчої кваліфікації." # (@:D)
 
-  NCH_perfected_planning:0 "Perfect Planning"
-  NCH_perfected_planning_desc:0 "Our people can only offer so many soldiers, so we should not needlessly squander them. We can avoid useless losses by having a doctrinal goal at every level of the army: from the tactical to the strategic, every move will be done according to a grand plan."
+  NCH_perfected_planning: "Ідеальне планування"
+  NCH_perfected_planning_desc: "Наш народ може надати лише обмежену кількість солдатів, тому ми не повинні марно їх витрачати. Ми можемо уникнути даремних втрат, якщо на кожному рівні армії буде визначена доктринальна мета: від тактичного до стратегічного рівня — кожен крок буде здійснюватися відповідно до загального плану." # (@:D)
 
-  NCH_infiltrators:0 "Infiltrator Companies"
-  NCH_infiltrators_desc:0 "War is not fair, much as we may wish it were otherwise. As such, we must use every possible advantage that we have to build towards victory, even if it may put into question what it means to be a Greneclyfian."
+  NCH_infiltrators: "Роти інфільтраторів"
+  NCH_infiltrators_desc: "Війна не є справедливою, хоч як би ми не хотіли, щоб було інакше. Тому ми мусимо використовувати кожну можливу перевагу, яка у нас є, щоб наблизитися до перемоги, навіть якщо це може поставити під сумнів саме поняття «ґренекліфієць»." # (@:D)
 
-  NCH_the_greneclyfian_jager:0 "The Greneclyfian Jager"
-  NCH_the_greneclyfian_jager_desc:0 "Geamhraich are traditionally Greneclyfians who have taken to a quasi-isolated life in the hills in Aisling, where the winters and wildlife are harsh. Their ways and environments could prove useful to train specialised infantry dedicated to fight in inhospitable conditions."
+  NCH_the_greneclyfian_jager: "Ґренекліфські єгері"
+  NCH_the_greneclyfian_jager_desc: "Ґяврахь — це, за традицією, мешканці Ґренекліфа, які обрали майже ізольований спосіб життя в горах Ейслінґа, де суворі зими та дика природа становлять серйозну загрозу. Їхні звичаї та умови проживання можуть виявитися корисними для підготовки спеціалізованої піхоти, призначеної для ведення бойових дій у суворих умовах." # (@:D)
 
  # Air Branch
-  NCH_rethinking_aerial_warfare:0 "Rethinking Aerial Warfare"
-  NCH_rethinking_aerial_warfare_desc:0 "By all accounts we've always had a sort of 'air force' in the sense of high flying drones that serve as battlefield disrupters. But in this modern age of warfare exist flying machines that can be equipped with fully automatic weapons—far larger than anything a single drone could carry, much less fly with. In order to have a properly modern military, we'll need to dive into this brand new field of military science."
+  NCH_rethinking_aerial_warfare: "Переосмислення повітряної війни"
+  NCH_rethinking_aerial_warfare_desc: "Як відомо, у нас завжди існувала своєрідна «повітряна сила» у вигляді високолітаючих трутнів, які виконують завдання дезорганізації на полі бою. Але в сучасну епоху ведення війни з’явилися літальні апарати, які можна оснастити повністю автоматичною зброєю — набагато більшою, ніж та, яку міг би нести один трутень, не кажучи вже про те, щоб літати з нею. Щоб мати по-справжньому сучасні збройні сили, нам доведеться заглибитися в цю абсолютно нову галузь військової науки." # (@:D)
 
-  NCH_rock_mountain_base:0 "Bugsmere Air Base"
-  NCH_rock_mountain_base_desc:0 "Much like the ancient city-hive of Bugsmere, the innards of the mountains will shelter our main air base. Conventional wisdom may say that the best location would be open terrain, but if war is to come to Greneclyf, a protected base of aerial operations will prove a challenging target for any enemy."
+  NCH_rock_mountain_base: "Повітряна база Жукоміра"
+  NCH_rock_mountain_base_desc: "Подібно до стародавнього міста-вулика Жукомір, у надрах гір буде розташована наша головна авіабаза. Згідно з загальноприйнятою думкою, найліпшим місцем для її розміщення була б відкрита місцевість, але якщо війна все ж дійде до Ґренекліфа, захищена база повітряних операцій стане важкою ціллю для будь-якого ворога." # (@:D)
 
-  NCH_aerial_experiments:0 "Aerial Experiments"
-  NCH_aerial_experiments_desc:0 "We know ourselves best, so we are best positioned to make aircraft designed around ourselves. Native designs may perhaps not perform as well compared to foreign crafts, but will be simpler to produce en masse."
+  NCH_aerial_experiments: "Повітряні експерименти"
+  NCH_aerial_experiments_desc: "Ми найліпше знаємо себе, тому саме ми маємо найліпші можливості для створення літаків, розроблених з урахуванням наших потреб. Вітчизняні моделі, можливо, не будуть настільки ефективними, як іноземні літаки, але їх буде простіше випускати серійно." # (@:D)
 
-  NCH_search_for_foreign_designs:0 "Search for Foreign Designs"
-  NCH_search_for_foreign_designs_desc:0 "None of our craftsworkers have ever even conceived of a flying craft, so whatever design they could come up with would never be on par with those of more modern nations. It is perhaps better to acquiesce to the costly designs for better perfoming aircraft."
+  NCH_search_for_foreign_designs: "Шукати іноземні проєкти"
+  NCH_search_for_foreign_designs_desc: "Жоден із наших майстрів навіть не уявляв собі літальний апарат, тож будь-яка конструкція, яку вони могли б придумати, ніколи не могла б зрівнятися з розробками більш сучасних країн. Мабуть, ліпше змиритися з дорогими проєктами літаків, що мають ліпші експлуатаційні характеристики." # (@:D)
 
-  NCH_flight_schools:0 "Flight Schools"
-  NCH_flight_schools_desc:0 "Aside from actually having aircraft to use, we'll need changelings suited to pilot them as well. Unlike regular army work, being a pilot requires a whole different set of talents such as good eyesight, quick reactions, and a strong stomach. By propping up schools dedicated purely to squeezing out the best pilots from our population, we'll know that our aircraft are in good hooves."
+  NCH_flight_schools: "Льотні школи"
+  NCH_flight_schools_desc: "Окрім самої наявності літаків, нам також знадобляться чейнджлінґи, здатні ними керувати. На відміну від звичайної військової служби, професія пілота вимагає зовсім інших здібностей, таких як гострий зір, швидка реакція та міцний шлунок. Підтримуючи школи, які спеціалізуються виключно на відборі найліпших пілотів із-поміж нашого населення, ми будемо впевнені, що наші літаки в надійних копитах." # (@:D)
 
-  NCH_foreign_pilots:0 "Foreign Instructors"
-  NCH_foreign_pilots_desc:0 "We have the planes, but being of non-Greneclyfian design, no changeling is best qualified to teach our pilots how to fly them. As such, we will need to recruit suitably experienced instructors from abroad so that our pilots can fly their planes as if they were merely an extension of themselves."
+  NCH_foreign_pilots: "Іноземні інструктори"
+  NCH_foreign_pilots_desc: "У нас є літаки, але оскільки вони не розроблені в Ґренекліфі, жоден чейнджлінґ не має достатньої кваліфікації, щоби навчити наших пілотів керувати ними. Тому нам доведеться залучити досвідчених інструкторів із-за кордону, щоб наші пілоти могли керувати літаками так, ніби ті є продовженням їх самих." # (@:D)
 
-  NCH_sound_designs:0 "Sound Designs"
-  NCH_sound_designs_desc:0 "Aircraft are still a young art of engineering, as such there is no reason to go crazy and dive into strange fields. What's been tried and tested thus far is what we should stick with; leave the experimentation to the Industrial Giants of the far West who actually have the resources to meddle in such things."
+  NCH_sound_designs: "Слушні проєкти"
+  NCH_sound_designs_desc: "Авіабудування — ще молода галузь інженерії, тому немає сенсу втрачати голову й заглиблюватися в незрозумілі сфери. Нам слід дотримуватися того, що вже випробувано й перевірено, а експерименти краще залишити промисловим гігантам із далекого Заходу, які насправді мають ресурси, щоби займатися такими речами." # (@:D)
 
-  NCH_radical_designs:0 "Radical Designs"
-  NCH_radical_designs_desc:0 "We lack the industry to mass produce aircraft and the population to continually sustain a fleet of them. Our only choice is to fight brawn with brain and push our models to their very limit. There is no doubt that our airdrones will be outnumbered in the air, so they'll need every possible advantage against the opposition's own dogfighters."
+  NCH_radical_designs: "Радикальні проєкти"
+  NCH_radical_designs_desc: "Нам бракує промисловості для масового виробництва літаків і населення, яке могло б постійно забезпечувати їхню експлуатацію. Наш єдиний вибір — протиставити розум силі та вижати з наших моделей максимум можливостей. Немає сумнівів, що наших апаратів у повітрі буде менше, ніж у супротивника, тому їм знадобиться кожна можлива перевага у протистоянні з винищувачами супротивника." # (@:D)
 
  # Navy Branch
-  NCH_an_admiralty:0 "Наші адмірали"
-  NCH_an_admiralty_desc:0 "Being an island nation, Greneclyf will need to build up a maritime force. Before we can start however, we must have a structure with a dedicated naval corps of officers and theoriticians to get us started."
+  NCH_an_admiralty: "Адміралтейство"
+  NCH_an_admiralty_desc: "Позаяк Ґренекліф є острівною державою, йому доведеться створити військово-морські сили. Однак перш ніж приступити до цього, нам необхідно створити структуру, до складу якої увійде спеціальний корпус офіцерів і теоретиків військово-морської справи, які допоможуть нам розпочати цю справу." # (@:D)
 
   NCH_support_admiral_petiole: "Підтримати план адмірала Фаллона"
-  NCH_support_admiral_petiole_desc:0 "Changelings have the innate talent for subterfuge, and while its use in greater society can be discussed at length, Fallon's plan for the seas applies that same philosophy to our vessels. Instead of the traditional surface ship, our main naval force should be underwater boats that can avoid detection and strike from below. Submarine warfare may be unorthodox, but it is both efficient and effective."
+  NCH_support_admiral_petiole_desc: "У чейнджлінґів є вроджений талант до хитрощів, і хоча питання про доцільність його використання в суспільстві загалом можна обговорювати довго, морський план Фаллона передбачає застосування тієї самої філософії до наших суден. Замість традиційних надводних кораблів нашою основною силою на морі мають стати підводні човни, здатні уникнути виявлення та наносити удари знизу. Підводна війна може бути нетрадиційною, але вона є водночас ефективною та результативною." # (@:D)
 
   NCH_go_all_in: "Прийняти петицію адмірала Поетґілса"
-  NCH_go_all_in_desc:0 "Adapting our navy to modern warfare will not be enough, and Admiral Poethgils's petition goes into great technical detail on how Greneclyf can do better. He envisions the largest warship to have ever sailed the seas, based off of the great ships produced by Skyfall's naval yards, but larger, with more guns and armour. It will be a costly endeavour, but an unsinkable ship may very well be worth it."
+  NCH_go_all_in_desc: "Просто пристосувати наш флот до умов сучасної війни буде недостатньо, і в петиції адмірала Поетґілса наведено докладні технічні деталі щодо того, як Ґренекліф може досягти кращих результатів. Він уявляє собі найбільший військовий корабель, який коли-небудь плавав морями, створений на основі величних суден, побудованих на верфях Скайфолла, але більший за розмірами, з більшою кількістю гармат і броні. Це буде дороге починання, але непотоплюваний корабель цілком може бути того вартий." # (@:D)
 
-  NCH_found_the_naval_academy:0 "Found the Naval Academy"
-  NCH_found_the_naval_academy_desc:0 "Our initial drive for naval officers has produced some results, but it is clear that there must be an institution to ensure that Greneclyf will continue to produce great officers to serve their nations. Using the expertise of our current Admiralty, we can form an official naval academy for just that purpose."
+  NCH_found_the_naval_academy: "Заснувати Морську академію"
+  NCH_found_the_naval_academy_desc: "Наша перша ініціатива щодо підготовки офіцерів флоту дала певні результати, але очевидно, що необхідна спеціальна установа, яка забезпечить, що Ґренекліф буде й надалі готувати видатних офіцерів для служби на благо своїх країн. Спираючись на досвід нашого нинішнього Адміралтейства, ми можемо створити офіційну морську академію саме з цією метою." # (@:D)
 
-  NCH_expand_the_naval_yards:0 "Expand the Naval Yards"
-  NCH_expand_the_naval_yards_desc:0 "The current state of shipyards in Blomsport and other port settlements do not allow for the production of anything more than commercial vessels. If Greneclyf is to become a regional naval power, it must have the capacity to build its own new military vessels."
+  NCH_expand_the_naval_yards: "Розширити верфі"
+  NCH_expand_the_naval_yards_desc: "Нинішній стан верфей у Блосмпорті й інших портових населених пунктах не дозволяє будувати нічого, крім комерційних суден. Якщо Ґренекліф має стати регіональною морською силою, він мусить бути спроможний самостійно будувати нові військові судна." # (@:D)
 
-  NCH_proficient_packs:0 "The Icewaters Sharks"
-  NCH_proficient_packs_desc:0 "The life of a submariner is stressful, especially when untrained and unprepared for wartime conditions. New plans put forward by Admiral Farris would designate parts of our territorial waters for use solely by the navy for war games and exercises. War may be the only true way to prepare our sailours for the hardships of war, but this is the next best alternative."
+  NCH_proficient_packs: "Акули льодяних вод"
+  NCH_proficient_packs_desc: "Життя підводника повне стресу, особливо якщо він не пройшов відповідну підготовку й не готовий до умов війни. Нові плани, запропоновані адміралом Фаррісом, передбачають виділення частин наших територіальних вод для використання виключно військово-морськими силами з метою проведення військових ігор та навчань. Можливо, війна — це єдиний справжній спосіб підготувати наших моряків до тягот війни, але це — найкраща альтернатива." # (@:D)
 
-  NCH_lay_down_the_hatcher:0 "Lay Down the Hatcher"
-  NCH_lay_down_the_hatcher_desc:0 "The designs have all been approved by naval engineers; the first Hatcher class is ready to be laid down in our shipyards. Soon, Greneclyf shall field the greatest and largest ship that the world will ever see!"
+  NCH_lay_down_the_hatcher: "Закласти «Hatcher»"
+  NCH_lay_down_the_hatcher_desc: "Усі проєкти були схвалені інженерами флоту; перший корабель класу «Hatcher» готовий до початку будівництва на наших верфях. Незабаром Ґренекліф виведе на воду найвеличніше й найбільше судно, яке коли-небудь бачив світ!" # (@:D)
 
-  NCH_torpedo_boats:0 "Torpedo Boats"
-  NCH_torpedo_boats_desc:0 "Torpedoes have been used by Greneclyfian ships to protect themselves from pirates before cannons, and even powerful torpedoes don't require a large vessel to be effective. While large warships with great cannons have their place, smaller torpedo boats will prove just as deadly."
+  NCH_torpedo_boats: "Торпедні катери"
+  NCH_torpedo_boats_desc: "Ще до появи гармат кораблі Ґренекліфа використовували торпеди для захисту від піратів, і навіть потужні торпеди не потребують великих суден, щоб бути ефективними. Хоча великі військові кораблі з великими гарматами мають своє місце, менші торпедні катери виявляться не менш смертоносними." # (@:D)
 
-  NCH_the_mayfly_class:0 "The Mayfly Line"
-  NCH_the_mayfly_class_desc:0 "A modern navy requires flexibility, and cruisers offer a great compromise between the heavy-hitting capacity of larger capital ships and the nimble speed of smaller destroyers. Whether light or armoured, our cruisers shall fill a number of roles that will prove invaluable in a future naval conflict."
+  NCH_the_mayfly_class: "Золота середина" # підглянуто в РЛ
+  NCH_the_mayfly_class_desc: "Сучасні ВМС потребують гнучкості, а крейсери забезпечують чудовий компроміс між потужною вогневою силою більших основних кораблів та маневреністю і швидкістю менших есмінців. Незалежно від того, чи це легкі, чи броньовані крейсери, вони виконуватимуть низку завдань, які стануть неоціненними під час майбутніх морських конфліктів." # (@:D)
 
-  NCH_protected_cruisers:0 "The Borer Class"
-  NCH_protected_cruisers_desc:0 "A hard look at Greneclyf's naval industry exposes an inconvenient truth: great battleships are both costly and take an exceedingly long amount of time to build. While we might never produce more than a few battleships, battlecruisers bring similair firepower for considerably cheaper. These shall be the mainstay ships of our nation."
+  NCH_protected_cruisers: "Класа «Borer»"
+  NCH_protected_cruisers_desc: "Ретельний аналіз суднобудівної промисловості Ґренекліфа виявляє незручну правду: великі лінкори не тільки коштують дорого, але й їх будівництво займає надзвичайно багато часу. Хоча ми, можливо, ніколи не зможемо побудувати більше, ніж кілька лінкорів, лінійні крейсери забезпечують аналогічну вогневу міць за значно нижчою ціною. Саме вони стануть основою флоту нашої країни." # (@:D)
 
 ### ПОДІЇ ###
  greneclyf.0.t:0 "Preparations for the Great Expedition"
