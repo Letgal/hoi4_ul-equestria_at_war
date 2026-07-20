@@ -1,6 +1,6 @@
 ﻿# == (*) ==
  gwtank: "Броньований трактор" # інак Бр. тягач
- gwtank_chassis: "Рання розробка танків"
+ gwtank_chassis: "Розробка ранніх танків" # інак Рання розробка
  gwtank_chassis_desc:0 "Inspired by the tales of Griffonian Knights with their heavy armour and equally heavy weaponry, the first tanks were created in 996 during their revolution by Stalliongrad ponies. Slow, mechanically unreliable, and poorly armoured, these rushed conversions of agricultural equipment were nonetheless effective against lightly armed infantry, and thus copied and imitated widely."
 
  armor_tech_1: "Зварна броня"

@@ -87,12 +87,12 @@
   black_trident_day_DESC: "Станьте лідером альянсу «Егіда Зебрики» з принаймні 9 членами."
  a_series_of_unfortunate_events_NAME: "§HНизка прикрих подій§!"
   a_series_of_unfortunate_events_DESC: "Граючи за Царство Кірія, створіть якнайгірший сценарій для кірінів."
- yeti_revenge_NAME:0 "§HFool Me Once§!"
-  yeti_revenge_DESC:0 "As a yeti race nation, own or be the overlord of a puppet that owns Mount Aris."
- rav_stays_winning_NAME:0 "§HEminent Domain§!"
-  rav_stays_winning_DESC:0 "Starting as the Icepaw Provisional Directorate, successfully construct a Marksist state."
- ibyz_wins_more_NAME:0 "§HI Am Better§!"
-  ibyz_wins_more_DESC:0 "Starting as the Icepaw Provisional Directorate, win simultaneous wars against the Uzerasi Revolt, Hyenia and the Ancient Pact."
+ yeti_revenge_NAME: "§HНадури мене раз§!"
+  yeti_revenge_DESC: "Граючи за державу раси єті, заволодійте Горою Аріс або станьте господарем маріонетки, яка нею володіє."
+ rav_stays_winning_NAME: "§HВидатний домен§!"
+  rav_stays_winning_DESC: "Почавши гру за Тимчасовий директорат Айспо, успішно побудуйте марксистську державу."
+ ibyz_wins_more_NAME: "§HЯ перемагаю§!" # (&)
+  ibyz_wins_more_DESC: "Почавши гру за Тимчасовий директорат Айспо, виграйте одночасні війни проти Заколоту узерасі, Гієнії та Стародавнього Пакту."
  friends_in_high_places_NAME: "§HДрузі на вищих посадах§!"
   friends_in_high_places_DESC: "Граючи за Землі Чейнджлінґів, підвищте Кантерлотську кліку до найвищого ешелону Армії Чейнджлінґів."
  equestria_at_peace_NAME: "§HEquestria at Peace§!"
@@ -111,11 +111,11 @@
   the_lion_has_conquered_DESC: "Граючи за Королівство Абіссинія, заволодійте Карфіном або дайте його суб'єктові."
  boreas_made_us_too_NAME: "§HБорей створив і нас також!§!"
   boreas_made_us_too_DESC: "Граючи за Іґнація Бронзтейла, відшукайте батьківщину псів."
- of_statistical_significance_NAME:0 "§HStatistically Significant§!" # (!)
-  of_statistical_significance_DESC:0 "As Lan Kir, inflict 10 million total military casualties."
- to_the_ends_of_the_earth_and_back_NAME:0 "§HTo the Ends of the Earth and Back§!"
-  to_the_ends_of_the_earth_and_back_DESC:0 "As Prairie Spark, lead the Marching Commonweal home. Gain a bonus point for each additional Lan Kiran Remnant rescued."
- the_great_conductor_NAME:0 "§HThe Great Conductor§!"
-  the_great_conductor_DESC:0 "As the Kingdom of Zongo, successfully complete the Rail & Nation program under guidance of the King."
- dynastic_cycle_NAME:0 "§HBroke Again, Whole Again§!"
-  dynastic_cycle_DESC:0 "As the Kingdom of Zar-Hay, get as many governors as possible to rebel and defeat them all."
+ of_statistical_significance_NAME: "§HСтатистично суттєво§!" # (!)
+  of_statistical_significance_DESC: "Граючи за Лан Кір, заподійте всього 10 мільйонів військовими втратами." # (&+)
+ to_the_ends_of_the_earth_and_back_NAME: "§HНа край світу і назад§!"
+  to_the_ends_of_the_earth_and_back_DESC: "Граючи за Прері Спарк, приведіть Marching Commonweal додому. Ви отримаєте додатковий бал за кожен урятований залишок Лан Кіру." # (&)
+ the_great_conductor_NAME: "§HВеликий кондуктор§!"
+  the_great_conductor_DESC: "Граючи за Королівство Зонґо, успішно заверште програму «Рейки й держава» під проводом короля."
+ dynastic_cycle_NAME: "§HЗнову розбиті, знову єдині§!"
+  dynastic_cycle_DESC: "Граючи за Королівство Зар-Гей, змусьте повстати якнайбільше губернаторів і переможіть їх усіх."

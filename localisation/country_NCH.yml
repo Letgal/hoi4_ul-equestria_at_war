@@ -158,7 +158,7 @@
   NCH_splendid_isolation_desc:0 "Ми зробили все необхідне, щоби пристосуватися до навколишнього світу, але очевидно, що зовнішній світ все ще відчуває від нас загрозу. Хоча з часом все може змінитися, але ми краще будемо залишатися на місці."
 
  # Crisis of Faith: Fascism
-  NCH_the_old_ways:0 "Старі шляхи"
+  NCH_the_old_ways: "Старі звичаї"
   NCH_the_old_ways_desc:0 "Ми були нерозумні, вважаючи, що зможемо переконати зовнішній світ у тому, що ми можемо бути мирними. Навіть наша королева визнає безглуздість своїх дій і погодилася, що чейнджлінґи будуть сприйматися лише як дволикі паразити."
 
   NCH_infiltrating_the_continent:0 "Проникнути на континент"
@@ -379,7 +379,7 @@
   NCH_proficient_packs: "Акули льодяних вод"
   NCH_proficient_packs_desc: "Життя підводника повне стресу, особливо якщо він не пройшов відповідну підготовку й не готовий до умов війни. Нові плани, запропоновані адміралом Фаррісом, передбачають виділення частин наших територіальних вод для використання виключно військово-морськими силами з метою проведення військових ігор та навчань. Можливо, війна — це єдиний справжній спосіб підготувати наших моряків до тягот війни, але це — найкраща альтернатива." # (@:D)
 
-  NCH_lay_down_the_hatcher: "Закласти «Hatcher»"
+  NCH_lay_down_the_hatcher: "Закласти Hatcher"
   NCH_lay_down_the_hatcher_desc: "Усі проєкти були схвалені інженерами флоту; перший корабель класу «Hatcher» готовий до початку будівництва на наших верфях. Незабаром Ґренекліф виведе на воду найвеличніше й найбільше судно, яке коли-небудь бачив світ!" # (@:D)
 
   NCH_torpedo_boats: "Торпедні катери"
@@ -388,7 +388,7 @@
   NCH_the_mayfly_class: "Золота середина" # підглянуто в РЛ
   NCH_the_mayfly_class_desc: "Сучасні ВМС потребують гнучкості, а крейсери забезпечують чудовий компроміс між потужною вогневою силою більших основних кораблів та маневреністю і швидкістю менших есмінців. Незалежно від того, чи це легкі, чи броньовані крейсери, вони виконуватимуть низку завдань, які стануть неоціненними під час майбутніх морських конфліктів." # (@:D)
 
-  NCH_protected_cruisers: "Класа «Borer»"
+  NCH_protected_cruisers: "Клас «Borer»"
   NCH_protected_cruisers_desc: "Ретельний аналіз суднобудівної промисловості Ґренекліфа виявляє незручну правду: великі лінкори не тільки коштують дорого, але й їх будівництво займає надзвичайно багато часу. Хоча ми, можливо, ніколи не зможемо побудувати більше, ніж кілька лінкорів, лінійні крейсери забезпечують аналогічну вогневу міць за значно нижчою ціною. Саме вони стануть основою флоту нашої країни." # (@:D)
 
 ### ПОДІЇ ###
@@ -912,8 +912,8 @@
  NCH_crisis_desc:0 "Due to incidents within the Coltstream Coalition, many of our citizens are being actively persecuted and discriminated by the native populations. Despite our people's innocence, the continentals believe in the old tales of monstrous changelings who hunted and stalked other creatures to consume all of their emotions.\n\nIf this issue is not resolved in a timely manner, §Rour people will have to react...§!"
 
 ### ІДЕЇ ###
- NCH_FBK_pact:0 "The Great Pacts"
- NCH_FBK_pact_desc:0 "The ancient Farbrookian-Greneclyf friendship is symbolised by two pairs of tapestries, each weaved by Farbrook and Greneclyf. One represents the First Sharing from around 800 years ago, whereas the other depicts the Frozen Refuge, both events that are very significant for both Greneclyfians and Farbrookians.\n\nCollectively known as the Great Pacts, this hoofscraft stands as a testament of the historic friendship and collaborative nature between the two peoples, trascending biological barriers and proving that Harmony is truly universal."
+ NCH_FBK_pact: "$FBK_NCH_trade$"
+ NCH_FBK_pact_desc: "$FBK_NCH_trade_desc$"
 
  NCH_idyllic_society:0 "Pacifist Tendencies"
  NCH_idyllic_society_desc:0 "Despite our biological capacity for it, Greneclyfians abhor abusing their innate talents of subterfuge for military use and espionage. As such, any research into these areas will be slow."
@@ -948,8 +948,8 @@
  NCH_spy_tactics_idea:0 "Sabotage Training"
  NCH_spy_tactics_idea_desc:0 "Under the guidance of our allies, we have learned much in the art of sabotage and have formed our own corps of saboteurs that can carry out missions against our enemies."
 
- NCH_spy_tactics_idea_lar:0 "Sabotage Training"
- NCH_spy_tactics_idea_lar_desc:0 "Under the guidance of our allies, we have learned much in the art of sabotage and have formed our own corps of saboteurs that can carry out missions against our enemies."
+ NCH_spy_tactics_idea_lar: "$NCH_spy_tactics_idea$"
+ NCH_spy_tactics_idea_lar_desc: "$NCH_spy_tactics_idea_desc$"
 
  NCH_communist_production_idea:0 "Scleritian Socialism"
  NCH_communist_production_idea_desc:0 "The social policies and work ethos that have been adapted to our nation by the idealogue Cader Sclerite have proven to be immensely popular and effective."
@@ -972,8 +972,8 @@
  NCH_continent_infiltrate_idea:0 "Infiltrators in the Continent"
  NCH_continent_infiltrate_idea_desc:0 "Carefully placed infiltrators supply us with a wealth of vital information, including the location, movements, and sizes of foreign forces."
 
- NCH_continent_infiltrate_idea_lar:0 "Infiltrators in the Continent"
- NCH_continent_infiltrate_idea_lar_desc:0 "Carefully placed infiltrators supply us with a wealth of vital information, including the location, movements, and sizes of foreign forces."
+ NCH_continent_infiltrate_idea_lar: "$NCH_continent_infiltrate_idea$"
+ NCH_continent_infiltrate_idea_lar_desc: "$NCH_continent_infiltrate_idea_desc$"
 
  NCH_Academic_Infiltration_idea:0 "Continental Academia Infiltrated"
  NCH_Academic_Infiltration_idea_desc:0 "Our spies acting as university staff and professors have easy access to the scientific breakthroughs made by our rivals, and they shall relay back their findings."
@@ -987,7 +987,7 @@
  NCH_Passive_Approach_idea:0 "Defence-Focused Strategy"
  NCH_Passive_Approach_idea_desc:0 "Lest we allow Greneclyf to fall prey upon our more powerful rivals, our overall military strategy must revolve around the defence of our lands."
 
- NCH_looking_beyond_idea:0 "Lastall de Oileán"
+ NCH_looking_beyond_idea: "Lastall de Oileán"
  NCH_looking_beyond_idea_desc:0 "We recognise that our core forces will likely not equivalent to those of our potential enemies in future wars, so we must plan around our deficiencies if we are to defeat our foes."
 
  NCH_Communism_Small_idea:0 "Moderate Socialisation"
@@ -1009,18 +1009,18 @@
  NCH_Three_Year_Plan_idea_desc:0 "Redirected focuses and funds will allow a massive construction programme to permit Greneclyf to rapidly industrialise in as short of a timespan as possible.\n\nOur capital dedicated for this programme will only last for so long, so we must take full advantage of what has been made available."
 
  NCH_communist_infiltration_idea:0 "The Commissariat of Internal Security"
- NCH_communist_infiltration_idea_lar:0 "The Commissariat of Internal Security"
+ NCH_communist_infiltration_idea_lar: "$NCH_communist_infiltration_idea$"
 
  NCH_communist_infiltration_2_idea:0 "CIS Intelligence Network"
- NCH_communist_infiltration_2_idea_lar:0 "CIS Intelligence Network"
+ NCH_communist_infiltration_2_idea_lar: "$NCH_communist_infiltration_2_idea$"
 
- NCH_modern_changeling_idea:0 "The Modern Changeling"
+ NCH_modern_changeling_idea: "Сучасний чейнджлінґ"
  #NCH_modern_changeling_idea_desc:0 "#TO BE ADDED"
 
  NCH_river_fed_attack_idea:0 "Agents in the River Coalition"
  #NCH_river_fed_attack_idea_desc:0 "#TO BE ADDED"
 
- NCH_submarine_buff_idea:0 "The Icewater Sharks"
+ NCH_submarine_buff_idea: "Акули льодяних вод"
  #NCH_submarine_buff_idea_desc:0 "#TO BE ADDED"
 
  NCH_air_experiments_bonus:0 "Local Aviation Industry"

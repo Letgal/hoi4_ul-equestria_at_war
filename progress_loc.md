@@ -9,7 +9,7 @@
 + [x] `countries`
 + [x] `countries_griffonia`
 + [x] `countries_zebrica`
-+ [ ] `eaw_achievements`
++ [x] `eaw_achievements`
 + [x] `eaw_adjacency_rules`
 + [ ] `eaw_ai_behavior`
 + [x] `eaw_autonomy`

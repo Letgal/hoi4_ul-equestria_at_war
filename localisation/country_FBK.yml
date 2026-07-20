@@ -1082,5 +1082,5 @@
  ApplethornDeathButton:0 "What a shocking series of events!"
 
  Hillfolk_League_Faction: "Ліга народів пагорбів"
- NE_military_party:0 "The Military Government"
- NE_military_party_long:0 "The Military Government"
+ NE_military_party: "Військовий уряд"
+ NE_military_party_long: "Військовий уряд"
