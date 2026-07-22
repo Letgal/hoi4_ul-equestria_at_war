@@ -96,7 +96,7 @@
 
  WAT_neutrality_party: "Прибічники нового короля"
  WAT_communism_party: "Рада хранителів"
- WAT_democratic_party: "Міщани" # Буржуа (рос. лок.)/New Deals (англ. лок.)
+ WAT_democratic_party: "Міщани" # Буржуа (РЛ)/New Deals (АЛ)
  WAT_fascism_party: "Розбійники" # Бандити
 
  FIR_neutrality_party: "Племена"
@@ -448,7 +448,7 @@
 
  OLV_neutrality_party: "Загальні збори" # Альтінґі
  OLV_communism_party: "Раби"
- OLV_democratic_party: "Громадяни" # (&?) :: із рос. лок. (неперевірено)
+ OLV_democratic_party: "Громадяни" # (&?) :: із РЛ (неперевірено)
  OLV_fascism_party: "Воїни"
 
  BAN_neutrality_party: "Прибічники графині"
@@ -466,7 +466,7 @@
  BAT_fascism_party_long: "Легіонерська рада Її Імператорської Величності — радикали"
 
  MCW_neutrality_party: "ВРП"
- MCW_neutrality_party_long: "Висока республіканська партія" # Велика (з рос. лок.)
+ MCW_neutrality_party_long: "Висока республіканська партія" # Велика (з РЛ)
  MCW_communism_party: "КПМ"
  MCW_communism_party_long: "Комуністична партія Макавії"
  MCW_democratic_party: "РПРдЖ"
@@ -536,8 +536,8 @@
  MQA_neutrality_party: "НКР"
  MQA_neutrality_party_long: "Національна консультативна рада" # Перевірити 2, 3
  MQA_democratic_party: "РС"
- MQA_democratic_party_long: "Райдужна спілка" # Асоціація (рос. лок.)
- MQA_communism_party: "ЯТС"
+ MQA_democratic_party_long: "Райдужна спілка" # Асоціація (РЛ)
+ MQA_communism_party: "АТС"
  MQA_communism_party_long: "Армія тисячі списів"
 
  MGY_fascism_party: "АВМ-Р"

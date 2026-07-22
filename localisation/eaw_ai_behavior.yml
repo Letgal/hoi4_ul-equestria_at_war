@@ -267,7 +267,7 @@
  AET_AI_BEHAVIOR: "@AET Ґрайфвальд"
   RULE_OPTION_AET_FASCIST: "Зверхність: прелатова допомога"
   RULE_OPTION_FASCIST_AET_AI_DESC:0 "Greifwald will request Prelate Ludwig's aid and invite him into the government. What could possibly go wrong?"
-  RULE_OPTION_AET_COMMUNIS: "Комунізм: Чорна армія"
+  RULE_OPTION_AET_COMMUNIST: "Комунізм: Чорна армія"
   RULE_OPTION_COMMUNIST_AET_AI_DESC:0 "Anarchists will seize power and overthrow the aristocrat scum, then wage war to destroy neighbouring states and liberate all workers."
   RULE_OPTION_AET_NEUTRAL: "Нейтралітет: поміж велетнів"
   RULE_OPTION_NEUTRAL_AET_AI_DESC:0 "The Count's cabinet will remain in power and maintain a policy of neutrality, appeasing both Aquileia and Empire.\n§g(Історичний шлях)§!"
