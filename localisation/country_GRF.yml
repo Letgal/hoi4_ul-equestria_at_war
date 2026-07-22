@@ -29,7 +29,7 @@
  GRF_dubious_friends:0 "Зв'язки Ґолдфезера"
  GRF_dubious_friends_desc:0 "Незважаючи на те, що Ґолдфезер часто змінює свою позицію, він і його "друзі" завжди досягають чого хочуть, і поки є результати, гнати їх не варто."
  GRF_interesting_friends:0 "Зв'язки Тритона"
- GRF_interesting_friends_desc:0 "It seems that Triton's activity in the Northern Provinces has drawn in Republicans from back home, even though they all seem to hold more loyalty towards Blackpeak then the actual government, their arrival has greatly helped expand the industry in Nouveau Aquila - Blackpeak's new business location widely advertised in newspapers." # (!)
+ GRF_interesting_friends_desc:0 "Схоже, що діяльність компанії «Тритон» у Північних провінціях привабила республіканців з Батьківщини. Хоча всі вони, здається, більш лояльні Блекпіку, ніж чинному уряду, їхнє прибуття значно допомогло розширити промисловість у Нувель-Аквілі — новому діловому центрі Блекпіка, який широко рекламується в газетах." # (@+++)
  GRF_immigration:0 "Уетерський закон про імміграцію"
  GRF_immigration_desc:0 "Наша країна ніколи не була густонаселеною, і в міру зростання нашої економіки ця проблема стає все більш гострою. Намагаючись розв'язати цю проблему, губернатор вніс законопроєкт, що дає змогу отримати громадянство будь-якому грифону, який народився на старій землі."
  GRF_great_lake_development:0 "Розвивати Кінґсмір"
@@ -1387,33 +1387,33 @@
  griffons.178.a:0 "Ах, радощі вільної преси."
  griffons.178.b:0 "Комуністична маячня."
 
- griffons.179.t: "Peace With [STG.GetNameDefCap]?" # (!)
- griffons.179.d_auths: "With the capitulation of the republicans, the war has turned against [STG.GetName]. However, the fighting has continued with no victory in sight for either side. This gives us an opportunity to possibly negotiate a peace treaty with the communists. After the devastating civil war, much of the populace yearns for peace, and we need time to rebuild and recover. Yet more radical griffons in our ranks say we should continue the fight until Stalliongrad itself is defeated and the threat of communism is wiped out for good. Now, it is time for [Root.GetLeader] to decide on what to do." # (!)
- griffons.179.d_others: "With the capitulation of the Nova Griffonian puppet state, we have gained an opportunity to possibly negotiate a peace treaty with their overlords in Stalliongrad. This could allow us to consolidate our gains and prevent a drawn out conflict with an industrial powerhouse. However, there are some who argue against the peace, saying that this is a perfect opportunity to end the threat of Stalliongrad for good. Now, it is time for [Root.GetLeader] to decide on what to do." # (!)
- griffons.179.a: "Let us send them a proposal." # (!)
- griffons.179.b: "We do not negotiate with communist scum." # (!)
+ griffons.179.t: "Мир із [STG.GetNameDefCap]ом?" # (@+++)
+ griffons.179.d_auths: "Із капітуляцією республіканців війна обернулася проти [STG.GetName]у. Однак бойові дії тривають, і перемога не видніється для жодної зі сторін. Це дає нам можливість обговорити мирний договір з комуністами. Після руйнівної громадянської війни більша частина населення прагне миру, а нам потрібен час на відбудову та відновлення. Проте більш радикальні грифони в наших лавах кажуть, що ми маємо продовжувати боротьбу, поки сам Сталліноград не буде розгромлено, а загроза комунізму не буде знищена назавжди. [Root.GetLeader] має вирішити, що робити далі." # (@+++)
+ griffons.179.d_others: "Із капітуляцією маріонеткового режиму Нова-Грифонії ми отримали можливість обговорити мирний договір з їхніми сюзеренами у Сталлінограді. Це дозволило б нам закріпити наші здобутки та уникнути затяжного конфлікту з індустріальною державою. Однак дехто виступає проти миру, стверджуючи, що це ідеальна нагода назавжди покінчити із загрозою Сталлінограда. [Root.GetLeader] має вирішити, що робити далі." # (@+++)
+ griffons.179.a: "Надішлімо їм пропозицію." # (@+++)
+ griffons.179.b: "Ми не ведемо перемовин із комуністичними покидьками." # (@+++)
 
- griffons.180.t: "A Proposal From [From.GetNameDefCap]" # (!)
- griffons.180.d: "Now that the [From.GetAdjective] republicans have capitulated to their enemies, [From.GetLeader] has sent us a proposal, offering a truce. With our primary justification for military intervention lost and our allies defeated, the war has not turned out to be in our favour. It might be best to accept this proposal and have peace with them for now, so we can rebuild our military strength. Yet more radical ponies in our ranks say we should continue the fight until the authoritarian faction is defeated and their threat is wiped out for good. Now, it is time for [Root.GetLeader] to decide on what to do." # (!)
- griffons.180.a: "Fine, let us cease fire." # (!)
- griffons.180.b: "We do not negotiate with capitalist scum." # (!)
+ griffons.180.t: "[From.GetNameDefCap] надсилає пропозицію" # (@+++)
+ griffons.180.d: "Тепер, коли [From.GetAdjective]і республіканці капітулювали перед своїми ворогами, [From.GetLeader] надсилає нам пропозицію про перемир'я. Оскільки наше головне виправдання для військового втручання втрачено, а наші союзники розбиті, війна складається не на нашу користь. Можливо, найкраще буде прийняти цю пропозицію і поки що укласти з ними мир, щоб ми могли відновити нашу військову міць. Проте більш радикальні поні в наших лавах кажуть, що ми маємо продовжувати боротьбу, доки авторитарні тирани не будуть розгромлені, а їх загроза не буде знищена назавжди. [Root.GetLeader] має вирішити, що робити далі." # (@+++)
+ griffons.180.a: "Припинімо вогонь." # (@+++)
+ griffons.180.b: "Ми не ведемо перемовин із капіталістичними покидьками." # (@+++)
 
- griffons.181.t: "[From.GetNameDefCap] Rejects Truce" # (!)
- griffons.181.d: "Our generous and friendly offer of peace has been rejected by [From.GetLeader], who has vowed to crush our "counter-revolution" no matter the cost. It seems we have no choice but to continue fighting against these crazed blood thirsty communists. [Root.GetLeader] has held a public speech condemning the communists and swearing to never surrender." # (!)
- griffons.181.a: "So be it." # (!)
+ griffons.181.t: "[From.GetNameDefCap] відхиляє перемир'я" # (@+++)
+ griffons.181.d: "[From.GetLeader] відхиляє нашу щедру та дружню пропозицію миру. Вони поклялися за будь-яку ціну розчавити нашу «контрреволюцію». Здається, у нас немає іншого вибору, окрім як продовжувати боротьбу проти цих божевільних кровожерливих комуністів. [Root.GetLeader] виступає з публічною промовою, засуджуючи комуністів і присягаючи ніколи не здаватися." # (@+++)
+ griffons.181.a: "Хай буде так." # (@+++)
 
- griffons.182.t: "[From.GetNameDefCap] Offers A Deal" # (!)
- griffons.182.d: "[From.GetLeader] has sent us a confidential message, offering the sale of the Skull Islands in exchange for weapons. It seems the griffons are desperate for help in their civil war. While the Skull Islands have little in terms of population or resources, they could become a strategic naval base allowing us to project power into the Celestial Sea. Now, [Root.GetLeader] must decide how to respond to this offer." # (!)
- griffons.182.a: "Of course, we can use that." # (!)
- griffons.182.b: "It's not worth it." # (!)
+ griffons.182.t: "[From.GetNameDefCap] пропонує угоду" # (@+++)
+ griffons.182.d: "[From.GetLeader] надсилає нам конфіденційне повідомлення з пропозицією продати Острови Черепа в обмін на зброю. Здається, грифони відчайдушно потребують допомоги у своїй громадянській війні. Хоча Острови Черепа мають мало населення та ресурсів, вони можуть стати стратегічною військово-морською базою, що дозволить нам проєктувати силу в Селестійському морі. [Root.GetLeader] має вирішити, як відповісти на цю пропозицію." # (@+++)
+ griffons.182.a: "Звісно, чому б цим не скористатися?" # (@+++)
+ griffons.182.b: "Воно того не варте." # (@+++)
 
- griffons.183.t: "[From.GetNameDefCap] Accepts!" # (!)
- griffons.183.d: "[From.GetLeader] has responded to our offer and has fortunately accepted it. They have told us that a shipment of weapons is already approaching, and the same shipment is carrying a small amount of soldiers who will formally take over the Skull Islands from us." # (!)
- griffons.183.a: "Yay!" # (!)
+ griffons.183.t: "[From.GetNameDefCap] погоджується!" # (@+++)
+ griffons.183.d: "[From.GetLeader] відповідає на нашу пропозицію згодою. Нам повідомили, що обіцяна партія зброї вже наближається, і з цим же вантажем прибуде невеликий загін солдатів, які формально переймуть контроль над Островами Черепа." # (@+++)
+ griffons.183.a: "Ура!" # (@+++)
 
- griffons.184.t: "[From.GetNameDefCap] Refuses" # (!)
- griffons.184.d: "[From.GetLeader] has responded to our offer and has unfortunately rejected it. They have told us they are not interested in the Skull Islands, even at a low price of some weapons to aid us in the civil war." # (!)
- griffons.184.a: "Oh well." # (!)
+ griffons.184.t: "[From.GetNameDefCap] відмовляє" # (@+++)
+ griffons.184.d: "[From.GetLeader] відповідає на нашу пропозицію відмовою. Нам повідомили, що вони не зацікавлені в Островах Черепа, навіть за таку низьку ціну у вигляді невеликої кількості зброї для допомоги нам у громадянській війні." # (@+++)
+ griffons.184.a: "Ну що ж..." # (@+++)
 
 ### НОВИНИ ###
  newsg.2.t:0 "Губернатора Нова-Грифонії застрелено!" #TODO: РОЗГЛЯНУТИ МОЖЛИВІСТЬ ПЕРЕПИСАТИ
@@ -1421,7 +1421,7 @@
  newsg.2.a:0 "Співчуваємо."
  newsg.2.b:0 "Темні часи для нашої держави."
  newsg.3.t:0 "У Нова-Грифонії вибухнула громадянська війна!"
- newsg.3.d:0 "[This.GetNewspaperHeader]Not long ago Governor Teafeather was assassinated and a Provisional Government was formed in Weter until the country could stabilise. The goal of the government was to form a coalition of diverse interests and keep the country together; however it seems that goal was doomed. As a day ago Field Marshal Highhill marched upon the governmental palace at the front of a column of soldiers and proceeded to dissolve the Provisional Government. In response, ragtag socialists and republicans refused to recognize his authority and formed their own militias in the East. A state of civil war now exists between the two sides." # (!)
+ newsg.3.d:0 "[This.GetNewspaperHeader]Не так давно місцевого губернатора, Тіфезера, було вбито, після чого в Уетері сформували Тимчасовий уряд, поки країна не стабілізується. Метою уряду було створення коаліції різних інтересів і збереження єдності країни; однак, схоже, ця мета була приречена. Адже день тому фельдмаршал Гайгілл на чолі колони солдатів рушив на урядовий палац і розпустив Тимчасовий уряд. У відповідь на це різношерсті соціалісти та республіканці відмовилися визнати його владу і сформували власне ополчення на сході. Тепер між двома сторонами точиться державний конфлікт." # (@+++) #На сході?
  newsg.3.a:0 "За ідеї знову пролилася кров..."
  newsg.4.t:0 "Республіканці Нова-Грифонії запобігли перевороту!"
  newsg.4.d:0 "[This.GetNewspaperHeader]Соціалісти та республіканці запанували в Нова-Грифонії після того, як змусили фельдмаршала Хайхілла та його війська здатися після спроби перевороту тимчасового уряду. Після політичної катастрофи, що почалася з убивства губернатора Тіфезера, прихильники демократії озброїлися, сподіваючись не лише повалити диктатора, а й весь уряд, щоб підняти на ноги простих грифонів. З їхньою сьогоднішньою перемогою здається, що Нова-Грифонія більше не потребує господарів, будь то маршал чи імператор, оскільки кожен громадянин запрошується до участі у перших в історії країни виборах."
@@ -1656,4 +1656,4 @@
  GRF_DESC_SUS_GRIFFON:0 "Мета занадто далека? Можливо.\n\nІдеологічне насильство привернуло інтерес чейнджлінґів. Ними була відправлена місія, щоб допомогти в придушенні комуністів. Місія прибула в землі Нова-Грифонії... щоб бути висміяною і підданою остракізму через відвертий расизм, заохочуваний і практикований населенням. Незабаром аташе чейнджлінґів вигнали.\n\nТим не менш, фахівець з танків з їхніх лав залишився непохитним. Чейнджлінґ перетворився на грифона і взяв ім'я "Руссель Шванц". Хайхілл і його хунта, які раніше відкинули чейнджлінґів, з ентузіазмом прийняли цього "грифона", що має здібності та знання, щоб допомогти їм перемогти комуністів.\n\nУ міру зростання сил реакціонерів, зусилля Русселя Шванца піднесли його до рангу генерала, що дало йому командування над новими танковими дивізіями, натхненними "Соколами" Нова-Грифонії. Проти своєї волі, чейнджлінґ тепер змушений постійно підтримувати вигляд генерала "Русселя Шванца" і вести цих расистів, націоналістично налаштованих грифонів, у бій."
 
  # Misc
- GRF_sturmtruppe_battalion: "Political Officer Company" # (!)
+ GRF_sturmtruppe_battalion: "Рота політичних офіцерів"

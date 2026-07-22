@@ -160,7 +160,7 @@
 + [ ] ~~`country_MCW`~~
 + [x] `country_MIT` (переклав *Green Kitten*)
 + [x] `country_MNC` (переклав *Bovcun*) — `(&)`
-+ [ ] `country_MTA` (умовно завершено)
++ [x] `country_MTA`<!--  (допереклав @+++) -->
 + [x] `country_NCR` (переклав *Green Kitten*)
 + [x] `country_NIM` (переклав *pani_justyna1733*)
 + [x] `country_NLR` (переклав *Green Kitten*) — `(&!)`
@@ -175,7 +175,7 @@
 + [x] `country_PYT` (переклав *StasJesus*)
 + [x] `country_RCT` (переклав *pani_justyna1733*)
 + [ ] `country_ROU` (переклав *StasJesus*) — `(&)`
-+ [ ] `country_SADDLE`
++ [x] `country_SADDLE`<!--  (допереклав @+++) -->
 + [x] `country_SCS` (переклав *Green Kitten*)
 + [ ] `country_SOL` (один рядок не)
 + [ ] `country_SIC` (переклав [*Orko1538*](https://steamcommunity.com/profiles/76561198255230836))
@@ -200,7 +200,7 @@
 	+ стару версію переклав *pani_justyna1733*
 	+ нову версію переклав *Green Kitten* — `(&)`
 + [ ] `country_ZES` (переклав *Bovcun*) — `(&)`
-+ [ ] `country_ZRS`
++ [x] `country_ZRS`<!--  (допереклав @+++) -->
 + [x] `country_ZLU`
 
 ## Папка `replace`

@@ -975,9 +975,9 @@
  crysom.54.b:0 "Який же він дурень!"
 
  crysom.55.t: "Немислиме"
- crysom.55.d:0 "Princess Celestia ended court early when she heard the news. She quietly excused herself to her private chambers, and sat in front of her dressing mirror. The room, too, was quiet. Even her tears were silent. Her mind, however, was not. The words, spoken with great care and hesitation by her aide earlier, repeatedly screamed inside of her head:\n\n"Princess Cadance and Shining Armor have been executed by King Sombra."\n\nIt seemed that the world was becoming rather unkind as of late. A memory surfaced of Celestia and Cadance sharing a laugh in the garden over Shining's silly habits and romantic tendencies. Of the pure, joyous love in Cadance as she spoke of her husband. They really did have everything.\n\nSuddenly, Celestia heard the telltale pop of a teleportation spell by her balcony. She knew who it was.\n\n"Princess Celestia!" Twilight Sparkle burst through the balcony doors and threw herself into the larger alicorn's hooves. Her horn still crackled as she cried. "He... he..."\n\nCelestia pulled her close and hugged her tightly. "I know, Twilight. I know."\n\n"M-my brother, he... he... and Cadance..." Twilight tried to press a hoof to her chest to calm down like Cadance had taught her, but couldn't manage it throughout her sobbing. "Flurry Heart!" Twilight looked up to Celestia with realization, "It's only a matter of time until..."\n\nCelestia's heart skipped a beat as she too realized that she was so distraught over Cadance and Shining that she had completely overlooked the fact that Sombra still had their daughter.\n\nTwilight continued, unabated, "Princess! HE HAS FLURRY HEART!" She paused to sniffle, then noticed that Celestia wasn't paying attention to her. Twilight shook the unresponsive alicorn and practically screamed, "PLEASE! WE HAVE TO DO SOMETHING! B-before..."\n\nFor a moment, Celestia did not recognize herself in the mirror. A flash of something else was there instead. She blinked, then turned to face Twilight. "Yes, we do. And we will..."" # (!)
- crysom.55.a:0 ""...though we must stay strong, Twilight. For Flurry."" # (!)
- crysom.55.b:0 ""...make sure that Sombra pays for what he has done."" # (!)
+ crysom.55.d: "Принцеса Селестія достроково завершила прийом, коли почула новини. Вона тихо пішла до своїх особистих покоїв і сіла перед дзеркалом. У кімнаті теж було тихо. Навіть її сльози були безмовними. Однак її розум — ні. Слова, вимовлені раніше її помічником з великою обережністю і ваганням, раз у раз лунали в її голові криком:\n\n«Принцесу Кейденс та Шайнинґ Армора страчено королем Сомброю».\n\nЗдавалося, що останнім часом світ став надто жорстоким. Зринув спогад про те, як Селестія та Кейденс сміялися в саду над кумедними звичками й романтичними нахилами Шайнинґа. Про чисте, радісне кохання Кейденс, коли вона говорила про нього згодом. У них справді було все.\n\nРаптом Селестія почула характерний звук закляття телепортації біля свого балкона. Вона знала, хто це.\n\n«Принцесо Селестіє!» — Твайлайт Спаркл увірвалася крізь балконні двері і кинулася в копита старшого алікорна. Її ріг усе ще іскрив, поки вона плакала. «Він... він...»\n\nСелестія пригорнула її до себе і міцно обійняла. «Я знаю, Твайлайт... Я знаю».\n\n«М-мій брат, він... він... і Кейденс...» — Твайлайт спробувала притиснути копито до грудей, щоб заспокоїтися, як її вчила Кейденс, але так і не змогла зробити цього крізь ридання. «Фларрі Гарт!» — Твайлайт глянула на Селестію з усвідомленням: «Це лише справа часу, поки...»\n\nСерце Селестії завмерло, коли вона теж усвідомила, що була настільки засмучена через Кейденс і Шайнинґа, що зовсім випустила з уваги той факт, що Фларрі усе ще залишається в Сомбри.\n\nТвайлайт продовжувала без зупинки: «Принцесо! У НЬОГО ФЛАРРІ ГАРТ!» Вона зупинилася, щоб шмигнути носом, перш ніж помітити, що Селестія не звертає на неї уваги. Твайлайт потрусила байдужу алікорницю і практично закричала: «БУДЬ ЛАСКА! МИ МАЄМО ЩОСЬ ЗРОБИТИ! П-поки...»\n\nНа мить Селестія не впізнала себе в дзеркалі. Натомість там промайнуло щось інше. Вона кліпнула, повернувшись до Твайлайт. «Так, маємо. І ми зробимо...»" # (@+++)
+ crysom.55.a: "«...хоча ми мусимо залишатися сильними, Твайлайт. Заради Фларрі»." # (@+++)
+ crysom.55.b: "«...подбати про те, щоб Сомбра поплатився за те, що він зробив»." # (@+++)
 
  crycom.1.t:0 "ЧКРП та Ліга Сніжинки утворюють коаліцію"
  crycom.1.d:0 "Комуністи, соціалісти та соціал-демократи утворили коаліцію демократичних партій. Нещодавно вони почали поширювати свою пропаганду по всій Кристальній Імперії, провокуючи страйки робітників і загалом поширюючи підтримку демократичних і соціальних реформ. На таємному саміті рада вирішила, що для успішного проведення референдуму необхідна ширша підтримка населення."
@@ -1073,19 +1073,19 @@
  crycom.17.a:0 "Який сором."
 
 ### НОВИНИ ###
- news.cry.0.t:0 "Revolution in the Crystal Empire!" # (!)
- news.cry.0.d:0 "[This.GetNewspaperHeader]An organised coup of oppositions forces stormed the Crystal Castle in the Crystal City and overthrown current Ruler Princess Cadance. The Princess, her Husband and their Daughter got imprisoned. The new government ensures that they are in good hooves." # (!)
- news.cry.0.a:0 "Hail the Crystal!" # (!)
- news.cry.0.b:0 "Poor Princess. I hope she's fine." # (!)
- news.cry.0.c:0 "That could be a good moment to attack..." # (!)
- news.cry.0.dd:0 "Interesting" # (!)
+ news.cry.0.t: "Революція у Кристальній Імперії!" # (@+++)
+ news.cry.0.d: "[This.GetNewspaperHeader]Організовані сили опозиції взяли штурмом Кристальний замок у Кристальному місті та повалили нинішню правительку, принцесу Кейденс. Принцеса, її консорт та їхня донька були ув'язнені. Новий уряд запевняє, що вони в надійних копитах." # (@+++)
+ news.cry.0.a: "Слався Кристалія!" # (@+++)
+ news.cry.0.b: "Бідна принцеса. Нехай з нею все буде добре." # (@+++)
+ news.cry.0.c: "Доволі вдалий момент для нападу..." # (@+++)
+ news.cry.0.dd: "Тримайте в курсі" # (@+++)
 
- news.cry.1.t:0 "End of Crystal Civil War" # (!)
- news.cry.1.d:0 "[This.GetNewspaperHeader]With the surrender of the last troops loyal to Princess Mi Amore Cadenza, the Crystal Civil War has come to an end, at last. The communist forces have triumphed over the Princess and her loyalists, and where the Crystal Empire once stood now proudly stands the Crystal Pony Republic.\n\nFor many moons the fighting in the Crystal territories went on, with bitter resistance from both sides. The low temperatures of the region brought many soldiers and milita ponies to their limits. The end of the civil war is welcomed by many crystal ponies, though some wonder if it was worth the price, and if the new regime will somehow make up for this terrible loss of life." # (!)
- news.cry.1.a:0 "The Workers have triumphed!" # (!)
- news.cry.1.b:0 "The traitors!" # (!)
- news.cry.1.c:0 "Perfect." # (!)
- news.cry.1.dd:0 "Interesting..." # (!)
+ news.cry.1.t: "Кінець Кристальної громадянської війни" # (@+++)
+ news.cry.1.d: "[This.GetNewspaperHeader]З капітуляцією останніх військ, вірних принцесі Мі Аморе Кейденс, Кристальна громадянська війна нарешті добігла кінця. Комуністичні сили здобули перемогу над принцесою та її лоялістами, і там, де колись була Кристальна Імперія, тепер гордо стоїть Кристальна Республіка Поні.\n\nБагато місяців на територіях кристальної держави точилися бої із запеклим опором обох сторін. Низькі температури в регіоні довели багатьох солдатів і місцевого ополчення до межі. Завершення громадянської війни вітають багато кристальних поні, хоча дехто задається питанням, чи вартувало воно такої ціни, і чи зможе новий режим якось компенсувати жахливу втрату життів." # (@+++)
+ news.cry.1.a: "Робітники перемогли!" # (@+++)
+ news.cry.1.b: "Зрадники!" # (@+++)
+ news.cry.1.c: "Ідеально." # (@+++)
+ news.cry.1.dd: "Угу..." # (@+++)
 
  news.cry.2.t:0 "Шлюб короля Сомбри та Рейдіент Гоуп"
  news.cry.2.d:0 "[This.GetNewspaperHeader]Останні новини з Кристального палацу повідомляють, що король Кристальної Імперії Сомбра одружився зі своєю давньою коханою, принцесою Рейдіент Гоуп. Вулиці Кристального Міста були заповнені святкуючими, дипломатами з багатьох країн, а також іноземними та вітчизняними ЗМІ. Для багатьох Рейдіент Гоуп є саме тією, і навіть зараз знімається фільм, який розповість історію її життя. Хоча вони ніколи не зможуть сказати це публічно, багато кристальних громадян сподіваються, що нова королева зможе приборкати багато темних поривань свого чоловіка. Для багатьох за межами Імперії нова королева залишається загадкою, за винятком того факту, що вона була ватажком змови з метою повернути Сомбру до життя. Однак ця таємниця була значною мірою розвіяна, коли сам король узяв слово на прийомі, щоби розповісти про свою нову дружину і про те, як вони вперше зустрілися."

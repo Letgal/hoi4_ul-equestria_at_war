@@ -86,54 +86,54 @@
  north_war.101.f:0 "Звучить як чудова можливість..."
  north_war.101.g:0 "Нема спокію в Північній Зебриці..."
 
- north_war_alliance.1.t:0 "Against The Hippogriffs" # (!)
- north_war_alliance.1.d:0 "As we prepare for war with the Hippogriffs, there is no secret that another nation likewise gears for war with them: [?NZW_alliance_receiver.GetNameDef]. Like us, they have set their eyes on the valuable land Hippogriffia still holds on the continent. It seems therefore natural to consult with their leadership about possible cooperation – to form an axis against Aris. The [ROOT.GetAdjective] military leadership has also come out in favour of such a deal, since, despite the strength of our armed forces, the Hippogriffs have remained the leading military power in North Zebrica ever since the Storm King was defeated – and some claim that we may not be ready yet to challenge them alone.\n\nIn case that we can reach an agreement, this would also open the question of how to split the lands the Hippogriffs currently control. Our diplomats have developed a plan to split the area, with all lands south of the Zuthul River going to [NZ2.GetNameDef] and all lands north going to [NZ1.GetNameDef]. [north_war_alliance_1_zinder_text]" # (!)
- north_war_alliance.1.a:0 "A great idea." # (!)
- north_war_alliance.1.b:0 "What a foolish idea." # (!)
- north_war_alliance.1.zinder_demand:0 "In addition, our diplomats have added the demand to be given the state of Zinder to make the proposed borders fairer." # (!)
- north_war_alliance.1.zinder_offer:0 "In addition, our diplomats have added the offer to cede the state of Zinder to make the proposed borders fairer." # (!)
+ north_war_alliance.1.t: "Проти гіпогрифів" # увесь блок переклав (@+++)
+ north_war_alliance.1.d: "Поки ми готуємося до війни з гіпогрифами, не є секретом, що ще одна нація так само готується до війни з ними: [?NZW_alliance_receiver.GetNameDef]. Як і ми, вони накинули оком на цінні землі, які Гіпогрифія досі утримує на континенті. Тому здається цілком природним проконсультуватися з їхнім керівництвом щодо можливої співпраці — щоб сформувати вісь проти Аріса. [ROOT.GetAdjective]е військове керівництво також виступило за таку угоду, оскільки, незважаючи на силу наших збройних сил, гіпогрифи залишаються провідною військовою потугою в Північній Зебриці ще з часів розгрому Короля Шторму — і дехто стверджує, що ми, можливо, ще не готові кинути їм виклик самотужки.\n\nУ разі досягнення угоди це також відкриє питання про те, як розділити землі, які наразі контролюють гіпогрифи. Наші дипломати розробили план поділу території: усі землі на південь від річки Зутул отримає [NZ2.GetNameDef], а всі землі на північ — [NZ1.GetNameDef]. [north_war_alliance_1_zinder_text]"
+ north_war_alliance.1.a: "Чудова ідея."
+ north_war_alliance.1.b: "Яка безглузда ідея."
+ north_war_alliance.1.zinder_demand: "Крім того, наші дипломати додали вимогу передати нам регіон Зіндер, щоб зробити запропоновані кордони більш справедливими."
+ north_war_alliance.1.zinder_offer: "Крім того, наші дипломати додали пропозицію поступитися регіоном Зіндер, щоб зробити запропоновані кордони більш справедливими."
 
- north_war_alliance.2.t:0 "[FROM.GetName] Proposes An Alliance" # (!)
- north_war_alliance.2.d:0 "[FROM.GetAdjective] relations with the Hippogriffs have greatly soured in recent years, and it is no secret that armed conflict between the two of them is lurking on the horizon. In light of this, [From.GetLeader] asks for our cooperation in the creation of an Anti-Hippogriff alliance: a formal pact to act together if either of us enters into a state of war with Hippogriffia. This is our chance to ensure that we have a strong nation on our side in the case of our own war, although some ponies question exactly how reliable of an ally [FROM.GetNameDef] would be.\n\nThe proposal also includes a proposed split of the land the Hippogriffs currently occupy. According to this plan, all lands south of the Zuthul River would go [NZ2.GetName] and all lands north to [NZ1.GetNameDef]. [north_war_alliance_2_zinder_text]" # (!)
- north_war_alliance.2.a:0 "We must stand together!" # (!)
- north_war_alliance.2.b:0 "We have no need for such an alliance." # (!)
- north_war_alliance.2.zinder_demand:0 "In addition, their diplomats have added the demand to be given the state of Zinder to make the proposed borders fairer." # (!)
- north_war_alliance.2.zinder_offer:0 "In addition, their diplomats have added the offer to cede the state of Zinder to make the proposed borders fairer." # (!)
+ north_war_alliance.2.t: "[FROM.GetName] пропонує альянс"
+ north_war_alliance.2.d: "[FROM.GetAdjective]і відносини з гіпогрифами значно погіршилися за останні роки, і не секрет, що збройний конфлікт між ними вже не за горами. З огляду на це, [From.GetLeader] просить нашої співпраці у створенні Антигіпогрифського альянсу: формального пакту про спільні дії, якщо хтось із нас вступить у стан війни з Гіпогрифією. Це наш шанс забезпечити собі сильного союзника на нашому боці у випадку нашої власної війни, хоча деякі поні сумніваються, наскільки надійним союзником буде [FROM.GetNameDef].\n\nПропозиція також включає запропонований поділ землі, яку наразі займають гіпогрифи. Згідно з цим планом, усі землі на південь від річки Зутул отримає [NZ2.GetName], а всі землі на північ — [NZ1.GetNameDef]. [north_war_alliance_2_zinder_text]"
+ north_war_alliance.2.a: "Ми маємо триматися разом!"
+ north_war_alliance.2.b: "Нам не потрібен такий альянс."
+ north_war_alliance.2.zinder_demand: "Крім того, їхні дипломати додали вимогу передати їм регіон Зіндер, щоб зробити запропоновані кордони більш справедливими."
+ north_war_alliance.2.zinder_offer: "Крім того, їхні дипломати додали пропозицію поступитися регіоном Зіндер, щоб зробити запропоновані кордони більш справедливими."
 
- north_war_alliance.3.t:0 "Alliance Signed" # (!)
- north_war_alliance.3.d:0 "Our envoys return bearing good news: [FROM.GetName] has wisely decided to accept our offer of an alliance, and so the Anti-Aris Axis is born. Their cooperation will no doubt prove invaluable in our coming conflict against the Hippogriffs, meaning victory is now easily within our reach. [north_war_alliance_3_zinder_text]" # (!)
- north_war_alliance.3.a:0 "Together against Aris." # (!)
- north_war_alliance.3.zinder:0 "As part of this agreement, the Zarantian state of Zinder will be transferred for strategic reasons." # (!)
+ north_war_alliance.3.t: "Альянс підписано"
+ north_war_alliance.3.d: "Наші посланці повертаються з добрими новинами: [FROM.GetName] мудро вирішує прийняти нашу пропозицію щодо альянсу, і так народжується Вісь протидії Арісу. Їхня співпраця, безсумнівно, виявиться неоціненною в нашому майбутньому конфлікті проти гіпогрифів, а отже, перемога тепер легко досяжна. [north_war_alliance_3_zinder_text]"
+ north_war_alliance.3.a: "Разом проти Аріса."
+ north_war_alliance.3.zinder: "Як частина цієї угоди, зарантійський регіон Зіндер буде передано зі стратегічних міркувань."
 
- north_war_alliance.4.t:0 "Alliance Declined" # (!)
- north_war_alliance.4.d:0 "Our envoys return bearing grim news: [FROM.GetName] has foolishly rejected our offer of an alliance, dealing a deathblow to the dream of an Anti-Aris Axis. Having failed to secure the cooperation of the bats, we are now forced to face down the Hippogriffian menace all by ourselves: a truly daunting prospect, but our only option remaining. It will require the total dedication of every citizen if we are to have any chance of victory in the conflict ahead, but we are left with no alternative." # (!)
- north_war_alliance.4.a:0 "Dark days are ahead." # (!)
+ north_war_alliance.4.t: "Альянс відхилено"
+ north_war_alliance.4.d: "Наші посланці повертаються з похмурими новинами: [FROM.GetName] по-дурному відкидає нашу пропозицію альянсу, завдаючи смертельного удару по мрії про Вісь протидії Арісу. Не зумівши заручитися підтримкою фестралів, ми тепер змушені протистояти гіпогрифській загрозі самотужки: справді лякаюча перспектива, але це наш єдиний вихід. Знадобиться цілковита самовіддача кожного громадянина, якщо ми хочемо мати хоч якийсь шанс на перемогу в майбутньому конфлікті, але іншої альтернативи в нас не залишилося."
+ north_war_alliance.4.a: "Попереду темні часи тотальної війни."
 
- north_war_alliance.5.t:0 "The Future Of The $NZW_anti_aris_axis$" # El generico # (!)
- north_war_alliance.5.t_CTH:0 "The Alliance or the Dream?" # Formerly colthage_others.211 # (!)
- north_war_alliance.5.d:0 "The war with Hippogriffia is finally over. It has been described as the defining war for the future of North Zebrica, as a pivotal moment in history, and as a fight for the destiny of our nation. Upon the Hippogriff's surrender, celebrations broke out all over the countryside, for our nation was to finally enjoy its well-earned peace.\n\nBut among some members of our political leadership, the jubilations have been more restrained. Before the war, we signed an alliance with [?NZW_alliance_partner.GetNameDef], and so far, we have shared the price. But was this alliance ever more than an act of political and military convenience? Have our nations really the potential to work together in the future? Their ambitions are not any smaller than our own, and so some in the administration urge [ROOT.GetLeader] to dissolve this unstable pact and prepare to fight for the true, unchallenged hegemony in North Zebrica." # El generico # (!)
- north_war_alliance.5.d_CTH:0 "Looking out across the rolling hills of Aurez at his new Zumidian citizens, some part of Zalathel felt he had reached the end of the road of conflict he'd walked for so many years. But he wasn't at the end: merely another crossroads.\n\n"I know what you're thinking, Zal," said Zago, lounging in the grass beside him, "Wouldn't it be better if we could have all of Zonicia? Why do we have to share? Well, if you look at these zebras below us, I think you'll see the answer. They've seen so much war, and if you let them enjoy peace, they'll love you for it."\n\nZalathel was about to turn to Zasdrubal, expecting his militaristic brother to offer a counterpoint, when a bitter laugh cut through the silence. Looking behind them, the brothers saw Zaphod had caught up with them.\n\n"These zebras had plenty of peace before we came to 'liberate' them. And now we've won. We've 'liberated' millions of them in Zirta and Warzena to toil under our good friends, the Chiropterrans."\n\nThe brothers were momentarily dumbstruck. Zago got to his hooves and glared at her.\n\n"We just won the toughest war since the Storm King. Do you have to ruin it, Zaphod?"\n\nZasdrubal spoke in a low voice: "I think our sister is suggesting we betray our allies. Is that it, Zaphod?"\n\nZaphod nodded. "I was against this alliance from the start. We've fought with the Chiropterrans. We know what they're like. We know what they're going to do now that they don't have external threats. Now that they can really get to work."\n\nZalathel remained silent. To betray his one ally, to subject his citizens to yet another terrible war... unthinkable. But to abandon his fellow Zonicians to the Lunarist yoke... also unthinkable.\n\nZalathel's eye rested on some of the Zumidian farmers below, finally getting a good enough look to see what they were doing. They were removing an unexploded landmine from their fields." # Formerly colthage_others.211 # (!)
- north_war_alliance.5.a:0 "We will not betray our closest allies." # (!)
- north_war_alliance.5.b:0 "We must claim full dominance in North Zebrica." # (!)
- north_war_alliance.5.c:0 "The Zonician Dream is worth any sacrifice." # CTH special option # (!)
+ north_war_alliance.5.t: "Майбутнє союзу" # El generico
+ north_war_alliance.5.t_CTH: "Альянс чи мрія?" # Formerly colthage_others.211
+ north_war_alliance.5.d: "Війна з Гіпогрифією нарешті закінчилася. Її називали визначальною війною для майбутнього Північної Зебрики, ключовим моментом в історії та боротьбою за долю нашої нації. Після капітуляції гіпогрифів по всій країні спалахнули святкування, адже наша нація нарешті мала насолодитися заслуженим миром.\n\nАле серед деяких членів нашого політичного керівництва радість була більш стриманою. Перед війною було створено альянс, [?NZW_alliance_partner.GetNameDef] як наш союзник, і досі ми ділили ціну перемоги порівну. Але чи був цей альянс чимось більшим, ніж актом політичної та військової доцільності? Чи справді наші нації мають потенціал для співпраці в майбутньому? Їхні амбіції не менші за наші власні, тому дехто в адміністрації закликає, щоб наше лідерство розірвало цей нестабільний пакт і готуватися до боротьби за справжню, беззаперечну гегемонію в Північній Зебриці." # El generico
+ north_war_alliance.5.d_CTH: "Дивлячись на своїх нових зумідійських громадян через розлогі Аурезькі пагорби, якась частина Залателя відчувала, що він дійшов до кінця шляху конфліктів, яким ішов стільки років. Але це був не кінець: лише чергове перехрестя.\n\n«Я знаю, про що ти думаєш, Зале», — промовив Заґо, вилежуючись на траві поруч із ним, — «Хіба не було б краще, якби ми мали всю Зонікію? Чому ми маємо ділитися? Що ж, якщо ти подивишся на цих зебр унизу, гадаю, ти побачиш відповідь. Вони бачили стільки війни, і якщо ти дозволиш їм насолоджуватися миром, вони будуть любити тебе за це».\n\nЗалатель уже збирався повернутися до Засдрубала, очікуючи, що його мілітаристськи налаштований брат запропонує контраргумент, коли гіркий сміх розрізав тишу. Озирнувшись назад, брати побачили Зафоду, яка їх наздогнала.\n\n«Ці зебри мали вдосталь миру до того, як ми прийшли їх «визволяти». А тепер ми перемогли. Ми «визволили» мільйони з них у Зірті та Варзені, щоб вони гнули спини під владою наших добрих друзів — хіроптеррців».\n\nБрати на мить оніміли. Заґо звівся на копита і люто подивився на неї.\n\n«Ми щойно виграли найважчу війну з часів Короля Шторму. Тобі обов'язково треба все зіпсувати, Зафодо?»\n\nЗасдрубал промовив тихим голосом: «Гадаю, наша сестра пропонує нам зрадити наших союзників. Чи не так, Зафодо?»\n\nЗафода кивнула: «Я була проти цього альянсу із самого початку. Ми воювали з хіроптеррцями. Ми знаємо, які вони. Ми знаємо, що вони зроблять тепер, коли в них немає зовнішніх загроз. Тепер, коли вони дійсно можуть взятися до справи».\n\nЗалатель мовчав. Зрадити свого єдиного союзника, приректи своїх громадян на ще одну жахливу війну... немислимо. Але й покинути своїх братів-зонікійців під місячним ярмом... теж немислимо.\n\nПогляд Залателя зупинився на кількох зумідійських фермерах унизу; він нарешті зміг добре роздивитися, що вони роблять. Вони витягали з поля міну, що не розірвалася." # Formerly colthage_others.211
+ north_war_alliance.5.a: "Ми не зрадимо наших найближчих союзників."
+ north_war_alliance.5.b: "Ми маємо заявити права на повне панування в Північній Зебриці."
+ north_war_alliance.5.c: "Зонікійська мрія варта будь-яких жертв." # CTH special option
 
- north_war_alliance.6.t:0 "Hidden" # (!)
+ north_war_alliance.6.t: "Прихованка"
 
- north_war_alliance.7.t:0 "Peace In North Zebrica" # (!)
- north_war_alliance.7.d:0 "Diplomats from [NZ1.GetName] and [NZ2.GetName] have met in Agzhat to discuss the future of the Anti-Aris Axis. After the Hippogriffs lay defeated, its future had become uncertain – as the common enemy was gone, tensions over future dominance in North Zebrica had flared up.\n\nBut now, cooler heads have prevailed. [NZ2.GetLeader] and [NZ1.GetLeader] both publicly stated their intention to prevent further war and build on the foundations of the Axis. The new treaty, quickly dubbed the "Agzhat Pact" after the town where it was negotiated, establishes a comprehensive framework of economic, diplomatic, and military cooperation. Media outlets from both nations have celebrated the news, and "Peace in North Zebrica" has become the credo of the hour." # (!)
- north_war_alliance.7.a:0 "A toast towards cooperation." # (!)
+ north_war_alliance.7.t: "Мир у Північній Зебриці"
+ north_war_alliance.7.d: "[NZ1.GetName] та [NZ2.GetName], дипломати обох зустрілися в Агзаті, щоб обговорити майбутнє Вісі. Після того як гіпогрифи були переможені, її майбутнє стало невизначеним — оскільки спільний ворог зник, спалахнула напруженість щодо майбутнього панування в Північній Зебриці.\n\nАле тепер здоровий глузд узяв гору. [NZ2.GetLeader] і [NZ1.GetLeader] публічно заявили про свій намір запобігти подальшій війні та будувати відносини на фундаменті Вісі. Новий договір, швидко охрещений «Агзатським пактом» на честь міста, де він обговорювався, встановлює всеосяжну структуру економічної, дипломатичної та військової співпраці. ЗМІ обох націй відсвяткували новину, і «Мир у Північній Зебриці» став кредо нашого часу."
+ north_war_alliance.7.a: "Тост за співпрацю."
 
- north_war_alliance.8.t:0 "The End Of The $NZW_anti_aris_axis$" # (!)
- north_war_alliance.8.d:0 "After the war, the future of the Anti-Aris Axis had become uncertain – but now it is dead. While [ROOT.GetLeader] was willing to preserve it, [?NZW_alliance_dissolver.GetLeader] seems to have chosen differently. They expressed their frustrations with the Treaty of Trotgourait – despite the fact that the borders had been previously agreed upon – and instead demanded further concessions. The tone and scope of the demands made it abundantly clear that there was little interest on their side in conducting serious negotiations.\n\nAnd so, the alliance was laid to rest, as the future of North Zebrica seems uncertain once more. [ROOT.GetLeader] has ordered the military high command to prepare for all eventualities, for the final struggle in North Zebrica might yet be to come." # (!)
- north_war_alliance.8.a:0 "So they chose war." # (!)
+ north_war_alliance.8.t: "Кінець Вісі"
+ north_war_alliance.8.d: "Після війни майбутнє Вісі протидії Арісу стало невизначеним — але нині вона мертва. Хоча [ROOT.GetLeader] мав намір її зберегти, [?NZW_alliance_dissolver.GetLeader], схоже, надає інакшу відповідь. Вони висловили своє розчарування Тротґуретським договором — попри те, що кордони були узгоджені заздалегідь — і натомість почали вимагати нових поступок. Тон і масштаб цих вимог чітко дали зрозуміти, що з їхнього боку немає зацікавленості у веденні серйозних переговорів.\n\nІ так альянс канув у небуття, а майбутнє Північної Зебрики знову виглядає невизначеним. [ROOT.GetLeader] наказав вищому військовому командуванню готуватися до будь-якого розвитку подій, адже остання битва за Північну Зебрику, можливо, ще є попереду."
+ north_war_alliance.8.a: "Отже, вони обрали війну."
 
- north_war_alliance.9.t:0 "The End Of The $NZW_anti_aris_axis$" # (!)
- north_war_alliance.9.d:0 "The Anti-Aris Axis is dead. Unsurprisingly, our demands for full dominance weren't taken too well by our erstwhile allies, and the pact was dissolved as quickly as it had been signed. Now, there is only one thing left to do: fulfil our destiny and bring all of North Zebrica under our control." # (!)
- north_war_alliance.9.a:0 "The future belongs to [ROOT.GetNameDef]." # (!)
+ north_war_alliance.9.t: "Кінець Вісі"
+ north_war_alliance.9.d: "Вісь протидії Арісу мертва. Не дивно, що наші вимоги щодо повного панування були з гнівом сприйняті нашими колишніми союзниками, і пакт був розірваний так само швидко, як і підписаний. Тепер залишається зробити лише одне: виконати своє призначення і взяти всю Північну Зебрику під свій контроль."
+ north_war_alliance.9.a: "[ROOT.GetNameDef], майбутнє за тобою."
 
- north_war_alliance.10.t:0 "The End Of The $NZW_anti_aris_axis$" # (!)
- north_war_alliance.10.d:0 "After the war with Hippogriffia, tensions quickly flared between [NZ2.GetName] and [NZ1.GetName]. Some optimistic observers might have hoped that the two powers would be exhausted by the war and favour continued cooperation, but the actions by [NZ1.GetLeader] and [NZ2.GetLeader] quickly proved these dreams unfounded. Instead, it seems the axis really was never more than a temporary convenience, intended to be broken as soon as it lost its usefulness. Now, the only question remaining is how soon the tensions will boil over in full-blown war." # (!)
- north_war_alliance.10.a:0 "North Zebrica isn't big enough for two superpowers." # (!)
+ north_war_alliance.10.t: "Кінець Вісі"
+ north_war_alliance.10.d: "Після війни з Гіпогрифією нині колишні союзники, [NZ2.GetName] та [NZ1.GetName], швидко впали у спільну напруженість. Деякі оптимістичні спостерігачі могли сподіватися, що обидві держави будуть виснажені війною та віддадуть перевагу подальшій співпраці, але дії їх лідерів швидко довели безпідставність цих мрій. Натомість здається, що Вісь насправді ніколи не була чимось більшим, ніж тимчасовою вигодою, яку мали розірвати, щойно вона втратить свою корисність. Тепер залишається лише одне питання: як скоро ця напруженість переросте в повномасштабну війну."
+ north_war_alliance.10.a: "Північна Зебрика замала для двох наддержав." #«Наддержав», які вийобісті
 
 ### КАТЕГОРІЇ РІШЕНЬ ###
  north_zebrican_war:0 "Війна в Північній Зебриці"
@@ -161,44 +161,44 @@
  NZW_fallback_error_faction: "Тут нема на що дивитися"
 
 ### ПІДКАЗКИ ###
- NZW_mainland_states_controlled_by_HIP:0 "Mainland §YNorth Zebrican§! states controlled by §YHippogriffia§! and their §Yallies§!" # (!)
- NZW_HIP_states_to_transfer:0 "Hippogriffian states about to be transferred" # (!)
- northern_zebrica_cancel_2_tp:0 "Any §gWingbardian§! core §Ystate§! is under the control of the §RHippogriffs§! or their §Rallies§!\n" # (!)
- northern_total_war_tp:0 "§RPicking this option will result in a total war!§!\n\n" # (!)
- nzw_white_peace_tt:0 "Another country has already taken §YZumidia§! from §PHippogriffia§!" # (!)
- nzw_white_peace_2_tt:0 "§PHippogriffia§! controls no §Ycore states§! of any §YNorth Zebrican War§! attacker." # (!)
- northern_zebrica_180_days_tp:0 "§RChanged our stance towards the war in the last 180 days!§!\n" # (!)
- northern_total_war_2_tp:0 "§RThe Hippogriffs have chosen to fight until the bitter end!§!\n\n" # (!)
- peace_split_and_with_wingbardy_and_winggarten_tp:0 "Should §gHippogriffia§! accept this peace offer §g[NZ2.GetName]§! shall seize control of all of §gWarzena§! and receive ownership of §YZirta§! and the §YTrots and Canters§!, §g[NZ1.GetName]§! shall be granted ownership of the §YAurez Hills§!, §YAnnaza§! and §YAin Trotgourait§!, §gWingbardy§! shall seize the §YFeathered Isles§!, §YTalonzarote§! and §YTerrarife§!, and the §gLegation City of Winggarden§! shall be established under the joint control of §gWingbardy§!, §gChiropterra§! and §gColthage§!.\n\n" # (!)
- peace_split_and_with_wingbardy_tp:0 "Should §gHippogriffia§! accept this peace offer §g[NZ2.GetName]§! shall seize control of all of §gWarzena§! and receive ownership of §YZirta§! and the §YTrots and Canters§!, §g[NZ1.GetName]§! shall be granted ownership of the §YAurez Hills§!, §YAnnaza§! and §YAin Trotgourait§!, and §gWingbardy§! shall seize the §YFeathered Isles§!, §YTalonzarote§! and §YTerrarife§!.\n\n" # (!)
- peace_split_tp:0 "Should §gHippogriffia§! accept this peace offer §g[NZ2.GetName]§! shall seize control of all of §gWarzena§! and receive ownership of §YZirta§! and the §YTrots and Canters§!, meanwhile §g[NZ1.GetName]§! shall be granted ownership of the §YAurez Hills§!, §YAnnaza§! and §YAin Trotgourait§!.\n\n" # (!)
- peace_north:0 "Should §gHippogriffia§! accept this peace offer §g[NZ1.GetName]§! shall seize control of all of §gZumidia§!.\n\n" # (!)
- peace_north_and_with_wingbardy:0 "Should §gHippogriffia§! accept this peace offer §g[NZ1.GetName]§! shall seize control of all of §gZumidia§!, and §gWingbardy§! shall seize the §YFeathered Isles§!, §YTalonzarote§! and §YTerrarife§!.\n\n" # (!)
- peace_south:0 "Should §gHippogriffia§! accept this peace offer §g[NZ2.GetName]§! shall seize control of all of §gWarzena§! and receive ownership of §YZirta§!, the §YAurez Hills§!, §YAnnaza§!, §YAin Trotgourait§! and the §YTrots and Canters§!.\n\n" # (!)
- peace_south_and_with_wingbardy:0 "Should §gHippogriffia§! accept this peace offer §g[NZ2.GetName]§! shall seize control of all of §gWarzena§! and receive ownership of §YZirta§!, the §YAurez Hills§!, §YAnnaza§!, §YAin Trotgourait§! and the §YTrots and Canters§!, and §gWingbardy§! shall seize the §YFeathered Isles§!, §YTalonzarote§! and §YTerrarife§!.\n\n" # (!)
- switch_to_winggarden_tp:0 "§RPicking this event option will make you play as the Legation City of Winggarden§!\n\n" # (!)
- HIP_militias_tooltip:0 "Will spawn §g14 green divisions§! of §Y12 width infantry§! across Aris" # (!)
+ NZW_mainland_states_controlled_by_HIP: "Материкові регіони §YПівнічної Зебрики§!, які контролюються §YГіпогрифією§! та її §Yсоюзниками§!" # увесь блок переклав (@+++)
+ NZW_HIP_states_to_transfer: "Гіпогрифські регіони, що готуються до передачі"
+ northern_zebrica_cancel_2_tp: "Будь-який §gвінґбардійський§! осередний §Yрегіон§! перебуває під контролем §Rгіпогрифів§! або їхніх §Rсоюзників§!\n"
+ northern_total_war_tp: "§RВибір цього варіанта призведе до тотальної війни!§!\n\n"
+ nzw_white_peace_tt: "Інша країна вже відібрала §YЗумідію§! в §PГіпогрифії§!"
+ nzw_white_peace_2_tt: "§PГіпогрифія§! не контролює жодних §осередних регіонів§! жодного з нападників у §YПівнічнозебриканській війні§!."
+ northern_zebrica_180_days_tp: "§RМи змінили нашу позицію щодо війни за останні 180 днів!§!\n"
+ northern_total_war_2_tp: "§RГіпогрифи вирішили битися до гіркого кінця!§!\n\n"
+ peace_split_and_with_wingbardy_and_winggarten_tp: "Якщо §gГіпогрифія§! прийме цю мирну пропозицію, §g[NZ2.GetName]§! захопить контроль над усією §gВарзеною§! та отримає у власність §YЗірту§! й §YТротс і Кантерс§!, §g[NZ1.GetName]§! отримає у власність §YАурезькі пагорби§!, §YАнназу§! та §YАйн-Тротґуре§!, §gВінґбардія§! захопить §YПернаті острови§!, §YТалонзароте§! та §YТерраріфе§!, а §gВінґґарден перетвориться в Мандатне місто§! під спільним контролем §gВінґбардії§!, §gХіроптерри§! та §gКольтфагена§!.\n\n"
+ peace_split_and_with_wingbardy_tp: "Якщо §gГіпогрифія§! прийме цю мирну пропозицію, §g[NZ2.GetName]§! захопить контроль над усією §gВарзеною§! та отримає у власність §YЗірту§! й §YТротс і Кантерс§!, §g[NZ1.GetName]§! отримає у власність §YАурезькі пагорби§!, §YАнназу§! та §YАйн-Тротґуре§!, а §gВінґбардія§! захопить §YПернаті острови§!, §YТалонзароте§! та §YТерраріфе§!.\n\n"
+ peace_split_tp: "Якщо §gГіпогрифія§! прийме цю мирну пропозицію, §g[NZ2.GetName]§! захопить контроль над усією §gВарзеною§! та отримає у власність §YЗірту§! й §YТротс і Кантерс§!, тим часом §g[NZ1.GetName]§! отримає у власність §YАурезькі пагорби§!, §YАнназу§! та §YАйн-Тротґуре§!.\n\n"
+ peace_north: "Якщо §gГіпогрифія§! прийме цю мирну пропозицію, §g[NZ1.GetName]§! захопить контроль над усією §gЗумідією§!.\n\n"
+ peace_north_and_with_wingbardy: "Якщо §gГіпогрифія§! прийме цю мирну пропозицію, §g[NZ1.GetName]§! захопить контроль над усією §gЗумідією§!, а §gВінґбардія§! захопить §YПернаті острови§!, §YТалонзароте§! та §YТерраріфе§!.\n\n"
+ peace_south: "Якщо §gГіпогрифія§! прийме цю мирну пропозицію, §g[NZ2.GetName]§! захопить контроль над усією §gВарзеною§! та отримає у власність §YЗірту§!, §YАурезькі пагорби§!, §YАнназу§!, §YАйн-Тротґуре§! та §YТротс і Кантерс§!.\n\n"
+ peace_south_and_with_wingbardy: "Якщо §gГіпогрифія§! прийме цю мирну пропозицію, §g[NZ2.GetName]§! захопить контроль над усією §gВарзеною§! та отримає у власність §YЗірту§!, §YАурезькі пагорби§!, §YАнназу§!, §YАйн-Тротґуре§! та §YТротс і Кантерс§!, а §gВінґбардія§! захопить §YПернаті острови§!, §YТалонзароте§! та §YТерраріфе§!.\n\n"
+ switch_to_winggarden_tp: "§RВибір цього варіанта події змусить вас грати за Мандатне місто Вінґґарден§!\n\n"
+ HIP_militias_tooltip: "Створить §g14 зелених дивізій§! піхоти §Yшириною фронту 12§! по всьому Арісу"
  NZW_error_tp: "Error (please report bug)"
 
- NZW_starts_the_NZW:0 "This starts the §YNorth Zebrican War§!." # (!)
- NZW_alliance_effect_tooltip_NZ1:0 "We will be given the option to §Gally§! with the other dominant power in North Zebrica, §Y[NZ1.GetName]§!." # (!)
- NZW_alliance_effect_tooltip_NZ2:0 "We will be given the option to §Gally§! with the other dominant power in North Zebrica, §Y[NZ2.GetName]§!." # (!)
- NZW_alliance_blocked_tooltip_NZ1:0 "We will §RNOT§! be able to ally with §Y[NZ1.GetName]§! for the §YNorth Zebrican War§!, either due to them not being ready or not interested." # (!)
- NZW_alliance_blocked_tooltip_NZ2:0 "We will §RNOT§! be able to ally with §Y[NZ2.GetName]§! for the §YNorth Zebrican War§!, either due to them not being ready or not interested." # (!)
- NZW_is_northern_party_ready_tooltip:0 "[NZ1.GetName] is §Gready§! for the §YNorth Zebrican War§!, meaning that they control §YColthage§!, §YColtva§!, §YColtdar§! and §YZumidia§! as long as the respective regions are not occupied by or allied with the Hippogriffs" # (!)
- NZW_is_northern_party_ready_tooltip_NOT:0 "[NZ1.GetName] is NOT §Gready§! for the §YNorth Zebrican War§!, meaning that they control §YColthage§!, §YColtva§!, §YColtdar§! and §YZumidia§! as long as the respective regions are not occupied by or allied with the Hippogriffs" # (!)
- NZW_is_southern_party_ready_tooltip:0 "[NZ2.GetName] is §Gready§! for the §YNorth Zebrican War§!, meaning that they control §YChiropterra§!, §YTobuck§!, §YZarantia§! and §YWarzena§! as long as the respective regions are not occupied by or allied with the Hippogriffs" # (!)
- NZW_is_southern_party_ready_tooltip_NOT:0 "[NZ2.GetName] is NOT §Gready§! for the §YNorth Zebrican War§!, meaning that they control §YChiropterra§!, §YTobuck§!, §YZarantia§! and §YWarzena§! as long as the respective regions are not occupied by or allied with the Hippogriffs" # (!)
- NZW_on_select:0 "\n§gUpon selecting this focus:§!" # (!)
- NZW_wants_to_fight_HIP:0 "Is §Rhostile§! towards §Y[HIP.GetName]§!" # (!)
- NZW_wants_to_fight_HIP_NOT:0 "Is NOT §Rhostile§! towards §Y[HIP.GetName]§!" # (!)
- NZW_no_alliance:0 "Not interested in an alliance" # (!)
- NZW_alliance_effect_done:0 "Already tried to form an alliance" # (!)
- NZW_ended:0 "The §YNorth Zebrican War§! has ended." # (!)
- NZW_in_progress:0 "The §YNorth Zebrican War§! is currently ongoing." # (!)
- NZW_alliance_signed:0 "The §Y$NZW_anti_aris_axis$§! was formed." # (!)
- NZW_is_unaligned_tt:0 "Is not allied with or occupied by either §Y[HIP.GetName]§!, §Y[NZ1.GetName]§! or §Y[NZ2.GetName]§!" # (!)
- NZW_is_unaligned_tt_not:0 "Is allied with or occupied by either §Y[HIP.GetName]§!, §Y[NZ1.GetName]§! or §Y[NZ2.GetName]§!" # (!)
+ NZW_starts_the_NZW: "Це розпочне §YПівнічнозебриканську війну§!."
+ NZW_alliance_effect_tooltip_NZ1: "Ми отримаємо можливість укласти §Gальянс§! з іншою домінантною державою в Північній Зебриці, §Y[NZ1.GetName]§!."
+ NZW_alliance_effect_tooltip_NZ2: "Ми отримаємо можливість укласти §Gальянс§! з іншою домінантною державою в Північній Зебриці, §Y[NZ2.GetName]§!."
+ NZW_alliance_blocked_tooltip_NZ1: "Ми §RНЕ§! зможемо обрати собі союзником §Y[NZ1.GetName]§! для §YПівнічнозебриканської війни§!, оскільки вони або не готові, або не зацікавлені."
+ NZW_alliance_blocked_tooltip_NZ2: "Ми §RНЕ§! зможемо обрати собі союзником §Y[NZ2.GetName]§! для §YПівнічнозебриканської війни§!, оскільки вони або не готові, або не зацікавлені."
+ NZW_is_northern_party_ready_tooltip: "[NZ1.GetName] §Gготові§! до §YПівнічнозебриканської війни§!, що означає, що вони контролюють §YКольфаген§!, §YКольтву§!, §YКольтдар§! та §YЗумідію§!, за умови, що ці регіони не окуповані гіпогрифами і не перебувають з ними в союзі"
+ NZW_is_northern_party_ready_tooltip_NOT: "[NZ1.GetName] НЕ §Gготові§! до §YПівнічнозебриканської війни§!, що означає, що вони контролюють §YКольфаген§!, §YКольтву§!, §YКольтдар§! та §YЗумідію§!, за умови, що ці регіони не окуповані гіпогрифами і не перебувають з ними в союзі"
+ NZW_is_southern_party_ready_tooltip: "[NZ2.GetName] §Gготові§! до §YПівнічнозебриканської війни§!, що означає, що вони контролюють §YХіроптерру§!, §YТобук§!, §YЗарантію§! та §YВарзену§!, за умови, що ці регіони не окуповані гіпогрифами і не перебувають з ними в союзі"
+ NZW_is_southern_party_ready_tooltip_NOT: "[NZ2.GetName] НЕ §Gготова§! до §YПівнічнозебриканської війни§!, що означає, що вони контролюють §YХіроптерру§!, §YТобук§!, §YЗарантію§! та §YВарзену§!, за умови, що ці регіони не окуповані гіпогрифами і не перебувають з ними в союзі"
+ NZW_on_select: "\n§gПри виборі цього фокусу:§!"
+ NZW_wants_to_fight_HIP: "Вороже §Rналаштовані§! до §Y[HIP.GetName]§!"
+ NZW_wants_to_fight_HIP_NOT: "НЕ налаштовані §Rвороже§! до §Y[HIP.GetName]§!"
+ NZW_no_alliance: "Не зацікавлені в альянсі"
+ NZW_alliance_effect_done: "Вже намагалися створити альянс"
+ NZW_ended: "§YПівнічнозебриканська війна§! завершилася."
+ NZW_in_progress: "§YПівнічнозебриканська війна§! нині триває."
+ NZW_alliance_signed: "Утворено §Y$NZW_anti_aris_axis$§!."
+ NZW_is_unaligned_tt: "Не перебуває в союзі з та не окуповано жодним з наступних: §Y[HIP.GetName]§!, ні §Y[NZ1.GetName]§!, ні §Y[NZ2.GetName]§!"
+ NZW_is_unaligned_tt_not: "Перебуває в союзі з або окуповано одним з наступних: §Y[HIP.GetName]§!, §Y[NZ1.GetName]§! або §Y[NZ2.GetName]§!"
 
 ### «ПРАПОРЦІ» ###
  NZW_war_participant:0 "Учасник війни в Північній Зебриці"

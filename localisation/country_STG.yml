@@ -168,7 +168,7 @@
  STG_workers_education:0 "Кадри вирішують усе"
  STG_workers_education_desc:0 "Зростає все більше розумних і працьовитих поні, готових працювати на благо Республіки і соціалізму. "Кадри вирішують усе. Підготовка нових технічних кадрів — завдання республіканського масштабу. І тепер ми можемо з повною впевненістю сказати, що ми з цим завданням впоралися." — зазначив генсек на пленарному засіданні Верховної ради."
  STG_colleges_and_universities:0 "Розширити мережу ВНЗ"
- STG_colleges_and_universities_desc:0 "We must double down upon our education policy. The opening of new colleges and universal shall push our system to new heights!" # (!)
+ STG_colleges_and_universities_desc:0 "Ми повинні подвоїти зусилля в нашій освітній політиці. Відкриття нових коледжів та університетів підніме нашу систему на небачені висоти!"
  STG_steel:0 "Сталеливарні фабрики"
  STG_steel_desc:0 "Наша важка промисловість перебуває в занепаді. Нам необхідно негайно почати її подальший розвиток."
  STG_steel2:0 "Гумовий трест"
@@ -203,10 +203,10 @@
  STG_T3485_tooltip:0 "\n§YШаблон танку Т-34-85§! буде створено за наявності наступних технологій:\n §YПоліпшене шасі середнього танка\n Поліпшена середня гармата§!\n"
  STG_KM85_tooltip:0 "\n§YШаблон танку КМ-85§! буде створено за наявності наступних технологій:\n §YПоліпшене шасі важкого танка\n Поліпшена середня гармата§!\n"
  STG_AM2_tooltip:0 "\n§YШаблон танку АМ-2§! буде створено за наявності наступних технологій:\n §YУдосконалене шасі важкого танка\n Удосконалена важка гармата§!\n"
- STG_mio_trait_expanded_production_facilities:0 "Expanded production lines" # (!)
- STG_mio_trait_simplified_design:0 "Simplified Design" # (!)
- STG_mio_trait_heavy_high_explosive_shells:0 "Increased amount of explosives in shells" # (!)
- STG_mio_trait_sveta_semiautomatic_rifles:0 "SVETA semi-automatic rifles" # (!)
+ STG_mio_trait_expanded_production_facilities:0 "Розширені виробничі лінії"
+ STG_mio_trait_simplified_design:0 "Спрощена конструкція"
+ STG_mio_trait_heavy_high_explosive_shells:0 "Збільшена кількість вибухівки в снарядах"
+ STG_mio_trait_sveta_semiautomatic_rifles:0 "Напівавтоматичні гвинтівки СВєTа"
 
 ### РІШЕННЯ ###
  construction_of_the_palace_began:0 "Розпочато будівництво Палацу Рад."
@@ -728,7 +728,7 @@
  stalliongrad.108.t:0 "Сіністера Сєрова вбили."
  stalliongrad.108.d:0 "Сьогодні вранці Сіністера Сєрова було вбито у своєму будинку нашим агентом. Повідомляється про запеклу бійку на ножах, проте опір було зламано і тепер він лежить у землі."
  stalliongrad.108.t_fail:0 "Сіністер Сєров вижив!"
- stalliongrad.108.d_fail:0 "Earlier today an attempt to kill Sinister Serov was made by one of our agents, however, using a kitchen knife, Sinister managed to severely wound the agent and escape his apartments alive. His location is currently unknown." # (!)
+ stalliongrad.108.d_fail:0 "Сьогодні один із наших агентів здійснив спробу вбити Сіністера Сєрова, однак, озброївшись кухонним ножем, Сіністер зміг важко поранити агента і втекти зі своїх апартаментів живим. Наразі його місцеперебування невідоме."
  stalliongrad.108.a:0 "Чудові новини чудового ранку"
  stalliongrad.108.b:0 "Я оточений ідіотами"
  stalliongrad.109.t:0 "Генерал Нестор очолює заколот!"
@@ -937,7 +937,7 @@
  STG_send_artillery_to_griffon_comrades: "Надіслати §Gартилерію§! товаришам у Нова-Грифонії"
  STG_sent_international_warriors_to_griffon_comrades: "Допомогти §Rреспубліканцям§! Нова-Грифонії створити §Gінтербригади§!"
  STG_promote_young_blood: "Просунути молоду кров"
- STG_promote_young_blood_desc:0 "Several young officers at our academies have shown impressive academic results. We can raise them in rank so that they can help defend the Revolution by commanding troops on the battlefield, and not just by doing academic research." # (!)
+ STG_promote_young_blood_desc:0 "Кілька молодих офіцерів у наших академіях продемонстрували вражаючі академічні результати. Ми можемо підвищити їх у званні, щоб вони могли допомогти захищати Революцію, командуючи військами на полі бою, а не лише займаючись академічними дослідженнями."
 
  war_help:0 "Допомогли Еквестрії у війні проти чейнджлінґів"
  darwking_puppet:0 "Дарк Вінґ є маріонетковим лідером"
@@ -947,7 +947,7 @@
  STG_gains_wargoal_against_us:0 "§R[STG.GetName] отримає ціль війни проти нас!\n§!"
 
  Advisors_gone_to_GRW:0 "Воєнна місія у ПВА"
- STG_promote_young_blood_tt:0 "Three new promising commander will be promoted from academy into the army. §G$apple_fritter$§!, §g$STG_blossomforth$§! and §C$STG_sunshower_raindrops$§! will goin to military command!" # (!)
+ STG_promote_young_blood_tt:0 "Троє нових багатообіцяючих командирів будуть переведені з академії до армії. §G$apple_fritter$§!, §g$STG_blossomforth$§! та §C$STG_sunshower_raindrops$§! увійдуть до військового командування!"
 
 ### ОСНАЩЕННЯ ###
  STG_EQUIPMENT_VERSION_10: "C-1"

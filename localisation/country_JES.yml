@@ -466,15 +466,15 @@
  tarrin.46.d:0 "Після короткого і жорсткого конфлікту, Францистрія нарешті погодилася підписати перемир'я і почала переговори з Тарріном. Таррінські вимоги прості й зрозумілі: вони бажають визнання незалежності та суверенітету їхньої нації. У Францистрії не було вибору, окрім як погодитися, оскільки їхня армія не здатна взяти гору в цьому конфлікті.\n\nВорожнечі покладено край, Таррін закріпив за собою новопридбану незалежність. Країни по всьому світу захоплені сміливим опором малої нації, а Аквілея вже поспішає налагоджувати дипломатичні зв'язки з урядом Тарріна."
  tarrin.46.a:0 "Мир у такий непростий час."
 
- tarrin.48.t:0 "Tarrin Attacks Balefire!" # (!)
- tarrin.48.d:0 "Border guards are reporting that Tarrinian soldiers have infiltrated across the border and have launched coordinated attacks against defensive positions. There has been no formal declaration of war, but something must be done about this incursion before things get worse. According to our intelligence reports, the Tarrinians have recently been spreading jingoistic propaganda about how Balefire is "Tarrinian soil" and promising to "liberate" its griffons. This means that these are no mere border raids, but an attempt to seize control of the entire region. We must act quickly to salvage the situation." # (!)
- tarrin.48.a:0 "They won't get it without a fight." # (!)
- tarrin.48.b:0 "We have to retreat." # (!)
+ tarrin.48.t:0 "Таррін атакує Бейлфайр!" # (@+++)
+ tarrin.48.d:0 "Прикордонники повідомляють, що таррінські солдати проникли через наш кордон і розпочали скоординовані атаки на оборонні позиції. Офіційного оголошення війни не було, але з цим вторгненням треба щось робити, поки ситуація не погіршилася. Згідно з нашими розвідувальними даними, останнім часом таррінці поширюють шовіністичну пропаганду про те, що Бейлфайр є «таррінською землею», і обіцяють «визволити» його грифонів. Це означає, що це не просто прикордонні рейди, а спроба захопити контроль над усім регіоном. Ми повинні діяти швидко, щоб врятувати ситуацію." # (@+++)
+ tarrin.48.a:0 "Вони не отримають його без бою." # (@+++)
+ tarrin.48.b:0 "Ми змушені відступити." # (@+++)
 
- tarrin.49.t:0 "Tarrin Attacks Erie!" # (!)
- tarrin.49.d:0 "Border guards are reporting that Tarrinian soldiers have infiltrated across the border and have launched coordinated attacks against defensive positions. There has been no formal declaration of war, but something must be done about this incursion before things get worse. According to our intelligence reports, the Tarrinians have recently been spreading jingoistic propaganda about how Erie is "Tarrinian soil" and promising to "liberate" its griffons. This means that these are no mere border raids, but an attempt to seize control of the entire region. We must act quickly to salvage the situation." # (!)
- tarrin.49.a:0 "They won't get it without a fight." # (!)
- tarrin.49.b:0 "We have to retreat." # (!)
+ tarrin.49.t:0 "Таррін атакує Ері!" # (@+++)
+ tarrin.49.d:0 "Прикордонники повідомляють, що таррінські солдати проникли через наш кордон і розпочали скоординовані атаки на оборонні позиції. Офіційного оголошення війни не було, але з цим вторгненням треба щось робити, поки ситуація не погіршилася. Згідно з нашими розвідувальними даними, останнім часом таррінці поширюють шовіністичну пропаганду про те, що Ері є «таррінською землею», і обіцяють «визволити» його грифонів. Це означає, що це не просто прикордонні рейди, а спроба захопити контроль над усім регіоном. Ми повинні діяти швидко, щоб врятувати ситуацію." # (@+++)
+ tarrin.49.a:0 "Вони не отримають його без бою." # (@+++)
+ tarrin.49.b:0 "Ми змушені відступити." # (@+++)
 
 ### Parties
  JES_neutrality_party:0 "Dynastie des Discrets" # Династія Дискретів

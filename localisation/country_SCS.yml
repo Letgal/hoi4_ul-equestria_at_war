@@ -685,38 +685,38 @@
  scs.1.b:0 "Силверстар був переобраний!"
  scs.1.a:0 "Брейберн переміг з невеликим відривом!"
 
- scs.2.t:0 "Minutepony Volunteers" # (!)
- scs.2.d:0 "While we have managed to form a Militia, huge numbers of patriotic ponies have decided that they can provide support in defence of their homes. They have begun banding into informal defence groups, calling themselvse Minuteponies - ready to fight at a minute's notice. While they do not have official state support, they pledged their lives for the Confederation and the Southern Way." # (!)
- scs.2.a:0 "Three cheers for our Minuteponies!" # (!)
+ scs.2.t: "Добровольці-мінітпоні" # (@+++)
+ scs.2.d: "Хоча нам вдалося сформувати ополчення, величезна кількість патріотично налаштованих поні вирішили, що вони можуть надати підтримку в захисті своїх домівок. Вони почали об'єднуватися в неформальні групи оборони, називаючи себе мінітпоні — готовими до бою за хвилину. Хоча вони не мають офіційної державної підтримки, вони присягнули своїми життями Конфедерації та Південному Шляху." # (@+++)
+ scs.2.a: "Тричі ура нашим мінітпоні!" # (@+++)
  scs.2.tt:0 "З'являться §Yшість добровольчих дивізій мінітпоні§!"
 
- scs.3.t:0 "Confederate Coast Guard" # (!)
- scs.3.d:0 "Southern ponies have never been great sailors - with boundless plains and endless deserts filling in for the sea. However, due to the current situation, a creation of an ad-hoc Coast Guard has been approved. While small and composed of jury-rigged ships, this may be a beginning of a true navy." # (!)
- scs.3.a:0 "I wish I was in Appleloosa!" # (!)
+ scs.3.t: "Берегова охорона Конфедерації" # (@+++)
+ scs.3.d: "Південні поні ніколи не були видатними моряками — безкраї рівнини та нескінченні пустелі замінювали їм море. Однак, з огляду на поточну ситуацію, було схвалено створення спеціальної Берегової охорони. Хоча вона невелика і складається з нашвидкуруч переобладнаних кораблів, це може стати початком справжнього флоту." # (@+++)
+ scs.3.a: "Хотів би я бути в Еппллузі!" # (@+++)
  scs.3.tt:0 "З'являться §Y2 есмінці§!"
 
- scs.4.t:0 "Confederate Constitutional Convention" # (!)
- scs.4.d:0 "As the internal and international situation has stabilized, it is time to formallize our laws and codes into a grand Constitution, preserving the rights of ponies of the South." # (!)
- scs.4.a:0 "The South rises!" # (!)
+ scs.4.t: "Конституційний конвент Конфедерації" # (@+++)
+ scs.4.d: "Оскільки внутрішня та міжнародна ситуація стабілізувалася, настав час формалізувати наші закони та кодекси у велику Конституцію, яка захистить права поні Півдня." # (@+++)
+ scs.4.a: "Південь повстає!" # (@+++)
 
- scs.5.t:0 "Private Aviators" # (!)
- scs.5.d:0 "Many wealthier farmers are using aeroplanes for agriculture purposes. With their way of life endangered, they have pledged their machines to amateur pilots. While inexperienced, they certainly do not lack in enthusiasm!" # (!)
- scs.5.a:0 "Watch your head!" # (!)
+ scs.5.t: "Приватні авіатори" # (@+++)
+ scs.5.d: "Багато заможних фермерів використовують літаки для сільськогосподарських потреб. Оскільки їхній спосіб життя опинився під загрозою, вони передали свої машини пілотам-аматорам. Хоча їм бракує досвіду, ентузіазму в них точно вдосталь!" # (@+++)
+ scs.5.a: "Бережіть голови!" # (@+++)
 
- scs.6.t:0 "The Confederation Wants Us To Join Them" # (!)
- scs.6.d:0 "The newly formed Confederation of South States considers our lands an integral part of their country. We know that they have no love for Buffaloes, but maybe we will be stronger, if we bury the war axe and unite in friendship under one banner?" # (!)
- scs.6.a:0 "Let us become friends." # (!)
- scs.6.b:0 "They do not have good intentions toward us." # (!)
+ scs.6.t: "Конфедерація хоче, щоб ми приєдналися до них" # (@+++)
+ scs.6.d: "Новостворена Конфедерація Південних Штатів вважає наші землі невіддільною частиною своєї країни. Ми знаємо, що вони не відчувають любові до бізонів, але, можливо, ми станемо сильнішими, якщо закопаємо сокиру війни та об'єднаємося в дружбі під одним прапором?" # (@+++)
+ scs.6.a: "Станьмо друзями." # (@+++)
+ scs.6.b: "У них немає щодо нас жодних добрих намірів." # (@+++)
 
  scs.7.t:0 "Племена бізонів відмовляються від нашої пропозиції!"
  scs.7.d:0 "Дикі бізони відмовилися від нашої пропозиції повернути нашу землю! Це катастрофа для правлячого голови [SCS.GetLeader], від чого Ліга оборони Конфедерації швидко отримує вигоду."
  scs.7.a:0 "Ми нічого не можемо зробити."
  scs.7.b:0 "До біса ці переговори, це наша земля!"
 
- scs.8.t:0 "Strike the Buffaloes?" # (!)
- scs.8.d:0 "With the chaos of the civil war around us, we have an opportunity to quickly strike the Buffalo tribals and deal with them once and for all! Their land is easy pickings for our forces." # (!)
- scs.8.a:0 "Attack now!" # (!)
- scs.8.b:0 "We need to prepare first." # (!)
+ scs.8.t: "Вдарити по бізонах?" # (@+++)
+ scs.8.d: "Користуючись хаосом громадянської війни навколо нас, ми маємо можливість швидко вдарити по племенах бізонів і покінчити з ними раз і назавжди! Їхні землі стануть легкою здобиччю для наших сил." # (@+++)
+ scs.8.a: "Атакувати зараз!" # (@+++)
+ scs.8.b: "Спочатку треба підготуватися." # (@+++)
 
  scs.9.t:0 "Слава минулих днів?"
  scs.9.d:0 "З перемогою Партії Гармонії-Єдності на виборах багато хто почав використовувати партійний прапор з колом з яблук замість прапора з яблучним хрестом, який традиційно асоціюється з містом Еппллуза, а також з партією Кольтлумбія. Проте президент Силверстар є палким шанувальником прапора з яблучним хрестом і, незважаючи на асоціації, вважає його частиною південної самоідентичності, що означає, що немає жодних підстав замінювати його іншим національним прапором. Хоча фактично це не є критичною проблемою, краще вирішити її зараз, ніж відкладати на потім."
