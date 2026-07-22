@@ -132,6 +132,7 @@
   EQS_CIVIL_WAR_BREAKAWAY_AI_BEHAVIOR_NOTE:0 "§YNote§!: This is not a visible nation at game start. In order for this nation to come into existence, Equestria must fall into the Lunar Civil War by selecting the "Lunar Civil War" or "War of the Sun and Moon" game rules, or by random chance if Historical AI Focuses is disabled."
 
  JUN_AI_BEHAVIOR: "@JUN Тимчасовий уряд Астлану"
+  RULE_OPTION_DEFAULT_JUN_AI_DESC: "$RULE_OPTION_DEFAULT_AI_DESC$\n\n$EQS_CIVIL_WAR_BREAKAWAY_AI_BEHAVIOR_NOTE$"
   RULE_OPTION_JUN_JOIN_UPA:0 "Foreign Policy - Join the UPA"
   RULE_OPTION_JUN_JOIN_UPA_AI_DESC:0 "After winning the Southeast Civil War, Aztlan will try to join the UPA.\n\n$EQS_CIVIL_WAR_BREAKAWAY_AI_BEHAVIOR_NOTE$"
   RULE_OPTION_JUN_NOT_JOIN_UPA:0 "Foreign Policy - Isolationism"

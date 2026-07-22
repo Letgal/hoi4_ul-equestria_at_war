@@ -87,7 +87,7 @@
 + [x] `country_ANG` (переклав *StasJesus*) — `(&)`
 + [x] `country_AVI` (переклав *Bovcun*) — `(&)`
 + [x] `country_BAK` (переклав [*pani_justyna1733*](https://steamcommunity.com/profiles/76561199241366335)) — `(&)`
-+ [x] `country_BAL` (переклав [*Green Kitten*](https://steamcommunity.com/profiles/76561198235810742)) — `(&!)`
++ [ ] `country_BAL` (переклав [*Green Kitten*](https://steamcommunity.com/profiles/76561198235810742)) — `(&!)`
 + [x] `country_BAL_protectorate` (переклав *Green Kitten*) — `(&!)`
 + [x] `country_BAN` (переклав *Bovcun*) — `(&)`
 + [ ] `country_BAR` (один рядок не<!-- ; (@max) -->) — `(&)`

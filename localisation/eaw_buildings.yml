@@ -1,4 +1,6 @@
 ﻿# == (*) ==
+ ANY_FACILITY: "Будь-який комплекс"
+
  magical_facility: "Інститут прикладної тауматургії"
  magical_facility_plural: "Інститути прикладної тауматургії"
  magical_facility_desc:0 "Experimental Facilities for Advanced Thaumaturgy allow you to start research projects relating to the use of magic."

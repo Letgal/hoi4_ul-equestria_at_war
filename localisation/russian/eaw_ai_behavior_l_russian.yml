@@ -63,6 +63,7 @@
   EQS_CIVIL_WAR_BREAKAWAY_AI_BEHAVIOR_NOTE:0 "§YПримечание§!: Эта страна недоступна в начале игры. Чтобы она появилась, в Эквестрии должна случиться гражданская война. Для этого нужно выбрать правила «Лунная Гражданская Война» или «Война Солнца и Луны», либо надеяться на случайность, если исторический фокус для ИИ отключён."
 
  JUN_AI_BEHAVIOR: "@JUN Тимчасовий уряд Астлану"
+  RULE_OPTION_DEFAULT_JUN_AI_DESC: "$RULE_OPTION_DEFAULT_AI_DESC$\n\n$EQS_CIVIL_WAR_BREAKAWAY_AI_BEHAVIOR_NOTE$"
   RULE_OPTION_JUN_JOIN_UPA:0 "Внешняя политика – Вступить в ОАП"
   RULE_OPTION_JUN_JOIN_UPA_AI_DESC:0 "После победы в юго-восточной гражданской войне Ацтлан попытается вступить в ОАП.\n$EQS_CIVIL_WAR_BREAKAWAY_AI_BEHAVIOR_NOTE$"
   RULE_OPTION_JUN_NOT_JOIN_UPA:0 "Внешняя политика – Изоляционизм"
