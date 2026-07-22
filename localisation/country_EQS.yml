@@ -535,8 +535,8 @@
  eqs_ai_buff2: "$eqs_ai_buff$"
  eqs_civil_war: "Війна двох сестер"
  eqs_civil_war_desc: "Сталося немислиме: колись мирна земля Еквестрії розділилася на частини в результаті жорстокої боротьби. Поки [EQS.GetLeader] та [NLR.GetLeader] воюють за панівне становище в Еквусі, опортуністи, революціонери й інші сепаратисти проголосили свої власні суверенні держави, що поглиблює цей конфлікт іще глибше."
- eqs_civil_war_army_debuff:0 "Divided Officer Corps" # (!)
- eqs_civil_war_army_debuff_desc:0 "The civil war has torn apart supply chains and made front-line fighting both more costly and more tedious. Until our army has time to adapt, we cannot expect to secure an easy victory." # (!)
+ eqs_civil_war_army_debuff: "Розділений офіцерський корпус"
+ eqs_civil_war_army_debuff_desc: "Громадянська війна розірвала наші ланцюги постачання та зробила бої на передовій і дорожчими, і виснажливішими. Поки наша армія не знайде час пристосуватися, сподіватися на легку перемогу не варто."
  equestrian_communists: "Еквестрійські комуністи"
  communist_civil_war: "Громадянська війна"
  war_communism: "Воєнний комунізм"

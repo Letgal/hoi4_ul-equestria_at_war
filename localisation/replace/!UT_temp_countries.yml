@@ -3544,6 +3544,11 @@
   TBK_home_brew: "Гоум Брю"
   ZUM_premier_balzer: "Прем'єр Балзер"
 
+# country_TBK_AF
+ TBK_AF: "Імперія Джадда"
+ TBK_AF_DEF: "Імперія Джадда"
+ TBK_AF_ADJ: "Джаддськ"
+
 # country_TEM
  TEM_aztlan_fascism: "Астланська імперія"
  TEM_aztlan_fascism_DEF: "Астланська імперія"

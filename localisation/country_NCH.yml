@@ -915,7 +915,7 @@
  NCH_FBK_pact: "$FBK_NCH_trade$"
  NCH_FBK_pact_desc: "$FBK_NCH_trade_desc$"
 
- NCH_idyllic_society:0 "Pacifist Tendencies"
+ NCH_idyllic_society: "Схильність до пацифізму"
  NCH_idyllic_society_desc:0 "Despite our biological capacity for it, Greneclyfians abhor abusing their innate talents of subterfuge for military use and espionage. As such, any research into these areas will be slow."
 
  NCH_trade_1:0 "A Small Trading Economy"
@@ -930,10 +930,10 @@
  NCH_trade_4:0 "A Rich Trading Economy"
  NCH_trade_4_desc:0 "Our foreign diplomacy has done much to enrich our trading economy, and Greneclyf is benefitting greatly from this.\n\nWith many foreign partners, we won't gain any further benefits from securing more trade deals, but it would be in our best interest to keep as many as possible."
 
- NCH_trading_with_NCH_harmonic:0 "Stable Trading with Greneclyf"
+ NCH_trading_with_NCH_harmonic: "Стійка торгівля з Ґренекліфом"
  NCH_trading_with_NCH_harmonic_desc:0 "The changelings from Greneclyf have been commercing and living peacefully among us. Besides from some mild scepticism on our people's part, both they and the changelings have been coexisting so far."
 
- NCH_trading_with_NCH_fascist:0 "Unstable Trading with Greneclyf"
+ NCH_trading_with_NCH_fascist: "Хитка торгівля з Ґренекліфом"
  NCH_trading_with_NCH_fascist_desc:0 "Troubled rapports between our people and the changelings have been causing far more harm then good. Most Greneclyfians insist on no wrong-doing, but the evidence points to deliberate incitation from their part."
 
  NCH_equestria_tech_idea:0 "Research Treaty with Equestria"
@@ -951,25 +951,25 @@
  NCH_spy_tactics_idea_lar: "$NCH_spy_tactics_idea$"
  NCH_spy_tactics_idea_lar_desc: "$NCH_spy_tactics_idea_desc$"
 
- NCH_communist_production_idea:0 "Scleritian Socialism"
+ NCH_communist_production_idea: "Склеритіанський соціалізм"
  NCH_communist_production_idea_desc:0 "The social policies and work ethos that have been adapted to our nation by the idealogue Cader Sclerite have proven to be immensely popular and effective."
 
- NCH_crisis_of_faith_idea:0 "Crisis of Faith"
+ NCH_crisis_of_faith_idea: "Криза віри"
  NCH_crisis_of_faith_idea_desc:0 "Queen Gytha has lost faith in everything that she and her House has believed in, and the Royal has been found despairing in her own chambers.\n\nHer absence from governance is a troubling concern for everyone in Greneclyf, and no one knows what will happen next."
 
  NCH_Foreign_Constructors_idea:0 "Foreign Experts"
  NCH_Foreign_Constructors_idea_desc:0 "Griffon and pony specialists from abroad have been recruited with what little we can offer to lay down the path for Greneclyf. These are mainly civil engineers, but they will help us in the long run."
 
- NCH_Resource_Extraction_idea:0 "Blood and Sweat"
+ NCH_Resource_Extraction_idea: "Кров і піт"
  NCH_Resource_Extraction_idea_desc:0 "The work ethic of mines and wells has produced a hardened Greneclyfian who is willing to go the extra distance for the betterment of their country."
 
- NCH_Splendid_Isolation_idea:0 "Splendid Isolation"
+ NCH_Splendid_Isolation_idea: "$splendid_isolation$"
  NCH_Splendid_Isolation_idea_desc:0 "Greneclyf is our home, and our home is sacrosanct. We will do everything to protect it from those who would rather see it devastated by war."
 
- NCH_Old_Ways_idea:0 "The Old Ways"
+ NCH_Old_Ways_idea: "Старі звичаї"
  NCH_Old_Ways_idea_desc:0 "After Queen Gytha's failure to come to terms with the world, we've gained a new understanding of our place in it. There is an inherent nature to every changeling that we have suppressed for centuries, and now that it has been decreed favourable, many Greneclyfians are beginning to accept their biological heritage."
 
- NCH_continent_infiltrate_idea:0 "Infiltrators in the Continent"
+ NCH_continent_infiltrate_idea: "Інфільтратори на континенті"
  NCH_continent_infiltrate_idea_desc:0 "Carefully placed infiltrators supply us with a wealth of vital information, including the location, movements, and sizes of foreign forces."
 
  NCH_continent_infiltrate_idea_lar: "$NCH_continent_infiltrate_idea$"

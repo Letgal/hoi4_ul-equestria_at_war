@@ -209,7 +209,7 @@
  JUN_equestrian_tactics_desc: "Незважаючи на наші успіхи під час війни на південному сході, ми все ще значно відстаємо в галузі військової справи, і значною мірою це пов'язано з використанням застарілих методів або залученням авантюристів і найманців. Якщо ми хочемо створити справжню армію для Астлану, нам потрібно запозичити військову теорію і тактику. А найкращі на Еквусі в цьому плані — це чейнджлінґи." # (@!)
  JUN_forest_masters: "Повелителі лісу"
  JUN_forest_masters_desc: "Хоча південний схід країни вкритий джунглями, наші зовнішні кордони мають густі ліси. Наші іноземні друзі мають великий досвід у веденні бойових дій у таких умовах. Поєднуючи наші знання про місцевість із іноземним досвідом, ми створимо армію, яка вміє воювати в таких умовах." # (@!)
- JUN_trucks:0 "Прийняти «Jackalope»"
+ JUN_trucks:0 "Прийняти Jackalope"
  JUN_trucks_desc: "Логістика завжди була одним з найважливіших аспектів ведення війни, і місцеві жителі досконало оволоділи нею в цих джунглях. Наші інженери успішно модифікували сікамеонські всюдиходи для місцевих операцій, назвавши нову модель «Jackalope». Вона забезпечить безпеку наших ліній постачання там, де традиційні засоби виявляються недостатніми." # (@!)
  JUN_cheap_labor_for_ford_factories: "Профінансувати Blue Mare Motors"
  JUN_cheap_labor_for_ford_factories_desc: "Blue Mare Motors є лідером у галузі моторизації і розташована саме тут, на південному сході. Прямі інвестиції допоможуть стабілізувати їх післявоєнні труднощі та стимулюватимуть їх до розробки високоякісних вантажівок для нашого використання." # (@!)
@@ -268,37 +268,37 @@
   JUN_build_the_airstrips_desc:0 "One of the most significant issues still faced today is the lack of airfields in [Root.GetNamedef]. The old airstrips on the coast have served their purpose but they are simply not enough. Our pilots train knowing a single mishap could be fatal, with nowhere to land. We need to take steps to ensure their safety and extend our reach." # (!)
   JUN_air_force_new: "Астланський авіакорпус"
   JUN_air_force_new_desc:0 "To truly secure our skies, we must build the force to dispute them. The birth of an air force is no small feat, but with the right investment and planning, it will be done. The first wings of the Aztlan Air Corps will soon take flight." # (!)
- JUN_import_fighters:0 "Імпорт винищувачів"
+ JUN_import_fighters: "Імпортувати винищувачі"
  JUN_import_fighters_desc:0 "Астлан не має багато літаків на своїх аеродромах. Якщо ми хочемо, щоби вони домінували в нашому власному небі, ми не будемо робити це за допомогою переобладнаних цивільних літаків та відремонтованих збитих еквестрійських літаків. Я знаю продавців у Грифонії, які можуть продати нам кілька винищувачів за чесну ціну."
- JUN_import_bombers:0 "Імпортувати бомбардувальники"
+ JUN_import_bombers: "Імпортувати бомбардувальники"
  JUN_import_bombers_desc:0 "Stopping enemy bombers is vital, but we cannot leave our own offensive potential untapped. Through contacts in Sicameon, we have an opportunity to import our own bombers. It is time we held the power to strike back." # (!)
  JUN_fighter_doctrine:0 "Keep The Skies Clear" # (!)
  JUN_fighter_doctrine_desc:0 "What is the importance of an airforce? To keep the skies clear and your people safe! Fighter doctrine is the backbone of this mission. We will train our pilots to the highest standard, ensuring no enemy plane darkens Aztlan's skies unchallenged." # (!)
- JUN_steal_the_spitfire:0 "A Southeastern Spitfire" # (!)
+ JUN_steal_the_spitfire: "Spitfire південного сходу"
  JUN_steal_the_spitfire_desc:0 "The Spitfire is an Equestrian advanced fighter design that could very well be implemented over here. Due to the chaos of the recent conflicts, a few engineers and designers ended up integrating into our nation. With some smooth-talking and a few incentives, we can convince them to share their knowledge with us." # (!)
- JUN_better_guns:0 "Close Air Support" # (!)
+ JUN_better_guns: "Штурмова авіація"
  JUN_better_guns_desc:0 "While the airforce is mostly focused on securing Aztlan's airspace, it does not mean it should not support our ground troops. Developing weapon systems for our fighters will make them versatile, allowing them to clear the skies and then dive to shatter enemy formations." # (!)
- JUN_fighters_again:0 "Domestic Fighter Focus" # (!)
+ JUN_fighters_again: "Ставка на вітчизняні винищувачі"
  JUN_fighters_again_desc:0 "Relying on foreign designs is not sustainable for a sovereign air force. The natural next step is to develop our own fighters. This will ensure standardisation, logistical independence, and a design tailored to our conditions." # (!)
- JUN_fighter_doctrine_2:0 "Advanced Fighter Doctrine" # (!)
+ JUN_fighter_doctrine_2: "Удосконалена доктрина винищувачів"
  JUN_fighter_doctrine_2_desc:0 "Doctrines for fighters have evolved much since Hippogriffia's victory over the Storm King. New tactics and strategies have emerged that allow fighters to be more effective in their roles. We must ensure our pilots are trained in these new doctrines to keep Aztlan's skies safe." # (!)
- JUN_fighter_capstone:0 "Spirit Of Quetzalcoatl" # (!)
+ JUN_fighter_capstone: "Дух Кецалкоатля"
  JUN_fighter_capstone_desc:0 "The air flows around our planes as we master the skies. Gods of old bless our wings. Black blood from planes and red blood from their pilots will water the sacred earth and satiate the Sun." # (!)
- JUN_bomber_doctrine:0 "Bloody The Earth" # (!)
+ JUN_bomber_doctrine: "Окропити землю кров'ю"
  JUN_bomber_doctrine_desc:0 "What is the importance of an airforce? To serve as a deterrent to ensure your enemies fear facing you! The enemies of Aztlan will soon discover that no pain inflicted upon Aztlan shall go unanswered. Fire will rain upon those who dare threaten us." # (!)
- JUN_long_range_bombers:0 "Long Range Bombers" # (!)
+ JUN_long_range_bombers: "Бомбардувальники далекої дії"
  JUN_long_range_bombers_desc:0 "New advancements in range and bombsight technology allow us to strike deep behind enemy lines, targeting the factories that fuel their war machine. We must invest in this capability immediately." # (!)
- JUN_heavy_fighters:0 "Escort Fighters" # (!)
+ JUN_heavy_fighters: "Ескортні винищувачі"
  JUN_heavy_fighters_desc:0 "A bomber without an escort is simply a suicidal maneuver. To ensure the safety of our pilots and the effectiveness of our airforce, heavy fighters with bigger guns and longer range shall ensure the safety of our bombers when flying over hostile lands." # (!)
- JUN_naval_fighters:0 "Carrier Air Protection" # (!)
+ JUN_naval_fighters: "Повітряне прикриття авіаносців"
  JUN_naval_fighters_desc:0 "Escort fighters are quite useful to ensure the safety of other aircraft, but their potential is so much larger. By extending their reach to the seas through aircraft carriers, they shall also ensure the safety of our waters." # (!)
- JUN_air_coast_guard:0 "Aerial Coast Guard" # (!)
+ JUN_air_coast_guard: "Повітряна берегова охорона"
  JUN_air_coast_guard_desc:0 "It's not good enough that we should defend our coasts with our army and navy, the airforce should also play a role in this. By patrolling our waters and coastlines, our airforce will ensure that no enemy ship or plane ever threatens our shores!" # (!)
  JUN_CAS_bombers: "Тепополоані"
  JUN_CAS_bombers_desc:0 "Heavy bomb loads are for industry; direct army support requires a different tool. We will develop dedicated Close Air Support bombers to shatter enemy logistics and troop formations right on the front line." # (!)
  JUN_bombing_raids:0 "Improved Payloads" # (!)
  JUN_bombing_raids_desc:0 "As much as we can try to sugarcoat it, we cannot deny that a bomber's reason for existing is simply to deliver devastation. By developing larger and more effective payloads, we ensure that every sortie inflicts maximum damage on the enemy's will and capacity to fight." # (!)
- JUN_bombing_capstone:0 "Harbingers Of Huitzilopochtli" # (!)
+ JUN_bombing_capstone: "Вісники Уїцілопчтлі"
  JUN_bombing_capstone_desc:0 "Ancient Neighuatl myths tell of the importance of sacrifices to keep the Sun healthy to raise itself every morning. Today, those sacrifices to Huitzilopochtli are delivered by our bombers, deep behind enemy lines. The folly of facing Aztlan shall be recompensed in fire." # (!)
  JUN_baltimare_foundary:0 "Expand The Baltimare Foundries" # (!)
  JUN_baltimare_foundary_desc:0 "Aluminium is the lifeblood of modern aircraft. Baltimare's foundries are already the largest producers of steel and aluminium in the Southeast. Expanding them is essential to fuel the growth of our nascent air force." # (!)
@@ -307,23 +307,23 @@
  JUN_nukes:0 "Tlaloc's Solution" # (!)
  JUN_nukes_desc:0 "Tlaloc the ancient Neighuatl god of storms carries a quite known tale. When his wife was kidnapped and his divine duty unfulfilled, Tlaloc rained down fire on all the world in his rage. Scientists and engineers each devised a method capable of replicating this devastation as ultimate deterrents for Aztlan's safety. We hope not to ever use it, but it is better to be safe than sorry." # (!)
 
- JUN_navy_1_1:0 "The Southeastern Navy" # (!)
+ JUN_navy_1_1: "ВМС південного сходу"
  JUN_navy_1_1_desc:0 "To truly secure our seas, we must build the force to dispute them. The birth of a navy is no small feat, but with the right investment and planning, it will be done. The first fleets of the Southeastern Navy will soon sail the seas!" # (!)
- JUN_navy_2_1:0 "Expand The Baltimare Dockyard" # (!)
+ JUN_navy_2_1: "Розширити верф Балтимейра"
  JUN_navy_2_1_desc:0 "The dockyards in Baltimare have been one of the most important ones in the southeast. Sadly, they were badly damaged when the communists were beaten. With some repairs, this symbol of equestrian naval power may become one for [Root.getnamedef]." # (!)
- JUN_navy_2_2:0 "Expand The Stableside Port" # (!)
+ JUN_navy_2_2: "Розширити порт Стейблсайда"
  JUN_navy_2_2_desc:0 "Stableside's industrial capacity is among the highest in the Southeast, with significant pre-war investment in civilian dockyards. With some investments, we can transform this port into a major military harbor." # (!)
- JUN_navy_3_1:0 "Destroyer Effort" # (!)
+ JUN_navy_3_1: "Розвиток есмінців"
  JUN_navy_3_1_desc:0 "Any coast guard needs good destroyers. They're the cheapest surface vessel but can serve in practically any role. To start our naval expansion properly, we must invest in real warships, not just retrofitted fishing barges with guns bolted on." # (!)
- JUN_navy_3_2:0 "Invest Into The Saltmane Dockyards" # (!)
+ JUN_navy_3_2: "Вкластися у верфі Солтмейна"
  JUN_navy_3_2_desc:0 "Baltimare and Stableside's position on our periphery is hurting our strategic capabilities. Meanwhile, the coastal settlement of Saltmane is critically underdeveloped. By investing there, we can bridge our northern and southwestern fleets and give the region's third-largest port the infrastructure it deserves." # (!)
  JUN_navy_3_3:0 "Crown Jewel Of The Celestial Sea" # (!)
  JUN_navy_3_3_desc:0 "As it stands, [Root.Getname] is a small power still. To be taken seriously, we'll need a battle fleet led by the true fortresses of the seas. It will not be cheap neither will it be easy, but to ensure the safety of our seas, we must get to investing in battleships soon." # (!)
- JUN_navy_4_1:0 "Strike From Below" # (!)
+ JUN_navy_4_1: "Ударяти з глибин"
  JUN_navy_4_1_desc:0 "Even with heavy investment, it will be years before we can match major fleets in a straight fight. However, we are no strangers to asymmetrical warfare. Let us apply the lessons of our land campaigns to the sea by developing a submarine force." # (!)
- JUN_navy_4_2:0 "Workhorses Of The Fleet" # (!)
+ JUN_navy_4_2: "Робочі конячки флотилії"
  JUN_navy_4_2_desc:0 "The cruiser is the backbone of the fleet, no doubt about it. Versatile, cheap, and efficient; cruisers provide the essential screen for our battleships and the firepower our destroyers lack. Resources must be committed to their development." # (!)
- JUN_navy_5_1:0 "A New Type Of Fish" # (!)
+ JUN_navy_5_1: "Новий вид риби"
  JUN_navy_5_1_desc:0 "Torpedo technology is rapidly advancing, becoming the greatest threat to enemy capital ships. While we cannot yet compete on the surface with the largest navies, we can focus our efforts here to even the odds." # (!)
  JUN_navy_5_2:0 "Doctrinal Advances" # (!)
  JUN_navy_5_2_desc:0 "Without a coherent naval doctrine to guide our fleets through battles and war, they would fare little better than pirates. To avoid being routed by the first organised resistance, our navy needs a unified strategic and tactical doctrine to guide it." # (!)
@@ -334,9 +334,9 @@
  JUN_navy_6_2:0 "Pride Of The High Seas" # (!)
  JUN_navy_6_2_desc:0 "A capital ship is more than a weapon; it is a symbol of national pride and power. By constructing a grand flagship for our navy, we will inspire our sailors and strike fear into the hearts of any who would threaten our waters." # (!)
 
- JUN_look_at_the_economy:0 "Looking At The Economy" # (!)
+ JUN_look_at_the_economy: "Погляд на економіку"
  JUN_look_at_the_economy_desc:0 "The war in the Southeast has shattered the region's fragile economy. Comprehensive plans must be drafted to rebuild and bring the region up to the standard of the rest of Equus so it may stand on its own hooves." # (!)
- JUN_become_modern:0 "To Become A Modern State" # (!)
+ JUN_become_modern: "Стати сучасною державою"
  JUN_become_modern_desc:0 "The Southeast was Equestria's forgotten backwater, misunderstood by Canterlot's administrators. By working alongside its native peoples, Aztlan will forge a modern state that honours its roots while embracing the future." # (!)
  JUN_factories_to_life:0 "Factories Rumble To Life" # (!)
  JUN_factories_to_life_desc:0 "We will breathe life back into the factories damaged by war; transforming them into the beating industrial heart of our sovereign nation. With hard work and determination, Aztlan will rise from the ashes stronger than ever before!" # (!)
@@ -421,7 +421,7 @@
  JUN_the_peoples_federation_desc:0 "Our Federation is a federation of rights and obligations, but much more importantly, of the regular citizen who belongs to it. Founded on principles of equality, friendship, and stability, we stand tall!\n\nLong live the Aztlan Federation!" # (!)
  JUN_my_final_showdown: "Мій остаточний бій"
  JUN_my_final_showdown_desc:0 "After so many struggles, I - no, WE stand triumphant. Our Federation stabilised, with the ground work to stand on its own without foreign meddling. Only one task remains: ensuring Daring Do cannot slander our state any longer so we can march into the future with no more pesky troublemakers threatening my - OUR Federation!" # (!)
- JUN_join_the_upa:0 "Join The UPA?"
+ JUN_join_the_upa: "Приєднатися до ОАП?"
  JUN_join_the_upa_desc:0 "Equestria may have wronged the southeast, but they are still a way better hope for Equus than their alternatives. Perhaps there is a merit in working alongside them to ensure our independence?"
  JUN_rebuild_the_pyramids:0 "Rebuild The Pyramids"
  JUN_rebuild_the_pyramids_desc:0 "The great pyramids of Aztlan have laid in disuse and ruin for centuries. These magnificent wonders of the world deserve repair and for the world to marvel at them!"
@@ -439,7 +439,7 @@
  JUN_southern_federation_desc:0 "With the South now united as never before, Aztlan has risen to new heights! We'll reform into a true confederation to ensure equal treatment for all our regions, while resignifying the term of Aztlan as a symbol of unity amongst all the southern creatures!"
  JUN_grand_dissertation:0 "Grand Dissertation On Southern Cultures"
  JUN_grand_dissertation_desc:0 "While Caballeron has been very busy with his role as Huey Tlatoani, he has not forgotten his academic roots. During his time in the region, he has compiled his thoughts and experiences into a grand dissertation on the cultures of the Southeast. It's soon to be published, and it is sure to be a landmark work on the subject!"
- JUN_restore_sanity:0 "Stand Against The Tyrants"
+ JUN_restore_sanity: "Стати супроти тиранів"
  JUN_restore_sanity_desc:0 "Alicorns gone mad with power are no friends of ours! If we are meek or indecisive now, only death and enslavement awaits all of the southeast. Rather than wait to die, let us fight bravely now for a chance at freedom!"
  JUN_cottage_industry:0 "Expand The Native Work System"
  JUN_cottage_industry_desc:0 "There are many secrets hidden in the jungle, but the millions of ponies who call it home are by far the greatest resource of all. It won't matter where the enemy strikes: the old ways of work will keep us going."
