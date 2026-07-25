@@ -293,6 +293,39 @@
  Deerkind_formable_communism_DEF: "Паноленячий Союз"
  Deerkind_formable_ADJ: "Оленяч"
 
+ ### ПАРТІЇ ###
+  CTL_fascism_hoversholm_party: "Говерсгольмова вісь"
+  CTL_fascism_hira_party: "Рамачанина вісь"
+  CTL_fascism_gurat_party: "Ґуратова вісь"
+
+  CTL_neutrality_party_dem: "Чітальська народна партія"
+  CTL_democratic_party_dem: "Ліберальна партія Чіталу"
+  CTL_national_party: "Національна партія Чіталу"
+
+  CTL_democratic_party_co7: "Давіртанненова банда"
+  CTL_neutrality_party_co7: "Рада семи"
+  CTL_fascism_party_co7: "Реформістські фракції"
+
+  CTL_neutrality_party_con: "Республіканська партія–Г"
+  CTL_neutrality_party_con_long: "Республіканська партія Чітальської конфедерації — говерсгольмісти"
+
+  CTL_communism_party_con: "Республіканська партія–Ш"
+  CTL_communism_party_con_long: "Республіканська партія Чітальської конфедерації — шахіти"
+
+  CTL_real_neutrality_party_con: "Республіканська партія–Ц"
+  CTL_real_neutrality_party_con_long: "Республіканська партія Чітальської конфедерації — централісти"
+
+  CTL_fascism_party_con: "National Rejuvination Party"
+  CTL_fascism_party_con_long: "Chitali National Rejuvination Party"
+
+  CTL_neutrality_party_ben: "Якобіанські традиціоналісти"
+  CTL_democratic_party_ben: "Бендженові лоялісти"
+
+  CTL_fascism_party_jak: "Дім Кудлінен"
+  CTL_neutrality_part_jak: "Дім Кудлінен"
+
+  CTL_fascism_party_bhu: "Віту Ґурат" # (&): не знаю, що це значить. слід перевірити. ~ L.H.
+
  ### ПЕРСОНАЖІ ###
   CTL_benjen_v: "Бенджен V"
   CTL_council_of_three: "Рада трьох"
@@ -323,6 +356,40 @@
  CTL_faction: "Осткранбійський альянс"
  CTL_Olenian_Alliance: "Відновники Дірлаґа" # інак. Реставраціоністи
  CTL_Hindian_Alliance: "Всегіндійський національний блок"
+
+ ### РИСИ ###
+ CTL_benjen_trait: "Добрий вікінг"
+ CTL_the_harmonic_benjen_trait: "Добрий вікінг"
+ CTL_prince_of_cervids: "Принц оленевих"
+ CTL_the_cooler_benjen_trait: "Спадкоємець повелителів морів"
+ seer_occultist: "Протеже Коннара"
+ CTL_intellectual: "Найнудніший олень Чіталу"
+ CTL_staunch_progressive: "Запальний прогресивіст"
+ #CTL_kind_soul:0 "Revolutionary Equinophile"
+ #CTL_enlightened_executive:0 "Narcissistic Visionary"
+ #CTL_scheming_spymistress:0 "Scheming Spymistress"
+ #CTL_scheming_spymistress2:0 "The Watchful Mother of Chital"
+ CTL_scheming_spymistress3: "Мати і захисниця"
+ #CTL_liberator:0 "Vituvippavar"
+ #CTL_upjumped_socialite:0 "Jumped-up Socialite"
+ #CTL_biased_bureaucrat:0 "Biased Businessdeer"
+ CTL_bureaucratic_nightmare: "Бюрократичний кошмар"
+ #CTL_bloated_manufacturer:0 "Bloated Manufacturer"
+ CTL_voice_of_the_people: "Голос народу"
+ CTL_father_of_a_new_chital: "Батько Чіталу"
+ #CTL_whippersnapper:0 "Presumptuous Pipsqueak"
+ #CTL_whippersnapper_restrained:0 "Secluded Sovereign"
+ #CTL_whippersnapper_embraced:0 "Jakob's Favorite Nephew"
+ #CTL_a_bride_for_chital:0 "A Bride for Chital"
+ CTL_pride_of_the_south: "Гордість півдня"
+ CTL_neolib_moment: "Найнудніший олень у Чіталі"
+ #CTL_to_the_nines:0 "To the Nines"
+ #CTL_dannya_trait:0 "Carpetbagging Insurgent"
+
+ ### НАЗВИ ###
+ VICTORY_POINTS_17874: "Ааттогамн"
+ CTL_vp_ivorhamn: "Іворгамн"
+ CTL_vp_valdehamn: "Валдегамн"
 
 # country_CVA
  CVA_CTH_fascism: "Кольтфагенська республіка"
@@ -367,8 +434,8 @@
  CVA_army_communism: "Визвольна армія сходу"
  CVA_army_communism_DEF: "Визвольна армія сходу"
 
- CVA_neutrality_party: "Ґерзиди"
- CVA_neutrality_party_long: "Ґерзиди"
+ CVA_neutrality_party: "Ґерзіди"
+ CVA_neutrality_party_long: "Ґерзіди"
  CVA_communism_party: "ВАС"
  CVA_communism_party_long: "Визвольна армія сходу"
  CVA_democratic_party: "Гармоніти"
@@ -1572,6 +1639,17 @@
  HLQ_empire_2_communism_DEF: "Річкова Комуна"
  HLQ_empire_2_communism_ADJ: "Річкоземн"
 
+ ### ПОЛІТИЧНІ ПАРТІЇ ###
+  HLQ_republic_f_party: "Залишки реформістів"
+  HLQ_republic_f_party_long: "Залишки реформістів"
+
+  HLQ_reformisten_blackcloaks: "Чорні плащі"
+  HLQ_reformisten_blackcloaks_long: "Реформісти — Чорні плащі"
+  HLQ_reformisten_sturmgreif: "Штурмґрайфи"
+  HLQ_reformisten_sturmgreif_long: "Реформісти — Штурмґрайфи"
+  HLQ_reformisten_groverists: "Ґроверисти"
+  HLQ_reformisten_groverists_long: "Реформісти — ґроверисти"
+
  ### ПЕРСОНАЖІ ###
   # Лідери
   HLQ_siegfried_trappenfeld: "Зіґфрід Траппенфельд"
@@ -2280,6 +2358,8 @@
   KIR_pol_4: "$KIR_rising_sun$"
   KIR_cypress_snow: "Сайпрес Сноу"
   KIR_pol_6: "Роаринґ Файр"
+  KIR_dayspring_rose: "Дейспринґ Роуз"
+  KIR_kindling_flash: "Кіндлинґ Флеш"
 
  ### МІТКИ ###
   KIR_pol_1_available: "Розблоковано Отем Блейз"
@@ -2339,6 +2419,60 @@
  KLG_capper: "Каппер"
  KLG_hammer_steel: "Гаммер Стіл"
  KLG_grumm: "Ґрумм"
+
+# country_KTZ
+ KTZ_earlygame_cosmetic: "Катценнія"
+ KTZ_earlygame_cosmetic_ADJ: "Катценськ"
+ KTZ_earlygame_cosmetic_DEF: "Катценнія"
+ KTZ_earlygame_cosmetic_fascism: "Катценнія"
+ KTZ_earlygame_cosmetic_fascism_ADJ: "Катценськ"
+ KTZ_earlygame_cosmetic_fascism_DEF: "Катценнія"
+
+ KTZ_katzenartig_imperium_cosmetic: "Імперіум Катценартіґ"
+ KTZ_katzenartig_imperium_cosmetic_ADJ: "Катценськ"
+ KTZ_katzenartig_imperium_cosmetic_DEF: "Імперіум Катценартіґ"
+ KTZ_katzenartig_imperium_fascism_cosmetic: "Імперіум Катценартіґ"
+ KTZ_katzenartig_imperium_fascism_cosmetic_ADJ: "Катценськ"
+ KTZ_katzenartig_imperium_fascism_cosmetic_DEF: "Імперіум Катценартіґ"
+
+ KTZ_big_katzenartig_imperium_cosmetic: "Імперіум Ґроскатценартіґ"
+ KTZ_big_katzenartig_imperium_cosmetic_ADJ: "Катценськ"
+ KTZ_big_katzenartig_imperium_cosmetic_DEF: "Імперіум Ґроскатценартіґ"
+ KTZ_big_katzenartig_imperium_fascism_cosmetic: "Імперіум Ґроскатценартіґ"
+ KTZ_big_katzenartig_imperium_fascism_cosmetic_ADJ: "Катценськ"
+ KTZ_big_katzenartig_imperium_fascism_cosmetic_DEF: "Імперіум Ґроскатценартіґ"
+
+ KTZ_world_katzenartig_imperium_cosmetic: "Вельтумішес Катцімперіум"
+ KTZ_world_katzenartig_imperium_cosmetic_ADJ: "Катценськ"
+ KTZ_world_katzenartig_imperium_cosmetic_DEF: "Вельтумішес Катцімперіум"
+ KTZ_world_katzenartig_imperium_fascism_cosmetic: "Вельтумішес Катцімперіум"
+ KTZ_world_katzenartig_imperium_fascism_cosmetic_ADJ: "Катценськ"
+ KTZ_world_katzenartig_imperium_fascism_cosmetic_DEF: "Вельтумішес Катцімперіум"
+
+ KTZ_emergency_cosmetic: "Нотфалькатцімперіум"
+ KTZ_emergency_cosmetic_ADJ: "Катценськ"
+ KTZ_emergency_cosmetic_DEF: "Нотфалькатцімперіум"
+
+ KTZ_loris_cosmetic: "Зебрикатценішес Кайзеррайх" # фонет. цебри-
+ KTZ_loris_cosmetic_ADJ: "Катценськ"
+ KTZ_loris_cosmetic_DEF: "Зебрикатценішес Кайзеррайх" # фонет. цебри-
+
+ KTZ_slaveowners_cosmetic: "Західнозебриканський патріотичний фронт"
+ KTZ_slaveowners_cosmetic_ADJ: "Західнозебриканськ"
+ KTZ_slaveowners_cosmetic_DEF: "Західнозебриканський патріотичний фронт"
+
+ UFS: "Об'єднані Вільні Держави"
+ UFS_ADJ: "Вільн"
+ UFS_DEF: "Об'єднані Вільні Держави"
+ UFS_party_name: "Комітет усесвітнього звільнення"
+
+ EQC_ED_cosmetic_UFS: "Об'єднаний гнів богинь-близнючок" # підглянуто в РЛ
+ EQC_ED_cosmetic_UFS_DEF: "Об'єднаний гнів богинь-близнючок" # підглянуто в РЛ
+ EQC_ED_cosmetic_UFS_ADJ: "Божественн"
+
+ KTZ: "Катценнія"
+ KTZ_ADJ: "Катценськ"
+ KTZ_DEF: "Катценнія"
 
 # country_KXN
  KXN_Long_Dusk: "Лонґ Даск"
@@ -2933,6 +3067,9 @@
  ROA_imperial_cosmetic_tag_fascism_DEF: "Південно-східна Зебриканська імперія"
  ROA_imperial_cosmetic_tag_fascism_ADJ: "Роамськ"
 
+# country_SAM
+ SAM_universally_despised: "Нелегітимний тиран"
+
 # country_SIC
  ### ПЕРСОНАЖІ ###
   # Лідери
@@ -3288,6 +3425,7 @@
   SLC_commie_collapse_right_side_utopia_ADJ: "Зебриканськ"
 
  SLC_stormleucus_icepaw: "Ібиз Айспо"
+ SLC_imamu: "Імаму"
 
  SLC_fascism_party: "Кліка Айспо"
  SLC_fascism_party_long: "Кліка Айспо"
@@ -3549,6 +3687,27 @@
  TBK_AF_DEF: "Імперія Джадда"
  TBK_AF_ADJ: "Джаддськ"
 
+ ### АЛЬЯНСИ ###
+  TBK_AF_alliance: "Альянс світла"
+
+ ### ПЕРСОНАЖІ ###
+  TBK_AF_jaddar_jexiszuir: "Джаддар Джексісзуїр"
+  TBK_AF_jahorse: "Джагорш LXIV"
+  TBK_AF_light_bringer: "Лайт Бринґер"
+  TBK_AF_light_bringer_desc: "§YАвтор портрета§!: Bunnyshrubby"
+  TBK_AF_necorin: "Некорін"
+  TBK_AF_frieren: "Колд Філ"
+  TBK_AF_peashooter: "Пішутер"
+  TBK_AF_sunflower: "Санфлауер"
+  TBK_AF_wallnut: "Уоллнат"
+  TBK_AF_daybreaker: "$EQS_SOL_daybreaker$?"
+  TBK_AF_celestia: "$EQS_princess_celestia$?"
+  TBK_AF_celestialuna: "Принцеси «Селестія» та Луна"
+
+ ### ПОЛІТИЧНІ ПАРТІЇ ###
+  TBK_AF_party_name_long: "Двір Джадда"
+  TBK_AF_party_name: "Двір Джадда"
+
 # country_TEM
  TEM_aztlan_fascism: "Астланська імперія"
  TEM_aztlan_fascism_DEF: "Астланська імперія"
@@ -3634,6 +3793,20 @@
  TRD_borean_archonate_fascism: "Борейський архонат"
  TRD_borean_archonate_fascism_DEF: "Борейський архонат"
  TRD_borean_archonate_fascism_ADJ: "Борейськ"
+
+ ### НАЗВИ ПАРТІЙ ###
+  TRD_GRI_party: "САУ"
+  TRD_GRI_party_long: "Скайфолльський автономний уряд"
+  #TRD_democratic_socialists: "RSP"
+  #TRD_democratic_socialists_long: "Republikeinse Socialistische Partij"
+  #TRD_imperial_leauge: "KRL"
+  #TRD_imperial_leauge_long: "Kaiserliche Reklamationsliga"
+  #TRD_new_neutral_party: "Welvaartspartij"
+  #TRD_new_neutral_party_long: "The Welvaartspartij of Skyfall"
+  #TRD_new_communist_party: "SSP"
+  #TRD_new_communist_party_long: "Syndicalistisch-Socialistische Partij"
+  #TRD_new_fascist_party: "NRP"
+  #TRD_new_fascist_party_long: "Nationale Religieuze Partij"
 
  ### ПЕРСОНАЖІ ###
   # Лідери
@@ -4251,6 +4424,26 @@
  ZEL_mai_gounama: "Май Ґунама"
 
 # country_ZOO
+ ### НАЗВИ ПАРТІЙ ###
+  ZOO_neutrality_party: "Корона Зонґо"
+  ZOO_neutrality_party_long: "Корона Зонґо"
+  ZOO_neutrality_party_queen_mother: "Королівська рада — мані"
+  ZOO_neutrality_party_queen_mother_long: "Королівська рада — мані-лоялісти"
+  ZOO_communism_party: "Королівська рада — жерці"
+  ZOO_communism_party_long: "Королівська рада — союзники головної жриці Аяни"
+  ZOO_communism_party_queen_mother: "Провідництво віри"
+  ZOO_communism_party_queen_mother_long: "Провідництво віри"
+  ZOO_democratic_party: "Демократи-дисиденти"
+  ZOO_democratic_party_long: "Демократи-дисиденти"
+  ZOO_democratic_anarbek_party: "Королівська рада — інтелігенція"
+  ZOO_democratic_anarbek_party_long: "Королівська рада — інтелігенція Анарбека"
+  ZOO_democratic_party_queen_mother: "Віровідступники"
+  ZOO_democratic_party_queen_mother_long: "Віровідступники"
+  ZOO_fascism_party: "Королівська рада — мані"
+  ZOO_fascism_party_long: "Королівська рада — військові союзники мані Зуби"
+  ZOO_fascism_party_queen_mother: "Корона Зонґо"
+  ZOO_fascism_party_queen_mother_long: "Корона Зонґо"
+
  ### АЛЬЯНСИ ###
   ZOO_alliance_faction: "Східнозебриканський альянс"
   ZOO_centaur_pact_faction: "Східнозебриканський пакт"

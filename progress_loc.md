@@ -71,7 +71,7 @@
 + [ ] ~~`eaw_yeti_tech`~~
 + [ ] `etat_technology`
 + [x] `loading_tips`
-+ [x] `parties`<!--  (описи @max) -->
++ [x] `parties`<!--  (описи @+++) -->
 + [x] `recall_volunteers`
 + [x] `renamed_states`
 + [x] `southern_zebra_ideas`
@@ -81,17 +81,17 @@
 + [ ] `victory_points` (один рядок)
 
 ## Файли країн
-+ [x] `country_ABY` (переклав *Bovcun*) — `(&)`
++ [x] `country_ABY` (переклав [*Bovcun*](https://github.com/Bovcun-A)) — `(&)`
 + [x] `country_AET` (переклав [*StasJesus*](https://steamcommunity.com/profiles/76561198867405533))
-+ [ ] `country_ARA` (переклав [*Bovcun*](https://github.com/Bovcun-A)) — `(&)`
++ [ ] `country_ARA` (переклав *Bovcun*) — `(&)`
 + [x] `country_ANG` (переклав *StasJesus*) — `(&)`
 + [x] `country_AVI` (переклав *Bovcun*) — `(&)`
 + [x] `country_BAK` (переклав [*pani_justyna1733*](https://steamcommunity.com/profiles/76561199241366335)) — `(&)`
 + [ ] `country_BAL` (переклав [*Green Kitten*](https://steamcommunity.com/profiles/76561198235810742)) — `(&!)`
 + [x] `country_BAL_protectorate` (переклав *Green Kitten*) — `(&!)`
 + [x] `country_BAN` (переклав *Bovcun*) — `(&)`
-+ [ ] `country_BAR` (один рядок не<!-- ; (@max) -->) — `(&)`
-+ [x] `country_BAT`<!--  (@max) -->
++ [ ] `country_BAR` (один рядок не<!-- ; (@+++) -->) — `(&)`
++ [x] `country_BAT`<!--  (@+++) -->
 + [x] `country_BOI`
 + [ ] `country_BRF` (переклав *Bovcun*) — `(&)`
 + [x] `country_BUF` (переклав *Kiparu*)
@@ -108,13 +108,13 @@
 + [x] `country_DED` (переклав *Bovcun*) — `(&)`
 + [ ] `country_DEP` (умовно завершено)
 + [ ] `country_DRG`
-+ [x] `country_EQC`<!--  (@max) -->
++ [x] `country_EQC`<!--  (@+++) -->
 + [ ] ~~`country_EQC_ED`~~
-+ [x] `country_EQC_equality`<!--  (@max) -->
-+ [x] `country_EQC_MARE`<!--  (@max) -->
-+ [x] `country_EQC_NLR`<!--  (@max) -->
-+ [x] `country_EQC_Reichsmandat`<!--  (@max) -->
-+ [x] `country_EQC_SOL`<!--  (@max) -->
++ [x] `country_EQC_equality`<!--  (@+++) -->
++ [x] `country_EQC_MARE`<!--  (@+++) -->
++ [x] `country_EQC_NLR`<!--  (@+++) -->
++ [x] `country_EQC_Reichsmandat`<!--  (@+++) -->
++ [x] `country_EQC_SOL`<!--  (@+++) -->
 + [x] `country_EQS` (частина з *Diarchy Expanded* не є завершена)
 + [x] `country_EQS_TNO` (переклав *Green Kitten*) — `(&)`
 + [x] `country_ERI`
@@ -144,8 +144,8 @@
 + [x] `country_IBZ`
 + [ ] `country_JAK` (кілька рядків не; переклав *Green Kitten*) — `(&)`
 + [x] `country_JEB`
-+ [ ] `country_JER` (переклав *Римур*<!-- , допереклав @max -->)
-+ [x] `country_JER_assembly`<!--  (@max) -->
++ [ ] `country_JER` (переклав *Римур*<!-- , допереклав @+++ -->)
++ [x] `country_JER_assembly`<!--  (@+++) -->
 + [ ] `country_JES` (переклав *Green Kitten*) — `(&+)`
 + [x] `country_JFT`
 + [x] `country_JRR`
@@ -156,21 +156,22 @@
 + [x] `country_LAK` (переклав *Bovcun*)
 + [x] `country_LSP` (переклав *Green Kitten*)
 + [x] `country_LUS` (переклав *Bovcun*) — `(&) (&!)`
-+ [x] `country_MAN&ELF`<!--  (@max) -->
++ [x] `country_MAN&ELF`<!--  (@+++) -->
 + [ ] ~~`country_MCW`~~
 + [x] `country_MIT` (переклав *Green Kitten*)
 + [x] `country_MNC` (переклав *Bovcun*) — `(&)`
 + [x] `country_MTA`<!--  (допереклав @+++) -->
++ [ ] `country_NCH` (переклав [*Alfer209*](https://steamcommunity.com/profiles/76561199185847193))
 + [x] `country_NCR` (переклав *Green Kitten*)
 + [x] `country_NIM` (переклав *pani_justyna1733*)
 + [x] `country_NLR` (переклав *Green Kitten*) — `(&!)`
 + [ ] `country_NMS` (переклав *Green Kitten*) — `(&+)` — доробити з `country_JUN`
 + [ ] `country_north_zebrican_war` (переклав *All-Ampirian*) — `(&+)`, доперекласти
 + [x] `country_NTR`
-+ [ ] `country_OLE` (один рядок не<!-- ; @max -->)
++ [ ] `country_OLE` (один рядок не<!-- ; @+++ -->)
 + [x] `country_OLV` (переклав *Bovcun*) — `(&)`
 + [ ] `country_PLB` (переклав *Green Kitten*) — `(&) (&+)`
-+ [ ] `country_PNG` (один рядок не<!-- ; @max -->)
++ [ ] `country_PNG` (один рядок не<!-- ; @+++ -->)
 + [x] `country_POM`
 + [x] `country_PYT` (переклав *StasJesus*)
 + [x] `country_RCT` (переклав *pani_justyna1733*)
@@ -181,8 +182,8 @@
 + [ ] `country_SIC` (переклав [*Orko1538*](https://steamcommunity.com/profiles/76561198255230836))
 + [ ] ~~`country_SLC`~~
 + [x] `country_SRS` (переклав *Green Kitten*)
-+ [ ] `country_STG` (кілька рядків не; первісно переклав *pani_justyna1733*<!-- , наново @max -->)
-+ [x] `country_STL`<!--  (@max) -->
++ [ ] `country_STG` (кілька рядків не; первісно переклав *pani_justyna1733*<!-- , наново @+++ -->)
++ [x] `country_STL`<!--  (@+++) -->
 + [ ] ~~`country_STM`~~
 + [x] `country_Storm` (переклав *Daybreaker*)
 + [x] `country_STW` (переклав *StasJesus*) — `(&)`
