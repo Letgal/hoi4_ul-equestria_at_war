@@ -1507,10 +1507,14 @@
  GRF_send_mercs_mis_desc:0 "§Y[From.GetName]§! погодилася на нашу пропозицію. Тепер ми повинні виконати нашу частину угоди і відправити не менше §Y5 дивізій добровольців§!"
  GRF_send_mercs_reward:0 "Оплата контракту від [From.GetName]"
  GRF_send_mercs_reward_desc:0 "Доти, доки наші §Yдобровольці§! перебувають у §Y[From.GetName]§! ми й далі отримуватимемо оплату у вигляді §Y4 цивільних фабрик§!."
+ GRF_send_mercs_reward_delayed:0 "Delayed Contract Payment from [From.GetName]" # (!)
+ GRF_send_mercs_reward_delayed_desc:0 "§Y[From.GetName]§! is settling its deferred mercenary debt with §Y4 Civilian Factories§!." # (!)
  GRF_got_mercs:0 "Найманці Талон"
  GRF_got_mercs_desc:0 "Найманці з [GRF.GetAdjective]их приватних військових компаній присутні в нашій країні — і вони потребують оплати."
  GRF_got_mercs_delayed:0 "Найманці Талон"
  GRF_got_mercs_delayed_desc:0 "Найманці з [GRF.GetAdjective]их приватних військових компаній присутні в нашій країні — і вони потребують оплати — яку вони спробують отримати після закінчення війни."
+ GRF_got_mercs_delayed_payment:0 "Paying Talon Mercenary Debt" # (!)
+ GRF_got_mercs_delayed_payment_desc:0 "We agreed to settle our deferred payment to [GRF.GetAdjective] Private Military Companies with §Y4 Civilian Factories§!." # (!)
  GRF_send_mercs:0 "Приватні військові корпорації"
  GRF_send_mercs_desc:0 "Талон Ганворкс і її дочірні компанії боротимуться за кого завгодно — доти, доки їм платитимуть."
  GRF_failed_to_deliver_mercs:0 "Не змогли надати найманців"

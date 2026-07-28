@@ -1031,6 +1031,8 @@
  BAL_fascism_friendly_party_long: "Соціалістична лунаристська партія"
  BAL_democratic_friendly_party:0 "ПСЕСДП"
  BAL_democratic_friendly_party_long:0 "Південно-східна еквестрійська соціал-демократична партія"
+ BAL_neutrality_friendly_party_2: "РН"
+ BAL_neutrality_friendly_party_2_long: "Рада національностей"
 
 ### КОСМЕТИЧНІ ТЕҐИ ###
  BAL_sesr_neutrality: "Південно-східна еквестрійська федерація"
