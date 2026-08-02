@@ -59,8 +59,8 @@
  #characters_l
   EFFECT_RETIRE_CHARACTER: "Усунути: $NAME|H$ в державі $COUNTRY|Y$."
   EFFECT_CONTEXT_LEADER: "($FLAG$$LEADER|H$)"
-  #CHARACTER_ADVISOR_ON_ADD_TOOLTIP:0 "При найме:"
-  #CHARACTER_ADVISOR_ON_REMOVE_TOOLTIP:0 "При увольнении:"
+  CHARACTER_ADVISOR_ON_ADD_TOOLTIP: "Коли найнято:"
+  CHARACTER_ADVISOR_ON_REMOVE_TOOLTIP: "Коли звільнено:"
 
  #collections_l
   COLLECTION_STATES_IN_ASIA: "Усі області у Грифонії"
