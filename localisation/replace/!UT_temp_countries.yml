@@ -2361,6 +2361,11 @@
   KIR_dayspring_rose: "Дейспринґ Роуз"
   KIR_kindling_flash: "Кіндлинґ Флеш"
 
+ ### НАЦІОНАЛЬНІ ДУХИ ###
+  KIR_way_of_fire: "Шлях Вогню"
+  KIR_banner_system: "Система тисячі знамен" #千旗制
+  KIR_neo_banner_system: "Нова система знамен"
+
  ### МІТКИ ###
   KIR_pol_1_available: "Розблоковано Отем Блейз"
   KIR_pol_2_available: "Розблоковано Фікл Каррента"

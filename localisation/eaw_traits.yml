@@ -96,7 +96,7 @@
  advanced_artillery_manufacturer: "Виробник новітньої артилерії"
  trimmel: "Танковий маршал"
  trimmel_desc:0 "§LAn unparalleled expert with Tanks and Mechanised forces.§!"
- infiltrator: "Королівська гвардія"
+ infiltrator: "Королевина варта"
  infiltrator_desc:0 "§LWhile all changelings are naturally adept in subterfuge and deception, the Queen's Guard understand the truth of war, battles are won by the merciless application of overwhelming force. Their combat doctrine dictates that any battle where their capacity to fight and willingness to die exceeds that of their enemy is a battle already won — everything else is merely a matter of time and attrition.§!"
  corn_lord: "Повелитель кукурудзи"
  corn_lord_desc: "Ця особа має дивовижну одержимість маїсом."
@@ -367,10 +367,10 @@
  JAK_empress_of_equus: "Імператриця Еквусу" # combined with some additional bonuses
  JAK_changeling_consul: "Чейнджлінзький консул"
  JAK_scourge_of_the_gods: "Бич Богів"
- JAK_reluctant_harmonist:0 "Reluctant Harmonist"
- JAK_expansionist_policies:0 "Expansionist Policies"
- JAK_expansionist_policies_take_states_tt:0 "\n§YReduced cost§! for §YTake States§! action on §Y@GRF @GFF @PNG @PLB Northern Equus cores§! in Peace Conferences."
- JAK_scourge_of_the_gods_take_states_tt:0 "\n§YReduced cost§! for §YTake States§! action on §YGriffon culture cores§! in Peace Conferences."
+ JAK_reluctant_harmonist: "Неохочий гармоніст"
+ JAK_expansionist_policies: "Експансіоністська політика"
+ JAK_expansionist_policies_take_states_tt: "\n§YЗнижена вартість§! дії §YЗахопити область§! у відношенні §Yосердних земель @GRF @GFF @PNG @PLB Північного Еквусу§! на мирних конференціях."
+ JAK_scourge_of_the_gods_take_states_tt: "\n§YЗнижена вартість§! дії §YЗахопити область§! у відношенні §Yосердних земель грифонячої культури§! на мирних конференціях."
  JAK_nothing_ever_happens: "Нічого ніколи не стається"
  YAK_friendship_school_student: "Випускниця Школи дружби"
  YAK_council_communist: "Комуніст із ради"
@@ -381,13 +381,13 @@
  militant_harmonist: "Войовничий гармоніст"
  corporatist_industrialist: "Промисловець-корпоративіст"
 
- trait_critical_spirit:0 "Critical Spirit"
+ trait_critical_spirit: "Критичний дух"
  trait_critical_spirit_desc:0 "§LThis griffon always insists on their own point when it comes to controversial matters. Such an approach does not enjoy the support from military high command.§!"
 
- organisatrice:0 "Organisatrice"
+ organisatrice: "Організаторка"
  organisatrice_desc:0 "§LThis mare has a knack for passionately planning the combat ahead.§!"
 
- trait_talented_coordinator:0 "Talented Coordinator"
+ trait_talented_coordinator: "Талановитий координатор"
  trait_talented_coordinator_desc:0 "§LLeadership means picking good soldiers and helping them do their best.§!"
 
  defender_of_the_faith: "Захисник віри"

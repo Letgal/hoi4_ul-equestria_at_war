@@ -351,5 +351,5 @@
  guerrila_warfare_enable: "Партизанська війна"
  NIM_funny_tech: "Німбусійський вишкіл"
  mare_society_modifiers_tt:0 "\nRecruit Mare Operative Chance: §Y+25%§!\nRecruit Mare General Chance: §Y+25%§!\nRecruit Mare Admiral Chance: §Y+25%§!"
- changeling_super_secret_police:0 "Modifies the §YSecret Police§! Occupation Law by:\n    Resistance Target: §G-5%§!\n    Daily Compliance Gain: §G+0.01%§!\n    Required Garrisons: §G-10%§!\n    Damage to Garrisons: §G-15%§!\n    Enemy operative detection chance offset: §G+1%§!\n    Enemy intel network strength gain: §G-25%§!"
+ changeling_super_secret_police: "Змінює окупаційний закон §Y$secret_police_oversight$§!:\n    $MODIFIER_RESISTANCE_TARGET$: §G-5%§!\n    $MODIFIER_COMPLIANCE_GAIN_ADD$: §G+0.01%§!\n    $MODIFIER_REQUIRED_GARRISON_FACTOR$: §G-10%§!\n    $MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS$: §G-15%§!\n    $MODIFIER_ENEMY_OPERATIVE_DETECTION_CHANCE_OVER_OCCUPIED_TAG$: §G+1%§!\n    $MODIFIER_ENEMY_INTEL_NETWORK_GAIN_FACTOR_OVER_OCCUPIED_TAG$: §G-25%§!"
  tech_trucks: "Вантажівки"
