@@ -341,7 +341,7 @@
 
  WIT_heavy_tank_manufacturer_Trait: "Дизайнер зачарованої бронетехніки"
 
- trait_focused: "Зосереджений"
+ trait_focused: "Зосередженість"
  trait_focused_desc:0 "§LFocusing on a small portion of the army, the general can organize and manage their divisions in the most efficient way.§!"
 
  trait_guard_general: "Генерал-гвардієць" # підглянуто в РЛ
@@ -350,7 +350,7 @@
  trait_swift_wing: "Клептоман"
  trait_swift_wing_desc:0 "§LThis general has a talent for making acquisitions in the field. It would be best not to question where the supplies come from, however.§!"
 
- trait_reformist: "Командувач Sturmgreifen" # (&)
+ trait_reformist: "Командувач штурмґрайфів" # (&)
  trait_reformist_desc: ""
 
  YAK_rightful_king: "Законний принц"
@@ -457,7 +457,7 @@
  siren_industrial_manufacturer: "Сиреновий промисловий виробник"
  siren_aircraft_manufacturer: "Сиреновий конструктор літаків"
  siren_naval_manufacturer: "Сиреновий конструктор кораблів"
- revolutionary_lawyer: "Юрист-революційонер"
+ revolutionary_lawyer: "Юрист-революціонер"
  socialist_journalist_eaw: "$socialist_journalist$"
  welfare_reformer: "Реформатор соціальних систем" # (&+): чи щось таке. вигадую щось, як і РЛ. ~ L.H.
  socialist_grandmother:0 "Socialist Grandmother"
@@ -482,7 +482,7 @@
  operative_spyhunter_desc:0 "This Operative is skilled at hunting and catching enemy agents."
  operative_spiracles: "Маніпулятор"
  operative_spiracles_desc:0 "This operative is an expert at manipulation, giving them a supply of middlemen to make up for their inability to transform. Unfortunately, being stuck as a changeling makes them the clear suspect if an information leak is found."
- operative_conmane: "Збовтати, не змішувати"
+ operative_conmane: "Збовтати, не змішувати" # підглянуто в РЛ
  operative_conmane_desc: "Цього агента легендарно важко схопити."
 
  diehard_revolutionary: "Затятий революціонер"

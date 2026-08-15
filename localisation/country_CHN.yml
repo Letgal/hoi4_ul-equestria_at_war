@@ -2605,7 +2605,7 @@
  CHN_colonisation_decision_control_vanhoover_tt: "Ми більше не розпоряджаємося Вангувером"
  CHN_decision_vanhoover_colonisation_tt: "Станеться подія §YКоролівський вулик Вангувер§!."
  CHN_settler_colony_instate_decision: "Заснувати колонію в області [From.GetName]"
- CHN_settler_colony_instate_decision_occupation_law_tt: "Поточний окупаційний закони — §Y$CHN_regional_commissariat$§! або §Y$local_police_force_garrison$§!"
+ CHN_settler_colony_instate_decision_occupation_law_tt: "Поточний окупаційний закон — §Y$CHN_regional_commissariat$§! або §Y$local_police_force_garrison$§!"
  CHN_settler_colony_instate_decision_compliance_req_tt: "Підпорядкування — більше або рівно §Y40%§!"
  CHN_settler_colony_instate_decision_remove_effect_tt: "Здобуває модифікатор §Y$CHN_settler_colony_modifier$§! в області §Y[From.GetName]§!, що даватиме:\n      $MODIFIER_LOCAL_NON_CORE_MANPOWER$: §G+10.00%§!\n      $MODIFIER_GLOBAL_MONTHLY_POPULATION$: §G+50.0%§!\n      $MODIFIER_RESISTANCE_TARGET$: §G-50%§!\n      $MODIFIER_RESISTANCE_DECAY$: §G+50%§!\n      $MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS$: §G-50.00%§!\n      $MODIFIER_RECRUITABLE_POPULATION_FACTOR$: §G+50.00%§!\n      $MODIFIER_COMPLIANCE_GAIN_ADD$: §G+0.05%§!\n"
 
@@ -2688,7 +2688,7 @@
  CHN_post_war_4_g_unlocks_decisions_tt: "\nВідмикає сукупність рішень §C$CHN_settlement_plan_cat$§!, котрі дозволяють засновувати §Yпоселенські колонії§! в §Yпівнічно-західних§! областях Еквестрії."
  CHN_post_war_4_n_effect_tt: "\nВідмикає рішення: §Y$CHN_remove_fobs$§!, котре дозволяє видалити національний дух §Y$CHN_fob_idea$§!."
  CHN_post_war_5_d_resistance_threshold: "Середній §Rспротив§! у еквестрійських осердних областях під нашим контролем становить менше §Y30.0%§!" # (&?)
- CHN_canterlot_1_occupation_law_req: "Поточний окупаційний закони у Кантерлоті — §Y$CHN_regional_commissariat$§!"
+ CHN_canterlot_1_occupation_law_req: "Поточний окупаційний закон у Кантерлоті — §Y$CHN_regional_commissariat$§!"
  CHN_canterlot_2_e_upgrade_faction_research_tt: "\nБазове скорочення часу на дослідження технологій від §YНауково-промислової дослідницької угоди Гегемонії§! буде збільшено на §G+5.0%§!."
  CHN_canterlot_3_tt:0 "\nThe §CGreat Queen Chrysalis§! shall be crowned §YEmpress Regnant§! of §YCanterlot§! and §YEquestria§!. May Her Reign be Long and Prosperous!"
  CHN_vraks_looting_concern_explainer_tt: "\nВідмикає сукупність рішень §C$CHN_resource_exploitation_cat$§!, котрі дозволяють §Gпривласнити§! природні ресурси в регіонах, які належать або контролюються §Yмаріонетковими державами§! чейнджлінґів." # (&+)
@@ -2839,7 +2839,7 @@
  CHN_PLB_keep_stability_high: "Якщо §Yстабільність§! або §Yпідтримка війни§! впаде нижче §Y25%§!, можуть настати §Rрізкі наслідки§!.\n\nПереможіть чейнджлінґів, щоби видалити цей дух." # (&?): різкі наслідки
  CHN_queens_equestrian_advisory_cabinet: "Еквестрійський дорадчий кабінет"
  CHN_queens_equestrian_advisory_cabinet_QUEENS_TOWER_explainer_tt: "\n£pol_idea $CHN_queens_equestrian_advisory_cabinet$:\n      $MODIFIER_COMPLIANCE_GROWTH$: §G+5%§!\n      $MODIFIER_COMPLIANCE_GAIN_ADD$: §G+0.05%§!\n"
- CHN_equestrian_penal_service_corps: "Еквестрійська пенітенціарна служба" # (&)
+ CHN_equestrian_penal_service_corps: "Еквестрійська пенітенціарна служба" # підглянуто в РЛ
  CHN_equestrian_penal_service_corps_better: "$CHN_equestrian_penal_service_corps$"
  CHN_local_factories_10percent: "\nУсі §Yокуповані§! області:\n      $MODIFIER_LOCAL_FACTORIES$: §G+10%§!"
  CHN_local_factories_10percent_modifier_effect_tt: "$MODIFIER_LOCAL_FACTORIES$: §G+10%§!"
@@ -2864,7 +2864,7 @@
  CHN_puppet_economic_control: "Контроль чейнджлінґів над економікою"
 
  CHN_great_queens_tower: "Вежа Великої Королеви"
- CHN_local_factories_10percent_modifier: "Еквестрійська пенітенціарна служба" # (&)
+ CHN_local_factories_10percent_modifier: "Еквестрійська пенітенціарна служба" # підглянуто в РЛ
  CHN_reconstruction_authority_modifier: "Агентство відбудови Еквестрії"
  CHN_vanhoover_colonisation_modifier: "Колонізація чейнджлінґами"
  CHN_vanhoover_colonisation_modifier_updated: "Колонізація чейнджлінґами"
