@@ -3,7 +3,7 @@
 
  science_idea: ""
  city_idea: "Науковий розвиток"
- EFFECT_CHANGE_LAW_city_idea: "Змінити науковий розвиток $NAME|Y$, що дасть §g(§!$DESC$§g)§!."
+ EFFECT_CHANGE_LAW_city_idea: "Змінює науковий розвиток $NAME|Y$, що дасть §g(§!$DESC$§g)§!."
  proper_science_base: "Розвинена база знань"
  proper_science_base_desc: "Ця держава є частиною світової спільноти інтелектуалів і вчених. Таким чином, новітні винаходи поширюються тут швидко. Декотрі з них навіть походять із престижних сучасних університетів країни. Місцеві дослідники професійно застосовують наукові методи для створення об'єктивного погляду на магічний світ довкола нас."
  big_science_base: "Істотна база знань"
@@ -15,16 +15,16 @@
 
  society_idea: ""
  society_development_idea: "Суспільний розвиток"
- EFFECT_CHANGE_LAW_society_development_idea: "Змінити суспільний розвиток на $NAME|Y$, що дасть §g(§!$DESC$§g)§!."
+ EFFECT_CHANGE_LAW_society_development_idea: "Змінює суспільний розвиток на $NAME|Y$, що дасть §g(§!$DESC$§g)§!."
  modern_society: "Сучасне суспільство"
- modern_society_desc:0 "A modern society has tamed and taken control of the natural world. While this might not mean complete management of weather like in Equestria, it does mean the nation has organized into an extremely complex, interconnected entity with robust institutions and efficient mass-scale industrial production. Sprawling urban conglomerations are supported by all the necessary infrastructure to maintain their massive populations. Due to increased automation and global trade, more and more citizens work in the service sector. At this rate, the country will eventually advance beyond modernity."
- modern_society_upgrade_tooltip: "Змінити суспільний розвиток на §H$modern_society$§!, що видаляє всі штрафи.\n"
+ modern_society_desc: "Сучасне суспільство приборкало природний світ і взяло його під владою. Хоча це й не означає цілковите управління погодою, як в Еквестрії, це все ж свідчить, що держава перетворилася на надзвичайно складну, взаємопов'язану систему з сильними установами й ефективним широкомасштабним промисловим виробництвом. Розлогі міські агломерації забезпечені всією необхідною інфраструктурою для утримання свого величезного населення. У зв'язку з розширенням автоматизації та глобалізацією торгівлі дедалі більше громадян працюють у сфері послуг. За таких темпів країна зрештою вийде за межі сучасності." # (@:D) // перша проба: Сучасне суспільство приборкало та встановило владу над природою. Хоча може не означати цілковите управління погодою як в Еквестрії, це означає, що держава впорядувалась у неймовірно складну взаємосполучену сутність з дужими установами й ефективними широкомасштабним промисловим виробництвом.
+ modern_society_upgrade_tooltip: "Змінює суспільний розвиток на §H$modern_society$§!, що видаляє всі штрафи.\n"
  outdated_industry: "Молоде промислове суспільство"
- outdated_industry_desc:0 "Despite industrialising, this nation has not yet caught up to more advanced nations. Some traditional institutions still do all they can to stop the seemingly inevitable march of progress. Yet their efforts appear increasingly futile as the society around them continues to change rapidly. A majority of the population is already living in cities and working in the industrial sector, while communication and transportation technologies are being used to connect the growing capital to all corners of the nation, as well as the larger world beyond. Soon enough, this society can call itself modern by any definition of the word."
+ outdated_industry_desc: "Незважаючи на індустріалізацію, ця країна ще не наздогнала більш розвинені держави. Деякі традиційні інститути й досі роблять усе можливе, щоб зупинити, здавалося б, неминучий поступ прогресу. Проте їхні зусилля видаються дедалі марнішими, оскільки суспільство навколо них продовжує стрімко змінюватися. Більшість населення вже проживає в містах і працює в промисловому секторі, а технології зв’язку та транспорту використовуються для того, щоб з’єднати столицю, що розбудовується, з усіма куточками країни, а також із широким світом за її межами. Досить скоро це суспільство зможе називати себе сучасним за будь-яким визначенням цього слова." # (@:D)
  outdated_industry2: "$outdated_industry$"
  outdated_industry2_desc: "$outdated_industry_desc$"
  pre_industrial_society: "Напівпромислове суспільство"
- pre_industrial_society_desc:0 "This society is experiencing an industrial revolution. New machines are imported from abroad and sometimes even manufactured domestically, allowing for far more efficient production of goods. A more extensive bureaucracy and a principle of meritocracy improve governance, economy and healthcare, allowing the population to grow rapidly. With less workers needed on farms, many are migrating to cities looking for work in the newly established factories. While some protest these radical changes, they can only slow down the process."
+ pre_industrial_society_desc: "Це суспільство переживає промислову революцію. Нові машини імпортуються з-за кордону, а іноді навіть виробляються всередині країни, що дозволяє набагато ефективніше виробляти товари. Розширення бюрократичного апарату та запровадження принципу меритократії сприяють покращенню державного управління, економіки та охорони здоров’я, що, у свою чергу, забезпечує стрімке зростання чисельності населення. Оскільки на фермах потрібна менша кількість робітників, багато хто з них мігрує до міст у пошуках роботи на новостворених фабриках. Хоча деякі люди виступають проти цих радикальних змін, вони можуть лише уповільнити цей процес." # (@:D)
  pre_industrial_society1: "$pre_industrial_society$"
  pre_industrial_society1_desc: "$pre_industrial_society_desc$"
  pre_industrial_society2: "$pre_industrial_society$"
@@ -34,7 +34,7 @@
  pre_industrial_society4: "$pre_industrial_society$"
  pre_industrial_society4_desc: "$pre_industrial_society_desc$"
  agrarian_society: "Аграрне суспільство"
- agrarian_society_desc:0 "An agrarian society is where a substantial portion of the populace, around 90%, is engaged in agriculture. The countryside is divided into countless small villages and towns, with only a few larger urban settlements. Almost all work is done manually, with minimal automation and a reliance on beasts of burden. Life is slow and unchanging, with the same traditional institutions continuing to remain in place. Only a few metropolitan individuals ever visit abroad and foreigners are a rare sight. However, these few outside connections could potentially spark an industrial revolution."
+ agrarian_society_desc: "Аграрне суспільство — це суспільство, в якому значна частина населення, близько 90%, займається сільським господарством. Сільська місцевість поділена на незліченну кількість невеликих сіл і містечок, а великих міських поселень — лише декілька. Майже вся робота виконується вручну, з мінімальною автоматизацією та з використанням тяглових тварин. Життя тече повільно й незмінно, а традиційні інститути залишаються незмінними. Лише деякі мешканці великих міст коли-небудь виїжджають за кордон, а іноземців тут майже не зустрінеш. Лише небагато мешканців мегаполісів коли-небудь виїжджають за кордон, а іноземців тут майже не зустрінеш. Проте ці нечисленні зв’язки із зовнішнім світом потенційно можуть стати поштовхом до промислової революції." # (@:D)
  agrarian_society2: "$agrarian_society$"
  agrarian_society2_desc: "$agrarian_society_desc$"
  agrarian_society3: "$agrarian_society$"
@@ -46,7 +46,7 @@
  agrarian_society6: "$agrarian_society$"
  agrarian_society6_desc: "$agrarian_society_desc$"
  tribal_society: "Примітивне суспільство"
- tribal_society_desc:0 "Loosely defined, a primitive society is defined by lack of social complexity. The population is divided into countless small units, often based on familial relationships, and there is no strong central authority. The entire population, except for a few exceptions like spiritual leaders, engage in subsistence agriculture, pastoralism or even hunting and gathering. Specialization or division of labour are near non-existent. There is no shared identity, no ‘nation’, no ‘country’ and no ‘government’. Yet there is still culture, art, religion, language and above all, ageless primordial wisdom."
+ tribal_society_desc: "У широкому розумінні первісне суспільство характеризується відсутністю соціальної складності. Населення поділяється на незліченні невеликі групи, часто за родинними зв’язками, і не існує сильної центральної влади. Усе населення, за винятком кількох осіб, таких як духовні лідери, займається натуральним землеробством, скотарством або навіть полюванням та збиральництвом. Спеціалізація чи поділ праці практично відсутні. Немає спільної ідентичності, немає «нації», немає «країни» і немає «уряду». Проте все ще існують культура, мистецтво, релігія, мова і, перш за все, одвічна первісна мудрість." # (@:D)
  tribal_society2: "$tribal_society$"
  tribal_society2_desc: "$tribal_society_desc$"
  tribal_society3: "$tribal_society$"
@@ -54,15 +54,15 @@
  tribal_society4: "$tribal_society$"
  tribal_society4_desc: "$tribal_society_desc$"
  communal_society: "Комунальне суспільство"
- communal_society_desc:0 "Communal societies are similar to primitive ones, as they have simple organization, societal fragmentation and subsistence economies. It differs by having a widespread culture of interdependence and common sharing of land and resources, with leaders primarily having a purely ceremonial role. Individuals support the larger community, which supports them in turn."
+ communal_society_desc: "Комунальні суспільства схожі на первісні, оскільки характеризуються простою організацією, фрагментацією суспільства та натуральним господарством. Відмінність полягає у поширеній культурі взаємозалежності та спільному користуванні землею та ресурсами, причому лідери виконують переважно суто церемоніальну роль. Окремі особи підтримують ширшу спільноту, яка, у свою чергу, підтримує їх." # (@:D)
  communal_society1: "$communal_society_desc$"
  communal_society1_desc: "$communal_society_desc$"
  detached_country: "Ізольована країна"
- detached_country_desc:0 "This nation has barely any connections to the outside world, having completely closed its borders and constantly patrolling them for intruders. As such, no new foreign ideas enter the country, and the society remains stuck in the past, unable to advance and closely following old traditions."
+ detached_country_desc: "Ця країна практично не має зв’язків із зовнішнім світом: вона повністю закрила свої кордони й постійно патрулює їх, щоб запобігти проникненню чужинців. Через це до країни не надходять нові іноземні ідеї, а суспільство залишається застряглим у минулому, не маючи можливості розвиватися та суворо дотримуючись старих традицій." # (@:D)
 
  illiteracy_idea: ""
  illiteracy_level_idea: "Неграмотність"
- EFFECT_CHANGE_LAW_illiteracy_level_idea: "Змінити неграмотність на $NAME|Y$, що дасть §g(§!$DESC$§g)§!."
+ EFFECT_CHANGE_LAW_illiteracy_level_idea: "Змінює неграмотність на $NAME|Y$, що дасть §g(§!$DESC$§g)§!."
  no_lack_of_scientists: "Незначна неграмотність"
  no_lack_of_scientists_desc: "Рівень грамотності у країні перевищує 90%, насамперед завдяки майже універсальній шкільній освіті. Таким чином, боротьба з неписьменністю тут уважається завершеною."
  lack_of_scientists3: "Обмежена неграмотність"
@@ -76,24 +76,24 @@
 
  poverty_idea: ""
  poverty_level_idea: "Бідність"
- EFFECT_CHANGE_LAW_poverty_level_idea: "Змінити бідність на $NAME|Y$, що дасть §g(§!$DESC$§g)§!."
+ EFFECT_CHANGE_LAW_poverty_level_idea: "Змінює бідність на $NAME|Y$, що дасть §g(§!$DESC$§g)§!."
  no_poverty: "Незначна бідність"
- no_poverty_desc:0 "While poverty exists in this country, most citizens are at least able to get by and survive on their own, and very few of them are noticeably poorer than others."
+ no_poverty_desc: "Хоча в цій країні існує бідність, більшість громадян принаймні здатні якось давати собі раду й виживати самостійно, і лише дуже небагато з них помітно бідніші за інших." # (@:D)
  poverty5: "Легка бідність"
- poverty5_desc:0 "Due to various reasons, some citizens have significantly lower standards of living than the majority of the population, having lost their means to sustain themselves. They rely on the charity of others to survive and are unable to effectively contribute much to society."
+ poverty5_desc: "З різних причин деякі громадяни мають значно нижчий рівень життя, ніж більшість населення, оскільки втратили засоби до існування. Вони змушені покладатися на милостиню інших, щоб вижити, і не можуть зробити істотного внеску в розвиток суспільства." # (@:D)
  poverty4: "Низька бідність"
- poverty4_desc:0 "There exists a minority group of citizens defined by being poorer than most. Their number is not insignificant, and some of them resort to desperate measures to survive, such as begging or crime."
+ poverty4_desc: "Існує меншина громадян, яку характеризує те, що вони бідніші за більшість. Їхня кількість є чималою, і деякі з них вдаються до відчайдушних заходів, щоб вижити, таких як жебрацтво чи злочинність." # (@:D)
  poverty3: "Помірна бідність"
- poverty3_desc:0 "Somehow, a sizeable portion of the population is suffering from lack of access to basic needs. They are looked down upon by the rest of society as they beg, do work that is seen as servile or humiliating, and commit crimes. Yet it is not their own fault that they suffer, and they wish for nothing more than a normal life."
+ poverty3_desc: "З якихось причин значна частина населення страждає від відсутності доступу до засобів для задоволення основних потреб. Решта суспільства зневажливо ставиться до них, оскільки вони жебракують, виконують роботу, яку вважають рабською чи принизливою, та скоюють злочини. Проте вони страждають не з власної вини, і єдине, чого вони прагнуть, — це нормальне життя." # (@:D)
  poverty2: "Висока бідність"
- poverty2_desc:0 "This country has serious economic issues, with masses of destitute citizens living in sprawling slums and crumbling rural shacks. They own nothing, and no matter how hard they work, they don't earn enough to get by. As such, many of them become criminals or join radical movements."
+ poverty2_desc: "Ця країна стикається з серйозними економічними проблемами: величезна кількість знедолених громадян мешкає у розлогих трущобах та напівзруйнованих сільських халупах. Вони нічого не мають, і як би не працювали, не заробляють достатньо, щоб прожити. Тому багато хто з них стає злочинцями або приєднується до радикальних рухів." # (@:D)
  poverty1: "Серйозна бідність"
- poverty1_desc:0 "This country is stricken by widespread poverty that affects a majority of the population. Hunger ravages the poor who wander the land, looking for any scraps of food. Cities, once humming with activity, have become quiet ghost towns. Crime is rampant as it is the most reliable way to earn a living."
+ poverty1_desc: "Ця країна страждає від поширеної бідності, яка зачіпає більшість населення. Голод нищить бідняків, які блукають країною у пошуках будь-яких залишків їжі. Міста, що колись вирували життям, перетворилися на тихі міста-привиди. Злочинність процвітає, оскільки це найнадійніший спосіб заробити на життя." # (@:D)
  poverty: "Крайня бідність"
- poverty_desc:0 "This country has suffered a near total societal collapse leading to tremendous levels of poverty all across the board. It is a miracle a famine has not taken place as farms are abandoned and urban marketplaces become desolate. Crime lords dominate the land as the government cannot afford to maintain law and order. There is a mass exodus of civilians out of the country."
+ poverty_desc: "Ця країна зазнала майже повного соціального колапсу, що призвело до надзвичайно високого рівня бідності в усіх верствах населення. Це диво, що не стався голод, адже ферми занедбані, а міські ринки спорожніли. Кримінальні авторитети панують у країні, оскільки уряд не має коштів на підтримання правопорядку. Спостерігається масовий відтік цивільного населення з країни." # (@:D)
 
  race_pointer: "Раса"
- EFFECT_CHANGE_LAW_race_pointer: "Змінити расу на $NAME|Y$."
+ EFFECT_CHANGE_LAW_race_pointer: "Змінює расу на $NAME|Y$."
  generic_race_idea: "Невизначена раса"
 
  primitive_economy: "Примітивна економіка"
@@ -234,11 +234,11 @@
  elia_storm: "$WAT_elia_storm$"
 
  zebrica_legacy_of_storm1: "Спадщина Шторма"
- zebrica_legacy_of_storm1_desc:0 "The Storm King's recent invasion completely devastated our country. His army burned down and looted many cities, despite our best efforts to defend them. We tried hiding our treasures from him, but he was no fool and managed to find them, taking everything valuable for himself. Afterwards he left us alone to lick our wounds. Now, there's nothing left to do but rebuild." # (!)
+ zebrica_legacy_of_storm1_desc: "Нещодавнє вторгнення Короля Шторма цілковито спустошило нашу країну. Попри всі наші зусилля, його військо спалило та розграбувало багато міст. Ми спробували сховати від нього наші скарби, але він був не дурний, і йому вдалося їх найти та забрати собі все цінне. Після цього він залишив осамоті зализувати наші рани. Тепер не лишилося нічого, крім як відбудовуватися." # (&+?)
  zebrica_legacy_of_storm2: "$zebrica_legacy_of_storm1$"
- zebrica_legacy_of_storm2_desc:0 "There's no denying that the Storm King's invasion was a calamity for our nation. Some cities were sacked by his army, and many of our prized treasures have been lost. Yet we avoided the worst, either by appeasing him, paying him tribute or by bravely resisting him. After the mad conqueror got what he wanted, he left and took his army with him. Since then, we have been recovering, but there is still much work to do." # (!)
+ zebrica_legacy_of_storm2_desc: "Не заперечити, що вторгнення Короля Шторма було лихом для нашої держави. Його військо розграбувало деякі міста, і багато наших цінних скарбів було втрачено. І все ж ми уникнули найгіршого, будь то задобривши його виплатою данини або відважно йому опираючися. Коли безумний завойовник отримав, що хотів, то пішов геть і забрав із собою своє військо. Відтоді ми відновлюємось, але попереду ще багато роботи." # (&+?)
  zebrica_legacy_of_storm3: "$zebrica_legacy_of_storm1$"
- zebrica_legacy_of_storm3_desc:0 "When the Storm King invaded us with his army, we managed to avoid his wrath with either humble tribute, clever diplomacy, cunning trickery or by other means. Although we lost much of our treasury and many of our prized artifacts, the Storm King was content with leaving us alone for the most part. Some of our citizens grumble that we should've fought back more fiercely against the yeti warlord, but at least our country remains mostly intact." # (!)
+ zebrica_legacy_of_storm3_desc: "Коли Король Шторм вторгся до нас зі своїм військом, нам вдалось уникнути його гніву скромною даниною, мудрою дипломатією, хитрощами або ішими способами. Хоча ми втратили велику частину нашої скарбниці й багато цінних нам артефактів, Король Шторм був в основному вдоволений залишити нас у спокої. Деякі наші громадяни буркотять, що нам слід було запекліше відбиватися від єті-воєначальника, але принаймні наша країна залишається здебільшого неторкнутою." # (&+?)
 
  idol_of_boreas_lost: "Ідол Борея втрачений"
  kingdom_with_no_king: "Королівство без короля"
