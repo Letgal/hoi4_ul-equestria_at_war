@@ -285,7 +285,7 @@
  determined_innovator_desc:0 "§LThis commander uses the most modern means of warfare. Improvise. Adapt. Overcome!§!"
  warrior_chief: "Вождь-воїн"
 
- trait_staunch_monarchist:0 "Staunch Monarchist"
+ trait_staunch_monarchist: "Переконаний монархіст"
  trait_staunch_monarchist_desc:0 "This leader respects and reveres the monarchy as an institution."
 
  agricultural_concern: "Рільничий концерн"
@@ -298,19 +298,19 @@
  artillery_expert_desc:1 "§LA true expert in directing artillery.§!"
  artillery_ratio_over_80: "Кількість артилерії в дивізії > §H40§!"
 
- signal_expert_trait:0 "Signal Expert"
+ signal_expert_trait: "Експерт зі зв'язку"
  signal_expert_trait_desc:0 "§LAs a former radio host, this mare knows her way around the radio systems in the army.§!"
 
- renowned_marksman:0 "Renowned Markspony"
+ renowned_marksman: "Видатний стрілець"
  renowned_marksman_desc:0 "§LThis commander excels in marksponyship, and is sure to share their knowledge and skills with their troops.§!"
 
- renowned_marksgriff:0 "Renowned Marksgriffon"
+ renowned_marksgriff: "Видатний стрілець"
  renowned_marksgriff_desc:0 "§LThis commander excels in marksgriffonship, and is sure to share their knowledge and skills with their troops.§!"
 
- renowned_marksdog:0 "Renowned Marksdog"
+ renowned_marksdog: "Видатний стрілець"
  renowned_marksdog_desc:0 "§LThis commander excels in marksdogship, and is sure to share their knowledge and skills with their troops.§!"
 
- renowned_markscat:0 "Renowned Markscat"
+ renowned_markscat: "Видатний стрілець"
  renowned_markscat_desc:0 "§LThis commander excels in markscatship, and is sure to share their knowledge and skills with their troops.§!"
 
  trait_nestor_lunin:0 "Airland Commander"
@@ -322,8 +322,8 @@
  trait_hurricane:0 "Thunderpony"
  trait_hurricane_desc:0 "§LThe main tactic this general tends to use is suppression. He takes every opportunity to make his enemy suffer in the rain of fire. Supply economy isn't his thing though. By using more ammunition his armies deal somehow greater amount of damage to their targets than others.§!"
 
- trait_unpredictable:0 "Unpredictable"
- trait_unpredictable_desc:0 "§LFavors exotic and unconventional strategies. All warfare is based on deception.§!"
+ trait_unpredictable: "Непередбачуваність"
+ trait_unpredictable_desc: "§LВіддає перевагу екзотичним і нетрадиційним стратегіям. Уся війна засновується на підступах.§!" # (&?)
 
  trait_anam_teine: "Анам-Тєня"
  trait_anam_teine_desc:0 "§LThis pony has learned the secret arts of Anam-Teine. Few ponies can match their speed, strength or combat prowess. Through rigorous study and harsh tiles, they have unlocked their Anamarm making them a near unstoppable force in personal combat to mortals.§!"
@@ -344,7 +344,7 @@
  trait_focused: "Зосереджений"
  trait_focused_desc:0 "§LFocusing on a small portion of the army, the general can organize and manage their divisions in the most efficient way.§!"
 
- trait_guard_general:0 "Guard-General"
+ trait_guard_general: "Генерал-гвардієць" # підглянуто в РЛ
  trait_guard_general_desc:0 "§LThis general has spent considerable time working with special forces and particularly skilled regiments, making discipline in their troops both an expectation and a reality.§!"
 
  trait_swift_wing: "Клептоман"
@@ -430,28 +430,28 @@
  head_of_ohs_lar: "$head_of_ohs$"
  cryptologic_genius: "Криптологічний геній"
  cryptologic_genius_lar: "$cryptologic_genius$"
- siren_charismatic_manipulator:0 "Charismatic Manipulator"
- siren_level_headed_realist:0 "Level-Headed Realist"
- siren_passionate_ditz:0 "Passionate Ditz"
+ siren_charismatic_manipulator: "Харизматична маніпуляторка"
+ siren_level_headed_realist: "Розсудлива реалістка"
+ siren_passionate_ditz: "Пристрасна дурка" # (&): щось це слово взагалі не звучить; інак Дурнувата пристраниця?
  siren_charismatic_manipulator_2: "$siren_charismatic_manipulator$"
  siren_level_headed_realist_2: "$siren_level_headed_realist$"
  siren_passionate_ditz_2: "$siren_passionate_ditz$"
  siren_charismatic_manipulator_3: "$siren_charismatic_manipulator$"
- siren_leader_of_the_three:0 "Leader of the Three"
- siren_master_of_music:0 "Master of Music"
- siren_divine_leadership:0 "Divine Leadership"
+ siren_leader_of_the_three: "Лідерка трійці"
+ siren_master_of_music: "Володарка музики"
+ siren_divine_leadership: "Божественне лідерство"
  siren_paranoid: "Параноя"
  siren_head_of_the_pyramid: "Голова піраміди"
  siren_friendly_trait: "Сирена народу"
- siren_ruler_of_all_creaturekind:0 "Savior of Creaturekind"
+ siren_ruler_of_all_creaturekind: "Рятівниця всіх істот" # підглянуто в РЛ
  siren_charismatic_manipulator_advisor: "$siren_charismatic_manipulator$"
- siren_level_headed_realist_advisor:0 "Level-Headed Realist"
- siren_passionate_ditz_advisor:0 "Passionate Ditz"
- siren_constant:0 "The Siren Constant"
+ siren_level_headed_realist_advisor: "$siren_level_headed_realist$"
+ siren_passionate_ditz_advisor: "$siren_passionate_ditz$"
+ siren_constant: "$HIP_SIR_the_siren_constant$"
  siren_constant_adagio: "$siren_constant$"
  siren_constant_aria: "$siren_constant$"
  prince_of_zumidia: "Король Зумідії"
- pillar_of_hope:0 "Pillar of Hope"
+ pillar_of_hope: "Стовп надії"
  siren_tank_manufacturer: "Сиреновий конструктор танків"
  siren_material_manufacturer: "Сиреновий конструктор матеріального забезпечення"
  siren_industrial_manufacturer: "Сиреновий промисловий виробник"
@@ -485,32 +485,32 @@
  operative_conmane: "Збовтати, не змішувати"
  operative_conmane_desc: "Цього агента легендарно важко схопити."
 
- diehard_revolutionary:0 "Diehard Revolutionary"
+ diehard_revolutionary: "Затятий революціонер"
  mother_of_the_republic: "Мати республіки"
 
- sorcerer_trait:0 "Sorcerer"
- lawgiver_trait:0 "Lawgiver"
+ sorcerer_trait: "Чародій"
+ lawgiver_trait: "Законодавець"
 
  zarcid_supporter: "Заркід"
- zarcid_supporter_desc:0 "§LThis character is part of the immensely powerful Zarcid family.§!"
+ zarcid_supporter_desc: "§LЦя особа є частиною неймовірно впливової родини Заркідів.§!"
  traditionalist_supporter: "Традиціоналіст"
- traditionalist_supporter_desc:0 "§LThis character supports the traditional Colthaginian society and will seek to keep the status-quo.§!"
+ traditionalist_supporter_desc: "§LЦя особа підтримує традиційне кольтфагенське суспільство та буде домагатися збереження статус-кво.§!"
  fascist_sympathizer: "Прихильник зверхності"
- fascist_sympathizer_desc:0 "§LSupporter of the supremacist cause.§!"
+ fascist_sympathizer_desc: "§LПрибічник ідей супремасизму.§!" # підглянуто в РЛ
 
  pirate_supporter: "Пірат"
- pirate_supporter_desc:0 "§LThis character is a pirate and is loyal to the pirate code.§!"
+ pirate_supporter_desc: "§LЦя особа є піратом і вірна піратському кодексу.§!"
  constitutionalist_supporter: "Конституціоналіст"
- constitutionalist_supporter_desc:0 "§LThis character seeks to reform Colthage into a modern liberal democracy whilst keeping traditional values and power structures intact.§!"
+ constitutionalist_supporter_desc: "§LЦя особа бажає реформувати Кольтфаген у сучасну ліберальну демократію, при тому зберігаючи традиційні цінності та владні структури.§!"
  scientific_supporter: "Саєнтифід"
- scientific_supporter_desc:0 "§LThis character is a member of the Scientific Clique and seeks to keep the same powers they had under Zamilcar Zarca.§!"
+ scientific_supporter_desc: "§LЦя особа є членом наукової кліки та бажає зберегти ті ж повноваження, що і при Замількарові Зарці.§!"
  harmonid_supporter: "Гармоніт"
- harmonid_supporter_desc:0 "§LThis character wishes to see Colthage become a true harmonic society.§!"
+ harmonid_supporter_desc: "§LЦя особа бажає, щоби Кольтфаген став істинно гармонійним суспільством.§!"
  zidonid_supporter: "Зідонід"
- zidonid_supporter_desc:0 "§LThis character is loyal to Bandolier Zidon.§!"
+ zidonid_supporter_desc: "§LЦя особа вірна Бандольєрові Зідону.§!"
 
-Yal_skeleton_king_army_leader:0 "Unsterbliche Aura"
-Yal_skeleton_king_army_leader_desc:0 "§LFighting for the great Grover II inspires the troops even more, resulting into fearsome offensives.§!"
+ Yal_skeleton_king_army_leader: "Аура безсмертного"
+ Yal_skeleton_king_army_leader_desc: "§LБоротьба за великого Ґровера II ще більше надихає війська, що виливається у страхітливі наступи.§!" # (&+?)
 
  unspecified_race_trait: "Таємнича істота"
  unspecified_race_trait_desc: "§LНемає жодних записів про те, кого ця істота представляє.§!"
