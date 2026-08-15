@@ -92,7 +92,7 @@
  HIP_nuclear_land_mines_effect: "$MODIFIER_DIG_IN_SPEED$: §G+5%§!\n§HІнженери§!\n   $urban$:\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ARMY_DEFENSE$§G+10%§!\n§H$category_all_infantry$§!\n      $STAT_ARMY_DEFENSE$§G+5%§!\n      $STAT_ARMY_BREAKTHROUGH$§G+5%§!"
  HIP_air_launched_cruise_missiles_tech:0 "Modern Glide Bombs"
  HIP_air_launched_cruise_missiles_effect: "$MODIFIER_STRAT_BOMBING_VISIBILITY$: §G-5%§!"
- HIP_ground_effect_vehicle_tech:0 "Primitive Scouting Ground Effect Vehicles"
+ HIP_ground_effect_vehicle_tech:0 "Primitive Scouting Ground-Effect Vehicles"
  HIP_ground_effect_vehicle_effect: "$MODIFIER_SPOTTING_CHANCE$: §G+10%§!\n$MODIFIER_NIGHT_SPOTTING_CHANCE$: §G+10%§!"
  HIP_personal_grenade_launcher_tech: "Гранатомет M79"
  HIP_personal_grenade_launcher_effect: "\n§H$category_all_infantry$§!\n      $STAT_ARMY_DEFENSE$§G+5%§!\n      $STAT_ARMY_BREAKTHROUGH$§G+5%§!"

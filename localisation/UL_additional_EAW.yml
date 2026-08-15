@@ -4,3 +4,6 @@
 
 # `country_BRZ`
  BRZ_kimball_barking_sun: "Кімболл Баркинґ-Сан" # для суперподій, аби можна було швидко змінити
+
+# `eaw_equipment`
+ ground_effect_vehicle_pl_gen: "$ground_effect_vehicle$" # перекласти разом

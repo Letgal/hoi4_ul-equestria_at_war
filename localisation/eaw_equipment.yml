@@ -230,6 +230,11 @@
  monitors_nomtg_desc: "$heavy_monitor_desc$"
  monitor: "Монітор"
 
+ ship_hull_ground_effect_vehicle:0 "Ground-Effect Vehicle" # (!)
+ ship_hull_ground_effect_vehicle_desc:0 "A ship-aircraft hybrid that relies on the repulsion of the waves to fly fast while carrying a heavier load. It is very swift and hard to spot, but cannot corner quickly and is unusable in rough waters or bad weather." # (!)
+ ship_hull_ground_effect_vehicle_1:0 "Ground-Effect Vehicle Hull" # (!)
+ ground_effect_vehicle:0 "Ground-Effect Vehicle" # (!)
+
 #SIC custom EaW tech and unit loc
  SIC_knights: "Редіарії"
  SIC_knights_desc:0 "Since the age of the ancient Karthin Empire, the griffons of Sicameon have prefered the Retiarii, fast and nimble fighters who ensnare their sword and shield wielding opponents with net and trident, rather than the feudalist symbol that is the Knight. Styled as the Rediarios in modern times, they trade their fishing fork and snare for the rifle, shovel, and camouflage net, vigilantly ready to quickly confront the enemy and stubbornly hold the line, figuratively ensnaring them with tricks, traps, and trenches and slaying those bogged down opponents with gunfire."
