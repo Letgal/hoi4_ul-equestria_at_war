@@ -285,7 +285,7 @@
  determined_innovator_desc:0 "§LЭтот командир использует самые современные средства ведения войны. Импровизировать. Адаптироваться. Преодолевать!§!"
  warrior_chief: "Вождь-воїн"
 
- trait_staunch_monarchist:0 "Ярый монархист"
+ trait_staunch_monarchist: "Переконаний монархіст"
  trait_staunch_monarchist_desc:0 "Этот лидер уважает и почитает монархию в качестве формы общественного устройства."
 
  agricultural_concern: "Рільничий концерн"
@@ -298,19 +298,19 @@
  artillery_expert_desc:1 "§LЭтот офицер - настоящий специалист по управлению артиллерией.§!"
  artillery_ratio_over_80: "Кількість артилерії в дивізії > §H40§!"
 
- signal_expert_trait:0 "Сигнальный эксперт"
+ signal_expert_trait: "Експерт зі зв'язку"
  signal_expert_trait_desc:0 "§LКак бывшая радиоведущая, эта кобылка легко разбирается в армейских радиосистемах.§!"
 
- renowned_marksman:0 "Известный стрелок"
+ renowned_marksman: "Видатний стрілець"
  renowned_marksman_desc:0 "§LЭтот командир является профессионалом в точной стрельбе и с удовольствием делится своими знаниями и навыками с войсками под его командованием.§!"
 
- renowned_marksgriff:0 "Известный стрелок-грифон"
+ renowned_marksgriff: "Видатний стрілець"
  renowned_marksgriff_desc:0 "§LЭтот командир является профессионалом в точной стрельбе и с удовольствием делится своими знаниями и навыками с войсками под его командованием.§!"
 
- renowned_marksdog:0 "Известный стрелок-пёс"
+ renowned_marksdog: "Видатний стрілець"
  renowned_marksdog_desc:0 "§LЭтот командир является профессионалом в точной стрельбе и с удовольствием делится своими знаниями и навыками с войсками под своим командованием.§!"
 
- renowned_markscat:0 "Известный стрелок-кот"
+ renowned_markscat: "Видатний стрілець"
  renowned_markscat_desc:0 "§LЭтот командир является профессионалом в точной стрельбе и с удовольствием делится своими знаниями и навыками с войсками под своим командованием.§!"
 
  trait_nestor_lunin:0 "Командир-универсал"
@@ -322,8 +322,8 @@
  trait_hurricane:0 "Буревестник"
  trait_hurricane_desc:0 "§LДля этого генерала основной тактикой является огонь на подавление. В стремлении обрушить огненный дождь на своих противников, она не жалеет совершенно никаких припасов, что, хоть и позволяет нанести значительно больше урона, часто оборачивается нехваткой боеприпасов.§!"
 
- trait_unpredictable:0 "Непредсказуемый"
- trait_unpredictable_desc:0 "§LЛидер от которого можно ожидать все вплоть до атаки в одних только трусах. Вот вы думали они атакуют только в трусах? А у них там еще винтовки спрятаны.§!"
+ trait_unpredictable: "Непередбачуваність"
+ trait_unpredictable_desc: "§LВіддає перевагу екзотичним і нетрадиційним стратегіям. Уся війна засновується на підступах.§!" # (&?)
 
  trait_anam_teine: "Анам-Тєня"
  trait_anam_teine_desc:0 "§LЭта пони познала все секреты Анам-Тейне. Немногие могут сравниться с ней в скорости, силе или боевой смекалки. Потом и кровью она открывала для себя все новые и новые горизонты, пока её не заметило божество и не сделало своим орудием возмездия.§!"
@@ -345,7 +345,7 @@
  trait_focused: "Зосереджений"
  trait_focused_desc:0 "§LФокусируясь на небольшой части армии, эта генерал способна управлять своими подразделениями наиболее эффективным образом.§!"
 
- trait_guard_general:0 "Генерал-гвардеец"
+ trait_guard_general: "Генерал-гвардієць" # підглянуто в РЛ
  trait_guard_general_desc:0 "§LЭтот генерал провёл много времени, работая со спецназом и особо опытными полками. Это помогло ему поднять дисциплину в своих войсках до невиданных прежде высот.§!"
 
  trait_swift_wing: "Клептоман"
@@ -431,36 +431,36 @@
  head_of_ohs_lar: "$head_of_ohs$"
  cryptologic_genius: "Криптологічний геній"
  cryptologic_genius_lar: "$cryptologic_genius$"
- siren_charismatic_manipulator:0 "Харизматичная манипуляторша"
- siren_level_headed_realist:0 "Рассудительная реалистка"
- siren_passionate_ditz:0 "Пылкая дурочка"
- siren_charismatic_manipulator_2:0 "Харизматичная манипуляторша"
- siren_level_headed_realist_2:0 "Рассудительная реалистка"
- siren_passionate_ditz_2:0 "Пылкая дурочка"
- siren_charismatic_manipulator_3:0 "Харизматичная манипуляторша"
- siren_leader_of_the_three:0 "Лидер троицы"
- siren_master_of_music:0 "Владычица музыки"
- siren_divine_leadership:0 "Божественная лидер"
- siren_paranoid:0 "Параноик"
- siren_head_of_the_pyramid:0 "Глава пирамиды"
- siren_friendly_trait:0 "Народная сирена"
- siren_ruler_of_all_creaturekind:0 "Спасительница всех существ"
- siren_charismatic_manipulator_advisor:0 "Харизматичная манипуляторша"
- siren_level_headed_realist_advisor:0 "Рассудительная реалистка"
- siren_passionate_ditz_advisor:0 "Пылкая дурочка"
- siren_constant:0 "Константа при власти сирен"
+ siren_charismatic_manipulator: "Харизматична маніпуляторка"
+ siren_level_headed_realist: "Розсудлива реалістка"
+ siren_passionate_ditz: "Пристрасна дурка" # (&): щось це слово взагалі не звучить; інак Дурнувата пристрасниця?
+ siren_charismatic_manipulator_2: "$siren_charismatic_manipulator$"
+ siren_level_headed_realist_2: "$siren_level_headed_realist$"
+ siren_passionate_ditz_2: "$siren_passionate_ditz$"
+ siren_charismatic_manipulator_3: "$siren_charismatic_manipulator$"
+ siren_leader_of_the_three: "Лідерка трійці"
+ siren_master_of_music: "Володарка музики"
+ siren_divine_leadership: "Божественне лідерство"
+ siren_paranoid: "Параноя"
+ siren_head_of_the_pyramid: "Голова піраміди"
+ siren_friendly_trait: "Сирена народу"
+ siren_ruler_of_all_creaturekind: "Рятівниця всіх істот" # підглянуто в РЛ
+ siren_charismatic_manipulator_advisor: "$siren_charismatic_manipulator$"
+ siren_level_headed_realist_advisor: "$siren_level_headed_realist$"
+ siren_passionate_ditz_advisor: "$siren_passionate_ditz$"
+ siren_constant: "$HIP_SIR_the_siren_constant$"
  siren_constant_adagio: "$siren_constant$"
  siren_constant_aria: "$siren_constant$"
  prince_of_zumidia: "Король Зумідії"
- pillar_of_hope:0 "Столп надежды"
+ pillar_of_hope: "Стовп надії"
  siren_tank_manufacturer: "Сиреновий конструктор танків"
  siren_material_manufacturer: "Сиреновий конструктор матеріального забезпечення"
  siren_industrial_manufacturer: "Сиреновий промисловий виробник"
  siren_aircraft_manufacturer: "Сиреновий конструктор літаків"
  siren_naval_manufacturer: "Сиреновий конструктор кораблів"
- revolutionary_lawyer:0 "Революционный адвокат"
- socialist_journalist_eaw:0 "Социалистический журналист"
- welfare_reformer:0 "Социальный реформатор"
+ revolutionary_lawyer: "Юрист-революціонер"
+ socialist_journalist_eaw: "$socialist_journalist$"
+ welfare_reformer: "Реформатор соціальних систем" # (&+): чи щось таке. вигадую щось, як і РЛ. ~ L.H.
  socialist_grandmother:0 "Бабушка-социалистка"
  socialist_director:0 "Вождь"
  vengful_ex_slave:0 "Мстительный бывший раб"
@@ -486,32 +486,32 @@
  operative_conmane: "Збовтати, не змішувати"
  operative_conmane_desc: "Цього агента легендарно важко схопити."
 
- diehard_revolutionary:0 "Несгибаемый революционер"
+ diehard_revolutionary: "Затятий революціонер"
  mother_of_the_republic: "Мати республіки"
 
- sorcerer_trait:0 "Чародей"
- lawgiver_trait:0 "Законник"
+ sorcerer_trait: "Чародій"
+ lawgiver_trait: "Законодавець"
 
  zarcid_supporter: "Заркід"
- zarcid_supporter_desc:0 "§LЭта личность является частью чрезвычайно могучей семьи Заркидов.§!"
+ zarcid_supporter_desc: "§LЦя особа є частиною неймовірно впливової родини Заркідів.§!"
  traditionalist_supporter: "Традиціоналіст"
- traditionalist_supporter_desc:0 "§LЭта личность поддерживает традиционное кольтфагенское общество и будет стремиться сохранить статус-кво.§!"
+ traditionalist_supporter_desc: "§LЦя особа підтримує традиційне кольтфагенське суспільство та буде домагатися збереження статус-кво.§!"
  fascist_sympathizer: "Прихильник зверхності"
- fascist_sympathizer_desc:0 "§LСторонник идей превосходства.§!"
+ fascist_sympathizer_desc: "§LПрибічник ідей супремасизму.§!" # підглянуто в РЛ
 
  pirate_supporter: "Пірат"
- pirate_supporter_desc:0 "§LЭта личность является пиратом и верна своему пиратскому кодексу.§!"
+ pirate_supporter_desc: "§LЦя особа є піратом і вірна піратському кодексу.§!"
  constitutionalist_supporter: "Конституціоналіст"
- constitutionalist_supporter_desc:0 "§LЭта личность стремится реформировать Кольтфаген в современную либеральную демократию, сохранив при этом традиционные ценности и структуры власти.§!"
+ constitutionalist_supporter_desc: "§LЦя особа бажає реформувати Кольтфаген у сучасну ліберальну демократію, при тому зберігаючи традиційні цінності та владні структури.§!"
  scientific_supporter: "Саєнтифід"
- scientific_supporter_desc:0 "§LЭта личность является членом научной клики и стремится сохранить те же полномочия, которые они имели при Замилькаре Зарке.§!"
+ scientific_supporter_desc: "§LЦя особа є членом наукової кліки та бажає зберегти ті ж повноваження, що і при Замількарові Зарці.§!"
  harmonid_supporter: "Гармоніт"
- harmonid_supporter_desc:0 "§LЭта личность желает, чтобы Кольтфаген стал настоящим гармоничным обществом.§!"
+ harmonid_supporter_desc: "§LЦя особа бажає, щоби Кольтфаген став істинно гармонійним суспільством.§!"
  zidonid_supporter: "Зідонід"
- zidonid_supporter_desc:0 "§LЭта личность лояльна Бандольеру Зидону.§!"
+ zidonid_supporter_desc: "§LЦя особа вірна Бандольєрові Зідону.§!"
 
-Yal_skeleton_king_army_leader:0 "Аура бессмертного"
-Yal_skeleton_king_army_leader_desc:0 "§LСражение под началом великого Гровера II вдохновляет войска, позволяя им яростно наступать.§!"
+ Yal_skeleton_king_army_leader: "Аура безсмертного"
+ Yal_skeleton_king_army_leader_desc: "§LБоротьба за великого Ґровера II ще більше надихає війська, що виливається у страхітливі наступи.§!" # (&+?)
 
  unspecified_race_trait: "Таємнича істота"
  unspecified_race_trait_desc: "§LНемає жодних записів про те, кого ця істота представляє.§!"

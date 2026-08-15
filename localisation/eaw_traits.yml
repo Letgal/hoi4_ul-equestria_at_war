@@ -350,7 +350,7 @@
  trait_swift_wing: "Клептоман"
  trait_swift_wing_desc:0 "§LThis general has a talent for making acquisitions in the field. It would be best not to question where the supplies come from, however.§!"
 
- trait_reformist: "Командувач штурмґрайфів" # (&)
+ trait_reformist: "Командувач штурмґрайфів"
  trait_reformist_desc: ""
 
  YAK_rightful_king: "Законний принц"
@@ -432,7 +432,7 @@
  cryptologic_genius_lar: "$cryptologic_genius$"
  siren_charismatic_manipulator: "Харизматична маніпуляторка"
  siren_level_headed_realist: "Розсудлива реалістка"
- siren_passionate_ditz: "Пристрасна дурка" # (&): щось це слово взагалі не звучить; інак Дурнувата пристраниця?
+ siren_passionate_ditz: "Пристрасна дурка" # (&): щось це слово взагалі не звучить; інак Дурнувата пристрасниця?
  siren_charismatic_manipulator_2: "$siren_charismatic_manipulator$"
  siren_level_headed_realist_2: "$siren_level_headed_realist$"
  siren_passionate_ditz_2: "$siren_passionate_ditz$"
