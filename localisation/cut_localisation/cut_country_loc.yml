@@ -1215,15 +1215,6 @@
   FEZ_alphonsine_surfurtive: "Альфонсін Сюрфюртів"
 
 # country_FRN
- FRN_karthinia_aquileia_fascism: "Карфінсько-аквілейська імперія"
- FRN_karthinia_aquileia_fascism_DEF: "Карфінсько-аквілейська імперія"
- FRN_karthinia_aquileia_democratic: "Федерація Карфінії-Аквілеї"
- FRN_karthinia_aquileia_democratic_DEF: "Федерація Карфінії-Аквілеї"
- FRN_karthinia_aquileia_neutrality: "Карфінсько-аквілейська імперія"
- FRN_karthinia_aquileia_neutrality_DEF: "Карфінсько-аквілейська імперія"
- FRN_karthinia_aquileia_communism: "Соціалістична федерація Карфінії-Аквілеї"
- FRN_karthinia_aquileia_communism_DEF: "Соціалістична федерація Карфінії-Аквілеї"
-
  ### ПАРТІЇ ###
   FRN_fascism_party: "ПЛФ"
   FRN_fascism_party_long: "Патріотична ліга Францистрії"

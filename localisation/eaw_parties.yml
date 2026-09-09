@@ -317,13 +317,13 @@
  VIN_fascism_party_long: "$JER_fascism_party_long$"
 
  LAK_neutrality_party: "ВР-П"
- LAK_neutrality_party_long: "Вільний Румейр — помірні"
+ LAK_neutrality_party_long: "Вільний Румер — помірні"
  LAK_communism_party: "НБПР"
- LAK_communism_party_long: "Націонал-більшовистська партія Румейру"
+ LAK_communism_party_long: "Націонал-більшовистська партія Румеру"
  LAK_democratic_party: "СЛП"
  LAK_democratic_party_long: "Соціал-ліберальна партія"
  LAK_fascism_party: "ВР-Р"
- LAK_fascism_party_long: "Вільний Румейр — радикали"
+ LAK_fascism_party_long: "Вільний Румер — радикали"
 
  LNS_neutrality_party: "Orden der Palisander" # Орден Палісандру
  LNS_communism_party: "IIA" # ЛВА

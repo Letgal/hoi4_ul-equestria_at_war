@@ -2904,7 +2904,7 @@ BAR_viira_core_gryphus:0 "Упокорити регіон Ґрифусу [GRU.Ge
 BAR_viira_core_wit:0 "Упокорити регіон Віттенленду [WIT.GetFlag]"
 BAR_viira_core_fre:0 "Упокорити регіон Понайану [FRE.GetFlag]"
 BAR_viira_core_nim:0 "Упокорити регіон Німбусії [NIM.GetFlag]"
-BAR_viira_core_lct:0 "Упокорити регіон Єзерграду [LCT.GetFlag]"
+BAR_viira_core_lct:0 "Упокорити регіон Єзераграду [LCT.GetFlag]"
 BAR_viira_core_rct:0 "Упокорити регіон Річок [RCT.GetFlag]"
 BAR_viira_core_dep:0 "Упокорити регіон Депонії [DEP.GetFlag]"
 BAR_viira_core_bak:0 "Упокорити регіон Бакари [BAK.GetFlag]"
