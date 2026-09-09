@@ -124,7 +124,7 @@
   ACHIEVEMENTS_VIEW_LOCKED: "§RДосягнення з базової гри не можна заробляти грою в £eaw_text£ Equestria at War!§!" # (&)
   CONFIRMCONSOLIDATEUNITSAREENCIRCLED: "§RОбрані війська оточені; Ви втратите все їхнє оснащення та $VALUE|%0$ їхніх поні-ресурсів!§!"
   CONFIRMCONSOLIDATE_EQUIPMENT_GAIN_CONSOLIDATE_TITLE: "Це буде повернуто на §Hсклад§!/у §Hзапас поні-ресурсів§!:" # (&)
-  CONSOLIDATE_TOOLTIP:0 "Merge understrength and damaged units. Consolidated units' experience is kept. Ponypower and equipment is added together." # (!)
+  CONSOLIDATE_TOOLTIP: "Об'єднати ослаблені та пошкоджені військові частини. Досвід об'єднаних частин зберігається. Людські ресурси й оснащення об'єднуються." # vnl. — (&)
   FE_SELECT_SCENARIO: "Обрати континент"
   FE_CHANGE_SCENARIO: "Змінити континент"
   FE_DIFFICULTY_VERY_EASY_TOOLTIP: "§L«Усе гаразд, Рейнбоу Деш. Не всі можуть бути такі сміливі, як я».§!"
@@ -207,13 +207,13 @@
   FOCUS_SEARCH_TYPE_TEXT: "Пошук"
   CHOOSE_INSIGNIA: "Обрати емблему"
 
-  SCORCHED_EARTH_STATE_PREVENT_REPAIRS:0 "Repairs are paused due to Scorched Earth in state."
-  SCORCHED_EARTH_STATE_DOES_NOT_CONTROL_STATE:1 "£trigger_no! State not under your control.\n"
-  SCORCHED_EARTH_STATE_ALREADY_SCORCHED:1 "£trigger_no! Scorched Earth is already applied in this state.\n"
-  SCORCHED_EARTH_STATE_CANT_AFFORD:1 "£trigger_no! Insufficient Political Power.\n"
-  SCORCHED_EARTH_STATE_NO_SUPPLY_BUILDINGS:1 "£trigger_no! State does not contain any supply buildings.\n"
-  SCORCHED_EARTH_STATE:2 "\n§HScorched Earth§!\nDisable railways in this state for £pol_power §H$COST$§!, damaging them and preventing repairs."
-  SCORCHED_EARTH_STATE_UNDO:0 "Order railways in this state to be repaired."
+  SCORCHED_EARTH_STATE_PREVENT_REPAIRS: "Ремонт призупинений через випалену землю в області."
+  SCORCHED_EARTH_STATE_DOES_NOT_CONTROL_STATE: "£trigger_no! Область не під Вашим контролем\n"
+  SCORCHED_EARTH_STATE_ALREADY_SCORCHED: "£trigger_no! Земля в цій області вже випалена.\n"
+  SCORCHED_EARTH_STATE_CANT_AFFORD: "£trigger_no! Недостатньо політичної влади\n\n"
+  SCORCHED_EARTH_STATE_NO_SUPPLY_BUILDINGS: "£trigger_no! В області немає жодних споруд постачання.\n"
+  SCORCHED_EARTH_STATE: "\n§HВипалена земля§!\n\nДозволяє пошкодити залізниці в цій області за £pol_power $COST|H$, що не дозволяє їх полагодити."
+  SCORCHED_EARTH_STATE_UNDO: "Наказати полагодити залізниці в цій області."
 
   # EAW Added
   CHANGE_BACKGROUND_TT: "§HChange active background§!" # (!)
@@ -247,8 +247,8 @@
   MANPOWER_PROVINCE_TOOLTIP: "Поні-ресурси: $VAL|*Y$"
   NAVAL_SERVICE_MANPOWER_DESC: "Службові поні-ресурси, необхідні для підтримання працездатності нашого флоту."
   AIR_SERVICE_MANPOWER_DESC: "Службові поні-ресурси, необхідні для підтримання працездатності нашої авіації."
-  MANPOWER_RAILWAY_GUN:0 "Railway Gun Service Ponypower"
-  MANPOWER_RAILWAY_GUN_DESC:0 "§TThis §HRailway Gun§! requires $AMOUNT|G$ of service ponypower.§!"
+  MANPOWER_RAILWAY_GUN: "Службові поні-ресурси залізничної гармати"
+  MANPOWER_RAILWAY_GUN_DESC: "§TЦій §Hзалізничній гарматі§! потрібно $AMOUNT|G$ осіб у якості службових поні-ресурсів.§!"
 
  #deployment_l
   CONVEYOR_MANPOWER_NEED: "Необхідні поні-ресурси: $AMOUNT|H$"
@@ -357,8 +357,8 @@
  #effect_l
   EFFECT_MAKE_PUPPET: "$TARGET|UY$ стає суб'єктом держави $COUNTRY|Y$."
   EFFECT_MANPOWER_ADD_COUNTRY: "Поні-ресурси: $VAL|+=0$."
-  EFFECT_DISABLE_TEMPLATE_EDITTING:0 "Disable editing of the $NAME|H$ Division Template, and the training or disbanding of units belonging to it."
-  EFFECT_ENABLE_TEMPLATE_EDITTING:0 "Enable editing of the $NAME|H$ Division Template, and the training or disbanding of units belonging to it."
+  EFFECT_DISABLE_TEMPLATE_EDITTING: "Забороняє редагувати шаблон дивізій $NAME|H$ та тренувати й розпускати війська з ним."
+  EFFECT_ENABLE_TEMPLATE_EDITTING: "Дозволяє редагувати шаблон дивізій $NAME|H$ та тренувати й розпускати війська з ним."
 
  #events_l
   GAME_OVER_TT: "§RГра закінчиться для Вас.§!\n"
@@ -370,7 +370,7 @@
 
  #equipment_l
   motorized_equipment_0: "Рання вантажівка"
-  motorized_equipment_0_desc:1 "Since the start of mass production of motor vehicles in Equestria and Skyfall, militaries started to use basic civilian trucks for transporting supplies and hauling equipment. These are becoming an integral part of most armies."
+  motorized_equipment_0_desc: "Від початку масового виробництва автотранспорту в Еквестрії та Скайфоллі армії почали використовувати прості цивільні вантажівки для перевезення припасів і буксирування озброєння. Відтоді вони стали невід'ємною частиною більшості армій."
 
  #factions_l
   change_leader_rule_manpower: "Кандидат перевершує лідера по поні-ресурсах"
@@ -451,12 +451,12 @@
 
  #ideas_l
   democratic_influence: "Вплив гармонізму"
-  democratic_influence_desc:0 "Harmonist pressure has made harmonic ideas very popular, and the country is susceptible to align with other Harmonists."
+  democratic_influence_desc: "Гармонійний тиск зробив цю ідеологію дуже популярною, що зробило країну схильною до симпатій до інших гармоністів."
   #generic_democratic_reformer:0 "Pro-Harmony Politician"
   #generic_fascist_demagogue:0 "Pro-Supremacy Politician"
-  democratic_opposition_voicing_protests:0 "Harmonist Opposition Voicing Protests"
+  democratic_opposition_voicing_protests: "Протести гармонійної опозиції"
   democratic_revolutionaries: "Революціонери-гармоністи"
-  democratic_revolutionaries_desc:0 "If support for Harmony rises above 70%, the nation will be plunged into civil war. If support for Harmony drops below 30%, revolutionary activity will stop."
+  democratic_revolutionaries_desc: "Якщо підтримка гармонії зросте понад 70%, у країні почнеться громадянська війна. Якщо підтримка гармонії впаде нижче 30%, революційна активність зупиниться."
   the_long_lance: "«Довгий спис»"
   the_long_lance_desc:0 "The Long Lance is a torpedo specially designed by Jezeragrad Armaments, which has twice the range of its foreign counterparts. This greatly increases its efficiency." # (!)
   undisturbed_isolation_desc:0 "This nation has been politically disconnected from the greater world for a long time, favoring a policy of isolationism and retreat when threatened. Its industries are in most cases working at half capacity, and will keep doing so unless major events rouse the nation from torpor. Unlike a detached country, however, this country has continued to modernize and advance in its solitude." # (!)
@@ -484,9 +484,9 @@
   recruit_in_state_to_pool_tt: "Місцевий агент із даною культурою стане доступний для вербування, якщо в нас є відкрита §Yкомірка для агента§!. Цього агента буде важче помітити при проникненні та виконанні завдань у державах із цією культурою."
 
  #military_industrial_organization_l
-  mio_cat_eq_all_light_tank:0 "All Light and Light Amphibious Tank Equipment"
-  mio_cat_eq_all_medium_tank:0 "All Medium and MBT Tank Equipment"
-  mio_cat_eq_all_heavy_tank:0 "All Heavy Tank and Super Heavy Tank Equipment"
+  mio_cat_eq_all_light_tank: "Усі легкі танки й танки-амфібії"
+  mio_cat_eq_all_medium_tank: "Усі середні й основні бойові танки"
+  mio_cat_eq_all_heavy_tank: "Усі важкі та надважкі танки"
 
  #modifiers_l
   democratic_drift: "Щоденна підтримка гармонії"
@@ -505,7 +505,7 @@
   MODIFIER_EQUIPMENT_CAPTURE: "Приріст співвідношення захоплення оснащення"
   MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR: "£prod_eff Зростання ефективності виробництва"
   MODIFIER_ARMY_SPEED_FACTOR: "Швидкість дивізій"
-  dense_rural_infrastructure_desc:0 "The infrastructure networks in this area are already highly saturated by a dense local population.\n\nCan be removed by reaching max §H Infrastructure§! in this state, or by having a §H State Category§! of §HSparse Urban Region§! or higher." # (!)
+  dense_rural_infrastructure_desc: "Мережі інфраструктури в цій області вже й так дуже насичені щільністю місцевого населення.\n\nЦе можна прибрати, досягши максимального рівня §Hінфраструктури§! в цій області або перевівши область у категорію §H$large_town$§! або вище." # (&+)
   party_popularity_stability_factor_tt: " $MODIFIER_STABILITY_POPULARITY_FACTOR$: $RIGHT|+=%1$"
   war_stability_factor_tt: " $MODIFIER_STABILITY_WAR_FACTOR$: $RIGHT|+=%1$"
   offensive_war_stability_factor_tt:  " $MODIFIER_STABILITY_OFFENSIVE_WAR_FACTOR$: $RIGHT|+=%1$"
@@ -633,9 +633,9 @@
   synth_resources: "Синтетичні ресурси"
   modern_sonar: "Напівсучасний сонар"
   ship_sonar_3: "Поліпшений сонар"
-  ship_sonar_3_desc:0 "An advanced, high-intensity active noise emitter able to detect submerged submarine hulls from very long distances."
+  ship_sonar_3_desc:0 "An advanced, high-intensity active noise emitter able to detect submerged submarine hulls from very long distances." # (!)
   ship_sonar_4: "Удосконалений сонар"
-  ship_sonar_4_desc:0 "Towing a sensor behind the ship allows for sonar from multiple emitters to triangulate ship location."
+  ship_sonar_4_desc:0 "Towing a sensor behind the ship allows for sonar from multiple emitters to triangulate ship location." # (!)
 
  #resistance_and_occupation_l
   COUNTRY_OCCUPATION_TITLE: "Окупація"
@@ -671,7 +671,7 @@
   tactic_grand_banzai_charge:0 "Grand Berserker Charge" # (!)
 
  #theater_l
-  THEATRE_PRIORITY_DESC:0 "Theater priority decides which one will first get replacement resources and ponypower shipped." # (!)
+  THEATRE_PRIORITY_DESC: "Пріоритет театру визначає, котрий із них першим отримуватиме припаси та поні-ресурси на поповнення."
 
  #traits_l
   democratic_reformer: "Гармонійний реформатор"
@@ -767,8 +767,8 @@
   modern_tank_destroyer_brigade_desc: "Шасі основного бойового танка, оснащене ще більшою гарматою замість башти."
   modern_armor: "Основний бойовий танк"
   modern_armor_desc:0 "Main Battle Tanks have evolved to deal with most battlefield situations. Powerful guns and sloped armor have eliminated the need for specialized tanks." # (!)
-  bicycle_battalion: "Велосипедна піхота"
-  marines_recon_desc:0 "Nothing prepares a creature for war, but our combat instructors assure us they can come close enough that only the most hardened recruits make it to where it counts."
+  bicycle_battalion: "Велосипедна піхота" # vnl.
+  marines_recon_desc: "Ніщо не готує істоту до війни, але наші бойові інструктори запевняють, що вони можуть підійти настільки близько, що лише найзагартованіші новобранці потрапляють туди, де все вирішується."
 
  #waroverview_l
   CAN_SURRENDER_FACTION_MEMBERS: "Вони зараз вооють разом зі своїм альянсом і здадуться, лише якщо всі основні учасники війни капітулюють.\n§YЛідер§! §YРічкової коаліції§! не капітулює, якщо не здався кожен інший її член.\nДо капітуляції лишилось основних учасників:\n$MEMBER_LIST|Y$"
@@ -846,7 +846,6 @@
   MANAGE_EXILED_GOVERNMENTS: "Уряди у вигнанні"
 
  #from loc file lar_operations
-  caustic_personality: "Уїдливий характер"
   capture_cyphers_bribe_desc:1 "У нас є свій агент «усередині». Ми дамо йому достатньо грошей, щоби той викрав книгу шифрів і передав її нашому агенту."
   capture_cyphers_seduction_desc:0 "Наш агент вступить у контакт із тим, хто має доступ до шифру, і скористається своєю чарівністю — або іншими засобами, — щоб отримати копію."
   operation_infiltrate_armed_forces_navy_desc:0 "Впровадитися в спаяні колективи моряків на [From.GetAdjective]их кораблях буде важко, а ось берегові служби — інша справа. Влаштувавши туди свого агента, ми зможемо вивідати цінну інформацію, а також отримаємо можливість підтримувати потім більш складно.§!"
