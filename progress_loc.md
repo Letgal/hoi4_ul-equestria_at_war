@@ -222,13 +222,13 @@
 
 ## Сабмоди
 + [ ] `country_EQS` (*Diarchy Expanded*)
-+ [ ] `eaw_super_event_custom`
++ [x] `eaw_super_event_custom`<!--  (допереклав @+++) -->
 + [ ] ~~`eaw_super_event_settings`~~
 + [ ] `eawse`
 + [x] `eawse_east_vs_west`
 + [x] `eawse_equus`
 + [x] `eawse_griffonia`
 + [x] `eawse_herzland`
-+ [ ] `eawse_memes`
++ [x] `eawse_memes`<!--  (допереклав @+++) -->
 + [x] `eawse_riverlands`
 + [x] `eawse_zebrica`
