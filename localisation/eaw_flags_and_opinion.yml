@@ -264,6 +264,11 @@
  controlls_any_foreign_core_tt: "Будь-яка підконтрольна область не є осердною землею держави §Y[Root.GetName]§!\n"
  controlls_all_cores_original_subject_tt: "Усі початкові осердні землі підконтрольні державі §Y[Root.GetName]§! або одному з її суб'єктів\n"
  owns_and_controlls_all_cores_original_tt: "Усі початкові осердні землі належать і підконтрольні державі §Y[Root.GetName]§!.\n"
+ all_original_cores_owned_and_controlled_ROOT_or_ally_tt:0 "Усі початкові осердні землі належать і підконтрольні державі §Y[ROOT.GetName]§! або її §Yсоюзникам§!.\n"
+ any_original_cores_controlled_by_ROOT_tt:0 "Будь-яка початкова осердна область підконтрольна державі §Y[Root.GetName]§!.\n"
+ any_original_cores_controlled_by_ROOT_or_ally_tt:0 "Будь-яка початкова осердна область підконтрольна державі §Y[Root.GetName]§! або її §Yсоюзникам§!.\n"
+ any_original_cores_owned_and_controlled_by_ROOT_tt:0 "Будь-яка початкова осердна область належить і підконтрольна державі §Y[Root.GetName]§!.\n"
+ any_original_cores_owned_and_controlled_by_ROOT_or_ally_tt:0 "Будь-яка початкова осердна область належить і підконтрольна державі §Y[Root.GetName]§! або її §Yсоюзникам§!.\n"
  root_and_allies: "[ROOT.GetNameDef]§! або §Yсоюзники" # Colouring is a workaround, correct as is
  root_and_subjects: "[ROOT.GetNameDef]§! або §Yпідлеглі держави" # Colouring is a workaround, correct as is
 

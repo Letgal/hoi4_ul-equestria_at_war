@@ -150,7 +150,7 @@
 + [x] `country_JFT`
 + [x] `country_JRR`
 + [ ] `country_JUN` (переклав *Green Kitten*) — `(&+)`
-+ [x] `country_KAR`
++ [ ] `country_KAR`
 + [x] `country_KAT` (переклав *StasJesus*) — `(&)`
 + [x] `country_KIR_PSOL_alerts`
 + [x] `country_LAK` (переклав *Bovcun*)

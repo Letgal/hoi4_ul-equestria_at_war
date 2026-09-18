@@ -81,9 +81,9 @@ INFUNSTRUCTURE: "Початкова інфраструктура"
 GREAT_WAR_AI_BUFFS: "£eaw_text£ Бонуси для ШІ під час Великої війни"
  RULE_OPTION_BUFFS_REMOVED_DESC: "ШІ Еквестрії не отримує жодні бонуси, воюючи проти Земель Чейнджлінґів.\n\nПеребіг £eaw_text£ §YEquestria at War§! за замовчуванням. Рекомендовано."
  RULE_OPTION_BUFFS_ADDED: "Бонуси для ШІ Еквестрії"
- RULE_OPTION_DEFAULT_BUFFS_DESC: "Еквестрія отримає різні бонуси під час війни проти Земель Чейнджлінґів, якщо та перебуває під керівництвом ШІ."
+ RULE_OPTION_DEFAULT_BUFFS_DESC: "Еквестрія отримає різні бонуси під час війни проти Земель Чейнджлінґів, якщо та перебуває під керівництвом ШІ.\n\n§YDetailed explanation§!: Equestria will begin the game without her economy and conscription laws locked. Equestria will gain one-time surges of ponypower, political power, and a core attack & core defense bonus after reaching 12% capitulation, and another time at either 25% capitulation, or 50% capitulation if the Changelings control the "Amethyst Basin" state." # (!)
  RULE_OPTION_CHN_BUFFS_ADDED: "Бонуси для ШІ Земель Чейнджлінґів"
- RULE_OPTION_DEFAULT_CHN_BUFFS_DESC: "Землі Чейнджлінґів отримають різні бонуси під час війни проти Еквестрії, якщо ті перебувають під керівництвом ШІ."
+ RULE_OPTION_DEFAULT_CHN_BUFFS_DESC: "Землі Чейнджлінґів отримають різні бонуси під час війни проти Еквестрії, якщо ті перебувають під керівництвом ШІ..\n\n§YDetailed explanation§!: Vaspier will be hired for free. The Changelings will begin the game with Extensive Conscription and War Economy. They will also begin the game with higher war support, increased starting political power, and they will be granted 100% research bonuses for several tank and plane technologies. The "Plan 'Alicorn Sunset'" and "Plan 'Steel Chitin'" national spirits have their effects strengthened. Several focuses that grant equipment, such as tanks and airplanes, will grant more of that equipment." # (!)
 
 DAY_NIGHT_OVERRIDE:0 "£eaw_text£ Day and Night Override" # (!)
  RULE_OPTION_DN_ENABLED:0 "Enabled"

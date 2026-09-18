@@ -1012,6 +1012,7 @@ BRF_core_salmarkt_desc:0 "До громадянської війни ми бул
 
 RICE_FIELDS_FAMINE:0 "Це §Gзменшить§! ризик §Rголоду!§!\n"
 RICE_FIELDS_FAMINE2:0 "Зменшить негативні ефекти тривалого §Rголоду.§!"
+BRF_kivessin_prov_for_forts_check_tp:0 "Нам треба контролювати три провінції навколо Ківессину"
 ADD_2_BUNKER_AROUND_KIVESSIN:0 "Додає три бункери 1-го рівня навколо Ківессина.\n"
 ADD_BUNKER_IN_KIVESSIN:0 "Дасть бункер 2-го рівня в Ківессині.\n"
 UNLOCK_PROJECT_HORIZONS:0 "Розблокує рішення §RОперація: Горизонти§!.\n"
