@@ -1487,7 +1487,7 @@ TAL_gain_stabilitygood101: "Суперники ЛНВ §Rзбільшаться 
 TAL_lose_stabilitygood101: "Прихильники ЛНВ §Yзменшаться на 10%§!.\n"
 TAL_gain_stabilitygood102: "Суперники ЛНВ §Rзбільшаться на 5%§!.\n"
 TAL_lose_stabilitygood102: "Прихильники ЛНВ §Yзменшаться на 5%§!.\n"
-TAL_gain_stabilitygood25: "Прихильники ЛНВ §Ззбільшаться на 25%§!.\n"
+TAL_gain_stabilitygood25: "Прихильники ЛНВ §Gзбільшаться на 25%§!.\n"
 TAL_lose_stabilitygood25: "Суперники ЛНВ §Yзменшаться на 25%§!.\n"
 
 decision_support_good_tal: "Вам потрібно §Y65% підтримки ЛНВ§!"

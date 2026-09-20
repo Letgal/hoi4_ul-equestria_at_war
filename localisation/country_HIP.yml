@@ -6402,7 +6402,7 @@
  HIP_SIR_base_resistance_decisions_tt:0 "§YТепер вам доступні рішення з пом'якшення дій спротиву.§!"
  HIP_SIR_resistance_unity_down_tt:0 "Єдність спротиву §Gзнизиться§!."
  HIP_SIR_resistance_unity_up_tt:0 "Єдність спротиву §Rзбільшиться§!."
- HIP_SIR_lightning_power_down_tt:0 "Сила фракції §YАПВ§! §Gзбільшиться§§!."
+ HIP_SIR_lightning_power_down_tt:0 "Сила фракції §YАПВ§! §Gзбільшиться§!."
  HIP_SIR_posada_power_down_tt:0 "Сила фракції §Rкомуністів§! §Gзнизиться§!."
  HIP_SIR_skystar_power_down_tt:0 "Сила фракції §Cгармонистов§! §Gзнизиться§!."
  HIP_SIR_resistance_unity_none_tt:0 "Єдність спротиву §Gмінімальний§!."

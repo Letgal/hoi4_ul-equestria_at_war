@@ -30,7 +30,7 @@
 #### FLAGS ####
  SIC_harmonic_victory: "§CПомірковані§! виграли на виборах."
  SIC_communist_victory: "§RРадикали§! виграли на виборах."
- SIC_fascist_victory: "Вибори були §сфальсифіковані§!."
+ SIC_fascist_victory: "Вибори були §gсфальсифіковані§!."
  SIC_slavery_banned: "Рабство §Rзаборонене§!."
  SIC_midoria_plan_flag: "План Мідорії був обраний."
  SIC_leve_plan_flag: "План Леве був обраний."
