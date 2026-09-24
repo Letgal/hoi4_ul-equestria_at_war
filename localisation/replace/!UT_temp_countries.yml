@@ -520,7 +520,7 @@
  ### ПЕРСОНАЖІ ###
   CVA_zenarvo_ozid: "Зенарво Озід"
   CVA_zeshmunazash_zeirutid: "Зешмуназаш Зейрутід"
-  CVA_zarishat_zeirutid: "Zarishat Зейрутід"
+  CVA_zarishat_zeirutid: "Зарішат Зейрутід"
   CVA_zalibi_zhandos: "Залібі Згандос"
   CVA_dolma_lurung: "Долма Лурунґ"
   CVA_caw_prestes_wingos: "Ко Престес Вінґос"
@@ -1531,7 +1531,7 @@
  GYZ_fascism_party: "Кліка Віндборна"
  GYZ_neutrality_party: "Кліка Віндборна"
  GYZ_democratic_party: "Племінні комітети"
- GYZ_communism_party: "Ковалі єті"
+ GYZ_communism_party: "Ковалі-єті"
 
 # country_HAY
  HAY_queen_bamina: "Королева Баміна"
@@ -2210,8 +2210,8 @@
   KIS_confederal_union: "Конфедеративний союз"
   KIS_confederal_union_DEF: "Конфедеративний союз Північної Кірії"
   KIS_confederal_union_ADJ: "Північнокірійськ"
-  KIS_salvation_front: "Фронт національного визволення"
-  KIS_salvation_front_DEF: "Кірійський національний фронт визволення Батьківщини"
+  KIS_salvation_front: "Фронт національного порятунку"
+  KIS_salvation_front_DEF: "Кірійський національний фронт порятунку Батьківщини"
   KIS_salvation_front_ADJ: "Кірійськ"
 
   NVA_KIR: "Домініон Лотоса"
@@ -2544,19 +2544,19 @@
   KIR_rising_sun: "Райзинґ Сан"
 
   # Радники
-  KIR_pol_1: "$KIR_autumn_blaze$"
+  KIR_pol_1: "$KIR_autumn_blaze$" # fem.
   KIR_pol_1_sick_tt: "$KIR_autumn_blaze$ захворіла"
   KIR_pol_2: "$KIR_fickle_current$"
-  KIR_pol_3: "$KIR_winter_frost$"
-  KIR_pol_4: "$KIR_rising_sun$"
+  KIR_pol_3: "$KIR_winter_frost$" # fem.
+  KIR_pol_4: "$KIR_rising_sun$" # fem.
   KIR_cypress_snow: "Сайпрес Сноу"
-  KIR_pol_6: "Роаринґ Файр"
+  KIR_pol_6: "Роаринґ Файр" # fem.
   KIR_ember_wane: "Ембер Уейн"
   KIR_zenith_bloom: "Зініт Блум" # fem.
   KIR_ardent_bloom: "Ардент Блум"
   KIR_mayflower_bloom: "Мейфлауер Брум" # fem.
   KIR_mayflower_bloom_young: "$KIR_mayflower_bloom$"
-  KIR_dayspring_rose: "Дейспринґ Роуз"
+  KIR_dayspring_rose: "Дейспринґ Роуз" # fem.
   KIR_kindling_flash: "Кіндлинґ Флеш"
   KIS_pol_1: "Симпл Сервей"
   KIS_pol_2: "Черрі Блоссом"
@@ -2638,12 +2638,12 @@
   KIR_GGO_PROG_5: "\nПоступ 3½-річного плану: §G+5%§!."
 
  ### МІТКИ ###
-  KIR_pol_1_available: "Розблоковано Отем Блейз"
-  KIR_pol_2_available: "Розблоковано Фікл Каррента"
-  KIR_pol_3_available: "Розблоковано Вінтер Фрост"
-  KIR_pol_4_available: "Розблоковано Райзинґ Сан"
-  KIR_pol_5_available: "Розблоковано Сайпреса Сноу"
-  KIR_pol_6_available: "Розблоковано Роаринґ Файр"
+  KIR_pol_1_available: "Відімкнено Отем Блейз"
+  KIR_pol_2_available: "Відімкнено Фікл Каррента"
+  KIR_pol_3_available: "Відімкнено Вінтер Фрост"
+  KIR_pol_4_available: "Відімкнено Райзинґ Сан"
+  KIR_pol_5_available: "Відімкнено Сайпреса Сноу"
+  KIR_pol_6_available: "Відімкнено Роаринґ Файр"
   KIR_ardent_bloom_available: "Відімкнено Ардент Блум"
   KIR_mayflower_bloom_young_available: "Відімкнено Мейфлауер Брум"
   KIR_fern_flare_designer_available: "Відімкнено Ферн Флейр"
@@ -2737,12 +2737,12 @@
  KIR_milset_iroko: "Іроко"
  KIR_milset_redcedar: "Баньян"
 
- KIR_TRAD_FRAGRANCE: "Благозвучність"
+ KIR_TRAD_FRAGRANCE: "Благозвучність" # напевно підглянуто в РЛ
  KIR_TRAD_CHRYSANTHEMUM: "Конкорд"
 
  CFR_17707: "Новий Чунчі" # столиця
  CFR_17844: "Гелвіаполіс" # інак. Гелвіяполіс
- CFR_17873: "Аурантій"
+ CFR_17873: "Аурантіум"
  CFR_17799: "Арґінніссія"
  CFR_17864: "Яріана" # інак. Яріяна
  CFR_17869: "Коконополіс"
@@ -3990,7 +3990,7 @@
 
  SON_zonni_zolon: "Зонні Золон"
  SON_regency_council: "Регентська рада"
- SON_angry_mob: "$BAR_angry_mob$"
+ SON_angry_mob: "Розгніваний натовп"
  SON_ture_sylla: "Туре Сілла"
  SON_azkhai_zughe: "Азхай Зуґе"
  SON_nyaberi_zargey: "Ньябері Зарґей"
@@ -4006,7 +4006,7 @@
  STM_neutrality_party: "Кліка Гейлсторма"
  STM_neutrality_party_long: "Кліка Гейлсторма"
  STM_democratic_party: "Племінні комітети"
- STM_communism_party: "Ковалі єті"
+ STM_communism_party: "Ковалі-єті"
 
 # country_STW
  STW_ambitious_ruler: "Амбіційний правитель"
@@ -4174,7 +4174,7 @@
  THU_fascism_party: "Кліка Тандербринґера"
  THU_neutrality_party: "Кліка Тандербринґера"
  THU_democratic_party: "Племінні комітети"
- THU_communism_party: "Ковалі єті"
+ THU_communism_party: "Ковалі-єті"
 
 # country_TRD
  TRD_peoples_republic_neutrality: "Скайфолльська торгова федерація"
