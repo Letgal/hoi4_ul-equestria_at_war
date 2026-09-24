@@ -35,7 +35,7 @@
  atomic_research: "Атомні дослідження"
  #atomic_research_desc:0 "In nuclear fission, splitting the atom yields enormous amounts of energy and limitless destructive capability."
 
- experimental_rockets: "Національна ракетна програма"
+ experimental_rockets: "Державна ракетна програма"
  #experimental_rockets_desc:0 "Rockets are not a new concept, for they have been a staple vehicle for firework displays. For decades, these have been powered by gunpowder and were not considered viable weapons of war due to their wild inaccuracy. However, with recent pioneers in rocketry, such as liquid-fuel engines, there is renewed military interest in rockets as a form of area-of-effect artillery. We should consider allowing further experimentation with the construction of state-controlled rocket launch pads."
  rocket_engines: "Використовувані ракетні двигуни"
  #rocket_engines_desc:0 "Our understanding of rockets has advanced to the point where we can adopt them as basic unguided weapons launched from aircraft or land-based artillery systems. Some more ambitious uses involve powering entire planes with a rocket engine. Though these are very fast, rocket-powered aircraft have limited range, and the unguided "flying bombs" don't carry much explosive charge. However, much more can be done to improve our rocket-based weaponry."
@@ -468,7 +468,7 @@
  antiair4:0 "Інтеграція радарів"
  antiair4_desc:0 "Поєднання більш сучасних систем радарів і автозавантажувачів буде необхідним для швидкого реагування на більш швидкі літаки, такі як реактивні."
 
- antitank1:0 "Прикладний протитанковий досвід"
+ antitank1:0 "Прикладний досвід боротьби з танками"
  antitank2:0 "Крупнокаліберні гармати"
  antitank3:0 "Протитанкові осколково-фугасні снаряди"
  antitank3_desc:0 "Завдяки чудовій пробивній здатності осколково-фугасних протитанкових снарядів, низькошвидкісні гармати тепер можуть вражати ворожу броню, на що вони не могли сподіватися, використовуючи стандартні боєприпаси."
