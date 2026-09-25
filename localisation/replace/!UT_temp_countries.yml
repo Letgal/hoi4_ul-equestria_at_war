@@ -7,6 +7,9 @@
 # country_ALO
  ALO_king_euzegoar: "Король Евзеґор"
 
+ ALO_remnant: "Розбите королівство"
+ ALO_desert_tribes: "Союзні пустельні племена"
+
 # country_BLT
  BLT_king_boltrus: "Король Болтрус"
 
@@ -155,6 +158,34 @@
  Generic_chisimbi_cosmetic_tag_placeholder_fascism: "Імперське Чісімбі"
  Generic_chisimbi_cosmetic_tag_placeholder_fascism_DEF: "Чісімбійська імперія"
  Generic_chisimbi_cosmetic_tag_placeholder_fascism_ADJ: "Чісімбійськ"
+
+ chisimbi_unification_decisions: "Чісімбійські об'єднавчі війни"
+ chisimbi_consolidate_south: "Консолідувати південне Чісімбі"
+ chisimbi_consolidate_north: "Консолідувати північне Чісімбі"
+ chisimbi_start_central_conflict: "Перетнути розрив"
+ chisimbi_zeblu_attack_center: "Випустити орду"
+ chisimbi_twizanyika_attack_center: "Захопити Твізаньїку"
+ chisimbi_twizanyika_backstab_center: "Напасти на середнє Чісімбі"
+
+ unite_chisimbi_category: "Об'єднання Чісімбі"
+ unite_chisimbi_decision: "Закінчити об'єднавчі війни"
+
+ chisimbi_expansion_category: "Чісімбійське розширення"
+ chisimbi_expand_zongolese: "Вторгнутись у джунглі Зонґо"
+ chisimbi_consolidate_zongo: "Консолідувати зонґолезькі племена"
+ chisimbi_expand_far_south: "Розширитися на крайній південь"
+ chisimbi_consolidate_far_south: "Інтегрувати зебр далекого півдня"
+ chisimbi_consolidate_the_isles: "Інтегрувати острови"
+ chisimbi_expand_zakiria: "Убезпечити наш південний фланг"
+ chisimbi_expand_kiria: "Вторгнутись у Кірію"
+
+ ### МІТКИ ###
+ chisimbi_central_conflict_started: "Середнє Чісімбі перебуває у війні"
+ chisimbi_internal_consolidated: "Наші нові землі консолідовано"
+ chisimbi_has_united: "Чісімбі було об'єднано"
+ chisimbi_zeblu_attacked: "Зеблу напали на середнє Чісімбі"
+
+ chisimbi_attaking_someone_flag: "Ми готуємо напад"
 
 # country_CME
  CME_reunited_fascism: "Кемелкандська держава"
@@ -3402,6 +3433,10 @@
 # country_MAZ
  MAZ_manza_mahud: "Манза Махуд"
 
+ MAZ_destroyed_army: "Знищена армія"
+ MAZ_gold_mines: "Золоті шахти Бакуре"
+ MAZ_gold_mines_depleted: "Золоті шахти вичерпані"
+
 # country_MER
  MER_genevieve_voliere: "Женев'єва Вольєр"
 
@@ -3415,6 +3450,14 @@
   MQA_aziz_rakoto: "Азіз Ракото"
   MQA_beyza_fasika: "Бейза Фасіка"
   MQA_derya_orana: "Дер'я Орана"
+
+# country_MSH
+ MSH_prophets_call: "Слово Пророка"
+ MSH_prophets_warriors: "Меч Пророка"
+
+# country_MSS
+ MSS_free_tribes: "Вільні племена"
+ MSS_divided_tribes: "Розділені королівства"
 
 # country_NCH
  ### УРЯД ###
@@ -4144,6 +4187,9 @@
 # country_TIM
  TIM_agil_agamal: "Аґіл Аґамал"
 
+ TIM_city_of_scholars: "Місто вчених"
+ TIM_trade_nexus: "Сполучна ланка Трансзебриканської торгівлі"
+
 # country_TBK
  BAT_republic: "Нова Місячна Республіка"
  BAT_republic_DEF: "Нова Місячна Республіка"
@@ -4184,6 +4230,25 @@
  CTH_neo_hazrumenia_puppet: "Покровительство Кольтфаген"
  CTH_neo_hazrumenia_puppet_DEF: "Покровительство Кольтфаген"
  CTH_neo_hazrumenia_puppet_ADJ: "Кольтфагенськ"
+
+ ### ПАРТІЇ ###
+  TBK_neutrality_party: "ТНА"
+  TBK_neutrality_party_long: "Тобуцький національний альянс"
+  TBK_communism_party: "ААТ"
+  TBK_communism_party_long: "Анмагал Анмалу Тобуку" # (?)
+  TBK_democratic_party: "ГФ"
+  TBK_democratic_party_long: "Гармонійний фронт"
+  TBK_fascism_party: "Вплив воєначальників"
+  TBK_fascism_party_long: "Вплив воєначальників"
+
+  TBK_TCP_PARTY: "ТЦП"
+  TBK_TCP_PARTY_LONG: "Традиційно-центристська партія" # підглянуто в РЛ
+
+  TBK_vasile_supremacy_PARTY: "Кліка Васіле"
+  TBK_vasile_supremacy_PARTY_LONG: "Кліка Васіле"
+
+  TBK_BAT_TMP_PARTY: "ТЛП"
+  TBK_BAT_TMP_PARTY_LONG: "Традиційно-лунаристська партія" # підглянуто в РЛ
 
  ### ПЕРСОНАЖІ ###
   TBK_pea_shooter: "Пі Шутер"
@@ -4910,6 +4975,16 @@
  YAN_dirk_loterijen: "Дірк Лотерейен"
 
 # country_ZAR
+ ### ПАРТІЇ ###
+  ZAR_neutrality_party: "Вплив Атаганів"
+  ZAR_neutrality_party_long: "Вплив Атаганів"
+  ZAR_communism_party: "ААЗ"
+  ZAR_communism_party_long: "Анмагал Анмалу Зарантії" # (?)
+  ZAR_democratic_party: "ТА"
+  ZAR_democratic_party_long: "Татраніт Акавар" # (?)
+  ZAR_fascism_party: "Вплив Амсармудів"
+  ZAR_fascism_party_long: "Вплив Амсармудів"
+
  ### ПЕРСОНАЖІ ###
   ZAR_mekiouzza_ataghan: "Мекіузза Атаган"
   ZAR_wiwurgh: "Вівург Тасавент"
