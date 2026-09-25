@@ -16,11 +16,11 @@
  EQS_SOL_AI_BEHAVIOR: "£GFX_EQS_SOL_flag_texticon£ Сонячна Імперія"
   RULE_OPTION_SOLAR_EMPIRE_DEFAULT_AI_DESC: "$RULE_OPTION_DEFAULT_AI_DESC$\n\n$EQS_SOL_AI_BEHAVIOR_NOTE$"
   RULE_OPTION_SOLAR_EMPIRE_PROTECTOR: "Імператриця-Захисниця"
-  RULE_SOLAR_EMPIRE_PROTECTOR_EQS_AI_DESC:0 "If Celestia ascends into Daybreaker, she will declare herself Empress Protector of all ponykind, and attempt to destroy any and all threats to her little ponies.\n\n$EQS_SOL_AI_BEHAVIOR_NOTE$"
+  RULE_SOLAR_EMPIRE_PROTECTOR_EQS_AI_DESC: "Якщо Селестія перетвориться на Дейбрейкер, вона проголосить себе імператрицею-захисницею всього роду поні та намагатиметься знищити всі загрози її маленьким поні.\n\n$EQS_SOL_AI_BEHAVIOR_NOTE$"
   RULE_OPTION_SOLAR_EMPIRE_MOTHER: "Імператриця-Мати"
-  RULE_SOLAR_EMPIRE_MOTHER_EQS_AI_DESC:0 "If Celestia ascends into Daybreaker, she will declare herself Empress Mother of her new Solar Empire. All will listen and obey, for only she knows what is best for her wayward subjects.\n\n$EQS_SOL_AI_BEHAVIOR_NOTE$"
+  RULE_SOLAR_EMPIRE_MOTHER_EQS_AI_DESC: "Якщо Селестія перетвориться на Дейбрейкер, вона проголосить себе імператрицею-матір'ю своєї нової Сонячної Імперії. Усі послухаються її та підкоряться, адже тільки вона знає, що ліпше для її заблудлих підданих.\n\n$EQS_SOL_AI_BEHAVIOR_NOTE$"
   RULE_OPTION_SOLAR_EMPIRE_GODDESS: "Імператриця-Богиня"
-  RULE_SOLAR_EMPIRE_GODDESS_EQS_AI_DESC:0 "If Celestia ascends into Daybreaker, she will declare herself God-Empress of all ponykind, demanding worship from her subjects and purging those who deny her divinity.\n\n$EQS_SOL_AI_BEHAVIOR_NOTE$"
+  RULE_SOLAR_EMPIRE_GODDESS_EQS_AI_DESC: "Якщо Селестія перетвориться на Дейбрейкер, вона проголосить себе імператрицею-богинею всього роду поні, вимагаючи своїх підданих шанувати її та знищуючи тих, хто заперечує її божественність.\n\n$EQS_SOL_AI_BEHAVIOR_NOTE$"
   RULE_OPTION_SOLAR_EMPIRE_RANDOM_AI_DESC: "$RULE_OPTION_RANDOM_AI_DESC$\n\n$EQS_SOL_AI_BEHAVIOR_NOTE$"
   EQS_SOL_AI_BEHAVIOR_NOTE: "§YПримітка:§! Сонячна Імперія не є видима держава на початку гри. Це є шлях для Еквестрії та не виникне за замовчуванням.\n\nВибір варіанту з цього правила гри вплине на поведінку Сонячної Імперії, якщо вони виникне, але це станеться, якщо не вибрати правило «Сонячна Імперія» або «Війна двох сестер» для Еквестрії, або станеться випадковим чином, якщо вимкнено історичні фокуси ШІ." # (&+)
 
@@ -82,21 +82,21 @@
 
  YAK_AI_BEHAVIOR: "@YAK Як'якистан"
   RULE_OPTION_YAK_HISTORICAL: "Гармонія: принц Резерфорд"
-  RULE_OPTION_YAK_HISTORICAL_AI_DESC:0 "Prince Rutherford will retain the throne, keeping Yakyakistan a harmonist, exceptionalist monarchy.\n(Historical path)"
+  RULE_OPTION_YAK_HISTORICAL_AI_DESC: "Принц Резерфорд утримає престол, зберігши Як'якистан гармонійною монархією.\n§g(Історичний шлях)§!"
   RULE_OPTION_YAK_DEMOCRATIC_ALTERNATE: "Гармонія: президент Йона"
-  RULE_OPTION_YAK_DEMOCRATIC_ALTERNATE_AI_DESC:0 "Rutherford will be forced to abdicate, and a republic will be formed. Yona will be elected president and establish a harmonist federation."
+  RULE_OPTION_YAK_DEMOCRATIC_ALTERNATE_AI_DESC: "Резерфорд буде змушений зректися престолу й буде утворено республіку. Йону буде вибрано президенткою й вона заснує гармонійну федерацію."
   RULE_OPTION_YAK_COMMUNIST: "Комунізм: президент Тіра"
-  RULE_OPTION_YAK_COMMUNIST_AI_DESC:0 "Rutherford will be forced to abdicate, and a republic will be formed. Thyra will be elected president and set up council democracy."
+  RULE_OPTION_YAK_COMMUNIST_AI_DESC: "Резерфорд буде змушений зректися престолу й буде утворено республіку. Тіру буде вибрано президенткою й вона встановить демократію рад."
   RULE_OPTION_YAK_COMMUNIST_ALTERNATE: "Комунізм: великий маршал Інґвар"
-  RULE_OPTION_YAK_COMMUNIST_ALTERNATE_AI_DESC:0 "Rutherford will be forced to abdicate, and a military junta will be formed. Yngvar will prepare for war with the changelings."
+  RULE_OPTION_YAK_COMMUNIST_ALTERNATE_AI_DESC: "Резерфорд буде змушений зректися престолу й буде утворено військову хунту. Інґвар буде готуватися до війни проти чейнджлінґів."
 
  JAK_AI_BEHAVIOR: "@JAK Йаки-клан"
   RULE_OPTION_JAK_HISTORICAL: "Нейтралітет: принц Бредфорд"
-  RULE_OPTION_JAK_HISTORICAL_AI_DESC:0 "Prince Bradford will retain the throne, turning Yakyakistan to an isolationist confederation of clans.\n(Historical path)"
+  RULE_OPTION_JAK_HISTORICAL_AI_DESC: "Принц Бредфорд утримає престол, обернувши Як'якистан в ізоляціоністську конфедерацію кланів.\n§g(Історичний шлях)§!"
   RULE_OPTION_JAK_FASCIST: "Зверхність: хан Керр"
-  RULE_OPTION_JAK_FASCIST_AI_DESC:0 "Bradford will be forced to abdicate, and the Khanate of old will rise again. Kerr will conquer much of the North and then seek to join the Changeling Hegemony."
+  RULE_OPTION_JAK_FASCIST_AI_DESC: "Бредфорд буде змушений зректися престолу й ханство давнини постане знову. Керр завоює більшу частину півночі й тому намагатиметься приєднатися до Гегемонії Чейнджлінґів."
   RULE_OPTION_JAK_FASCIST_ALTERNATE: "Гармонія...?: сходження клану Хорійхат"
-  RULE_OPTION_JAK_FASCIST_ALTERNATE_AI_DESC:0 "Somehow, the Jaki-Clan will fall under the control of the Khoriikhat clan, heirs of the legendary Prince Ulysses. The ancient Khaganate will be reborn under his reincarnation."
+  RULE_OPTION_JAK_FASCIST_ALTERNATE_AI_DESC: "Якимось чином Йаки-клан паде під владу клану Хорійхат, спадкоємців легендарного принца Улісса. Стародавній каганат відродиться під владою його перевтілення."
 
  PLB_AI_BEHAVIOR: "@PLB Спільноти Полярних Ведмедів"
   RULE_OPTION_PLB_HISTORICAL: "Нейтралітет: Конфедерація"
@@ -141,11 +141,11 @@
 ### ГРИФОНІЯ ###
  GRI_AI_BEHAVIOR: "@GRI Імперія Грифонів"
   RULE_OPTION_ARCHON: "Зверхність: архонат"
-  RULE_OPTION_ARCHON_GRI_AI_DESC:0 "The Archons will lead the Empire, in a new age of glory and conquest.\n§g(Історичний шлях)§!"
+  RULE_OPTION_ARCHON_GRI_AI_DESC: "Архонти очолять Імперію і поведуть її в нову добу слави й повстання.\n§g(Історичний шлях)§!" # (&+)
   RULE_OPTION_NOBLES: "Нейтралітет: дворяни"
-  RULE_OPTION_NOBLES_GRI_AI_DESC:0 "The Nobles under Duchess Eagleclaw will lead the Regency, with stability and tradition being the unbroken norm."
+  RULE_OPTION_NOBLES_GRI_AI_DESC: "Дворяни, очолювані герцогинею Іґлкло, очолять регентство. Стабільність і традиція залишаться непорушеною нормою."
   RULE_OPTION_LORDPROTECTOR: "Зверхність: лорд-протектор"
-  RULE_OPTION_LORDPROTECTOR_GRI_AI_DESC:0 "During the purge of the military, desperate officers will succeed in a daring coup and seize control of the Empire. Chaos and anarchy follows."
+  RULE_OPTION_LORDPROTECTOR_GRI_AI_DESC: "Під час чистки в армії офіцери успішно влаштують відчайдушний переворот і візьмуть владу над Імперією. Далі йдуть хаос і анархія."
 
  FEA_AI_BEHAVIOR: "@FEA Фетізія"
   RULE_OPTION_CIVILWAR: "Громадянська війна"
