@@ -12,6 +12,7 @@
 + [x] `eaw_achievements`
 + [x] `eaw_adjacency_rules`
 + [ ] `eaw_ai_behavior`
++ [x] `eaw_alerts`
 + [x] `eaw_autonomy`
 + [ ] `EAW_battleplan_codenames`
 + [ ] `eaw_bookmarks`
