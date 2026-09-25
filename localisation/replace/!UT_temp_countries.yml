@@ -2688,7 +2688,7 @@
  ### ІНТЕРФЕЙС ЩОДЕННИКА ###
   KIR_diary_SG_trigger_button_tt: "Щоденники персонажів"
   KIR_diary_SG_trigger_button_delayed_tt: "§GКлацніть тут§!, щоби відкрити §Yщоденники персонажів§!."
-  KIR_diary_SG_popup_toggle_text: "Сповіщати про появу нових записів"
+  KIR_diary_SG_popup_toggle_text: "Сповіщати про нові записи"
   KIR_diary_SG_protag_1_button_tt: "Щоденникові записи §YОтем Блейз§!."
   KIR_diary_SG_protag_2_button_tt: "Щоденникові записи §YВінтер Фрост§!."
   KIR_diary_SG_protag_3_button_tt: "Щоденникові записи §YФікл Каррента§!."

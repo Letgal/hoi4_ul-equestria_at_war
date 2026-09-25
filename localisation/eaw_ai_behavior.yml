@@ -16,11 +16,11 @@
  EQS_SOL_AI_BEHAVIOR: "£GFX_EQS_SOL_flag_texticon£ Сонячна Імперія"
   RULE_OPTION_SOLAR_EMPIRE_DEFAULT_AI_DESC: "$RULE_OPTION_DEFAULT_AI_DESC$\n\n$EQS_SOL_AI_BEHAVIOR_NOTE$"
   RULE_OPTION_SOLAR_EMPIRE_PROTECTOR: "Імператриця-Захисниця"
-  RULE_SOLAR_EMPIRE_PROTECTOR_EQS_AI_DESC: "Якщо Селестія перетвориться на Дейбрейкер, вона проголосить себе імператрицею-захисницею всього роду поні та намагатиметься знищити всі загрози її маленьким поні.\n\n$EQS_SOL_AI_BEHAVIOR_NOTE$"
+  RULE_SOLAR_EMPIRE_PROTECTOR_EQS_AI_DESC: "Якщо Селестія перетвориться на Дейбрейкер, вона проголосить себе імператрицею- захисницею всього роду поні та намагатиметься знищити всі загрози її маленьким поні.\n\n$EQS_SOL_AI_BEHAVIOR_NOTE$"
   RULE_OPTION_SOLAR_EMPIRE_MOTHER: "Імператриця-Мати"
   RULE_SOLAR_EMPIRE_MOTHER_EQS_AI_DESC: "Якщо Селестія перетвориться на Дейбрейкер, вона проголосить себе імператрицею-матір'ю своєї нової Сонячної Імперії. Усі послухаються її та підкоряться, адже тільки вона знає, що ліпше для її заблудлих підданих.\n\n$EQS_SOL_AI_BEHAVIOR_NOTE$"
   RULE_OPTION_SOLAR_EMPIRE_GODDESS: "Імператриця-Богиня"
-  RULE_SOLAR_EMPIRE_GODDESS_EQS_AI_DESC: "Якщо Селестія перетвориться на Дейбрейкер, вона проголосить себе імператрицею-богинею всього роду поні, вимагаючи своїх підданих шанувати її та знищуючи тих, хто заперечує її божественність.\n\n$EQS_SOL_AI_BEHAVIOR_NOTE$"
+  RULE_SOLAR_EMPIRE_GODDESS_EQS_AI_DESC: "Якщо Селестія перетвориться на Дейбрейкер, вона проголосить себе імператрицею- богинею всього роду поні, вимагаючи своїх підданих шанувати її та знищуючи тих, хто заперечує її божественність.\n\n$EQS_SOL_AI_BEHAVIOR_NOTE$"
   RULE_OPTION_SOLAR_EMPIRE_RANDOM_AI_DESC: "$RULE_OPTION_RANDOM_AI_DESC$\n\n$EQS_SOL_AI_BEHAVIOR_NOTE$"
   EQS_SOL_AI_BEHAVIOR_NOTE: "§YПримітка:§! Сонячна Імперія не є видима держава на початку гри. Це є шлях для Еквестрії та не виникне за замовчуванням.\n\nВибір варіанту з цього правила гри вплине на поведінку Сонячної Імперії, якщо вони виникне, але це станеться, якщо не вибрати правило «Сонячна Імперія» або «Війна двох сестер» для Еквестрії, або станеться випадковим чином, якщо вимкнено історичні фокуси ШІ." # (&+)
 
@@ -213,7 +213,7 @@
   RULE_OPTION_ANG_DEMOCRATIC: "Гармонія: контрреволюція"
   RULE_OPTION_ANG_DEMOCRATIC_AI_DESC:0 "Gerhard Bluhm and his anarchist allies will overthrow the despotic Baron, but Marshal Othmar will lead a counter-revolution. Under his regency, Angriver will be reformed into a better place to live in."
 
- STW_AI_BEHAVIOR: "@STW Полуничне Герцогство"
+ STW_AI_BEHAVIOR: "@STW Полуничне герцогство"
   RULE_OPTION_STW_FASCIST: "Зверхність: прелат Оснабіка"
   RULE_OPTION_STW_FASCIST_AI_DESC:0 "If Gabriela becomes the Imperial Regent then Julius Eagleclaw will become the regent of the Strawberry Duchy. Julius will secretly plot against Gabriela."
   RULE_OPTION_STW_COMMUNIST: "Комунізм: Віталіус Мунбілл"
